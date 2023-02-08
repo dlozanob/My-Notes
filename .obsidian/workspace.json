@@ -20,11 +20,15 @@
             }
           },
           {
-            "id": "3e3756f18584f1b4",
+            "id": "5734fff7f2d09660",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "TestNote.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -102,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "TestNote.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,6 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "TestNote.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +145,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "TestNote.md"
+              }
             }
           }
         ]
@@ -159,7 +167,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3e3756f18584f1b4",
+  "active": "5734fff7f2d09660",
   "lastOpenFiles": [
     "Server communication.md",
     "2023-02-08.md",
