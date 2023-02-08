@@ -8,24 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1e30c85b991b5ab4",
+            "id": "d31eb45e861602db",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2023-02-08 18.26.13.excalidraw.md"
+                "file": "Señales y Sistemas I.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
           {
-            "id": "845d14419e6218ff",
+            "id": "6d2e84e9bea970bd",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian basics.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -100,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-02-08 18.26.13.excalidraw.md",
+                "file": "Obsidian basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-02-08 18.26.13.excalidraw.md",
+                "file": "Obsidian basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-02-08 18.26.13.excalidraw.md"
+                "file": "Obsidian basics.md"
               }
             }
           },
@@ -170,17 +177,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1e30c85b991b5ab4",
+  "active": "6d2e84e9bea970bd",
   "lastOpenFiles": [
+    "JS libraries.md",
+    "Señales y Sistemas I.md",
+    "Microcontrollers.md",
+    "HTML.md",
+    "Bootstrap.md",
     "Excalidraw/Drawing 2023-02-08 18.26.13.excalidraw.md",
     "Server communication.md",
     "2023-W06.md",
     "aksfbsdjkj.md",
-    "TestNote.md",
-    "2023-02-08.md",
-    "Untitled.canvas",
-    "Automatización, control y robótica.md",
-    "Ingeniería electrónica.md",
-    "Web development.md"
+    "TestNote.md"
   ]
 }
