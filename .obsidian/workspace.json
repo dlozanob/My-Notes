@@ -20,15 +20,14 @@
             }
           },
           {
-            "id": "5734fff7f2d09660",
+            "id": "845d14419e6218ff",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -41,14 +40,6 @@
         "id": "82ac41b6529192b8",
         "type": "tabs",
         "children": [
-          {
-            "id": "9d93bca41a6a57a5",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
           {
             "id": "abed2df76f33d216",
             "type": "leaf",
@@ -81,8 +72,17 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "9d93bca41a6a57a5",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -150,12 +150,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 249.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,6 +170,7 @@
   "active": "9d93bca41a6a57a5",
   "lastOpenFiles": [
     "Server communication.md",
+    "2023-W06.md",
     "aksfbsdjkj.md",
     "TestNote.md",
     "2023-02-08.md",
@@ -177,7 +178,6 @@
     "Automatización, control y robótica.md",
     "Ingeniería electrónica.md",
     "Web development.md",
-    "HTML.md",
-    "Assembly.md"
+    "HTML.md"
   ]
 }
