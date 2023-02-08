@@ -27,7 +27,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -158,7 +159,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9d93bca41a6a57a5",
+  "active": "5734fff7f2d09660",
   "lastOpenFiles": [
     "Server communication.md",
     "aksfbsdjkj.md",

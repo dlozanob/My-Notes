@@ -4,5 +4,8 @@
   "cssTheme": "80s Neon",
   "baseFontSize": 17,
   "baseFontSizeAction": true,
-  "translucency": true
+  "translucency": true,
+  "enabledCssSnippets": [
+    "wholeTranslucity"
+  ]
 }
