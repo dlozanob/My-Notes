@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Server communication.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -141,6 +141,14 @@
               "type": "outline",
               "state": {}
             }
+          },
+          {
+            "id": "5693abeaa76d99d1",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
         ]
       }
@@ -159,7 +167,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5734fff7f2d09660",
+  "active": "9d93bca41a6a57a5",
   "lastOpenFiles": [
     "Server communication.md",
     "aksfbsdjkj.md",
