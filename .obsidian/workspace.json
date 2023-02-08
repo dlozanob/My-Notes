@@ -27,8 +27,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,6 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Server communication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Server communication.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +140,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Server communication.md"
+              }
             }
           }
         ]
@@ -159,7 +162,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5734fff7f2d09660",
+  "active": "1e30c85b991b5ab4",
   "lastOpenFiles": [
     "aksfbsdjkj.md",
     "TestNote.md",
