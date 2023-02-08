@@ -23,7 +23,7 @@
             "id": "5734fff7f2d09660",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
@@ -101,7 +101,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Server communication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +117,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Server communication.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,9 +138,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Server communication.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -162,11 +158,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1e30c85b991b5ab4",
+  "active": "9d93bca41a6a57a5",
   "lastOpenFiles": [
+    "Server communication.md",
     "aksfbsdjkj.md",
     "TestNote.md",
-    "Server communication.md",
     "2023-02-08.md",
     "Untitled.canvas",
     "Automatización, control y robótica.md",
