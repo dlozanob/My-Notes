@@ -23,12 +23,8 @@
             "id": "5734fff7f2d09660",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TestNote.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -106,7 +102,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TestNote.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +118,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TestNote.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,9 +139,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "TestNote.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -169,6 +161,7 @@
   },
   "active": "5734fff7f2d09660",
   "lastOpenFiles": [
+    "TestNote.md",
     "Server communication.md",
     "2023-02-08.md",
     "Untitled.canvas",
@@ -177,7 +170,6 @@
     "Web development.md",
     "HTML.md",
     "Assembly.md",
-    "Obsidian basics.md",
-    "Javascript.md"
+    "Obsidian basics.md"
   ]
 }
