@@ -6,5 +6,15 @@
       ],
       "key": "Backspace"
     }
+  ],
+  "graph:open-local": [],
+  "obsidian-git:push": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "S"
+    }
   ]
 }
