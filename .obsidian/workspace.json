@@ -8,27 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d31eb45e861602db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Señales y Sistemas I.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "6d2e84e9bea970bd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Obsidian basics.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "d31eb45e861602db",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -107,7 +99,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +115,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,9 +136,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Obsidian basics.md"
-              }
+              "state": {}
             }
           },
           {
@@ -177,17 +165,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6d2e84e9bea970bd",
+  "active": "d31eb45e861602db",
   "lastOpenFiles": [
-    "JS libraries.md",
     "Señales y Sistemas I.md",
+    "Obsidian basics.md",
+    "JS libraries.md",
     "Microcontrollers.md",
     "HTML.md",
     "Bootstrap.md",
     "Excalidraw/Drawing 2023-02-08 18.26.13.excalidraw.md",
     "Server communication.md",
     "2023-W06.md",
-    "aksfbsdjkj.md",
-    "TestNote.md"
+    "aksfbsdjkj.md"
   ]
 }
