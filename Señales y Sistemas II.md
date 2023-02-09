@@ -13,4 +13,8 @@ Un sistema se modela con un sistema de ecuaciones diferenciales. En los casos m�
 
 El vector de estados contiene las variables de estado presentes en el sistema, estos varían con el tiempo y son intrínsecos al sistema y ajenos a la entrada.
 
-De  manera gen
+De  manera general, un sistema se puede describir matemáticamente como:
+
+$$
+\dot x = f(x, u) 
+$$
