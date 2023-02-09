@@ -38,6 +38,8 @@ Los distintos bienes y servicios que satisfacen una misma necesidad se denominan
 
 ## El flujo circular de la economía
 
+En esta sección se deja de lado al gobierno. Por tanto, solo participan empresas y consumidores.
+
 El flujo real es el flujo de los bienes y servicios, mientras que el glujo nominal es el flujo de ingresos generados.
 A modo de ejemplo: Una familia adquiere una nueva casa de cierta inmobiliaria, tal acción es una transacción real. No obstante, la inmobiliaria recibe dinero a cambio de la propiedad, lo que se conoce como transacción nominal.
 
@@ -65,8 +67,29 @@ $$
 - C: Consumo
 - S: Ahorro
 
+Es aquí donde entran los bancos, toman los ahorros y prestan el dinero a personas con la necesidad de invertir, balanceando nuevamente la economía y mitigando el desempleo. 
+
+>[!Note]
+>La gran depresión de 1930 fue generada por un desbalance económico debido a la cantidad desmesurada de oferta
+
+$$
+\begin{align*}
+  &DD = C + I \\\\
+  &OO = C + S
+\end{align*}
+$$
+
+- DD: Demanda agregada
+- OO: Oferta agregada
+- I: Inversión
+
+Los bancos balancean el sistema económico tomando los ahorros para convertirlos en inversiones. La tasa de interés cumple una importante labor en este proceso.
+Para la persona que deposita su dinero en el banco, la tasa es un incentivo. Sin embargo, el prestamista que invertirá ese dinero ve la tasa como algo negativo.
 
 
+## El flujo circular de la economía, incluyendo al gobierno
+
+El _gasto público_ es la compra de bienes que hace el gobierno.
 
 
 
