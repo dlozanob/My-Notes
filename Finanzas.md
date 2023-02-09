@@ -28,4 +28,59 @@ La _remuneración a capital_ es el dinero producido por algún bien de capital.
 Los distintos bienes y servicios que satisfacen una misma necesidad se denominan _sustitutos_.
 
 
+## Métodos de asignación de recursos
+
+- _Economía de mercado_: El sector privado se encarga de repartir los bienes, el sistema se caracteriza por trabajadores que compiten entre ellos por la obtención de bienes.
+
+- _Economías centralmente planificadas_: El estado distribuye los recursos, de tal manera que cada quien obtenga lo que necesita, independientemente del trabajo que pueda aportar.
+
+
+
+## El flujo circular de la economía
+
+El flujo real es el flujo de los bienes y servicios, mientras que el glujo nominal es el flujo de ingresos generados.
+A modo de ejemplo: Una familia adquiere una nueva casa de cierta inmobiliaria, tal acción es una transacción real. No obstante, la inmobiliaria recibe dinero a cambio de la propiedad, lo que se conoce como transacción nominal.
+
+El flujo real siempre debe tener su contraparte nominal. Este balance debe ser mantenido en un sistema económico.
+
+$$
+  Q = Y
+$$
+
+- Q: Producto
+- Y: Ingreso
+
+La _oferta agregada_ es el conjunto total de bienes que se ofrecen en una economía.
+La _demanda agregada_ es la demanda total en el sistema económico.
+
+Una economía está en equilibrio cuando la oferta agregada iguala a la demanda agregada. Si la oferta es mayor a la demanda, sobran productos, las empresas no adquieren suficiente dinero, hay desempleo. Caso contrario, los precios aumentan y existe desigualdad por la alta demanda.
+
+El desbalance ocurre cuando los consumidores no invierten todos sus ingresos en comprar productos, este dinero que guardan se llama _ahorro_.
+Siendo así, se obtiene:
+
+$$
+  Q = C + S
+$$
+
+- C: Consumo
+- S: Ahorro
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
