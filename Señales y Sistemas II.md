@@ -50,8 +50,25 @@ $$
 	&i_{T} = \frac{u - x_{2}}{R} \\\\
 	&i_{c} = i_{T} - x_{1} \\\\
 	&i_{c} = C*\dot x_{2} \\
-	&\dot x_{2
-	
-	
+	&\dot x_{2} = \frac{1}{C}(\frac{u - x_{2}}{R} - x_{1}) \\\\
+	&u - y - x_{2} = 0 \\
+	&y = u - x_{2}
 \end{align*}
+$$
+Se obtiene el resultado:
+
+$$
+\begin{pmatrix}
+	\dot x_{1} \\
+	\dot x_{2}
+\end{pmatrix}
+=
+\begin{pmatrix}
+	0 & \frac{1}{L} \\
+	-\frac{1}{C} & -\frac{1}{RC}
+\end{pmatrix}
+\begin{pmatrix}
+	x_{1} \\
+	x_{2}	
+\end{pmatrix}
 $$
