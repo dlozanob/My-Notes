@@ -10,3 +10,7 @@ Un sistema se modela con un sistema de ecuaciones diferenciales. En los casos m�
 
 - $U(t)$: Variable de control o vector de entradas
 - $y(t)$: Vector de salidas
+
+El vector de estados contiene las variables de estado presentes en el sistema, estos varían con el tiempo y son intrínsecos al sistema y ajenos a la entrada.
+
+De  manera gen
