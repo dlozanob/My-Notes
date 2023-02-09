@@ -8,14 +8,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d31eb45e861602db",
+            "id": "202f39fd37a79b7e",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "d31eb45e861602db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Señales y Sistemas II.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -90,6 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Señales y Sistemas II.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Señales y Sistemas II.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +142,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Señales y Sistemas II.md"
+              }
             }
           },
           {
@@ -158,15 +175,15 @@
   },
   "active": "d31eb45e861602db",
   "lastOpenFiles": [
+    "Señales y Sistemas II.md",
+    "Resistencia de Materiales.md",
+    "Automatización, control y robótica.md",
     "Física.md",
     "Ciencias económicas y administrativas.md",
     "Ingeniería de diseño.md",
     "Señales y Sistemas I.md",
     "Obsidian basics.md",
     "JS libraries.md",
-    "Microcontrollers.md",
-    "HTML.md",
-    "Bootstrap.md",
-    "Excalidraw/Drawing 2023-02-08 18.26.13.excalidraw.md"
+    "Microcontrollers.md"
   ]
 }
