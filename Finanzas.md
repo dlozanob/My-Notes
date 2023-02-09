@@ -91,12 +91,64 @@ Para la persona que deposita su dinero en el banco, la tasa es un incentivo. Sin
 
 El _gasto público_ es la compra de bienes que hace el gobierno.
 
+El gobierno se comporta como empresa y a su vez como consumidor. Sus ingresos se basan principalmente en impuestos.
+
+$$
+  Y = C + S + T
+$$
+
+- T: Impuestos
+
+Por tanto:
+
+$$
+\begin{align*}
+  &OO = Q = Y = C + S + T \\\\
+  &DD = C + I + G \\
+\end{align*}
+$$
+
+- G: Gasto público
+
+Ahora el problema de mantener el balance de la oferta y demanda es más grande, ya que, el gobierno es una fuente de desequilibrio, el cual, debe regular impuestos y gastos públicos.
 
 
+Una _economía cerrada_ es un sistema económica donde los flujos de bienes ocurren estrictamente entre los participantes del sistema.
+Su contraparte, la _economía abierta_, da lugar a agentes externos de tal sistema económico.
+
+Esta última, trae consigo _exportaciones_ e _importaciones_, por lo cual, se modifican las equivalencias anteriormente abordadas:
+
+$$
+\begin{align*}
+  &OO = C + S + T + Z \\\\
+  &DD = C + I + G + X \\
+\end{align*}
+$$
+
+- Z: Importaciones
+- X: Exportaciones
+
+Los impuestos directos, dependen de la capacidad adquisitiva de la persona a quien se le cobra, como el impuesta a la renta y al enriquecimiento.
+Los impuestos indirectos, se fijan a productos y servicios, como el impuesto de valor agregado (IVA).
+
+Una _remesa_ es un dinero que entra al flujo económico de una país, sin esperar algún bien a cambio.
 
 
+## Producto e ingreso
 
+Cuando una empresa invierte en insumos, espera vender los producto producidos por estos a un precio mayor. Al valor ganado por la empresa se le llama _valor agregado_.
 
+$$
+  Producto = Ingreso = ValorAgregado
+$$
+
+El _Producto Interno Bruto_ (PIB) es el valor total de bienes y servicios producidos en un periodo determinado de tiempo dentro del territorio nacional.
+
+$$
+  PIB_{perCápita} = \frac{PIB}{Habitantes}
+$$
+
+El _PIB per cápita_ se puede utilizar como una aproximación al ingreso de cada individuo, o como un indicador del desarrollo de un país.
 
 
 
