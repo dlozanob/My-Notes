@@ -16,5 +16,8 @@ El vector de estados contiene las variables de estado presentes en el sistema, e
 De  manera general, un sistema se puede describir matemáticamente como:
 
 $$
-\dot x = f(x, u) 
+\begin{align*}
+	\dot x = f(x, u) \\
+	&y = df
+\end{align*}
 $$
