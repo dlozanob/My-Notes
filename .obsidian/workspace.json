@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6d2e84e9bea970bd",
+            "id": "d31eb45e861602db",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -16,11 +16,15 @@
             }
           },
           {
-            "id": "d31eb45e861602db",
+            "id": "55d299a33330853b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -99,6 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +142,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Untitled.md"
+              }
             }
           },
           {
@@ -165,8 +173,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d31eb45e861602db",
+  "active": "55d299a33330853b",
   "lastOpenFiles": [
+    "Ingeniería de diseño.md",
     "Señales y Sistemas I.md",
     "Obsidian basics.md",
     "JS libraries.md",
@@ -175,7 +184,6 @@
     "Bootstrap.md",
     "Excalidraw/Drawing 2023-02-08 18.26.13.excalidraw.md",
     "Server communication.md",
-    "2023-W06.md",
-    "aksfbsdjkj.md"
+    "2023-W06.md"
   ]
 }
