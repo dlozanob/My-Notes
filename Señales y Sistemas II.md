@@ -45,9 +45,13 @@ Donde $A, B, C$ y $D$ son matrices.
 $$
 \begin{align*}
 	&x_{2} = L*\dot x_{1} \\
-	&i_{c} = C*\dot x_{2} \\
-	\\
+	&\dot x_{1} = \frac{x_{2}}{L} \\\\
 	&u - i_{T}R - x_{2} = 0 \\
-	&	
+	&i_{T} = \frac{u - x_{2}}{R} \\\\
+	&i_{c} = i_{T} - x_{1} \\\\
+	&i_{c} = C*\dot x_{2} \\
+	&\dot x_{2
+	
+	
 \end{align*}
 $$
