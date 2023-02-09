@@ -37,3 +37,17 @@ $$
 $$
 Donde $A, B, C$ y $D$ son matrices.
 
+
+- _Ejemplo:_
+
+![[Pasted image 20230208225423.png]]
+
+$$
+\begin{align*}
+	&x_{2} = L*\dot x_{1} \\
+	&i_{c} = C*\dot x_{2} \\
+	\\
+	&u - i_{T}R - x_{2} = 0 \\
+	&	
+\end{align*}
+$$
