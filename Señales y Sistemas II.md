@@ -71,4 +71,40 @@ $$
 	x_{1} \\
 	x_{2}	
 \end{pmatrix}
++
+\begin{pmatrix}
+	0 \\
+	\frac{1}{RC}
+\end{pmatrix}
+u
+$$
+$$
+y =
+\begin{pmatrix}
+	0 & 1
+\end{pmatrix}
+\begin{pmatrix}
+	x_{1} \\
+	x_{2}
+\end{pmatrix}
++ u
+$$
+
+
+Un modelo en tiempo discreto toma la forma:
+
+$$
+\begin{align*}
+	x[n + 1] = f(x[n], u[n]) \\
+	y[n] = g(x[n], u[n])
+\end{align*}
+$$
+
+Si el sistema es lineal se simplifica como:
+
+$$
+\begin{align*}
+	&\dot x = Ax + Bu \\
+	&y = Cx + Du
+\end{align*}
 $$
