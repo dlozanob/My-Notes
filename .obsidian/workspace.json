@@ -24,9 +24,21 @@
                 "file": "Excalidraw/Drawing 2023-02-08 22.23.39.excalidraw.md"
               }
             }
+          },
+          {
+            "id": "391b605d15b41293",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Señales y Sistemas II.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -101,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-02-08 22.23.39.excalidraw.md",
+                "file": "Señales y Sistemas II.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-02-08 22.23.39.excalidraw.md",
+                "file": "Señales y Sistemas II.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-02-08 22.23.39.excalidraw.md"
+                "file": "Señales y Sistemas II.md"
               }
             }
           },
@@ -171,8 +183,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d31eb45e861602db",
+  "active": "391b605d15b41293",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-02-08 22.23.39.excalidraw.md",
     "Señales y Sistemas II.md",
     "Resistencia de Materiales.md",
     "Automatización, control y robótica.md",
@@ -181,7 +194,6 @@
     "Ingeniería de diseño.md",
     "Señales y Sistemas I.md",
     "Obsidian basics.md",
-    "JS libraries.md",
-    "Microcontrollers.md"
+    "JS libraries.md"
   ]
 }
