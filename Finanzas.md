@@ -35,7 +35,6 @@ Los distintos bienes y servicios que satisfacen una misma necesidad se denominan
 - _Economías centralmente planificadas_: El estado distribuye los recursos, de tal manera que cada quien obtenga lo que necesita, independientemente del trabajo que pueda aportar.
 
 
-
 ## El flujo circular de la economía
 
 En esta sección se deja de lado al gobierno. Por tanto, solo participan empresas y consumidores.
