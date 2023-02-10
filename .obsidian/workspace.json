@@ -8,31 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "202f39fd37a79b7e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Finanzas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "391b605d15b41293",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Señales y Sistemas II.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e1340622e113c92d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/myDrawingSpace.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "3e917b8e37ee4dd0",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -40,7 +26,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -161,7 +147,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "obsi",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -187,11 +173,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e1340622e113c92d",
+  "active": "3e917b8e37ee4dd0",
   "lastOpenFiles": [
+    "Excalidraw/myDrawingSpace.excalidraw.md",
     "Señales y Sistemas II.md",
     "Finanzas.md",
-    "Excalidraw/Drawing 2023-02-08 22.23.39.excalidraw.md",
     "Obsidian basics.md",
     "Resistencia de Materiales.md",
     "Automatización, control y robótica.md",
