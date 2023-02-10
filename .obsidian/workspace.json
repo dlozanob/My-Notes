@@ -16,17 +16,8 @@
                 "file": "Excalidraw/myDrawingSpace.excalidraw.md"
               }
             }
-          },
-          {
-            "id": "f629890b5b2ace68",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -86,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Excalidraw/myDrawingSpace.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Excalidraw/myDrawingSpace.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Excalidraw/myDrawingSpace.excalidraw.md"
+              }
             }
           },
           {
@@ -173,14 +168,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f629890b5b2ace68",
+  "active": "bdb7951fc8b753f2",
   "lastOpenFiles": [
+    "Obsidian basics.md",
     "Excalidraw/myDrawingSpace.excalidraw.md",
     "Excalidraw/Drawing 2023-02-10 16.04.44.excalidraw.md",
     "Excalidraw/Drawing 2023-02-10 16.04.59.excalidraw.md",
     "Señales y Sistemas II.md",
     "Finanzas.md",
-    "Obsidian basics.md",
     "Resistencia de Materiales.md",
     "Automatización, control y robótica.md",
     "Física.md",
