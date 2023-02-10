@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e1340622e113c92d",
+            "id": "bdb7951fc8b753f2",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -18,7 +18,7 @@
             }
           },
           {
-            "id": "3e917b8e37ee4dd0",
+            "id": "f629890b5b2ace68",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -173,17 +173,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3e917b8e37ee4dd0",
+  "active": "f629890b5b2ace68",
   "lastOpenFiles": [
     "Excalidraw/myDrawingSpace.excalidraw.md",
+    "Excalidraw/Drawing 2023-02-10 16.04.44.excalidraw.md",
+    "Excalidraw/Drawing 2023-02-10 16.04.59.excalidraw.md",
     "Señales y Sistemas II.md",
     "Finanzas.md",
     "Obsidian basics.md",
     "Resistencia de Materiales.md",
     "Automatización, control y robótica.md",
     "Física.md",
-    "Ciencias económicas y administrativas.md",
-    "Ingeniería de diseño.md",
-    "Señales y Sistemas I.md"
+    "Ciencias económicas y administrativas.md"
   ]
 }
