@@ -104,7 +104,8 @@ Si el sistema es lineal se simplifica como:
 
 $$
 \begin{align*}
-	&\dot x = Ax + Bu \\
-	&y = Cx + Du
+	&x[n + 1] = Ax[n] + Bu[n] \\
+	&y[n] = Cx[n] + Du[n]
 \end{align*}
 $$
+
