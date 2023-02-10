@@ -28,9 +28,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b390f9f3a61b3f48",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -90,7 +98,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mecanismos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +114,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mecanismos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,9 +135,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Mecanismos.md"
-              }
+              "state": {}
             }
           },
           {
@@ -181,8 +185,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "836fb33b4362eb0a",
+  "active": "b390f9f3a61b3f48",
   "lastOpenFiles": [
+    "Mecanismos.md",
     "Física.md",
     "Excalidraw/myDrawingSpace.excalidraw.md",
     "Señales y Sistemas II.md",
@@ -191,7 +196,6 @@
     "Excalidraw/Drawing 2023-02-10 16.04.59.excalidraw.md",
     "Finanzas.md",
     "Resistencia de Materiales.md",
-    "Automatización, control y robótica.md",
-    "Ciencias económicas y administrativas.md"
+    "Automatización, control y robótica.md"
   ]
 }
