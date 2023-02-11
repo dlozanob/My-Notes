@@ -119,7 +119,9 @@ Las normas de dibujo son las siguientes: _NTC 2370_, _NTC 2371_, _NTC 2372_, _NT
 
 - _Descrición de movimiento_ :
 
-- 
+- _Juntas_ :
+
+- _Elementos_ :
 
 
 
