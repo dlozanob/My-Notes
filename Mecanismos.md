@@ -115,12 +115,19 @@ Las normas de dibujo son las siguientes: _NTC 2370_, _NTC 2371_, _NTC 2372_, _NT
 
 ### Normas de diagramas cinemáticos
 
-- _NTC 2370_ :
+#### NTC 2370
 
- 
-- _NTC 2371_ :
+- _Descrición de movimiento_ :
+
+- 
 
 
-- _NTC 2372_ :
 
-- _NTC 2373_ :
+
+#### NTC 2370
+
+
+#### NTC 2370
+
+
+#### NTC 2370
