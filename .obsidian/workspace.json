@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "836fb33b4362eb0a",
+            "id": "e34f31f131d32685",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,15 +20,14 @@
             }
           },
           {
-            "id": "e34f31f131d32685",
+            "id": "657f3af9e29647ee",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Mecanismos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Mecanismos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Mecanismos.md"
+              }
             }
           },
           {
@@ -177,8 +180,8 @@
   },
   "active": "e34f31f131d32685",
   "lastOpenFiles": [
-    "Microcontrollers.md",
     "Mecanismos.md",
+    "Microcontrollers.md",
     "Excalidraw/myDrawingSpace.excalidraw.md",
     "Física.md",
     "Señales y Sistemas II.md",
