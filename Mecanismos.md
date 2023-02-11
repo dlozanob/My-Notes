@@ -147,16 +147,6 @@ $$
 - $n_b$ : Número de elementos (eslabones, deslizaderas, bancada)
 - $J_{l}$ : Número de juntas que permiten $l$ GDL
 
-Tener en cuenta lo siguiente:
-
-![[Pasted image 20230211140723.png]]
-
-La unión cuenta como una sola junta $J_{1}$.
-
-![[Pasted image 20230211141043.png]]
-
-Sin embargo, esta unión cuenta como dos $J_{1}$.
-
 
 >[!Note]
 >- $J_{0}$ es la bancada (siempre es 1), $J_{1}$ son juntas completas y $J_{2}$ semijuntas
@@ -195,22 +185,22 @@ $$
 \end{align*}
 $$
 
-
 Ejemplo:
 
-![[Pasted image 20230211165928.png]]
+![[Pasted image 20230211170424.png]]
 
 $$
 \begin{align*}
-	&n_{b} = 6 \\
-	&J_{1} = 6 \\
+	&n_{b} = 9 \\
+	&J_{1} = 11 \\
 	&J_{2} = 1 \\\\
-	&M = 3(6 - 1) - 2(6) - (1) \\
-	&= 2
+	&M = 3(9 - 1) - 2(11) - (1) \\
+	&= 1
 \end{align*}
 $$
 
-
+Las poleas se modelan como dos pseudo-eslabones. Además de 2 juntas completas en los puntos de tangencia entre la correa y la polea. El resorte no tiene efecto alguno.
+La única $J_{2}$ es la rodadura.
 
 
 ### Casos en los que Grübler no funciona
