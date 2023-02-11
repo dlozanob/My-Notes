@@ -203,6 +203,13 @@ Las poleas se modelan como dos pseudo-eslabones. Además de 2 juntas completas e
 La única $J_{2}$ es la rodadura.
 
 
+>[!Note]
+>Un pistón hidráulico se representa como 2 elementos, eslabón y collarín
+>
+>![[Pasted image 20230211173210.png]]
+
+
+
 ### Casos en los que Grübler no funciona
 
 1. El quinteto E:
