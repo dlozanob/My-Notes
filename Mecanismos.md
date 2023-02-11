@@ -146,6 +146,19 @@ $$
 - $n_b$ : Número de elementos (eslabones y bancada)
 - $J_{l}$ : Número de juntas que permiten $l$ GDL
 
+Tener en cuenta lo siguiente:
+
+![[Pasted image 20230211140723.png]]
+
+La unión cuenta como una sola junta $J_{1}$.
+
+![[Pasted image 20230211141043.png]]
+
+Sin embargo, 
+
+
+
+
 >[!Note]
 >Siendo así, $J_{0}$ es la bancada (siempre es 1), $J_{1}$ juntas completas y $J_{2}$ semijuntas
 
