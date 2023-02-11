@@ -44,3 +44,24 @@ Se caracterizan por poseer contactos puntuales o lineales.
 
 En ambos casos se tienen 2 GDL.
 
+
+### Juntas completas
+
+Permiten 1 solo GDL, los otros son restringidos.
+
+![[Pasted image 20230211101419.png]]
+
+
+### Juntas incompletas (semijuntas)
+
+Permiten 2 GDL.
+
+![[Pasted image 20230211101520.png]]
+
+
+
+El _orden_ en una junta, sirve para determinar el número de grados de libertad. Donde uno de los eslabones es la bancada.
+
+$$
+O_{junta} = #
+$$
