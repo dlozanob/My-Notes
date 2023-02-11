@@ -60,8 +60,18 @@ Permiten 2 GDL.
 
 
 
-El _orden_ en una junta, sirve para determinar el número de grados de libertad. Donde uno de los eslabones es la bancada.
+El _orden_ en una junta, sirve para determinar el número de grados de libertad presentes en una sola junta. Donde uno de los eslabones es la bancada.
 
 $$
-O_{junta} = #
+O_{junta} = N_{eslabones} - 1
 $$
+
+![[Pasted image 20230211101814.png]]
+
+En la imagen se tienen 1 y 2 órdenes o GDL respectivamente.
+
+
+## Clasificaciones de Reuleaux
+
+- _Cadena cinemática_ : Eslabonamiento que produce un movimiento en respuesta a otro
+- _Mecanismo_ : 
