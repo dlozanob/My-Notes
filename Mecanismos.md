@@ -205,6 +205,37 @@ La única $J_{2}$ es la rodadura.
 
 Ejemplo:
 
+Se tiene el caso de un pedal de batería.
+
+![[Pasted image 20230211181731.png]]
+
+
+$$
+\begin{align*}
+	&n_{b} = 5 \\
+	&J_{1} = 6 \\
+	&J_{2} = 0 \\\\
+	&M = 3(5 - 1) - 2(6) - (0) \\
+	&= 0
+\end{align*}
+$$
+
+Aquí el resorte se considera como elemento debido a que no hace parte de la bancada.
+El mecanismo está bloqueado según esta perspectiva.
+
+Ahora bien, consideremos el mismo caso pero sin resorte:
+
+![[Pasted image 20230211181947.png]]
+
+$$
+\begin{align*}
+	&n_{b} = 4 \\
+	&J_{1} = 4 \\
+	&J_{2} = 0 \\\\
+	&M = 3(4 - 1) - 2(4) - (0) \\
+	&= 1
+\end{align*}
+$$
 
 
 
