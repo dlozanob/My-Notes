@@ -151,7 +151,7 @@ $$
 >[!Note]
 >- $J_{0}$ es la bancada (siempre es 1), $J_{1}$ son juntas completas y $J_{2}$ semijuntas
 >- La ecuación parte del principio que existen 6 y 3 GDL máximos para cada elemento en el caso 3D y 2D respectivamente. Sin embargo, cada tipo de junta restringe estos grados de libertad
->- Los resortes no se cuentan como elementos
+>- Los resortes no se cuentan como elementos, solo cuando estos hacen parte de la bancada
 
 
 Ejemplo:
@@ -201,6 +201,12 @@ $$
 
 Las poleas se modelan como dos pseudo-eslabones. Además de 2 juntas completas en los puntos de tangencia entre la correa y la polea. El resorte no tiene efecto alguno.
 La única $J_{2}$ es la rodadura.
+
+
+Ejemplo:
+
+
+
 
 
 >[!Note]
