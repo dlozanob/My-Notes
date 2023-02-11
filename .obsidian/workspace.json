@@ -29,7 +29,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mecanismos.md",
+                "file": "Excalidraw/myDrawingSpace.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mecanismos.md",
+                "file": "Excalidraw/myDrawingSpace.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mecanismos.md"
+                "file": "Excalidraw/myDrawingSpace.excalidraw.md"
               }
             }
           },
@@ -180,10 +181,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e34f31f131d32685",
+  "active": "657f3af9e29647ee",
   "lastOpenFiles": [
-    "Excalidraw/myDrawingSpace.excalidraw.md",
     "Mecanismos.md",
+    "Excalidraw/myDrawingSpace.excalidraw.md",
     "Microcontrollers.md",
     "Física.md",
     "Señales y Sistemas II.md",
