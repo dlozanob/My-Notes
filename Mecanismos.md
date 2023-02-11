@@ -161,7 +161,9 @@ Procedimiento para representar gráficamente un mecanismo:
 | Nombre | Símbolo |
 |-|-|
 | Soporte | ![[Pasted image 20230211120302.png]] |
-| 
+| Eslabón | ![[Pasted image 20230211121544.png]] |
+| Junta de rotación de bancada | ![[Pasted image 20230211121636.png]] |
+
 
 
 #### NTC 2370
