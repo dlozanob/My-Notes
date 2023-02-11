@@ -86,7 +86,7 @@ Basta con que solo un eslabón esté conectado únicamente a otro.
 
 ![[Pasted image 20230211102645.png]]
 
-Característico de brazos robóticos en ensambladoras.En robótica se le conoce a esto como robótica serial.
+Característico de brazos robóticos en ensambladoras. En robótica se le conoce a esto como robótica serial.
 
 
 ### Cadena cerrada
@@ -95,4 +95,10 @@ Todos los eslabones se encuentran conectados a dos o más eslabones.
 
 ![[Pasted image 20230211102732.png]]
 
+Característico de robots delta tipo pick & place. En robótica se le conoce a esto como robótica paralela.
+
+
+## Diagramas cinemáticos
+
+Son la representación gráfica de los elementos que componen a un mecanismo.
 
