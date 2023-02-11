@@ -74,4 +74,25 @@ En la imagen se tienen 1 y 2 órdenes o GDL respectivamente.
 ## Clasificaciones de Reuleaux
 
 - _Cadena cinemática_ : Eslabonamiento que produce un movimiento en respuesta a otro
-- _Mecanismo_ : 
+- _Mecanismo_ : Cadena cinemática con un eslabón fijo a la bancada
+- _Máquina_ : Conjunto de mecanismos que transmiten una fuerza
+
+
+## Clasificación de cadenas cinemáticas
+
+### Cadena abierta
+
+Basta con que solo un eslabón esté conectado únicamente a otro.
+
+![[Pasted image 20230211102645.png]]
+
+Característico de brazos robóticos en ensambladoras.En robótica se le conoce a esto como robótica serial.
+
+
+### Cadena cerrada
+
+Todos los eslabones se encuentran conectados a dos o más eslabones.
+
+![[Pasted image 20230211102732.png]]
+
+
