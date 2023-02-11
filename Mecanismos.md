@@ -43,7 +43,7 @@ Se caracterizan por poseer contactos puntuales o lineales.
 ![[Pasted image 20230211101216.png]]
 
 En ambos casos se tienen 2 GDL.
-Para ver esto de un  modo más sencillo, se supone que los ejes inferiores no 
+Para ver esto de un  modo más sencillo, se supone que los ejes inferiores no están fijos en el espacio, por tanto, pueden producir rotación en los elementos de abajo, así como trasladarse linealmente como la rueda de un carro.
 
 
 ### Juntas completas
@@ -202,14 +202,34 @@ $$
 
 ![[Pasted image 20230211163019.png]]
 
-Supongamos que la junta de rodadura $C$ tiene deslizamiento
+Supongamos que la junta de rodadura $C$ tiene deslizamiento.
 
+$$
+\begin{align*}
+	&n_{b} = 4 \\
+	&J_{1} = 3 \\
+	&J_{2} = 1 \\\\
+	&M = 3(4 - 1) - 2(3) - (1) \\
+	&= 2
+\end{align*}
+$$
 
+Las $J_{1}$ son $A, B, D$. La única $J_{2}$ es $C$.
+Obtenemos $M = 2$, esto es falso.
 
+Ahora bien, si la junta de rodadura $C$ no presenta deslizamiento:
 
+$$
+\begin{align*}
+	&n_{b} = 4 \\
+	&J_{1} = 4 \\
+	&J_{2} = 0 \\\\
+	&M = 3(4 - 1) - 2(4) - (0) \\
+	&= 1
+\end{align*}
+$$
 
-
-
+Obtenemos $M$
 
 
 
