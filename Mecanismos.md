@@ -229,7 +229,49 @@ $$
 \end{align*}
 $$
 
-Obtenemos $M$
+Obtenemos $M = 1$, esto es correcto.
+
+
+>[!Note]
+>Un grado de libertad pasivo es aquel que no afecta la entrada o salida del mecanismo
+
+
+3. Junta rodante completa:
+
+![[Pasted image 20230211164206.png]]
+
+Igual que en el caso anterior, cuando la junta de rodadura no presenta deslizamiento y se toma como junta completa, la fórmula falla:
+
+$$
+\begin{align*}
+	&n_{b} = 3 \\
+	&J_{1} = 3 \\
+	&J_{2} = 0 \\\\
+	&M = 3(3 - 1) - 2(3) - (0) \\
+	&= 0
+\end{align*}
+$$
+
+Supuestamente el mecanismo estaría bloqueado, pero en realidad tenemos un GDL.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
