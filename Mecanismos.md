@@ -160,6 +160,7 @@ Sin embargo, esta unión cuenta como dos $J_{1}$.
 >[!Note]
 >- $J_{0}$ es la bancada (siempre es 1), $J_{1}$ son juntas completas y $J_{2}$ semijuntas
 >- La ecuación parte del principio que existen 6 y 3 GDL máximos para cada elemento en el caso 3D y 2D respectivamente. Sin embargo, cada tipo de junta restringe estos grados de libertad
+>- Los resortes no se cuentan como elementos
 
 
 Ejemplo:
