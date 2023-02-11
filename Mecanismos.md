@@ -153,6 +153,15 @@ $$
 >La ecuación parte del principio que existen 6 y 3 GDL máximos para cada elemento en el caso 3D y 2D respectivamente. Sin embargo, cada tipo de junta restringe estos grados de libertad
 
 
+Ejemplo:
+
+![[Pasted image 20230211131928.png]]
+
+$$
+\begin{align*}
+	&n_{b} = 
+\end{align*}
+$$
 
 
 
