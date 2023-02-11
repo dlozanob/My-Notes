@@ -31,3 +31,12 @@ La _biela_ o _acoplador_ (coupler) conecta a los elementos de entrada y de salid
 
 Se caracterizan por tener un contacto superficial.
 
+![[Pasted image 20230211100323.png]]
+
+>[!Note]
+>La junta helicoidal posee 1 GDL aunque se produzcan dos movientos, ya que, se modifica un único parámetro de rotación para mover el elemento
+
+### Pares superiores
+
+Se caracterizan por poseer contactos puntuales o lineales.
+
