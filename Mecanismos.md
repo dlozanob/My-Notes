@@ -107,7 +107,7 @@ Las normas de dibujo son las siguientes ([Normas](###Normas+de+diagramas+cinemá
 Procedimiento para representar gráficamente un mecanismo:
 
 1. Identificar la bancada
-2. Identificar los elementos y numerarlos (eslabones y bancada)
+2. Identificar los elementos y numerarlos (eslabones, deslizaderas, bancada)
 3. Identificar las juntas y asignarles letras
 4. Identificar puntos de interés. A estos se les asignan las últimas letras del alfabeto
 
@@ -143,7 +143,7 @@ $$
 \end{align*}
 $$
 
-- $n_b$ : Número de elementos (eslabones y bancada)
+- $n_b$ : Número de elementos (eslabones, deslizaderas, bancada)
 - $J_{l}$ : Número de juntas que permiten $l$ GDL
 
 Tener en cuenta lo siguiente:
