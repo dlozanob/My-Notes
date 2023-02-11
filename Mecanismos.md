@@ -6,13 +6,13 @@ Un _grado de libertad_ (GDL) se define por la capacidad de movimiento de un elem
 
 Así mismo, la _movilidad_ de un elemento son los GDL del mismo.
 
-Un _eslabón_ es la representación teórica de un elemento dentro de un mecanismo. Los eslabones no poseen masa y se abordan como cuerpos rígidos.
+Un _eslabón_ (link) es la representación teórica de un elemento dentro de un mecanismo. Los eslabones no poseen masa y se abordan como cuerpos rígidos.
 
 Un _eslabonamiento_ es el conjunto de eslabones más juntas.
 
-Así mismo, se pueden clasificar los eslabones seg
-
+Así mismo, se pueden clasificar los eslabones según su número de _nodos_:
 
 ![[Pasted image 20230211085354.png]]
 
+La _bancada_ (frame) es aquel elemento que se mantiene fijo en un mecanismo.
 
