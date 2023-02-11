@@ -166,17 +166,23 @@ Sin embargo, esta unión cuenta como dos $J_{1}$.
 
 Ejemplo:
 
-![[Pasted image 20230211164658.png]]
+![[Pasted image 20230211165147.png]]
 
 $$
 \begin{align*}
-	&n_{b} = 4 \\
-	&J_{1} = 3 \\
+	&n_{b} = 10 \\
+	&J_{1} =  \\
 	&J_{2} = 1 \\\\
 	&M = 3(4 - 1) - 2(3) - (1) \\
 	&= 2
 \end{align*}
 $$
+
+El elemento $1$ es la bancada. La junta $A$ cuenta por 2 $J_{1}$, junta prismática y revoluta.
+La junta $B$ cuenta por 2 $J_{1}$, dos revolutas.
+
+
+
 
 ### Casos en los que Grübler no funciona
 
