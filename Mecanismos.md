@@ -104,7 +104,9 @@ Son la representación gráfica de los elementos que componen a un mecanismo.
 
 Las normas de dibujo son las siguientes ([Normas](###Normas+de+diagramas+cinemáticos)): _NTC 2370_, _NTC 2371_, _NTC 2372_, _NTC 2373_.
 
+Procedimiento para representar gráficamente un mecanismo:
 
+- Id
 
 
 
