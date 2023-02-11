@@ -102,14 +102,29 @@ Característico de robots delta tipo pick & place. En robótica se le conoce a e
 
 Son la representación gráfica de los elementos que componen a un mecanismo.
 
-Las normas de dibujo son las siguientes ([Normas](###Normas+de+diagramas+cinemáticos)): _NTC 2370_, _NTC 2371_, _NTC 2372_, _NTC 2373_.
+Las normas de dibujo son las siguientes ([Normas](###Normas+de+diagramas+cinemáticos)): _NTC 2370_, _NTC 2371_, _NTC 2372_, _NTC 2373_
 
 Procedimiento para representar gráficamente un mecanismo:
 
 1. Identificar la bancada
-2. Identificar los eslabones y numerarlos
+2. Identificar los elementos y numerarlos (eslabones y bancada)
 3. Identificar las juntas y asignarles letras
 4. Identificar puntos de interés. A estos se les asignan las últimas letras del alfabeto
+
+>[!Note]
+>Un punto de interés es común
+
+
+Ejemplo:
+
+![[Pasted image 20230211124749.png]]
+
+![[Pasted image 20230211124759.png]]
+
+
+## Movilidad
+
+Es equivalente al número de GDL de un mecanismo, así mismo, el número necesario de actuadores para operarlo.
 
 
 
