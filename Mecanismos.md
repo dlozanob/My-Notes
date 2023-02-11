@@ -246,7 +246,6 @@ $$
 >![[Pasted image 20230211173210.png]]
 
 
-
 ### Casos en los que Grübler no funciona
 
 1. El quinteto E:
