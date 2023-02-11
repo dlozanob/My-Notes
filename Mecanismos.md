@@ -140,7 +140,6 @@ Procedimiento para representar gráficamente un mecanismo:
 | Fin de un movimiento con sentido único | ![[Pasted image 20230211113402.png]] |
 
 
-
 - _Juntas_ :
 
 | Nombre | Descripción | Símbolo |
