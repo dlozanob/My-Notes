@@ -123,6 +123,20 @@ Procedimiento para representar gráficamente un mecanismo:
 
 ### Normas de diagramas cinemáticos
 
+
+#### Generales
+
+| Descripción | Símbolo |
+|-|-|
+| Eslabón binario | ![[Pasted image 20230211122320.png]] |
+| Eslabón ternario | ![[Pasted image 20230211122346.png]] |
+| Eslabón cuaternario | ![[Pasted image 20230211122411.png]] |
+| Junta rotatoria móvil | ![[Pasted image 20230211122436.png]] |
+| Junta rotatoria fija | ![[Pasted image 20230211122455.png]] |
+| 
+
+
+
 #### NTC 2370
 
 - _Descripción de movimiento_ :
@@ -163,13 +177,3 @@ Procedimiento para representar gráficamente un mecanismo:
 | Soporte | ![[Pasted image 20230211120302.png]] |
 | Eslabón | ![[Pasted image 20230211121544.png]] |
 | Junta de rotación de bancada | ![[Pasted image 20230211121636.png]] |
-
-
-
-#### NTC 2370
-
-
-#### NTC 2370
-
-
-#### NTC 2370
