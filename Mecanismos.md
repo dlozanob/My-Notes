@@ -169,6 +169,26 @@ $$
 
 ### Casos en los que Grübler no funciona
 
+1. El quinteto E:
+
+![[Pasted image 20230211132739.png]]
+
+Existe un eslabón redundante. Si los pivotes fijos son equidistantes y los eslabones pivotados tienen la misma longitud, la movilidad debería ser 1.
+
+Sin embargo:
+
+$$
+\begin{align*}
+	&n_{b} = 5 \\
+	&J_{1} = 6 \\
+	&J_{2} = 0 \\\\
+	&M = 3(5 - 1) - 2(6) - (0) \\
+	&= 0
+\end{align*}
+$$
+
+2. Grados de libertad pasivos:
+
 
 
 
