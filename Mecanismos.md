@@ -148,21 +148,20 @@ Procedimiento para representar gráficamente un mecanismo:
 | Nombre | Símbolo |
 |-|-|
 | Junta de rotación | ![[Pasted image 20230211115016.png]] |
-| JUnta prismática | ![[Pasted image 20230211115036.png]] |
+| Junta prismática | ![[Pasted image 20230211115036.png]] |
 | Junta helicoidal | ![[Pasted image 20230211115112.png]] |
 | Junta cilíndrica | ![[Pasted image 20230211115244.png]] |
 | Junta planar | ![[Pasted image 20230211115940.png]] |
 | Junta esférica | ![[Pasted image 20230211115732.png]] |
-
-
-
-
-
+| Junta 2R-2T | ![[Pasted image 20230211120137.png]] |
+| Junta 3R-2T | ![[Pasted image 20230211120205.png]] |
 
 - _Elementos_ :
 
-| Nombre | Descripción | Símbolo |
-|-|-|-|
+| Nombre | Símbolo |
+|-|-|
+| Soporte | ![[Pasted image 20230211120302.png]] |
+| 
 
 
 #### NTC 2370
