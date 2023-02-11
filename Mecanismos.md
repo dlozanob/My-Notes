@@ -166,7 +166,7 @@ Sin embargo, esta unión cuenta como dos $J_{1}$.
 
 Ejemplo:
 
-![[Pasted image 20230211131928.png]]
+![[Pasted image 20230211164658.png]]
 
 $$
 \begin{align*}
