@@ -106,7 +106,10 @@ Las normas de dibujo son las siguientes ([Normas](###Normas+de+diagramas+cinemá
 
 Procedimiento para representar gráficamente un mecanismo:
 
-- Id
+1. Identificar la bancada
+2. Identificar los eslabones y numerarlos
+3. Identificar las juntas y asignarles letras
+4. Identificar puntos de interés. A estos se les asignan las últimas letras del alfabeto
 
 
 
@@ -127,6 +130,12 @@ Procedimiento para representar gráficamente un mecanismo:
 
 | Nombre | Descripción | Símbolo |
 |-|-|-|
+	| Trayectoria | | ![[Pasted image 20230211112239.png]] |
+| Trayectoria con sentido único |  | ![[Pasted image 20230211112354.png]] |
+| Parada instantánea en posición intermedia | | ![[Pasted image 20230211112450.png]] |
+
+
+
 
 - _Juntas_ :
 
