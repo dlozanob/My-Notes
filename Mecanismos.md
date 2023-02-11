@@ -133,7 +133,8 @@ Procedimiento para representar gráficamente un mecanismo:
 | Eslabón cuaternario | ![[Pasted image 20230211122411.png]] |
 | Junta rotatoria móvil | ![[Pasted image 20230211122436.png]] |
 | Junta rotatoria fija | ![[Pasted image 20230211122455.png]] |
-| 
+| Junta de traslación móvil | ![[Pasted image 20230211122909.png]] |
+| Junta de traslación fija |  |
 
 
 
