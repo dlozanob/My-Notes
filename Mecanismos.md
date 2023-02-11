@@ -1,6 +1,6 @@
 # Mecanismos
 
-## Fundamentos de mecanismos
+## Conceptos básicos de mecanismos
 
 Un _grado de libertad_ (GDL) se define por la capacidad de movimiento de un elemento al cambiar un solo parámetro.
 
@@ -22,5 +22,12 @@ Una _manivela_ (crank) se define como un elemento pivotado a la bancada con la c
 
 El _balancín_ (rocker) es un elemento pivotado a la bancada, el cual tiene un ángulo de movimiento menor a 365° y su cinemática comprende una rotación oscilante.
 
+La _biela_ o _acoplador_ (coupler) conecta a los elementos de entrada y de salida, además de poseer un movimiento de traslación y de rotación combinados.
 
+
+## Juntas (pares cinemáticos)
+
+### Pares inferiores
+
+Se caracterizan por tener un contacto superficial.
 
