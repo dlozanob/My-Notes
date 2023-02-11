@@ -125,17 +125,21 @@ Procedimiento para representar gráficamente un mecanismo:
 
 #### NTC 2370
 
-- _Descrición de movimiento_ :
+- _Descripción de movimiento_ :
 
 | Descripción | Símbolo |
 |-|-|
 | Trayectoria | ![[Pasted image 20230211112239.png]] |
-| Trayectoria con sentido único | ![[Pasted image 20230211112354.png]] |
+| Movimiento con sentido único | ![[Pasted image 20230211112354.png]] |
+| Movimiento con sentido doble | ![[Pasted image 20230211114045.png]] |
 | Parada instantánea en posición intermedia | ![[Pasted image 20230211112450.png]] |
 | Parada instantánea en posición intermedia con sentido único | ![[Pasted image 20230211112925.png]]
 | Parada prolongada en posición intermedia | ![[Pasted image 20230211112610.png]] |
 | Parada prolongada en posición intermedia con sentido único | ![[Pasted image 20230211113002.png]] |
+| Parada prolongada en posición intermedia con sentido doble | ![[Pasted image 20230211114346.png]] |
 | Parada prolongada en posición extrema | ![[Pasted image 20230211112651.png]] |
+| Parada prolongada en posición extrema con sentido doble | ![[Pasted image 20230211114218.png]] |
+| Parada prolongada en ambas posiciones extremas con sentido doble | ![[Pasted image 20230211114254.png]] |
 | Fin de un movimiento | ![[Pasted image 20230211112811.png]] |
 | Fin de un movimiento con sentido único | ![[Pasted image 20230211113402.png]] |
 
