@@ -128,10 +128,19 @@ Es equivalente al número de GDL de un mecanismo, así mismo, el número necesar
 La _ecuación de Kutzbach-Grübler_ sirve para determinar teóricamente el número de GDL de un mecanismo. En el espacio, esta adquiere la forma general:
 
 $$
-	M = 6*n_{b} - 6*J_{0} - 5*J_{1} - 4*J_{2} - 3*J_{3} - 2*J_{4} - J_{1}
+\begin{align*}
+	M = 6*n_{b} - 6*J_{0} - 5*J_{1} - 4*J_{2} - 3*J_{3} - 2*J_{4} - J_{5} \\
+	M = 6(n_{b} - 1) - 5*J_{1} - 4*J_{2} - 3*J_{3} - 2*J_{4} - J_{5}
+\end{align*}
 $$
 
+- $n_b$ : Número de eslabones
+- $J_{l}$ : Número de juntas que permiten $l$ GDL
 
+>[!Note]
+>Siendo así, $J_{0}$ es la bancada, $J_{1}$ juntas completas y $J_{2}$ semijuntas
+
+Para el caso de un mecanismo plano, se toma la simplificación:
 
 
 
