@@ -40,3 +40,7 @@ Se caracterizan por tener un contacto superficial.
 
 Se caracterizan por poseer contactos puntuales o lineales.
 
+![[Pasted image 20230211101216.png]]
+
+En ambos casos se tienen 2 GDL.
+
