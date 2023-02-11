@@ -130,14 +130,14 @@ Procedimiento para representar gráficamente un mecanismo:
 | Descripción | Símbolo |
 |-|-|
 | Trayectoria | ![[Pasted image 20230211112239.png]] |
-| Trayectoria en sentido único | ![[Pasted image 20230211112354.png]] |
-| Parada instantánea en posición intermedia y sentido único | ![[Pasted image 20230211112925.png]] |
+| Trayectoria con sentido único | ![[Pasted image 20230211112354.png]] |
 | Parada instantánea en posición intermedia | ![[Pasted image 20230211112450.png]] |
+| Parada instantánea en posición intermedia con sentido único | ![[Pasted image 20230211112925.png]]
 | Parada prolongada en posición intermedia | ![[Pasted image 20230211112610.png]] |
-| Parada instantánea en posición prolongada y sentido único | | 
+| Parada prolongada en posición intermedia con sentido único | ![[Pasted image 20230211113002.png]] |
 | Parada prolongada en posición extrema | ![[Pasted image 20230211112651.png]] |
 | Fin de un movimiento | ![[Pasted image 20230211112811.png]] |
-| 
+| Fin de un movimiento con sentido único | ![[Pasted image 20230211113402.png]] |
 
 
 
