@@ -154,16 +154,12 @@ La unión cuenta como una sola junta $J_{1}$.
 
 ![[Pasted image 20230211141043.png]]
 
-Sin embargo, 
-
-
+Sin embargo, esta unión cuenta como dos $J_{1}$.
 
 
 >[!Note]
->Siendo así, $J_{0}$ es la bancada (siempre es 1), $J_{1}$ juntas completas y $J_{2}$ semijuntas
-
->[!Note]
->La ecuación parte del principio que existen 6 y 3 GDL máximos para cada elemento en el caso 3D y 2D respectivamente. Sin embargo, cada tipo de junta restringe estos grados de libertad
+>- $J_{0}$ es la bancada (siempre es 1), $J_{1}$ son juntas completas y $J_{2}$ semijuntas
+>- La ecuación parte del principio que existen 6 y 3 GDL máximos para cada elemento en el caso 3D y 2D respectivamente. Sin embargo, cada tipo de junta restringe estos grados de libertad
 
 
 Ejemplo:
