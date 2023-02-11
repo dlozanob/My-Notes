@@ -29,7 +29,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,6 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Excalidraw/myDrawingSpace.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Excalidraw/myDrawingSpace.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +129,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Excalidraw/myDrawingSpace.excalidraw.md"
+              }
             }
           },
           {
@@ -176,7 +181,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9d93bca41a6a57a5",
+  "active": "657f3af9e29647ee",
   "lastOpenFiles": [
     "Mecanismos.md",
     "Excalidraw/myDrawingSpace.excalidraw.md",
