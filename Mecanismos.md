@@ -134,8 +134,7 @@ Procedimiento para representar gráficamente un mecanismo:
 | Junta rotatoria móvil | ![[Pasted image 20230211122436.png]] |
 | Junta rotatoria fija | ![[Pasted image 20230211122455.png]] |
 | Junta de traslación móvil | ![[Pasted image 20230211122909.png]] |
-| Junta de traslación fija |  |
-
+| Junta de traslación fija | ![[Pasted image 20230211123015.png]] |
 
 
 #### NTC 2370
