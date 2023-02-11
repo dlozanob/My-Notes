@@ -171,15 +171,36 @@ Ejemplo:
 $$
 \begin{align*}
 	&n_{b} = 10 \\
-	&J_{1} =  \\
+	&J_{1} = 12 \\
+	&J_{2} = 0 \\\\
+	&M = 3(10 - 1) - 2(12) - (0) \\
+	&= 3
+\end{align*}
+$$
+
+El elemento $1$ es la bancada. Las juntas $D$ y $F$ cuentan por 3 $J_{1}$, junta prismática y dos revolutas.
+
+
+Ejemplo:
+
+![[Pasted image 20230211165644.png]]
+
+$$
+\begin{align*}
+	&n_{b} = 6 \\
+	&J_{1} = 6 \\
 	&J_{2} = 1 \\\\
-	&M = 3(4 - 1) - 2(3) - (1) \\
+	&M = 3(6 - 1) - 2(6) - (1) \\
 	&= 2
 \end{align*}
 $$
 
-El elemento $1$ es la bancada. La junta $A$ cuenta por 2 $J_{1}$, junta prismática y revoluta.
-La junta $B$ cuenta por 2 $J_{1}$, dos revolutas.
+
+Ejemplo:
+
+
+
+
 
 
 
