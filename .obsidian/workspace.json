@@ -154,7 +154,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "obsidi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -182,12 +182,12 @@
   },
   "active": "e34f31f131d32685",
   "lastOpenFiles": [
-    "Excalidraw/myDrawingSpace.excalidraw.md",
+    "Obsidian basics.md",
     "Mecanismos.md",
+    "Excalidraw/myDrawingSpace.excalidraw.md",
     "Microcontrollers.md",
     "Física.md",
     "Señales y Sistemas II.md",
-    "Obsidian basics.md",
     "Excalidraw/Drawing 2023-02-10 16.04.44.excalidraw.md",
     "Excalidraw/Drawing 2023-02-10 16.04.59.excalidraw.md",
     "Finanzas.md",
