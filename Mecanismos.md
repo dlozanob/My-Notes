@@ -143,11 +143,11 @@ $$
 \end{align*}
 $$
 
-- $n_b$ : Número de eslabones
+- $n_b$ : Número de elementos (eslabones y bancada)
 - $J_{l}$ : Número de juntas que permiten $l$ GDL
 
 >[!Note]
->Siendo así, $J_{0}$ es la bancada, $J_{1}$ juntas completas y $J_{2}$ semijuntas
+>Siendo así, $J_{0}$ es la bancada (siempre es 1), $J_{1}$ juntas completas y $J_{2}$ semijuntas
 
 >[!Note]
 >La ecuación parte del principio que existen 6 y 3 GDL máximos para cada elemento en el caso 3D y 2D respectivamente. Sin embargo, cada tipo de junta restringe estos grados de libertad
@@ -159,9 +159,19 @@ Ejemplo:
 
 $$
 \begin{align*}
-	&n_{b} = 
+	&n_{b} = 4 \\
+	&J_{1} = 3 \\
+	&J_{2} = 1 \\\\
+	&M = 3(4 - 1) - 2(3) - (1) \\
+	&= 2
 \end{align*}
 $$
+
+### Casos en los que Grübler no funciona
+
+
+
+
 
 
 
