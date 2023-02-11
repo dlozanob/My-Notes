@@ -112,8 +112,7 @@ Procedimiento para representar gráficamente un mecanismo:
 4. Identificar puntos de interés. A estos se les asignan las últimas letras del alfabeto
 
 >[!Note]
->Un punto de interés es común
-
+>Un punto de interés es comúnmente un punto clave donde se aplican fuerzas (puntos de entrada) o donde estas son producidas (puntos de salida)
 
 Ejemplo:
 
@@ -124,7 +123,13 @@ Ejemplo:
 
 ## Movilidad
 
-Es equivalente al número de GDL de un mecanismo, así mismo, el número necesario de actuadores para operarlo.
+Es equivalente al número de GDL de un mecanismo, así mismo, el número necesario de actuadores para operarlo. Se prefiere un $M = 1$ por simplicidad.
+
+La _ecuación de Kutzbach-Grübler_ sirve para determinar teóricamente el número de GDL de un mecanismo. En el espacio, esta adquiere la forma general:
+
+$$
+	M = 6*n_{b} - 6*J_{0} - 5*J_{1} - 4*J_{2} - 3*J_{3} - 2*J_{4} - J_{1}
+$$
 
 
 
