@@ -129,8 +129,8 @@ La _ecuación de Kutzbach-Grübler_ sirve para determinar teóricamente el núme
 
 $$
 \begin{align*}
-	M = 6*n_{b} - 6*J_{0} - 5*J_{1} - 4*J_{2} - 3*J_{3} - 2*J_{4} - J_{5} \\
-	M = 6(n_{b} - 1) - 5*J_{1} - 4*J_{2} - 3*J_{3} - 2*J_{4} - J_{5}
+	&M = 6n_{b} - 6J_{0} - 5J_{1} - 4J_{2} - 3J_{3} - 2J_{4} - J_{5} \\
+	&M = 6(n_{b} - 1) - 5J_{1} - 4J_{2} - 3J_{3} - 2J_{4} - J_{5}
 \end{align*}
 $$
 
@@ -141,6 +141,16 @@ $$
 >Siendo así, $J_{0}$ es la bancada, $J_{1}$ juntas completas y $J_{2}$ semijuntas
 
 Para el caso de un mecanismo plano, se toma la simplificación:
+
+$$
+\begin{align*}
+	&M = 3n_{b} - 3J_{0} - 2J_{1} - J_{2} \\
+	&M = 3(n_{b} - 1) - 2J_{1} - J_{2}
+\end{align*}
+$$
+
+>[!Note]
+>La ecuación parte del principio que existen 6 y 3 GDL máximos para cada elemento en el caso 3D y 2D respectivamente. Sin embargo, cada tipo de junta restringe estos grados de libertad
 
 
 
