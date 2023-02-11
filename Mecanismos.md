@@ -151,6 +151,11 @@ Procedimiento para representar gráficamente un mecanismo:
 | JUnta prismática | ![[Pasted image 20230211115036.png]] |
 | Junta helicoidal | ![[Pasted image 20230211115112.png]] |
 | Junta cilíndrica | ![[Pasted image 20230211115244.png]] |
+| Junta planar | ![[Pasted image 20230211115940.png]] |
+| Junta esférica | ![[Pasted image 20230211115732.png]] |
+
+
+
 
 
 
