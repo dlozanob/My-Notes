@@ -89,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mecanismos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mecanismos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Mecanismos.md"
-              }
+              "state": {}
             }
           },
           {
@@ -180,10 +176,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e34f31f131d32685",
+  "active": "9d93bca41a6a57a5",
   "lastOpenFiles": [
-    "Excalidraw/myDrawingSpace.excalidraw.md",
     "Mecanismos.md",
+    "Excalidraw/myDrawingSpace.excalidraw.md",
     "Obsidian basics.md",
     "Microcontrollers.md",
     "Física.md",
