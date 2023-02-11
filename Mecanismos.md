@@ -43,6 +43,7 @@ Se caracterizan por poseer contactos puntuales o lineales.
 ![[Pasted image 20230211101216.png]]
 
 En ambos casos se tienen 2 GDL.
+Para ver esto de un  modo más sencillo, se supone que los ejes inferiores no 
 
 
 ### Juntas completas
@@ -198,6 +199,10 @@ $$
 $$
 
 2. Grados de libertad pasivos:
+
+![[Pasted image 20230211163019.png]]
+
+Supongamos que la junta de rodadura $C$ tiene deslizamiento
 
 
 
