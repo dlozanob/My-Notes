@@ -11,12 +11,8 @@
             "id": "82135d263b1d7961",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Finanzas.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -79,7 +75,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Finanzas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +91,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Finanzas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,9 +112,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Finanzas.md"
-              }
+              "state": {}
             }
           },
           {
@@ -172,8 +164,8 @@
   },
   "active": "82135d263b1d7961",
   "lastOpenFiles": [
-    "Obsidian basics.md",
     "Finanzas.md",
+    "Obsidian basics.md",
     "Excalidraw/myDrawingSpace.excalidraw.md",
     "Señales y Sistemas II.md",
     "Excalidraw/Drawing 2023-02-11 19.55.11.excalidraw.md",
