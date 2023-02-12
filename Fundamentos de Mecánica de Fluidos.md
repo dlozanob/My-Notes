@@ -48,7 +48,17 @@ Donde $\rho_{H_{2}O}$  $(1000 kg/m^3)$ es la máxima densidad del agua, que curi
 
 $$
 \begin{align*}
-	&PV = nRT \\
-	&n = \frac{m}{M_{}}
+	&PV = nRT \\\\
+	&n = \frac{M}{M_{molar}} \\\\
+	&\rho = \frac{PM_{molar}}{RT}
 \end{align*}
 $$
+
+
+
+## Hipótesis del continuo
+
+
+Para trabajar con fluidos, se debe suponer una densidad uniforme donde cada una de las partículas tiene una dimensión infinitesimal. De tal manera que los cálculos adquieren un carácter continuo en lugar de discreto.
+
+
