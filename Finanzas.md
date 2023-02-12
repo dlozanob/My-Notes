@@ -1,5 +1,12 @@
 # Finanzas
 
+
+Un _sistema económico_ se compone de:
+- Agentes
+- Necesidades: Requerimientos de bienes y servicios
+- Factores: Sinónimo de _insumos_
+- Sectores: Agropecuario, industrial, servicios
+
 Tras la crisis de la década de 1930, surgen dos importantes ramas de la economía, _macroeconomía_ y _microeconomía_.
 Surgen tras la necesidad de saber cómo mantener los recursos activos (produciendo), crecimiento económico, estabilidad de precios y desempleo.
 
@@ -26,6 +33,7 @@ Estos se clasifican en:
 - _Tierra_: Bienes naturales del sector primario. 
 - _Mano de obra_: Se refiere al tiempo invertido en producción por el personal encargado de sobrellevar los procesos en la indsutria.
 - _Bienes de capital_: Son los elementos que aportan a mejorar la producción, o procesar los _bienes intermedios_, así como maquinaria, transporte y recursos humanos.
+- _Tecnología_: Conjunto de conocimientos y técnicas para la producción de bienes
 
 La _renta_ es la remuneración que reciben los dueños de la tierra.
 
