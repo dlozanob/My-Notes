@@ -79,7 +79,10 @@ Here's a sample footnote[^1].
 
 ## Math syntaxis:
 
+
 $$e^{i\theta} = Cos(\theta) + iSin(\theta)$$
+
+Mardown supports [[LaTex]] commands by wrapping them with $\$$ for single lines or double  $\$$ for  multiple lines.
 
 
 ## Matrices:
@@ -187,10 +190,5 @@ section section4
 md1 :md1, 2023-03-01, 2023-03-31
 
 ```
-
-
-
->[!info]
->Mardown supports LaTex commands by wrapping them with `$$`
 
 
