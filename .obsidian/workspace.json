@@ -11,8 +11,12 @@
             "id": "e3dad21a2cb1a573",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Fórmulas Financieras Excel.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -75,6 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Fórmulas Financieras Excel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,6 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Fórmulas Financieras Excel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -112,7 +118,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Fórmulas Financieras Excel.md"
+              }
             }
           },
           {
@@ -164,6 +172,7 @@
   },
   "active": "e3dad21a2cb1a573",
   "lastOpenFiles": [
+    "Ingeniería Económica.md",
     "Servomecanismos.md",
     "Excalidraw/myDrawingSpace.excalidraw.md",
     "Fundamentos de Mecánica de Fluidos.md",
@@ -172,7 +181,6 @@
     "Señales y Sistemas II.md",
     "Excalidraw/Drawing 2023-02-11 19.55.11.excalidraw.md",
     "Mecanismos.md",
-    "Microcontrollers.md",
-    "Física.md"
+    "Microcontrollers.md"
   ]
 }
