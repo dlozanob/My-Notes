@@ -179,3 +179,14 @@ Se hace el análisis dinámico de cada uno de los bloques:
 
 ![[Pasted image 20230211202541.png]]
 
+![[Pasted image 20230211202942.png]]
+
+
+Se obtienen las ecuaciones:
+
+$$
+\begin{align*}
+	&B(\dot y_{2} - \dot y_{1}) + k_{2}(y_{2} - y{1}) - k_{1}y_{1} - M_{1}\ddot y_{1}
+\end{align*}
+$$
+
