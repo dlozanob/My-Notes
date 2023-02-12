@@ -23,9 +23,9 @@ La _acumulación de inventarios_ son los productos remanentes de un ciclo de pro
 
 Los _bienes de capital_ son los elementos que aportan a mejorar la producción, o procesar los _bienes intermedios_, así como maquinaria, transporte y recursos humanos.
 
-Los _insumos_ o _bienes intermedios_ son productos aún no procesados, que deben pasar por un proceso industrial para poder ser consumidos.
-
-Se le denomina como _tierra_ a los bienes naturales del sector primario. La _renta_ es la remuneración que reciben los dueños de la tierra.
+Los _insumos_,  _bienes intermedios_ o _factores de producción_ son productos aún no procesados, que deben pasar por un proceso industrial para poder ser consumidos.
+Estos se clasifican en:
+- _Tierra_ : Bienes naturales del sector primario. La _renta_ es la remuneración que reciben los dueños de la tierra.
 
 La _remuneración a la tierra_ es el dinero recibido a cambio de vender un beneficio ofrecido por la tierra.
 La _remuneración a capital_ es el dinero producido por algún bien de capital.
