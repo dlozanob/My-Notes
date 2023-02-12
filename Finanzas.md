@@ -6,7 +6,8 @@ Surgen tras la necesidad de saber cómo mantener los recursos activos (producien
 La _economía_ estudia la producción, distribución, y consumo de bienes y servicios.
 
 >[!Note]
->La palabra economía proviene del griego _oikos_ (casa) y _nemein_ (administrar)
+>- La palabra economía proviene del griego _oikos_ (casa) y _nemein_ (administrar)
+>- Durante la Gran Depresión, la gente había notado anteriormente que después de aumentar los precios, se entraba a una época de expansión económica. Por tanto, aumentaron los precios para así poder salir de la crisis. Sin embargo, la premisa no tenía correlación lógica, por lo que cayeron en una falacia _post hoc_ y se agravó el problema
 
 La _microeconomía_ estudia la distribución de los recursos, así como el comportamiento de empresas y consumidores. Se considera a Adam Smith como su fundamentador.
 Quién estudio la manera en la que deben fijarse los precios de productos y materias primas, así como mano de obra y capital.
