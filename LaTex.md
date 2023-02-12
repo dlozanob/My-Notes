@@ -3,15 +3,15 @@
 ## Math syntax
 
 
-| Description | Command |
-|-|-|
-| Vector | `\Vec{}` |
-| Unit vector | `\hat{}` |
-| Subindex | `x_{}` |
-| Superindex | `x^{}` |
-| Root | `\sqrt[<index>]{}` |
-| Fractions | `\frac{}{}` |
-| Line break | `\cr` |
+| Description | Command | Example |
+|-|-|-|
+| Vector | `\vec{}` | $\vec{F}$ |
+| Unit vector | `\hat{}` | $\hat{k}$ |
+| Subindex | `x_{}` | $x_{1}$ |
+| Superindex | `x^{}` | $x^{5}$ |
+| Root | `\sqrt[<index>]{}` | $\sqrt[4]{6}$ |
+| Fractions | `\frac{}{}` | $\frac{8}{5}$ |
+| Line break | `\cr` | $\cr$ |
 | Triangle | `\triangle` |
 | Logarithm | `\log_{<base>}<argument>` |
 | Pi | `\pi` |
@@ -22,49 +22,11 @@
 | Infinite | `\infty` |
 | Summe | `\sum_{<var> = <inf lim>}^{<var> = <sup lim>}`
 | Defined integral | `\int_{<inf lim>}^{sup lim}` |
-| Partial derivative | 
+| Partial derivative | `\partial` |
+| Gradient | `\nabla` |
+| Exclusive sum | `\oplus` |
 
 
+## Greek letters
 
 
-• Símbolo matemático en medio de un texto: Usar al inicio '$<expresión>$'
-
-• Salto de línea: \cr
-
-• Triángulo: \triangle
-
-• Logaritmos: \log
-
-• Pi: \pi
-
-• Punto mult: \cdot
-
-• Aproximación: \approx
-
-• Theta: \theta
-
-• Diámetro: \varnothing
-
-• Salto de línea: \\
-
-• Límite: \lim_{x \to 1}
-
-• Infinito: \infty
-
-• Sumatorio: \sum_{k = <lím inf>}^{k = <lím sup>} f(x_{i})
-
-• Integral definida: \int_{<lím inf>}^{lím sup} f(x) dx
-
-• Derivada parcial: \partial
-
-• Gradiente: \nabla
-
-• Subtítulo: \subsection
-
-• Texto en negrilla: \textbf
-
-• Espacio entre párrafos: \bigskip
-
-• Símbolo de barra sobre una letra: \overline{}
-
-• Suma exclusiva: \oplus{}
