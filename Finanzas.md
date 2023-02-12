@@ -8,8 +8,10 @@ La _economía_ estudia la producción, distribución, y consumo de bienes y serv
 >[!Note]
 >La palabra economía proviene del griego _oikos_ (casa) y _nemein_ (administrar)
 
-La _microeconomía_ estudia la distribución de los recursos, así como el comportamiento de empresas y consumidores.
-Mientras que la _macroeconomía_, estudia la relación entre factores económicos, tomando las variables generales de la economía (e.g: ingresos totales, nivel de empleo de los recursos y comportamiento de los precios).
+La _microeconomía_ estudia la distribución de los recursos, así como el comportamiento de empresas y consumidores. Se considera a Adam Smith como su fundamentador.
+Quién estudio la manera en la que deben fijarse los precios de productos y materias primas, así como mano de obra y capital.
+
+Mientras que la _macroeconomía_, estudia la relación entre factores económicos, tomando las variables generales de la economía (e.g: ingresos totales, nivel de empleo de los recursos y comportamiento de los precios). Surge en su forma moderna en 1936 gracias a la obra 'Teoría general del empleo, el interés y del dinero' de John Maynard Keynes.
 
 El _costo de oportunidad_ es el valor más alto de una alternativa al que se debe renunciar, una vez seleccionada cierta alternativa entre varias.
 Ejemplo: Si una persona decie entre trabajar y descansar, pero decide esta última opción, el costo de oportunidad es el valor económico producido al trabajar.
