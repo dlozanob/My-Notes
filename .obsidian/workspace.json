@@ -23,8 +23,12 @@
             "id": "82135d263b1d7961",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian basics.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -180,12 +184,12 @@
   },
   "active": "30d2701e2a461daa",
   "lastOpenFiles": [
+    "Obsidian basics.md",
     "Finanzas.md",
     "Excalidraw/myDrawingSpace.excalidraw.md",
     "Señales y Sistemas II.md",
     "Excalidraw/Drawing 2023-02-11 19.55.11.excalidraw.md",
     "Mecanismos.md",
-    "Obsidian basics.md",
     "Microcontrollers.md",
     "Física.md",
     "Excalidraw/Drawing 2023-02-10 16.04.44.excalidraw.md",
