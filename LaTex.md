@@ -28,4 +28,16 @@
 
 ## Greek letters
 
+| Symbol | Command |
+|-|-|
+| $\pi$ | `\pi` |
+| $\Pi$ | `\Pi` |
+| $\theta$ | `\theta` |
+| $\Theta$ | `\Theta` |
+| $\mu$ | `\mu` |
+| $\omega$ | `\omega` |
+| $\Omega$ | `\Omega` |
+| $\gamma$ | `\gamma` |
+| $\Gamma$ | `\Gamma` |
+
 
