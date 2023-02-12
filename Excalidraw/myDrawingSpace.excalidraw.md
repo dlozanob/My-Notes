@@ -5108,6 +5108,104 @@ tags: [excalidraw]
 				14,
 				12
 			]
+		},
+		{
+			"id": "r8gy6VISLWLFYMR-a1JnA",
+			"type": "freedraw",
+			"x": -98.25,
+			"y": -10.9140625,
+			"width": 0,
+			"height": 17,
+			"angle": 0,
+			"strokeColor": "#c92a2a",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 2135293825,
+			"version": 17,
+			"versionNonce": 849194625,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1676165625344,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					1
+				],
+				[
+					0,
+					4
+				],
+				[
+					0,
+					6
+				],
+				[
+					0,
+					7
+				],
+				[
+					0,
+					8
+				],
+				[
+					0,
+					9
+				],
+				[
+					0,
+					10
+				],
+				[
+					0,
+					11
+				],
+				[
+					0,
+					12
+				],
+				[
+					0,
+					13
+				],
+				[
+					0,
+					14
+				],
+				[
+					0,
+					15
+				],
+				[
+					0,
+					16
+				],
+				[
+					0,
+					17
+				],
+				[
+					0,
+					17
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				0,
+				17
+			]
 		}
 	],
 	"appState": {

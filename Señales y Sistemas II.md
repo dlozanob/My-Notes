@@ -179,14 +179,31 @@ Se hace el análisis dinámico de cada uno de los bloques:
 
 ![[Pasted image 20230211202541.png]]
 
-![[Pasted image 20230211202942.png]]
+![[Pasted image 20230211203355.png]]
 
 
 Se obtienen las ecuaciones:
 
 $$
 \begin{align*}
-	&B(\dot y_{2} - \dot y_{1}) + k_{2}(y_{2} - y{1}) - k_{1}y_{1} - M_{1}\ddot y_{1}
+	&B(\dot y_{2} - \dot y_{1}) + k_{2}(y_{2} - y{1}) - k_{1}y_{1} - M_{1}\ddot y_{1} = 0 \\
+	&f_{a}(t) - B(\dot y_{2} - \dot y_{1}) - k_{2}(y_{2} - y_{1}) - M_{2}\ddot y_{2} = 0
 \end{align*}
 $$
+Se define el vector de estado: 
 
+$$
+\begin{pmatrix}
+	x_{1} \\
+	x_{2} \\
+	x_{3} \\
+	x_{4}
+\end{pmatrix}
+=
+\begin{pmatrix}
+	y_{1} \\
+	\dot y_{1} \\
+	y_{2} \\
+	\dot y_{2}
+\end{pmatrix}
+$$
