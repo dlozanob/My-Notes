@@ -20,14 +20,15 @@
             }
           },
           {
-            "id": "d7365b12470c2d41",
+            "id": "c3789e0d83dd4fb1",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +88,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Finanzas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Finanzas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,9 +125,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Finanzas.md"
-              }
+              "state": {}
             }
           },
           {
@@ -178,7 +175,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "30d2701e2a461daa",
+  "active": "c3789e0d83dd4fb1",
   "lastOpenFiles": [
     "Finanzas.md",
     "Excalidraw/myDrawingSpace.excalidraw.md",
