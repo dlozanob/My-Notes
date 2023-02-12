@@ -18,6 +18,14 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9590e54032d9e955",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ]
       }
@@ -172,6 +180,7 @@
   },
   "active": "e3dad21a2cb1a573",
   "lastOpenFiles": [
+    "Fórmulas Financieras Excel.md",
     "Ingeniería Económica.md",
     "Servomecanismos.md",
     "Excalidraw/myDrawingSpace.excalidraw.md",
@@ -180,7 +189,6 @@
     "Obsidian basics.md",
     "Señales y Sistemas II.md",
     "Excalidraw/Drawing 2023-02-11 19.55.11.excalidraw.md",
-    "Mecanismos.md",
-    "Microcontrollers.md"
+    "Mecanismos.md"
   ]
 }

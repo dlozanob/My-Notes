@@ -5,21 +5,6 @@
 >- Flujos de salida negativos
 >- Usar tasas de interés con '%'
 
-VA() // 
-VF() // 
-PAGO() // 
-INT.EFECTIVO() // 
-TASA() // 
-TASA.NOMINAL() // 
-INT.EFECTIVO() // 
-VNA() // 
-TIR() // 
-NPER() // 
-SLN() // 
-SYD() // Sistema suma de dígitos
-DB() // Sistema de saldo doble decreciente
-
-
 | Fórmula | Descripción |
 |-|-|
 | VA() | Valor presente |
@@ -33,4 +18,6 @@ DB() // Sistema de saldo doble decreciente
 | TIR() | Calcula la tasa interna de retorno |
 | NPER() | Número de periodos |
 | SLN() | Sistema de línea recta |
-| SYD() | 
+| SYD() | Sistema suma de dígitos |
+| DB() | Sistema de saldo doble decreciente |
+
