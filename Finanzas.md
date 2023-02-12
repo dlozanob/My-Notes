@@ -127,7 +127,7 @@ $$
 - Z: Importaciones
 - X: Exportaciones
 
-Los impuestos directos, dependen de la capacidad adquisitiva de la persona a quien se le cobra, como el impuesta a la renta y al enriquecimiento.
+Los impuestos directos, dependen de la capacidad adquisitiva de la persona a quien se le cobra, como el impuesto a la renta y al enriquecimiento.
 Los impuestos indirectos, se fijan a productos y servicios, como el impuesto de valor agregado (IVA).
 
 Una _remesa_ es un dinero que entra al flujo económico de una país, sin esperar algún bien a cambio.
@@ -135,7 +135,7 @@ Una _remesa_ es un dinero que entra al flujo económico de una país, sin espera
 
 ## Producto e ingreso
 
-Cuando una empresa invierte en insumos, espera vender los producto producidos por estos a un precio mayor. Al valor ganado por la empresa se le llama _valor agregado_.
+Cuando una empresa invierte en insumos, espera vender los productosd producidos por estos a un precio mayor. Al valor ganado por la empresa se le llama _valor agregado_.
 
 $$
   Producto = Ingreso = ValorAgregado
