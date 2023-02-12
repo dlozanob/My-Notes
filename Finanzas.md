@@ -67,7 +67,7 @@ Por otro lado, la _economía normativa_ comprende preguntas que rayan en el sent
 
 En esta sección se deja de lado al gobierno. Por tanto, solo participan empresas y consumidores.
 
-El flujo real es el flujo de los bienes y servicios, mientras que el flujo nominal es el flujo de ingresos generados.
+El _flujo real_ es el flujo de los bienes y servicios, mientras que el _flujo nominal_ es el flujo de ingresos generados.
 A modo de ejemplo: Una familia adquiere una nueva casa de cierta inmobiliaria, tal acción es una transacción real. No obstante, la inmobiliaria recibe dinero a cambio de la propiedad, lo que se conoce como transacción nominal.
 
 El flujo real siempre debe tener su contraparte nominal. Este balance debe ser mantenido en un sistema económico.
@@ -118,13 +118,12 @@ Para la persona que deposita su dinero en el banco, la tasa es un incentivo. Sin
 
 El _gasto público_ es la compra de bienes que hace el gobierno.
 Este ha de proveer bienes y servicios a las empresas y a las familias.
-Otorga a las empresas _subvenc_
-
-Los impuestos directos, dependen de la capacidad adquisitiva de la persona a quien se le cobra, como el impuesto a la renta y al enriquecimiento.
-Los impuestos indirectos, se fijan a productos y servicios, como el impuesto de valor agregado (IVA).
-
+Otorga a las empresas _subvenciones_, los cuales son aportes económicos a las mismas para apoyarlas y alinear sus intereses.
+Mientras que aporta a las familias _subsidios_, los cuales son un apoyo económico a las personas que lo requieran.
 
 El gobierno se comporta como empresa y a su vez como consumidor. Sus ingresos se basan principalmente en impuestos.
+Los impuestos directos, dependen de la capacidad adquisitiva de la persona a quien se le cobra, como el impuesto a la renta y al enriquecimiento.
+Los impuestos indirectos, se fijan a productos y servicios, como el impuesto de valor agregado (IVA).
 
 $$
   Y = C + S + T
@@ -145,6 +144,8 @@ $$
 
 Ahora el problema de mantener el balance de la oferta y demanda es más grande, ya que, el gobierno es una fuente de desequilibrio, el cual, debe regular impuestos y gastos públicos.
 
+
+## El flujo circular de la economía, incluyendo al flujo externo
 
 Una _economía cerrada_ es un sistema económico donde los flujos de bienes ocurren estrictamente entre los participantes del sistema.
 Su contraparte, la _economía abierta_, da lugar a agentes externos de tal sistema económico.
