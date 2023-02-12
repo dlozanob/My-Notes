@@ -40,4 +40,3 @@
 | $\gamma$ | `\gamma` |
 | $\Gamma$ | `\Gamma` |
 
-
