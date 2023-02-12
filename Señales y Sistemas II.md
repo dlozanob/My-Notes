@@ -274,5 +274,10 @@ $$
 	x_{3} \\
 	x_{4} \\
 \end{pmatrix}
-+ 
++
+\begin{pmatrix}
+	0 \\
+	0
+\end{pmatrix}
+f_{a}(t)
 $$
