@@ -32,6 +32,12 @@ La _remuneración a capital_ es el dinero producido por algún bien de capital.
 
 Los distintos bienes y servicios que satisfacen una misma necesidad se denominan _sustitutos_.
 
+Al proponer cuestionamientos económicos, existen dos perspectivas en las que se pueden clasificar estos interrogantes. 
+La _economía positiva_ aborda hechos, surgen preguntas a partir de datos y acontecimientos (e.g.: ¿Cuál es el impacto de las computadoras en el rendimiento de las empresas).
+Por otro lado, la _economía normativa_ comprende preguntas que incluyen a la ética y la subjetividad
+
+
+
 
 ## Métodos de asignación de recursos
 
