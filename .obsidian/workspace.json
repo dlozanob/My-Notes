@@ -29,7 +29,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/myDrawingSpace.excalidraw.md",
+                "file": "Señales y Sistemas II.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/myDrawingSpace.excalidraw.md",
+                "file": "Señales y Sistemas II.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/myDrawingSpace.excalidraw.md"
+                "file": "Señales y Sistemas II.md"
               }
             }
           },
@@ -180,10 +181,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "30d2701e2a461daa",
+  "active": "c0fd99f225d565a0",
   "lastOpenFiles": [
-    "Señales y Sistemas II.md",
     "Excalidraw/myDrawingSpace.excalidraw.md",
+    "Señales y Sistemas II.md",
     "Excalidraw/Drawing 2023-02-11 19.55.11.excalidraw.md",
     "Mecanismos.md",
     "Obsidian basics.md",

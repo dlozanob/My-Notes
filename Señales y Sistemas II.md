@@ -114,6 +114,23 @@ $$
 
 - Resorte:
 
+![[Pasted image 20230211195830.png]]
 
+$$
+\begin{align*}
+	f &= k\Delta y \\
+	&= k(y_{2} - y_{1})
+\end{align*}
+$$
 
+- Amortiguador
+
+![[Pasted image 20230211200234.png]]
+
+$$
+\begin{align*}
+	f &= k\Delta y \\
+	&= k(y_{2} - y_{1})
+\end{align*}
+$$
 
