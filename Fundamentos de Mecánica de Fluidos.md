@@ -23,5 +23,32 @@ $$
 Cuando se aplica una fuerza, se produce un esfuerzo que conlleva a una deformación. Sin embargo, en fluidos a diferencia de como sucede en la mecánica de sólidos, una vez retirada la fuerza, el fluido continua deformándose por la energía cinética adquirida.
 
 
+- _Densidad_:
+
+$$
+	\rho = \frac{dM}{dV}
+$$
+
 - _Peso específico_:
-- _Gravedad específica_
+
+$$
+	\gamma = \rho g
+$$
+
+- _Gravedad específica_:
+
+$$
+	SG = \frac{\rho}{\rho_{H_{2}O}}
+$$
+
+Donde $\rho_{H_{2}O}$  $(1000 kg/m^3)$ es la máxima densidad del agua, que curiosamente ocurre en su estado líquido a los 4°C.
+
+
+¿Cómo varía la densidad de un gas ideal en función de la presión y la temperatura?
+
+$$
+\begin{align*}
+	&PV = nRT \\
+	&n = \frac{m}{M_{}}
+\end{align*}
+$$
