@@ -3,6 +3,15 @@
 ## Math symbols
 
 
+| Description | Command |
+|-|-|
+| Vector | `\Vec{}` |
+| Unit vector | `\hat{}` |
+| Subindex | `x_{}` |
+| Superindex | `x^{}` |
+| Roots | `\sqrt[<index>]{}` |
+| Fractions | `\frac{}{}` |
+
 
 
 
