@@ -39,7 +39,7 @@ Los distintos bienes y servicios que satisfacen una misma necesidad se denominan
 
 En esta sección se deja de lado al gobierno. Por tanto, solo participan empresas y consumidores.
 
-El flujo real es el flujo de los bienes y servicios, mientras que el glujo nominal es el flujo de ingresos generados.
+El flujo real es el flujo de los bienes y servicios, mientras que el flujo nominal es el flujo de ingresos generados.
 A modo de ejemplo: Una familia adquiere una nueva casa de cierta inmobiliaria, tal acción es una transacción real. No obstante, la inmobiliaria recibe dinero a cambio de la propiedad, lo que se conoce como transacción nominal.
 
 El flujo real siempre debe tener su contraparte nominal. Este balance debe ser mantenido en un sistema económico.
