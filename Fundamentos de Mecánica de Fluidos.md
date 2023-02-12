@@ -59,6 +59,16 @@ $$
 ## Hipótesis del continuo
 
 
-Para trabajar con fluidos, se debe suponer una densidad uniforme donde cada una de las partículas tiene una dimensión infinitesimal. De tal manera que los cálculos adquieren un carácter continuo en lugar de discreto.
+Para trabajar con fluidos, se debe suponer una densidad uniforme donde cada una de las partículas tiene una dimensión infinitesimal. De tal manera que los cálculos adquieren un carácter continuo en lugar de discreto. En tamaños grandes se puede tomar esta simplificación sin problemas, ya que, la densidad es suficientemente uniforme.
+
+![[Pasted image 20230212134552.png]]
+
+![[Pasted image 20230212134640.png]]
 
 
+## Tipos de sistemas
+
+
+- Sistemas cerrados (masa de control): La cantidad de materia en estudio se mantiene constante
+
+- Sistemas abiertos (volúmen de control): El volúmen o espacio en estudio se mantiene fijo.
