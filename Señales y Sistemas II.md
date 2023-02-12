@@ -175,3 +175,7 @@ Ejemplo:
 ![[Pasted image 20230211201816.png]]
 
 
+Se hace el análisis dinámico de cada uno de los bloques:
+
+![[Pasted image 20230211202541.png]]
+
