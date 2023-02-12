@@ -71,7 +71,6 @@ ___
 
 ---
 
-
 ## Footnotes:
 Here's a sample footnote[^1].
 
