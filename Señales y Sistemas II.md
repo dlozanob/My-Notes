@@ -221,7 +221,7 @@ Se obtiene:
 
 $$
 \begin{align*}
-	&\dot x_{2} = \frac{k_{1} + k_{2}}{M_1}x_{1} + \frac{B}{M_{1}}x_{2} - \frac{k_{2}}{M_{1}}x_{3} - \frac{B}{M_{1}}x_{4} \\\\
+	&\dot x_{2} = -\frac{k_{1} + k_{2}}{M_1}x_{1} + \frac{B}{M_{1}}x_{2} - \frac{k_{2}}{M_{1}}x_{3} - \frac{B}{M_{1}}x_{4} \\\\
 	&\dot x_{4} = \frac{k_{2}}{M_{2}}x_{1} + \frac{B}{M_{2}}x_{2} -\frac{k_{2}}{M_{2}}x_{3} - \frac{B}{M_{2}}x_{4} + \frac{1}{M_{2}}f_{a}(t) 
 \end{align*}
 $$
@@ -254,7 +254,7 @@ $$
 	0 \\
 	0 \\
 	0 \\
-	-\frac{1}{M_{2}}
+	\frac{1}{M_{2}}
 \end{pmatrix}
 f_{a}(t)
 $$
