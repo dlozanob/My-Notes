@@ -8,13 +8,11 @@
         "type": "tabs",
         "children": [
           {
-            "id": "657f3af9e29647ee",
+            "id": "30d2701e2a461daa",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/myDrawingSpace.excalidraw.md"
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -77,7 +75,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/myDrawingSpace.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +91,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/myDrawingSpace.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,9 +112,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Excalidraw/myDrawingSpace.excalidraw.md"
-              }
+              "state": {}
             }
           },
           {
@@ -168,10 +162,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "657f3af9e29647ee",
+  "active": "30d2701e2a461daa",
   "lastOpenFiles": [
-    "Mecanismos.md",
     "Excalidraw/myDrawingSpace.excalidraw.md",
+    "Mecanismos.md",
     "Obsidian basics.md",
     "Microcontrollers.md",
     "Física.md",
