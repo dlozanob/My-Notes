@@ -44,6 +44,13 @@ $$
 Donde $\rho_{H_{2}O}$  $(1000 kg/m^3)$ es la máxima densidad del agua, que curiosamente ocurre en su estado líquido a los 4°C.
 
 
+- Volumen específico:
+
+$$
+	v = \frac{1}{\rho}
+$$
+
+
 ¿Cómo varía la densidad de un gas ideal en función de la presión y la temperatura?
 
 $$
@@ -53,6 +60,9 @@ $$
 	&\rho = \frac{PM_{molar}}{RT}
 \end{align*}
 $$
+
+
+- Fluido incompresible: Su densidad es constante
 
 
 
@@ -90,4 +100,6 @@ Para trabajar con fluidos, se debe suponer una densidad uniforme donde cada una 
 
 
 - Lagrangiana: Se estudan las variables inherentes a una partícula
+
+![[Pasted image 20230212135351.png]]
 
