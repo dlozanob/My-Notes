@@ -123,14 +123,29 @@ $$
 \end{align*}
 $$
 
+Depende de la elasticidad del resorte.
+
+
 - Amortiguador
 
 ![[Pasted image 20230211200234.png]]
 
 $$
 \begin{align*}
-	f &= k\Delta y \\
-	&= k(y_{2} - y_{1})
+	f &= B\Delta v \\
+	&= B(v_{2} - v_{1})
 \end{align*}
 $$
 
+Depende de la fricción del fluido.
+
+
+
+- Ley de D'Alembert:
+
+$$
+\begin{align*}
+	&\sum_{k = i}^{k = n} (f_{ext})_{i} = M\frac{dv}{dt} \\
+	&\sum_{k = i}^{k = n} (f_{ext})_{i} - M\frac{dv}{dt} = 
+\end{align*}
+$$
