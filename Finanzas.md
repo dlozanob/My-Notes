@@ -2,10 +2,30 @@
 
 
 Un _sistema económico_ se compone de:
-- Agentes
+- Agentes: Familias, empresas, estado
 - Necesidades: Requerimientos de bienes y servicios
 - Factores: Sinónimo de _insumos_
 - Sectores: Agropecuario, industrial, servicios
+
+Los _insumos_,  _bienes intermedios_ o _factores de producción_ son productos aún no procesados, que deben pasar por un proceso industrial para poder ser consumidos.
+Estos se clasifican en:
+- _Tierra_: Bienes naturales del sector primario. 
+- _Mano de obra_: Se refiere al tiempo invertido en producción por el personal encargado de sobrellevar los procesos en la indsutria.
+- _Bienes de capital_: Son los elementos que aportan a mejorar la producción, o procesar los _bienes intermedios_, así como maquinaria, transporte y recursos humanos.
+- _Tecnología_: Conjunto de conocimientos y técnicas para la producción de bienes
+
+La _renta_ es la remuneración que reciben los dueños de la tierra.
+
+La _remuneración a la tierra_ es el dinero recibido a cambio de vender un beneficio ofrecido por la tierra.
+La _remuneración a capital_ es el dinero producido por algún bien de capital.
+
+Los distintos bienes y servicios que satisfacen una misma necesidad se denominan _sustitutos_.
+
+El _costo de oportunidad_ es el valor más alto de una alternativa al que se debe renunciar, una vez seleccionada cierta alternativa entre varias.
+Ejemplo: Si una persona decie entre trabajar y descansar, pero decide esta última opción, el costo de oportunidad es el valor económico producido al trabajar.
+
+La _acumulación de inventarios_ son los productos remanentes de un ciclo de producción, que pueden re-invertirse en un nuevo ciclo.
+
 
 Tras la crisis de la década de 1930, surgen dos importantes ramas de la economía, _macroeconomía_ y _microeconomía_.
 Surgen tras la necesidad de saber cómo mantener los recursos activos (produciendo), crecimiento económico, estabilidad de precios y desempleo.
@@ -23,24 +43,6 @@ Mientras que la _macroeconomía_, estudia la relación entre factores económico
 
 La _econometría_ es una técnica utilizada por economistas que aplica principios estadísticos a problemas económicos.
 
-El _costo de oportunidad_ es el valor más alto de una alternativa al que se debe renunciar, una vez seleccionada cierta alternativa entre varias.
-Ejemplo: Si una persona decie entre trabajar y descansar, pero decide esta última opción, el costo de oportunidad es el valor económico producido al trabajar.
-
-La _acumulación de inventarios_ son los productos remanentes de un ciclo de producción, que pueden re-invertirse en un nuevo ciclo.
-
-Los _insumos_,  _bienes intermedios_ o _factores de producción_ son productos aún no procesados, que deben pasar por un proceso industrial para poder ser consumidos.
-Estos se clasifican en:
-- _Tierra_: Bienes naturales del sector primario. 
-- _Mano de obra_: Se refiere al tiempo invertido en producción por el personal encargado de sobrellevar los procesos en la indsutria.
-- _Bienes de capital_: Son los elementos que aportan a mejorar la producción, o procesar los _bienes intermedios_, así como maquinaria, transporte y recursos humanos.
-- _Tecnología_: Conjunto de conocimientos y técnicas para la producción de bienes
-
-La _renta_ es la remuneración que reciben los dueños de la tierra.
-
-La _remuneración a la tierra_ es el dinero recibido a cambio de vender un beneficio ofrecido por la tierra.
-La _remuneración a capital_ es el dinero producido por algún bien de capital.
-
-Los distintos bienes y servicios que satisfacen una misma necesidad se denominan _sustitutos_.
 
 Al proponer cuestionamientos económicos, existen dos perspectivas en las que se pueden clasificar estos interrogantes. 
 La _economía positiva_ aborda hechos, surgen preguntas a partir de datos y acontecimientos (e.g.: ¿Cuál es el impacto de las computadoras en el rendimiento de las empresas).
@@ -115,6 +117,12 @@ Para la persona que deposita su dinero en el banco, la tasa es un incentivo. Sin
 ## El flujo circular de la economía, incluyendo al gobierno
 
 El _gasto público_ es la compra de bienes que hace el gobierno.
+Este ha de proveer bienes y servicios a las empresas y a las familias.
+Otorga a las empresas _subvenc_
+
+Los impuestos directos, dependen de la capacidad adquisitiva de la persona a quien se le cobra, como el impuesto a la renta y al enriquecimiento.
+Los impuestos indirectos, se fijan a productos y servicios, como el impuesto de valor agregado (IVA).
+
 
 El gobierno se comporta como empresa y a su vez como consumidor. Sus ingresos se basan principalmente en impuestos.
 
@@ -138,7 +146,7 @@ $$
 Ahora el problema de mantener el balance de la oferta y demanda es más grande, ya que, el gobierno es una fuente de desequilibrio, el cual, debe regular impuestos y gastos públicos.
 
 
-Una _economía cerrada_ es un sistema económica donde los flujos de bienes ocurren estrictamente entre los participantes del sistema.
+Una _economía cerrada_ es un sistema económico donde los flujos de bienes ocurren estrictamente entre los participantes del sistema.
 Su contraparte, la _economía abierta_, da lugar a agentes externos de tal sistema económico.
 
 Esta última, trae consigo _exportaciones_ e _importaciones_, por lo cual, se modifican las equivalencias anteriormente abordadas:
@@ -152,9 +160,6 @@ $$
 
 - Z: Importaciones
 - X: Exportaciones
-
-Los impuestos directos, dependen de la capacidad adquisitiva de la persona a quien se le cobra, como el impuesto a la renta y al enriquecimiento.
-Los impuestos indirectos, se fijan a productos y servicios, como el impuesto de valor agregado (IVA).
 
 Una _remesa_ es un dinero que entra al flujo económico de una país, sin esperar algún bien a cambio.
 
