@@ -69,6 +69,25 @@ Para trabajar con fluidos, se debe suponer una densidad uniforme donde cada una 
 ## Tipos de sistemas
 
 
-- Sistemas cerrados (masa de control): La cantidad de materia en estudio se mantiene constante
+- Sistemas cerrados (masa de control): La cantidad de materia en estudio se mantiene constante.
+
+
+![[Pasted image 20230212135057.png]]
+
 
 - Sistemas abiertos (volúmen de control): El volúmen o espacio en estudio se mantiene fijo.
+
+![[Pasted image 20230212135108.png]]
+
+
+
+## Perspectivas de la física mecánica
+
+- Euleriana: Se estudian las variables inherentes a un espacio
+
+![[Pasted image 20230212135228.png]]
+
+
+
+- Lagrangiana: Se estudan las variables inherentes a una partícula
+
