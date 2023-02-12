@@ -186,10 +186,11 @@ Se obtienen las ecuaciones:
 
 $$
 \begin{align*}
-	&B(\dot y_{2} - \dot y_{1}) + k_{2}(y_{2} - y{1}) - k_{1}y_{1} - M_{1}\ddot y_{1} = 0 \\
+	&B(\dot y_{2} - \dot y_{1}) + k_{2}(y_{2} - y_{1}) - k_{1}y_{1} - M_{1}\ddot y_{1} = 0 \\
 	&f_{a}(t) - B(\dot y_{2} - \dot y_{1}) - k_{2}(y_{2} - y_{1}) - M_{2}\ddot y_{2} = 0
 \end{align*}
 $$
+
 Se define el vector de estado: 
 
 $$
@@ -206,4 +207,21 @@ $$
 	y_{2} \\
 	\dot y_{2}
 \end{pmatrix}
+$$
+Reemplazando:
+
+$$
+\begin{align*}
+	&B(x_{4} - x_{2}) + k_{2}(x_{3} - x_{1}) - k_{1}x_{1} - M_{1}\dot x_{2} = 0 \\
+	&-B(x_{4} - x_{2}) - k_{2}(x_{3} - x_{1}) - M_{2}\dot x_{4} = f_{a}(t)
+\end{align*}
+$$
+
+Se obtiene:
+
+$$
+\begin{align*}
+	&B(x_{4} - x_{2}) + k_{2}(x_{3} - x_{1}) - k_{1}x_{1} - M_{1}\dot x_{2} = 0 \\
+	&-B(x_{4} - x_{2}) - k_{2}(x_{3} - x_{1}) - M_{2}\dot x_{4} = f_{a}(t)
+\end{align*}
 $$
