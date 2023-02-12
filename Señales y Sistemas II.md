@@ -143,6 +143,7 @@ Depende de la fricción del fluido.
 
 - Ley de D'Alembert:
 
+Es el mismo principio de la segunda de Newton
 $$
 \begin{align*}
 	&\sum_{k = i}^{k = n} (f_{ext})_{i} = M\frac{dv}{dt} \\
@@ -155,3 +156,15 @@ Se le denomina a $M\frac{dv}{dt}$ como fuerza inercial, la cual es una fuerza fi
 
 - Ley de desplazamientos:
 
+![[Pasted image 20230211201401.png]]
+
+En una trayectoria cerrada, la suma de desplazamientos de cada lazo es igual.
+
+$$
+\begin{align*}
+	&\sum_{k = i}^{k = n} (\Delta y)_{i} = 0 \\
+	&(y_{1}) + (y_{2} - y_{1}) = y_{3} \\
+	&y_{3} = y_{2} \\
+	&(y_{1}) + (y_{2} - y_{1}) - y_{2} = 0
+\end{align*}
+$$
