@@ -37,13 +37,14 @@ La _economía positiva_ aborda hechos, surgen preguntas a partir de datos y acon
 Por otro lado, la _economía normativa_ comprende preguntas que rayan en el sentido ético y subjetivo (e.g.: ¿El gobierno debería destinar más recursos a la población indígena?).
 
 
-
-
 ## Métodos de asignación de recursos
 
-- _Economía de mercado_: El sector privado se encarga de repartir los bienes, el sistema se caracteriza por trabajadores que compiten entre ellos por la obtención de bienes.
+- _Economía de mercado_: El sector privado se encarga de repartir los bienes, el sistema se caracteriza por trabajadores que compiten entre ellos por la obtención de bienes. Al caso extremo donde el gobierno no toma participación alguna, se le denomina como economía _laissez-faire_.
 
-- _Economías centralmente planificadas_: El estado distribuye los recursos, de tal manera que cada quien obtenga lo que necesita, independientemente del trabajo que pueda aportar.
+- _Economías centralmente planificadas (autoritarias)_: El estado distribuye los recursos, de tal manera que cada quien obtenga lo que necesita, independientemente del trabajo que pueda aportar.
+
+>[!Note]
+>Actualmente la mayoría de sistemas son economías mixtas
 
 
 ## El flujo circular de la economía
