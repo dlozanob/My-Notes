@@ -8,27 +8,11 @@
         "type": "tabs",
         "children": [
           {
-            "id": "30d2701e2a461daa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Finanzas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "82135d263b1d7961",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Obsidian basics.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -91,7 +75,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Finanzas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +91,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Finanzas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,9 +112,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Finanzas.md"
-              }
+              "state": {}
             }
           },
           {
@@ -182,7 +162,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "30d2701e2a461daa",
+  "active": "82135d263b1d7961",
   "lastOpenFiles": [
     "Obsidian basics.md",
     "Finanzas.md",
