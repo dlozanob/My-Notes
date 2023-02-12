@@ -13,6 +13,8 @@ Quién estudio la manera en la que deben fijarse los precios de productos y mate
 
 Mientras que la _macroeconomía_, estudia la relación entre factores económicos, tomando las variables generales de la economía (e.g: ingresos totales, nivel de empleo de los recursos y comportamiento de los precios). Surge en su forma moderna en 1936 gracias a la obra 'Teoría general del empleo, el interés y del dinero' de John Maynard Keynes.
 
+La _econometría_ es una técnica utilizada por economistas que aplica principios estadísticos a problemas económicos.
+
 El _costo de oportunidad_ es el valor más alto de una alternativa al que se debe renunciar, una vez seleccionada cierta alternativa entre varias.
 Ejemplo: Si una persona decie entre trabajar y descansar, pero decide esta última opción, el costo de oportunidad es el valor económico producido al trabajar.
 
