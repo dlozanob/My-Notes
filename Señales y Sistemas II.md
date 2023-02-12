@@ -146,6 +146,12 @@ Depende de la fricción del fluido.
 $$
 \begin{align*}
 	&\sum_{k = i}^{k = n} (f_{ext})_{i} = M\frac{dv}{dt} \\
-	&\sum_{k = i}^{k = n} (f_{ext})_{i} - M\frac{dv}{dt} = 
+	&\sum_{k = i}^{k = n} (f_{ext})_{i} - M\frac{dv}{dt} = 0
 \end{align*}
 $$
+
+Se le denomina a $M\frac{dv}{dt}$ como fuerza inercial, la cual es una fuerza ficticia.
+
+
+- Ley de desplazamientos:
+
