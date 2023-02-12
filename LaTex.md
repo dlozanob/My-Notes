@@ -17,7 +17,14 @@
 | Pi | `\pi` |
 | Product dot | `\cdot` |
 | Approximation | `\approx` |
-| Diameter 
+| Diameter | `\varnothing` |
+| Limit | `\lim_{<variable> \to <value>}` |
+| Infinite | `\infty` |
+| Summe | `\sum_{<var> = <inf lim>}^{<var> = <sup lim>}`
+| Defined integral | `\int_{<inf lim>}^{sup lim}` |
+| Partial derivative | 
+
+
 
 
 • Símbolo matemático en medio de un texto: Usar al inicio '$<expresión>$'
