@@ -41,7 +41,34 @@ It'll be shown enumerated.
 ```
 
 
-- Conditional expressions:
+- Conditional equation:
+
+```latex
+\begin{align*}
+	f(x)= \left\{
+		\begin{array}{lcc}
+		     5 & if & x \leq 2 \\\\
+		     x^2-6x+10 & if & 2 < x < 5 \\\\
+		     4x-15 & if & x \geq 5
+		\end{array}
+	\right.
+\end{align*}
+```
+
+$$
+\begin{align*}
+	f(x)= \left\{
+		\begin{array}{lcc}
+		     5 & if & x \leq 2 \\\\
+		     x^2-6x+10 & if & 2 < x < 5 \\\\
+		     4x-15 & if & x \geq 5
+		\end{array}
+	\right.
+\end{align*}
+$$
+
+
+
 
 
 
