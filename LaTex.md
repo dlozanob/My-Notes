@@ -3,7 +3,28 @@
 
 ## Equations
 
-- Simple equation block:
+
+
+- Equation block:
+
+```latex
+\begin{equation}
+	e^{i\theta} == 
+\end{equation}
+```
+
+
+- Multiple math expressions (recommended) :
+
+```latex
+\begin{align*}
+	c = a + b \\
+	d = g + h
+\end{align*}
+```
+
+
+- Simple math expression block:
 
 ```latex
 \[
@@ -11,7 +32,17 @@
 \]
 ```
 
-- 
+- Multiple math expressions:
+
+```latex
+\begin{gather*}
+	c = a + b \\
+	d = g + h
+\end{gather*}
+```
+
+
+
 
 
 
