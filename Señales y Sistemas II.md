@@ -309,9 +309,10 @@ Which are essential for 3d modeling and a further analysis of the problem
 - Tres características o atributos personales asociados a habilidades blandas que favorezcan el trabajo en equipo
 
 1. Handling pressure
-
+In the worst scenario, deadlines could suppose an issue, even though, i compromise myself since the first day to make sure a flawless work is done 
 
 2. Attention to details
 Every situation demands attention to spot every variable affecting the main objective
 
 3. Open to listen to others ideas
+Any opinion or suggestion is welcome in order to have a comfortable environment
