@@ -403,3 +403,8 @@ Supuestamente el mecanismo estaría bloqueado, pero en realidad tenemos un GDL.
 | Eslabón | ![[Pasted image 20230211121544.png]] |
 | Junta de rotación de bancada | ![[Pasted image 20230211121636.png]] |
 | Eslabón de 3 nodos | ![[Pasted image 20230211131053.png]] |
+
+
+
+https://singsurf.org/things/fourbar.php
+
