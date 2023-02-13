@@ -51,3 +51,26 @@
 ```
 
 
+## Sections
+
+- `\section{<name>}` : Main section header
+- `\subsection{<name>}`, `\subsubsection{<name>}` and so on: Lower section headers
+
+Enumerate sections:
+
+```Latex
+\begin{enumerate}
+
+\item \textbf{Subtítulo 1}\\
+
+'texto'
+
+\item \textbf{Subtítulo 2}\\
+
+'texto'
+
+\item \textbf{Subtítulo 3}\\
+
+\end{enumerate}
+```
+
