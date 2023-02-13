@@ -1,11 +1,12 @@
 {
   "accentColor": "#ecf000",
   "theme": "obsidian",
-  "cssTheme": "Sparkling Wisdom",
+  "cssTheme": "Cyber Glow",
   "baseFontSize": 17,
   "baseFontSizeAction": true,
   "translucency": true,
   "enabledCssSnippets": [
-    "obsidian-workspace-background(Shiba Uni Theme)"
+    "obsidian-workspace-background(Shiba Uni Theme)",
+    "wholeTranslucity"
   ]
 }
