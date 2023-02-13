@@ -26,7 +26,7 @@
 | Exclusive sum | `\oplus` | $\oplus$ |
 
 
-## Greek letters
+## Special characters
 
 | Symbol | Command |
 |-|-|
@@ -39,6 +39,17 @@
 | $\Omega$ | `\Omega` |
 | $\gamma$ | `\gamma` |
 | $\Gamma$ | `\Gamma` |
+| # | `\#` |
+| $ | `\$` |
+| % | `\%` |
+| & | `\&` |
+| / | `\textbackslash` |
+| \ | |
+
+
+
+
+
 
 
 ## References
@@ -60,17 +71,11 @@ Enumerate sections:
 
 ```Latex
 \begin{enumerate}
-
-\item \textbf{Subtítulo 1}\\
-
-'texto'
-
-\item \textbf{Subtítulo 2}\\
-
-'texto'
-
-\item \textbf{Subtítulo 3}\\
-
+	\item \textbf{Subtitle 1}\\
+	
+	\item \textbf{Subtitle 2}\\
+	
+	\item \textbf{Subtitle 3}\\
 \end{enumerate}
 ```
 
