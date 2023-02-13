@@ -71,7 +71,7 @@ $$
 
 
 
-
+## Matrices
 
 
 
@@ -175,6 +175,25 @@ Use `c`, `l` or `r` for center, left or right align the content in each column r
 ```
 
 To adjust the image width to the page width use `width = \linewidth`
+
+
+## List items
+
+
+```latex
+\begin{itemize}
+	\item
+	Ice cream Sundae
+
+	\item
+	Chocolate Cake
+
+	\item
+	Crème Brûlée
+\end{itemize}
+```
+
+To change the marker of list items use: `\item[<marker>]`
 
 
 ## References
