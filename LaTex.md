@@ -41,6 +41,8 @@ It'll be shown enumerated.
 ```
 
 
+- Conditional expressions:
+
 
 
 
@@ -136,11 +138,16 @@ Use `c`, `l` or `r` for center, left or right align the content in each column r
 
 ## Images
 
+```latex
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width = <sizeScale> \textwidth]{<image path>}
+    \caption{<description>}
+    \label{fig:my_label}
+\end{figure}
+```
 
-
-
-
-
+To adjust the image width to the page width use `width = \linewidth`
 
 
 ## References
