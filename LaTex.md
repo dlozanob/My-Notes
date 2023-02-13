@@ -158,6 +158,17 @@ $$
 | } | `\}` |
 
 
+## Text functions
+
+| Description | Command | Example |
+|-|-|-|
+| Bold text | `\textbf` | $\textbf Bold$ |
+| Italic text | `\textit{}` \ `\emph{}` | $\textit{Italic}$ |
+| Acute over any character | `\acute{}` | $\acute{x}$ |
+
+
+
+
 ## Sections
 
 - `\section{<name>}` : Main section header
