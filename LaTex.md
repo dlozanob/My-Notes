@@ -14,6 +14,7 @@
 
 It'll be shown enumerated.
 
+
 - Multiple math expressions (recommended):
 
 ```latex
@@ -23,6 +24,7 @@ It'll be shown enumerated.
 \end{align*}
 ```
 
+
 - Simple math expression block:
 
 ```latex
@@ -31,6 +33,7 @@ It'll be shown enumerated.
 \]
 ```
 
+
 - Multiple math expressions:
 
 ```latex
@@ -38,6 +41,16 @@ It'll be shown enumerated.
 	c = a + b \\
 	d = g + h
 \end{gather*}
+```
+
+
+- Multiple math expressions:
+
+```latex
+\begin{multline*}
+	c = a + b \\
+	d = g + h
+\end{multline*}
 ```
 
 
@@ -101,11 +114,12 @@ $$
 | Unit vector | `\hat{}` | $\hat{k}$ |
 | Subindex | `x_{}` | $x_{1}$ |
 | Superindex | `x^{}` | $x^{5}$ |
+| Plus minus | `\pm` | $\pm$ |
 | Root | `\sqrt[<index>]{}` | $\sqrt[4]{6}$ |
+| Logarithm | `\log_{<base>}<argument>` | $\log_{4}6$ |
 | Fractions | `\frac{}{}` | $\frac{8}{5}$ |
 | Line break | `\cr` |  |
 | Triangle | `\triangle` | $\triangle$ |
-| Logarithm | `\log_{<base>}<argument>` | $\log_{4}6$ |
 | Product dot | `\cdot` | $\cdot$ |
 | Approximation | `\approx` | $\approx$ |
 | Diameter | `\varnothing` | $\varnothing$ |
