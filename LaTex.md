@@ -176,8 +176,6 @@ Enumerate sections:
 ```
 
 
-
-
 ## Tables
 
 
