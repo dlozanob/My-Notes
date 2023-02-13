@@ -132,7 +132,8 @@ $$
 | Variable cancelation | `\bcancel{}` | $\bcancel{x}$ |
 | Approximation | `\approx` | $\approx$ |
 | Diameter | `\varnothing` | $\varnothing$ |
-| Physic units | `\unit{<unit>}` |  |
+| Physic units | `\unit{<unit>}` | `\unit{km*h}` |
+| Scientific notation | `\num{}` | `\num{3e-10}` |
 | Limit | `\lim_{<variable> \to <value>}` | $\lim_{x \to 0}$ |
 | Infinite | `\infty` | $\infty$ |
 | Summe | `\sum_{<var> = <inf lim>}^{<var> = <sup lim>}` | $\sum_{k = 1}^{k = n}$ |
@@ -168,7 +169,7 @@ $$
 | } | `\}` |
 
 
-## Text methods
+## Text and other useful methods
 
 | Description | Command | Example |
 |-|-|-|
@@ -182,7 +183,16 @@ $$
 | Break line | `\\` |  |
 | Double break line | `\bigskip` |  |
 | Jump to a new page | `\newpage` |  |
+| Current date | `\today` |  |
 
+
+To center text:
+
+```latex
+\begin{center}
+	This is an intentional useless text whose aim is to fill this line
+\end{center}
+```
 
 
 
