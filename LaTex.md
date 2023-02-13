@@ -3,6 +3,12 @@
 
 ## Equations
 
+>[!Note]
+>Use `\\` for break lines
+
+Inline math expresions 
+
+
 
 - Equation block (recommended):
 
@@ -19,10 +25,13 @@ It'll be shown enumerated.
 
 ```latex
 \begin{align*}
-	c = a + b \\
-	d = g + h
+	&c = a + b \\
+	&d = g + h
 \end{align*}
 ```
+
+>[!Note]
+>Use `&` for align characters
 
 
 - Simple math expression block:
@@ -168,7 +177,12 @@ $$
 | Tilde over any character | `\tilde{}` | $\tilde{x}$ |
 | Line over text string | `\overline{}` | $\overline{ABCD}$ |
 | Single space | `\quad` |  |
-| N horizontal spaces | `\hspace{<N>}`
+| N horizontal spaces | `\hspace{<N>}` |  |
+| Break line | `\\` |  |
+| Double break line | `\bigskip` |  |
+| Jump to a new page | `\newpage` |  |
+
+
 
 
 ## Sections
