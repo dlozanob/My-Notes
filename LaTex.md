@@ -226,6 +226,13 @@ To adjust the image width to the page width use `width = \linewidth`
 To change the marker of list items use: `\item[<marker>]`
 
 
+## To-do items
+
+- `\todo[⟨options⟩]{⟨todotext⟩}` : Add a To-do item
+- `\todo[color=green!40]{todotext}` : Check box To-do item
+- `\listoftodos` : Add a To-do list
+
+
 ## References
 
 ```LaTex

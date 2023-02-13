@@ -27,8 +27,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "LaTex.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "LaTex.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "LaTex.md"
+              }
             }
           },
           {
@@ -175,7 +178,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "958f4fb2fb984a0c",
+  "active": "9590e54032d9e955",
   "lastOpenFiles": [
     "LaTex.md",
     "Javascript.md",
