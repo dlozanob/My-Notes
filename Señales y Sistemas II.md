@@ -298,10 +298,7 @@ I consider i have these 3 following habilities in terms of hard engineering skil
 
 1. Logical reasoning and good coding practices
 When it comes to solve a problem i usually divide it into smaller pieces, making it simpler and easy to solve it using computer algoritms
-
 2. Efficiency for calculations involving physical concepts and mechanical design
-
-
 3.  Use of CAE software tools
 Which are essential for 3d modeling and a further analysis of the problem
 
@@ -310,9 +307,10 @@ Which are essential for 3d modeling and a further analysis of the problem
 
 1. Handling pressure
 In the worst scenario, deadlines could suppose an issue, even though, i compromise myself since the first day to make sure a flawless work is done 
-
 2. Attention to details
 Every situation demands attention to spot every variable affecting the main objective
-
 3. Open to listen to others ideas
-Any opinion or suggestion is welcome in order to have a comfortable environment
+Any opinion or suggestion is welcome in order to have a comfortable environment and a well done project
+
+
+That's all! Thanks for watching.
