@@ -123,14 +123,16 @@ $$
 | Subindex | `x_{}` | $x_{1}$ |
 | Superindex | `x^{}` | $x^{5}$ |
 | Plus minus | `\pm` | $\pm$ |
+| Fractions | `\frac{}{}` | $\frac{8}{5}$ |
 | Root | `\sqrt[<index>]{}` | $\sqrt[4]{6}$ |
 | Logarithm | `\log_{<base>}<argument>` | $\log_{4}6$ |
-| Fractions | `\frac{}{}` | $\frac{8}{5}$ |
 | Line break | `\cr` |  |
 | Triangle | `\triangle` | $\triangle$ |
 | Product dot | `\cdot` | $\cdot$ |
+| Variable cancelation | `\bcancel{}` | $\bcancel{x}$ |
 | Approximation | `\approx` | $\approx$ |
 | Diameter | `\varnothing` | $\varnothing$ |
+| Physic units | `\unit{<unit>}` |  |
 | Limit | `\lim_{<variable> \to <value>}` | $\lim_{x \to 0}$ |
 | Infinite | `\infty` | $\infty$ |
 | Summe | `\sum_{<var> = <inf lim>}^{<var> = <sup lim>}` | $\sum_{k = 1}^{k = n}$ |
