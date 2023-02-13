@@ -294,13 +294,15 @@ My main goal is to gain knowledge and experience for my professional future in t
 
 - Tres características o atributos personales en aspectos técnicos de ingeniería relacionados con el curso
 
-I consider i have these 3 following habilities in terms of hard skills in engineering:
+I consider i have these 3 following habilities in terms of hard engineering skills:
 
 1. Logical reasoning and good coding practices
 2. Efficiency for calculations involving physical concepts and mechanical design
-3. 
+3.  
 
 
 - Tres características o atributos personales asociados a habilidades blandas que favorezcan el trabajo en equipo
 
-
+1. Handling pressure
+2. Attention to details
+3. 
