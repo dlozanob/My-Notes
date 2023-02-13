@@ -27,7 +27,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -174,7 +175,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9d93bca41a6a57a5",
+  "active": "958f4fb2fb984a0c",
   "lastOpenFiles": [
     "LaTex.md",
     "Javascript.md",
