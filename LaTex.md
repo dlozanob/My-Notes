@@ -1,10 +1,5 @@
 # LaTeX
 
-
-• Para formato IEEE con doble columna:
-\documentclass[Journal]{IEEEtran}
-
-
 ## The LaTeX Structure
 
 ```latex
@@ -20,6 +15,20 @@
 \begin{document}
 	My first document on \LaTeX!
 \end{document}
+```
+
+The document type can be as well:
+- _report_
+- _book_
+
+For double column IEEE document define the document type as:
+`\documentclass[Journal]{IEEEtran}`
+
+Inside the preamble is possible to import packages, such as:
+
+```latex
+\usepackage{amsmath} % Math content
+\usepackage[spanish]{babel} % Document language
 ```
 
 
@@ -38,7 +47,14 @@ An alternative for multiline comments:
 \end{document}
 ```
 
+Environment or content blocks declaration:
 
+```latex
+\begin{myEnvironment}
+	.
+	.
+\end{myEnvironment}
+```
 
 
 ## Equations
