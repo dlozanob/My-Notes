@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "3a8632e7be88aadd",
+            "id": "958f4fb2fb984a0c",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -87,7 +87,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LaTex.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LaTex.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,9 +124,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "LaTex.md"
-              }
+              "state": {}
             }
           },
           {
@@ -178,9 +174,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9590e54032d9e955",
+  "active": "9d93bca41a6a57a5",
   "lastOpenFiles": [
     "LaTex.md",
+    "Javascript.md",
     "CSS.md",
     "README.md",
     "Obsidian basics.md",
@@ -188,7 +185,6 @@
     "Ingeniería Económica.md",
     "Servomecanismos.md",
     "Excalidraw/myDrawingSpace.excalidraw.md",
-    "Fundamentos de Mecánica de Fluidos.md",
-    "Finanzas.md"
+    "Fundamentos de Mecánica de Fluidos.md"
   ]
 }
