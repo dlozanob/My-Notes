@@ -289,7 +289,7 @@ ___
 - Nombre completo y principal expectativa de cursar la asignatura
 
 Hi there, my name is Daniel Lozano Barrero and i'm really excited to take this class, i expect to learn the very basics of the assignature as well as complex concepts applied to the automation industry today.
-My main go
+My main goal is to gain knowledge and experience for my professional future in the practice of my career and enjoy this promising course.
 
 
 - Tres características o atributos personales en aspectos técnicos de ingeniería relacionados con el curso
