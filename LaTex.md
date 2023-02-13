@@ -40,3 +40,14 @@
 | $\gamma$ | `\gamma` |
 | $\Gamma$ | `\Gamma` |
 
+
+## References
+
+```LaTex
+\begin{thebibliography}{0}
+	\bibitem{Giancoli}{Giancoli D, 2009, “Física para ciencias e ingeniería con física moderna”, volumen 2, cuarta edición, p. 560.}
+	\bibitem{Simulador}{Herramienta utilizada para la simulación del laboratorio: \url{http://www.flashphysics.org/electricField.html}}
+\end{thebibliography}
+```
+
+
