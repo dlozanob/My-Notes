@@ -173,6 +173,7 @@ $$
 
 | Description | Command | Example |
 |-|-|-|
+| Comments | `%` | %Comment |
 | Bold text | `\textbf` | $\textbf Bold$ |
 | Italic text | `\textit{}` \ `\emph{}` | $\textit{Italic}$ |
 | Acute over any character | `\acute{}` | $\acute{x}$ |
@@ -194,6 +195,13 @@ To center text:
 \end{center}
 ```
 
+For abstracts:
+
+```latex
+\begin{abstract}
+	This is an intentional useless text whose aim is to fill this line
+\end{abstract}
+```
 
 
 ## Sections
@@ -284,3 +292,16 @@ Cite any of the references with `\cite{<referenceName>}` :
 ```latex
 \cite{Giancoli}
 ```
+
+Reference a document section:
+
+```latex
+\section{My Section}
+\label{section:my}
+.
+.
+.
+Section~\ref{section:my}
+```
+
+To referen
