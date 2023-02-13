@@ -1,5 +1,8 @@
 # LaTeX
 
+
+Ultimate template with all the enough packages and features: [[LaTeX Template]]
+
 ## The LaTeX Structure
 
 ```latex
@@ -30,7 +33,6 @@ Inside the preamble is possible to import packages, such as:
 \usepackage{amsmath} % Math content
 \usepackage[spanish]{babel} % Document language
 ```
-
 
 
 An alternative for multiline comments:
