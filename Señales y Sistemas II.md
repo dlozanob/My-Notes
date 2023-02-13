@@ -298,14 +298,20 @@ I consider i have these 3 following habilities in terms of hard engineering skil
 
 1. Logical reasoning and good coding practices
 When it comes to solve a problem i usually divide it into smaller pieces, making it simpler and easy to solve it using computer algoritms
+
 2. Efficiency for calculations involving physical concepts and mechanical design
 
-4.  Use of CAE software tools
+
+3.  Use of CAE software tools
+Which are essential for 3d modeling and a further analysis of the problem
 
 
 - Tres características o atributos personales asociados a habilidades blandas que favorezcan el trabajo en equipo
 
 1. Handling pressure
+
+
 2. Attention to details
-Every situation demands attention to spot ev
-4. Open to listen to others ideas
+Every situation demands attention to spot every variable affecting the main objective
+
+3. Open to listen to others ideas
