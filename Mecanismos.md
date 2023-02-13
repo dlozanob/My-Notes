@@ -12,6 +12,7 @@ Un _eslabonamiento_ es el conjunto de eslabones y juntas.
 
 Así mismo, se pueden clasificar los eslabones según su número de _nodos_:
 
+![img](Pasted image 20230211085354.png)
 ![[Pasted image 20230211085354.png]]
 
 La _bancada_ (frame) es aquel elemento que se mantiene fijo en un mecanismo.
