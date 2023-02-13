@@ -283,6 +283,19 @@ f_{a}(t)
 $$
 
 
+___
 
+
+- Nombre completo y principal expectativa de cursar la asignatura
+
+Hi there, my name is Daniel Lozano Barrero and i'm really excited to take this class, i expect to learn the very basics of the assignature as well as complex concepts applied to the automation industry today.
+My main go
+
+
+- Tres características o atributos personales en aspectos técnicos de ingeniería relacionados con el curso
+
+
+
+- Tres características o atributos personales asociados a habilidades blandas que favorezcan el trabajo en equipo
 
 

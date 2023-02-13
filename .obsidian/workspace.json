@@ -63,7 +63,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "8cf20f15e2d652f4",
@@ -157,7 +158,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249.5
+    "width": 249.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,7 +172,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "958f4fb2fb984a0c",
+  "active": "5693abeaa76d99d1",
   "lastOpenFiles": [
     "LaTeX.md",
     "LaTeX Template.md",
