@@ -1,7 +1,21 @@
 # LaTex
 
-## Math syntax
 
+## Equations
+
+- Simple equation block:
+
+```latex
+\[
+	c = a + b
+\]
+```
+
+- 
+
+
+
+## Math syntax
 
 | Description | Command | Example |
 |-|-|-|
@@ -65,6 +79,11 @@
 	\bibitem{Giancoli}{Giancoli D, 2009, “Física para ciencias e ingeniería con física moderna”, volumen 2, cuarta edición, p. 560.}
 	\bibitem{Simulador}{Herramienta utilizada para la simulación del laboratorio: \url{http://www.flashphysics.org/electricField.html}}
 \end{thebibliography}
+```
+
+Cite any of the references with `\cite{<referenceName>}` :
+```latex
+\cite{Giancoli}
 ```
 
 
