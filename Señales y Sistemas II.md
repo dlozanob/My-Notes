@@ -288,8 +288,8 @@ ___
 
 - Nombre completo y principal expectativa de cursar la asignatura
 
-Hi there, my name is Daniel Lozano Barrero and i'm really excited to take this class, i expect to learn the very basics of the assignature as well as complex concepts applied to the automation industry today.
-My main goal is to gain knowledge and experience for my professional future in the practice of my career and enjoy each moment of this promising journey.
+Hi there, my name is Daniel Lozano and i'm really excited to take this class, i expect to learn the very basics of the assignature as well as complex concepts applied to the automation industry today.
+My main goal is to gain knowledge and experience for my professional future and enjoy each moment of this promising journey.
 
 
 - Tres características o atributos personales en aspectos técnicos de ingeniería relacionados con el curso
@@ -300,11 +300,11 @@ I consider i have these 3 following habilities in terms of hard engineering skil
 When it comes to solve a problem i usually divide it into smaller pieces, making it simpler and easy to solve it using computer algoritms
 2. Efficiency for calculations involving physical concepts and mechanical design
 3.  Use of CAE software tools
-Which are essential for 3d modeling and a further analysis of the problem
 
 
 - Tres características o atributos personales asociados a habilidades blandas que favorezcan el trabajo en equipo
 
+Soft skills:
 1. Handling pressure
 In the worst scenario, deadlines could suppose an issue, even though, i compromise myself since the first day to make sure a flawless work is done 
 2. Attention to details
