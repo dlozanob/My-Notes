@@ -74,6 +74,24 @@ $$
 ## Matrices
 
 
+```latex
+\begin{equation}
+	\begin{<bracketShape>}
+		2 & 5 & 0\\
+		7 & 3 & 8\\
+		3 & 0 & 1
+	\end{<bracketShape>}
+\end{equation}
+```
+
+| Bracket shape | Keyword |
+|-|-|
+| No brackets | `matrix` |
+| Round brackets | `pmatrix` |
+| Square brackets | `bmatrix` |
+| Curly brackets | `Bmatrix` |
+| Matrix determinant | `vmatrix` |
+
 
 ## Math syntax
 
