@@ -43,8 +43,14 @@
 | $ | `\$` |
 | % | `\%` |
 | & | `\&` |
-| / | `\textbackslash` |
-| \ | |
+| $\textfractionsolidus$ | `\textfractionsolidus` |
+| $\textbackslash$ | `\textbackslash` |
+| $\textasciicircum$ | `\textasciicircum` |
+| $\textasciitilde$ | `\textasciitilde` |
+| _ | `\_` |
+| { | `\{` |
+| } | `\}` |
+
 
 
 
