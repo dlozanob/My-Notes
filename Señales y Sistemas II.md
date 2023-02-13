@@ -289,15 +289,16 @@ ___
 - Nombre completo y principal expectativa de cursar la asignatura
 
 Hi there, my name is Daniel Lozano Barrero and i'm really excited to take this class, i expect to learn the very basics of the assignature as well as complex concepts applied to the automation industry today.
-My main goal is to gain knowledge and experience for my professional future in the practice of my career and enjoy each moment of this promising course.
+My main goal is to gain knowledge and experience for my professional future in the practice of my career and enjoy each moment of this promising journey.
 
 
 - Tres características o atributos personales en aspectos técnicos de ingeniería relacionados con el curso
 
-I consider i have the following 3 habilities in terms of hard skills in engineering:
+I consider i have these 3 following habilities in terms of hard skills in engineering:
 
-1. Logical reasoning 
-
+1. Logical reasoning and good coding practices
+2. Efficiency for calculations involving physical concepts and mechanical design
+3. 
 
 
 - Tres características o atributos personales asociados a habilidades blandas que favorezcan el trabajo en equipo
