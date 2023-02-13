@@ -5,9 +5,38 @@
 \documentclass[Journal]{IEEEtran}
 
 
-## The LaTeXStructure
+## The LaTeX Structure
+
+```latex
+% Define the document type
+\documentclass{article}
+
+% Generate the preamble
+\title{Mi primer documento}
+\date{2018-03-01}
+\author{Mr. LaTeX}
+
+% Define the body of the document
+\begin{document}
+	My first document on \LaTeX!
+\end{document}
+```
 
 
+
+An alternative for multiline comments:
+
+```latex
+\usepackage{comment}
+.
+.
+.
+\begin{document}
+	\begin{comment}
+		This is a multiline comment
+	\end{comment}
+\end{document}
+```
 
 
 
