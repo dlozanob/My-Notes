@@ -18,8 +18,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5d2df8c98e18548f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -80,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Señales y Sistemas II.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Señales y Sistemas II.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Señales y Sistemas II.md"
-              }
+              "state": {}
             }
           },
           {
@@ -172,8 +177,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5693abeaa76d99d1",
+  "active": "5d2df8c98e18548f",
   "lastOpenFiles": [
+    "Señales y Sistemas II.md",
     "LaTeX.md",
     "LaTeX Template.md",
     "Javascript.md",
@@ -182,7 +188,6 @@
     "Obsidian basics.md",
     "Fórmulas Financieras Excel.md",
     "Ingeniería Económica.md",
-    "Servomecanismos.md",
-    "Excalidraw/myDrawingSpace.excalidraw.md"
+    "Servomecanismos.md"
   ]
 }

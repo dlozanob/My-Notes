@@ -282,35 +282,3 @@ $$
 f_{a}(t)
 $$
 
-
-___
-
-
-- Nombre completo y principal expectativa de cursar la asignatura
-
-Hi there, my name is Daniel and i'm really excited to take this class, i expect to learn the very basics of the assignature as well as complex concepts applied to the automation industry today.
-My main goal is to gain knowledge and experience for my professional future and enjoy each moment of this promising journey.
-
-
-- Tres características o atributos personales en aspectos técnicos de ingeniería relacionados con el curso
-
-I consider i have these 3 following habilities in terms of hard engineering skills:
-
-1. Logical reasoning and good coding practices
-2. Efficiency for calculations involving physical concepts and mechanical design
-3.  Use of CAE software tools
-
-When it comes to solve a problem i usually divide it into smaller pieces, making it easier to solve using computer algorithms
-
-- Tres características o atributos personales asociados a habilidades blandas que favorezcan el trabajo en equipo
-
-Soft skills:
-1. Handling pressure
-In the worst case scenario, deadlines could suppose an issue, even though, i compromise myself since the first day to make sure a flawless work is done 
-2. Attention to details
-Every situation demands attention to spot every variable affecting the main objective
-3. Open to listen to others ideas
-Any opinion or suggestion is welcome in order to have a comfortable environment and a well done project
-
-
-That's all! Thanks for watching.
