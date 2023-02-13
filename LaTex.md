@@ -3,12 +3,11 @@
 
 ## Equations
 
+
+Inline math expresions are wrapped in `$<math expresion>$`. Simple multiline expresions are wrapped in `$$<math expresion>$$`.
+
 >[!Note]
 >Use `\\` for break lines
-
-Inline math expresions 
-
-
 
 - Equation block (recommended):
 
@@ -63,7 +62,7 @@ It'll be shown enumerated.
 ```
 
 
-- Conditional equation:
+- Conditional functions:
 
 ```latex
 \begin{align*}
