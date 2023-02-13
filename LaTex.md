@@ -4,17 +4,15 @@
 ## Equations
 
 
-
-- Equation block:
+- Equation block (recommended):
 
 ```latex
 \begin{equation}
-	e^{i\theta} == 
+	e^{i\theta} = cos(\theta) + iSin(\theta)
 \end{equation}
 ```
 
-
-- Multiple math expressions (recommended) :
+- Multiple math expressions (recommended):
 
 ```latex
 \begin{align*}
@@ -22,7 +20,6 @@
 	d = g + h
 \end{align*}
 ```
-
 
 - Simple math expression block:
 
@@ -40,6 +37,7 @@
 	d = g + h
 \end{gather*}
 ```
+
 
 
 
@@ -97,25 +95,15 @@
 | } | `\}` |
 
 
+## Tables
+
+
+~~~
+~~
 
 
 
 
-
-
-## References
-
-```LaTex
-\begin{thebibliography}{0}
-	\bibitem{Giancoli}{Giancoli D, 2009, “Física para ciencias e ingeniería con física moderna”, volumen 2, cuarta edición, p. 560.}
-	\bibitem{Simulador}{Herramienta utilizada para la simulación del laboratorio: \url{http://www.flashphysics.org/electricField.html}}
-\end{thebibliography}
-```
-
-Cite any of the references with `\cite{<referenceName>}` :
-```latex
-\cite{Giancoli}
-```
 
 
 ## Sections
@@ -135,3 +123,19 @@ Enumerate sections:
 \end{enumerate}
 ```
 
+
+
+
+## References
+
+```LaTex
+\begin{thebibliography}{0}
+	\bibitem{Giancoli}{Giancoli D, 2009, “Física para ciencias e ingeniería con física moderna”, volumen 2, cuarta edición, p. 560.}
+	\bibitem{Simulador}{Herramienta utilizada para la simulación del laboratorio: \url{http://www.flashphysics.org/electricField.html}}
+\end{thebibliography}
+```
+
+Cite any of the references with `\cite{<referenceName>}` :
+```latex
+\cite{Giancoli}
+```
