@@ -158,15 +158,17 @@ $$
 | } | `\}` |
 
 
-## Text functions
+## Text methods
 
 | Description | Command | Example |
 |-|-|-|
 | Bold text | `\textbf` | $\textbf Bold$ |
 | Italic text | `\textit{}` \ `\emph{}` | $\textit{Italic}$ |
 | Acute over any character | `\acute{}` | $\acute{x}$ |
-
-
+| Tilde over any character | `\tilde{}` | $\tilde{x}$ |
+| Line over text string | `\overline{}` | $\overline{ABCD}$ |
+| Single space | `\quad` |  |
+| N horizontal spaces | `\hspace{<N>}`
 
 
 ## Sections
