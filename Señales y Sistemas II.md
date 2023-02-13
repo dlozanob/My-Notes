@@ -297,12 +297,13 @@ My main goal is to gain knowledge and experience for my professional future in t
 I consider i have these 3 following habilities in terms of hard engineering skills:
 
 1. Logical reasoning and good coding practices
+
 2. Efficiency for calculations involving physical concepts and mechanical design
-3.  
+3.  Use of CAE software tools
 
 
 - Tres características o atributos personales asociados a habilidades blandas que favorezcan el trabajo en equipo
 
 1. Handling pressure
 2. Attention to details
-3. 
+3. Open to listen to others ideas
