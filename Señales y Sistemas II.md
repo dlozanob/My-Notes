@@ -288,7 +288,7 @@ ___
 
 - Nombre completo y principal expectativa de cursar la asignatura
 
-Hi there, my name is Daniel Lozano and i'm really excited to take this class, i expect to learn the very basics of the assignature as well as complex concepts applied to the automation industry today.
+Hi there, my name is Daniel and i'm really excited to take this class, i expect to learn the very basics of the assignature as well as complex concepts applied to the automation industry today.
 My main goal is to gain knowledge and experience for my professional future and enjoy each moment of this promising journey.
 
 
