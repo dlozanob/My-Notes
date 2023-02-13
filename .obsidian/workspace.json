@@ -27,7 +27,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +88,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LaTeX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LaTeX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,9 +125,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "LaTeX.md"
-              }
+              "state": {}
             }
           },
           {
@@ -178,10 +175,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9590e54032d9e955",
+  "active": "958f4fb2fb984a0c",
   "lastOpenFiles": [
-    "LaTeX Template.md",
     "LaTeX.md",
+    "LaTeX Template.md",
     "Javascript.md",
     "CSS.md",
     "README.md",
