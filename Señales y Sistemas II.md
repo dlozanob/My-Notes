@@ -300,7 +300,7 @@ I consider i have these 3 following habilities in terms of hard engineering skil
 2. Efficiency for calculations involving physical concepts and mechanical design
 3.  Use of CAE software tools
 
-When it comes to solve a problem i usually divide it into smaller pieces, making it easier to solve using computer algoritms
+When it comes to solve a problem i usually divide it into smaller pieces, making it easier to solve using computer algorithms
 
 - Tres características o atributos personales asociados a habilidades blandas que favorezcan el trabajo en equipo
 
