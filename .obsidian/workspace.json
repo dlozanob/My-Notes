@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LaTex.md",
+                "file": "LaTeX.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LaTex.md",
+                "file": "LaTeX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LaTex.md",
+                "file": "LaTeX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LaTex.md"
+                "file": "LaTeX.md"
               }
             }
           },
@@ -180,7 +180,7 @@
   },
   "active": "9590e54032d9e955",
   "lastOpenFiles": [
-    "LaTex.md",
+    "LaTeX.md",
     "Javascript.md",
     "CSS.md",
     "README.md",

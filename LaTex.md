@@ -1,4 +1,15 @@
-# LaTex
+# LaTeX
+
+
+• Para formato IEEE con doble columna:
+\documentclass[Journal]{IEEEtran}
+
+
+## The LaTeXStructure
+
+
+
+
 
 
 ## Equations
@@ -87,9 +98,6 @@ $$
 	\right.
 \end{align*}
 $$
-
-
-
 
 
 ## Matrices
@@ -185,6 +193,7 @@ $$
 | Double break line | `\bigskip` |  |
 | Jump to a new page | `\newpage` |  |
 | Current date | `\today` |  |
+| Display table of contents | `\tableofcontents` |  |
 
 
 To center text:
@@ -219,6 +228,27 @@ Enumerate sections:
 	
 	\item \textbf{Subtitle 3}\\
 \end{enumerate}
+```
+
+
+## Title pages
+
+```latex
+\begin{titlepage}
+    \centering
+    {\bfseries\LARGE Universidad Nacional de Colombia \par}
+    \vspace{1cm}
+    {\scshape\Large Facultad de Ingeniería \par}
+    \vspace{1cm}
+    {\scshape\Large Departamento de Ingeniería Mecánica y Mecatrónica \par}
+    \vspace{3cm}
+    {\scshape\Huge Título del proyecto \par}
+    \vspace{3cm}
+    {\Large Autor: \par}
+    {\Large Nombre Apellidos \par}
+    \vspace{5cm}
+    {\Large Fecha \par}
+\end{titlepage}
 ```
 
 
@@ -304,4 +334,4 @@ Reference a document section:
 Section~\ref{section:my}
 ```
 
-To referen
+To reference a document's page use `\pageref{}`.

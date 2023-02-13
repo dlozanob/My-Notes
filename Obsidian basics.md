@@ -82,7 +82,7 @@ Here's a sample footnote[^1].
 
 $$e^{i\theta} = Cos(\theta) + iSin(\theta)$$
 
-Mardown supports [[LaTex]] commands by wrapping them with $\$$ for single lines or double  $\$$ for  multiple lines.
+Mardown supports [[LaTeX]] commands by wrapping them with $\$$ for single lines or double  $\$$ for  multiple lines.
 
 
 ## Matrices:
