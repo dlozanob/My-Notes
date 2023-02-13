@@ -12,6 +12,8 @@
 \end{equation}
 ```
 
+It'll be shown enumerated.
+
 - Multiple math expressions (recommended):
 
 ```latex
@@ -95,17 +97,6 @@
 | } | `\}` |
 
 
-## Tables
-
-
-~~~
-~~
-
-
-
-
-
-
 ## Sections
 
 - `\section{<name>}` : Main section header
@@ -122,6 +113,32 @@ Enumerate sections:
 	\item \textbf{Subtitle 3}\\
 \end{enumerate}
 ```
+
+
+
+
+## Tables
+
+
+```latex
+\begin{center}
+  \begin{tabular}{|c|c|c|}
+    \hline
+    \multicolumn{6}{|c|}{<title>} \\ \hline
+    <a11> & <a12> & <a13> \\ \hline  
+    <a21> & <a22> & <213> \\ \hline
+  \end{tabular}
+\end{center}
+```
+
+Use `c`, `l` or `r` for center, left or right align the content in each column respectively.
+
+
+## Images
+
+
+
+
 
 
 
