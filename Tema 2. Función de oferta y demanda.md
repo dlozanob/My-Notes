@@ -6,3 +6,10 @@ La banca es un agente importante el cual se encarga de captar el dinero de la ge
 
 ## Elasticidad
 
+
+
+
+
+## External links
+
+- [Yahoo finance](https://finance.yahoo.com/)
