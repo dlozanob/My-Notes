@@ -40,3 +40,5 @@ Por tanto, el mecanismo tiene dos etapas:
 - Aproximación a la posición inicial de dibujo
 - Dibujo del trébol
 
+Se deben hacer hasta 10 ciclos de la segunda etapa.
+
