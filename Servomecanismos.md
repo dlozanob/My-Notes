@@ -15,3 +15,16 @@ El diagrama de bloques de control de un servomecanismo se ve de la siguiente man
 
 El PID corrige el error con base en el feedback (sensor).
 El _FF_ (feedforward) hace un seguimiento a la referencia (datos deseados inicialmente). Los sistemas de control avanzados suelen utilizarlos para generar una respuesta más precisa.
+
+
+
+
+## Proyecto académico
+
+![[Pasted image 20230214095505.png]]
+
+Se debe parametrizar el trébol, y a partir de tal parametrización
+
+
+
+
