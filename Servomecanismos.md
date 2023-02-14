@@ -23,7 +23,7 @@ El _FF_ (feedforward) hace un seguimiento a la referencia (datos deseados inicia
 
 ![[Pasted image 20230214095505.png]]
 
-Se debe parametrizar el trébol, y a partir de tal parametrización
+Se debe parametrizar el trébol, y a partir de tal parametrización hay que determinar elos perfiles de movimiento de $\theta_{1}$ y $\theta_{2}$ con respecto al tiempo.
 
 
 
