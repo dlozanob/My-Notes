@@ -36,5 +36,7 @@ Posición inicial:
 
 La segunda revoluta no puede estar por encima de la línea roja. El extremo distal o punto de interés de salida, no puede estar a la derecha de la línea verde.
 
-
+Por tanto, el mecanismo tiene dos etapas:
+- Aproximación a la posición inicial de dibujo
+- Dibujo del trébol
 
