@@ -18,8 +18,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "71dccc046b8c0ecf",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -79,7 +88,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Finanzas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +104,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Finanzas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,9 +125,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Finanzas.md"
-              }
+              "state": {}
             }
           },
           {
@@ -170,8 +175,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "958f4fb2fb984a0c",
+  "active": "71dccc046b8c0ecf",
   "lastOpenFiles": [
+    "Finanzas.md",
     "Servomecanismos.md",
     "Excalidraw/myDrawingSpace.excalidraw.md",
     "Señales y Sistemas II.md",
@@ -180,7 +186,6 @@
     "Web Development.md",
     "Ciencias Económicas y Administrativas.md",
     "Ingeniería Electrónica.md",
-    "LaTeX.md",
-    "LaTeX Template.md"
+    "LaTeX.md"
   ]
 }

@@ -182,6 +182,9 @@ $$
 El _PIB per cápita_ se puede utilizar como una aproximación al ingreso de cada individuo, o como un indicador del desarrollo de un país.
 
 
+## Oferta y demanda
+
+
 
 
 
