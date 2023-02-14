@@ -13,22 +13,21 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Señales y Sistemas II.md",
+                "file": "Servomecanismos.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "5d2df8c98e18548f",
+            "id": "9abbeaedbc0a755d",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Servomecanismos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Servomecanismos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Servomecanismos.md"
+              }
             }
           },
           {
@@ -175,17 +178,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5d2df8c98e18548f",
+  "active": "958f4fb2fb984a0c",
   "lastOpenFiles": [
     "Señales y Sistemas II.md",
+    "Automatización, Control y Robótica.md",
+    "Ingeniería de Diseño.md",
+    "Web Development.md",
+    "Ciencias Económicas y Administrativas.md",
+    "Ingeniería Electrónica.md",
     "LaTeX.md",
     "LaTeX Template.md",
     "Javascript.md",
-    "CSS.md",
-    "README.md",
-    "Obsidian basics.md",
-    "Fórmulas Financieras Excel.md",
-    "Ingeniería Económica.md",
-    "Servomecanismos.md"
+    "CSS.md"
   ]
 }

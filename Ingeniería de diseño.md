@@ -1,4 +1,4 @@
-# Ingeniería de diseño
+# Ingeniería de Diseño
 
 - [[Principios de Estática]]
 - [[Principios de Dinámica]]

@@ -1,4 +1,4 @@
-# Ciencias económicas y administrativas
+# Ciencias Económicas y Administrativas
 
 - [[Ingeniería Económica]]
 - [[Finanzas]]

@@ -1,4 +1,4 @@
-# Ingeniería electrónica
+# Ingeniería Electrónica
 
 - [[Taller de Ingeniería Electrónica]]
 - [[Circuitos Eléctricos I]]
