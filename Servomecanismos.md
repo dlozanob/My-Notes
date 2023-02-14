@@ -28,9 +28,13 @@ Se debe parametrizar el trébol, y a partir de tal parametrización hay que dete
 ![[Pasted image 20230214102643.png]]
 
 El trébol debe poder dibujarse en el rango $\pm 45°$ a partir de su posición inicial.
+Así miso, debe ser escalable hasta $1.33$ veces.
 
+Posición inicial:
 
+![[Pasted image 20230214103609.png]]
 
+La segunda revoluta no puede estar por encima de la línea roja. El extremo distal o punto de interés de salida, no puede estar a la derecha de la línea verde.
 
 
 
