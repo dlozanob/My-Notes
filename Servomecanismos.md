@@ -25,6 +25,12 @@ El _FF_ (feedforward) hace un seguimiento a la referencia (datos deseados inicia
 
 Se debe parametrizar el trébol, y a partir de tal parametrización hay que determinar elos perfiles de movimiento de $\theta_{1}$ y $\theta_{2}$ (gráficas con respecto al tiempo).
 
+![[Pasted image 20230214102643.png]]
+
+El trébol debe poder dibujarse en el rango $\pm 45°$ a partir de su posición inicial.
+
+
+
 
 
 
