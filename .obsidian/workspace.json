@@ -11,22 +11,8 @@
             "id": "958f4fb2fb984a0c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Servomecanismos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9abbeaedbc0a755d",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/myDrawingSpace.excalidraw.md"
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -89,7 +75,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Servomecanismos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +91,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Servomecanismos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,9 +112,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Servomecanismos.md"
-              }
+              "state": {}
             }
           },
           {
@@ -182,8 +164,8 @@
   },
   "active": "958f4fb2fb984a0c",
   "lastOpenFiles": [
-    "Excalidraw/myDrawingSpace.excalidraw.md",
     "Servomecanismos.md",
+    "Excalidraw/myDrawingSpace.excalidraw.md",
     "Señales y Sistemas II.md",
     "Automatización, Control y Robótica.md",
     "Ingeniería de Diseño.md",
