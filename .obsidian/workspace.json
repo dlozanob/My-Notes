@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Finanzas.md",
+                "file": "Tema 1. Economía y matemática financiera.md",
                 "mode": "source",
                 "source": false
               }
@@ -23,8 +23,12 @@
             "id": "71dccc046b8c0ecf",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Módulo 1. Economía y matemática financiera.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -88,6 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Módulo 1. Economía y matemática financiera.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,6 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Módulo 1. Economía y matemática financiera.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +131,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Módulo 1. Economía y matemática financiera.md"
+              }
             }
           },
           {
@@ -149,7 +157,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "finanzas",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -178,14 +186,14 @@
   "active": "71dccc046b8c0ecf",
   "lastOpenFiles": [
     "Finanzas.md",
+    "Ciencias Económicas y Administrativas.md",
+    "Tema 1. Economía y matemática financiera.md",
+    "Módulo 1. Economía y matemática financiera.md",
     "Servomecanismos.md",
     "Excalidraw/myDrawingSpace.excalidraw.md",
     "Señales y Sistemas II.md",
     "Automatización, Control y Robótica.md",
     "Ingeniería de Diseño.md",
-    "Web Development.md",
-    "Ciencias Económicas y Administrativas.md",
-    "Ingeniería Electrónica.md",
-    "LaTeX.md"
+    "Web Development.md"
   ]
 }
