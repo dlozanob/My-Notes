@@ -11,8 +11,12 @@
             "id": "958f4fb2fb984a0c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "LaTeX Template.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -87,6 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "LaTeX Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,6 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "LaTeX Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +130,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "LaTeX Template.md"
+              }
             }
           },
           {
@@ -148,7 +156,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "# LaTeX",
+                "query": "file:latex",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -174,8 +182,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "abed2df76f33d216",
+  "active": "958f4fb2fb984a0c",
   "lastOpenFiles": [
+    "CSS.md",
     "Tema 2. Función de oferta y demanda.md",
     "Módulo 1. Economía y matemática financiera.md",
     "Finanzas.md",
@@ -184,7 +193,6 @@
     "Tema 1. Economía y matemática financiera.md",
     "Servomecanismos.md",
     "Excalidraw/myDrawingSpace.excalidraw.md",
-    "Señales y Sistemas II.md",
-    "Automatización, Control y Robótica.md"
+    "Señales y Sistemas II.md"
   ]
 }
