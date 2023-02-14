@@ -11,12 +11,8 @@
             "id": "958f4fb2fb984a0c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tema 1. Economía y matemática financiera.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -25,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Módulo 1. Economía y matemática financiera.md",
+                "file": "Tema 2. Función de oferta y demanda.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Módulo 1. Economía y matemática financiera.md",
+                "file": "Tema 2. Función de oferta y demanda.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Módulo 1. Economía y matemática financiera.md",
+                "file": "Tema 2. Función de oferta y demanda.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Módulo 1. Economía y matemática financiera.md"
+                "file": "Tema 2. Función de oferta y demanda.md"
               }
             }
           },
@@ -185,15 +181,15 @@
   },
   "active": "71dccc046b8c0ecf",
   "lastOpenFiles": [
+    "Módulo 1. Economía y matemática financiera.md",
     "Finanzas.md",
     "Ciencias Económicas y Administrativas.md",
+    "Tema 1. Economía.md",
     "Tema 1. Economía y matemática financiera.md",
-    "Módulo 1. Economía y matemática financiera.md",
+    "Tema 2. Función de oferta y demanda.md",
     "Servomecanismos.md",
     "Excalidraw/myDrawingSpace.excalidraw.md",
     "Señales y Sistemas II.md",
-    "Automatización, Control y Robótica.md",
-    "Ingeniería de Diseño.md",
-    "Web Development.md"
+    "Automatización, Control y Robótica.md"
   ]
 }
