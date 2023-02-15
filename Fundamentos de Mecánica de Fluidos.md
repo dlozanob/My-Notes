@@ -181,6 +181,17 @@ El volumen cambia con la variación de la temperatura a presión constante.
 
 
 
+## Viscosidad
 
+
+Se supone el siguiente caso:
+
+![[Pasted image 20230212133047.png]]
+
+
+La placa adquiere una velocidad constante. Esto provoca que en cada una de las capas del fluido se adquiera una velocidad para cada una.
+
+El sustrato de la capa superior adquiere la misma velocidad que la placa superior.
+Así como la capa inferior adquiere la misma velocidad de la placa infer
 
 
