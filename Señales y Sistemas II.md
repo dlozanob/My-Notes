@@ -142,7 +142,14 @@ $$
 \end{align*}
 $$
 
-Se puede tomar como dos pistones inmersos en un fluido por parcticidad.
+Se puede tomar como dos pistones inmersos en una cámara que contiene un fluido.
+
+![[Pasted image 20230214220605.png]]
+
+Así mismo, la fuerza que actúa sobre el amortiguador es ejercida por la viscosidad del fluido, y depende de la relación entre las velocidades $v_{1}$ y $v_{2}$.
+
+
+
 
 
 
