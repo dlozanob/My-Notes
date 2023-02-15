@@ -122,4 +122,19 @@ Tras un momento se llega al equilibrio, en este punto se llega a la presión de 
 1 atm 760mmHg 101325 pa
 
 >[!Note]
->$1 \hspace{3} = \hspace{3} = $
+>$1 \hspace{3} atm  = 760\hspace{3} mmHg = 101325 \hspace{3} Pa$
+
+$$
+
+ \hspace{3} Pa
+\end{align*}
+$$
+
+Cuando se presentan caidas de presión lo suficientemente grandes como para estar por debajo de la presión de vapor en un liquido, se comienzan a formar burbujas, a esto se le conoce como _cavitación_.
+
+Al formarse burbujas, estas van a estallarse, formando abolladuras en la maquinaria.
+Esto sucede comúnmente en turbinas.
+
+
+
+

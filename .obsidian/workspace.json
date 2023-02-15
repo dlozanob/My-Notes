@@ -28,6 +28,18 @@
                 "file": "Excalidraw/myDrawingSpace.excalidraw.md"
               }
             }
+          },
+          {
+            "id": "a8da3816a6422fc7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LaTeX.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -154,7 +166,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: myDr",
+                "query": "file: latex",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -182,10 +194,10 @@
   },
   "active": "7cdfab5cfcac439b",
   "lastOpenFiles": [
-    "Excalidraw/myDrawingSpace.excalidraw.md",
-    "Fundamentos de Mecánica de Fluidos.md",
-    "Señales y Sistemas II.md",
     "LaTeX.md",
+    "Fundamentos de Mecánica de Fluidos.md",
+    "Excalidraw/myDrawingSpace.excalidraw.md",
+    "Señales y Sistemas II.md",
     "Main.md",
     "Tema 2. Función de oferta y demanda.md",
     "LaTeX Template.md",
