@@ -148,12 +148,10 @@ Se puede tomar como dos pistones inmersos en una cámara que contiene un fluido.
 
 Así mismo, la fuerza que actúa sobre el amortiguador es ejercida por la viscosidad del fluido, y depende de la relación entre las velocidades $v_{1}$ y $v_{2}$.
 
+![[Pasted image 20230214221414.png]]
 
-
-
-
-
-
+En el primero de los casos los dos pistones se alejan entre sí, por tanto, el fluido se opone a este movimiento, ejerciendo una fricción de amortiguación.
+En el segundo caso ambos pistones se acercan, una vez más la fuerza se opone a este movimiento.
 
 
 - Ley de D'Alembert:
@@ -297,3 +295,13 @@ $$
 f_{a}(t)
 $$
 
+Ejemplo:
+
+![[Pasted image 20230214221704.png]]
+
+
+El procedimiento para resolver cualquier problema de este estilo es:
+
+1. Tomar cualquiera de los objetos para estudiarlo individualmente
+2. Suponer la relación entre las variables
+3. Plantear las ecuaciones dinámicas
