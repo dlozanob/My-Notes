@@ -317,9 +317,10 @@ Supongamos que $z_{1} - z_{0} > 0$, eso significa que el resorte 1 está tension
 
 Ahora supongamos además que $z_{1} - z_{2} > 0$, luego el resorte se está comprimiendo, produciendo una fuerza en sentido negativo sobre la masa 1. Una última suposición, $\dot z_{1} - \dot z_{2} > 0$, por consiguiente, la masa 1 se acerca a la 2, lo que quiere decir que hay una fuerza de amortiguamiento en sentido negativo actuando sobre la masa 1.
 
-Todas estas fuerzas son equivalentes a una fuerza inercial $m_{1}\ddot z_{1}$, pasando este elemento al otro lado de la ecuación queda en sentido negativo
-
+Todas estas fuerzas son equivalentes a una fuerza inercial $m_{1}\ddot z_{1}$, pasando este elemento al otro lado de la ecuación queda en sentido negativo.
 
 Según las suposiciones hechas se tiene el DCL para la masa 1:
 
 ![[Pasted image 20230214222650.png]]
+
+Se hace el mismo procedimiento para la masa 2, se plantean las ecuaciones dinámicas y se modela el sistema con el vector de estados.
