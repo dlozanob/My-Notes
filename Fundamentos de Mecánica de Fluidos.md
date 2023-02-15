@@ -192,6 +192,10 @@ Se supone el siguiente caso:
 La placa adquiere una velocidad constante. Esto provoca que en cada una de las capas del fluido se adquiera una velocidad para cada una.
 
 El sustrato de la capa superior adquiere la misma velocidad que la placa superior.
-Así como la capa inferior adquiere la misma velocidad de la placa infer
+Así como la capa inferior adquiere la misma velocidad de la placa inferior. Se forma un perfil de velocidad lineal.
+
+Ahora bien, el desplazamiento de la capa superior si suponemos que se mueve a una velocidad $v$, es $da = vdt$.
+
+Este perfil de velocidad 
 
 
