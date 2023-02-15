@@ -123,7 +123,7 @@ $$
 \end{align*}
 $$
 
-Depende de la elasticidad del resorte.
+La naturaleza de la fuerza axial que actúa sobre el resorte dependerá de la relación entre $y_{1}$ y 
 
 
 - Amortiguador

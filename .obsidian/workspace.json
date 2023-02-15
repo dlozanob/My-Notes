@@ -18,6 +18,16 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d01bcec96537ffc0",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/myDrawingSpace.excalidraw.md"
+              }
+            }
           }
         ]
       }
@@ -144,7 +154,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: señales",
+                "query": "file: myDra",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -172,11 +182,11 @@
   },
   "active": "9a2477aa737f556d",
   "lastOpenFiles": [
+    "Excalidraw/myDrawingSpace.excalidraw.md",
+    "Señales y Sistemas II.md",
     "Tema 2. Función de oferta y demanda.md",
     "LaTeX Template.md",
     "LaTeX.md",
-    "Señales y Sistemas II.md",
-    "Excalidraw/myDrawingSpace.excalidraw.md",
     "CSS.md",
     "Módulo 1. Economía y matemática financiera.md",
     "Finanzas.md",
