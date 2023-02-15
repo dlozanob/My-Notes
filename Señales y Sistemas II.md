@@ -315,4 +315,10 @@ Supongamos que $z_{1} - z_{0} > 0$, eso significa que el resorte 1 está tension
 >[!Note]
 >Pudimos haber supuesto que $z_{1} - z_{0} < 0$ o que $\dot z_{1} - \dot z_{0} < 0$, esto solo cambiaría la dirección de las fuerzas, pero es totalmente válido.
 
-Según las suposiciones hechas 
+Ahora supongamos además que 
+
+
+
+Según las suposiciones hechas se tiene el DCL para la masa 1:
+
+![[Pasted image 20230214222650.png]]
