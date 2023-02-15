@@ -133,4 +133,14 @@ Esto sucede comúnmente en turbinas.
 
 
 
-## Coeficiente de 
+## Coeficiente de compresibilidad
+
+
+$$
+	k = -\frac{\triangle P}{\triangle V/V}
+$$
+
+
+Se define el _módulo de elasticidad volumétrico_ o _coeficiente de compresibilidad_ como el incremento de presión necesario para generar un decremento de volumen unitario.
+
+Esto sucede a temperatura constante.
