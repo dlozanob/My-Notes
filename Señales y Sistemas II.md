@@ -127,6 +127,7 @@ La naturaleza de la fuerza axial que actúa sobre el resorte dependerá de la re
 
 Siendo así, se tendrán los dos casos:
 
+![[Pasted image 20230214215814.png]]
 
 
 
