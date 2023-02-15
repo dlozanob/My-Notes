@@ -220,8 +220,20 @@ Así que un contexto más general se describe:
 $$
 	\dot \gamma = \frac{dv}{dy}
 $$
-Se tienen las siguientes realciones:
+Se tienen las siguientes relaciones:
 
 $$
-	\propto
+\begin{align*}
+	\tau \propto \dot \gamma \\
+	\tau \propto \frac{du}{dy}
+\end{align*}
 $$
+
+Se define la _viscosidad dinámica_ $\mu$ como:
+
+$$
+	\tau = \mu \frac{du}{dy}
+$$
+Tiene unidades $[ML^{-1}T_{-1}]$ o $[Pa*s]$.
+
+Para los fluidos no newtonianos se describe la _viscosidad aparente_ como la pendiente del esfuerzo cortante contra la razón de deformación.
