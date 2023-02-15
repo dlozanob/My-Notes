@@ -191,7 +191,7 @@ $$
 \end{align*}
 $$
 
-Se define el vector de estado: 
+Se define el vector de estados:
 
 $$
 \begin{pmatrix}
