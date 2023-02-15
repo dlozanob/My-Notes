@@ -280,7 +280,6 @@ equation
   der(x7) = x8;
   der(x8) = (K3*x5)/M4 + (C3*x6)/M4 - (K3*x7)/M4 - (C3*x8)/M4 - (K4*x7)/M4 - (C4*x8)/M4 + (K4*Xo)/M4; 
 
-
 ---
 
 
@@ -315,4 +314,9 @@ end simClase;
 
 
 
-der(x8) = 1/m4*(k3*x5 + c3*x6 - (k3 + k4)*x7 - (c3 + c4)*x8 + k4*x0);
+der(x8) = (k3*x5)/m4 + (c3*x6)/m4 - (k3*x7)/m4 - (c3*x8)/m4 - (k4*x7)/m4 - (c4*x8)/m4 + (k4*x0)/m4;
+
+der(x8) = (k3*x5)/m4 + (c3*x6)/m4 - (k3*x7)/m4 - (k4*x7)/m4 - (c3*x8)/m4  - (c4*x8)/m4 + (k4*x0)/m4;
+
+
+der(x8) = 1/m4*(k3*x5 + c3*x6 - k3*x7 - k4*x7 - c3*x8 - c4*x8 + k4*x0);
