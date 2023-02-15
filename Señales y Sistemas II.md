@@ -303,5 +303,16 @@ Ejemplo:
 El procedimiento para resolver cualquier problema de este estilo es:
 
 1. Tomar cualquiera de los objetos para estudiarlo individualmente
-2. Suponer la relación entre las variables
+2. Hacer suposiciones sobre la relación entre las variables
 3. Plantear las ecuaciones dinámicas
+4. Repetir el paso 1 al 3 para el resto de masas
+5. Definir el vector de estados así como modelar el sistema
+
+Comencemos por la masa 1:
+
+Supongamos que $z_{1} - z_{0} > 0$, eso significa que el resorte 1 está tensionado, por lo que hala la masa 1 hacia abajo. Ahora supongamos que $\dot z_{1} - \dot z_{0} > 0$, lo que significa que la masa 1 se aleja del suelo, entonces existe una fuerza de amortiguamiento que se opone a ese movimiento y hala la masa 1 hacia abajo.
+
+>[!Note]
+>Pudimos haber supuesto que $z_{1} - z_{0} < 0$ o que $\dot z_{1} - \dot z_{0} < 0$, esto solo cambiaría la dirección de las fuerzas, pero es totalmente válido.
+
+Según las suposiciones hechas 
