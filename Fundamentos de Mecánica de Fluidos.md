@@ -202,10 +202,6 @@ $$
 	u(y) = \frac{v}{l}y
 $$
 
-En realidad esto no sucede, 
-
-
-
 El ángulo $\gamma$ se puede tomar como:
 
 $$
@@ -216,3 +212,16 @@ $$
 \end{align*}
 $$
 
+En realidad, esto no sucede así, el perfil lineal de velocidades es una aproximación.
+Existe una deformación considerable de tal perfil en la realidad.
+
+Así que un contexto más general se describe:
+
+$$
+	\dot \gamma = \frac{dv}{dy}
+$$
+Se tienen las siguientes realciones:
+
+$$
+	\propto
+$$
