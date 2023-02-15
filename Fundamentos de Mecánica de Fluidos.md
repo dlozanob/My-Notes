@@ -324,3 +324,6 @@ end simClase;
   der(x8) = -(k4*x7)/m4 - (c3*x8)/m4 - (c4*x8)/m4 + (k4*x0)/m4;
   der(x8) = -(c3*x8)/m4 - (k4*x7)/m4 - (c4*x8)/m4 + (k4*x0)/m4;
 
+![[Pasted image 20230215151750.png]]
+
+![[Pasted image 20230215151819.png]]
