@@ -253,3 +253,5 @@ La viscosidad aparente se define también como:
 | Gases | $\mu = a10^{b(T - c)}$ |
 
 Donde $a, b$ y $c$ son determinados experimentalmente.
+
+
