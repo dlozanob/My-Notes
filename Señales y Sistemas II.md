@@ -133,7 +133,7 @@ Siendo así, se tendrán los dos casos:
 
 - Amortiguador
 
-![[Pasted image 20230211200234.png]]
+![[Pasted image 20230214220124.png]]
 
 $$
 \begin{align*}
@@ -142,7 +142,10 @@ $$
 \end{align*}
 $$
 
-Depende de la fricción del fluido.
+Se puede tomar como dos pistones inmersos en un fluido por parcticidad.
+
+
+
 
 
 
