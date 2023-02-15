@@ -154,14 +154,33 @@ $$
 	\rho = \frac{m}{V} \\\\
 	d\rho = -\frac{m}{V^2}dV \\\\
 	dV = -\frac{V_{2}}{m}d\rho \\\\
-	k = \rho(\frac{\partial P}{\partial \rho})
 \end{align*}
 $$
+
+Sustituyendo en $k$ se obtiene:
+
+$$
+k = \rho(\frac{\partial P}{\partial \rho})
+$$
+
 
 _Coeficiente de compresibilidad isotérmica_:
 
 $$
 	\alpha = \frac{1}{k} = \frac{1}{\rho}(\frac{\partial \rho}{\partial P})
 $$
+
+
+
+El _coeficiente de expansión volumétrico_ se define como:
+
+$$
+	\beta = [\frac{\triangle V/V_{0}}{\triangle T}]_{P} = -\frac{1}{\rho}(\frac{\partial \rho}{\partial T})_{P}
+$$
+El volumen cambia con la variación de la temperatura a presión constante.
+
+
+
+
 
 
