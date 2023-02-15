@@ -169,7 +169,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: latex",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
