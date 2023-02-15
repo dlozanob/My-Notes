@@ -115,3 +115,7 @@ Igualmente sucede al conttrario, las moléculas entonces pasan a la parte gaseos
 Tras un momento se llega al equilibrio, en este punto se llega a la presión de vapor, es cuando el número de moléculas que pasa de la fase líquida a gaseosa y viceversa, son iguales.
 
 
+>[!Note]
+>Bogotá se encuentra aproximadamente a 77 kPa
+>Siendo así, la temperatura de ebullición (temperatura de saturación) del agua ronda los 92 °C
+
