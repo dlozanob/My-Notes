@@ -196,6 +196,23 @@ Así como la capa inferior adquiere la misma velocidad de la placa inferior. Se 
 
 Ahora bien, el desplazamiento de la capa superior si suponemos que se mueve a una velocidad $v$, es $da = vdt$.
 
-Este perfil de velocidad 
+Este perfil de velocidad se puede describir de la forma:
 
+$$
+	u(y) = \frac{v}{l}y
+$$
+
+En realidad esto no sucede, 
+
+
+
+El ángulo $\gamma$ se puede tomar como:
+
+$$
+\begin{align*}
+ d\gamma \approx tan(\gamma) = \frac{da}{l} \\\\
+ d\gamma = \frac{v}{l}dt \\\\
+ \dot \gamma = \frac{\gamma}{dt} = \frac{v}{l}
+\end{align*}
+$$
 
