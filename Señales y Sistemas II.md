@@ -313,10 +313,11 @@ Comencemos por la masa 1:
 Supongamos que $z_{1} - z_{0} > 0$, eso significa que el resorte 1 está tensionado, por lo que hala la masa 1 hacia abajo. Ahora supongamos que $\dot z_{1} - \dot z_{0} > 0$, lo que significa que la masa 1 se aleja del suelo, entonces existe una fuerza de amortiguamiento que se opone a ese movimiento y hala la masa 1 hacia abajo.
 
 >[!Note]
->Pudimos haber supuesto que $z_{1} - z_{0} < 0$ o que $\dot z_{1} - \dot z_{0} < 0$, esto solo cambiaría la dirección de las fuerzas, pero es totalmente válido.
+>Pudimos haber supuesto que $z_{1} - z_{0} < 0$ o que $\dot z_{1} - \dot z_{0} < 0$, esto solo cambiaría la dirección de las fuerzas, al final las ecuaciones van a ser las mismas, por lo que es totalmente válido.
 
-Ahora supongamos además que $z_{1} - z_{2} > 0$, luego el resorte se está comprimiendo, produciendo una fuerza en sentido negativo sobre la masa 1. Una última suposición, $\dot z_{1} - \dot z_{2} > 0$ 
+Ahora supongamos además que $z_{1} - z_{2} > 0$, luego el resorte se está comprimiendo, produciendo una fuerza en sentido negativo sobre la masa 1. Una última suposición, $\dot z_{1} - \dot z_{2} > 0$, por consiguiente, la masa 1 se acerca a la 2, lo que quiere decir que hay una fuerza de amortiguamiento en sentido negativo actuando sobre la masa 1.
 
+Todas estas fuerzas son equivalentes a una fuerza inercial $m_{1}\ddot z_{1}$, pasando este elemento al otro lado de la ecuación queda en sentido negativo
 
 
 Según las suposiciones hechas se tiene el DCL para la masa 1:

@@ -30,15 +30,14 @@
             }
           },
           {
-            "id": "3ad02c361c8bcf15",
+            "id": "7cdfab5cfcac439b",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Señales y Sistemas II.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Señales y Sistemas II.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Señales y Sistemas II.md"
+              }
             }
           },
           {
@@ -159,7 +162,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: myDra",
+                "query": "file: latex",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -185,14 +188,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "abed2df76f33d216",
+  "active": "9a2477aa737f556d",
   "lastOpenFiles": [
-    "Señales y Sistemas II.md",
     "Excalidraw/myDrawingSpace.excalidraw.md",
+    "LaTeX.md",
+    "Señales y Sistemas II.md",
     "Main.md",
     "Tema 2. Función de oferta y demanda.md",
     "LaTeX Template.md",
-    "LaTeX.md",
     "CSS.md",
     "Módulo 1. Economía y matemática financiera.md",
     "Finanzas.md",

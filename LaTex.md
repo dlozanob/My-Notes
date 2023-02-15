@@ -182,6 +182,8 @@ $$
 | Root | `\sqrt[<index>]{}` | $\sqrt[4]{6}$ |
 | Logarithm | `\log_{<base>}<argument>` | $\log_{4}6$ |
 | Line break | `\cr` |  |
+| Less equal | `\leq` | $\leq$ |
+| Greater equal | `\geq` | $\geq$ |
 | Triangle | `\triangle` | $\triangle$ |
 | Product dot | `\cdot` | $\cdot$ |
 | Variable cancelation | `\bcancel{}` | $\bcancel{x}$ |
