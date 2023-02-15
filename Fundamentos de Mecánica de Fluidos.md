@@ -271,14 +271,14 @@ Donde $a, b$ y $c$ son determinados experimentalmente.
 
 equation
 
-  der(x1) = x2;
-  der(x2) = - (K1*x1)/M1 - (C1*x2)/M1 + (K1*x3)/M1 + (C1*x4)/M1 ;
-  der(x3) = x4;
-  der(x4) = (K1*x1)/M2 + (C1*x2)/M2 - (K1 + K2)*x3/M2 - (C1 + C2)*x4/M2; 
-  der(x5) = x6;
-  der(x6) = (K2*x3)/M3 + (C2*x4)/M3 - (K2 + K3 + K5)*x5/M3 - (C2 + C3 + C5)*x6/M3 + K3*x7/M3 +  C3*x8/M3 + K5*Xo/M3; 
-  der(x7) = x8;
-  der(x8) = (K3*x5)/M4 + (C3*x6)/M4 - (K3*x7)/M4 - (C3*x8)/M4 - (K4*x7)/M4 - (C4*x8)/M4 + (K4*Xo)/M4; 
+der(x1) = x2;
+der(x2) = - (k1*x1)/m1 - (c1*x2)/m1 + (k1*x3)/m1 + (c1*x4)/m1 ;
+der(x3) = x4;
+der(x4) = (k1*x1)/m2 + (c1*x2)/m2 - (k1 + k2)*x3/m2 - (c1 + c2)*x4/m2; 
+der(x5) = x6;
+der(x6) = (k2*x3)/m3 + (c2*x4)/m3 - (k2 + k3 + k5)*x5/m3 - (c2 + c3 + c5)*x6/m3 + k3*x7/m3 +  c3*x8/m3 + k5*x0/m3; 
+der(x7) = x8;
+der(x8) = (k3*x5)/m4 + (c3*x6)/m4 - (k3*x7)/m4 - (c3*x8)/m4 - (k4*x7)/m4 - (c4*x8)/m4 + (k4*x0)/m4;
 
 ---
 
