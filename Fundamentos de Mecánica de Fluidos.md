@@ -272,7 +272,7 @@ Donde $a, b$ y $c$ son determinados experimentalmente.
 equation
 
 der(x1) = x2;
-der(x2) = - (k1*x1)/m1 - (c1*x2)/m1 + (k1*x3)/m1 + (c1*x4)/m1 ;
+der(x2) = - (k1*x1)/m1 - (c1*x2)/m1 + (k1*x3)/m1 + (c1*x4)/m1;
 der(x3) = x4;
 der(x4) = (k1*x1)/m2 + (c1*x2)/m2 - (k1 + k2)*x3/m2 - (c1 + c2)*x4/m2; 
 der(x5) = x6;
