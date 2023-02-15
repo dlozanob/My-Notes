@@ -109,10 +109,9 @@ Para trabajar con fluidos, se debe suponer una densidad uniforme donde cada una 
 
 ## Presión de vapor y cavitación
 
->[!Note]
->En la presencia de bajo
+En la presencia de baja presión sobre un fluido, las moléculas comienzan a escapar y a convertirse en vapor
+Igualmente sucede al conttrario, las moléculas entonces pasan a la parte gaseosa pero a su vez, en menor parte, a fase líquida
 
-
-
+Tras un momento se llega al equilibrio, en este punto se llega a la presión de vapor, es cuando el número de moléculas que pasa de la fase líquida a gaseosa y viceversa, son iguales.
 
 
