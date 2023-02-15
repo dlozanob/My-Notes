@@ -246,17 +246,10 @@ Los plásticos de Bingham se comportan como sólidos hasta cierto punto, pero de
 
 La viscosidad aparente se define también como:
 
-Para líquidos:
 
-$$
-	\mu = \frac{aT^{1/2}}{1 + b/T} \\
-$$
-
-
-Para gases:
-
-$$
-	\mu = a10^{b(T - c)}
-$$
+| Fluido | Ecuación |
+|-|-|
+| Líquidos | $\mu = \frac{aT^{1/2}}{1 + b/T}$ |
+| Gases | $\mu = a10^{b(T - c)}$ |
 
 Donde $a, b$ y $c$ son determinados experimentalmente.
