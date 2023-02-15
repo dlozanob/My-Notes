@@ -8,10 +8,17 @@
   "collapse-color-groups": true,
   "colorGroups": [
     {
+      "query": "file: Main",
+      "color": {
+        "a": 1,
+        "rgb": 16771584
+      }
+    },
+    {
       "query": "",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 14725458
       }
     }
   ],
@@ -25,6 +32,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.8781989870365958,
+  "scale": 0.446794172558537,
   "close": true
 }

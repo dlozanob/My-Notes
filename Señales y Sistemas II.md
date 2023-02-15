@@ -315,7 +315,7 @@ Supongamos que $z_{1} - z_{0} > 0$, eso significa que el resorte 1 está tension
 >[!Note]
 >Pudimos haber supuesto que $z_{1} - z_{0} < 0$ o que $\dot z_{1} - \dot z_{0} < 0$, esto solo cambiaría la dirección de las fuerzas, pero es totalmente válido.
 
-Ahora supongamos además que 
+Ahora supongamos además que $z_{1} - z_{2} > 0$, luego el resorte se está comprimiendo, produciendo una fuerza en sentido negativo sobre la masa 1. Una última suposición, $\dot z_{1} - \dot z_{2} > 0$ 
 
 
 
