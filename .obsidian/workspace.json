@@ -35,9 +35,11 @@
             "id": "44ecd6eab2437009",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/myDrawingSpace.excalidraw.md"
+                "file": "LaTeX.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -102,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/myDrawingSpace.excalidraw.md",
+                "file": "LaTeX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/myDrawingSpace.excalidraw.md",
+                "file": "LaTeX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/myDrawingSpace.excalidraw.md"
+                "file": "LaTeX.md"
               }
             }
           },
@@ -167,7 +169,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: myDr",
+                "query": "file: latex",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -195,6 +197,7 @@
   },
   "active": "44ecd6eab2437009",
   "lastOpenFiles": [
+    "Excalidraw/myDrawingSpace.excalidraw.md",
     "LaTeX Template.md",
     "Tema 2. Función de oferta y demanda.md",
     "CSS.md",
@@ -203,7 +206,6 @@
     "Ciencias Económicas y Administrativas.md",
     "Tema 1. Economía.md",
     "Tema 1. Economía y matemática financiera.md",
-    "Servomecanismos.md",
-    "Excalidraw/myDrawingSpace.excalidraw.md"
+    "Servomecanismos.md"
   ]
 }
