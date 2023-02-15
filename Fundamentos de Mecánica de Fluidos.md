@@ -119,3 +119,7 @@ Tras un momento se llega al equilibrio, en este punto se llega a la presión de 
 >Bogotá se encuentra aproximadamente a 77 kPa
 >Siendo así, la temperatura de ebullición (temperatura de saturación) del agua ronda los 92 °C
 
+1 atm 760mmHg 101325 pa
+
+>[!Note]
+>$1 \hspace{3} = \hspace{3} = $
