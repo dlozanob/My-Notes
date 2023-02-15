@@ -114,7 +114,7 @@ $$
 
 - Resorte:
 
-![[Pasted image 20230211195830.png]]
+![[Pasted image 20230214214707.png]]
 
 $$
 \begin{align*}
@@ -123,7 +123,11 @@ $$
 \end{align*}
 $$
 
-La naturaleza de la fuerza axial que actúa sobre el resorte dependerá de la relación entre $y_{1}$ y 
+La naturaleza de la fuerza axial que actúa sobre el resorte dependerá de la relación entre $y_{1}$ y $y_{2}$.
+
+Siendo así, se tendrán los dos casos:
+
+
 
 
 - Amortiguador
