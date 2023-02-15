@@ -147,13 +147,14 @@ $$
 Se define el _módulo de elasticidad volumétrico_ o _coeficiente de compresibilidad_ como el incremento de presión necesario para generar un decremento de volumen unitario.
 
 Esto sucede a temperatura constante.
-
+Se deduce $k$ en términos de $\rho$
 
 $$
 \begin{align*}
 	\rho = \frac{m}{V} \\\\
 	d\rho = -\frac{m}{V^2}dV \\\\
-	dV = -\frac{V_{2}}{m}d\rho
+	dV = -\frac{V_{2}}{m}d\rho \\\\
+	k = \rho(\frac{\partial P}{\partial \rho})
 \end{align*}
 $$
 
@@ -162,4 +163,5 @@ _Coeficiente de compresibilidad isotérmica_:
 $$
 	\alpha = \frac{1}{k} = \frac{1}{\rho}(\frac{\partial \rho}{\partial P})
 $$
+
 
