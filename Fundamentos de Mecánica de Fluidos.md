@@ -237,3 +237,26 @@ $$
 Tiene unidades $[ML^{-1}T_{-1}]$ o $[Pa*s]$.
 
 Para los fluidos no newtonianos se describe la _viscosidad aparente_ como la pendiente del esfuerzo cortante contra la razón de deformación.
+
+Los plásticos de Bingham se comportan como sólidos hasta cierto punto, pero después de que se excede cierto esfuerzo, esfuerzo y deformación adquieren una relación lineal.
+
+>[!Note]
+>La clasificación _SAE_ es para aceites para motor
+
+
+La viscosidad aparente se define también como:
+
+Para líquidos:
+
+$$
+	\mu = \frac{aT^{1/2}}{1 + b/T} \\
+$$
+
+
+Para gases:
+
+$$
+	\mu = a10^{b(T - c)}
+$$
+
+Donde $a, b$ y $c$ son determinados experimentalmente.
