@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Main.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Main.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +147,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Main.md"
-              }
+              "state": {}
             }
           },
           {
@@ -201,9 +197,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1705d4a636068a67",
+  "active": "3ad02c361c8bcf15",
   "lastOpenFiles": [
     "Señales y Sistemas II.md",
+    "Main.md",
     "Excalidraw/myDrawingSpace.excalidraw.md",
     "Tema 2. Función de oferta y demanda.md",
     "LaTeX Template.md",
@@ -211,7 +208,6 @@
     "CSS.md",
     "Módulo 1. Economía y matemática financiera.md",
     "Finanzas.md",
-    "Ciencias Económicas y Administrativas.md",
-    "Tema 1. Economía.md"
+    "Ciencias Económicas y Administrativas.md"
   ]
 }
