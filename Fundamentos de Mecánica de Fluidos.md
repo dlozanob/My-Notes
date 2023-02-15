@@ -103,3 +103,16 @@ Para trabajar con fluidos, se debe suponer una densidad uniforme donde cada una 
 
 ![[Pasted image 20230212135351.png]]
 
+
+
+
+
+## Presión de vapor y cavitación
+
+>[!Note]
+>En la presencia de bajo
+
+
+
+
+

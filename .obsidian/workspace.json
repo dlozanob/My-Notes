@@ -11,8 +11,22 @@
             "id": "7cdfab5cfcac439b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Fundamentos de Mecánica de Fluidos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "513e5589bcdca282",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/myDrawingSpace.excalidraw.md"
+              }
             }
           }
         ]
@@ -75,6 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Fundamentos de Mecánica de Fluidos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,6 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Fundamentos de Mecánica de Fluidos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -112,7 +128,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Fundamentos de Mecánica de Fluidos.md"
+              }
             }
           },
           {
@@ -136,7 +154,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: latex",
+                "query": "file: myDr",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -165,6 +183,7 @@
   "active": "7cdfab5cfcac439b",
   "lastOpenFiles": [
     "Excalidraw/myDrawingSpace.excalidraw.md",
+    "Fundamentos de Mecánica de Fluidos.md",
     "Señales y Sistemas II.md",
     "LaTeX.md",
     "Main.md",
@@ -172,7 +191,6 @@
     "LaTeX Template.md",
     "CSS.md",
     "Módulo 1. Economía y matemática financiera.md",
-    "Finanzas.md",
-    "Ciencias Económicas y Administrativas.md"
+    "Finanzas.md"
   ]
 }
