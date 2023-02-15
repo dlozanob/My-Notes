@@ -327,3 +327,11 @@ end simClase;
 ![[Pasted image 20230215151750.png]]
 
 ![[Pasted image 20230215151819.png]]
+
+
+  der(x8) = - x7 - x8 + x0/m4;
+  der(x8) = - x8 - x7 + x0/m4;
+
+![[Pasted image 20230215154627.png]]
+
+![[Pasted image 20230215154703.png]]
