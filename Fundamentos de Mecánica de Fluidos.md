@@ -302,12 +302,12 @@ model simClase
 
 
 equation
-der(x1) = x2;
-der(x2) = - (k1*x1)/m1 - (c1*x2)/m1 + (k1*x3)/m1 + (c1*x4)/m1 ;
-der(x3) = x4;
-der(x4) = (k1*x1)/m2 + (c1*x2)/m2 - (k1 + k2)*x3/m2 - (c1 + c2)*x4/m2; 
-der(x5) = x6;
-der(x6) = (k2*x3)/m3 + (c2*x4)/m3 - (k2 + k3 + k5)*x5/m3 - (c2 + c3 + c5)*x6/m3 + k3*x7/m3 +  c3*x8/m3 + k5*Xo/m3; 
-der(x7) = x8;
-der(x8) = (k3*x5)/m4 + (c3*x6)/m4 - (k3*x7)/m4 - (c3*x8)/m4 - (k4*x7)/m4 - (c4*x8)/m4 + (k4*X)/m4;
+  der(x1) = x2;
+  der(x2) = 1/m1*(-k1*x1 - c1*x2 + k1*x3 + c1*x4);
+  der(x3) = x4;
+  der(x4) = 1/m2*(k1*x1 + c1*x2 - (k1 + k2)*x3 - (c1 + c2)*x4);
+  der(x5) = x6;
+  der(x6) = 1/m3*(k2*x3 + c2*x4 - (k2 + k3 + k5)*x5 - (c2 + c3 + c5)*x6 + k3*x7 + c3*x8 + k5*x0);
+  der(x7) = x8;
+  der(x8) = 1/m4*(k3*x5 + c3*x6 - (k3 + k4)*x7 - (c3 + c4)*x8 + k4*x0);
 end simClase;
