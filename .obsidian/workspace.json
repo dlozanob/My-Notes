@@ -116,7 +116,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LaTeX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +132,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LaTeX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,9 +153,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "LaTeX.md"
-              }
+              "state": {}
             }
           },
           {
@@ -207,10 +203,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "44ecd6eab2437009",
+  "active": "9d93bca41a6a57a5",
   "lastOpenFiles": [
-    "Señales y Sistemas II.md",
     "LaTeX.md",
+    "Señales y Sistemas II.md",
     "Excalidraw/myDrawingSpace.excalidraw.md",
     "LaTeX Template.md",
     "Tema 2. Función de oferta y demanda.md",
