@@ -41,7 +41,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -101,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fundamentos de Mecánica de Fluidos.md",
+                "file": "LaTeX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fundamentos de Mecánica de Fluidos.md",
+                "file": "LaTeX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fundamentos de Mecánica de Fluidos.md"
+                "file": "LaTeX.md"
               }
             }
           },
@@ -192,10 +193,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7cdfab5cfcac439b",
+  "active": "a8da3816a6422fc7",
   "lastOpenFiles": [
-    "LaTeX.md",
     "Fundamentos de Mecánica de Fluidos.md",
+    "LaTeX.md",
     "Excalidraw/myDrawingSpace.excalidraw.md",
     "Señales y Sistemas II.md",
     "Main.md",
