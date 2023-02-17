@@ -11,8 +11,12 @@
             "id": "1c1e7649756709e0",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Fórmulas Financieras Excel.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -75,6 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Fórmulas Financieras Excel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,6 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Fórmulas Financieras Excel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -112,7 +118,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Fórmulas Financieras Excel.md"
+              }
             }
           },
           {
@@ -164,15 +172,15 @@
   },
   "active": "1c1e7649756709e0",
   "lastOpenFiles": [
+    "Ingeniería Económica.md",
+    "Main.md",
     "Fundamentos de Mecánica de Fluidos.md",
     "Excalidraw/myDrawingSpace.excalidraw.md",
     "LaTeX.md",
     "Señales y Sistemas II.md",
-    "Main.md",
     "Tema 2. Función de oferta y demanda.md",
     "LaTeX Template.md",
     "CSS.md",
-    "Módulo 1. Economía y matemática financiera.md",
-    "Finanzas.md"
+    "Módulo 1. Economía y matemática financiera.md"
   ]
 }
