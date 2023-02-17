@@ -18,31 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "513e5589bcdca282",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/myDrawingSpace.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "a8da3816a6422fc7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LaTeX.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LaTeX.md",
+                "file": "Fundamentos de Mecánica de Fluidos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LaTeX.md",
+                "file": "Fundamentos de Mecánica de Fluidos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LaTeX.md"
+                "file": "Fundamentos de Mecánica de Fluidos.md"
               }
             }
           },
@@ -193,11 +170,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a8da3816a6422fc7",
+  "active": "7cdfab5cfcac439b",
   "lastOpenFiles": [
-    "Fundamentos de Mecánica de Fluidos.md",
-    "LaTeX.md",
     "Excalidraw/myDrawingSpace.excalidraw.md",
+    "LaTeX.md",
+    "Fundamentos de Mecánica de Fluidos.md",
     "Señales y Sistemas II.md",
     "Main.md",
     "Tema 2. Función de oferta y demanda.md",

@@ -255,86 +255,9 @@ La viscosidad aparente se define también como:
 Donde $a, b$ y $c$ son determinados experimentalmente.
 
 
-  Real x1(start = 0) "Descriptive string for x1";
-  // x1 starts at 1
-  Real x2(start = 0) "Descriptive string for y2";
-  // x2 starts at 0
-  Real x3(start = 0);
-  Real x4(start = 0); 
-  Real x5(start = 0);
-  Real x6(start = 0);  
-  Real x7(start = 0);
-  Real x8(start = 0);
-  Real Xo = -0.2;
-  
-  parameter Real M1 = 6.48, C1 = 310, K1 = 166.99,M2 = 50.88, C2 = 163.9, K2 = 10370,M3 = 11.36, C3 = 330, K3 = 20000,M4 = 25.76, C4 = 2475, K4 = 49340, C5 = 909.1, K5 = 144;
-
-equation
-
-der(x1) = x2;
-der(x2) = - (k1*x1)/m1 - (c1*x2)/m1 + (k1*x3)/m1 + (c1*x4)/m1;
-der(x3) = x4;
-der(x4) = (k1*x1)/m2 + (c1*x2)/m2 - (k1 + k2)*x3/m2 - (c1 + c2)*x4/m2; 
-der(x5) = x6;
-der(x6) = (k2*x3)/m3 + (c2*x4)/m3 - (k2 + k3 + k5)*x5/m3 - (c2 + c3 + c5)*x6/m3 + k3*x7/m3 +  c3*x8/m3 + k5*x0/m3; 
-der(x7) = x8;
-der(x8) = (k3*x5)/m4 + (c3*x6)/m4 - (k3*x7)/m4 - (c3*x8)/m4 - (k4*x7)/m4 - (c4*x8)/m4 + (k4*x0)/m4;
-
----
-
-
-model simClase
-  Real x1(start = 0);
-  Real x2(start = 0);
-  Real x3(start = 0);
-  Real x4(start = 0);
-  Real x5(start = 0);
-  Real x6(start = 0);
-  Real x7(start = 0);
-  Real x8(start = 0);
-  
-  
-  parameter Real x0 = -0.2,
-  m1 = 6.48, m2 = 50.88, m3 = 11.36, m4 = 25.76, 
-  k1 = 166.99, k2 = 10370, k3 = 20000, k4 = 49340, k5 = 144, 
-  c1 = 310, c2 = 163.9, c3 = 330, c4 = 2475, c5 = 909.1;
-
-
-equation
-  der(x1) = x2;
-  der(x2) = 1/m1*(-k1*x1 - c1*x2 + k1*x3 + c1*x4);
-  der(x3) = x4;
-  der(x4) = 1/m2*(k1*x1 + c1*x2 - (k1 + k2)*x3 - (c1 + c2)*x4);
-  der(x5) = x6;
-  der(x6) = 1/m3*(k2*x3 + c2*x4 - (k2 + k3 + k5)*x5 - (c2 + c3 + c5)*x6 + k3*x7 + c3*x8 + k5*x0);
-  der(x7) = x8;
-  der(x8) = 1/m4*(k3*x5 + c3*x6 - (k3 + k4)*x7 - (c3 + c4)*x8 + k4*x0);
-end simClase;
 
 
 
-
-  der(x8) = (k3*x5)/m4 + (c3*x6)/m4 - (k3*x7)/m4 - (k4*x7)/m4 - (c3*x8)/m4  - (c4*x8)/m4 + (k4*x0)/m4;
-
-  der(x8) = (k3*x5)/m4 + (c3*x6)/m4 - (k3*x7)/m4 - (c3*x8)/m4 - (k4*x7)/m4 - (c4*x8)/m4 + (k4*x0)/m4;
-
-  der(x8) = 1/m4*(k3*x5 + c3*x6 - k3*x7 - k4*x7 - c3*x8 - c4*x8 + k4*x0);
-
----
-  der(x8) = -(k4*x7)/m4 - (c3*x8)/m4 - (c4*x8)/m4 + (k4*x0)/m4;
-  der(x8) = -(c3*x8)/m4 - (k4*x7)/m4 - (c4*x8)/m4 + (k4*x0)/m4;
-
-![[Pasted image 20230215151750.png]]
-
-![[Pasted image 20230215151819.png]]
-
-
-  der(x8) = x0/m4 - x7 - x8;
-  der(x8) = x0/m4 - x8 - x7;
-
-![[Pasted image 20230215154926.png]]
-
-![[Pasted image 20230215154954.png]]
 
 
 
