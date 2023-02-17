@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fórmulas Financieras Excel.md",
+                "file": "Tema 2. Función de oferta y demanda.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fórmulas Financieras Excel.md",
+                "file": "Tema 2. Función de oferta y demanda.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fórmulas Financieras Excel.md",
+                "file": "Tema 2. Función de oferta y demanda.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fórmulas Financieras Excel.md"
+                "file": "Tema 2. Función de oferta y demanda.md"
               }
             }
           },
@@ -172,15 +172,15 @@
   },
   "active": "1c1e7649756709e0",
   "lastOpenFiles": [
-    "Ingeniería Económica.md",
+    "Módulo 1. Economía y matemática financiera.md",
+    "Finanzas.md",
+    "Tema 2. Función de oferta y demanda.md",
+    "Ciencias Económicas y Administrativas.md",
     "Main.md",
+    "Ingeniería Económica.md",
+    "Fórmulas Financieras Excel.md",
     "Fundamentos de Mecánica de Fluidos.md",
     "Excalidraw/myDrawingSpace.excalidraw.md",
-    "LaTeX.md",
-    "Señales y Sistemas II.md",
-    "Tema 2. Función de oferta y demanda.md",
-    "LaTeX Template.md",
-    "CSS.md",
-    "Módulo 1. Economía y matemática financiera.md"
+    "LaTeX.md"
   ]
 }

@@ -6,7 +6,7 @@
 - [[Automatización, Control y Robótica]]
 - [[Física]]
 - [[Ingeniería de Diseño]]
-- [[Ingeniería Económica]]
+- [[Ciencias Económicas y Administrativas]]
 - [[Ingeniería Electrónica]]
 - [[Web Development]]
 - [[Obsidian basics]]

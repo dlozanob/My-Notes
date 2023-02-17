@@ -6,4 +6,4 @@
 ## External Links
 
 - [[Fórmulas Financieras Excel]]
-- 
+
