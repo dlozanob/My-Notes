@@ -4,7 +4,6 @@
 
 Se define como el conjunto de instrumentos cualitativos y cuantitativos con la finalidad de intentar predecir factores económicos.
 
-
 El PIB es el valor monetario total de bienes y servicios dentro de un territorio en un periodo de tiempo.
 Hay 3 perspectivas para medirlo:
 
@@ -20,4 +19,8 @@ Donde:
 - $X$ : Exportaciones
 - $M$ : Importaciones
 - $X - M$ : Balanza comercial
+
+>[!Note]
+>- El PIB no es una medida de riqueza ni de bienestar, es solo una aproximación
+>- El _coeficiente de Gene_ mide la equidad
 
