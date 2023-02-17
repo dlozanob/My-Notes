@@ -9,7 +9,15 @@ El PIB es el valor monetario total de bienes y servicios dentro de un territorio
 Hay 3 perspectivas para medirlo:
 
 - Demanda: $Y = C + I + G + X - M$
-- Oferta: $Y = VP - C_{}$
+- Oferta: $Y = VP - C_{i} + T - S$
+- Renta: $Y = Ebe + RA + T$
 
+Donde:
+- $Y$ : Ingreso
+- $C$ : Consumo
+- $I$ : Inversión
+- $G$ : Gasto público
+- $X$ : Exportaciones
+- $M$ : Importaciones
+- $X - M$ : Balanza comercial
 
-Balanza comercial: $X - M$
