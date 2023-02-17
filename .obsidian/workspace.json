@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "47d4c483fadbba8c",
+        "id": "27eb08779b368ea1",
         "type": "tabs",
         "children": [
           {
-            "id": "7cdfab5cfcac439b",
+            "id": "1c1e7649756709e0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fundamentos de Mecánica de Fluidos.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -79,7 +75,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fundamentos de Mecánica de Fluidos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +91,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fundamentos de Mecánica de Fluidos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,9 +112,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Fundamentos de Mecánica de Fluidos.md"
-              }
+              "state": {}
             }
           },
           {
@@ -170,11 +162,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7cdfab5cfcac439b",
+  "active": "1c1e7649756709e0",
   "lastOpenFiles": [
+    "Fundamentos de Mecánica de Fluidos.md",
     "Excalidraw/myDrawingSpace.excalidraw.md",
     "LaTeX.md",
-    "Fundamentos de Mecánica de Fluidos.md",
     "Señales y Sistemas II.md",
     "Main.md",
     "Tema 2. Función de oferta y demanda.md",
