@@ -22,5 +22,5 @@ Donde:
 
 >[!Note]
 >- El PIB no es una medida de riqueza ni de bienestar, es solo una aproximación
->- El _coeficiente de Gene_ mide la equidad
+>- El _coeficiente de Gini_ mide la desigualdad
 
