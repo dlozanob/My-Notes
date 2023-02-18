@@ -45,3 +45,5 @@ El _IPC_ (Índice de Precios al Consumidor) mide la evolución del costo promedi
 Se puede medir la inflación como la diferencia de la misma entre dos periodos de tiempo.
 
 Una medida para bajar la inflación, podría ser bajando el encaje de los bancos.
+
+La _tasa de intervención_ es una tasa que determina el costo mínimo de los recursos del país. Esta es fijada por las juntas directivas de los bancos centrales
