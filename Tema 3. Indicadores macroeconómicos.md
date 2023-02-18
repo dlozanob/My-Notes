@@ -22,7 +22,22 @@ Donde:
 >- El PIB no es una medida de riqueza ni de bienestar, es solo una aproximación
 >- El _coeficiente de Gini_ mide la desigualdad
 
+
+## Medición del empleo
+
 El _desempleo estructural_ es aquel que toma largos periodos de tiempo.  Surge por problemas en la economía, no por decisión de la gente.
 El _desempleo friccional_ es aquel que se da por un instante de tiempo. Surge por decisión de las personas.
 
+$$
+\begin{align*}
+	TasaDeDesempleo = \frac{Desocupados}{PoblaciónActiva} \\\\
+	TasaGlobalDeActividad = \frac{PoblaciónActiva}{PoblaciónTotal} \\\\
+	TasaDeActividad = \frac{PoblaciónActiva}{PoblaciónEnEdadDeTrabajar} \\\\
+	TasaDeEmpleo = \frac{Ocupados}{PoblaciónEnEdadDeTrabajar}
+\end{align*}
+$$
 
+
+## Inflación
+
+El _IPC_ (Índice de Precios al Consumidor)
