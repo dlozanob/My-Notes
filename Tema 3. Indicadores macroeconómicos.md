@@ -46,4 +46,8 @@ Se puede medir la inflación como la diferencia de la misma entre dos periodos d
 
 Una medida para bajar la inflación, podría ser bajando el encaje de los bancos.
 
-La _tasa de intervención_ es una tasa que determina el costo mínimo de los recursos del país. Esta es fijada por las juntas directivas de los bancos centrales
+La _tasa de intervención_ es una tasa que determina el costo mínimo de los recursos del país. Esta es fijada por las juntas directivas de los bancos centrales.
+
+>[!Note]
+>Contraer la economía significa bajar el consumo
+
