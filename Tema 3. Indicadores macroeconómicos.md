@@ -40,4 +40,5 @@ $$
 
 ## Inflación
 
-El _IPC_ (Índice de Precios al Consumidor)
+El _IPC_ (Índice de Precios al Consumidor) mide la evolución del costo promedio de una canasta de bienes y servicios representativa para el hogar (necesidades básicas). Tiene que ver con la pérdida del poder adquisitivo de la moneda.
+
