@@ -406,7 +406,6 @@ Supuestamente el mecanismo estaría bloqueado, pero en realidad tenemos un GDL.
 
 
 
-## E
+## External Links
 
-https://singsurf.org/things/fourbar.php
-
+- [Simulación mecanismo de 4 barras](https://singsurf.org/things/fourbar.php)
