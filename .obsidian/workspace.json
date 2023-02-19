@@ -4,40 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "27eb08779b368ea1",
+        "id": "72397cac8c561628",
         "type": "tabs",
         "children": [
           {
-            "id": "1c1e7649756709e0",
+            "id": "1313dafaa4671ee1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tema 3. Indicadores macroeconómicos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aed42bba58a9fd50",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tema 1. Economía.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9e79285d124e76d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tema 2. Función de oferta y demanda.md",
+                "file": "Mecanismos.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tema 3. Indicadores macroeconómicos.md",
+                "file": "Mecanismos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tema 3. Indicadores macroeconómicos.md",
+                "file": "Mecanismos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tema 3. Indicadores macroeconómicos.md"
+                "file": "Mecanismos.md"
               }
             }
           },
@@ -194,17 +170,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1c1e7649756709e0",
+  "active": "1313dafaa4671ee1",
   "lastOpenFiles": [
-    "Tema 1. Economía.md",
-    "Tema 3. Indicadores macroeconómicos.md",
+    "Microcontrollers.md",
     "Tema 2. Función de oferta y demanda.md",
+    "Tema 3. Indicadores macroeconómicos.md",
+    "Tema 1. Economía.md",
     "Módulo 1. Economía y matemática financiera.md",
     "Finanzas.md",
     "Ciencias Económicas y Administrativas.md",
     "Main.md",
     "Ingeniería Económica.md",
-    "Fórmulas Financieras Excel.md",
-    "Fundamentos de Mecánica de Fluidos.md"
+    "Fórmulas Financieras Excel.md"
   ]
 }

@@ -406,5 +406,7 @@ Supuestamente el mecanismo estaría bloqueado, pero en realidad tenemos un GDL.
 
 
 
+## E
+
 https://singsurf.org/things/fourbar.php
 
