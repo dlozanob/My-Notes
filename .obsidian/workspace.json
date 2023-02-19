@@ -79,7 +79,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mecanismos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +95,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mecanismos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,9 +116,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Mecanismos.md"
-              }
+              "state": {}
             }
           },
           {
@@ -170,8 +166,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1313dafaa4671ee1",
+  "active": "9d93bca41a6a57a5",
   "lastOpenFiles": [
+    "Mecanismos.md",
     "Microcontrollers.md",
     "Tema 2. Función de oferta y demanda.md",
     "Tema 3. Indicadores macroeconómicos.md",
@@ -180,7 +177,6 @@
     "Finanzas.md",
     "Ciencias Económicas y Administrativas.md",
     "Main.md",
-    "Ingeniería Económica.md",
-    "Fórmulas Financieras Excel.md"
+    "Ingeniería Económica.md"
   ]
 }
