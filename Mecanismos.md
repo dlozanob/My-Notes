@@ -151,7 +151,8 @@ $$
 >[!Note]
 >- $J_{0}$ es la bancada (siempre es 1), $J_{1}$ son juntas completas y $J_{2}$ semijuntas
 >- La ecuación parte del principio que existen 6 y 3 GDL máximos para cada elemento en el caso 3D y 2D respectivamente. Sin embargo, cada tipo de junta restringe estos grados de libertad
->- Los resortes no se cuentan como elementos, solo cuando estos hacen parte de la bancada
+>- Los resortes no se cuentan como elementos cuando estos hacen parte de la bancada. Caso contrario, se representa como un eslabón binario
+>- Cuando se vence la fuerza del resorte se recupera la movilidad real. Los resortes bloquean los mecanismos
 
 
 Ejemplo:
