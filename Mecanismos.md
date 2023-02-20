@@ -368,7 +368,7 @@ El _teorema de Grashoff_ determina el tipo de movimiento de los eslabones latera
 
 Simulación de estos movimientos: [External Links](##External+Links).
 
-El _punto de cambio_, se define como un movimiento donde cada eslabón da un giro completo, permanece quieto por instante, y hace lo mismo en el otro sentido.
+El _punto de cambio_, se define como un movimiento donde cada eslabón da un giro completo, permanece quieto en los 180° por un instante, y hace lo mismo en el otro sentido.
 
 
 
