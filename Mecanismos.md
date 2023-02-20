@@ -450,8 +450,6 @@ Es decir, queda un eslabón binario, pero todos los eslabones cuyas juntas se el
 ![[Pasted image 20230220133726.png]]
 
 
-
-
 ## Análisis de posición (método gráfico)
 
 
@@ -506,7 +504,20 @@ En la intersección entre la trayectoria restringida y la trayectoria posible de
 
 
 >[!Note]
->Si existe más de un punto de intersección, eso quiere de
+>Si existe más de un punto de intersección, eso quiere decir que se trata de otra inversión geométrica del mecanismo
+
+
+## Análisis de posición (método analítico)
+
+
+Procedimiento:
+
+1. Plantear el diagrama cinemático
+2. Analizar la geometría de la configuración inicial
+3. Analizar la geometría de la configuración final
+
+
+
 
 
 
