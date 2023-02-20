@@ -341,11 +341,21 @@ $$
 Supuestamente el mecanismo estaría bloqueado, pero en realidad tenemos un GDL.
 
 
+## Mecanismos de 4 barras
 
 
+![[Pasted image 20230219191743.png]]
 
 
+El _teorema de Grashoff_ determina el tipo de movimiento de los eslabones laterales.
 
+| $s + l \leq p + q$ | Mecanismo de Grashoff |
+|-|-|
+| $s + l > p + q$ | No es de Grashoff |
+
+- $s$ : Longitud del eslabón más corto
+- $l$ : Longitud del eslabón más largo
+- $p$, $q$ : Eslabones de longitud intermedia
 
 
 
