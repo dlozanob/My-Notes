@@ -345,5 +345,9 @@ $$
 	T = B(\omega_{1} - \omega_{2})
 $$
 
+- Engranajes:
 
+![[Pasted image 20230220185614.png]]
+
+Siempre se genera un torque provocado por el otro engranaje.
 
