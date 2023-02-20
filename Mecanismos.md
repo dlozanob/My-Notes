@@ -479,13 +479,23 @@ Ejemplo:
 
 ![[Pasted image 20230220145023.png]]
 
-Hay solo eslabón de entrada, 
+Hay solo eslabón de entrada, ya que, posee un GDL.
 Se plantea el diagrama cinemático:
 
 ![[Pasted image 20230220145554.png]]
 
 ![[Pasted image 20230220145604.png]]
 
+
+Se plantea otra configuración donde el eslabón 4 está rotado $15°$ en sentido antihorario.
+
+![[Pasted image 20230220145909.png]]
+
+Ahora bien, se trazan las trayectorias restringidas de los elementos pivotados a la bancada:
+
+![[Pasted image 20230220150046.png]]
+
+Se traza la trayectoria posi
 
 
 
