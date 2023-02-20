@@ -517,6 +517,11 @@ Procedimiento:
 3. Analizar la geometría de la configuración final
 
 
+Ejemplo:
+
+![[Pasted image 20230220170900.png]]
+
+Se debe determinar el desplazamiento de $C$, para ello se hace analíticamente $L_{C} - L_{C}'$.
 
 
 
