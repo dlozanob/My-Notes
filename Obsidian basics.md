@@ -193,3 +193,6 @@ md1 :md1, 2023-03-01, 2023-03-31
 
 
 >[!Note]
+>Markdown supports some HTML syntax. CSS is supported as well but content is only visible in reading mode
+
+

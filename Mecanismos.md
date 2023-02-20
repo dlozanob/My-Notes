@@ -364,19 +364,19 @@ El _teorema de Grashoff_ determina el tipo de movimiento de los eslabones latera
 
 
 
+<style>
+	table {
+	  border-collapse:collapse;
+	}
+	
+	td {
+	  border: 1px solid #000;
+	  margin: 0;
+	  padding: 0.5em;
+	}
+</style>
 
-```css
-table {
-  border-collapse:collapse;
-}
-
-td {
-  border: 1px solid #000;
-  margin: 0;
-  padding: 0.5em;
-}
-```
-<table style="border-collapse:collapse;">
+<table style="border-collapse:collapse;">  
   <tr>
     <td colspan="4">
       Available
