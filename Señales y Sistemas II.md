@@ -334,5 +334,16 @@ Se hace el mismo procedimiento para la masa 2, se plantean las ecuaciones dinám
 ![[Pasted image 20230220184416.png]]
 
 $$
-	T = k(\theta_{1} - t)
+	T = k(\theta_{1} - \theta_{2})
 $$
+
+- Amortiguador rotacional:
+
+![[Pasted image 20230220184840.png]]
+
+$$
+	T = B(\omega_{1} - \omega_{2})
+$$
+
+
+
