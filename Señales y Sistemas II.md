@@ -324,3 +324,6 @@ Según las suposiciones hechas se tiene el DCL para la masa 1:
 ![[Pasted image 20230214222650.png]]
 
 Se hace el mismo procedimiento para la masa 2, se plantean las ecuaciones dinámicas y se modela el sistema con el vector de estados.
+
+
+## 

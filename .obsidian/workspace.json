@@ -21,8 +21,12 @@
             "id": "8d1c2a843eb10640",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Señales y Sistemas II.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -87,6 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Señales y Sistemas II.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,6 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Señales y Sistemas II.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +130,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Señales y Sistemas II.md"
+              }
             }
           },
           {
@@ -177,6 +185,7 @@
   },
   "active": "8d1c2a843eb10640",
   "lastOpenFiles": [
+    "Automatización, Control y Robótica.md",
     "Fundamentos de Mecánica de Fluidos.md",
     "Excalidraw/myDrawingSpace.excalidraw.md",
     "Mecanismos.md",
@@ -185,7 +194,6 @@
     "CSS.md",
     "Microcontrollers.md",
     "Tema 2. Función de oferta y demanda.md",
-    "Tema 3. Indicadores macroeconómicos.md",
-    "Tema 1. Economía.md"
+    "Tema 3. Indicadores macroeconómicos.md"
   ]
 }
