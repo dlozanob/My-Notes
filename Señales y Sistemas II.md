@@ -110,7 +110,7 @@ $$
 $$
 
 
-## Modelos mecánicos
+## Sistemas traslacionales
 
 - Resorte:
 
@@ -326,4 +326,13 @@ Según las suposiciones hechas se tiene el DCL para la masa 1:
 Se hace el mismo procedimiento para la masa 2, se plantean las ecuaciones dinámicas y se modela el sistema con el vector de estados.
 
 
-## 
+## Sistemas rotacionales
+
+
+- Resorte de torsión:
+
+![[Pasted image 20230220184416.png]]
+
+$$
+	T = k(\theta_{1} - t)
+$$
