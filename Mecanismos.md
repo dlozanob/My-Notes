@@ -375,12 +375,49 @@ El _punto de cambio_, se define como un movimiento donde cada eslabón da un gir
 
 Para un GDL elegido existen varias combinaciones de eslabones. Aquí todas las juntas tienen orden 1.
 
-Además, para cada GDL existen distintas posibilidades entre número de eslabones y el tipo de estos. Para cada una de estas configuraciones, existen distintas maneras de conectar los elementos, a estas configuraciones se les llama _isómeros_.
+Además, para cada GDL existen distintas posibilidades entre número de eslabones y el tipo de estos. Para cada una de estas configuraciones, existen distintas maneras de conectar los elementos, a estas se les llama _isómeros_.
 
 Cuando todas las juntas son completas, el mecanismo tiene un número impar de GDL, sí y solo sí, requiere un número par de eslabones.
 
 
 ![[Pasted image 20230219203444.png]]
+
+
+En la imagen se tienen dos isómeros, con 2 eslabones ternarios y 4 binarios. Producen 1 GDL.
+
+
+
+>[!Info]
+>Las hélices de los heli
+
+## Transformación de eslabonamientos
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
