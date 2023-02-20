@@ -418,8 +418,10 @@ Reglas:
 ![[Pasted image 20230219210327.png]]
 
 2. Cualquier junta completa se puede reemplazar por una semijunta aumentando un GDL
-3. Reducir un eslabón disminuye un GDL
-4. Combinar las reglas 2 y 4 no alterará los GDL
+
+4. Reducir un eslabón disminuye un GDL
+
+6. Combinar las reglas 2 y 4 no alterará los GDL
 
 ![[Pasted image 20230219212620.png]]
 
@@ -441,6 +443,12 @@ Una de las revolutas se cambia por una junta superior la cual es una semijunta. 
 ![[Pasted image 20230220133409.png]]
 
 Es decir, queda un eslabón binario, pero todos los eslabones cuyas juntas se eliminan, se encuentran en una misma junta concurrente.
+
+
+6. Un eslabón ternario o de mayor orden puede ser eliminado, y todos sus eslabones concurren en una misma junta múltiple.
+
+![[Pasted image 20230220133726.png]]
+
 
 
 
