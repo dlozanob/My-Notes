@@ -452,6 +452,13 @@ Es decir, queda un eslabón binario, pero todos los eslabones cuyas juntas se el
 
 
 
+## Análisis de posición (método gráfico)
+
+
+- Configuración: Posición de todos los eslabones para una determinada posición
+- Inversión geométrica: Configuraciones alternas para una misma posición del 
+
+
 
 
 
