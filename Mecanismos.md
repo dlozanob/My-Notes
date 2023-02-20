@@ -386,9 +386,16 @@ Cuando todas las juntas son completas, el mecanismo tiene un número impar de GD
 En la imagen se tienen dos isómeros, con 2 eslabones ternarios y 4 binarios. Producen 1 GDL.
 
 
+El siguiente es un isómero inválido:
+
+![[Pasted image 20230219204532.png]]
+
+Lo encerrado en el cuadrado rojo se vuelve bancada porque el eslabón binario bloquea los ternarios. Por tanto, el mecanismo es equivalente a uno de cuatro barras.
+
 
 >[!Info]
->Las hélices de los heli
+>Las hélices de los helicópteros poseen una geometría tal que, al fallar el helicóptero y caer, el aire hace que la hélice gire, igualando parcialmente la fuerza de la gravedad, lo que hace que el helicóptero caiga con velocidad constante
+
 
 ## Transformación de eslabonamientos
 
