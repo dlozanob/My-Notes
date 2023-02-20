@@ -360,10 +360,15 @@ El _teorema de Grashoff_ determina el tipo de movimiento de los eslabones latera
 
 | Criterio | Eslabón más corto | Categoría |
 |-|-|-|
-| $s + l < p+q $
+| $s + l < p+q$ | Bancada | Doble manivela |
+| $s + l < p+q$ | Lateral | Manivela-Balancín |
+| $s + l < p+q$ | Biela | Doble balancín |
+| $s + l = p+q$ | Cualquiera | Punto de cambio |
+| $s + l > p+q$ | Cualquiera | Triple balancín |
 
+Simulación de estos movimientos: [External Links](##External+Links).
 
-
+El _punto de cambio_, se define como un movimiento donde uno de los eslabones da un giro completo y se devuelve, después de esto el otro eslabón pasa por lo mismo. Sucede iterativamente.
 
 
 
