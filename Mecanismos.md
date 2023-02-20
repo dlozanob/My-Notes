@@ -475,6 +475,13 @@ Procedimiento:
 	2. Dibujar las trayectorias posibles de los demás eslabones
 
 
+Ejemplo:
+
+![[Pasted image 20230220145023.png]]
+
+
+
+
 
 
 
