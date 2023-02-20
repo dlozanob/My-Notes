@@ -28,6 +28,18 @@
                 "file": "Excalidraw/myDrawingSpace.excalidraw.md"
               }
             }
+          },
+          {
+            "id": "03fe9f1d04f62c55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian basics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -182,15 +194,15 @@
   },
   "active": "1313dafaa4671ee1",
   "lastOpenFiles": [
-    "Excalidraw/myDrawingSpace.excalidraw.md",
+    "Obsidian basics.md",
     "Mecanismos.md",
+    "Excalidraw/myDrawingSpace.excalidraw.md",
     "Microcontrollers.md",
     "Tema 2. Función de oferta y demanda.md",
     "Tema 3. Indicadores macroeconómicos.md",
     "Tema 1. Economía.md",
     "Módulo 1. Economía y matemática financiera.md",
     "Finanzas.md",
-    "Ciencias Económicas y Administrativas.md",
-    "Main.md"
+    "Ciencias Económicas y Administrativas.md"
   ]
 }

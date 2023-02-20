@@ -357,6 +357,9 @@ El _teorema de Grashoff_ determina el tipo de movimiento de los eslabones latera
 - $l$ : Longitud del eslabón más largo
 - $p$, $q$ : Eslabones de longitud intermedia
 
+| Mecanismos de Grashoff | 
+||
+| Criterio | Eslabón más corto | Categoría |
 
 
 

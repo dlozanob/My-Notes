@@ -52,9 +52,9 @@ The `sleep()` command in the C language is used in a microcontroller for enterin
 ## Tables:
 
 |First header | Second header |
-	| --------------- | ----------------- |
-	|First content | Second content |
-	|Additional content | Additional content |
+| --------------- | ----------------- |
+|First content | Second content |
+|Additional content | Additional content |
 
 
 ## Strikethrough:
