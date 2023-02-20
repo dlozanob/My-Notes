@@ -575,8 +575,8 @@ $$
 
 | Mecanismo | Ángulo de transmisión mínimo | Ángulo de transmisión máximo |
 |-|-|-|
-| ![[Pasted image 20230220175721.png]] | $\gamma_{mín} = cos^ñ-1}(\frac{L_{1} + L_{2}}{L_{3}})$ | $\gamma_{máx} = cos^-1(\frac{L_{1} - L_{2}}{L_{3}})$ |
-| | $\gamma_{mín} = cos^-1(\frac{L_{3}^2 + L_{4}^2 - (L_{1} - L_{2})^2}{2L_{3}L_{4}})$ | $\gamma_{máx} = cos^-1(\frac{L_{3}^2 + L_{4}^2 - (L_{1} + L_{2})^2}{2L_{3}L_{4}})$ | 
+| ![[Pasted image 20230220175721.png]] | $\gamma_{mín} = cos^{-1}(\frac{L_{1} + L_{2}}{L_{3}})$ | $\gamma_{máx} = cos^{-1}(\frac{L_{1} - L_{2}}{L_{3}})$ |
+| ![[Pasted image 20230220180243.png]] | $\gamma_{mín} = cos^{-1}(\frac{L_{3}^2 + L_{4}^2 - (L_{1} - L_{2})^2}{2L_{3}L_{4}})$ | $\gamma_{máx} = cos^{-1}(\frac{L_{3}^2 + L_{4}^2 - (L_{1} + L_{2})^2}{2L_{3}L_{4}})$ | 
 
 
 
