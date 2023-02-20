@@ -421,7 +421,12 @@ Reglas:
 3. Reducir un eslabón disminuye un GDL
 4. Combinar las reglas 2 y 4 no alterará los GDL
 
+![[Pasted image 20230219212620.png]]
 
+
+El eslabón efectivo 3 es perpendicular a la tangente de la curva de la ranura. En la última imagen se pivota este eslabón hacia el infinito.
+
+Este último mecanismo se llama yugo escocés (_scotch yoke_). Requiere menos espacio, pero se produce un mayor desgaste.
 
 
 
