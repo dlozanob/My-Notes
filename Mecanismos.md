@@ -456,10 +456,21 @@ Es decir, queda un eslabón binario, pero todos los eslabones cuyas juntas se el
 
 
 - Configuración: Posición de todos los eslabones para una determinada posición
-- Inversión geométrica: Configuraciones alternas para una misma posición del 
+- Inversión geométrica: Configuraciones alternas para una misma posición de los eslabones de entrada
+
+![[Pasted image 20230220141509.png]]
+
+>[!Note]
+>En un mecanismo de 4 barras, se le dice _circuito abierto_ a la inversión que está en negro.
+>Se le dice _circuito cruzado_ a la inversión en azul.
 
 
+Procedimiento:
 
+1. Realizar el diagrama cinemático
+2. Calcular la movilidad del mecanismo para identificar los eslabones de entrada
+3. Reubicar los eslabones de entrada en su nueva posición
+4. Determinar la nueva posición de los demás eslabones
 
 
 
