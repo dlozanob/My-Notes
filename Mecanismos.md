@@ -479,6 +479,13 @@ Ejemplo:
 
 ![[Pasted image 20230220145023.png]]
 
+Hay solo eslabón de entrada, 
+Se plantea el diagrama cinemático:
+
+![[Pasted image 20230220145554.png]]
+
+![[Pasted image 20230220145604.png]]
+
 
 
 
