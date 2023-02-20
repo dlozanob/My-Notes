@@ -428,6 +428,19 @@ El eslabón efectivo 3 es perpendicular a la tangente de la curva de la ranura. 
 
 Este último mecanismo se llama yugo escocés (_scotch yoke_). Requiere menos espacio, pero se produce un mayor desgaste.
 
+Otro ejemplo del uso de esta regla es el siguiente:
+
+![[Pasted image 20230220133130.png]]
+
+
+Una de las revolutas se cambia por una junta superior la cual es una semijunta. Luego se elimina uno de los eslabones.
+
+
+5. Un eslabón ternario o de mayor orden puede ser reemplazado por uno contraido parcialmente con una junta múltiple.
+
+![[Pasted image 20230220133409.png]]
+
+Es decir, queda un eslabón binario, pero todos los eslabones cuyas juntas se eliminan, se encuentran en una misma junta concurrente.
 
 
 
