@@ -525,8 +525,16 @@ Se debe determinar el desplazamiento de $C$, para ello se hace analíticamente $
 
 
 
+## Ecuaciones paramétricas
 
+Se puede parametrizar un mecanismo de acuerdo a sus ángulos de entrada.
+Algunos ejemplos son:
 
+| Mecanismo | Ecuación paramétrica |
+|-|-|
+| ![[Pasted image 20230220173326.png]] | $L_{4} = L_{2}^2 + L_{3}^2 - 2L_{2}L_{3}Cos(\gamma)$ |
+| ![[Pasted image 20230220173428.png]] | $L_{4} = L_{2}Cos(\theta_{2}) + L_{3}Cos(\theta_{3})$
+| ![[Pasted image 20230220173646.png]] | 
 
 
 
