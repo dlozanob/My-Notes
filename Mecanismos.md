@@ -579,6 +579,17 @@ $$
 | ![[Pasted image 20230220180243.png]] | $\gamma_{mín} = cos^{-1}(\frac{L_{3}^2 + L_{4}^2 - (L_{1} - L_{2})^2}{2L_{3}L_{4}})$ | $\gamma_{máx} = cos^{-1}(\frac{L_{3}^2 + L_{4}^2 - (L_{1} + L_{2})^2}{2L_{3}L_{4}})$ | 
 
 
+## Ecuaciones de clausura
+
+Se define una junta de bancada como el centro de coordenadas, y a partir de este se genera un lazo cerrado de vectores, donde cada uno apunta a una junta.
+Luego se plantean ecuaciones vectoriales, las cuales suponen un sistema de ecuaciones, que sirve para hallar ángulos de salida con respecto a ciertos ángulos de entrada.
+
+![[Pasted image 20230220182053.png]]
+
+![[Pasted image 20230220182109.png]]
+
+El sistema de ecuaciones obtenido es no lineal, se puede usar el método numérico de solución de sistemas no lineales de Newton-Raphson.
+
 
 
 
