@@ -374,11 +374,24 @@ El _teorema de Grashoff_ determina el tipo de movimiento de los eslabones latera
 	  margin: 0;
 	  padding: 0.5em;
 	}
+
+	#title {
+		text-align: center;
+	}
 </style>
 
 <table>  
+	 <tr class="title">
+		 <td colspan="3" id=title>Mecanismos de Grashoff</td>
+		 <td colspan="3" style="text-align: center;">Otros</td>
+	 </tr>
 	 <tr>
-		 <td colspan></td>
+		 <td>Criterio</td>
+		 <td>Eslabón más corto</td>
+		 <td>Categoría</td>
+		 <td>Criterio</td>
+		 <td>Eslabón más corto</td>
+		 <td>Categoría</td>
 	 </tr>
 </table>
 

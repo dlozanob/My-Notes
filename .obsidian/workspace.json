@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1313dafaa4671ee1",
+            "id": "a23ad25b7f3ce64e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -204,13 +204,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1313dafaa4671ee1",
+  "active": "a23ad25b7f3ce64e",
   "lastOpenFiles": [
-    "HTML.md",
-    "Mecanismos.md",
     "CSS.md",
-    "Obsidian basics.md",
+    "Mecanismos.md",
     "Excalidraw/myDrawingSpace.excalidraw.md",
+    "HTML.md",
+    "Obsidian basics.md",
     "Microcontrollers.md",
     "Tema 2. Función de oferta y demanda.md",
     "Tema 3. Indicadores macroeconómicos.md",
