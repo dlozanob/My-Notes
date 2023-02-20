@@ -397,6 +397,16 @@ Lo encerrado en el cuadrado rojo se vuelve bancada porque el eslabón binario bl
 >Las hélices de los helicópteros poseen una geometría tal que, al fallar el helicóptero y caer, el aire hace que la hélice gire, igualando parcialmente la fuerza de la gravedad, lo que hace que el helicóptero caiga con velocidad constante
 
 
+
+## Inversión de eslabonamientos
+
+Consiste en modificar el comportamiento del mecanismo al cambiar la bancada de elemento.
+
+
+
+
+
+
 ## Transformación de eslabonamientos
 
 
