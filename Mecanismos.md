@@ -371,9 +371,16 @@ Simulación de estos movimientos: [External Links](##External+Links).
 El _punto de cambio_, se define como un movimiento donde cada eslabón da un giro completo, permanece quieto en los 180° por un instante, y hace lo mismo en el otro sentido.
 
 
+## Síntesis de número
+
+Para un GDL elegido existen varias combinaciones de eslabones. Aquí todas las juntas tienen orden 1.
+
+Además, para cada GDL existen distintas posibilidades entre número de eslabones y el tipo de estos. Para cada una de estas configuraciones, existen distintas maneras de conectar los elementos, a estas configuraciones se les llama _isómeros_.
+
+Cuando todas las juntas son completas, el mecanismo tiene un número impar de GDL, sí y solo sí, requiere un número par de eslabones.
 
 
-
+![[Pasted image 20230219203444.png]]
 
 
 
