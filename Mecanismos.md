@@ -471,6 +471,8 @@ Procedimiento:
 2. Calcular la movilidad del mecanismo para identificar los eslabones de entrada
 3. Reubicar los eslabones de entrada en su nueva posición
 4. Determinar la nueva posición de los demás eslabones
+	1. Dibujar la trayectoria restringida de los elementos pivotados a la bancada
+	2. Dibujar las trayectorias posibles de los demás eslabones
 
 
 
