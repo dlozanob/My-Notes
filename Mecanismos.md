@@ -534,9 +534,14 @@ Algunos ejemplos son:
 |-|-|
 | ![[Pasted image 20230220173326.png]] | $L_{4} = L_{2}^2 + L_{3}^2 - 2L_{2}L_{3}Cos(\gamma)$ |
 | ![[Pasted image 20230220173428.png]] | $L_{4} = L_{2}Cos(\theta_{2}) + L_{3}Cos(\theta_{3})$
-| ![[Pasted image 20230220173646.png]] | 
+| ![[Pasted image 20230220173646.png]] | $\gamma = Cos^-1(\frac{L_{3}^2 + L_{4}^2 - BD^2}{2L_{3}L_{4}})$ |
 
 
+## Posiciones de agarrotamiento
+
+Son configuraciones en las que se ubica uno de los eslabones impulsados en una posición extrema.
+
+Se llaman de agarrotamiento porque en estas posiciones algunos eslabones quedan solapados sobre otro, provocando un atasco.
 
 
 
