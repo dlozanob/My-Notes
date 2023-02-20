@@ -555,14 +555,23 @@ También son llamadas _posiciones singulares_.
 ## Ángulo de transmisión
 
 
-- Ventaja mecánica: Es la eficiencia del mecanismo.
+- Ventaja mecánica ($V.M$): Es la eficiencia del mecanismo.
 
 $$
-	V.M = \frac{}{}
+\begin{align*}
+	V.M = \frac{F_{e}}{F_{s}} \\\\
+	V.M = \frac{T_{e}}{T_{s}}
+\end{align*}
 $$
 
 
+- Ángulo de transmisión ($\gamma$): Es aquel entre dos eslabones que cuantifica la ventaja mecánica.
 
+Para mecanismos de biela-manivela y 4 barras:
+
+$$
+	Sin(\gamma) \propto V.M
+$$
 
 
 
