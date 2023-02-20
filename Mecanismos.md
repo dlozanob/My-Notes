@@ -242,8 +242,20 @@ $$
 
 Ejemplo:
 
+![[Pasted image 20230219190852.png]]
 
 
+$$
+\begin{align*}
+	&n_{b} = 7 \\
+	&J_{1} = 8 \\
+	&J_{2} = 0 \\\\
+	&M = 3(7 - 1) - 2(8) - (0) \\
+	&= 2
+\end{align*}
+$$
+
+Notar que el elemento $2$ es un eslabón cuaternario.
 
 
 >[!Note]
@@ -327,6 +339,9 @@ $$
 $$
 
 Supuestamente el mecanismo estaría bloqueado, pero en realidad tenemos un GDL.
+
+
+
 
 
 
