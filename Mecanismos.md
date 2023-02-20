@@ -43,7 +43,7 @@ Se caracterizan por poseer contactos puntuales o lineales.
 ![[Pasted image 20230211101216.png]]
 
 En ambos casos se tienen 2 GDL.
-Para ver esto de un  modo más sencillo, se supone que los ejes inferiores no están fijos en el espacio, por tanto, pueden producir rotación en los elementos de abajo, así como trasladarse linealmente como la rueda de un carro.
+Para ver esto de un  modo más sencillo, se supone que los ejes inferiores no están fijos en el espacio, por tanto, pueden producir rotación en sus respectivos elementos, así como trasladarse linealmente como la rueda de un carro.
 
 
 ### Juntas completas
@@ -237,6 +237,11 @@ $$
 	&= 1
 \end{align*}
 $$
+
+
+
+Ejemplo:
+
 
 
 
