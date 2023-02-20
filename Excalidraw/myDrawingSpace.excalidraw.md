@@ -61,10 +61,10 @@ e2f444a0660a39195f6efa76aaeb0be3a2e728ef: [[Pasted Image 20230219210244_196.png]
 		{
 			"id": "Xpa6WRBmY64g9p20xRdli",
 			"type": "arrow",
-			"x": 54,
-			"y": -26.543198569393883,
-			"width": 91.24999999999997,
-			"height": 2.416162505360578,
+			"x": 54.000000000000014,
+			"y": -25.881581245472375,
+			"width": 94.99999999999999,
+			"height": 0.6456553207665259,
 			"angle": 0,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -76,11 +76,11 @@ e2f444a0660a39195f6efa76aaeb0be3a2e728ef: [[Pasted Image 20230219210244_196.png]
 			"groupIds": [],
 			"roundness": null,
 			"seed": 738479959,
-			"version": 192,
-			"versionNonce": 612979641,
+			"version": 228,
+			"versionNonce": 1661703225,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1676858577113,
+			"updated": 1676858581993,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -89,8 +89,8 @@ e2f444a0660a39195f6efa76aaeb0be3a2e728ef: [[Pasted Image 20230219210244_196.png]
 					0
 				],
 				[
-					91.24999999999997,
-					-2.416162505360578
+					94.99999999999999,
+					-0.6456553207665259
 				]
 			],
 			"lastCommittedPoint": null,
@@ -110,8 +110,8 @@ e2f444a0660a39195f6efa76aaeb0be3a2e728ef: [[Pasted Image 20230219210244_196.png]
 		{
 			"id": "7eo8Wh-9Xe_r5ExydVod_",
 			"type": "image",
-			"x": 163.7500000000001,
-			"y": -178,
+			"x": 167.5000000000001,
+			"y": -170.5,
 			"width": 466.7214611872147,
 			"height": 277.75000000000006,
 			"angle": 0,
@@ -125,8 +125,8 @@ e2f444a0660a39195f6efa76aaeb0be3a2e728ef: [[Pasted Image 20230219210244_196.png]
 			"groupIds": [],
 			"roundness": null,
 			"seed": 238188377,
-			"version": 189,
-			"versionNonce": 1158649561,
+			"version": 207,
+			"versionNonce": 317712217,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -134,7 +134,7 @@ e2f444a0660a39195f6efa76aaeb0be3a2e728ef: [[Pasted Image 20230219210244_196.png]
 					"type": "arrow"
 				}
 			],
-			"updated": 1676858577112,
+			"updated": 1676858581993,
 			"link": null,
 			"locked": false,
 			"status": "pending",

@@ -415,6 +415,11 @@ Reglas:
 
 1. Una revoluta se puede cambiar por una junta prismática. Siempre y cuando permanezcan dos revolutas.
 
+![[Pasted image 20230219210327.png]]
+
+2. Cualquier junta completa se puede reemplazar por una semijunta aumentando un GDL
+3. Reducir un eslabón disminuye un GDL
+4. Combinar las reglas 2 y 4 no alterará los GDL
 
 
 
