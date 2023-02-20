@@ -495,7 +495,18 @@ Ahora bien, se trazan las trayectorias restringidas de los elementos pivotados a
 
 ![[Pasted image 20230220150046.png]]
 
-Se traza la trayectoria posi
+Se traza la trayectoria posible del punto B a partir de la nueva posición:
+
+![[Pasted image 20230220150414.png]]
+
+
+En la intersección entre la trayectoria restringida y la trayectoria posible del punto B, se ubica el punto $B'$.
+
+![[Pasted image 20230220150543.png]]
+
+
+>[!Note]
+>Si existe más de un punto de intersección, eso quiere de
 
 
 
