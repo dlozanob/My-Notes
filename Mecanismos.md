@@ -402,12 +402,19 @@ Lo encerrado en el cuadrado rojo se vuelve bancada porque el eslabón binario bl
 
 Consiste en modificar el comportamiento del mecanismo al cambiar la bancada de elemento.
 
-
+![[Pasted image 20230219205857.png]]
 
 
 
 
 ## Transformación de eslabonamientos
+
+Consiste en transformar los elementos sin modificar los GDL.
+
+Reglas:
+
+1. Una revoluta se puede cambiar por una junta prismática. Siempre y cuando permanezcan dos revolutas.
+
 
 
 
