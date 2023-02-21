@@ -349,7 +349,17 @@ $$
 
 ![[Pasted image 20230220185614.png]]
 
+Donde $f_{c}$ es la fuerza de contacto.
 Siempre se genera un torque de acción-reacción provocado por el otro engranaje.
+
+Además:
+
+$$
+\begin{align*}
+	N = 
+\end{align*}
+$$
+
 
 
 
@@ -377,8 +387,21 @@ Ejemplo:
 
 ![[Pasted image 20230220193902.png]]
 
+Se hace el diagrama cinemático de cada una de las inercias:
 
-Se hace el diagrama cinemático de cada uno de l
+![[Pasted image 20230220194331.png]]
+
+
+Sus ecuaciones de estado son:
+
+$$
+\begin{align*}
+	&J_{1}\ddot \theta_{1} + B_{1}\dot \theta_{1} + k_{1}\theta_{1} + r_{1}f_{c} = T_{a1}(t) \\\\
+	&J_{2}\ddot \theta_{2} + B_{2}\dot \theta_{2} + k_{2}\theta_{2} - r_{2}f_{c} = T_{a2}(t)
+\end{align*}
+$$
+
+Se puede simplificar el sistema a una sola EDO, ya que, por la relación de engranajes
 
 
 
