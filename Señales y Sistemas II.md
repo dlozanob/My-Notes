@@ -349,5 +349,29 @@ $$
 
 ![[Pasted image 20230220185614.png]]
 
-Siempre se genera un torque provocado por el otro engranaje.
+Siempre se genera un torque de acción-reacción provocado por el otro engranaje.
+
+
+
+De la ley de Newton para torques externos actuando sobre un cuerpo, se tiene:
+
+$$
+	\sum_{i}T_{ext, i} = J\ddot \theta
+$$
+Donde $J$ es el momento polar de inercia del cuerpo.
+
+A la sumatoria de todos los torques, incluyendo la inercia, se llama _Ley de D'Alembert_:
+
+$$
+	\sum_{i} T_{i} = 0
+$$
+
+Así mismo, para toda trayectoria cerrada se satisface la _Ley de desplazamientos_:
+
+$$
+	\sum_{i} (\triangle \theta)_{i} = 0
+$$
+
+
+
 
