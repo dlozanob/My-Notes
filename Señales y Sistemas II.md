@@ -554,4 +554,14 @@ $$
 	\dot T_{A}
 \end{pmatrix}
 =
+\begin{pmatrix}
+	-\frac{1}{C_{m}R_{m}} & \frac{1}{C_{m}R_{m}} \\\\
+	\frac{1}{C_{A}R_{m}} & -(\frac{1}{C_{A}R_{m}} + \frac{C_{A}}{R_{A}})
+\end{pmatrix}
++
+\begin{pmatrix}
+	0 \\\\
+	\frac{1}{C_{A}R_{A}}
+\end{pmatrix}
+T_{E}
 $$

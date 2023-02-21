@@ -11,26 +11,11 @@
             "id": "ec9975199e9f955a",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/myDrawingSpace.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "8d1c2a843eb10640",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Señales y Sistemas II.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -91,7 +76,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Señales y Sistemas II.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +92,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Señales y Sistemas II.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,9 +113,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Señales y Sistemas II.md"
-              }
+              "state": {}
             }
           },
           {
@@ -183,7 +164,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8d1c2a843eb10640",
+  "active": "ec9975199e9f955a",
   "lastOpenFiles": [
     "Excalidraw/myDrawingSpace.excalidraw.md",
     "Señales y Sistemas II.md",
