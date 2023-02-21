@@ -502,3 +502,27 @@ $$
 	R_{1} = \frac{l}{kA}
 $$
 Donde $l$ es el grosor del cuerpo, $A$ el área y $k$ es la conductividad térmica del cuerpo.
+
+Así mismo, la tasa de cambio de la temperatura está dada por:
+
+$$
+	\frac{dT}{dt} = \frac{q_{i} - q_{o}}{C_{T}}
+$$
+
+Donde $q_{i}$ es el calor que entra y $q_{o}$ es el que sale del cuerpo. Además, $C_{T}$ es la capacidad específica del calor del cuerpo.
+
+
+
+Ejemplo:
+
+![[Pasted image 20230220203438.png]]
+
+Flujos de calor:
+
+$$
+\begin{align*}
+	q_{mA} = \frac{T_{m} - T_{A}}{R_{m}} \\\\
+	q_{AE} = \frac{T_{A} - T_{E}}{R_{A}}
+\end{align*}
+$$
+
