@@ -373,5 +373,12 @@ $$
 $$
 
 
+Ejemplo:
+
+![[Pasted image 20230220193902.png]]
+
+
+Se hace el diagrama cinemático de cada uno de l
+
 
 
