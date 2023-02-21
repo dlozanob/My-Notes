@@ -470,5 +470,23 @@ Entonces:
 
 $$
 \begin{align*}
+	\dot h_{1} = \frac{Q_{1}}{A} - \frac{Q_{13}}{A} \\\\
+	\dot h_{2} = \frac{Q_{2}}{A} + \frac{Q_{32}}{A} - \frac{Q_{20}}{A} \\\\
+	\dot h_{3} = \frac{Q_{13}}{A} - \frac{Q_{32}}{A}
 \end{align*}
 $$
+
+Reemplazando los caudales:
+
+$$
+\begin{align*}
+	\dot h_{1} = \frac{Q_{1}}{A} - \frac{R_{13}\sqrt{h_{1} - h_{3}}}{A} \\\\
+	\dot h_{2} = \frac{Q_{2}}{A} + \frac{R_{32}\sqrt{h_{3} - h_{2}}}{A} - \frac{R_{20}\sqrt{h_{2}}}{A} \\\\
+	\dot h_{3} = \frac{R_{13}\sqrt{h_{1} - h_{3}}}{A} - \frac{R_{32}\sqrt{h_{3} - h_{2}}}{A}
+\end{align*}
+$$
+
+El sistema es no lineal, por lo que no se puede representar en forma matricial.
+
+
+## Sistemas térmicos
