@@ -422,3 +422,29 @@ $$
 $$
 
 Tal que $q_{0}$ es el caudal que entra y $q_{1}$ el que sale.
+
+Así mismo:
+
+$$
+	dV_{1} = d(A*h_{1})
+$$
+
+Donde $A$ es el área del tanque en un punto.
+
+
+
+Ejemplo:
+
+![[Pasted image 20230220201500.png]]
+
+Caudales:
+$$
+\begin{align*}
+	Q_{13} = R_{13}\sqrt{h_{1} - h_{3}} \\\\
+	Q_{32} = R_{32}\sqrt{h_{3} - h_{2}} \\\\
+	Q_{20} = R_{20}\sqrt{h_{2}} \\\\
+\end{align*}
+$$
+Volumen:
+$$
+
