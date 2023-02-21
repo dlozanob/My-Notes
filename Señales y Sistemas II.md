@@ -490,3 +490,15 @@ El sistema es no lineal, por lo que no se puede representar en forma matricial.
 
 
 ## Sistemas térmicos
+
+El flujo de calor desde un cuerpo 1 hasta un cuerpo 2, se define como:
+
+$$
+	q_{12} = \frac{T_{1} - T_{2}}{R_{1}}
+$$
+Donde $R_{1}$ es una resistencia térmica, definida por:
+
+$$
+	R_{1} = \frac{l}{kA}
+$$
+Donde $l$ es el grosor del cuerpo, $A$ el área y $k$ es la conductividad térmica del cuerpo.
