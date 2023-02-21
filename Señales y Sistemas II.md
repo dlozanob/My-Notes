@@ -540,5 +540,18 @@ Donde $q$ es un calor que entra al cuerpo, en este caso es $0$.
 
 Reemplazando los flujos:
 
+$$
+\begin{align*}
+	\frac{dT_{m}}{dt} = \frac{T_{A} - T_{m}}{C_{m}R_{m}} \\\\
+	\frac{dT_{A}}{dt} = \frac{1}{C_{A}}(\frac{T_{m} - T_{A}}{R_{m}} - \frac{T_{A} - T_{E}}{R_{A}}) \\\\
+\end{align*}
+$$
+Modelando el sistema:
 
-
+$$
+\begin{pmatrix}
+	\dot T_{m} \\\\
+	\dot T_{A}
+\end{pmatrix}
+=
+$$
