@@ -404,5 +404,21 @@ $$
 Se puede simplificar el sistema a una sola EDO. Primero se despeja $f_{c}$ en la primera ecuación y se sustituye en la segunda. Luego se aplica la relación de engranajes para dejar todo en términos de $\theta_{1}$, $\dot \theta_{1}$ y $\ddot \theta_{1}$.
 
 
+## Modelos de tanques
 
 
+Se define el caudal que pasa desde el tanque 1 hasta el tanque 2 como:
+
+$$
+	q_{1} = R_{1}\sqrt{h_{1} - h_{2}}
+$$
+
+Donde $h_{1}$ y $h_{2}$ son las alturas del líquido en el tanque 1 y 2 respectivamente. Y $R_{1}$ es una resistencia al flujo del caudal.
+
+La tasa de cambio de volumen en el tanque 1 está representado por:
+
+$$
+	\frac{dV_{1}}{dt} = q_{0} - q_{1}
+$$
+
+Tal que $q_{0}$ es el caudal que entra y $q_{1}$ el que sale.
