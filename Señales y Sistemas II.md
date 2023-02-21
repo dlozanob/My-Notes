@@ -503,7 +503,7 @@ $$
 $$
 Donde $l$ es el grosor del cuerpo, $A$ el área y $k$ es la conductividad térmica del cuerpo.
 
-Así mismo, la tasa de cambio de la temperatura está dada por:
+Así mismo, la tasa de cambio de la temperatura (capacidad térmica) está dada por:
 
 $$
 	\frac{dT}{dt} = \frac{q_{i} - q_{o}}{C_{T}}
@@ -525,4 +525,20 @@ $$
 	q_{AE} = \frac{T_{A} - T_{E}}{R_{A}}
 \end{align*}
 $$
+
+Donde $q_{mA}$ es el flujo de calor desde el cuerpo hacia el fluido, y $q_{AE}$ es el flujo de calor desde el fluido hasta el exterior.
+
+Capacidad térmica:
+
+$$
+\begin{align*}
+	\frac{dT_{m}}{dt} = \frac{q - q_{mA}}{C_{m}} \\\\
+	\frac{dT_{A}}{dt} = \frac{q_{mA} - q_{AE}}{C_{A}} \\\\
+\end{align*}
+$$
+Donde $q$ es un calor que entra al cuerpo, en este caso es $0$.
+
+Reemplazando los flujos:
+
+
 
