@@ -438,13 +438,37 @@ Ejemplo:
 ![[Pasted image 20230220201500.png]]
 
 Caudales:
+
 $$
 \begin{align*}
 	Q_{13} = R_{13}\sqrt{h_{1} - h_{3}} \\\\
 	Q_{32} = R_{32}\sqrt{h_{3} - h_{2}} \\\\
-	Q_{20} = R_{20}\sqrt{h_{2}} \\\\
+	Q_{20} = R_{20}\sqrt{h_{2}}
 \end{align*}
 $$
-Volumen:
+
+Volúmenes:
+
+$$
+\begin{align*}
+	\frac{dV_{1}}{dt} = Q_{1} - Q_{13} \\\\
+	\frac{dV_{3}}{dt} = Q_{13} - Q_{32} \\\\
+	\frac{dV_{2}}{dt} = Q_{2} + Q_{32} - Q_{20}
+\end{align*}
 $$
 
+Ya que los tanques son cilíndricos:
+
+$$
+\begin{align*}
+	dV_{1} = Adh_{1} \\\\
+	dV_{2} = Adh_{2} \\\\
+	dV_{3} = Adh_{3}
+\end{align*}
+$$
+Entonces:
+
+$$
+\begin{align*}
+\end{align*}
+$$
