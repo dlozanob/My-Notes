@@ -352,11 +352,11 @@ $$
 Donde $f_{c}$ es la fuerza de contacto.
 Siempre se genera un torque de acción-reacción provocado por el otro engranaje.
 
-Además:
+Además, la relación de engranajes satisface:
 
 $$
 \begin{align*}
-	N = 
+	N = \frac{r_{2}}{r_{1}} = \frac{n_{2}}{n_{1}} = \frac{\theta_{1}}{\theta_{2}} = \frac{\omega_{2}}{\omega_{1}}
 \end{align*}
 $$
 
@@ -401,7 +401,8 @@ $$
 \end{align*}
 $$
 
-Se puede simplificar el sistema a una sola EDO, ya que, por la relación de engranajes
+Se puede simplificar el sistema a una sola EDO. Primero se despeja $f_{c}$ en la primera ecuación y se sustituye en la segunda. Luego se aplica la relación de engranajes para dejar todo en términos de $\theta_{1}$, $\dot \theta_{1}$ y $\ddot \theta_{1}$.
+
 
 
 
