@@ -24,19 +24,8 @@
                 "file": "Excalidraw/myDrawingSpace.excalidraw.md"
               }
             }
-          },
-          {
-            "id": "ede352033b715b81",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.15"
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +86,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/myDrawingSpace.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/myDrawingSpace.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +123,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Excalidraw/myDrawingSpace.excalidraw.md"
-              }
+              "state": {}
             }
           },
           {
@@ -188,11 +173,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ede352033b715b81",
+  "active": "ec9975199e9f955a",
   "lastOpenFiles": [
+    "Excalidraw/myDrawingSpace.excalidraw.md",
     "Electrónica Digital II.md",
     "Ingeniería Electrónica.md",
-    "Excalidraw/myDrawingSpace.excalidraw.md",
     "Señales y Sistemas II.md",
     "Automatización, Control y Robótica.md",
     "Fundamentos de Mecánica de Fluidos.md",
