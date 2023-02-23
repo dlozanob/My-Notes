@@ -20,7 +20,7 @@ Enable Motor 2 ^0jbtDzCN
 
 Control ^syAeM9BL
 
-Vss ^ycIiw14l
+Vin ^ycIiw14l
 
 5V externa ^dtXSjdDx
 
@@ -686,8 +686,8 @@ Vss ^ycIiw14l
 			"type": "arrow",
 			"x": 29.25,
 			"y": 130,
-			"width": 35.46957616274746,
-			"height": 78.21239955856942,
+			"width": 37.38117218987203,
+			"height": 78.24779948499764,
 			"angle": 0,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -699,11 +699,11 @@ Vss ^ycIiw14l
 			"groupIds": [],
 			"roundness": null,
 			"seed": 214076455,
-			"version": 113,
-			"versionNonce": 1959669063,
+			"version": 117,
+			"versionNonce": 551698631,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1677118322149,
+			"updated": 1677118707166,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -712,8 +712,8 @@ Vss ^ycIiw14l
 					0
 				],
 				[
-					-35.46957616274746,
-					78.21239955856942
+					-37.38117218987203,
+					78.24779948499764
 				]
 			],
 			"lastCommittedPoint": null,
@@ -1482,8 +1482,8 @@ Vss ^ycIiw14l
 		},
 		{
 			"type": "text",
-			"version": 345,
-			"versionNonce": 2119585737,
+			"version": 349,
+			"versionNonce": 1346487369,
 			"isDeleted": false,
 			"id": "ycIiw14l",
 			"fillStyle": "solid",
@@ -1492,11 +1492,11 @@ Vss ^ycIiw14l
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 6.264668905111577,
-			"x": -35.7469143738524,
-			"y": 223.8332761921084,
+			"x": -35.74640010282779,
+			"y": 223.88882222412644,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 40,
+			"width": 34,
 			"height": 27,
 			"seed": 26306087,
 			"groupIds": [],
@@ -1507,18 +1507,18 @@ Vss ^ycIiw14l
 					"type": "arrow"
 				}
 			],
-			"updated": 1677118322148,
+			"updated": 1677118707165,
 			"link": null,
 			"locked": false,
 			"fontSize": 23.111111111111107,
 			"fontFamily": 2,
-			"text": "Vss",
-			"rawText": "Vss",
+			"text": "Vin",
+			"rawText": "Vin",
 			"baseline": 21,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "Vss"
+			"originalText": "Vin"
 		},
 		{
 			"type": "text",
