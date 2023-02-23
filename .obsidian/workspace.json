@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tema 3. Indicadores macroeconómicos.md",
+                "file": "Tema 2. Función de oferta y demanda.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tema 3. Indicadores macroeconómicos.md",
+                "file": "Tema 2. Función de oferta y demanda.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tema 3. Indicadores macroeconómicos.md",
+                "file": "Tema 2. Función de oferta y demanda.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tema 3. Indicadores macroeconómicos.md"
+                "file": "Tema 2. Función de oferta y demanda.md"
               }
             }
           },
@@ -174,10 +174,10 @@
   "active": "ec9975199e9f955a",
   "lastOpenFiles": [
     "Módulo 1. Economía y matemática financiera.md",
+    "Tema 3. Indicadores macroeconómicos.md",
     "Tema 2. Función de oferta y demanda.md",
     "LaTeX.md",
     "Tema 1. Economía.md",
-    "Tema 3. Indicadores macroeconómicos.md",
     "Finanzas.md",
     "Servomecanismos.md",
     "Excalidraw/myDrawingSpace.excalidraw.md",

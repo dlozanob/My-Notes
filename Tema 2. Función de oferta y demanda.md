@@ -1,7 +1,7 @@
 
 # Tema 2. Función de oferta y demanda
 
-La banca es un agente importante el cual se encarga de captar el dinero de la gente para reinvertirlo. La tasa a la que un individuo invierte su dinero en el banco, se llama _tasa pasiva_. Mientras que la tasa a la que presta se llama _tasa activa_.
+La banca es un agente importante el cual se encarga de captar el dinero de la gente para reinvertirlo. La tasa a la que un individuo invierte su dinero en el banco, se llama _tasa pasiva_ o _tasa de captación_. Mientras que la tasa a la que presta se llama _tasa activa_.
 Usan una porción del dinero que toman de alguien que deposita para mantenerla como reserva. La tasa que define esa porción se llama _encaje_ (10% - 20%).
 
 La oferta y la demanda determinan los precios y la cantidad que se vende de cada uno de los bienes.
