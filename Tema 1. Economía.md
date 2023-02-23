@@ -166,7 +166,7 @@ Una _remesa_ es un dinero que entra al flujo económico de una país, sin espera
 
 ## Producto e ingreso
 
-Cuando una empresa invierte en insumos, espera vender los productosd producidos por estos a un precio mayor. Al valor ganado por la empresa se le llama _valor agregado_.
+Cuando una empresa invierte en insumos, espera vender los productos producidos por estos a un precio mayor. Al valor ganado por la empresa se le llama _valor agregado_.
 
 $$
   Producto = Ingreso = ValorAgregado
