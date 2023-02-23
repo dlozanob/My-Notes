@@ -24,9 +24,19 @@
                 "file": "Excalidraw/myDrawingSpace.excalidraw.md"
               }
             }
+          },
+          {
+            "id": "ede352033b715b81",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.15"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -178,7 +188,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "97b58b72b16ab207",
+  "active": "ede352033b715b81",
   "lastOpenFiles": [
     "Electrónica Digital II.md",
     "Ingeniería Electrónica.md",
