@@ -16,16 +16,19 @@
             }
           },
           {
-            "id": "97b58b72b16ab207",
+            "id": "b28a13e4469907bf",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/myDrawingSpace.excalidraw.md"
+                "file": "Servomecanismos.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,6 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Servomecanismos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,6 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Servomecanismos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +128,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Servomecanismos.md"
+              }
             }
           },
           {
@@ -147,7 +154,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: myDra",
+                "query": "file: servo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -173,8 +180,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ec9975199e9f955a",
+  "active": "b28a13e4469907bf",
   "lastOpenFiles": [
+    "Servomecanismos.md",
     "Excalidraw/myDrawingSpace.excalidraw.md",
     "Electrónica Digital II.md",
     "Ingeniería Electrónica.md",
