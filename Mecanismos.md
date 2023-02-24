@@ -586,6 +586,10 @@ Luego se plantean ecuaciones vectoriales, las cuales suponen un sistema de ecuac
 
 ![[Pasted image 20230220182053.png]]
 
+Obtenemos una ecuación vectorial (_ecuación de clausura_):
+
+![[Pasted image 20230224093037.png]]
+
 ![[Pasted image 20230220182109.png]]
 
 El sistema de ecuaciones obtenido es no lineal, se puede usar el método numérico de solución de sistemas no lineales de Newton-Raphson.
