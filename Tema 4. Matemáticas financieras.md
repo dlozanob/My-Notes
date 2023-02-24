@@ -49,7 +49,14 @@ Siendo así, se tienen las siguientes relaciónes:
 $$
 \begin{align*}
 	TIR > TMAR > CC \\\\
-	CC = max(CC, TIO)
+	TMAR = max(CC, TIO)
 \end{align*}
 $$
+
+
+La variación porcentual del indicador que determina el nivel de los precios representa la inflación en un periodo.
+
+
+>[!Note]
+>En Colombia, este indicador es el IPC (Índice de Precios al Consumidor)
 
