@@ -35,3 +35,8 @@ La _tasa de intervención_ establece el valor mínimo que pueden adoptar las tas
 El Banco Central modifica la tasa de intervención para inyectar o reducir liquidez.
 Para determinar su valor, se tiene en cuenta las reservas y el encaje bancario.
 La tasa tiene una relación inversamente proporcional a la reserva bancaria.
+
+
+En el análisis de alternativas de inversión se tienen las siguientes tasas de interés:
+
+- _TMAR_ : Tasa Mínima Aceptable de Retorno. Es la tasa mínima de retorno que se espera obtener en el f 
