@@ -26,6 +26,12 @@ El valor de la tasa de interés depende de dos factores:
 - Riesgo: Es el riesgo de cumplir con la deuda.
 Así mismo, este se compone de factores como: modelo de negocio, leyes, entorno económico y disponibilidad de recursos
 
-- Tiempo: El tiempo que transcurre hasta finalizar el periodo de paga.
+- Tiempo: El tiempo que transcurre hasta finalizar el periodo de préstamo.
 
 Siendo así, la tasa de interés incrementará cuando el riesgo sea alto, ya que, desincentiva al deudor de pedir el préstamo. Igualmente la tasa de interés es proporcional al tiempo para el que se establece la paga.
+
+La _tasa de intervención_ establece el valor mínimo que pueden adoptar las tasas de interés en una economía.
+
+El Banco Central modifica la tasa de intervención para inyectar o reducir liquidez.
+Para determinar su valor, se tiene en cuenta las reservas y el encaje bancario.
+La tasa tiene una relación inversamente proporcional a la reserva bancaria.
