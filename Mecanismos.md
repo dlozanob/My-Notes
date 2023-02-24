@@ -601,6 +601,15 @@ El sistema de ecuaciones obtenido es no lineal, se puede usar el método numéri
 
 
 
+
+
+
+
+
+
+
+
+
 ## Anexos
 
 ### Normas de diagramas cinemáticos
