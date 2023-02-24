@@ -11,8 +11,12 @@
             "id": "21526d43650b1d40",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Mecanismos.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -75,6 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Mecanismos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,6 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Mecanismos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -112,7 +118,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Mecanismos.md"
+              }
             }
           },
           {
@@ -164,6 +172,8 @@
   },
   "active": "21526d43650b1d40",
   "lastOpenFiles": [
+    "Fundamentos de Mecánica de Fluidos.md",
+    "Mecanismos.md",
     "Módulo 1. Economía y matemática financiera.md",
     "Tema 3. Indicadores macroeconómicos.md",
     "Tema 2. Función de oferta y demanda.md",
@@ -176,8 +186,6 @@
     "Ingeniería Electrónica.md",
     "Señales y Sistemas II.md",
     "Automatización, Control y Robótica.md",
-    "Fundamentos de Mecánica de Fluidos.md",
-    "Mecanismos.md",
     "Obsidian basics.md",
     "HTML.md",
     "CSS.md"
