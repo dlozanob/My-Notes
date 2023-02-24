@@ -60,3 +60,15 @@ La variación porcentual del indicador que determina el nivel de los precios rep
 >[!Note]
 >En Colombia, este indicador es el IPC (Índice de Precios al Consumidor)
 
+Ejemplo:
+
+$$
+\begin{align*}
+	&IPC_{enero} = 104 \\
+	&IPC_{diciembre} = 106 \\\\
+	&Variación\%IPC = (\frac{IPC_{diciembre}}{IPC_{enero}})*100 \\\\
+	&= 1.92\%
+\end{align*}
+$$
+
+Por lo que se ha obtenido la inflación en el año.
