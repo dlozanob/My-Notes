@@ -11,8 +11,12 @@
             "id": "21526d43650b1d40",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Módulo 1. Economía y matemática financiera.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -75,6 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Módulo 1. Economía y matemática financiera.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,6 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Módulo 1. Economía y matemática financiera.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -112,7 +118,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Módulo 1. Economía y matemática financiera.md"
+              }
             }
           },
           {
@@ -164,6 +172,7 @@
   },
   "active": "21526d43650b1d40",
   "lastOpenFiles": [
+    "Finanzas.md",
     "Mecanismos.md",
     "Pasted image 20230224093037.png",
     "Fundamentos de Mecánica de Fluidos.md",
@@ -172,7 +181,6 @@
     "Tema 2. Función de oferta y demanda.md",
     "LaTeX.md",
     "Tema 1. Economía.md",
-    "Finanzas.md",
     "Servomecanismos.md",
     "Excalidraw/myDrawingSpace.excalidraw.md",
     "Electrónica Digital II.md",
