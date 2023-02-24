@@ -40,6 +40,16 @@ La tasa tiene una relación inversamente proporcional a la reserva bancaria.
 En el análisis de alternativas de inversión se tienen las siguientes tasas de interés:
 
 - _TMAR_ : Tasa Mínima Aceptable de Retorno. Es la tasa mínima de retorno que se espera obtener de una inversión.
-- _CC_ : Costo de Inversión. Es el costo del dinero de quién invierte, en caso de ser financiado por un tercero.
+- _CC_ : Costo de Capital. Es el costo del dinero de quién invierte, en caso de ser financiado por un tercero.
 - _TIR_ : Tasa Interna de Retorno. Es la tasa de retorno que se espera obtener de una inversión.
-- _TIO_ : Tasa de Interés de Oportunidad. Es la tasa del costo de oportunidad, 
+- _TIO_ : Tasa de Interés de Oportunidad. Es la tasa del costo de oportunidad, suponiendo que sería la tasa de la mejor alternativa a la que se renunció, no obstante, la alternativa seleccionada es mejor que esta.
+
+Siendo así, se tienen las siguientes relaciónes:
+
+$$
+\begin{align*}
+	TIR > TMAR > CC \\\\
+	CC = max(CC, TIO)
+\end{align*}
+$$
+
