@@ -10,13 +10,17 @@ Un sistema se modela con un sistema de ecuaciones diferenciales. En los casos m�
 
 El vector de estados contiene las variables de estado presentes en el sistema, estos varían con el tiempo y son intrínsecos al sistema y ajenos a la entrada.
 
-De manera general, un sistema se puede modelar matemáticamente usando la ecuación de estadp:
+De manera general, un sistema se puede modelar matemáticamente usando la ecuación de estado:
 
 $$
-\begin{align*}
-	&\dot x = f(x, u) \\
-	&y = g(x, u)
-\end{align*}
+\begin{equation}
+	\left\{
+	\begin{array}{lcc}
+		&\dot x = f(x, u) \\
+		&y = g(x, u)
+	\end{array}
+	\right.
+\end{equation}
 $$
 
 - $U(t)$: Variable de control o vector de entradas

@@ -144,7 +144,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: servo",
+                "query": "file: latex",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -172,6 +172,8 @@
   },
   "active": "d4c4e87c90541c68",
   "lastOpenFiles": [
+    "LaTeX.md",
+    "Señales y Sistemas II.md",
     "Tema 4. Matemáticas financieras.md",
     "Pasted image 20230224174754.png",
     "Módulo 1. Economía y matemática financiera.md",
@@ -181,13 +183,11 @@
     "Fundamentos de Mecánica de Fluidos.md",
     "Tema 3. Indicadores macroeconómicos.md",
     "Tema 2. Función de oferta y demanda.md",
-    "LaTeX.md",
     "Tema 1. Economía.md",
     "Servomecanismos.md",
     "Excalidraw/myDrawingSpace.excalidraw.md",
     "Electrónica Digital II.md",
     "Ingeniería Electrónica.md",
-    "Señales y Sistemas II.md",
     "Automatización, Control y Robótica.md",
     "Obsidian basics.md",
     "HTML.md",
