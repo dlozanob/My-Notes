@@ -110,7 +110,7 @@ $$
 $$
 
 
-## Sistemas traslacionales
+## Modelos traslacionales
 
 - Resorte:
 
@@ -326,7 +326,7 @@ Según las suposiciones hechas se tiene el DCL para la masa 1:
 Se hace el mismo procedimiento para la masa 2, se plantean las ecuaciones dinámicas y se modela el sistema con el vector de estados.
 
 
-## Sistemas rotacionales
+## Modelos rotacionales
 
 
 - Resorte de torsión:
@@ -489,7 +489,7 @@ $$
 El sistema es no lineal, por lo que no se puede representar en forma matricial.
 
 
-## Sistemas térmicos
+## Modelos térmicos
 
 El flujo de calor desde un cuerpo 1 hasta un cuerpo 2, se define como:
 
@@ -565,3 +565,7 @@ $$
 \end{pmatrix}
 T_{E}
 $$
+
+
+## Linealización de modelos no lineales
+
