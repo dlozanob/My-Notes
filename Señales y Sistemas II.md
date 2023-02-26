@@ -606,6 +606,42 @@ Ahora bien, aplicando esto a modelos, los cuales son sistemas de ecuaciones dife
 
 
 $$
+	\begin{pmatrix}
+		\dot x_{1} \\\\
+		\dot x_{2} \\
+		. \\
+		. \\
+		. \\
+		\dot x_{n}
+	\end{pmatrix}
+	=
+	\begin{pmatrix}
+		f_{1}(x_{1}, ..., x_{n}, u_{1}, ..., u_{n}) \\\\
+		f_{1}(x_{1}, ..., x_{n}, u_{1}, ..., u_{n}) \\
+		. \\
+		. \\
+		. \\
+		f_{1}(x_{1}, ..., x_{n}, u_{1}, ..., u_{n}) \\\\
+	\end{pmatrix}
+$$
+
+
+Se establecen puntos de operación, de tal manera que $x_{1}, x_{2}, ..., x_{n}$ son valores casi constantes. Por lo que se podría decir que:
+
+$$
+\begin{align*}
+	
+\end{align*}
+$$
+
+
+
+
+
+
+
+
+$$
 \begin{align*}
 	\begin{pmatrix}
 		\dot x_{1} \\\\
