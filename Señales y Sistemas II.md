@@ -703,6 +703,22 @@ El nuevo sistema linealizado toma la forma:
 
 $$
 \begin{align*}
-	\dot X_{D} = AX + B
+	\dot{\vec{X_{D}}} = A\vec{X} + B\vec{U}
 \end{align*}
 $$
+ Donde:
+
+$$
+\begin{align*}
+	A =
+	\begin{pmatrix}
+		\frac{\partial f_{1}}{\partial x_{1}} & \frac{\partial f_{1}}{\partial x_{2}} & ... & \frac{\partial f_{1}}{\partial x_{n}} \\\\
+		\frac{\partial f_{2}}{\partial x_{1}} & \frac{\partial f_{2}}{\partial x_{2}} & ... & \frac{\partial f_{2}}{\partial x_{n}} \\
+		. & . & & . \\
+		. & . & & . \\
+		. & . & & . \\
+		\frac{\partial f_{n}}{\partial x_{1}} & \frac{\partial f_{n}}{\partial x_{2}} & ... & \frac{\partial f_{n}}{\partial x_{n}} \\\\
+	\end{pmatrix} \bi
+\end{align*}
+$$
+
