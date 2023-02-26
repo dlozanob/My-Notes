@@ -26,7 +26,7 @@ Algunos lenguajes de programación industriales son:
 - LD - Ladder
 - SFC (Segment Functional Chart)
 
-
+SFC viene del francés _GRAFCET_ (gráfico funcional de comando por etapas y transiciones). SFC es incluso más estructurado que Ladder.
 
 
 
