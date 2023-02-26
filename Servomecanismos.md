@@ -71,7 +71,9 @@ Un controlador _PAC_ (Programmable Automation Controller) es un módulo de contr
 
 Los PAC usan protocolos de red abiertos como: TCP/IP, OCP, SMTP. Ex compatible con protocolos de red privados como: CAN, Profibus.
 
-El software utilizado para configurar y usar controladores PAC 5370 es _Studio 5000_.
+El software utilizado para configurar y usar controladores CompactLogix 5370 (PAC 1769) es _Studio 5000_.
+
+El PAC es una evolución del PLC, que permite realizar programación de control automatizado. Es mejor que un PLC porque tiene: más entradas y salidas analógicas, diseño integrado con SQL y otras bases de datos, más puertos de comunicación, acceso de datos mediante USB, programación mediante USB.
 
 
 
