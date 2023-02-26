@@ -703,7 +703,12 @@ El nuevo sistema linealizado toma la forma:
 
 $$
 \begin{align*}
-	\dot{\vec{X_{D}}} = A\vec{X_{D}} + B\vec{U_{D}}
+	\left\{
+	\begin{array}{lcc}
+		&\dot{\vec{X_{D}}} = A\vec{X_{D}} + B\vec{U_{D}} \\
+		&\vec{Y_{D}} = C\vec{X_{D}} + D\vec{U_{D}}
+	\end{array}
+	\right.
 \end{align*}
 $$
  Donde:
@@ -764,6 +769,7 @@ $$
 $$
 
 
+Siendo así, la forma general es:
 
 $$
 \begin{pmatrix}
@@ -807,4 +813,12 @@ $$
 	. \\
 	U_{Dn}
 \end{pmatrix}
+$$
+
+
+$$
+\begin{pmatrix}
+
+\end{pmatrix}
+
 $$
