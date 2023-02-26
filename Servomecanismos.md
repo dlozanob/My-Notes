@@ -3,12 +3,14 @@
 
 Comúnmente las válvulas hidráulicas manejan un rango de 3-15 psi.
 
+Algunp
 - _P & ID_ : Piping & Instrumentation Diagram
 - _PID_ : Proportional Integral Derivative
 - _ISA_ : International Society of Automation
 - _Set Point_ : Punto de referencia en control
 - _CPS_ : Cyber-Physical System
 - _IEC_ : International Electrotechnical Commission
+
 
 El diagrama de bloques de control de un servomecanismo se ve de la siguiente manera:
 
@@ -34,6 +36,11 @@ Un _gemelo digital_ es un modelo virtual que simula un sistema físico en tiempo
 ## Control de servomecanismos
 
 Se usará la plataforma industrial CompactLogix de Allen-Bradley.
+
+>[!Info]
+>Allen-Bradley es una marca de productos para automatización industrial de la empresa Rockwell Automation. Provee PLC's, HMI's, MCC
+
+
 
 Las disciplinas que aborda la plataforma son:
 
