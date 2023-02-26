@@ -39,8 +39,8 @@ Las disciplinas que aborda la plataforma son:
 
 - Control de procesos continuos: Entra una cantidad continua de manera prima mientras que sale una cantidad continua de producto. E.g.: Máquina calefactora
 - Control discreto: Se procesan elementos individuales. E.g.: Embotelladora
-- Control de procesos por tandas o lotes (batch control): Enumera cada uno de los lotes procesados. E.g.: Sistemas tranportadores
-- Control de movimiento: 
+- Control de procesos por tandas o lotes (batch control): Enumera cada lote procesado. E.g.: Sistemas tranportadores
+- Control de movimiento: Controlar la corriente, velocidad y posición de un actuador. E.g.: Servomotores, bombas hidráulicas, motores eléctricos, actuadores lineales 
 - Control de variadores: 
 - Seguridad integrada: 
 
