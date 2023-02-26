@@ -602,8 +602,7 @@ No nos conviene expresar la función con los términos donde $x$ adquiere un gra
 
 Esto quiere decir que siempre y cuando $x$ difiera poco de $\bar{x}$ el error será menor.
 
-Ahora bien, aplicando esto a modelos, los cuales son sistemas de ecuaciones diferenciales, se tendrán que establecer varios puntos de operación. Supongamos el modelo:
-
+Ahora bien, aplicando esto a modelos, los cuales son sistemas de ecuaciones diferenciales, se tendrán que establecer valores fijos para cada variable. Supongamos el modelo:
 
 $$
 	\begin{pmatrix}
@@ -617,42 +616,37 @@ $$
 	=
 	\begin{pmatrix}
 		f_{1}(x_{1}, ..., x_{n}, u_{1}, ..., u_{n}) \\\\
-		f_{1}(x_{1}, ..., x_{n}, u_{1}, ..., u_{n}) \\
+		f_{2}(x_{1}, ..., x_{n}, u_{1}, ..., u_{n}) \\
 		. \\
 		. \\
 		. \\
-		f_{1}(x_{1}, ..., x_{n}, u_{1}, ..., u_{n}) \\\\
+		f_{n}(x_{1}, ..., x_{n}, u_{1}, ..., u_{n})
 	\end{pmatrix}
 $$
 
 
-Se establecen puntos de operación, de tal manera que $x_{1}, x_{2}, ..., x_{n}$ son valores casi constantes. Por lo que se podría decir que:
-
-$$
-\begin{align*}
-	
-\end{align*}
-$$
-
-
-
-
-
-
-
+Ya que $x_{1}, x_{2}, ..., x_{n}$ son valores establecidos, se tiene:
 
 $$
 \begin{align*}
 	\begin{pmatrix}
-		\dot x_{1} \\\\
-		\dot x_{2} \\
+		0 \\\\
+		0 \\
 		. \\
 		. \\
 		. \\
-		\dot x_{n}
+		0
 	\end{pmatrix}
-	=
+	= 	\begin{pmatrix}
+		f_{1}(x_{1}, ..., x_{n}, u_{1}, ..., u_{n}) \\\\
+		f_{2}(x_{1}, ..., x_{n}, u_{1}, ..., u_{n}) \\
+		. \\
+		. \\
+		. \\
+		f_{n}(x_{1}, ..., x_{n}, u_{1}, ..., u_{n})
+	\end{pmatrix}
 	
 \end{align*}
 $$
 
+De aquí se despeja
