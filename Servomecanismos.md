@@ -8,6 +8,7 @@ Comúnmente las válvulas hidráulicas manejan un rango de 3-15 psi.
 - _ISA_ : International Society of Automation
 - _Set Point_ : Punto de referencia en control
 - _CPS_ : Cyber-Physical System
+- _IEC_ : International Electrotechnical Commission
 
 El diagrama de bloques de control de un servomecanismo se ve de la siguiente manera:
 
@@ -18,8 +19,12 @@ El _FF_ (feedforward) hace un seguimiento a la referencia (_SP_ punto de referen
 
 - _MAx_ : Motion Axis _x_
 	- _MAS_ : Motion Axis Stop
-	- _MAJ_ : Motion Axis Jog
-	- _MAM_ : Motion Axis Move
+	- _MAJ_ : Motion Axis Jog (control speed)
+	- _MAM_ : Motion Axis Move (control move)
+
+Algunos lenguajes de programación industriales son:
+- LD - Ladder
+- SFC (Segment Functional Chart)
 
 
 
