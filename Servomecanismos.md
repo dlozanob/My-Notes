@@ -3,13 +3,14 @@
 
 Comúnmente las válvulas hidráulicas manejan un rango de 3-15 psi.
 
-Algunp
+Algunos conceptos clave:
 - _P & ID_ : Piping & Instrumentation Diagram
 - _PID_ : Proportional Integral Derivative
 - _ISA_ : International Society of Automation
 - _Set Point_ : Punto de referencia en control
 - _CPS_ : Cyber-Physical System
 - _IEC_ : International Electrotechnical Commission
+- _MCC_ : Motor Control Center
 
 
 El diagrama de bloques de control de un servomecanismo se ve de la siguiente manera:
@@ -38,9 +39,9 @@ Un _gemelo digital_ es un modelo virtual que simula un sistema físico en tiempo
 Se usará la plataforma industrial CompactLogix de Allen-Bradley.
 
 >[!Info]
->Allen-Bradley es una marca de productos para automatización industrial de la empresa Rockwell Automation. Provee PLC's, HMI's, MCC
-
-
+>Allen-Bradley es una marca de productos para automatización industrial de la empresa Rockwell Automation. Provee PLC's, HMI's, MCC's, sensores y otros productos de control industrial.
+>
+>Fue fundada a inicios de los 1900s por Lynde Bradley y el Dr. Stanton Allen.
 
 Las disciplinas que aborda la plataforma son:
 
@@ -50,6 +51,11 @@ Las disciplinas que aborda la plataforma son:
 - Control de movimiento: Controlar la corriente, velocidad y posición de un actuador. E.g.: Servomotores, bombas hidráulicas, motores eléctricos, actuadores lineales 
 - Control de variadores: Controlar velocidad, torque y potencia de un motor. E.g.: Mezcla, bobinado, bandas transportadoras.
 - Seguridad integrada: Monitorear circuitos y dispositivos de seguridad. Garantizar seguridad industrial. E.g.: Cortinas de luz
+
+>[!Info]
+>Rockwell Automation es una compañía proveedora de servicios de automatización industrial y transformación digital.
+>
+>Fue fundada en 1903
 
 
 
