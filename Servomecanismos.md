@@ -69,7 +69,9 @@ Un controlador _PAC_ (Programmable Automation Controller) es un módulo de contr
 
 ![[Pasted image 20230226183348.png]]
 
+Los PAC usan protocolos de red abiertos como: TCP/IP, OCP, SMTP. Ex compatible con protocolos de red privados como: CAN, Profibus.
 
+El software utilizado para configurar y usar controladores PAC 5370 es _Studio 5000_.
 
 
 
