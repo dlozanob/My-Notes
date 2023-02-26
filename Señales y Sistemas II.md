@@ -591,9 +591,10 @@ Se podría tener el siguiente comportamiento:
 ![[Pasted image 20230225212620.png]]
 
 
-Sin embargo, expandiendo la función por series de Taylor, alrededor de un punto ($a$) en la función, se obtiene:
+Sin embargo, expandiendo la función por series de Taylor, alrededor de un punto ($\bar{x}$) en la función, se obtiene:
 
 $$
-	F_{resorte} = F()
+	F_{resorte} = F(\bar{x}) + \frac{dF}{dx}\biggr\rvert_{\bar{x}}(x - \bar{x}) + ...
 $$
+No nos conviene expresar la función con los términos donde $x$ adquiere un grado superior en la serie de Taylor, ya que, se quiere linealizar. Por tanto, para 
 
