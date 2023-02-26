@@ -596,5 +596,27 @@ Sin embargo, expandiendo la función por series de Taylor, alrededor de un punto
 $$
 	F_{resorte} = F(\bar{x}) + \frac{dF}{dx}\biggr\rvert_{\bar{x}}(x - \bar{x}) + ...
 $$
-No nos conviene expresar la función con los términos donde $x$ adquiere un grado superior en la serie de Taylor, ya que, se quiere linealizar. Por tanto, para 
+No nos conviene expresar la función con los términos donde $x$ adquiere un grado superior en la serie de Taylor, ya que, se quiere linealizar. Por tanto, al tomar los ods primeros términos se lineariza la función en torno al punto de operación.
+
+![[Pasted image 20230225213318.png]]
+
+Esto quiere decir que siempre y cuando $x$ difiera poco de $\bar{x}$ el error será menor.
+
+Ahora bien, aplicando esto a modelos, los cuales son sistemas de ecuaciones diferenciales, se tendrán que establecer varios puntos de operación. Supongamos el modelo:
+
+
+$$
+\begin{align*}
+	\begin{pmatrix}
+		\dot x_{1} \\\\
+		\dot x_{2} \\
+		. \\
+		. \\
+		. \\
+		\dot x_{n}
+	\end{pmatrix}
+	=
+	
+\end{align*}
+$$
 
