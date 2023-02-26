@@ -722,7 +722,7 @@ A =
 	. & . & & . \\
 	. & . & & . \\
 	. & . & & . \\
-	\frac{\partial f_{n}}{\partial x_{1}} & \frac{\partial f_{n}}{\partial x_{2}} & ... & \frac{\partial f_{n}}{\partial x_{n}} \\\\
+	\frac{\partial f_{n}}{\partial x_{1}} & \frac{\partial f_{n}}{\partial x_{2}} & ... & \frac{\partial f_{n}}{\partial x_{n}}
 \end{pmatrix}_{\biggr\rvert X = X_{N}, U = U_{N}}
 \end{align*}
 $$
@@ -736,7 +736,7 @@ B =
 	. & . & & . \\
 	. & . & & . \\
 	. & . & & . \\
-	\frac{\partial f_{n}}{\partial u_{1}} & \frac{\partial f_{n}}{\partial u_{2}} & ... & \frac{\partial f_{n}}{\partial u_{p}} \\\\
+	\frac{\partial f_{n}}{\partial u_{1}} & \frac{\partial f_{n}}{\partial u_{2}} & ... & \frac{\partial f_{n}}{\partial u_{p}}
 \end{pmatrix}_{\biggr\rvert X=  X_{N}, U = U_{N}}
 \end{align*}
 $$
@@ -749,7 +749,7 @@ C =
 	. & . & & . \\
 	. & . & & . \\
 	. & . & & . \\
-	\frac{\partial g_{q}}{\partial x_{1}} & \frac{\partial g_{q}}{\partial x_{2}} & ... & \frac{\partial g_{q}}{\partial x_{n}} \\\\
+	\frac{\partial g_{q}}{\partial x_{1}} & \frac{\partial g_{q}}{\partial x_{2}} & ... & \frac{\partial g_{q}}{\partial x_{n}}
 \end{pmatrix}_{\biggr\rvert X = X_{N}, U = U_{N}}
 \end{align*}
 $$
@@ -788,7 +788,7 @@ $$
 	. & . & & . \\
 	. & . & & . \\
 	\frac{\partial f_{n}}{\partial x_{1}} & \frac{\partial f_{n}}{\partial x_{2}} & ... & \frac{\partial f_{n}}{\partial x_{n}}
-\end{pmatrix}_{\biggr\rvert X = X_{N}, U = U_{N}}
+\end{pmatrix}_{\biggr\rvert*}
 \begin{pmatrix}
 	X_{D1} \\\\
 	X_{D2} \\
@@ -805,7 +805,7 @@ $$
 	. & . & & . \\
 	. & . & & . \\
 	\frac{\partial f_{n}}{\partial u_{1}} & \frac{\partial f_{n}}{\partial u_{2}} & ... & \frac{\partial f_{n}}{\partial u_{p}}
-\end{pmatrix}_{\biggr\rvert X=  X_{N}, U = U_{N}}
+\end{pmatrix}_{\biggr\rvert *}
 \begin{pmatrix}
 	U_{D1} \\\\
 	U_{D2} \\
@@ -832,8 +832,8 @@ $$
 	. & . & & . \\
 	. & . & & . \\
 	. & . & & . \\
-	\frac{\partial g_{q}}{\partial x_{1}} & \frac{\partial g_{q}}{\partial x_{2}} & ... & \frac{\partial g_{q}}{\partial x_{n}} \\\\
-\end{pmatrix}_{\biggr\rvert X = X_{N}, U = U_{N}}
+	\frac{\partial g_{q}}{\partial x_{1}} & \frac{\partial g_{q}}{\partial x_{2}} & ... & \frac{\partial g_{q}}{\partial x_{n}} 
+\end{pmatrix}_{\biggr\rvert *}
 \begin{pmatrix}
 	X_{D1} \\\\
 	X_{D2} \\
@@ -850,6 +850,14 @@ $$
 	. & . & & . \\
 	. & . & & . \\
 	\frac{\partial g_{q}}{\partial u_{1}} & \frac{\partial g_{q}}{\partial u_{2}} & ... & \frac{\partial g_{q}}{\partial u_{p}} 
-\end{pmatrix}_{\biggr\rvert X = X_{N}, U = U_{N}}
-
+\end{pmatrix}_{\biggr\rvert *}
+\begin{pmatrix}
+	U_{D1} \\\\
+	U_{D2} \\
+	. \\
+	. \\
+	U_{Dn}
+\end{pmatrix}
 $$
+
+Donde $* = X = X_{N}, U = U_{N}$
