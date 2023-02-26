@@ -31,6 +31,11 @@ SFC viene del francés _GRAFCET_ (gráfico funcional de comando por etapas y tra
 Un _gemelo digital_ es un modelo virtual que simula un sistema físico en tiempo real con ayuda de sensores.
 
 
+## Control de servomecanismos
+
+Se usará la plataforma industrial CompactLogix de Allen-Bradley.
+
+
 
 
 
