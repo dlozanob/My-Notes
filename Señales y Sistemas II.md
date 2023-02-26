@@ -573,3 +573,7 @@ $$
 
 ## Linealización de modelos no lineales
 
+Un sistema no lineal no puede ser resuelto de manera analítica con el método tradicional.
+Por ello este debe ser linealizado. Existen 3 alternativas para hacer esto:
+
+- Reemplazar elementos no lineales por equivalentes lineales. Supin
