@@ -602,7 +602,7 @@ No nos conviene expresar la función con los términos donde $x$ adquiere un gra
 
 Esto quiere decir que siempre y cuando $x$ difiera poco de $\bar{x}$ el error será menor.
 
-Ahora bien, aplicando esto a modelos, los cuales son sistemas de ecuaciones diferenciales, se tendrán que establecer valores fijos para cada variable. Supongamos el modelo:
+Ahora bien, aplicando esto a modelos, los cuales son sistemas de ecuaciones diferenciales, se tendrán que establecer valores fijos para cada variable ($X_{N1}, ..., X_{Nn}$). Supongamos el modelo:
 
 $$
 	\begin{pmatrix}
@@ -625,7 +625,7 @@ $$
 $$
 
 
-Ya que $x_{1}, x_{2}, ..., x_{n}$ son valores establecidos, se tiene:
+Ya que, $x_{1}, x_{2}, ..., x_{n}$ son valores establecidos, se tiene:
 
 $$
 \begin{align*}
@@ -649,4 +649,16 @@ $$
 \end{align*}
 $$
 
-De aquí se despeja
+De aquí se despejan los posibles valores de $\vec{u}$. Por lo que se obtiene cada punto de operación $(x_{N}, u_{N})$.
+
+Se hace el siguiente cambio de variable (variables de desviación):
+
+$$
+\begin{align*}
+	&x_{D} = x - x_{N} \\
+	&x_{D} = x - x_{N} \\
+	. \\
+	. \\
+	&x_{D} = x - x_{N}
+\end{align*}
+$$
