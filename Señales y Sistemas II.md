@@ -726,7 +726,7 @@ $$
 \begin{align*}
 	B =
 	\begin{pmatrix}
-		\frac{\partial f_{1}}{\partial u_{1}} & \frac{\partial f_{1}}{\partial u_{2}} & ... & \frac{\partial f_{1}}{\partial u_{n}} \\\\
+		\frac{\partial f_{1}}{\partial u_{1}} & \frac{\partial f_{1}}{\partial u_{2}} & ... & \frac{\partial f_{1}}{\partial u_{p}} \\\\
 		\frac{\partial f_{2}}{\partial u_{1}} & \frac{\partial f_{2}}{\partial u_{2}} & ... & \frac{\partial f_{2}}{\partial u_p} \\
 		. & . & & . \\
 		. & . & & . \\
@@ -744,7 +744,35 @@ $$
 		. & . & & . \\
 		. & . & & . \\
 		. & . & & . \\
-		\frac{\partial g_{n}}{\partial x_{1}} & \frac{\partial g_{n}}{\partial x_{2}} & ... & \frac{\partial g_{n}}{\partial x_{n}} \\\\
+		\frac{\partial g_{q}}{\partial x_{1}} & \frac{\partial g_{q}}{\partial x_{2}} & ... & \frac{\partial g_{q}}{\partial x_{n}} \\\\
 	\end{pmatrix}_{\biggr\rvert X = X_{N}, U = U_{N}}
 \end{align*}
+$$
+
+$$
+\begin{align*}
+	D =
+	\begin{pmatrix}
+		\frac{\partial g_{1}}{\partial u_{1}} & \frac{\partial g_{1}}{\partial u_{2}} & ... & \frac{\partial g_{1}}{\partial u_{p}} \\\\
+		\frac{\partial g_{2}}{\partial u_{1}} & \frac{\partial g_{2}}{\partial u_{2}} & ... & \frac{\partial g_{2}}{\partial u_{p}} \\
+		. & . & & . \\
+		. & . & & . \\
+		. & . & & . \\
+		\frac{\partial g_{q}}{\partial u_{1}} & \frac{\partial g_{q}}{\partial u_{2}} & ... & \frac{\partial g_{q}}{\partial u_{p}} \\\\
+	\end{pmatrix}_{\biggr\rvert X = X_{N}, U = U_{N}}
+\end{align*}
+$$
+
+
+
+$$
+	\begin{pmatrix}
+		X_{D1} \\
+		X_{D2} \\
+		. \\
+		. \\
+		X_{Dn}
+	\end{pmatrix}
+	=
+
 $$
