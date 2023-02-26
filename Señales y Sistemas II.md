@@ -655,7 +655,7 @@ Se hace el siguiente cambio de variable (variables de desviación):
 
 $$
 \begin{align*}
-	\vec{x_{D}}
+	\vec{X_{D}}
 	=
 	\begin{pmatrix}
 		X_{D1} \\
@@ -678,7 +678,7 @@ $$
 
 $$
 \begin{align*}
-	\vec{u_{D}}
+	\vec{U_{D}}
 	=
 	\begin{pmatrix}
 		U_{D1} \\
@@ -703,7 +703,7 @@ El nuevo sistema linealizado toma la forma:
 
 $$
 \begin{align*}
-	\dot{\vec{X_{D}}} = A\vec{X} + B\vec{U}
+	\dot{\vec{X_{D}}} = A\vec{X_{D}} + B\vec{U_{D}}
 \end{align*}
 $$
  Donde:

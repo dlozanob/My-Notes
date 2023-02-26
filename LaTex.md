@@ -189,6 +189,8 @@ $$
 | Variable cancelation | `\bcancel{}` | $\bcancel{x}$ |
 | Approximation | `\approx` | $\approx$ |
 | Diameter | `\varnothing` | $\varnothing$ |
+| Constant | `\propto` | $\propto$ |
+| Evaluate | `\biggr\revrt` | $\biggr\revrt$ |
 | Physic units | `\unit{<unit>}` | `\unit{km*h}` |
 | Scientific notation | `\num{}` | `\num{3e-10}` |
 | Limit | `\lim_{<variable> \to <value>}` | $\lim_{x \to 0}$ |
