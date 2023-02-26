@@ -596,7 +596,7 @@ Sin embargo, expandiendo la función por series de Taylor, alrededor de un punto
 $$
 	F_{resorte} = F(\bar{x}) + \frac{dF}{dx}\biggr\rvert_{\bar{x}}(x - \bar{x}) + ...
 $$
-No nos conviene expresar la función con los términos donde $x$ adquiere un grado superior en la serie de Taylor, ya que, se quiere linealizar. Por tanto, al tomar los ods primeros términos se lineariza la función en torno al punto de operación.
+No nos conviene expresar la función con los términos donde $x$ adquiere un grado superior en la serie de Taylor, ya que, se quiere linealizar. Por tanto, al tomar los dos primeros términos se lineariza la función en torno al punto de operación.
 
 ![[Pasted image 20230225213318.png]]
 
@@ -859,13 +859,16 @@ $$
 \end{pmatrix}
 $$
 
-Donde 
+Donde:
 $$
 \begin{align*}
 	* =
+	\left\{
 	\begin{array}{lcc}
-	\{X = X_{N} \\
-	U = U_{N}\}
-	\end{}
+		X = X_{N} \\
+		U = U_{N}
+	\end{array}
+	\right.
 \end{align*}
 $$
+
