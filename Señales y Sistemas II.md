@@ -655,10 +655,54 @@ Se hace el siguiente cambio de variable (variables de desviación):
 
 $$
 \begin{align*}
-	&x_{D} = x - x_{N} \\
-	&x_{D} = x - x_{N} \\
-	. \\
-	. \\
-	&x_{D} = x - x_{N}
+	\vec{x_{D}}
+	=
+	\begin{pmatrix}
+		X_{D1} \\
+		X_{D2} \\
+		. \\
+		. \\
+		X_{Dn}
+	\end{pmatrix}
+	=
+	\begin{pmatrix}
+		x_{1} - x_{N} \\
+		x_{2} - x_{N} \\
+		. \\
+		. \\
+		x_{n} - x_{N}
+	\end{pmatrix}
+
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	\vec{u_{D}}
+	=
+	\begin{pmatrix}
+		U_{D1} \\
+		U_{D2} \\
+		. \\
+		. \\
+		U_{Dn}
+	\end{pmatrix}
+	=
+	\begin{pmatrix}
+		u_{1} - u_{N} \\
+		u_{2} - u_{N} \\
+		. \\
+		. \\
+		u_{n} - u_{N}
+	\end{pmatrix}
+
+\end{align*}
+$$
+
+El nuevo sistema linealizado toma la forma:
+
+$$
+\begin{align*}
+	\dot X_{D} = AX + B
 \end{align*}
 $$
