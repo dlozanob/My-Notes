@@ -190,7 +190,7 @@ $$
 | Approximation | `\approx` | $\approx$ |
 | Diameter | `\varnothing` | $\varnothing$ |
 | Constant | `\propto` | $\propto$ |
-| Evaluate | `\biggr\revrt` | $\biggr\revrt$ |
+| Evaluate | `\biggr\rvert` | $\biggr\rvert_{X=0}$ |
 | Physic units | `\unit{<unit>}` | `\unit{km*h}` |
 | Scientific notation | `\num{}` | `\num{3e-10}` |
 | Limit | `\lim_{<variable> \to <value>}` | $\lim_{x \to 0}$ |

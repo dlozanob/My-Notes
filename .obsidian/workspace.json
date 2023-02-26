@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "7e0e5bd4b6cbe129",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LaTeX.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LaTeX.md",
+                "file": "Señales y Sistemas II.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LaTeX.md",
+                "file": "Señales y Sistemas II.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LaTeX.md"
+                "file": "Señales y Sistemas II.md"
               }
             }
           },
@@ -183,10 +170,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7e0e5bd4b6cbe129",
+  "active": "d4c4e87c90541c68",
   "lastOpenFiles": [
-    "Fundamentos de Mecánica de Fluidos.md",
     "LaTeX.md",
+    "Fundamentos de Mecánica de Fluidos.md",
     "Señales y Sistemas II.md",
     "Pasted image 20230225213318.png",
     "Pasted image 20230225212620.png",
