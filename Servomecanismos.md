@@ -32,6 +32,8 @@ El _FF_ (feedforward) hace un seguimiento a la referencia (datos deseados inicia
 
 
 
+
+
 ## Proyecto académico
 
 ![[Pasted image 20230214095505.png]]
