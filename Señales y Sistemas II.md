@@ -576,4 +576,24 @@ $$
 Un sistema no lineal no puede ser resuelto de manera analítica con el método tradicional.
 Por ello este debe ser linealizado. Existen 3 alternativas para hacer esto:
 
-- Reemplazar elementos no lineales por equivalentes lineales. Supin
+- Reemplazar elementos no lineales por equivalentes lineales: Supone una aproximación muy mala
+- Desarrollar el modelo no lineal con métodos analíticos alternos: El tiempo y el esfuerzo invertido no justifica esta opción
+- Linearizar el sistema para perturbaciones pequeñas: Esta resulta ser la opción más conveniente
+
+Consideremos el caso de un resorte cuyo comportamiento no es lineal:
+
+$$
+	F_{resorte} = f(x)
+$$
+
+Se podría tener el siguiente comportamiento:
+
+![[Pasted image 20230225212620.png]]
+
+
+Sin embargo, expandiendo la función por series de Taylor, alrededor de un punto ($a$) en la función, se obtiene:
+
+$$
+	F_{resorte} = F()
+$$
+
