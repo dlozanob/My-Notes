@@ -55,7 +55,17 @@ Las disciplinas que aborda la plataforma son:
 >[!Info]
 >Rockwell Automation es una compañía proveedora de servicios de automatización industrial y transformación digital.
 >
->Fue fundada en 1903
+>Fue fundada en 1903. Sus instalaciones se encuentran en Milwaukee, Wisconsin, USA.
+
+
+La plataforma _Integrated Architecture_ de la firma Rockwell Automation es un entorno de control e información. Contiene las siguientes tecnologías:
+- Logix: Arquitectura de control
+- Kinetix: 
+- PowerFlex
+- Stratix
+- View
+
+
 
 
 
