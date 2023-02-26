@@ -65,7 +65,9 @@ La plataforma _Integrated Architecture_ de la firma Rockwell Automation es un en
 - Stratix: Manejo de redes de comunicación
 - View: Visualización de datos en tiempo real
 
-Un controlador _PAC_ (Programmable Automation Controller) es un módulo de control automatizado el cual tiene las siguientes características: uso de varios lazos de control cerrados independientes,  velocidad y precisión alta de adquisición de datos, 
+Un controlador _PAC_ (Programmable Automation Controller) es un módulo de control automatizado el cual tiene las siguientes características: uso de varios lazos de control cerrados independientes,  velocidad y precisión alta de adquisición de datos, análisis matemático, monitorización remota, visión artificial, control de movimiento y robótica, y control de seguridad de procesos.
+
+![[Pasted image 20230226183348.png]]
 
 
 
