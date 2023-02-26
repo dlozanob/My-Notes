@@ -28,8 +28,7 @@ Algunos lenguajes de programación industriales son:
 
 SFC viene del francés _GRAFCET_ (gráfico funcional de comando por etapas y transiciones). SFC es incluso más estructurado que Ladder.
 
-
-
+Un _gemelo digital_ es un modelo virtual que simula un sistema físico en tiempo real con ayuda de sensores.
 
 
 
