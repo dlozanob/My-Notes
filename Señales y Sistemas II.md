@@ -815,7 +815,6 @@ $$
 \end{pmatrix}
 $$
 
-
 $$
 \begin{pmatrix}
 	Y_{D1} \\\\
@@ -860,4 +859,13 @@ $$
 \end{pmatrix}
 $$
 
-Donde $* = X = X_{N}, U = U_{N}$
+Donde 
+$$
+\begin{align*}
+	* =
+	\begin{array}{lcc}
+	\{X = X_{N} \\
+	U = U_{N}\}
+	\end{}
+\end{align*}
+$$
