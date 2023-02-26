@@ -41,8 +41,8 @@ Las disciplinas que aborda la plataforma son:
 - Control discreto: Se procesan elementos individuales. E.g.: Embotelladora
 - Control de procesos por tandas o lotes (batch control): Enumera cada lote procesado. E.g.: Sistemas tranportadores
 - Control de movimiento: Controlar la corriente, velocidad y posición de un actuador. E.g.: Servomotores, bombas hidráulicas, motores eléctricos, actuadores lineales 
-- Control de variadores: 
-- Seguridad integrada: 
+- Control de variadores: Controlar velocidad, torque y potencia de un motor. E.g.: Mezcla, bobinado, bandas transportadoras.
+- Seguridad integrada: Monitorear circuitos y dispositivos de seguridad. Garantizar seguridad industrial. E.g.: Cortinas de luz
 
 
 
