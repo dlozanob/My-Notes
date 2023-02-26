@@ -727,11 +727,11 @@ $$
 	B =
 	\begin{pmatrix}
 		\frac{\partial f_{1}}{\partial u_{1}} & \frac{\partial f_{1}}{\partial u_{2}} & ... & \frac{\partial f_{1}}{\partial u_{n}} \\\\
-		\frac{\partial f_{2}}{\partial u_{1}} & \frac{\partial f_{2}}{\partial u_{2}} & ... & \frac{\partial f_{2}}{\partial u_{n}} \\
+		\frac{\partial f_{2}}{\partial u_{1}} & \frac{\partial f_{2}}{\partial u_{2}} & ... & \frac{\partial f_{2}}{\partial u_p} \\
 		. & . & & . \\
 		. & . & & . \\
 		. & . & & . \\
-		\frac{\partial f_{n}}{\partial u_{1}} & \frac{\partial f_{n}}{\partial u_{2}} & ... & \frac{\partial f_{n}}{\partial u_{n}} \\\\
+		\frac{\partial f_{n}}{\partial u_{1}} & \frac{\partial f_{n}}{\partial u_{2}} & ... & \frac{\partial f_{n}}{\partial u_{p}} \\\\
 	\end{pmatrix}_{\biggr\rvert X=  X_{N}, U = U_{N}}
 \end{align*}
 $$
