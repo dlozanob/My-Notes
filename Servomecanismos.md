@@ -60,10 +60,12 @@ Las disciplinas que aborda la plataforma son:
 
 La plataforma _Integrated Architecture_ de la firma Rockwell Automation es un entorno de control e información. Contiene las siguientes tecnologías:
 - Logix: Arquitectura de control
-- Kinetix: 
-- PowerFlex
-- Stratix
-- View
+- Kinetix: Control de movimiento de alto rendimiento
+- PowerFlex: Control de motores de velocidad variable en casos donde la tensión es baja o media.
+- Stratix: Manejo de redes de comunicación
+- View: Visualización de datos en tiempo real
+
+Un controlador _PAC_ (Programmable Automation Controller) es un módulo de control automatizado el cual tiene las siguientes características: uso de varios lazos de control cerrados independientes,  velocidad y precisión alta de adquisición de datos, 
 
 
 
