@@ -38,8 +38,8 @@ Se usará la plataforma industrial CompactLogix de Allen-Bradley.
 Las disciplinas que aborda la plataforma son:
 
 - Control de procesos continuos: Entra una cantidad continua de manera prima mientras que sale una cantidad continua de producto. E.g.: Máquina calefactora
-- Control discreto: Se procesan elementos in
-- Control de procesos por tandas o lotes: 
+- Control discreto: Se procesan elementos individuales. E.g.: Embotelladora
+- Control de procesos por tandas o lotes (batch control): Enumera cada uno de los lotes procesados. E.g.: Sistemas tranportadores
 - Control de movimiento: 
 - Control de variadores: 
 - Seguridad integrada: 
