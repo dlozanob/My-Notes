@@ -23,12 +23,8 @@
             "id": "0353ded07f6cab05",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LaTeX.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -92,7 +88,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LaTeX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +104,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LaTeX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,9 +125,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "LaTeX.md"
-              }
+              "state": {}
             }
           },
           {
@@ -185,9 +177,9 @@
   },
   "active": "0353ded07f6cab05",
   "lastOpenFiles": [
+    "LaTeX.md",
     "LaTeX Template.md",
     "Servomecanismos.md",
-    "LaTeX.md",
     "Pasted image 20230226192253.png",
     "Pasted image 20230226190611.png",
     "Pasted image 20230226183348.png",
