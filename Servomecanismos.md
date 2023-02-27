@@ -82,6 +82,10 @@ Características:
 - Almacenamiento interno de energía
 
 
+## Estructura jerárquica de automatización
+
+![[Pasted image 20230226190611.png]]
+
 
 
 
