@@ -86,7 +86,11 @@ Características:
 
 ![[Pasted image 20230226190611.png]]
 
+El la representación gráfica de los niveles que componen a un proceso de automatización industrial. 
 
+Descripción de los niveles:
+- Administración: Se encarga de las finanzas, recursos humanos y documentación
+- Empresa: Establece metas de producción, gestiona pedidos, coordina sitios y recursos. También llamado gestión de producción donde se encuentran los _MES_ (Manufaturing Execution System).
 
 
 
