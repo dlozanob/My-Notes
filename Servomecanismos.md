@@ -9,7 +9,6 @@ Algunos conceptos clave:
 - _ISA_ : International Society of Automation
 - _Set Point_ : Punto de referencia en control
 - _CPS_ : Cyber-Physical System
-- _IEC_ : International Electrotechnical Commission
 - _MCC_ : Motor Control Center
 
 
@@ -114,6 +113,9 @@ Descripción de los niveles:
 - Campo: Adquisición y transmisión de datos mediante sensores y actuadores.
 
 
+## Normas técnicas aplicadas al uso de autómatas
+
+Se debe de tener en cuenta el conjunto de normas e informes técnicos _IEC 61131_ publicada por la _IEC_ (International Electrotechnical Commission), la cual busca estandarizar los autómatas programables. Este conjunto cuenta con 6 normas, y 2 informes técnicos (parte 4 y 8).
 
 
 
@@ -156,3 +158,7 @@ Por tanto, el mecanismo tiene dos etapas:
 
 Se deben hacer hasta 10 ciclos de la segunda etapa.
 
+
+
+
+## Ext
