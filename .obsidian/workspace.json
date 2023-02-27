@@ -23,8 +23,12 @@
             "id": "0353ded07f6cab05",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "LaTeX Template.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -88,6 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "LaTeX Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,6 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "LaTeX Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +131,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "LaTeX Template.md"
+              }
             }
           },
           {
@@ -149,7 +157,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: fluidos",
+                "query": "file: latex",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -177,12 +185,12 @@
   },
   "active": "0353ded07f6cab05",
   "lastOpenFiles": [
+    "LaTeX.md",
     "Servomecanismos.md",
     "Pasted image 20230226192253.png",
     "Pasted image 20230226190611.png",
     "Pasted image 20230226183348.png",
     "Señales y Sistemas II.md",
-    "LaTeX.md",
     "Fundamentos de Mecánica de Fluidos.md",
     "Pasted image 20230225213318.png",
     "Pasted image 20230225212620.png",
