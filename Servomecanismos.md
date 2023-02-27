@@ -90,7 +90,12 @@ El la representación gráfica de los niveles que componen a un proceso de autom
 
 Descripción de los niveles:
 - Administración: Se encarga de las finanzas, recursos humanos y documentación
-- Empresa: Establece metas de producción, gestiona pedidos, coordina sitios y recursos. También llamado gestión de producción donde se encuentran los _MES_ (Manufaturing Execution System).
+- Empresa: Establece metas de producción, gestiona pedidos, coordina sitios. También llamado gestión de producción donde se encuentran los _MES_ (Manufaturing Execution System).
+- Fabricación: Gestión de recursos, establecimiento del flujo de trabajo, programación de la producción, supervisión de calidad y mantenimiento.
+- Supervisión: Supervisa la producción y el establecimiento.
+- Grupo de control: Controla una sección de la planta.
+- Unidad de control: Control de un área o circuito cerrado.
+- Campo: Adquisición de datos mediante sensores y actuadores.
 
 
 
