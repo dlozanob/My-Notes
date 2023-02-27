@@ -18,8 +18,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0353ded07f6cab05",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -63,8 +72,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "8cf20f15e2d652f4",
@@ -80,7 +88,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Servomecanismos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +104,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Servomecanismos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,9 +125,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Servomecanismos.md"
-              }
+              "state": {}
             }
           },
           {
@@ -158,8 +162,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249.5,
-    "collapsed": true
+    "width": 249.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,10 +175,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d4c4e87c90541c68",
+  "active": "0353ded07f6cab05",
   "lastOpenFiles": [
-    "Pasted image 20230226192253.png",
     "Servomecanismos.md",
+    "Pasted image 20230226192253.png",
     "Pasted image 20230226190611.png",
     "Pasted image 20230226183348.png",
     "Señales y Sistemas II.md",
