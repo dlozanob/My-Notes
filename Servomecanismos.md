@@ -115,25 +115,7 @@ Descripción de los niveles:
 
 ## Normas técnicas aplicadas al uso de autómatas
 
-Se debe de tener en cuenta el conjunto de normas e informes técnicos _IEC 61131_ publicada por la _IEC_ (International Electrotechnical Commission), la cual busca estandarizar los autómatas programables. Este conjunto cuenta con 6 normas, y 2 informes técnicos (parte 4 y 8).
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Se debe de tener en cuenta el conjunto de normas e informes técnicos _IEC 61131_ publicada por la _IEC_ (International Electrotechnical Commission), la cual busca estandarizar los autómatas programables. Este conjunto cuenta con 6 normas, y 2 informes técnicos (parte 4 y 8). [External Links](#External+Links)
 
 
 
@@ -159,6 +141,6 @@ Por tanto, el mecanismo tiene dos etapas:
 Se deben hacer hasta 10 ciclos de la segunda etapa.
 
 
+## External Links
 
-
-## Ext
+- [IEC 61131](https://webstore.iec.ch/webstore/webstore.nsf/mysearchajax?Openform&key=iec%2061131&sorting=&start=1&onglet=1)
