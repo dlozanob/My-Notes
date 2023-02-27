@@ -27,8 +27,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Servomecanismos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Servomecanismos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Servomecanismos.md"
+              }
             }
           },
           {
@@ -175,7 +178,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0353ded07f6cab05",
+  "active": "d4c4e87c90541c68",
   "lastOpenFiles": [
     "LaTeX.md",
     "LaTeX Template.md",
