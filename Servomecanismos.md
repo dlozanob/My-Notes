@@ -73,6 +73,16 @@ Los PAC usan protocolos de red abiertos como: TCP/IP, OCP, SMTP. Ex compatible c
 
 El PAC es una evolución del PLC, que permite realizar programación de control automatizado. Es mejor que un PLC porque tiene: más entradas y salidas analógicas, diseño integrado con SQL y otras bases de datos, más puertos de comunicación, acceso de datos mediante USB, programación mediante USB.
 
+
+---
+
+En el laboratorio de automatización se cuenta con una arquitectura integrada compuesta por los siguientes elementos:
+- Servomotores
+- Drivers
+- 8 módulos CompactLogix 5370 L3-PAC 1769-L30ERM
+- 2 elementos de supervisión PanelView Plus
+
+
 CompactLogix 5370 L3 (PAC 1769):
 El software utilizado para configurar y usar este controlador es _Studio 5000_.
 Características:
@@ -80,6 +90,12 @@ Características:
 - Un puerto USB
 - Uso de tarjetas 1784_SDI o 1784_SD2 (SD: Seguridad Digital) para memorias no volátiles
 - Almacenamiento interno de energía
+
+Configuración de los módulos:
+
+![[Pasted image 20230226192253.png]]
+
+---
 
 
 ## Estructura jerárquica de automatización
