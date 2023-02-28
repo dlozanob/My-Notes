@@ -41,7 +41,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -101,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Servomecanismos.md",
+                "file": "LaTeX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Servomecanismos.md",
+                "file": "LaTeX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Servomecanismos.md"
+                "file": "LaTeX.md"
               }
             }
           },
@@ -192,10 +193,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d4c4e87c90541c68",
+  "active": "0353ded07f6cab05",
   "lastOpenFiles": [
-    "Excalidraw/myDrawingSpace.excalidraw.md",
     "Servomecanismos.md",
+    "Excalidraw/myDrawingSpace.excalidraw.md",
     "Pasted Image 20230227184350_373.png",
     "LaTeX.md",
     "LaTeX Template.md",
