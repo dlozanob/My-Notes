@@ -1,8 +1,5 @@
 # Servomecanismos
 
-
-Comúnmente las válvulas hidráulicas manejan un rango de 3-15 psi.
-
 Algunos conceptos clave:
 - _P & ID_ : Piping & Instrumentation Diagram
 - _PID_ : Proportional Integral Derivative
@@ -11,7 +8,8 @@ Algunos conceptos clave:
 - _CPS_ : Cyber-Physical System
 - _MCC_ : Motor Control Center
 
-![[Pasted image 20230227224147.png]]
+>[!Info]
+>Comúnmente las válvulas hidráulicas manejan un rango de 3-15 psi.
 
 Un servomecanismo se define como un sistema que tiene un lazo crrado de control con una retroalimentación brindada por un sensor, la cual se usa para corregir el parámetro de control con respecto a la referencia.
 
