@@ -16,8 +16,21 @@
                 "file": "Excalidraw/myDrawingSpace.excalidraw.md"
               }
             }
+          },
+          {
+            "id": "d4555961213915bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Servomecanismos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/myDrawingSpace.excalidraw.md",
+                "file": "Servomecanismos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/myDrawingSpace.excalidraw.md",
+                "file": "Servomecanismos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/myDrawingSpace.excalidraw.md"
+                "file": "Servomecanismos.md"
               }
             }
           },
@@ -168,11 +181,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f1a38faa39f718ec",
+  "active": "d4555961213915bf",
   "lastOpenFiles": [
+    "Pasted image 20230227224147.png",
+    "Excalidraw/myDrawingSpace.excalidraw.md",
     "Servomecanismos.md",
     "Pasted image 20230227221213.png",
-    "Excalidraw/myDrawingSpace.excalidraw.md",
     "LaTeX.md",
     "Pasted Image 20230227184350_373.png",
     "LaTeX Template.md",
