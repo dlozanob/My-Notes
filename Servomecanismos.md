@@ -15,7 +15,7 @@ Un servomecanismo se define como un sistema que tiene un lazo crrado de control 
 
 El diagrama de bloques de control de un servomecanismo se ve de la siguiente manera:
 
-![[Pasted image 20230212142004.png]]
+![[Pasted image 20230227221213.png]]
 
 El PID corrige el error con base en el feedback (sensor).
 El _FF_ (feedforward) hace un seguimiento a la referencia (_SP_ punto de referencia, datos deseados inicialmente). Los sistemas de control avanzados suelen utilizarlos para generar una respuesta más precisa.
