@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d4c4e87c90541c68",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Servomecanismos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0353ded07f6cab05",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LaTeX.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "f1a38faa39f718ec",
             "type": "leaf",
             "state": {
@@ -41,8 +17,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LaTeX.md",
+                "file": "Excalidraw/myDrawingSpace.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LaTeX.md",
+                "file": "Excalidraw/myDrawingSpace.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LaTeX.md"
+                "file": "Excalidraw/myDrawingSpace.excalidraw.md"
               }
             }
           },
@@ -193,12 +168,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0353ded07f6cab05",
+  "active": "f1a38faa39f718ec",
   "lastOpenFiles": [
     "Servomecanismos.md",
+    "LaTeX.md",
     "Excalidraw/myDrawingSpace.excalidraw.md",
     "Pasted Image 20230227184350_373.png",
-    "LaTeX.md",
     "LaTeX Template.md",
     "Pasted image 20230226192253.png",
     "Pasted image 20230226190611.png",
