@@ -10,6 +10,8 @@ tags: [excalidraw]
 # Text Elements
 Inicio ^EnWD6ghK
 
+Lectura de los datos de entrada ^oRkVWVpE
+
 %%
 # Drawing
 ```json
@@ -83,6 +85,41 @@ Inicio ^EnWD6ghK
 			"baseline": 14,
 			"containerId": "A_Qfbe467WWmY2S61fwFN",
 			"originalText": "Inicio"
+		},
+		{
+			"id": "oRkVWVpE",
+			"type": "text",
+			"x": -99.68682549515188,
+			"y": -8.336342448058417,
+			"width": 226,
+			"height": 18,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 1489435240,
+			"version": 61,
+			"versionNonce": 658986088,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1677554308638,
+			"link": null,
+			"locked": false,
+			"text": "Lectura de los datos de entrada",
+			"rawText": "Lectura de los datos de entrada",
+			"fontSize": 16,
+			"fontFamily": 2,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 14,
+			"containerId": null,
+			"originalText": "Lectura de los datos de entrada"
 		},
 		{
 			"type": "image",
@@ -474,6 +511,41 @@ Inicio ^EnWD6ghK
 			"updated": 1677553958434,
 			"link": null,
 			"locked": false
+		},
+		{
+			"id": "rg7sfCkd",
+			"type": "text",
+			"x": -66.68682549515188,
+			"y": 94.66365755194158,
+			"width": 5,
+			"height": 18,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 1462798184,
+			"version": 3,
+			"versionNonce": 964385384,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1677554330875,
+			"link": null,
+			"locked": false,
+			"text": "",
+			"rawText": "",
+			"fontSize": 16,
+			"fontFamily": 2,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 14,
+			"containerId": null,
+			"originalText": ""
 		}
 	],
 	"appState": {
