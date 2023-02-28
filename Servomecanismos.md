@@ -11,6 +11,7 @@ Algunos conceptos clave:
 - _CPS_ : Cyber-Physical System
 - _MCC_ : Motor Control Center
 
+Un servomecanismo se define como un sistema que tiene un lazo crrado de control con una retroalimentación brindada por un sensor, la cual se usa para corregir el parámetro de control con respecto a la referencia.
 
 El diagrama de bloques de control de un servomecanismo se ve de la siguiente manera:
 
