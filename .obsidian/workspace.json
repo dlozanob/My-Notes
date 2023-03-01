@@ -11,8 +11,12 @@
             "id": "dca7d8fe7f000c21",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Señales y Sistemas II.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -75,6 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Señales y Sistemas II.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,6 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Señales y Sistemas II.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -112,7 +118,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Señales y Sistemas II.md"
+              }
             }
           },
           {
@@ -136,7 +144,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: servo",
+                "query": "file: señales",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
