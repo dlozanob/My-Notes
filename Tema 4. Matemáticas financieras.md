@@ -76,3 +76,19 @@ $$
 $$
 
 Por tanto, la inflación en el año es del $1.92\%$.
+
+
+## Valor Presente Neto (VPN)
+
+Se traen todos los valores al año 0 y se suman entre ellos.
+
+Está descrita por:
+
+$$
+	VPN = \sum_{t = 1}^{n}\frac{V_{t}}{(1 + k)^t} - I_{0}
+$$
+
+Donde:
+- $t$ : Periodo
+- $n$ : Último periodo
+- $V_{t}$ : Valor neto e
