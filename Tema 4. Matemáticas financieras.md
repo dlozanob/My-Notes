@@ -108,4 +108,6 @@ Al igualar a 0 el flujo de caja neto en el año 0, es decir, el VPN, se halla la
 >- $1.8\%$ EM : Efectiva mensual
 
 
+- CPPC o WACC Weighted Average Cost of Capital : Costo promedio ponderado de capital
 
+- TD :  Tasa de descuento
