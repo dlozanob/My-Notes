@@ -91,4 +91,25 @@ $$
 Donde:
 - $t$ : Periodo
 - $n$ : Último periodo
-- $V_{t}$ : Valor neto e
+- $V_{t}$ : Valor neto en un determinado periodo
+- $k$ : TMAR o TD
+- $I_{0}$ : Inversión en el año 0
+
+
+## Tasa Interna de Retorno
+
+Al igualar a 0 el flujo de caja neto en el año 0, es decir, el VPN, se halla la TIR ($k$):
+Siendo así:
+
+$$
+	
+$$
+
+
+>[!Note]
+>Convención para las tasas:
+>- $20\%$ EA : Efectiva anual
+>- $1.8\%$ EM : Efectiva mensual
+
+
+
