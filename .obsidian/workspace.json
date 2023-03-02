@@ -18,8 +18,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "46ff8702db77cde3",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -79,7 +88,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fórmulas Financieras Excel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +104,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fórmulas Financieras Excel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,9 +125,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Fórmulas Financieras Excel.md"
-              }
+              "state": {}
             }
           },
           {
@@ -170,8 +175,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f34e111fab17a9ea",
+  "active": "46ff8702db77cde3",
   "lastOpenFiles": [
+    "Fórmulas Financieras Excel.md",
     "Excalidraw/myDrawingSpace.excalidraw.md",
     "Señales y Sistemas II.md",
     "Servomecanismos.md",
