@@ -60,6 +60,8 @@ $$
 
 La variación porcentual del indicador que determina el nivel de los precios representa la inflación en un periodo.
 
+La $TMAR$ se fija con respecto al riesgo que presenta el proyecto.
+
 
 >[!Note]
 >En Colombia, este indicador es el IPC (Índice de Precios al Consumidor)
@@ -99,6 +101,8 @@ $$
 	TIR \geq TMAR
 $$
 Si $TIR = TMAR$ entonces $VPN = 0$.
+Si esto sucede, la alternativa no se rechaza, ya que, se está obteniendo lo mínimo que se esperaba al invertir.
+
 
 Al igualar a 0 el flujo de caja neto en el año 0, es decir, el VPN, se halla la TIR ($k$)
 
