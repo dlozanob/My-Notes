@@ -78,10 +78,8 @@ $$
 Por tanto, la inflación en el año es del $1.92\%$.
 
 
-## Valor Presente Neto (VPN)
 
-Se traen todos los valores al año 0 y se suman entre ellos.
-
+El $VPN$ se halla trayendo todos los valores al año 0 y se sumándolos entre ellos.
 Está descrita por:
 
 $$
@@ -98,12 +96,9 @@ Donde:
 Al usarse el $VPN$ como criterio de desición, se escoge la alternativa que satisfaga:
 
 $$
-	TIR \
+	TIR \geq TMAR
 $$
-
-
-
-## Tasa Interna de Retorno
+Si $TIR = TMAR$ entonces $VPN = 0$.
 
 Al igualar a 0 el flujo de caja neto en el año 0, es decir, el VPN, se halla la TIR ($k$)
 
