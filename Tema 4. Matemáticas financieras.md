@@ -95,16 +95,17 @@ Donde:
 - $k$ : TMAR o TD
 - $I_{0}$ : Inversión en el año 0
 
+Al usarse el $VPN$ como criterio de desición, se escoge la alternativa que satisfaga:
+
+$$
+	TIR \
+$$
+
+
 
 ## Tasa Interna de Retorno
 
-Al igualar a 0 el flujo de caja neto en el año 0, es decir, el VPN, se halla la TIR ($k$):
-Siendo así:
-
-$$
-	
-$$
-
+Al igualar a 0 el flujo de caja neto en el año 0, es decir, el VPN, se halla la TIR ($k$)
 
 >[!Note]
 >Convención para las tasas:
