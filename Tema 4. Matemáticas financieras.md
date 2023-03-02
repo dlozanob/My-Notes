@@ -75,4 +75,4 @@ $$
 \end{align*}
 $$
 
-Por lo que se ha obtenido la inflación en el año.
+Por tanto, la inflación en el año es del $1.92\%$.
