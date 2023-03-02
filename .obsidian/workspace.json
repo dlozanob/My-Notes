@@ -11,9 +11,11 @@
             "id": "f34e111fab17a9ea",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/myDrawingSpace.excalidraw.md"
+                "file": "Fórmulas Financieras Excel.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -77,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/myDrawingSpace.excalidraw.md",
+                "file": "Fórmulas Financieras Excel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/myDrawingSpace.excalidraw.md",
+                "file": "Fórmulas Financieras Excel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/myDrawingSpace.excalidraw.md"
+                "file": "Fórmulas Financieras Excel.md"
               }
             }
           },
@@ -142,7 +144,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: myDra",
+                "query": "file: financier",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -170,8 +172,8 @@
   },
   "active": "f34e111fab17a9ea",
   "lastOpenFiles": [
-    "Señales y Sistemas II.md",
     "Excalidraw/myDrawingSpace.excalidraw.md",
+    "Señales y Sistemas II.md",
     "Servomecanismos.md",
     "Pasted image 20230227224147.png",
     "Pasted image 20230227221213.png",
