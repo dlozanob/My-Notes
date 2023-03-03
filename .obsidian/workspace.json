@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "216d2c88fe6fc4e6",
+        "id": "3042518ad7f63375",
         "type": "tabs",
         "children": [
           {
-            "id": "4e2c1b54ad3e38ac",
+            "id": "bae91428bb984132",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mecanismos.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -79,7 +75,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mecanismos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +91,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mecanismos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,9 +112,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Mecanismos.md"
-              }
+              "state": {}
             }
           },
           {
@@ -170,10 +162,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4e2c1b54ad3e38ac",
+  "active": "bae91428bb984132",
   "lastOpenFiles": [
-    "Señales y Sistemas II.md",
     "Mecanismos.md",
+    "Señales y Sistemas II.md",
     "Módulo 2.md",
     "Finanzas.md",
     "Módulo 1. Economía y matemática financiera.md",
