@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Señales y Sistemas II.md",
+                "file": "LaTeX.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Señales y Sistemas II.md",
+                "file": "LaTeX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Señales y Sistemas II.md",
+                "file": "LaTeX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Señales y Sistemas II.md"
+                "file": "LaTeX.md"
               }
             }
           },
@@ -144,7 +144,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: señales",
+                "query": "file: latex",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -172,9 +172,9 @@
   },
   "active": "bae91428bb984132",
   "lastOpenFiles": [
+    "Señales y Sistemas II.md",
     "LaTeX Template.md",
     "Mecanismos.md",
-    "Señales y Sistemas II.md",
     "Módulo 2.md",
     "Finanzas.md",
     "Módulo 1. Economía y matemática financiera.md",
