@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LaTeX Template.md",
+                "file": "Señales y Sistemas II.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LaTeX Template.md",
+                "file": "Señales y Sistemas II.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LaTeX Template.md",
+                "file": "Señales y Sistemas II.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LaTeX Template.md"
+                "file": "Señales y Sistemas II.md"
               }
             }
           },
@@ -144,7 +144,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: latex",
+                "query": "file: señales",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -172,6 +172,7 @@
   },
   "active": "bae91428bb984132",
   "lastOpenFiles": [
+    "LaTeX Template.md",
     "Mecanismos.md",
     "Señales y Sistemas II.md",
     "Módulo 2.md",
@@ -185,7 +186,6 @@
     "Pasted image 20230227221213.png",
     "LaTeX.md",
     "Pasted Image 20230227184350_373.png",
-    "LaTeX Template.md",
     "Pasted image 20230226192253.png",
     "Pasted image 20230226190611.png",
     "Pasted image 20230226183348.png",
