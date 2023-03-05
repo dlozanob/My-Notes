@@ -188,6 +188,7 @@ $$
 | Product dot | `\cdot` | $\cdot$ |
 | Variable cancelation | `\bcancel{}` | $\bcancel{x}$ |
 | Approximation | `\approx` | $\approx$ |
+| Not equal | `\neq` | $\neq$ |
 | Diameter | `\varnothing` | $\varnothing$ |
 | Constant | `\propto` | $\propto$ |
 | Evaluate | `\biggr\rvert` | $\biggr\rvert_{X=0}$ |
