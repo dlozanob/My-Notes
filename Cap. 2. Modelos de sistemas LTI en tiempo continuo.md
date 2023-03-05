@@ -5,4 +5,16 @@ Su respuesta varía de sus condiciones iniciales:
 
 | Respuesta | Condiciones |
 |-|-|
-| Forzada | $$\begin{align*}f(x)= \left\{\begin{array}{lcc}5 & if & x \leq 2 \\\\x^2-6x+10 & if & 2 < x < 5 \\\\4x-15 & if & x \geq 5\end{array}\right.\end{align*}$$ 
+| Forzada | $$\begin{align*} u(t) = \left\{ \begin{array}{lcc} 0 & t < 0 \\ f(t) & t \geq 0 \end{array} \right. \end{align*}$$ |
+
+
+
+$$\begin{align*}
+	u(t) = \left\{
+		\begin{array}{lcc}
+		     0 & t < 0 \\
+		     f(t) & t \geq 0
+		\end{array}
+	\right.
+\end{align*}$$
+
