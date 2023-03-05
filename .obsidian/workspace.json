@@ -11,12 +11,8 @@
             "id": "bae91428bb984132",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LaTeX.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -79,7 +75,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LaTeX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +91,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LaTeX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,9 +112,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "LaTeX.md"
-              }
+              "state": {}
             }
           },
           {
@@ -172,8 +164,8 @@
   },
   "active": "bae91428bb984132",
   "lastOpenFiles": [
-    "Servomecanismos.md",
     "LaTeX.md",
+    "Servomecanismos.md",
     "Señales y Sistemas II.md",
     "LaTeX Template.md",
     "Mecanismos.md",
