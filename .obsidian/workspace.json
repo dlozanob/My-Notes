@@ -11,8 +11,12 @@
             "id": "bae91428bb984132",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Cap. 1. Modelos de sistemas lineales y no lineales.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -75,6 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Cap. 1. Modelos de sistemas lineales y no lineales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,6 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Cap. 1. Modelos de sistemas lineales y no lineales.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -112,7 +118,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Cap. 1. Modelos de sistemas lineales y no lineales.md"
+              }
             }
           },
           {
@@ -136,7 +144,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: servo",
+                "query": "file: señales",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -164,9 +172,10 @@
   },
   "active": "bae91428bb984132",
   "lastOpenFiles": [
+    "Señales y Sistemas II.md",
+    "Cap. 1. Modelos de sistemas lineales y no lineales.md",
     "LaTeX.md",
     "Servomecanismos.md",
-    "Señales y Sistemas II.md",
     "LaTeX Template.md",
     "Mecanismos.md",
     "Módulo 2.md",
