@@ -144,7 +144,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: latex",
+                "query": "file: servo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -172,6 +172,8 @@
   },
   "active": "bae91428bb984132",
   "lastOpenFiles": [
+    "Servomecanismos.md",
+    "LaTeX.md",
     "Señales y Sistemas II.md",
     "LaTeX Template.md",
     "Mecanismos.md",
@@ -181,10 +183,8 @@
     "Tema 4. Matemáticas financieras.md",
     "Fórmulas Financieras Excel.md",
     "Excalidraw/myDrawingSpace.excalidraw.md",
-    "Servomecanismos.md",
     "Pasted image 20230227224147.png",
     "Pasted image 20230227221213.png",
-    "LaTeX.md",
     "Pasted Image 20230227184350_373.png",
     "Pasted image 20230226192253.png",
     "Pasted image 20230226190611.png",
