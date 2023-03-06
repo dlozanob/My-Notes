@@ -108,7 +108,11 @@ En la presencia de baja presión sobre un fluido, las moléculas comienzan a esc
 Igualmente sucede al contrario, las moléculas pasan a la parte gaseosa pero, a su vez, en menor parte a fase líquida.
 
 Tras un momento se llega al equilibrio, en este punto se llega a la presión de vapor, es cuando el número de moléculas que pasa de la fase líquida a gaseosa y viceversa, son iguales.
+La _presión de vapor_ o _presión de saturación_ es entonces la presión ejercida por el propio vapor de un fluido en equilibrio de fases.
 
+Algunas presiones de acuerdo a la temperatura son:
+
+![[Pasted image 20230305222805.png]]
 
 >[!Note]
 >Bogotá se encuentra aproximadamente a 77 kPa
