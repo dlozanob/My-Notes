@@ -83,4 +83,8 @@ La transformada de laplace de la respuesta al impulso es la función de transfer
 $$
 	H(s) = \frac{Y(s)}{U(s)}
 $$
+En circuitos eléctricos:
+
+| | R | L | C |
+|-|-|-|
 
