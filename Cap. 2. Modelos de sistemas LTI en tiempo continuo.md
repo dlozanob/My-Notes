@@ -89,3 +89,15 @@ En circuitos eléctricos se pueden obtener impedancias tras aplicar la transform
 | Tiempo | $v(t) = i(t)R$ | $v(t) = L\frac{di(t)}{dt}$ | $i(t) = C\frac{dv(t)}{dt}$ |
 | Dominio de Laplace | $V(s) = RI(s)$ | $V(s) = sLI(s)$ | $V(s) = \frac{1}{sC}I(s)$ |
 
+Considerando la función de transferencia de la forma:
+$$
+	H(s) = \frac{N(s)}{D(s)}
+$$
+Donde $N(s)$ y $D(s)$ son polinomios con coeficientes reales, se tiene las siguientes definiciones para $H(s)$:
+| Designación | Condición |
+|-|-|
+| Estrictamente propia | Grado $N(s)$ $<$ Grado $D(s)$ |
+| Propia | Grado $N(s)$ $\leq$ Grado $D(s)$
+| Bipropia | Grado $N(s)$ $=$ Grado $D(s)$ |
+| Impropia | Grado $N(s)$ $>$ Grado $D(s)$ |
+
