@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -91,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
+                "file": "LaTeX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
+                "file": "LaTeX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md"
+                "file": "LaTeX.md"
               }
             }
           },
@@ -182,10 +183,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bae91428bb984132",
+  "active": "ff3673738c4e2ca3",
   "lastOpenFiles": [
-    "LaTeX.md",
     "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
+    "LaTeX.md",
     "Señales y Sistemas II.md",
     "Cap. 1. Modelos de sistemas lineales y no lineales.md",
     "Servomecanismos.md",

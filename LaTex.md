@@ -194,6 +194,9 @@ $$
 | Evaluate | `\biggr\rvert` | $\biggr\rvert_{X=0}$ |
 | Physic units | `\unit{<unit>}` | `\unit{km*h}` |
 | Scientific notation | `\num{}` | `\num{3e-10}` |
+| For all | `\forall` | $\forall$ |
+| Exists | `\exists` | $\exists$ |
+| Don't exists | `\inexists` | $\nexists$ |
 | Limit | `\lim_{<variable> \to <value>}` | $\lim_{x \to 0}$ |
 | Infinite | `\infty` | $\infty$ |
 | Summe | `\sum_{<var> = <inf lim>}^{<var> = <sup lim>}` | $\sum_{k = 1}^{k = n}$ |
