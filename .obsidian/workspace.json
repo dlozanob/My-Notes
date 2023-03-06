@@ -11,8 +11,12 @@
             "id": "f7ceb602d324e753",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Fundamentos de Mecánica de Fluidos.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -75,6 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Fundamentos de Mecánica de Fluidos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,6 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Fundamentos de Mecánica de Fluidos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -112,7 +118,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Fundamentos de Mecánica de Fluidos.md"
+              }
             }
           },
           {
@@ -136,7 +144,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: my",
+                "query": "file: fluidos",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
