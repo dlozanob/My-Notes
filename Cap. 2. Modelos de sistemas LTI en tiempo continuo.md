@@ -162,4 +162,6 @@ $$
 
 Notemos que $sK_{3}$ es impropia, para hacerla propia se reemplaza por:
 $$
-	sk_{3} \leftarrow \frac{sK_{3}
+	sk_{3} \leftarrow \frac{sk_{3}}{1 + \frac{k_{3}}{N}s}
+$$
+Donde $N$ es un valor muy grande.
