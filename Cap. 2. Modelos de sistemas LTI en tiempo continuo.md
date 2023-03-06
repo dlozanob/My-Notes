@@ -110,4 +110,26 @@ $$
 	\frac{Y(s)}{U(s)} = G = -\frac{Z_{2}}{Z_{1}}
 $$
 
-Si $Z_{1}$ es $R$ y 
+Si $Z_{1}$ es $R$ (resistencia) y $Z_{2}$ es $\frac{1}{sC}$ (capacitancia), se tiene:
+$$
+	G = -\frac{\frac{1}{sC}}{R} = -\frac{1}{sRC}
+$$
+La transformada de Laplace inversa se corresponde a un integrador.
+$$
+	y(t) = -\frac{1}{RC}\int_{0}^{t}u(t)dt
+$$
+
+Así mismo, si $Z_{2}$ es $R$ (resistencia) y $Z_{1}$ es $\frac{1}{sC}$ (capacitancia), se tiene:
+$$
+	G = -\frac{R}{\frac{1}{sC}} = -sRC
+$$
+Lo que corresponde a un derivador.
+
+Sin embargo, supongamos ahora que la selal de entrada es:
+$$
+	u(t) = 2Sin(t) + 0.01Sin(1000t)
+$$
+Al pasar por derivador:
+$$
+	\dot{}
+$$
