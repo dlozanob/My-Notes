@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3b18c24aac3655a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fórmulas Financieras Excel.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -79,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fundamentos de Mecánica de Fluidos.md",
+                "file": "Fórmulas Financieras Excel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fundamentos de Mecánica de Fluidos.md",
+                "file": "Fórmulas Financieras Excel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fundamentos de Mecánica de Fluidos.md"
+                "file": "Fórmulas Financieras Excel.md"
               }
             }
           },
@@ -144,7 +157,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: fluidos",
+                "query": "file: finan",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -170,8 +183,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f7ceb602d324e753",
+  "active": "3b18c24aac3655a6",
   "lastOpenFiles": [
+    "Fundamentos de Mecánica de Fluidos.md",
     "Pasted image 20230305224240.png",
     "Pasted image 20230305224124.png",
     "Pasted image 20230305222805.png",
@@ -195,8 +209,6 @@
     "Pasted Image 20230227184350_373.png",
     "Pasted image 20230226192253.png",
     "Pasted image 20230226190611.png",
-    "Pasted image 20230226183348.png",
-    "Fundamentos de Mecánica de Fluidos.md",
     "Tema 3. Indicadores macroeconómicos.md",
     "Tema 2. Función de oferta y demanda.md",
     "Tema 1. Economía.md",
