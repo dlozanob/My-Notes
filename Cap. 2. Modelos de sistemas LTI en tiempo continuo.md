@@ -71,5 +71,9 @@ Pasos para definir el paso $\triangle$:
 3. Seleccionar un nuevo $\triangle_{1} < \triangle_{0}$ 
 4. Simular de nuevo:
 	-  Si $Error < \varepsilon$, finalizar
-	- Si $Error > \varepsilon$, 
+	- Si $Error > \varepsilon$, $\triangle_{0} \leftarrow \triangle_{1}$, hacer paso 3
+
+>[!Note]
+>Este método es el menos sofisticado
+
 
