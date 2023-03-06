@@ -129,6 +129,14 @@ Esto sucede comúnmente en turbinas.
 ![[Pasted image 20230215072810.png]]
 
 
+A temperatura constante, en esta tubería se puede ver el gradiente de presiones, donde en algunos puntos la presión es menor que la presión de vapor.
+
+![[Pasted image 20230305224124.png]]
+
+![[Pasted image 20230305224240.png]]
+
+En estos puntos sucederá el fenómeno de cavitación.
+
 
 ## Coeficiente de compresibilidad
 
