@@ -25,7 +25,8 @@ $$
 $$
 Donde $h(t)$ representa la respuesta impulsiva.
 
-## Solución de las ecuaciones de estado con métodos computacionales
+
+## Solución de las ecuaciones de estado con el método computacional
 
 La solución de las ecuaciones de estado pueden ser halladas mediante:
 - Métodos analíticos
@@ -49,14 +50,20 @@ $$
 \end{align*}
 $$
 Computacionalmente se quieren hallar los valores de $x$ y $y$ para un periodo de tiempo discretizado en intervalos $\triangle$ (tamaño del paso). Entonces, haciendo $t = n\triangle$:
-
 $$
 \begin{align*}
 	&x((n + 1)\triangle) = (I + \triangle A)x(n\triangle) + \triangle Bu(n\triangle) \\
 	&y(n\triangle) = Cx(n\triangle) + Du(n\triangle)
 \end{align*}
 $$
-
+Debido a que estamos tomando valores discretos en el tiempo, podemos expresar las ecuaciones como un sistema en tiempo discreto.
+$$
+\begin{align*}
+	&x[n + 1] = (I + \triangle A)x[n] + \triangle Bu[n] \\
+	&y[n] = Cx[n] + Du[n]
+\end{align*}
+$$
+Estas son las ecuaciones de diferencia, las cuales, se usan de manera recursiva para hallar la solución del sistema.
 
 
 
