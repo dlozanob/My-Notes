@@ -208,6 +208,8 @@ $$
 | Partial derivative | `\partial` | $\partial$ |
 | Gradient | `\nabla` | $\nabla$ |
 | Exclusive sum | `\oplus` | $\oplus$ |
+| Fourier transform | `\mathscr{F}` | $\mathscr{F}$ |
+| Laplace transform  | `\mathscr{L}` | $\mathscr{L}$ |
 
 
 ## Special characters
