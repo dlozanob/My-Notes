@@ -9,4 +9,11 @@ Su respuesta varía de acuerdo a sus condiciones iniciales:
 | Natural | $$\begin{align*} u(t) = \left\{ \begin{array}{lcc} f(t) & t < 0 \\ 0 & t \geq 0 \end{array} \right. \end{align*}$$ |
 
 Donde $f(t) \neq 0$. 
+La _respuesta forzada_ es excitada por la entrada en todo momento, $x_{0} = 0$.
+La _respuesta natural_ es inducida por el comportamiento de la entrada antes del tiempo 0, por lo que, $x_{0} \neq 0$.
+
+Un sistema es invariante en el tiempo si para un $u(t)$ existe un 
+
+
+
 
