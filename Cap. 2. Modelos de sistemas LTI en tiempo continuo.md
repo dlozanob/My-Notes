@@ -77,3 +77,10 @@ Pasos para definir el paso $\triangle$:
 >Este método es el menos sofisticado
 
 
+## Funciones de transferencia
+
+La transformada de laplace de la respuesta al impulso es la función de transferencia del sistema.
+$$
+	H(s) = \frac{Y(s)}{U(s)}
+$$
+
