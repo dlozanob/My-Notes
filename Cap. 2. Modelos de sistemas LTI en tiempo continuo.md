@@ -45,10 +45,17 @@ Entonces:
 $$
 \begin{align*}
 	Ax(t) + Bu(t) = \frac{x(t + \triangle) - x(t)}{\triangle} \\\\
-	x(t + \triangle) = (I + A\triangle)x(t) + \triangle Bu(t)
+	x(t + \triangle) = (I + \triangle A)x(t) + \triangle Bu(t)
 \end{align*}
 $$
+Computacionalmente se quieren hallar los valores de $x$ y $y$ para un periodo de tiempo discretizado en intervalos $\triangle$ (tamaño del paso). Entonces, haciendo $t = n\triangle$:
 
+$$
+\begin{align*}
+	&x((n + 1)\triangle) = (I + \triangle A)x(n\triangle) + \triangle Bu(n\triangle) \\
+	&y(n\triangle) = Cx(n\triangle) + Du(n\triangle)
+\end{align*}
+$$
 
 
 
