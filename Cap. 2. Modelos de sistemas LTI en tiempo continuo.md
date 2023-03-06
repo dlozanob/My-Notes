@@ -18,8 +18,19 @@ $\forall$ $u(t - t_{1})$ $\exists$ $y(t - t_{1})$: $t \geq t_{1}$
 
 Un sistema es lineal si satisface aditividad y homogeneidad.
 
+La salida de un sistema está dada por la integral de convolución:
 
+$$
+	y(t) = \int_{\tau = 0}^{\infty} h(t - \tau)u(\tau)d\tau
+$$
+Donde $h(t)$ representa la respuesta impulsiva.
 
+La solución de las ecuaciones de estado pueden ser halladas mediante:
+
+- Métodos analíticos
+	- Eigenvectors
+	- Transformada de Laplace
+- 
 
 
 
