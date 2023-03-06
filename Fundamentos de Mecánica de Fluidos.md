@@ -138,7 +138,7 @@ A temperatura constante, en esta tubería se puede ver el gradiente de presiones
 En estos puntos sucederá el fenómeno de cavitación.
 
 
-## Coeficiente de compresibilidad
+## Coeficiente de compresibilidad (bulk modulus)
 
 
 $$
