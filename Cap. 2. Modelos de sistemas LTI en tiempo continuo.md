@@ -34,10 +34,21 @@ La solución de las ecuaciones de estado pueden ser halladas mediante:
 - Métodos numéricos
 
 La ecuación de estado de un sistema LTI es:
+$$
+	\dot{x(t)} = Ax(t) + Bu(t)
+$$
+La cual puede reescrita como:
+$$
+	\dot{x(t)} = \frac{x(t + \triangle) - x(t)}{\triangle}
+$$
+Entonces:
+$$
+\begin{align*}
+	Ax(t) + Bu(t) = \frac{x(t + \triangle) - x(t)}{\triangle} \\\\
+	x(t + \triangle) = (I + A\triangle)x(t) + \triangle Bu(t)
+\end{align*}
+$$
 
-$$
-	\dot{x} = 
-$$
 
 
 
