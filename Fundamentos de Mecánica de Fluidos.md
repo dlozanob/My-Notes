@@ -118,8 +118,6 @@ Algunas presiones de acuerdo a la temperatura son:
 >Bogotá se encuentra aproximadamente a 77 kPa
 >Siendo así, la temperatura de ebullición (temperatura de saturación) del agua ronda los 92 °C
 
-1 atm 760mmHg 101325 pa
-
 >[!Note]
 >$1 atm  = 760 mmHg = 101325 Pa$
 
