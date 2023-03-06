@@ -26,7 +26,7 @@ $$
 Donde $h(t)$ representa la respuesta impulsiva.
 
 
-## Solución de las ecuaciones de estado con el método computacional
+## Solución de las ecuaciones de estado con el método de euler
 
 La solución de las ecuaciones de estado pueden ser halladas mediante:
 - Métodos analíticos
