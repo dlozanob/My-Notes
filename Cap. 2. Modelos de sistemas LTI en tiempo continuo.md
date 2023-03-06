@@ -141,6 +141,13 @@ La señal original es 5 veces menor al ruido.
 
 Al pasar por un integrador:
 $$
-	U(t) = -2Cos(t) - 1*10^{-5}Cos(1000t) + 2 + 
+	U(t) = -2Cos(t) - 10^{-5}Cos(1000t) + 2 + 10^{-5}
 $$
+La señal original es $2*10^{5}$ veces mayor que el ruido.
 
+Se concluye que:
+- Los derivadores electrónicos aumentan el ruido
+- Los integradores electrónicos disminuyen el ruido
+
+Esto sucede para funciones de transferencia impropias.
+Sin embargo, en funciones de transferencia propias no sucede esto.
