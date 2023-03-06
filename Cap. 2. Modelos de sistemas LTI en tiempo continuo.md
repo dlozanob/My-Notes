@@ -25,12 +25,20 @@ $$
 $$
 Donde $h(t)$ representa la respuesta impulsiva.
 
-La solución de las ecuaciones de estado pueden ser halladas mediante:
+## Solución de las ecuaciones de estado con métodos computacionales
 
+La solución de las ecuaciones de estado pueden ser halladas mediante:
 - Métodos analíticos
 	- Eigenvectors
 	- Transformada de Laplace
-- 
+- Métodos numéricos
+
+La ecuación de estado de un sistema LTI es:
+
+$$
+	\dot{x} = 
+$$
+
 
 
 
