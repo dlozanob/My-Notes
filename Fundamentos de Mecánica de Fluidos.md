@@ -2,7 +2,6 @@
 
 Un fluido es aquel que adquiere la forma del recipiente que lo contiene.
 
-
 >[!Info]
 >El experimento más largo del mundo involucra la caida de un fluido de brea. El experimento comenzó en 1927. Hasta el momento solo han caido 9 gotas.
 >La brea es 2 millones de veces más viscosa que la miel.
@@ -13,7 +12,7 @@ Un fuerza que actúa sobre un diferencial de área en un fluido produce un esfue
 
 $$
 \begin{align*}
-	&\tau = \frac{F_{n}}{dA} \\\\
+	&\tau = \frac{F_{t}}{dA} \\\\
 	&P = \frac{F_{n}}{dA}
 \end{align*}
 $$
@@ -44,7 +43,7 @@ $$
 Donde $\rho_{H_{2}O}$  $(1000 kg/m^3)$ es la máxima densidad del agua, que curiosamente ocurre en su estado líquido a los 4°C.
 
 
-- Volumen específico:
+- _Volumen específico_:
 
 $$
 	v = \frac{1}{\rho}
@@ -62,12 +61,11 @@ $$
 $$
 
 
-- Fluido incompresible: Su densidad es constante
-
+- _Fluido incompresible_ : Su densidad es constante. La mayoría de líquidos lo son.
+- _Fluido compresible_ : No tiene densidad constante. Son todos los gases.
 
 
 ## Hipótesis del continuo
-
 
 Para trabajar con fluidos, se debe suponer una densidad uniforme donde cada una de las partículas tiene una dimensión infinitesimal. De tal manera que los cálculos adquieren un carácter continuo en lugar de discreto. En tamaños grandes se puede tomar esta simplificación sin problemas, ya que, la densidad es suficientemente uniforme.
 
@@ -77,7 +75,6 @@ Para trabajar con fluidos, se debe suponer una densidad uniforme donde cada una 
 
 
 ## Tipos de sistemas
-
 
 - Sistemas cerrados (masa de control): La cantidad de materia en estudio se mantiene constante.
 
@@ -90,21 +87,15 @@ Para trabajar con fluidos, se debe suponer una densidad uniforme donde cada una 
 ![[Pasted image 20230212135108.png]]
 
 
-
 ## Perspectivas de la física mecánica
 
 - Euleriana: Se estudian las variables inherentes a un espacio
 
 ![[Pasted image 20230212135228.png]]
 
-
-
 - Lagrangiana: Se estudan las variables inherentes a una partícula
 
 ![[Pasted image 20230212135351.png]]
-
-
-
 
 
 ## Presión de vapor y cavitación
