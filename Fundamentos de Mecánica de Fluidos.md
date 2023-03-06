@@ -1,6 +1,10 @@
 # Fundamentos de Mecánica de Fluidos
 
 Un fluido es aquel que adquiere la forma del recipiente que lo contiene.
+Puede ser líquido, gas o plasma.
+
+>[!Note]
+>El estado plasma también es considerado como un fluido. Este es similar al gaseoso pero una porción de sus partículas está cargada.
 
 >[!Info]
 >El experimento más largo del mundo involucra la caida de un fluido de brea. El experimento comenzó en 1927. Hasta el momento solo han caido 9 gotas.
@@ -100,8 +104,8 @@ Para trabajar con fluidos, se debe suponer una densidad uniforme donde cada una 
 
 ## Presión de vapor y cavitación
 
-En la presencia de baja presión sobre un fluido, las moléculas comienzan a escapar y a convertirse en vapor
-Igualmente sucede al conttrario, las moléculas entonces pasan a la parte gaseosa pero a su vez, en menor parte, a fase líquida
+En la presencia de baja presión sobre un fluido, las moléculas comienzan a escapar y a convertirse en vapor.
+Igualmente sucede al contrario, las moléculas pasan a la parte gaseosa pero, a su vez, en menor parte a fase líquida.
 
 Tras un momento se llega al equilibrio, en este punto se llega a la presión de vapor, es cuando el número de moléculas que pasa de la fase líquida a gaseosa y viceversa, son iguales.
 
