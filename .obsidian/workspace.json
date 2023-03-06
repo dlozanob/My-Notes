@@ -30,6 +30,16 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f7ceb602d324e753",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/myDrawingSpace.excalidraw.md"
+              }
+            }
           }
         ]
       }
@@ -156,7 +166,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: latex",
+                "query": "file: my",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -184,8 +194,11 @@
   },
   "active": "bae91428bb984132",
   "lastOpenFiles": [
-    "LaTeX.md",
+    "Pasted image 20230305213457.png",
+    "Excalidraw/myDrawingSpace.excalidraw.md",
     "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
+    "Pasted image 20230305213422.png",
+    "LaTeX.md",
     "Señales y Sistemas II.md",
     "Cap. 1. Modelos de sistemas lineales y no lineales.md",
     "Servomecanismos.md",
@@ -196,7 +209,6 @@
     "Módulo 1. Economía y matemática financiera.md",
     "Tema 4. Matemáticas financieras.md",
     "Fórmulas Financieras Excel.md",
-    "Excalidraw/myDrawingSpace.excalidraw.md",
     "Pasted image 20230227224147.png",
     "Pasted image 20230227221213.png",
     "Pasted Image 20230227184350_373.png",
@@ -207,7 +219,6 @@
     "Pasted image 20230225213318.png",
     "Pasted image 20230225212620.png",
     "Pasted image 20230224174754.png",
-    "Pasted image 20230224093037.png",
     "Tema 3. Indicadores macroeconómicos.md",
     "Tema 2. Función de oferta y demanda.md",
     "Tema 1. Economía.md",

@@ -101,3 +101,13 @@ Donde $N(s)$ y $D(s)$ son polinomios con coeficientes reales, se tiene las sigui
 | Bipropia | Grado $N(s)$ $=$ Grado $D(s)$ |
 | Impropia | Grado $N(s)$ $>$ Grado $D(s)$ |
 
+Consideremos el siguiente caso:
+
+![[Pasted image 20230305213457.png]]
+
+La función de transferencia viene dada por:
+$$
+	\frac{Y(s)}{U(s)} = G = -\frac{Z_{2}}{Z_{1}}
+$$
+
+Si $Z_{1}$ es $R$ y 
