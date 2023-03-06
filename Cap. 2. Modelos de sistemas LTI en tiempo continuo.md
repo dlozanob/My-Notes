@@ -13,8 +13,12 @@ La _respuesta forzada_ es excitada por la entrada en todo momento, $x_{0} = 0$.
 La _respuesta natural_ es inducida por el comportamiento de la entrada antes del tiempo 0, por lo que, $x_{0} \neq 0$.
 
 Un sistema es invariante en el tiempo si:
-$\forall$ $u(t)$ $\exists$ $y(t)$: $t > 0$ 
- 
+$\forall$ $u(t)$ $\exists$ $y(t)$: $t \geq 0$ , donde
+$\forall$ $u(t - t_{1})$ $\exists$ $y(t - t_{1})$: $t \geq t_{1}$
+
+Un sistema es lineal si satisface aditividad y homogeneidad.
+
+
 
 
 
