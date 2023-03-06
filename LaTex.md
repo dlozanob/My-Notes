@@ -197,6 +197,8 @@ $$
 | For all | `\forall` | $\forall$ |
 | Exists | `\exists` | $\exists$ |
 | Don't exists | `\inexists` | $\nexists$ |
+| Right arrow | `\rightarrow` | $\rightarrow$ |
+| Left arrow | `\leftarrow` | $\leftarrow$ |
 | CW | `\circlearrowright` | $\circlearrowright$ |
 | CCW | `\circlearrowleft` | $\circlearrowleft$ |
 | Limit | `\lim_{<variable> \to <value>}` | $\lim_{x \to 0}$ |

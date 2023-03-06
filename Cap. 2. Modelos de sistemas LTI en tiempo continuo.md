@@ -151,3 +151,15 @@ Se concluye que:
 
 Esto sucede para funciones de transferencia impropias.
 Sin embargo, en funciones de transferencia propias no sucede esto.
+
+Un ejemplo de ello, son los _PID_ en sistemas de control. Donde se tiene la función de transferencia:
+$$
+	H(s) = k_{1} + \frac{k_{2}}{s} + sk_{3}
+$$
+- $k_{1}$ : Constante proporcional
+- $k_{2}$ : Constante integral
+- $k_{3}$ : Constante derivativa
+
+Notemos que $sK_{3}$ es impropia, para hacerla propia se reemplaza por:
+$$
+	sk_{3} \leftarrow \frac{sK_{3}
