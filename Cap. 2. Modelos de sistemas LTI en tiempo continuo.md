@@ -26,7 +26,7 @@ $$
 Donde $h(t)$ representa la respuesta impulsiva.
 
 
-## Solución de las ecuaciones de estado con el método de euler
+## Solución de las ecuaciones de estado con el método de Euler
 
 La solución de las ecuaciones de estado pueden ser halladas mediante:
 - Métodos analíticos
@@ -65,5 +65,11 @@ $$
 $$
 Estas son las ecuaciones de diferencia, las cuales, se usan de manera recursiva para hallar la solución del sistema.
 
-
+Pasos para definir el paso $\triangle$:
+1. Seleccionar un $\triangle_{0}$ arbitrario
+2. Simular
+3. Seleccionar un nuevo $\triangle_{1} < \triangle_{0}$ 
+4. Simular de nuevo:
+	-  Si $Error < \varepsilon$, finalizar
+	- Si $Error > \varepsilon$, 
 
