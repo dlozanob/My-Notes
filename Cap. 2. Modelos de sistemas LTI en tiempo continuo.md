@@ -125,11 +125,22 @@ $$
 $$
 Lo que corresponde a un derivador.
 
-Sin embargo, supongamos ahora que la selal de entrada es:
+
+Sin embargo, supongamos ahora que la señal de entrada es:
 $$
 	u(t) = 2Sin(t) + 0.01Sin(1000t)
 $$
-Al pasar por derivador:
+Donde $2Sin(t)$ es la señal base y $0.01Sin(1000t)$ representa al ruido.
+La señal original es 20 veces mayor al ruido.
+
+Al pasar por un derivador:
 $$
-	\dot{}
+	\dot{u(t)} = 2Cos(t) + 10Cos(1000t)
 $$
+La señal original es 5 veces menor al ruido.
+
+Al pasar por un integrador:
+$$
+	U(t) = -2Cos(t) - 1*10^{-5}Cos(1000t) + 2 + 
+$$
+
