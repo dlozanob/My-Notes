@@ -143,10 +143,10 @@ En estos puntos sucederá el fenómeno de cavitación.
 Se define el _módulo de elasticidad volumétrico_ o _coeficiente de compresibilidad_ como el incremento de presión necesario para generar un decremento de volumen unitario a temperatura constante.
 
 $$
-	k = -V \biggr(\frac{\partial P}{\partial V}\biggr)_{T}
+	k = -V \biggr(\frac{\partial P}{\partial V}\biggr)_{T} = \rho \biggr(\frac{\partial P}{\partial \rho}\biggr)_{T}
 $$
 
-
+Se puede tomar la aproximación:
 
 $$
 \begin{align*}
@@ -155,29 +155,26 @@ $$
 $$
 
 
-
 La deducción de $k$ en términos de $\rho$ es:
-
 $$
 \begin{align*}
-	\rho = \frac{m}{V} \\\\
-	d\rho = -\frac{m}{V^2}dV \\\\
-	dV = -\frac{V^{2}}{m}d\rho \\\\
+	\rho &= \frac{m}{V} \\\\
+	d\rho &= -\frac{m}{V^2}dV \\\\
+	dV &= -\frac{V^{2}}{m}d\rho \\\\
 \end{align*}
 $$
+Sustituir en $k$ para obtener $k = \rho \biggr(\frac{\partial P}{\partial \rho}\biggr)_{T}$
 
-Se sustituye en $k$ se obtiene.
 
-
-_Coeficiente de compresibilidad isotérmica_:
+- _Coeficiente de compresibilidad isotérmica_ :
 
 $$
-	\alpha = \frac{1}{k} = \frac{1}{\rho}(\frac{\partial \rho}{\partial P})
+	\alpha = \frac{1}{k}
 $$
 
 
 
-El _coeficiente de expansión volumétrico_ se define como:
+- _Coeficiente de expansión volumétrico_ :
 
 $$
 	\beta = [\frac{\triangle V/V_{0}}{\triangle T}]_{P} = -\frac{1}{\rho}(\frac{\partial \rho}{\partial T})_{P}
