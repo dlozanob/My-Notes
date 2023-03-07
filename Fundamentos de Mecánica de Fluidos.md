@@ -70,6 +70,10 @@ $$
 
 
 
+
+
+
+
 El valor presente de una anualidad satisface:
 $$
 	P = A\biggr[\frac{(1 +i)^n - 1}{(1 + i)^n i}\biggr]
@@ -83,8 +87,8 @@ $$
 Por tanto, el valor presente de la compañía es:
 $$
 \begin{align*}
-	P &= \frac{530.000}{0.15} \\\\
-	&= 3,533,333.333
+	P &= \frac{\$530.000}{0.15} \\\\
+	&= \$3,533,333.333
 \end{align*}	
 $$
 
