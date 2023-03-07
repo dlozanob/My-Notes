@@ -173,13 +173,18 @@ $$
 $$
 
 - _Coeficiente de expansión volumétrico_ :
-
-Se define como el cambio de volumen necesario para aumentar la temperatura
+Expresa el incremento de volumen relativo ante un incremento de temperatura
 
 $$
-	\beta = [\frac{\triangle V/V_{0}}{\triangle T}]_{P} = -\frac{1}{\rho}(\frac{\partial \rho}{\partial T})_{P}
+	\beta \approx \frac{\triangle V/V_{0}}{\triangle T} = -\frac{1}{\rho}\biggr(\frac{\partial \rho}{\partial T}\biggr)_{P}
 $$
-El volumen cambia con la variación de la temperatura a presión constante.
+
+Puede aproximarse de la forma:
+$$
+	\beta \approx \frac{\triangle V/V_{0}}{\triangle T} = \frac{\triangle \rho/\rho_{0}}{\triangle T}
+$$
+
+
 
 >[!Note]
 >Para un gas de ideal $k = P$
