@@ -138,11 +138,10 @@ A temperatura constante, en esta tubería se puede ver el gradiente de presiones
 En estos puntos sucederá el fenómeno de cavitación.
 
 
-## Coeficiente de compresibilidad (bulk modulus)
-
+## Variación volumétrica con respecto a presión y temperatura
 
 - _Coeficiente de compresibilidad_ :
-Se define el _módulo de elasticidad volumétrico_ o _coeficiente de compresibilidad_ como el incremento de presión necesario para generar un decremento de volumen unitario a temperatura constante.
+Se define el _módulo de elasticidad volumétrico_ o _coeficiente de compresibilidad_   (_bulk modulus_) como el incremento de presión necesario para generar un decremento de volumen unitario a temperatura constante.
 
 $$
 	k = -V \biggr(\frac{\partial P}{\partial V}\biggr)_{T} = \rho \biggr(\frac{\partial P}{\partial \rho}\biggr)_{T}
@@ -170,7 +169,8 @@ Sustituir en $k$ para obtener $k = \rho \biggr(\frac{\partial P}{\partial \rho}\
 >[!Note]
 >Para un gas de ideal $k = P$
 
-- _Coeficiente de compresibilidad isotérmica_ :
+
+- _Compresibilidad isotérmica_ :
 
 $$
 	\alpha = \frac{1}{k}
@@ -189,6 +189,10 @@ $$
 $$
 
 
+De manera general, el volumen $V(T, P)$ varía en función de la temperatura y la presión. Al hacer su derivada total:
+$$
+	
+$$
 
 
 
