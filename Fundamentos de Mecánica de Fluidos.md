@@ -172,15 +172,17 @@ $$
 	\alpha = \frac{1}{k}
 $$
 
-
-
 - _Coeficiente de expansión volumétrico_ :
+
+Se define como el cambio de volumen necesario para aumentar la temperatura
 
 $$
 	\beta = [\frac{\triangle V/V_{0}}{\triangle T}]_{P} = -\frac{1}{\rho}(\frac{\partial \rho}{\partial T})_{P}
 $$
 El volumen cambia con la variación de la temperatura a presión constante.
 
+>[!Note]
+>Para un gas de ideal $k = P$
 
 
 ## Viscosidad
