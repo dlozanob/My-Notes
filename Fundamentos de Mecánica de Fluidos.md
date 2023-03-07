@@ -191,8 +191,11 @@ $$
 
 De manera general, el volumen $V(T, P)$ varía en función de la temperatura y la presión. Al hacer su derivada total:
 $$
-	
+\begin{align*}
+ dV = \biggr(\frac{\partial V}{\partial T}\biggr)_{P}dT + \biggr(\frac{\partial V}{\partial P}\biggr)_{T}dP
+\end{align*}
 $$
+
 
 
 
