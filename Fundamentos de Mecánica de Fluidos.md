@@ -69,6 +69,11 @@ $$
 - _Fluido compresible_ : No tiene densidad constante. Son todos los gases.
 
 
+
+
+
+
+
 ## Hipótesis del continuo
 
 Para trabajar con fluidos, se debe suponer una densidad uniforme donde cada una de las partículas tiene una dimensión infinitesimal. De tal manera que los cálculos adquieren un carácter continuo en lugar de discreto. En tamaños grandes se puede tomar esta simplificación sin problemas, ya que, la densidad es suficientemente uniforme.
