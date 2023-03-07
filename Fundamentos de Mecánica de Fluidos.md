@@ -199,8 +199,8 @@ $$
 Del mismo modo para $\rho$ :
 $$
 \begin{align*}
-	&\alpha = frac{d\rho}{\rho} = -\frac{dV}{V} \\\\
-	&dV = (\beta dT - \alpha dP)V
+	&\alpha = \frac{d\rho}{\rho} = -\frac{dV}{V} \\\\
+	&dV = -(\beta dT - \alpha dP)\rho
 \end{align*}
 $$
 
