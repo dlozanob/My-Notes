@@ -69,33 +69,6 @@ $$
 - _Fluido compresible_ : No tiene densidad constante. Son todos los gases.
 
 
-
-
-
-
-
-El valor presente de una anualidad satisface:
-$$
-	P = A\biggr[\frac{(1 +i)^n - 1}{(1 + i)^n i}\biggr]
-	
-$$
-Considerando una perpetuidad, se hace:
-$$
-	\lim_{n\to \infty}P = A\lim_{n\to \infty}\biggr[\frac{(1 +i)^n - 1}{(1 + i)^n i}\biggr] = \frac{A}{i}
-$$
-
-Por tanto, el valor presente de la compañía es:
-$$
-\begin{align*}
-	P &= \frac{\$530.000}{0.15} \\\\
-	&= \$3,533,333.333
-\end{align*}	
-$$
-
-
-
-
-
 ## Hipótesis del continuo
 
 Para trabajar con fluidos, se debe suponer una densidad uniforme donde cada una de las partículas tiene una dimensión infinitesimal. De tal manera que los cálculos adquieren un carácter continuo en lugar de discreto. En tamaños grandes se puede tomar esta simplificación sin problemas, ya que, la densidad es suficientemente uniforme.
