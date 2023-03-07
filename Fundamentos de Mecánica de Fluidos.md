@@ -140,6 +140,8 @@ En estos puntos sucederá el fenómeno de cavitación.
 
 ## Coeficiente de compresibilidad (bulk modulus)
 
+
+- _Coeficiente de compresibilidad_ :
 Se define el _módulo de elasticidad volumétrico_ o _coeficiente de compresibilidad_ como el incremento de presión necesario para generar un decremento de volumen unitario a temperatura constante.
 
 $$
@@ -165,6 +167,8 @@ $$
 $$
 Sustituir en $k$ para obtener $k = \rho \biggr(\frac{\partial P}{\partial \rho}\biggr)_{T}$
 
+>[!Note]
+>Para un gas de ideal $k = P$
 
 - _Coeficiente de compresibilidad isotérmica_ :
 
@@ -173,10 +177,10 @@ $$
 $$
 
 - _Coeficiente de expansión volumétrico_ :
-Expresa el incremento de volumen relativo ante un incremento de temperatura
+Se define el _coeficiente de expansión volumétrico_ o _módulo de elasticidad volumétrico_ como el incremento del volumen relativo ante un incremento de temperatura.
 
 $$
-	\beta \approx \frac{\triangle V/V_{0}}{\triangle T} = -\frac{1}{\rho}\biggr(\frac{\partial \rho}{\partial T}\biggr)_{P}
+	\beta = \frac{1}{V}\biggr(\frac{\partial V}{\partial T}\biggr)_{P} = -\frac{1}{\rho}\biggr(\frac{\partial \rho}{\partial T}\biggr)_{P}
 $$
 
 Puede aproximarse de la forma:
@@ -186,8 +190,7 @@ $$
 
 
 
->[!Note]
->Para un gas de ideal $k = P$
+
 
 
 ## Viscosidad
