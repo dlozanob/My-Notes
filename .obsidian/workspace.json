@@ -91,6 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Fundamentos de Mecánica de Fluidos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,6 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Fundamentos de Mecánica de Fluidos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +130,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Fundamentos de Mecánica de Fluidos.md"
+              }
             }
           },
           {
@@ -152,7 +156,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: latex",
+                "query": "file: finanzas",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -178,10 +182,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9d93bca41a6a57a5",
+  "active": "f7ceb602d324e753",
   "lastOpenFiles": [
-    "Fundamentos de Mecánica de Fluidos.md",
     "LaTeX.md",
+    "Tema 4. Matemáticas financieras.md",
+    "Módulo 1. Economía y matemática financiera.md",
+    "Finanzas.md",
+    "Tema 3. Indicadores macroeconómicos.md",
+    "Fundamentos de Mecánica de Fluidos.md",
     "Fórmulas Financieras Excel.md",
     "Pasted image 20230305224240.png",
     "Pasted image 20230305224124.png",
@@ -196,15 +204,11 @@
     "LaTeX Template.md",
     "Mecanismos.md",
     "Módulo 2.md",
-    "Finanzas.md",
-    "Módulo 1. Economía y matemática financiera.md",
-    "Tema 4. Matemáticas financieras.md",
     "Pasted image 20230227224147.png",
     "Pasted image 20230227221213.png",
     "Pasted Image 20230227184350_373.png",
     "Pasted image 20230226192253.png",
     "Pasted image 20230226190611.png",
-    "Tema 3. Indicadores macroeconómicos.md",
     "Tema 2. Función de oferta y demanda.md",
     "Tema 1. Economía.md",
     "Electrónica Digital II.md",
