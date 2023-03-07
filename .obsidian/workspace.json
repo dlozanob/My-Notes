@@ -18,6 +18,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c423902645ac5995",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LaTeX.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -79,7 +91,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fundamentos de Mecánica de Fluidos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +107,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fundamentos de Mecánica de Fluidos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,9 +128,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Fundamentos de Mecánica de Fluidos.md"
-              }
+              "state": {}
             }
           },
           {
@@ -144,7 +152,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: finan",
+                "query": "file: latex",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -170,15 +178,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f7ceb602d324e753",
+  "active": "9d93bca41a6a57a5",
   "lastOpenFiles": [
     "Fundamentos de Mecánica de Fluidos.md",
+    "LaTeX.md",
     "Fórmulas Financieras Excel.md",
     "Pasted image 20230305224240.png",
     "Pasted image 20230305224124.png",
     "Pasted image 20230305222805.png",
     "Excalidraw/myDrawingSpace.excalidraw.md",
-    "LaTeX.md",
     "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
     "Pasted image 20230305213457.png",
     "Pasted image 20230305213422.png",

@@ -142,17 +142,21 @@ En estos puntos sucederá el fenómeno de cavitación.
 
 Se define el _módulo de elasticidad volumétrico_ o _coeficiente de compresibilidad_ como el incremento de presión necesario para generar un decremento de volumen unitario a temperatura constante.
 
+$$
+	k = -V \biggr(\frac{\partial P}{\partial V}\biggr)_{T}
+$$
+
+
 
 $$
 \begin{align*}
 	k \approx -\frac{\triangle P}{\triangle V/V} = \frac{\triangle P}{\triangle \rho/\rho} \\\\
-	k = -V(\frac{\partial P}{\partial V})_{T}
 \end{align*}
 $$
 
 
 
-Se deduce $k$ en términos de $\rho$ :
+La deducción de $k$ en términos de $\rho$ es:
 
 $$
 \begin{align*}
@@ -162,11 +166,7 @@ $$
 \end{align*}
 $$
 
-Sustituyendo en $k$ se obtiene:
-
-$$
-k = \rho(\frac{\partial P}{\partial \rho})_{}_{T}
-$$
+Se sustituye en $k$ se obtiene.
 
 
 _Coeficiente de compresibilidad isotérmica_:
