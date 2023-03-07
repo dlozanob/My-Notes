@@ -152,20 +152,20 @@ $$
 
 
 
-Se deduce $k$ en términos de $\rho$
+Se deduce $k$ en términos de $\rho$ :
 
 $$
 \begin{align*}
 	\rho = \frac{m}{V} \\\\
 	d\rho = -\frac{m}{V^2}dV \\\\
-	dV = -\frac{V_{2}}{m}d\rho \\\\
+	dV = -\frac{V^{2}}{m}d\rho \\\\
 \end{align*}
 $$
 
 Sustituyendo en $k$ se obtiene:
 
 $$
-k = \rho(\frac{\partial P}{\partial \rho})
+k = \rho(\frac{\partial P}{\partial \rho})_{}_{T}
 $$
 
 
