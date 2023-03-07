@@ -140,18 +140,18 @@ En estos puntos sucederá el fenómeno de cavitación.
 
 ## Coeficiente de compresibilidad (bulk modulus)
 
+Se define el _módulo de elasticidad volumétrico_ o _coeficiente de compresibilidad_ como el incremento de presión necesario para generar un decremento de volumen unitario a temperatura constante.
+
 
 $$
-	\begin{align*}
-		k = -\frac{\triangle P}{\triangle V/V} \\\\
-		k = -V(\frac{\partial P}{\partial V})_{T}
-	\end{align*}
+\begin{align*}
+	k \approx -\frac{\triangle P}{\triangle V/V} = \frac{\triangle P}{\triangle \rho/\rho} \\\\
+	k = -V(\frac{\partial P}{\partial V})_{T}
+\end{align*}
 $$
 
 
-Se define el _módulo de elasticidad volumétrico_ o _coeficiente de compresibilidad_ como el incremento de presión necesario para generar un decremento de volumen unitario.
 
-Esto sucede a temperatura constante.
 Se deduce $k$ en términos de $\rho$
 
 $$
