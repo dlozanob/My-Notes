@@ -187,7 +187,7 @@ $$
 
 Puede aproximarse de la forma:
 $$
-	\beta \approx \frac{\triangle V/V_{0}}{\triangle T} = \frac{\triangle \rho/\rho_{0}}{\triangle T}
+	\beta \approx \frac{\triangle V/V_{0}}{\triangle T} = -\frac{\triangle \rho/\rho_{0}}{\triangle T}
 $$
 
 
