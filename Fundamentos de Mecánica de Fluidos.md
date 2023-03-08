@@ -232,14 +232,14 @@ $$
 \begin{align*}
  d\gamma \approx tan(\gamma) = \frac{da}{l} \\\\
  d\gamma = \frac{v}{l}dt \\\\
- \dot \gamma = \frac{\gamma}{dt} = \frac{v}{l}
+ \dot \gamma = \frac{d\gamma}{dt} = \frac{v}{l}
 \end{align*}
 $$
 
 En realidad, esto no sucede así, el perfil lineal de velocidades es una aproximación.
 Existe una deformación considerable de tal perfil en la realidad.
 
-Así que un contexto más general se describe:
+Así que un contexto más general se describe (representa la relación de deformación):
 
 $$
 	\dot \gamma = \frac{dv}{dy}
