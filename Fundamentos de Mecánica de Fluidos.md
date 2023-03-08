@@ -86,9 +86,7 @@ Para trabajar con fluidos, se debe suponer una densidad uniforme donde cada una 
 
 - Sistemas cerrados (masa de control): La cantidad de materia en estudio se mantiene constante.
 
-
 ![[Pasted image 20230212135057.png]]
-
 
 - Sistemas abiertos (volúmen de control): El volúmen o espacio en estudio se mantiene fijo.
 
