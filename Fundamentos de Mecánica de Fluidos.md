@@ -239,7 +239,7 @@ $$
 En realidad, esto no sucede así, el perfil lineal de velocidades es una aproximación.
 Existe una deformación considerable de tal perfil en la realidad.
 
-Así que un contexto más general se describe (representa la relación de deformación):
+Así que un contexto más general se describe (representa la razón de deformación):
 
 $$
 	\dot \gamma = \frac{dv}{dy}
@@ -260,16 +260,16 @@ $$
 $$
 Tiene unidades $[ML^{-1}T_{-1}]$ o $[Pa*s]$.
 
+Quiere decir que un fluido muy viscoso sometido a un esfuerzo cortante, no presenta mucha deformación como si lo haría un fluido menos viscoso.
+
 Para los fluidos no newtonianos se describe la _viscosidad aparente_ como la pendiente del esfuerzo cortante contra la razón de deformación.
 
-Los plásticos de Bingham se comportan como sólidos hasta cierto punto, pero después de que se excede cierto esfuerzo, esfuerzo y deformación adquieren una relación lineal.
+Los plásticos de Bingham se comportan como sólidos hasta cierto punto, pero después de que se excede cierto esfuerzo y deformación adquieren una relación lineal.
 
 >[!Note]
 >La clasificación _SAE_ es para aceites para motor
 
-
 La viscosidad aparente se define también como:
-
 
 | Fluido | Ecuación |
 |-|-|
