@@ -18,18 +18,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "c423902645ac5995",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LaTeX.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ]
       }
@@ -182,23 +170,25 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "abed2df76f33d216",
+  "active": "f7ceb602d324e753",
   "lastOpenFiles": [
     "LaTeX.md",
+    "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
+    "Señales y Sistemas II.md",
+    "Automatización, Control y Robótica.md",
+    "Main.md",
+    "Fundamentos de Mecánica de Fluidos.md",
     "Tema 4. Matemáticas financieras.md",
     "Módulo 1. Economía y matemática financiera.md",
     "Finanzas.md",
     "Tema 3. Indicadores macroeconómicos.md",
-    "Fundamentos de Mecánica de Fluidos.md",
     "Fórmulas Financieras Excel.md",
     "Pasted image 20230305224240.png",
     "Pasted image 20230305224124.png",
     "Pasted image 20230305222805.png",
     "Excalidraw/myDrawingSpace.excalidraw.md",
-    "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
     "Pasted image 20230305213457.png",
     "Pasted image 20230305213422.png",
-    "Señales y Sistemas II.md",
     "Cap. 1. Modelos de sistemas lineales y no lineales.md",
     "Servomecanismos.md",
     "LaTeX Template.md",
@@ -213,7 +203,6 @@
     "Tema 1. Economía.md",
     "Electrónica Digital II.md",
     "Ingeniería Electrónica.md",
-    "Automatización, Control y Robótica.md",
     "Obsidian basics.md",
     "HTML.md",
     "CSS.md"
