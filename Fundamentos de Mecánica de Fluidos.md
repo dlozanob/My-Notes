@@ -116,7 +116,7 @@ Algunas presiones de acuerdo a la temperatura son:
 
 ![[Pasted image 20230305222805.png]]
 
->[!Note]
+>[!Info]
 >Bogotá se encuentra aproximadamente a 77 kPa
 >Siendo así, la temperatura de ebullición (temperatura de saturación) del agua ronda los 92 °C
 
