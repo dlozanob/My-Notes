@@ -156,7 +156,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: finanzas",
+                "query": "file: fluidos",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -182,7 +182,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f7ceb602d324e753",
+  "active": "abed2df76f33d216",
   "lastOpenFiles": [
     "LaTeX.md",
     "Tema 4. Matemáticas financieras.md",
