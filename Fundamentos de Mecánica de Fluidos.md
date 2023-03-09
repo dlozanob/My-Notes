@@ -271,7 +271,7 @@ Los valores de viscosidad son hallados mediante:
 
 | Fluido | Ecuación |
 |-|-|
-| Líquidos | $\mu = \biggr() \frac{aT^{1/2}}{1 + b/T}$ |
+| Líquidos | $\mu = \frac{aT^{1/2}}{1 + b/T}$ |
 | Gases | $\mu = a10^{b(T - c)}$ |
 
 Donde $a, b$ y $c$ son determinados experimentalmente.
