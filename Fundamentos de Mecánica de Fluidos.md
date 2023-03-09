@@ -253,6 +253,7 @@ $$
 \end{align*}
 $$
 
+
 - _Viscosidad dinámica_ $\mu$ :
 
 $$
@@ -266,11 +267,21 @@ La _viscosidad dinámica_ o _viscosidad absoluta_ es una propiedad intrínseca d
 
 ![[Pasted image 20230309121458.png]]
 
+Los valores de viscosidad son hallados mediante:
+
+| Fluido | Ecuación |
+|-|-|
+| Líquidos | $\mu = \frac{aT^{1/2}}{1 + b/T}$ |
+| Gases | $\mu = a10^{b(T - c)}$ |
+
+Donde $a, b$ y $c$ son determinados experimentalmente.
 
 
-
+- _Viscosidad aparente_ :
 
 Para los fluidos no newtonianos se describe la _viscosidad aparente_ como la pendiente del esfuerzo cortante contra la razón de deformación.
+Esta depende del tipo de fluido y de sus condiciones de flujo ().
+
 
 ![[Pasted image 20230309120512.png]]
 
@@ -279,14 +290,7 @@ Los plásticos de Bingham se comportan como sólidos hasta cierto punto, pero de
 
 
 
-La viscosidad aparente se define también como:
 
-| Fluido | Ecuación |
-|-|-|
-| Líquidos | $\mu = \frac{aT^{1/2}}{1 + b/T}$ |
-| Gases | $\mu = a10^{b(T - c)}$ |
-
-Donde $a, b$ y $c$ son determinados experimentalmente.
 
 
 
