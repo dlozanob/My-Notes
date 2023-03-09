@@ -270,8 +270,7 @@ La viscosidad no es constante en algunos fluidos.
 
 Los plásticos de Bingham se comportan como sólidos hasta cierto punto, pero después de que se excede cierto esfuerzo y deformación adquieren una relación lineal.
 
->[!Note]
->La clasificación _SAE_ es para aceites para motor
+
 
 La viscosidad aparente se define también como:
 
