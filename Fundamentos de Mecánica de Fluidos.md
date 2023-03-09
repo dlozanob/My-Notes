@@ -258,11 +258,15 @@ Se define la _viscosidad dinámica_ $\mu$ como:
 $$
 	\tau = \mu \frac{du}{dy}
 $$
-Tiene unidades $[ML^{-1}T_{-1}]$ o $[Pa*s]$.
+Tiene unidades $[ML^{-1}T^{-1}] = [FTL^{-2}] = [Pa*s]$.
 
 Quiere decir que un fluido muy viscoso sometido a un esfuerzo cortante, no presenta mucha deformación como si lo haría un fluido menos viscoso.
 
 Para los fluidos no newtonianos se describe la _viscosidad aparente_ como la pendiente del esfuerzo cortante contra la razón de deformación.
+
+![[Pasted image 20230309120512.png]]
+
+La viscosidad no es constante en algunos fluidos.
 
 Los plásticos de Bingham se comportan como sólidos hasta cierto punto, pero después de que se excede cierto esfuerzo y deformación adquieren una relación lineal.
 

@@ -79,6 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Fundamentos de Mecánica de Fluidos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,6 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Fundamentos de Mecánica de Fluidos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +118,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Fundamentos de Mecánica de Fluidos.md"
+              }
             }
           },
           {
@@ -166,8 +170,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9d93bca41a6a57a5",
+  "active": "f7ceb602d324e753",
   "lastOpenFiles": [
+    "Pasted image 20230309120512.png",
     "Fundamentos de Mecánica de Fluidos.md",
     "Pasted image 20230308173632.png",
     "Pasted image 20230308173350.png",
