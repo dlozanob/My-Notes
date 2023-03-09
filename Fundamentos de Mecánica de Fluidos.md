@@ -271,7 +271,7 @@ Los valores de viscosidad son hallados mediante:
 
 | Fluido | Ecuación |
 |-|-|
-| Líquidos | $\mu = \frac{aT^{1/2}}{1 + b/T}$ |
+| Líquidos | $\mu = \biggr() \frac{aT^{1/2}}{1 + b/T}$ |
 | Gases | $\mu = a10^{b(T - c)}$ |
 
 Donde $a, b$ y $c$ son determinados experimentalmente.
@@ -280,7 +280,7 @@ Donde $a, b$ y $c$ son determinados experimentalmente.
 - _Viscosidad aparente_ :
 
 Para los fluidos no newtonianos se describe la _viscosidad aparente_ como la pendiente del esfuerzo cortante contra la razón de deformación.
-Esta depende del tipo de fluido y de sus condiciones de flujo ().
+Esta depende del tipo de fluido y de sus condiciones de flujo (bombeo por tubería, flujo libre por una superficie, etc).
 
 
 ![[Pasted image 20230309120512.png]]
