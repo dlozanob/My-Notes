@@ -29,7 +29,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fundamentos de Mecánica de Fluidos.md",
+                "file": "Excalidraw/myDrawingSpace.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fundamentos de Mecánica de Fluidos.md",
+                "file": "Excalidraw/myDrawingSpace.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fundamentos de Mecánica de Fluidos.md"
+                "file": "Excalidraw/myDrawingSpace.excalidraw.md"
               }
             }
           },
@@ -180,10 +181,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f7ceb602d324e753",
+  "active": "5eb7300a3fddae86",
   "lastOpenFiles": [
-    "Excalidraw/myDrawingSpace.excalidraw.md",
     "Fundamentos de Mecánica de Fluidos.md",
+    "Pasted image 20230310173732.png",
+    "Excalidraw/myDrawingSpace.excalidraw.md",
     "Pasted image 20230310172619.png",
     "Pasted image 20230309121458.png",
     "Pasted image 20230309120512.png",
@@ -203,7 +205,6 @@
     "Pasted image 20230305224124.png",
     "Pasted image 20230305222805.png",
     "Pasted image 20230305213457.png",
-    "Pasted image 20230305213422.png",
     "Cap. 1. Modelos de sistemas lineales y no lineales.md",
     "Servomecanismos.md",
     "LaTeX Template.md",
