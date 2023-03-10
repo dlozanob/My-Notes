@@ -301,7 +301,7 @@ Se tiene un viscosímetro.
 
 ![[Pasted image 20230310172619.png]]
 
-Como la pared de fluido es muy delgada ($R_{ext} - R_{int} = 0.0015$ m) se acepta tomar la razón de la deformación como lineal, entonces:
+Como la pared de fluido es muy delgada ($R_{ext} - R_{in} = 0.0015$ m) se acepta tomar la razón de la deformación como lineal, entonces:
 $$
 	\frac{du}{dr} = \frac{\triangle u}{\triangle r}
 $$
@@ -311,15 +311,30 @@ En este sentido tomamos a $r$ en vez de $y$.
 
 De tal manera:
 $$
-	\frac{\triangle u}{\triangle r} = \frac{\omega R_{int} - 0}{R_{in} - R_{ext}} = -400\pi[s^{-1}]
+	\frac{\triangle u}{\triangle r} = \frac{\omega R_{in} - 0}{R_{in} - R_{ext}} = -400\pi[s^{-1}]
 $$ 
+Ahora se halla el esfuerzo cortante:
+
+![[Pasted image 20230310174311.png]]
+
+$$
+	F = \frac{T}{R_{in}} = 30[N]
+$$
+$$
+	A = \pi R_{in}^2l = 0.15[m^2]
+$$
+$$
+	\tau = \frac{F}{A} = 198.94[Pa]
+$$
+
+Por último, calculamos la viscosidad:
+$$
+	\mu = \frac{\tau}{\frac{du}{dr}} = 0.158[Pa*s]
+$$
 
 
 
-
-
-
-
+## Tensión superficial
 
 
 
