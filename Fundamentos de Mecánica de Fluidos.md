@@ -267,7 +267,7 @@ La _viscosidad dinámica_ o _viscosidad absoluta_ es una propiedad intrínseca d
 
 ![[Pasted image 20230309121458.png]]
 
-Los valores de viscosidad son hallados mediante:
+Esta es determinada mediante:
 
 | Fluido | Ecuación |
 |-|-|
