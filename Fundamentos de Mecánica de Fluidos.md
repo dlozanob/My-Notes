@@ -301,6 +301,7 @@ Se tiene un viscosímetro.
 
 ![[Pasted image 20230310172619.png]]
 
+Como la pared de fluido es muy delgada ($R_{ext} - R_{int} = 0.0015$ m) se acepta tomar la razón de la de
 
 
 
