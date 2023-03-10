@@ -291,7 +291,13 @@ Los plásticos de Bingham se comportan como sólidos hasta cierto punto, pero de
 
 - __Ejercicio__ :
 
-Se tiene
+Se tiene un viscosímetro.
+	- $T = 1.8$ N/m
+	- $l = 0.4$ m
+	- $R_{in} = 0.06$ m
+	- $R_{ext} = 0.0615$ m
+	- $\omega = 10\pi$ Rad/s
+	- $\mu = ?$
 
 ![[Pasted image 20230310172619.png]]
 
