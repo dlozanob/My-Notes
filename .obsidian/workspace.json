@@ -18,6 +18,14 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5eb7300a3fddae86",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ]
       }
@@ -172,9 +180,9 @@
   },
   "active": "f7ceb602d324e753",
   "lastOpenFiles": [
+    "Fundamentos de Mecánica de Fluidos.md",
     "Pasted image 20230309121458.png",
     "Pasted image 20230309120512.png",
-    "Fundamentos de Mecánica de Fluidos.md",
     "Pasted image 20230308173632.png",
     "Pasted image 20230308173350.png",
     "LaTeX.md",
@@ -199,7 +207,6 @@
     "Mecanismos.md",
     "Módulo 2.md",
     "Pasted image 20230227224147.png",
-    "Pasted image 20230227221213.png",
     "Tema 2. Función de oferta y demanda.md",
     "Tema 1. Economía.md",
     "Electrónica Digital II.md",
