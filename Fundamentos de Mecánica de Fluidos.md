@@ -299,3 +299,7 @@ Los plásticos de Bingham se comportan como sólidos hasta cierto punto, pero de
 
 
 
+
+
+
+
