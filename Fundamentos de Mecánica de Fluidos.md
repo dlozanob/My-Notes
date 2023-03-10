@@ -289,6 +289,12 @@ Esta depende del tipo de fluido y de sus condiciones de flujo (bombeo por tuber�
 Los plásticos de Bingham se comportan como sólidos hasta cierto punto, pero después de que se excede cierto esfuerzo y deformación adquieren una relación lineal.
 
 
+- __Ejercicio__ :
+
+Se tiene
+
+![[Pasted image 20230310172619.png]]
+
 
 
 
