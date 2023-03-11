@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7e59a3d86cea6cc0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Propiedades de los Fluidos.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e3df9337cec95ca7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Fundamentos de Mecánica de Fluidos.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -186,8 +173,9 @@
   "active": "e3df9337cec95ca7",
   "lastOpenFiles": [
     "Propiedades de los Fluidos.md",
-    "Excalidraw/myDrawingSpace.excalidraw.md",
+    "Estática de Fluidos.md",
     "Fundamentos de Mecánica de Fluidos.md",
+    "Excalidraw/myDrawingSpace.excalidraw.md",
     "Pasted image 20230310205707.png",
     "Pasted image 20230310205556.png",
     "Pasted image 20230310205456.png",
@@ -219,7 +207,6 @@
     "Electrónica Digital II.md",
     "Ingeniería Electrónica.md",
     "Obsidian basics.md",
-    "HTML.md",
-    "CSS.md"
+    "HTML.md"
   ]
 }
