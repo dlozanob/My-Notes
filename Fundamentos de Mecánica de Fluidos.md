@@ -370,5 +370,12 @@ $$
 	\sigma_{s} = \frac{W}{2\triangle A}
 $$
 
+![[Pasted image 20230310192749.png]]
+
+>[!Info]
+>- La tensión superficial disminuye al aumentar la temperatura
+>- Los insectos pueden posarse en el agua por la alta tensión superficial de esta
+>- El jabón rompe la tensión superficial, por lo que hace fluir la grasa
+
 
 
