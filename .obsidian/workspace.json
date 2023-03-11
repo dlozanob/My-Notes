@@ -13,23 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fundamentos de Mecánica de Fluidos.md",
-                "mode": "source",
+                "file": "Propiedades de los Fluidos.md",
+                "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "5eb7300a3fddae86",
+            "id": "e3df9337cec95ca7",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/myDrawingSpace.excalidraw.md"
+                "file": "Fundamentos de Mecánica de Fluidos.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -154,7 +157,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: latex",
+                "query": "file: fluidos",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -180,11 +183,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7e59a3d86cea6cc0",
+  "active": "e3df9337cec95ca7",
   "lastOpenFiles": [
-    "Pasted image 20230310205707.png",
+    "Propiedades de los Fluidos.md",
     "Excalidraw/myDrawingSpace.excalidraw.md",
     "Fundamentos de Mecánica de Fluidos.md",
+    "Pasted image 20230310205707.png",
     "Pasted image 20230310205556.png",
     "Pasted image 20230310205456.png",
     "Pasted Image 20230310205455_722.png",
@@ -194,7 +198,6 @@
     "Pasted image 20230310203642.png",
     "Pasted Image 20230310203620_714.png",
     "Pasted image 20230310203425.png",
-    "Pasted Image 20230310203252_683.png",
     "LaTeX.md",
     "![[Pasted image 20230310190225.png.md",
     "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",

@@ -1,9 +1,4 @@
-# Fundamentos de Mecánica de Fluidos
-
-- [[Propiedades de los Fluidos]]
-- [[Estática de Fluidos]]
-
-
+# Propiedades de los fluidos
 
 Un fluido es aquel que adquiere la forma del recipiente que lo contiene.
 Puede ser líquido, gas o plasma.
