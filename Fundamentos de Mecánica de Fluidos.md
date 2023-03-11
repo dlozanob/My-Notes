@@ -380,5 +380,6 @@ $$
 
 - __Ejercicio__ :
 
-
+Se tiene una pompa de jabón de radio $r$, donde la presión interna es mayor a la externa ($p_{i} > p_{e}$).
+	- $p_{i} - p_{e} = f(\sigma_{s}, r) = ?$
 

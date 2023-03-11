@@ -29,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/myDrawingSpace.excalidraw.md",
+                "file": "Fundamentos de Mecánica de Fluidos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/myDrawingSpace.excalidraw.md",
+                "file": "Fundamentos de Mecánica de Fluidos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/myDrawingSpace.excalidraw.md"
+                "file": "Fundamentos de Mecánica de Fluidos.md"
               }
             }
           },
@@ -181,10 +180,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5eb7300a3fddae86",
+  "active": "7e59a3d86cea6cc0",
   "lastOpenFiles": [
-    "Fundamentos de Mecánica de Fluidos.md",
     "Excalidraw/myDrawingSpace.excalidraw.md",
+    "Fundamentos de Mecánica de Fluidos.md",
     "Pasted image 20230310192749.png",
     "Pasted Image 20230310192747_267.png",
     "Pasted image 20230310191647.png",
