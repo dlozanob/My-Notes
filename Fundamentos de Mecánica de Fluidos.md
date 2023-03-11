@@ -389,7 +389,13 @@ Al tomar la mitad:
 
 La fuerza actúa a lo largo del perímetro, luego:
 $$
-	F = 2\sigma_{s}(2\pi r) = 4\sigma_{s}\pi r
+	F_{s} = 2\sigma_{s}(2\pi r) = 4\sigma_{s}\pi r
 $$
+$$
+	F_{s} = \triangle P*A	
+$$
+$$ x + y = 2.
+x - y = 4 $$
+
 
 
