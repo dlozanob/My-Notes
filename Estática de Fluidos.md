@@ -36,8 +36,14 @@ $$
 La fuerza en este punto es:
 $$
 \displaylines{
-	\biggr(p + \frac{\partial p}{\partial y}\frac{\partial y}{2}\biggr)**
+	F(x, y + \frac{\partial y}{2}, z) = \biggr(p + \frac{\partial p}{\partial y}\frac{\partial y}{2}\biggr)\partial x\partial z
 }
 $$
 
-
+Así mismo, se obtiene la fuerza en el lado izquierdo, y se suman ambas fuerzas:
+$$
+	\displaylines{
+	 \partial F_{y} = \biggr(p - \frac{\partial p}{\partial y}\frac{\partial y}{2}\biggr)\partial x\partial z - \biggr(p + \frac{\partial p}{\partial y}\frac{\partial y}{2}\biggr)\partial x\partial z \\\\
+		\partial F_{y} = -\frac{\partial p}{\partial y}\partial x\partial y\partial z
+}
+$$
