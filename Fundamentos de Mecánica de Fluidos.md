@@ -452,7 +452,8 @@ $$
 }
 $$
 
->[!]
+>[!Note]
+>El volumen no considera la porción formada por el menisco. Por lo que esto es una aproximación.
 
 | Menisco Cóncavo | Menisco Convexo |
 |-|-|
