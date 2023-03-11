@@ -392,10 +392,16 @@ $$
 	F_{s} = 2\sigma_{s}(2\pi r) = 4\sigma_{s}\pi r
 $$
 $$
-	F_{s} = \triangle P*A	
+	F_{s} = \triangle P*A = P(\pi r^2)
 $$
 $$
 \displaylines{
-	
+	4\sigma_{s}\pi r = \triangle P(\pi r^2) \\
+	\triangle P = \frac{4\sigma_{s}}{r}
 }
 $$
+Entonces la ecuación de diseño de una burbuja es:
+$$
+	r = \frac{4\sigma_{s}}{\triangle P}
+$$
+Por tanto, se deduce que al soplar duro, $\triangle P$ aumenta, haciendo que el radio disminuya, y viceversa.

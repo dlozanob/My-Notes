@@ -28,18 +28,6 @@
                 "file": "Excalidraw/myDrawingSpace.excalidraw.md"
               }
             }
-          },
-          {
-            "id": "f0dd743209d5be39",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LaTeX.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ]
       }
@@ -194,9 +182,9 @@
   },
   "active": "7e59a3d86cea6cc0",
   "lastOpenFiles": [
-    "LaTeX.md",
-    "Fundamentos de Mecánica de Fluidos.md",
     "Excalidraw/myDrawingSpace.excalidraw.md",
+    "Fundamentos de Mecánica de Fluidos.md",
+    "LaTeX.md",
     "Pasted image 20230310200741.png",
     "Pasted image 20230310200725.png",
     "Pasted image 20230310200710.png",
