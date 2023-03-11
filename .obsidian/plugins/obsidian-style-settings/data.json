@@ -1,6 +1,6 @@
 {
   "background-settings@@background-settings-workplace-background-image": true,
-  "background-settings@@background-settings-workplace-theme-dark": "background-settings-workplace-theme-dark-cosmic-sky",
+  "background-settings@@background-settings-workplace-theme-dark": "background-settings-workplace-theme-dark-custom-option",
   "background-settings@@blur-depth": 0,
   "background-settings@@brightness-4-bg": 0.5,
   "background-settings@@background-image-settings-switch": false,
@@ -8,5 +8,5 @@
   "background-settings@@toggle-nonoverlapping-bg": false,
   "background-settings@@toggle-bg-panel-page": false,
   "background-settings@@saturate-4-bg": 2,
-  "background-settings@@background-settings-workplace-theme-dark-custom": "url(\"https://i.pinimg.com/originals/60/0c/92/600c92f7c1b083493b9f99cef02ecf8d.jpg\")"
+  "background-settings@@background-settings-workplace-theme-dark-custom": "url(\"https://static.wikia.nocookie.net/bloodborne/images/4/4b/Bloodborne%E2%84%A2_20150622132043_%E2%80%94_%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F.jpg/revision/latest?cb=20151013163845"
 }
