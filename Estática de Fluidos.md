@@ -5,4 +5,6 @@ Se supone que las partículas se encuentran en un marco inercial de referencia, 
 
 >[!Note]
 >- $1$ bar $= 100$ kPa
->- 
+>- $1$ atm $= 101325$ Pa
+>- $1$ psi $= 1$ $lb_{f}/in^2$ $= 6894.757$ Pa
+
