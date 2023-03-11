@@ -344,6 +344,18 @@ Las moléculas en la superficie de un fluido se encuentran dinámicamente desequ
 ![[Pasted image 20230310190140.png]]
 
 
+Consideramos la siguiente configuración:
+
+![[Pasted image 20230310191232.png]]
+
+Las fuerzas de cohesión generan una fuerza $F$ para minimizar la superficie. En este caso se está equilibrando con un dinamómetro para medirla.
+
+Se define la _tensión superficial_ ($\sigma_{s}$) como la fuerza por unidad de longitud. 
+
+Cada cara ejerce tensión superficial:
+
+![[Pasted image 20230310191647.png]]
+
 
 
 

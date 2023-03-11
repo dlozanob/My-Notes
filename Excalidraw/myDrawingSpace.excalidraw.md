@@ -10,7 +10,7 @@ tags: [excalidraw]
 # Text Elements
 
 # Embedded files
-0016c7f1ef01b5aaa3c00d3b2e254e55377c169b: [[Pasted Image 20230310190451_111.png]]
+e645c5be7782eaf6242d5880542a79b4f0622d39: [[Pasted Image 20230310191603_381.png]]
 
 %%
 # Drawing
@@ -20,6 +20,70 @@ tags: [excalidraw]
 	"version": 2,
 	"source": "https://excalidraw.com",
 	"elements": [
+		{
+			"id": "tbYyUtdjDRT8Bbg0pK6Eu",
+			"type": "image",
+			"x": -412.9264705882353,
+			"y": -236.26470588235298,
+			"width": 342.82352941176464,
+			"height": 97.86274509803918,
+			"angle": 0,
+			"strokeColor": "transparent",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 981349699,
+			"version": 78,
+			"versionNonce": 821898509,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1678493761809,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "e645c5be7782eaf6242d5880542a79b4f0622d39",
+			"scale": [
+				1,
+				1
+			]
+		},
+		{
+			"id": "hHV0nmBdwGfM83Jo3Ho3J",
+			"type": "image",
+			"x": -373.93402380407406,
+			"y": -373.4117647058823,
+			"width": 426.0151064316775,
+			"height": 319.66680978960915,
+			"angle": 0,
+			"strokeColor": "transparent",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 145469389,
+			"version": 74,
+			"versionNonce": 1603681805,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1678493757317,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "48a20d30b43ecdb3ad3d173bdf14503a48ef7933",
+			"scale": [
+				1,
+				1
+			]
+		},
 		{
 			"id": "_kmgSZWvhFKRRr2rMKzNa",
 			"type": "image",
@@ -38,11 +102,11 @@ tags: [excalidraw]
 			"groupIds": [],
 			"roundness": null,
 			"seed": 893175501,
-			"version": 42,
-			"versionNonce": 501593155,
-			"isDeleted": false,
+			"version": 43,
+			"versionNonce": 407647203,
+			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1678493100149,
+			"updated": 1678493545479,
 			"link": null,
 			"locked": false,
 			"status": "pending",
