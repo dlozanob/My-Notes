@@ -146,7 +146,7 @@ En estos puntos sucederá el fenómeno de cavitación.
 Se define el _módulo de elasticidad volumétrico_ o _coeficiente de compresibilidad_   (_bulk modulus_) como el incremento de presión necesario para generar un decremento de volumen unitario a temperatura constante.
 
 $$
-	k = -V \biggr(\frac{\partial P}{\partial V}\biggr)_{T} = \rho \biggr(\frac{\partial P}{\partial \rho}\biggr)_{T}
+	\boxed{k = -V \biggr(\frac{\partial P}{\partial V}\biggr)_{T} = \rho \biggr(\frac{\partial P}{\partial \rho}\biggr)_{T}}
 $$
 
 Se puede tomar la aproximación:
@@ -175,14 +175,14 @@ Sustituir en $k$ para obtener $k = \rho \biggr(\frac{\partial P}{\partial \rho}\
 - _Compresibilidad isotérmica_ :
 
 $$
-	\alpha = \frac{1}{k}
+	\boxed{\alpha = \frac{1}{k}}
 $$
 
 - _Coeficiente de expansión volumétrico_ :
 Se define el _coeficiente de expansión volumétrico_ o _módulo de elasticidad volumétrico_ como el incremento del volumen relativo ante un incremento de temperatura.
 
 $$
-	\beta = \frac{1}{V}\biggr(\frac{\partial V}{\partial T}\biggr)_{P} = -\frac{1}{\rho}\biggr(\frac{\partial \rho}{\partial T}\biggr)_{P}
+	\boxed{\beta = \frac{1}{V}\biggr(\frac{\partial V}{\partial T}\biggr)_{P} = -\frac{1}{\rho}\biggr(\frac{\partial \rho}{\partial T}\biggr)_{P}}
 $$
 
 Puede aproximarse de la forma:
@@ -257,7 +257,7 @@ $$
 - _Viscosidad dinámica_ $\mu$ :
 
 $$
-	\tau = \mu \frac{du}{dy}
+	\boxed{\tau = \mu \frac{du}{dy}}
 $$
 Tiene unidades $[ML^{-1}T^{-1}] = [FTL^{-2}] = [Pa*s]$.
 
@@ -355,7 +355,7 @@ Cada cara ejerce tensión superficial:
 
 Debido a que el sistema está equilibrado:
 $$
-	F = \sigma_{s}2b
+	\boxed{F = \sigma_{s}2b}
 $$
 
 Así mismo, el trabajo realizado por esta fuerza es:
