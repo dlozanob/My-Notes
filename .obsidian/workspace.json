@@ -89,6 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Fundamentos de Mecánica de Fluidos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Fundamentos de Mecánica de Fluidos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +128,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Fundamentos de Mecánica de Fluidos.md"
+              }
             }
           },
           {
@@ -176,18 +180,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9d93bca41a6a57a5",
+  "active": "f7ceb602d324e753",
   "lastOpenFiles": [
-    "Fundamentos de Mecánica de Fluidos.md",
-    "Pasted image 20230310174311.png",
     "Excalidraw/myDrawingSpace.excalidraw.md",
+    "Fundamentos de Mecánica de Fluidos.md",
+    "Pasted image 20230310190140.png",
+    "Pasted image 20230310190130.png",
+    "Pasted Image 20230310190127_152.png",
+    "Pasted image 20230310174311.png",
     "Pasted image 20230310174238.png",
     "Pasted image 20230310173732.png",
     "Pasted image 20230310172619.png",
     "Pasted image 20230309121458.png",
     "Pasted image 20230309120512.png",
     "Pasted image 20230308173632.png",
-    "Pasted image 20230308173350.png",
     "LaTeX.md",
     "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
     "Señales y Sistemas II.md",
@@ -198,8 +204,6 @@
     "Finanzas.md",
     "Tema 3. Indicadores macroeconómicos.md",
     "Fórmulas Financieras Excel.md",
-    "Pasted image 20230305224240.png",
-    "Pasted image 20230305224124.png",
     "Cap. 1. Modelos de sistemas lineales y no lineales.md",
     "Servomecanismos.md",
     "LaTeX Template.md",
