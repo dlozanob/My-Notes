@@ -444,8 +444,15 @@ La fuerza de cohesión $\vec{F_{\sigma}}$ está empujando la columna hacia arrib
 ![[Pasted image 20230310205707.png]]
 
 $$
-	F_{\sigma} = 2\sigma_{s}
+\displaylines{
+	F_{\sigma}Cos(\theta) = W \\
+	(2\pi r\sigma_{s})Cos(\theta) = \rho gV \\
+	(2\pi r\sigma_{s})Cos(\theta) = \rho g(\pi r^2h) \\\\
+	h = \frac{2\sigma_{s}Cos(\theta)}{\rho gr}
+}
 $$
+
+>[!]
 
 | Menisco Cóncavo | Menisco Convexo |
 |-|-|
