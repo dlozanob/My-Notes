@@ -415,7 +415,7 @@ El _menisco_ o _ángulo de contacto_ es el ángulo formado entre la superficie s
 
 ![[Pasted image 20230310203642.png]]
 
-| | Menisco cóncavo | Menisco Convexo |
+| | Menisco Cóncavo | Menisco Convexo |
 |-|-|-|
 | $\theta$ | $< 90°$ | $> 90°$ |
 | Fuerza predominante | Adhesión | Cohesión |
@@ -438,4 +438,16 @@ Las fuerzas de adhesión y de cohesión hacen que el líquido baje o suba. A est
 
 >[!Note]
 >La capilaridad está presente en todo momento, pero en secciones angostas es más notorio
+
+La fuerza de cohesión $\vec{F_{\sigma}}$ está empujando la columna hacia arriba.
+
+![[Pasted image 20230310205707.png]]
+
+$$
+	F_{\sigma} = 2\sigma_{s}
+$$
+
+| Menisco Cóncavo | Menisco Convexo |
+|-|-|
+| Asciende | Desciende |
 
