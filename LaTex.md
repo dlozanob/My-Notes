@@ -99,6 +99,10 @@ It'll be shown enumerated.
 \]
 ```
 
+``` LaTeX
+\displaylines{x = a + b \\ y = b + c}
+```
+
 
 - Multiple math expressions:
 
@@ -108,9 +112,6 @@ It'll be shown enumerated.
 	d = g + h
 \end{gather*}
 ```
-
-
-- Multiple math expressions:
 
 ```latex
 \begin{multline*}

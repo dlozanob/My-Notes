@@ -394,8 +394,8 @@ $$
 $$
 	F_{s} = \triangle P*A	
 $$
-$$ x + y = 2.
-x - y = 4 $$
-
-
-
+$$
+\displaylines{
+	
+}
+$$
