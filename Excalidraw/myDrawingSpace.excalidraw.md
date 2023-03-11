@@ -8,10 +8,6 @@ tags: [excalidraw]
 
 
 # Text Elements
-
-# Embedded files
-01b899fa125a12fb9c7a23b251c6c1434d1a6a1f: [[Pasted Image 20230310192747_267.png]]
-
 %%
 # Drawing
 ```json
@@ -20,6 +16,32 @@ tags: [excalidraw]
 	"version": 2,
 	"source": "https://excalidraw.com",
 	"elements": [
+		{
+			"id": "BAfUVitL_zJyYGRzJUwDl",
+			"type": "ellipse",
+			"x": -280.3382352941176,
+			"y": -244.00000000000006,
+			"width": 354.1176470588235,
+			"height": 189.41176470588238,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 639049827,
+			"version": 20,
+			"versionNonce": 1272422701,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1678496519866,
+			"link": null,
+			"locked": false
+		},
 		{
 			"id": "jwRkI30iZQhphKNLRaAEf",
 			"type": "image",
@@ -38,11 +60,11 @@ tags: [excalidraw]
 			"groupIds": [],
 			"roundness": null,
 			"seed": 370669027,
-			"version": 28,
-			"versionNonce": 705223843,
-			"isDeleted": false,
+			"version": 29,
+			"versionNonce": 447434819,
+			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1678494465399,
+			"updated": 1678496509353,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -6566,12 +6588,53 @@ tags: [excalidraw]
 			"baseline": 14,
 			"containerId": null,
 			"originalText": "![[Pasted image 20230310172619.png]]"
+		},
+		{
+			"id": "zycuT6sk9V891LDa9Cigu",
+			"type": "arrow",
+			"x": -5.044117647058783,
+			"y": -224,
+			"width": 211.76470588235293,
+			"height": 111.76470588235293,
+			"angle": 0,
+			"strokeColor": "#c92a2a",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 883100013,
+			"version": 41,
+			"versionNonce": 125202669,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1678496513176,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-211.76470588235293,
+					111.76470588235293
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": "triangle"
 		}
 	],
 	"appState": {
 		"theme": "light",
 		"viewBackgroundColor": "#ffffff",
-		"currentItemStrokeColor": "#c92a2a",
+		"currentItemStrokeColor": "#000000",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "solid",
 		"currentItemStrokeWidth": 1,
