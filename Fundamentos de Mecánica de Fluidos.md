@@ -339,8 +339,7 @@ $$
 - _Fuerzas de cohesión_ : Fuerzas de atracción entre las moléculas del fluido
 - _Fuerzas de adhesión_ : Fuerzas de atracción entre las moléculas de la superficie del fluido y otra superficie
 
-Las moléculas en la superficie de un fluido se encuentran dinámicamente desequilibradas, por tanto, 
-
+Las moléculas en la superficie de un fluido se encuentran dinámicamente desequilibradas, por tanto, los fluidos tienden a tener una forma esférica, ya que, así se reduce el área superficial.
 
 ![[Pasted image 20230310190140.png]]
 
