@@ -432,5 +432,10 @@ El _menisco_ o _ángulo de contacto_ es el ángulo formado entre la superficie s
 
 ## Capilaridad
 
+Las fuerzas de adhesión y de cohesión hacen que el líquido baje o suba. A esto se le conoce como _acción capilar_ o _capilaridad_.
 
+![[Pasted image 20230310204820.png]]
+
+>[!Note]
+>La capilaridad está presente en todo momento, pero en secciones angostas es más notorio
 
