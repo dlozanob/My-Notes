@@ -283,7 +283,7 @@ Para los fluidos no newtonianos se describe la _viscosidad aparente_ como la pen
 Esta depende del tipo de fluido y de sus condiciones de flujo (bombeo por tubería, flujo libre por una superficie, etc).
 
 
-![[Pasted image 20230309120512.png]]
+![[Pasted image 20230310190504.png]]
 
 
 Los plásticos de Bingham se comportan como sólidos hasta cierto punto, pero después de que se excede cierto esfuerzo y deformación adquieren una relación lineal.
@@ -299,7 +299,7 @@ Se tiene un viscosímetro.
 	- $\omega = 10\pi$ Rad/s
 	- $\mu = ?$
 
-![[Pasted image 20230310172619.png]]
+![[Pasted image 20230310190355.png]]
 
 Como la pared de fluido es muy delgada ($R_{ext} - R_{in} = 0.0015$ m) se acepta tomar la razón de la deformación como lineal, entonces:
 $$
@@ -336,6 +336,10 @@ $$
 
 ## Tensión superficial
 
+- _Fuerzas de cohesión_ : Fuerzas de atracción entre las moléculas del fluido
+- _Fuerzas de adhesión_ : Fuerzas de atracción entre las moléculas de la superficie del fluido y otra superficie
+
+Las moléculas en la superficie de un fluido se encuentran dinámicamente desequilibradas, por tanto, 
 
 
 ![[Pasted image 20230310190140.png]]
