@@ -415,8 +415,23 @@ El _menisco_ o _ángulo de contacto_ es el ángulo formado entre la superficie s
 
 ![[Pasted image 20230310203642.png]]
 
-En la imagen se ve un menisco cóncavo
+| | Menisco cóncavo | Menisco Convexo |
+|-|-|-|
+| $\theta$ | $< 90°$ | $> 90°$ |
+| Fuerza predominante | Adhesión | Cohesión |
+| ¿El fluido moja? | Sí | No |
 
+
+>[!Note]
+>Para el agua y la mayoría de fluidos $\theta \approx 0$
+
+>[!Info]
+>El mercurio no moja
+
+
+
+
+## Capilaridad
 
 
 
