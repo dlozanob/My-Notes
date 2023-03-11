@@ -31,7 +31,13 @@ Se considera un punto en el espacio con presión $p(x, y, z)$
 
 Tomando la presión en el lado derecho se tiene por Taylor (excluyendo los términos de orden superior):
 $$
-	p(x,)
+	p(x, y + \frac{\partial y}{2}, z) = p(x, y + \frac{\partial y}{2}, z) + \frac{\partial p}{\partial y}\frac{\partial y}{2}
+$$
+La fuerza en este punto es:
+$$
+\displaylines{
+	\biggr(p + \frac{\partial p}{\partial y}\frac{\partial y}{2}\biggr)**
+}
 $$
 
 
