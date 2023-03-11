@@ -350,14 +350,20 @@ Consideramos la siguiente configuración:
 
 Las fuerzas de cohesión generan una fuerza $F$ para minimizar la superficie. En este caso se está equilibrando con un dinamómetro para medirla.
 
-Se define la _tensión superficial_ ($\sigma_{s}$) como la fuerza por unidad de longitud. 
+Se define la _tensión superficial_ ($\sigma_{s}$) como fuerza por unidad de longitud. 
 
 Cada cara ejerce tensión superficial:
 
 ![[Pasted image 20230310191647.png]]
 
+Debido a que el sistema está equilibrado:
+$$
+	F = \sigma_{s}2b
+$$
 
-
-
+Así mismo, el trabajo realizado por esta fuerza es:
+$$
+	W = \sigma_{s}2b*\triangle x
+$$
 
 
