@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fundamentos de Mecánica de Fluidos.md",
-                "mode": "preview",
+                "file": "Estática de Fluidos.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fundamentos de Mecánica de Fluidos.md",
+                "file": "Estática de Fluidos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fundamentos de Mecánica de Fluidos.md",
+                "file": "Estática de Fluidos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fundamentos de Mecánica de Fluidos.md"
+                "file": "Estática de Fluidos.md"
               }
             }
           },
@@ -172,9 +172,11 @@
   },
   "active": "e3df9337cec95ca7",
   "lastOpenFiles": [
-    "Propiedades de los Fluidos.md",
-    "Estática de Fluidos.md",
     "Fundamentos de Mecánica de Fluidos.md",
+    "Dinámica de Fluidos.md",
+    "Cinemática de Fluidos.md",
+    "Estática de Fluidos.md",
+    "Propiedades de los Fluidos.md",
     "Excalidraw/myDrawingSpace.excalidraw.md",
     "Pasted image 20230310205707.png",
     "Pasted image 20230310205556.png",
@@ -205,8 +207,6 @@
     "Tema 2. Función de oferta y demanda.md",
     "Tema 1. Economía.md",
     "Electrónica Digital II.md",
-    "Ingeniería Electrónica.md",
-    "Obsidian basics.md",
-    "HTML.md"
+    "Ingeniería Electrónica.md"
   ]
 }
