@@ -58,7 +58,7 @@ $$
 	\sum \partial \vec{F} = \partial m\vec{a} \\
 	-(\vec{\nabla}p)\partial V - \partial W\hat{k} = \partial m\vec{a} \\
 	-(\vec{\nabla}p)\partial V - \gamma \partial V\hat{k} = \rho \partial V\vec{a} \\\\
-	-\vec{\nabla p} - \gamma\hat{k} = \rho\vec{a}
+	\boxed{-\vec{\nabla p} - \gamma\hat{k} = \rho\vec{a}}
 }
 $$
 

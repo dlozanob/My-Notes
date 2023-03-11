@@ -183,6 +183,7 @@ $$
 | Root | `\sqrt[<index>]{}` | $\sqrt[4]{6}$ |
 | Logarithm | `\log_{<base>}<argument>` | $\log_{4}6$ |
 | Line break | `\cr` |  |
+| Box an equation | `\boxed{}` | $\boxed{B_{b} = \frac{\mu_{0}}{}}$ |
 | Less equal | `\leq` | $\leq$ |
 | Greater equal | `\geq` | $\geq$ |
 | Triangle | `\triangle` | $\triangle$ |
