@@ -23,8 +23,10 @@
             "id": "ffbdaf033d6946af",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/myDrawingSpace.excalidraw.md"
+              }
             }
           }
         ]
@@ -180,22 +182,23 @@
   },
   "active": "e3df9337cec95ca7",
   "lastOpenFiles": [
+    "Pasted image 20230311181719.png",
+    "Excalidraw/myDrawingSpace.excalidraw.md",
     "Estática de Fluidos.md",
+    "Pasted image 20230311181707.png",
+    "Pasted image 20230311181658.png",
+    "Pasted image 20230311181654.png",
+    "Pasted Image 20230311181652_755.png",
+    "Pasted image 20230311181635.png",
     "Fundamentos de Mecánica de Fluidos.md",
     "Dinámica de Fluidos.md",
     "Cinemática de Fluidos.md",
     "Propiedades de los Fluidos.md",
-    "Excalidraw/myDrawingSpace.excalidraw.md",
     "Pasted image 20230310205707.png",
     "Pasted image 20230310205556.png",
     "Pasted image 20230310205456.png",
     "Pasted Image 20230310205455_722.png",
     "Pasted image 20230310204820.png",
-    "Pasted Image 20230310204652_186.png",
-    "Pasted Image 20230310204636_165.png",
-    "Pasted image 20230310203642.png",
-    "Pasted Image 20230310203620_714.png",
-    "Pasted image 20230310203425.png",
     "LaTeX.md",
     "![[Pasted image 20230310190225.png.md",
     "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
@@ -214,7 +217,6 @@
     "Módulo 2.md",
     "Tema 2. Función de oferta y demanda.md",
     "Tema 1. Economía.md",
-    "Electrónica Digital II.md",
-    "Ingeniería Electrónica.md"
+    "Electrónica Digital II.md"
   ]
 }

@@ -25,4 +25,7 @@ Se usa para medir la presión en cámaras de vacío.
 
 ## Campo de presión
 
+Se considera un punto en el espacio con presión $p(x, y, z)$
+
+![[Pasted image 20230311181719.png]]
 
