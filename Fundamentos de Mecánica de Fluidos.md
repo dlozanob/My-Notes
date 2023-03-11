@@ -363,7 +363,12 @@ $$
 
 Así mismo, el trabajo realizado por esta fuerza es:
 $$
-	W = \sigma_{s}2b*\triangle x
+	W = \sigma_{s}2b*\triangle x = 2\sigma_{s}\triangle A
 $$
+Entonces, la tensión superficial es el trabajo requerido para aumentar 1 unidad de área en una de las superficies:
+$$
+	\sigma_{s} = \frac{W}{2\triangle A}
+$$
+
 
 
