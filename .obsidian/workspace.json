@@ -89,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estática de Fluidos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Estática de Fluidos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Estática de Fluidos.md"
-              }
+              "state": {}
             }
           },
           {
@@ -180,12 +176,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e3df9337cec95ca7",
+  "active": "9d93bca41a6a57a5",
   "lastOpenFiles": [
+    "Estática de Fluidos.md",
     "Pasted image 20230311182141.png",
     "Pasted Image 20230311182139_850.png",
     "Excalidraw/myDrawingSpace.excalidraw.md",
-    "Estática de Fluidos.md",
     "Pasted image 20230311181719.png",
     "Pasted image 20230311181707.png",
     "Pasted image 20230311181658.png",
@@ -198,7 +194,6 @@
     "Propiedades de los Fluidos.md",
     "Pasted image 20230310205707.png",
     "Pasted image 20230310205556.png",
-    "Pasted image 20230310205456.png",
     "LaTeX.md",
     "![[Pasted image 20230310190225.png.md",
     "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
