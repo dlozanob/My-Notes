@@ -409,3 +409,14 @@ Por tanto, se deduce que al soplar duro, $\triangle P$ aumenta, haciendo que el 
 - _Fuerzas de cohesión_ : Fuerzas de atracción entre las moléculas del fluido
 - _Fuerzas de adhesión_ : Fuerza de atracción entre las moléculas de la superficie del fluido y una superficie sólida. Esta es perpendicular a la superficie
 
+![[Pasted image 20230310203425.png]]
+
+El _menisco_ o _ángulo de contacto_ es el ángulo formado entre la superficie sólida y la tangente de la superficie líquida en el punto de contacto.
+
+![[Pasted image 20230310203642.png]]
+
+En la imagen se ve un menisco cóncavo
+
+
+
+
