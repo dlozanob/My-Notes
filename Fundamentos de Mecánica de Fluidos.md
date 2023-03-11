@@ -426,9 +426,8 @@ El _menisco_ o _ángulo de contacto_ es el ángulo formado entre la superficie s
 >Para el agua y la mayoría de fluidos $\theta \approx 0$
 
 >[!Info]
->El mercurio no moja
-
-
+>- El mercurio no moja
+>- Existen prendas antifluidos que hacen que la fuerza adhitiva sea baja para que mojen
 
 
 ## Capilaridad

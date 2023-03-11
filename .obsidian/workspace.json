@@ -29,7 +29,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fundamentos de Mecánica de Fluidos.md",
+                "file": "Excalidraw/myDrawingSpace.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fundamentos de Mecánica de Fluidos.md",
+                "file": "Excalidraw/myDrawingSpace.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fundamentos de Mecánica de Fluidos.md"
+                "file": "Excalidraw/myDrawingSpace.excalidraw.md"
               }
             }
           },
@@ -180,12 +181,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7e59a3d86cea6cc0",
+  "active": "5eb7300a3fddae86",
   "lastOpenFiles": [
+    "Pasted Image 20230310204652_186.png",
+    "Pasted Image 20230310204636_165.png",
+    "Fundamentos de Mecánica de Fluidos.md",
     "Pasted image 20230310203642.png",
     "Excalidraw/myDrawingSpace.excalidraw.md",
     "Pasted Image 20230310203620_714.png",
-    "Fundamentos de Mecánica de Fluidos.md",
     "Pasted image 20230310203425.png",
     "Pasted Image 20230310203252_683.png",
     "Pasted Image 20230310203237_663.png",
@@ -194,8 +197,6 @@
     "Pasted image 20230310200725.png",
     "Pasted image 20230310200710.png",
     "Pasted image 20230310192749.png",
-    "Pasted Image 20230310192747_267.png",
-    "Pasted image 20230310191647.png",
     "![[Pasted image 20230310190225.png.md",
     "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
     "Señales y Sistemas II.md",
