@@ -336,9 +336,6 @@ $$
 
 ## Tensión superficial
 
-- _Fuerzas de cohesión_ : Fuerzas de atracción entre las moléculas del fluido
-- _Fuerzas de adhesión_ : Fuerzas de atracción entre las moléculas de la superficie del fluido y otra superficie
-
 Las moléculas en la superficie de un fluido se encuentran dinámicamente desequilibradas, por tanto, los fluidos tienden a tener una forma esférica, ya que, así se reduce el área superficial.
 
 ![[Pasted image 20230310190140.png]]
@@ -387,7 +384,7 @@ Al tomar la mitad:
 
 ![[Pasted image 20230310200741.png]]
 
-La fuerza actúa a lo largo del perímetro, luego:
+La fuerza actúa a lo largo del contorno (se consideran ambas caras por el espesor de la burbuja), luego:
 $$
 	F_{s} = 2\sigma_{s}(2\pi r) = 4\sigma_{s}\pi r
 $$
@@ -405,3 +402,10 @@ $$
 	r = \frac{4\sigma_{s}}{\triangle P}
 $$
 Por tanto, se deduce que al soplar duro, $\triangle P$ aumenta, haciendo que el radio disminuya, y viceversa.
+
+
+## Fuerzas de adhesión y de cohesión
+
+- _Fuerzas de cohesión_ : Fuerzas de atracción entre las moléculas del fluido
+- _Fuerzas de adhesión_ : Fuerza de atracción entre las moléculas de la superficie del fluido y una superficie sólida. Esta es perpendicular a la superficie
+
