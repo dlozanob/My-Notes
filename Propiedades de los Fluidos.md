@@ -448,7 +448,7 @@ $$
 	F_{\sigma}Cos(\theta) = W \\
 	(2\pi r\sigma_{s})Cos(\theta) = \rho gV \\
 	(2\pi r\sigma_{s})Cos(\theta) = \rho g(\pi r^2h) \\\\
-	h = \frac{2\sigma_{s}Cos(\theta)}{\rho gr}
+	\boxed{h = \frac{2\sigma_{s}Cos(\theta)}{\rho gr}}
 }
 $$
 
