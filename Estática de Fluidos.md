@@ -1,7 +1,6 @@
 # Estática de Fluidos
 
-
-Se supone que las partículas se encuentran en un marco inercial de referencia, es decir, que pueden estar en reposo o a velocidad constante. Sin embargo, no existe movimiento relativo entre ellas, por tanto, no hay esfuerzos cortantes.
+Se considera que las partículas se encuentran en un marco inercial de referencia, es decir, que pueden estar en reposo o a velocidad constante. Sin embargo, no existe movimiento relativo entre ellas, por tanto, no hay esfuerzos cortantes.
 
 >[!Note]
 >- $1$ bar $= 100$ kPa
@@ -20,5 +19,10 @@ $$
 $$
 Se usa para medir la presión en cámaras de vacío.
 
+>[!Note]
+>La _Ley de Pascal_ establece que la presión es un escalar cuando no hay esfuerzos cortantes.
+
+
+## Campo de presión
 
 
