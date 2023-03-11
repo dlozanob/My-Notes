@@ -18,8 +18,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ffbdaf033d6946af",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -79,7 +88,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estática de Fluidos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +104,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Estática de Fluidos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,9 +125,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Estática de Fluidos.md"
-              }
+              "state": {}
             }
           },
           {
@@ -170,12 +175,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e3df9337cec95ca7",
+  "active": "ffbdaf033d6946af",
   "lastOpenFiles": [
+    "Estática de Fluidos.md",
     "Fundamentos de Mecánica de Fluidos.md",
     "Dinámica de Fluidos.md",
     "Cinemática de Fluidos.md",
-    "Estática de Fluidos.md",
     "Propiedades de los Fluidos.md",
     "Excalidraw/myDrawingSpace.excalidraw.md",
     "Pasted image 20230310205707.png",
