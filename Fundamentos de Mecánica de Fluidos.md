@@ -383,3 +383,13 @@ $$
 Se tiene una pompa de jabón de radio $r$, donde la presión interna es mayor a la externa ($p_{i} > p_{e}$).
 	- $p_{i} - p_{e} = f(\sigma_{s}, r) = ?$
 
+Al tomar la mitad:
+
+![[Pasted image 20230310200741.png]]
+
+La fuerza actúa a lo largo del perímetro, luego:
+$$
+	F = 2\sigma_{s}(2\pi r) = 4\sigma_{s}\pi r
+$$
+
+
