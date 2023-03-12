@@ -114,8 +114,13 @@ $$
 
 ### Piezómetro
 
+Se usa para medir la presión manométrica de un líquido.
 
+![[Pasted image 20230311194430.png]]
 
+$$
+	p_{A} = \gamma h
+$$
 
 
 ### Manómetro

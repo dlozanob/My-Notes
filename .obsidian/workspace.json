@@ -29,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/myDrawingSpace.excalidraw.md",
+                "file": "Estática de Fluidos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/myDrawingSpace.excalidraw.md",
+                "file": "Estática de Fluidos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/myDrawingSpace.excalidraw.md"
+                "file": "Estática de Fluidos.md"
               }
             }
           },
@@ -181,10 +180,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ffbdaf033d6946af",
+  "active": "e3df9337cec95ca7",
   "lastOpenFiles": [
-    "Estática de Fluidos.md",
+    "Pasted image 20230311194430.png",
     "Excalidraw/myDrawingSpace.excalidraw.md",
+    "Estática de Fluidos.md",
     "Pasted image 20230311192947.png",
     "Pasted image 20230311192937.png",
     "Pasted image 20230311192931.png",
