@@ -230,7 +230,7 @@ $$
 
 >[!Note]
 >-   La matriz identidad de la esquina inferior izquierda dentro de $A$ en $\dot{x}(t)$ tiene dimensiones $(G - 1)x(G - 1)$. La columna de la derecha desde la fila 2, siempre son ceros.
->- La matriz $C$ en $y(t)$ debe ser de dimensión $1xG$. 
+>- La matriz $C$ en $y(t)$ debe ser de dimensión $1xG$. Se rellena con 0's a la izquierda en caso de ser necesario.
 
 
 - __Ejemplo__ :
@@ -274,6 +274,20 @@ x(t) +
 $$
 
 
-
-
 ### Variables de estado $\rightarrow$ Función de transferencia
+
+Se tiene el sistema en variables de estado:
+$$
+\displaylines{
+	\dot{x(t)} = Ax(t) + Bu(t) \\
+	y(t) = Cx(t) + Du(t)
+}
+$$
+Aplicando transformada de Laplace a $\dot{x(t)}$ :
+$$
+\displaylines{
+	sX(s) = AX(s) + BU(s) \\
+	(sI - A)X(s) = BU(s) \\
+	X(s) = 
+}
+$$
