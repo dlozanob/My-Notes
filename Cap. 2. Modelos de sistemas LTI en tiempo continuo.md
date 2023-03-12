@@ -202,6 +202,7 @@ $$
 
 	$$
 \displaylines{
+\boxed{
 \dot{x}(t) =
 \begin{pmatrix}
 	-a_{2} & . & . & . & -a_{g+1} \\\\
@@ -225,6 +226,7 @@ y(t) =
 \end{pmatrix}
 x(t) + 
 du(t)
+}
 }
 $$
 
@@ -302,3 +304,40 @@ $$
 	H(s) = C(sI - A)^{-1}B + D
 }
 $$
+
+
+- __Ejemplo__ :
+
+$$
+\displaylines{
+	\begin{pmatrix}
+		\dot{x_{1}(t)} \\
+		\dot{x_{2}(t)}
+	\end{pmatrix}
+	=
+	\begin{pmatrix}
+		-2 & -10 \\
+		1 & 0
+	\end{pmatrix}
+	\begin{pmatrix}
+		x_{1}(t) \\
+		x_{2}(t)
+	\end{pmatrix}
+	+
+	\begin{pmatrix}
+		1 \\
+		0
+	\end{pmatrix}
+	u(t) \\\\
+	y =
+	\begin{pmatrix}
+		3 & 4
+	\end{pmatrix}
+	\begin{pmatrix}
+		x_{1}(t) \\
+		x_{2}(t)
+	\end{pmatrix}
+	- 2u(t)
+}
+$$
+
