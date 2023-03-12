@@ -424,3 +424,15 @@ Configuraciones comunes:
 - $R = 100$ k$\Omega$ ; $C = 10$ $\mu F$
 
 
+- __Ejemplo__ :
+
+Consideremos el sistema no lineal:
+$$
+\displaylines{
+	\dot{x}_{1} = -\alpha_{1}x_{1} - \alpha_{2}x_{1}x_{2} + u \\
+	\dot{x}_{2} = \beta_{1}x_{1} - \beta_{2}x_{2}
+}
+$$
+
+Su representación en diagrama de bloques es:
+
