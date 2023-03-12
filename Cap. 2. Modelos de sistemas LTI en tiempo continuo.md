@@ -381,3 +381,21 @@ Debido a que estas se pueden implementar en computación analógica  digital, ad
 >[!Note]
 >Se puede simular utilizando la convolución para hallar $y(t)$ a partir de $h(t)$ y conociendo $u(t)$. Sin embargo, la complejidad temporal de este algoritmo es mucho más alta que simular con variables de estado ([Método de Euler](##Solución+de+las+ecuaciones+de+estado+con+el+método+de+Euler))
 
+
+### Elementos básicos para la simulación de modelos
+
+Lord Kelvin plantea los 3 bloques esenciales de la computación para el modelado de sistemas:
+
+- _Multiplicador por constante_ (Memoryless) :
+
+
+
+
+- _Sumador_ (Memoryless) :
+
+- _Integrador_ (Dynamic) :
+
+
+
+
+
