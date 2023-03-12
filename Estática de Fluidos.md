@@ -108,13 +108,22 @@ Se usa para medir la presión atmosférica. Contienen comúnmente mercurio.
 
 En muchas situaciones la presión de vapor es despreciable frente a la atmosférica. Entonces:
 $$
-	p_{atm} = 
+	p_{atm} = \gamma h
+$$
+
+
+### Manómetro
+
+MIde la presión manométrica del fluido en la cámara. Si tenemos dos líquidos, estos deben ser inmiscibles.
+
+![[Pasted image 20230311192947.png]]
+
+$$
+	p_{atm} - p_{2} = 
 $$
 
 
 
-
-### Manómetro
 
 ### Manómetro diferencial
 
