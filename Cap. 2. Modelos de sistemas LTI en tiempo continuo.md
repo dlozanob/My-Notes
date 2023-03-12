@@ -531,6 +531,8 @@ Las variables internas no pueden ser controladas de ninguna manera.
 
 ## Sistemas concentrados y distribuidos
 
+Se distinguen por sus magnitudes espaciales.
+
 - _Sistema concentrado_ : Sus elementos son discretizaciones. Son los modelos comunes y corrientes que se han venido trabajando.
 
 Características:
@@ -539,14 +541,19 @@ Características:
 	- Siguen las leyes de Ohm y de Kirchoff
 	- $H(s)$ es una función racional
 	- Representan EDO's
-	- Sus ecuaciones de estado tienen dimensión  finita
+	- Sus ecuaciones de estado tienen dimensión finita
 
 - _Sistema distribuido_ : Existe continuidad, tiene infinitos elementos.
 
 Características:
 	- Sus variables son función del tiempo y el espacio
 	- Siguen las leyes de la mecánica relativista
-	- Siguen las l
-	- $H(s)$ es una función racional
-	- Representan EDO's
-	- Sus ecuaciones de estado tienen dimensión  finita
+	- Siguen las leyes de onda de Maxwell
+	- $H(s)$ es una función no racional
+	- Representan EDP's
+	- Sus ecuaciones de estado tienen dimensión infinita
+
+
+Criterios para definir si un sistema es distribuido:
+- Sistemas eléctricos :
+El tamaño del circuito es menor que la longitud de onda más corta procesada.
