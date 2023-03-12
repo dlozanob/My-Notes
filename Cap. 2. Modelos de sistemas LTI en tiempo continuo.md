@@ -189,15 +189,23 @@ $$
 	3. Expresar la ecuación de tranferencia en la ecuación de estado
 
 		$$
+	\dot{x}(t) =
 	\begin{pmatrix}
-		-a_{2} & ... & ... &...& -a_{g+1} \\\\
-		1 & ... & 0 & &0 \\
-		. & . & . & &0 \\
-		. & . & . & &0 \\
-		0 & ... & 1 && 0
+		-a_{2} & . & . & . & -a_{g+1} \\\\
+		1 & ... & 0 & & 0 \\
+		. & . & . & & 0 \\
+		. & . & . & & 0 \\
+		0 & ... & 1 & & 0
 	\end{pmatrix}
 	$$
 
+	  Tal que:
+	 $$
+	 D(s) = s^{g} + a_{2}s^{g - 1} + ... + a_{g + 1}
+   $$
+	- $g$ : Grado de $D(s)$
+
+	   La matriz identidad de la esquina inferior izquierda dentro de $A$ en $\dot{x}(t)$ tiene dimensiones $$
 
 
 ### Variables de estado $\rightarrow$ Función de transferencia
