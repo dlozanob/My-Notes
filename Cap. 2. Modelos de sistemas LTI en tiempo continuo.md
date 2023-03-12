@@ -555,12 +555,27 @@ Características:
 
 
 Criterios para definir si un sistema es distribuido:
+
 - Sistemas eléctricos :
 El tamaño del circuito es mayor que la longitud de onda más corta de las señales procesadas.
 
 >[!Info]
->- Sucede en integrados de sistemas de microondas. Donde $\lambda \approx 3cm$.
->- Sucede en las líneas de transmisión eléctrica
+>Casos donde sucede:
+>- Integrados de sistemas de microondas. Donde $\lambda \approx 3cm$.
+>- Líneas de transmisión eléctrica
+>- Guías de ondas
+
+- Sistemas mecánicos:
+El sistema no puede modelarse como cuerpo rígido.
+Modelarlo supondría tener infinitas masas acopladas.
+
+>[!Info]
+>Casos donde sucede:
+>- Grúa torre de construcción
+>- Oleoductos
+
+
+
 
 
 
