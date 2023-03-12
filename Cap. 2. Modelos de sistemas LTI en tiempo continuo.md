@@ -451,4 +451,31 @@ Su representación en diagrama de bloques es:
 Dos polinomios son _coprimos_ si no tienen raices en común. El grado de una función de transferencia propia está definido por el grado de $D(s)$, siempre y cuando, $N(s)$ y $D(s)$ sean coprimos.
 
 La _realización mínima_ de una función de transferencia, se logra al simplificar la misma, tal que, $N(s)$ y $D(s)$ sean coprimos. De este modo se halla la realización mínima de la función al transformarla en variables de estado.
-Por tanto, una realización mínima de $H(s)$ debe poseer el mismo grado de $H(s)$.
+Por tanto, una realización mínima de $H(s)$ debe poseer una dimensión igual al mismo grado de $H(s)$.
+
+- __Ejemplo__ :
+
+$$
+	H(s) = \frac{3s^{3} + 8s^{2} + 10s + 4}{s^{4} + 5s^{3} + 4s^{2} - 2s - 8}
+$$
+
+$$
+\displaylines{
+	\dot{x}(t) =
+	\begin{pmatrix}
+		-3 & 4 \\
+		1 & 0
+	\end{pmatrix}
+	x(t) +
+	\begin{pmatrix}
+		1 \\
+		0
+	\end{pmatrix}u(t) \\\\
+	y(t) =
+	\begin{pmatrix}
+		3 & 2
+	\end{pmatrix}
+	x(t)
+}
+$$
+
