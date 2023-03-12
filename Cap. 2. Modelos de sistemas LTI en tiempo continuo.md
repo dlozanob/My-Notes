@@ -167,4 +167,5 @@ $$
 Donde $N$ es un valor muy grande.
 
 
+## Conversión entre variables de estado y funciones de transferencia
 
