@@ -96,3 +96,7 @@ Para gases ideales:
 $$
 	p = p_{atm}exp\biggr(\frac{-g*m_{mol}}{RT_{0}}(z - l)\biggr)
 $$
+
+
+## Instrumentos de medida
+
