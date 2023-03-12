@@ -171,6 +171,15 @@ Donde $N$ es un valor muy grande.
 
 ### Función de transferencia $\rightarrow$ Variables de estado
 
-Partiendo de una
+1. Hacer propia la función de transferencia en caso de que no lo sea
+	1. Dejarla en su forma mónica
+	2. Dejarla expresada como:	
+	    $$
+		H(s) = \frac{R(s)}{D(s)} + d
+	  $$
+            Donde:
+            - $R$	 
+		
+
 
 ### Variables de estado $\rightarrow$ Función de transferencia
