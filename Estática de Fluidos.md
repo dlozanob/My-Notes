@@ -100,3 +100,22 @@ $$
 
 ## Instrumentos de medida
 
+### Barómetro
+
+Se usa para medir la presión atmosférica. Contienen comúnmente mercurio.
+
+![[Pasted image 20230311192653.png]]
+
+En muchas situaciones la presión de vapor es despreciable frente a la atmosférica. Entonces:
+$$
+	p_{atm} = 
+$$
+
+
+
+
+### Manómetro
+
+### Manómetro diferencial
+
+

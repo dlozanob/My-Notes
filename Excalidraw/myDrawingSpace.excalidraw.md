@@ -8,6 +8,10 @@ tags: [excalidraw]
 
 
 # Text Elements
+
+# Embedded files
+4419ccb8800850e4aaed06f3f850bb6ff6b1b13c: [[Pasted Image 20230311192629_156.png]]
+
 %%
 # Drawing
 ```json
@@ -16,6 +20,38 @@ tags: [excalidraw]
 	"version": 2,
 	"source": "https://excalidraw.com",
 	"elements": [
+		{
+			"id": "2Lk1L9jq6LXyr4t_9ZElt",
+			"type": "image",
+			"x": -105.42358274613409,
+			"y": -222.2238661480022,
+			"width": 185.5972389103493,
+			"height": 299.27554774293816,
+			"angle": 0,
+			"strokeColor": "transparent",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 1607343419,
+			"version": 225,
+			"versionNonce": 164579861,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1678580810935,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "4419ccb8800850e4aaed06f3f850bb6ff6b1b13c",
+			"scale": [
+				1,
+				1
+			]
+		},
 		{
 			"id": "JvoNWrzhiJR7svCXamPs4",
 			"type": "image",

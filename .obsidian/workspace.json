@@ -28,21 +28,8 @@
                 "file": "Excalidraw/myDrawingSpace.excalidraw.md"
               }
             }
-          },
-          {
-            "id": "5d6297fe6c8bddf0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Propiedades de los Fluidos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Propiedades de los Fluidos.md",
+                "file": "Estática de Fluidos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Propiedades de los Fluidos.md",
+                "file": "Estática de Fluidos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Propiedades de los Fluidos.md"
+                "file": "Estática de Fluidos.md"
               }
             }
           },
@@ -193,12 +180,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5d6297fe6c8bddf0",
+  "active": "e3df9337cec95ca7",
   "lastOpenFiles": [
-    "Fundamentos de Mecánica de Fluidos.md",
-    "Estática de Fluidos.md",
+    "Pasted image 20230311192653.png",
     "Excalidraw/myDrawingSpace.excalidraw.md",
+    "Estática de Fluidos.md",
+    "Pasted image 20230311192645.png",
+    "Pasted image 20230311192632.png",
+    "Pasted Image 20230311192629_156.png",
     "Propiedades de los Fluidos.md",
+    "Fundamentos de Mecánica de Fluidos.md",
     "LaTeX.md",
     "Pasted image 20230311182141.png",
     "Pasted Image 20230311182139_850.png",
@@ -207,11 +198,8 @@
     "Pasted image 20230311181658.png",
     "Pasted image 20230311181654.png",
     "Pasted Image 20230311181652_755.png",
-    "Pasted image 20230311181635.png",
     "Dinámica de Fluidos.md",
     "Cinemática de Fluidos.md",
-    "Pasted image 20230310205707.png",
-    "Pasted image 20230310205556.png",
     "![[Pasted image 20230310190225.png.md",
     "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
     "Señales y Sistemas II.md",
