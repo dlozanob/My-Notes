@@ -397,6 +397,11 @@ Implementación analógica:
 
 - _Sumador_ (Memoryless) :
 
+![[Pasted image 20230312120541.png]]
+
+Implementación analógica:
+
+
 
 
 
