@@ -185,6 +185,7 @@ $$
 -  $G$ : Grado de $D(s)$
 - $g$ : Grado de $N(s)$
 
+
 - _Procedimiento_ :
 
 1. Hacer propia la función de transferencia en caso de que no lo sea ($G > g$)
@@ -217,13 +218,23 @@ x(t) +
 	. \\
 	0 \\
 \end{pmatrix}
-u(t) \\
+u(t) \\\\\\
 y(t) =
-\begin{}
+\begin{pmatrix}
+	b_{1} & b_{2} & ... & b_{g + 1}
+\end{pmatrix}
+x(t) + 
+du(t)
 }
 $$
 
-   La matriz identidad de la esquina inferior izquierda dentro de $A$ en $\dot{x}(t)$ tiene dimensiones $(g - 1)x(g - 1)$. La columna de la derecha desde la fila 2, siempre son ceros.
+   La matriz identidad de la esquina inferior izquierda dentro de $A$ en $\dot{x}(t)$ tiene dimensiones $(G - 1)x(G - 1)$. La columna de la derecha desde la fila 2, siempre son ceros.
+
+
+- __Ejemplo__ :
+$$
+	H(s) = 
+$$
 
 
 ### Variables de estado $\rightarrow$ Función de transferencia
