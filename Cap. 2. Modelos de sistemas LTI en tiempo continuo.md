@@ -377,3 +377,7 @@ $$
 
 Son preferibles las ecuaciones de estado sobre las ecuaciones diferenciales para simulación.
 Debido a que estas se pueden implementar en computación analógica  digital, además de poder representar sistemas no lineales.
+
+>[!Note]
+>Se puede simular utilizando la convolución para hallar $y(t)$ a partir de $h(t)$ y conociendo $u(t)$. Sin embargo, la complejidad temporal de este algoritmo es mucho más alta que simular con variables de estado ([Método de Euler](##Solución+de+las+ecuaciones+de+estado+con+el+método+de+Euler))
+
