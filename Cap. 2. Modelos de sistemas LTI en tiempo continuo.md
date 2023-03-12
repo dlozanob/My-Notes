@@ -403,11 +403,17 @@ Implementación analógica:
 
 ![[Pasted image 20230312121459.png]]
 
-
-
-
 - _Integrador_ (Dynamic) :
 
+![[Pasted image 20230312121727.png]]
+
+Donde:
+$$
+\displaylines{
+	u(t) = \dot{x}(t) \\
+	y(t) = \int_{0}^{t}u(\tau)d\tau + y(0) = x(t)
+}
+$$
 
 
 
