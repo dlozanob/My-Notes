@@ -165,3 +165,6 @@ $$
 	sk_{3} \leftarrow \frac{sk_{3}}{1 + \frac{k_{3}}{N}s}
 $$
 Donde $N$ es un valor muy grande.
+
+
+

@@ -19,13 +19,16 @@
             "id": "ffbdaf033d6946af",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/myDrawingSpace.excalidraw.md"
+                "file": "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/myDrawingSpace.excalidraw.md",
+                "file": "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/myDrawingSpace.excalidraw.md",
+                "file": "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/myDrawingSpace.excalidraw.md"
+                "file": "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md"
               }
             }
           },
@@ -150,7 +153,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: fluidos",
+                "query": "file: sis",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -178,8 +181,9 @@
   },
   "active": "ffbdaf033d6946af",
   "lastOpenFiles": [
-    "Estática de Fluidos.md",
+    "Señales y Sistemas II.md",
     "Excalidraw/myDrawingSpace.excalidraw.md",
+    "Estática de Fluidos.md",
     "Pasted image 20230311200808.png",
     "Pasted image 20230311200147.png",
     "Pasted image 20230311195904.png",
@@ -197,7 +201,6 @@
     "Cinemática de Fluidos.md",
     "![[Pasted image 20230310190225.png.md",
     "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
-    "Señales y Sistemas II.md",
     "Automatización, Control y Robótica.md",
     "Main.md",
     "Tema 4. Matemáticas financieras.md",
