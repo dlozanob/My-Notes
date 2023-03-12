@@ -529,5 +529,9 @@ Las variables internas no pueden ser controladas de ninguna manera.
 > - Número de acumuladores de energía $=$ Grado de la función de transferencia $=$ Dimensión de la ecuación de estado
 
 
-## Sistemas distribuidos
+## Sistemas concentrados y distribuidos
 
+- _Sistema concentrado_ : Aceptan discretizaciones. Son los modelos comunes y corrientes que se han venido trabajando.
+
+Características:
+	- Sus variables
