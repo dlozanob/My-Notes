@@ -361,3 +361,7 @@ $$
 	\end{pmatrix}
 	- 2
 $$
+$$
+	H(s) = \frac{3s+4}{s\left(s+2\right)+10} - 2
+$$
+
