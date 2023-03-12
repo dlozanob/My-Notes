@@ -8,14 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e5b7c8c0dd092ee2",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
             "id": "ffbdaf033d6946af",
             "type": "leaf",
             "state": {
@@ -24,6 +16,16 @@
                 "file": "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "84c38b12f3780ab5",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/myDrawingSpace.excalidraw.md"
               }
             }
           }
@@ -88,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
+                "file": "Excalidraw/myDrawingSpace.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
+                "file": "Excalidraw/myDrawingSpace.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md"
+                "file": "Excalidraw/myDrawingSpace.excalidraw.md"
               }
             }
           },
@@ -153,7 +155,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: sis",
+                "query": "file: my",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -179,11 +181,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ffbdaf033d6946af",
+  "active": "84c38b12f3780ab5",
   "lastOpenFiles": [
     "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
-    "Señales y Sistemas II.md",
+    "Pasted image 20230312115843.png",
     "Excalidraw/myDrawingSpace.excalidraw.md",
+    "Señales y Sistemas II.md",
     "Estática de Fluidos.md",
     "Pasted image 20230311200808.png",
     "Pasted image 20230311200147.png",
@@ -194,7 +197,6 @@
     "Pasted Image 20230311195832_553.png",
     "Pasted image 20230311195817.png",
     "Pasted image 20230311194430.png",
-    "Pasted image 20230311192947.png",
     "Propiedades de los Fluidos.md",
     "Fundamentos de Mecánica de Fluidos.md",
     "LaTeX.md",

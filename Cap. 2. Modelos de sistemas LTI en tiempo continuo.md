@@ -388,6 +388,10 @@ Lord Kelvin plantea los 3 bloques esenciales de la computación para el modelado
 
 - _Multiplicador por constante_ (Memoryless) :
 
+![[Pasted image 20230312115843.png]]
+
+Implementación analógica:
+
 
 
 
