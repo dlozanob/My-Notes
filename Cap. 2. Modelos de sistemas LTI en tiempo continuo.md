@@ -392,10 +392,13 @@ Lord Kelvin plantea los 3 bloques esenciales de la computación para el modelado
 
 Implementación analógica:
 
-
+![[Pasted image 20230312120215.png]]
 
 
 - _Sumador_ (Memoryless) :
+
+
+
 
 - _Integrador_ (Dynamic) :
 
