@@ -65,14 +65,26 @@ $$
 Si el fluido tiene una velocidad constante entonces:
 $$
 \begin{pmatrix}
-	\frac{\partial p}{\partial x} \\
-	\frac{\partial p}{\partial x} \\
+	\frac{\partial p}{\partial x} \\\\
+	\frac{\partial p}{\partial x} \\\\
 	\frac{\partial p}{\partial x}
 \end{pmatrix}
 =
 \begin{pmatrix}
-	0
-	0
+	0 \\\\
+	0 \\\\
 	-\gamma
 \end{pmatrix}
+$$
+$$
+\displaylines{
+	\frac{dp}{dz} = -\gamma \\
+	\int_{p_{i}}^{p_{f}}dp = -\int_{z_{i}}^{z_{f}}\gamma dz \\\\
+	\boxed{\triangle p = -\gamma \triangle z}
+}
+$$
+
+Para gases ideales:
+$$
+	p
 $$
