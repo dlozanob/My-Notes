@@ -242,8 +242,33 @@ $$
 $$
 Al dividir el polinomio, se deja en su forma propia:
 $$
-	H(s) = \frac{-2s^{3} + 0.75s^{2} + 2.5s + -6.75}{2s^{4} + 6s^{3} + 15s^{2} + 12s + 2.5} + 1.5
+	H(s) = \frac{-2s^{3} + 0.75s^{2} + 2.5s + -6.75}{s^{4} + 3s^{3} + 7.5s^{2} + 6s + 2.5} + 1.5
 $$
+Se halla la ecuación de estados:
+$$
+\displaylines{
+\dot{x} =
+\begin{pmatrix}
+	-3 & -7.5 & -6 & -2.5 \\
+	1 & 0 & 0 & 0 \\
+	0 & 1 & 0 & 0 \\
+	0 & 0 & 1 & 0
+\end{pmatrix}
+x(t) +
+\begin{pmatrix}
+	1 \\
+	0 \\
+	0 \\
+	0
+\end{pmatrix}
+u(t) \\\\
+y(t) =
+\begin{pmatrix}
+	-2 & 0.75 & 2.5 & -6.75
+\end{pmatrix}
+}
+$$
+
 
 
 
