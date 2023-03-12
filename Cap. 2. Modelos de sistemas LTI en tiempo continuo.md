@@ -175,10 +175,16 @@ Se tiene una función de transferencia propia:
 $$
 	H(s) = \frac{N(s)}{D(s)}
 $$
+	  Tal que:
+	$$
+	 D(s) = a_{1}s^{g} + a_{2}s^{g - 1} + ... + a_{g + 1}
+   $$
+	-  $g$ : Grado de $D(s)$
+
 
 1. Hacer propia la función de transferencia en caso de que no lo sea
-	1. Dejarla en su forma mónica
-	2. Dejarla expresada como:	
+	1. Dejarla en su forma mónica ($a_{1} = 1$)
+	2. Dejarla expresada como:
 	    $$
 		H(s) = \frac{R(s)}{D(s)} + d
 	  $$
@@ -197,15 +203,18 @@ $$
 		. & . & . & & 0 \\
 		0 & ... & 1 & & 0
 	\end{pmatrix}
+	x(t) + 
+	\begin{pmatrix}
+		1 \\
+		0 \\
+		. \\
+		. \\
+		0 \\
+	\end{pmatrix}
+	u(t)
 	$$
 
-	  Tal que:
-	 $$
-	 D(s) = s^{g} + a_{2}s^{g - 1} + ... + a_{g + 1}
-   $$
-	- $g$ : Grado de $D(s)$
-
-	   La matriz identidad de la esquina inferior izquierda dentro de $A$ en $\dot{x}(t)$ tiene dimensiones $$
+	   La matriz identidad de la esquina inferior izquierda dentro de $A$ en $\dot{x}(t)$ tiene dimensiones $(g - 1)x(g - 1)$. La columna de la derecha siempre son ceros.
 
 
 ### Variables de estado $\rightarrow$ Función de transferencia
