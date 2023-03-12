@@ -171,6 +171,11 @@ Donde $N$ es un valor muy grande.
 
 ### Función de transferencia $\rightarrow$ Variables de estado
 
+Se tiene una función de transferencia propia:
+$$
+	H(s) = \frac{N(s)}{D(s)}
+$$
+
 1. Hacer propia la función de transferencia en caso de que no lo sea
 	1. Dejarla en su forma mónica
 	2. Dejarla expresada como:	
@@ -178,8 +183,18 @@ Donde $N$ es un valor muy grande.
 		H(s) = \frac{R(s)}{D(s)} + d
 	  $$
             Donde:
-            - $R$	 
+            - $R(s)$ : Residuo del polinomio
+            - $d$ : Cociente
 		
+	3. Expresar la ecuación de tranferencia en la ecuación de estado
+
+		$$
+	\begin{pmatrix}
+		- a_{2} & ... & -a_{g+1} \\
+		1
+	\end{pmatrix}
+	$$
+
 
 
 ### Variables de estado $\rightarrow$ Función de transferencia
