@@ -150,6 +150,7 @@ Miden la caida de presión a lo largo de secciones horizontales. Estas caidas so
 $$
 \displaylines{
 	p_{2} - p_{1} = (p_{A} - p_{1}) + (p_{B} - p_{A}) + (p_{2} - p_{B}) \\
-	
+	p_{2} - p_{1} = -\gamma(z_{A} - z_{1}) - \gamma(z_{B} - z_{2}) - \gamma(z_{2} - z_{B}) \\
+	p_{2} - p_{1} = 
 }
 $$
