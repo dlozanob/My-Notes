@@ -439,4 +439,10 @@ Su representación en diagrama de bloques es:
 ![[Pasted image 20230312124646.png]]
 
 
-## Reali
+>[!Info]
+>La electrónica análoga recibe ese nombre porque permite simular modelos análogamente de otros dominios de la ciencia
+
+
+## Realizaciones mínimas y sistemas distribuidos
+
+Dos polinomios son _coprimos_ si no tienen raices en común. El grado de una función de transferencia propia está definido por el grado de $D(s)$, siempre y cuando, $N(s)$ y $D(s)$ sean coprimos.
