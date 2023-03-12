@@ -145,12 +145,13 @@ $$
 
 Miden la caida de presión a lo largo de secciones horizontales. Estas caidas son producidas por fuerzas de fricción y viscosidad (en la realidad existen esfuerzos cortantes que producen esto).
 
-![[Pasted image 20230311200147.png]]
+![[Pasted image 20230311200808.png]]
 
 $$
 \displaylines{
 	p_{2} - p_{1} = (p_{A} - p_{1}) + (p_{B} - p_{A}) + (p_{2} - p_{B}) \\
-	p_{2} - p_{1} = -\gamma(z_{A} - z_{1}) - \gamma(z_{B} - z_{2}) - \gamma(z_{2} - z_{B}) \\
-	p_{2} - p_{1} = 
+	p_{2} - p_{1} = -\gamma_{1}(z_{A} - z_{1}) - \gamma_{2}(z_{B} - z_{A}) - \gamma_{1}(z_{2} - z_{B}) \\
+	p_{2} - p_{1} = -\gamma_{1}(- a - h) - \gamma_{2}(h) - \gamma_{1}(a + h - h) \\
+	p_{2} - p_{1} = -\gamma_{1}(- a - h) - \gamma_{2}(h) - \gamma_{1}(a + h - h) \\
 }
 $$
