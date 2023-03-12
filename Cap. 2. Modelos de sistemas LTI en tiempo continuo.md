@@ -374,6 +374,7 @@ $$
 - _Descripción externa_ : Consideran únicamente las entradas y las salidas del sistema
 	- Ecuaciones diferenciales (usualmente son de un orden superior).
 	- Convolución
+	- Función de transferencia
 
 - _Descripción interna_ : Se toman en cuenta variables internas del sistema
 	- Variables de estado (son de primer orden)
@@ -455,10 +456,16 @@ Por tanto, una realización mínima de $H(s)$ debe poseer una dimensión igual a
 
 - __Ejemplo__ :
 
+Se tiene la siguiente función de transferencia:
+
 $$
 	H(s) = \frac{3s^{3} + 8s^{2} + 10s + 4}{s^{4} + 5s^{3} + 4s^{2} - 2s - 8}
 $$
-
+Al simplificar:
+$$
+	H(s) = \frac{3s + 2}{s^{2} + 3s - 4}
+$$
+$H(s)$ tiene grado 2. Al obtener su representación en ecuaciones de estado:
 $$
 \displaylines{
 	\dot{x}(t) =
@@ -478,4 +485,11 @@ $$
 	x(t)
 }
 $$
+
+La realización es de dimensión 2, por tanto, es una realización mínima.
+
+
+La descripción externa de un sistema no describe lo que realmente sucede en este.
+La descripción interna si lo hace.
+Por tanto, se pierde información del sistema real al representarlo en su función de transferencia.
 
