@@ -499,12 +499,16 @@ A continuación, se exponen casos donde esto sucede. Los siguientes son circuito
 
 ![[Pasted image 20230312134253.png]]
 
-Al 
-
+Al pasar de $H(s)$ a ecuaciones de estado y representarlas gráficamente, se obtiene la realización mínima de la derecha.
+Se pierde una porción del circuito original. Sin embargo, esta porción es controlada por la entrada.
 
 - _Circuito no controlable_ :
 
+![[Pasted image 20230312134600.png]]
 
+Al pasar de $H(s)$ a ecuaciones de estado y representarlas gráficamente, se obtiene la realización mínima de la derecha.
+Se pierde una porción del circuito original. 
+Esta porción no es controlada por la entrada.
 
 - _Circuito no observable y no controlable_ :
 
