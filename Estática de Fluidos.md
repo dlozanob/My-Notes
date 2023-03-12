@@ -119,7 +119,10 @@ Se usa para medir la presión manométrica de un líquido.
 ![[Pasted image 20230311194430.png]]
 
 $$
-	p_{A} = \gamma h
+\displaylines{
+	p_{A} - p_{atm} = -\gamma (0 - h) \\
+	p_{Aman} = \gamma h
+}
 $$
 
 
@@ -131,7 +134,7 @@ MIde la presión manométrica del fluido en la cámara. Si tenemos dos líquidos
 
 $$
 \displaylines{
-	p_{atm} - p_{2} = -\gamma h \\
+	p_{2} - p_{} = -\gamma h \\
 	p_{2} = p_{1} \\\\
 	p_{1} = p_{atm} + \gamma h
 }
