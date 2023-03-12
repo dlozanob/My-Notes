@@ -112,6 +112,12 @@ $$
 $$
 
 
+### Piezómetro
+
+
+
+
+
 ### Manómetro
 
 MIde la presión manométrica del fluido en la cámara. Si tenemos dos líquidos, estos deben ser inmiscibles.
