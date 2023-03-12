@@ -169,6 +169,9 @@ Donde $N$ es un valor muy grande.
 
 ## Conversión entre variables de estado y funciones de transferencia
 
+Una ecuación de estado tiene una única representación en función de transferencia.
+Una función de transferencia, tiene infinitas representaciones o _realizaciones_ en ecuaciones de estado.
+
 ### Función de transferencia $\rightarrow$ Variables de estado
 
 Se tiene una función de transferencia propia:
@@ -446,3 +449,6 @@ Su representación en diagrama de bloques es:
 ## Realizaciones mínimas y sistemas distribuidos
 
 Dos polinomios son _coprimos_ si no tienen raices en común. El grado de una función de transferencia propia está definido por el grado de $D(s)$, siempre y cuando, $N(s)$ y $D(s)$ sean coprimos.
+
+La _realización mínima_ de una función de transferencia, se logra al simplificar la misma, tal que, $N(s)$ y $D(s)$ sean coprimos. De este modo se halla la realización mínima de la función al transformarla en variables de estado.
+Por tanto, una realización mínima de $H(s)$ debe poseer el mismo grado de $H(s)$.
