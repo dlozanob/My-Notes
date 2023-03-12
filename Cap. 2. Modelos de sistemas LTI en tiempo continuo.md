@@ -401,6 +401,7 @@ Implementación analógica:
 
 Implementación analógica:
 
+![[Pasted image 20230312121459.png]]
 
 
 
