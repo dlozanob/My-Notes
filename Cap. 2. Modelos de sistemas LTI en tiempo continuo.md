@@ -177,13 +177,17 @@ $$
 $$
   Tal que:
 $$
- D(s) = a_{1}s^{g} + a_{2}s^{g - 1} + ... + a_{g + 1}
+\displaylines{
+	D(s) = a_{1}s^{G} + a_{2}s^{G - 1} + ... + a_{G + 1} \\
+	N(s) = b_{1}s^{g} + b_{2}s^{g - 1} + ... + b_{g + 1}
+}
 $$
--  $g$ : Grado de $D(s)$
+-  $G$ : Grado de $D(s)$
+- $g$ : Grado de $N(s)$
 
 - _Procedimiento_ :
 
-1. Hacer propia la función de transferencia en caso de que no lo sea
+1. Hacer propia la función de transferencia en caso de que no lo sea ($G > g$)
 	1. Dejarla en su forma mónica ($a_{1} = 1$)
 	2. Dejarla expresada como:
 	    $$
@@ -196,6 +200,7 @@ $$
 2. Expresar la ecuación de tranferencia en la ecuación de estado
 
 	$$
+\displaylines{
 \dot{x}(t) =
 \begin{pmatrix}
 	-a_{2} & . & . & . & -a_{g+1} \\\\
@@ -212,7 +217,10 @@ x(t) +
 	. \\
 	0 \\
 \end{pmatrix}
-u(t)
+u(t) \\
+y(t) =
+\begin{}
+}
 $$
 
    La matriz identidad de la esquina inferior izquierda dentro de $A$ en $\dot{x}(t)$ tiene dimensiones $(g - 1)x(g - 1)$. La columna de la derecha desde la fila 2, siempre son ceros.
