@@ -119,7 +119,11 @@ MIde la presión manométrica del fluido en la cámara. Si tenemos dos líquidos
 ![[Pasted image 20230311192947.png]]
 
 $$
-	p_{atm} - p_{2} = 
+\displaylines{
+	p_{atm} - p_{2} = -\gamma h \\
+	p_{2} = p_{1} \\\\
+	p_{1} = p_{atm} + \gamma h
+}
 $$
 
 
