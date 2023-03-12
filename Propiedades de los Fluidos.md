@@ -109,10 +109,21 @@ Para trabajar con fluidos, se debe suponer una densidad uniforme donde cada una 
 En la presencia de baja presión sobre un fluido, las moléculas comienzan a escapar y a convertirse en vapor.
 Igualmente sucede al contrario, las moléculas pasan a la parte gaseosa pero, a su vez, en menor parte a fase líquida.
 
-Tras un momento se llega al equilibrio, en este punto se llega a la presión de vapor, es cuando el número de moléculas que pasa de la fase líquida a gaseosa y viceversa, son iguales.
+Tras un momento se llega al equilibrio (interfase), en este punto se llega a la presión de vapor, es cuando el número de moléculas que pasa de la fase líquida a gaseosa y viceversa, son iguales.
 La _presión de vapor_ o _presión de saturación_ es entonces la presión ejercida por el propio vapor de un fluido en equilibrio de fases.
 
-Algunas presiones de acuerdo a la temperatura son:
+Esta es una propiedad característica de los fluidos.
+Se puede calcular con la ecuación de Antoine:
+$$\log_{10} P = A - \frac{B}{T + C}$$
+Donde $A$, $B$ y $C$ son constantes que dependen del fluido.
+
+>[!Info]
+>Para el mercurio:
+>-   $A = 4.01859$
+> -   $B = 1435.847$
+> -   $C = -53.425$
+
+Algunas presiones de acuerdo a la temperatura para el aire son:
 
 ![[Pasted image 20230305222805.png]]
 
