@@ -436,3 +436,5 @@ $$
 
 Su representación en diagrama de bloques es:
 
+![[Pasted image 20230312124646.png]]
+
