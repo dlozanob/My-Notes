@@ -169,3 +169,8 @@ Donde $N$ es un valor muy grande.
 
 ## Conversión entre variables de estado y funciones de transferencia
 
+### Función de transferencia $\rightarrow$ Variables de estado
+
+Partiendo de una
+
+### Variables de estado $\rightarrow$ Función de transferencia
