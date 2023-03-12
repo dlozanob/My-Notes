@@ -531,7 +531,22 @@ Las variables internas no pueden ser controladas de ninguna manera.
 
 ## Sistemas concentrados y distribuidos
 
-- _Sistema concentrado_ : Aceptan discretizaciones. Son los modelos comunes y corrientes que se han venido trabajando.
+- _Sistema concentrado_ : Sus elementos son discretizaciones. Son los modelos comunes y corrientes que se han venido trabajando.
 
 Características:
-	- Sus variables
+	- Sus variables son función del tiempo
+	- Siguen las leyes de la mecánica clásica
+	- Siguen las leyes de Ohm y de Kirchoff
+	- $H(s)$ es una función racional
+	- Representan EDO's
+	- Sus ecuaciones de estado tienen dimensión  finita
+
+- _Sistema distribuido_ : Existe continuidad, tiene infinitos elementos.
+
+Características:
+	- Sus variables son función del tiempo y el espacio
+	- Siguen las leyes de la mecánica relativista
+	- Siguen las l
+	- $H(s)$ es una función racional
+	- Representan EDO's
+	- Sus ecuaciones de estado tienen dimensión  finita
