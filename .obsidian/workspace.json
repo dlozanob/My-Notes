@@ -11,8 +11,12 @@
             "id": "99dc3cdb0ee62b11",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Servomecanismos.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -75,6 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Servomecanismos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,6 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Servomecanismos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -112,7 +118,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Servomecanismos.md"
+              }
             }
           },
           {
@@ -136,7 +144,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: sistemas",
+                "query": "file: servo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
