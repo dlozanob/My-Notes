@@ -62,6 +62,9 @@ $$
 }
 $$
 
+>[!Note]
+>La ecuación solo es válida en ausencia de esfuerzos cortantes
+
 Si el fluido tiene una velocidad constante entonces:
 $$
 \begin{pmatrix}
@@ -83,8 +86,13 @@ $$
 	\boxed{\triangle p = -\gamma \triangle z}
 }
 $$
+>[!Note]
+>La ecuación solo es válida cuando:
+>- No hay esfuerzos cortantes
+>- Las partículas no están aceleradas
+>- Es un fluido incompresible
 
 Para gases ideales:
 $$
-	p
+	p = p_{atm}exp\biggr(\frac{-g*m_{mol}}{RT_{0}}(z - l)\biggr)
 $$
