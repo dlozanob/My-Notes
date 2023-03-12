@@ -414,7 +414,13 @@ $$
 	y(t) = \int_{0}^{t}u(\tau)d\tau + y(0) = x(t)
 }
 $$
+Implementación analógica:
 
+![[Pasted image 20230312122533.png]]
 
+Donde $RC = 1$.
+Configuraciones comunes:
+- $R = 1$ M$\Omega$ ; $C = 1$ $\mu F$
+- $R = 100$ k$\Omega$ ; $C = 10$ $\mu F$
 
 
