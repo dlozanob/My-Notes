@@ -283,11 +283,22 @@ $$
 	y(t) = Cx(t) + Du(t)
 }
 $$
+
 Aplicando transformada de Laplace a $\dot{x(t)}$ :
 $$
 \displaylines{
 	sX(s) = AX(s) + BU(s) \\
 	(sI - A)X(s) = BU(s) \\
-	X(s) = 
+	X(s) = (sI - A)^{-1}BU(s)
+}
+$$
+
+Sustituyendo en la transformada de $y(t)$ :
+$$
+\displaylines{
+	Y(s) = CX(s) + DU(s) \\
+	Y(s) = C(sI - A)^{-1}BU(s) + DU(s) \\
+	Y(s) = [C(sI - A)^{-1}B + D]U(s) \\\\
+	H(s) = C(sI - A)^{-1}B + D
 }
 $$
