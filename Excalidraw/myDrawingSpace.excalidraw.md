@@ -11,6 +11,7 @@ tags: [excalidraw]
 
 # Embedded files
 430e97eaa00d775881bb6558f8affe8ddc6b6279: [[Pasted Image 20230312134752_435.png]]
+ff7df3481c551f04baebbc6a079f63c0a18151d3: [[Pasted Image 20230312134907_460.png]]
 
 %%
 # Drawing
@@ -23,10 +24,10 @@ tags: [excalidraw]
 		{
 			"id": "mLJntrAA7B4ZzCqZvCOe7",
 			"type": "image",
-			"x": -470.30306168829793,
-			"y": -203.21667409520512,
-			"width": 305.51862137472085,
-			"height": 166.1135361419058,
+			"x": -333.7236820773053,
+			"y": -188.77346995944313,
+			"width": 240.89400870722642,
+			"height": 130.9764866105389,
 			"angle": 0,
 			"strokeColor": "transparent",
 			"backgroundColor": "transparent",
@@ -38,15 +39,47 @@ tags: [excalidraw]
 			"groupIds": [],
 			"roundness": null,
 			"seed": 1964580961,
-			"version": 82,
-			"versionNonce": 139393793,
+			"version": 166,
+			"versionNonce": 2065485793,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1678646862701,
+			"updated": 1678646957060,
 			"link": null,
 			"locked": false,
 			"status": "pending",
 			"fileId": "430e97eaa00d775881bb6558f8affe8ddc6b6279",
+			"scale": [
+				1,
+				1
+			]
+		},
+		{
+			"id": "gJGgMEnSrPUQyx0GJWvty",
+			"type": "image",
+			"x": -77.16370554655003,
+			"y": -188.9318464320816,
+			"width": 186.15215893587904,
+			"height": 129.1202474971906,
+			"angle": 0,
+			"strokeColor": "transparent",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 1640752193,
+			"version": 172,
+			"versionNonce": 1841388207,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1678646957060,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "ff7df3481c551f04baebbc6a079f63c0a18151d3",
 			"scale": [
 				1,
 				1
@@ -4636,6 +4669,38 @@ tags: [excalidraw]
 			"lastCommittedPoint": [
 				10.346922697802484,
 				0
+			]
+		},
+		{
+			"id": "rXLWm_QDxCQRAmkYOmyFe",
+			"type": "image",
+			"x": -241.63607006686328,
+			"y": -206.22367956153875,
+			"width": 469,
+			"height": 255,
+			"angle": 0,
+			"strokeColor": "transparent",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 1167717089,
+			"version": 40,
+			"versionNonce": 1027315809,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1678646935372,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "430e97eaa00d775881bb6558f8affe8ddc6b6279",
+			"scale": [
+				1,
+				1
 			]
 		}
 	],
