@@ -542,7 +542,7 @@ Características:
 	- $H(s)$ es una función racional
 	- Representan EDO's
 	- Sus ecuaciones de estado tienen dimensión finita
-	- Tienen respuestas infinitas al impulso (IIR)
+	- Tienen una respuesta infinita al impulso (IIR)
 
 - _Sistema distribuido_ : Existe continuidad, tiene infinitos elementos.
 
@@ -553,12 +553,11 @@ Características:
 	- $H(s)$ es una función no racional
 	- Representan EDP's
 	- Sus ecuaciones de estado tienen dimensión infinita
-	- Tienen respuestas finitas al impulso (FIR)
+	- Tienen una respuesta finita al impulso (FIR)
 
 
 >[!Note]
->La respuesta a impulso $h(t)$ es finita cuando después de un $t > \tau$, $$
-
+>La respuesta al impulso $h(t)$ es finita cuando después de un $t > \tau$, $h(t) = 0$
 
 
 Criterios para definir si un sistema es distribuido:

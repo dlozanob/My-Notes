@@ -8,11 +8,6 @@ tags: [excalidraw]
 
 
 # Text Elements
-
-# Embedded files
-430e97eaa00d775881bb6558f8affe8ddc6b6279: [[Pasted Image 20230312134752_435.png]]
-ff7df3481c551f04baebbc6a079f63c0a18151d3: [[Pasted Image 20230312134907_460.png]]
-
 %%
 # Drawing
 ```json
@@ -39,11 +34,11 @@ ff7df3481c551f04baebbc6a079f63c0a18151d3: [[Pasted Image 20230312134907_460.png]
 			"groupIds": [],
 			"roundness": null,
 			"seed": 1964580961,
-			"version": 166,
-			"versionNonce": 2065485793,
-			"isDeleted": false,
+			"version": 167,
+			"versionNonce": 289418447,
+			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1678646957060,
+			"updated": 1678649654266,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -71,11 +66,11 @@ ff7df3481c551f04baebbc6a079f63c0a18151d3: [[Pasted Image 20230312134907_460.png]
 			"groupIds": [],
 			"roundness": null,
 			"seed": 1640752193,
-			"version": 172,
-			"versionNonce": 1841388207,
-			"isDeleted": false,
+			"version": 173,
+			"versionNonce": 1136724897,
+			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1678646957060,
+			"updated": 1678649654266,
 			"link": null,
 			"locked": false,
 			"status": "pending",
