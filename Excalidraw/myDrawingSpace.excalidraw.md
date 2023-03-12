@@ -10,7 +10,8 @@ tags: [excalidraw]
 # Text Elements
 
 # Embedded files
-db762c4b2e61526a1f0ef77f91b3c11db8b66c1b: [[Pasted Image 20230312124632_529.png]]
+278d7230a9c6526e910debdda829796d148a26b5: [[Pasted Image 20230312134035_230.png]]
+8015c434cb831c14ee5227428366dc077cb52f5a: [[Pasted Image 20230312134050_247.png]]
 
 %%
 # Drawing
@@ -20,6 +21,70 @@ db762c4b2e61526a1f0ef77f91b3c11db8b66c1b: [[Pasted Image 20230312124632_529.png]
 	"version": 2,
 	"source": "https://excalidraw.com",
 	"elements": [
+		{
+			"id": "cUS-i3C7NUEQXSVDi9ecX",
+			"type": "image",
+			"x": -473.97867961302137,
+			"y": -182.02375834230665,
+			"width": 315.0635392117213,
+			"height": 157.78791882473197,
+			"angle": 0,
+			"strokeColor": "transparent",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 425659055,
+			"version": 175,
+			"versionNonce": 1189146735,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1678646460118,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "278d7230a9c6526e910debdda829796d148a26b5",
+			"scale": [
+				1,
+				1
+			]
+		},
+		{
+			"id": "KQgQfMZmWS10RSbkcfXGE",
+			"type": "image",
+			"x": -143.9239972003769,
+			"y": -180.2032955148351,
+			"width": 324.2757754862592,
+			"height": 153.29400295714072,
+			"angle": 0,
+			"strokeColor": "transparent",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 1599619439,
+			"version": 258,
+			"versionNonce": 1967257807,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1678646562529,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "8015c434cb831c14ee5227428366dc077cb52f5a",
+			"scale": [
+				1,
+				1
+			]
+		},
 		{
 			"id": "yFkqzRKqOT2PTr8ifWomm",
 			"type": "image",
@@ -38,11 +103,11 @@ db762c4b2e61526a1f0ef77f91b3c11db8b66c1b: [[Pasted Image 20230312124632_529.png]
 			"groupIds": [],
 			"roundness": null,
 			"seed": 792647119,
-			"version": 104,
-			"versionNonce": 479381505,
-			"isDeleted": false,
+			"version": 105,
+			"versionNonce": 433856481,
+			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1678643199839,
+			"updated": 1678646422101,
 			"link": null,
 			"locked": false,
 			"status": "pending",

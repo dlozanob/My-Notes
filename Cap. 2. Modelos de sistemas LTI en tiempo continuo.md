@@ -493,3 +493,20 @@ La descripción externa de un sistema no describe lo que realmente sucede en est
 La descripción interna si lo hace.
 Por tanto, se pierde información del sistema real al representarlo en su función de transferencia.
 
+A continuación, se exponen casos donde esto sucede. Los siguientes son circuitos equivalentes, es decir, tienen la misma función de transferencia.
+
+- _Circuito no observable_ :
+
+![[Pasted image 20230312134253.png]]
+
+Al 
+
+
+- _Circuito no controlable_ :
+
+
+
+- _Circuito no observable y no controlable_ :
+
+
+
