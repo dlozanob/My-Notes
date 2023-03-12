@@ -202,7 +202,6 @@ $$
 
 	$$
 \displaylines{
-\boxed{
 \dot{x}(t) =
 \begin{pmatrix}
 	-a_{2} & . & . & . & -a_{g+1} \\\\
@@ -226,7 +225,6 @@ y(t) =
 \end{pmatrix}
 x(t) + 
 du(t)
-}
 }
 $$
 
@@ -341,3 +339,25 @@ $$
 }
 $$
 
+Entonces:
+$$
+	H(s) =
+	\begin{pmatrix}
+		3 & 4
+	\end{pmatrix}
+	\biggr(
+	\begin{pmatrix}
+		s & 0 \\
+		0 & s
+	\end{pmatrix} -
+	\begin{pmatrix}
+		-2 & -10 \\
+		1 & 0
+	\end{pmatrix}
+	\biggr)^{-1}
+	\begin{pmatrix}
+		1 \\
+		0
+	\end{pmatrix}
+	- 2
+$$
