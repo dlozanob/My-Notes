@@ -365,3 +365,8 @@ $$
 	H(s) = \frac{3s+4}{s\left(s+2\right)+10} - 2
 $$
 
+
+## Simulación de modelos usando computación analógica y digital
+
+- _Descripción externa_ : Ecuaciones diferenciales (usualmente son de un orden superior)
+- _Des_
