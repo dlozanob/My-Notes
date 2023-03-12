@@ -134,15 +134,14 @@ MIde la presión manométrica del fluido en la cámara. Si tenemos dos líquidos
 
 $$
 \displaylines{
-	p_{2} - p_{} = -\gamma h \\
+	p_{2} - p_{atm} = -\gamma (0 - h) \\
 	p_{2} = p_{1} \\\\
-	p_{1} = p_{atm} + \gamma h
+	p_{1man} = \gamma h
 }
 $$
 
 
-
-
 ### Manómetro diferencial
 
+Miden la caida de presión a lo largo de secciones horizontales. Estas caidas son producidas por fuerzas de fricción y viscosidad (en la realidad existen esfuerzos cortantes que producen esto).
 
