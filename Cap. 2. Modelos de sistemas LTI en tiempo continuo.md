@@ -368,5 +368,12 @@ $$
 
 ## Simulación de modelos usando computación analógica y digital
 
-- _Descripción externa_ : Ecuaciones diferenciales (usualmente son de un orden superior)
-- _Des_
+- _Descripción externa_ : Consideran únicamente las entradas y las salidas del sistema
+	- Ecuaciones diferenciales (usualmente son de un orden superior).
+	- Convolución
+
+- _Descripción interna_ : Se toman en cuenta variables internas del sistema
+	- Variables de estado (son de primer orden)
+
+Son preferibles las ecuaciones de estado sobre las ecuaciones diferenciales para simulación.
+Debido a que estas se pueden implementar en computación analógica  digital, además de poder representar sistemas no lineales.
