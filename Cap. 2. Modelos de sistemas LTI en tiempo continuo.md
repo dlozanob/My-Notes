@@ -228,7 +228,9 @@ du(t)
 }
 $$
 
-   La matriz identidad de la esquina inferior izquierda dentro de $A$ en $\dot{x}(t)$ tiene dimensiones $(G - 1)x(G - 1)$. La columna de la derecha desde la fila 2, siempre son ceros.
+>[!Note]
+>-   La matriz identidad de la esquina inferior izquierda dentro de $A$ en $\dot{x}(t)$ tiene dimensiones $(G - 1)x(G - 1)$. La columna de la derecha desde la fila 2, siempre son ceros.
+>- La matriz $C$ en $y(t)$ debe ser de dimensión $1xG$. 
 
 
 - __Ejemplo__ :
@@ -266,6 +268,8 @@ y(t) =
 \begin{pmatrix}
 	-2 & 0.75 & 2.5 & -6.75
 \end{pmatrix}
+x(t) +
+1.5u(t)
 }
 $$
 
