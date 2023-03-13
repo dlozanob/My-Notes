@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "41e503b96b112383",
+        "id": "9a3a4997183cbdcd",
         "type": "tabs",
         "children": [
           {
-            "id": "99dc3cdb0ee62b11",
+            "id": "9105fd5d15a83cab",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Servomecanismos.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -79,7 +75,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Servomecanismos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +91,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Servomecanismos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,9 +112,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Servomecanismos.md"
-              }
+              "state": {}
             }
           },
           {
@@ -170,8 +162,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "99dc3cdb0ee62b11",
+  "active": "9105fd5d15a83cab",
   "lastOpenFiles": [
+    "Servomecanismos.md",
     "LaTeX.md",
     "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
     "Excalidraw/myDrawingSpace.excalidraw.md",
@@ -200,7 +193,6 @@
     "Tema 3. Indicadores macroeconómicos.md",
     "Fórmulas Financieras Excel.md",
     "Cap. 1. Modelos de sistemas lineales y no lineales.md",
-    "Servomecanismos.md",
     "LaTeX Template.md",
     "Mecanismos.md",
     "Módulo 2.md",
