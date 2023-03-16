@@ -13,6 +13,19 @@ La ingeniería económica es el puente que une el medio técnico con el económi
 
 El criterio para elegir una alternativa en la ingeniería económica para un conjunto de estimaciones se denomina _medida de valor_.
 
+Los pasos de un estudio en ingeniería económica son:
+1. Identificación y comprensión del problema; definición del objetivo del proyecto.
+2. Recopilación de información relevante, datos disponibles y definición de soluciones viables.
+3. Hacer estimaciones realistas de los flujos de efectivo.
+4. Identificación de una medida económica del criterio de valor para la toma de desiciones.
+5. Evaluación de cada opción; considerar factores no económicos; aplicar un análisis de sensibilidad.
+6. Elección de la mejor opción.
+7. Implementación de la solución y vigilar los resultados.
+
+- _Costo de operación anual (COA)_ o _Costo de operación y mantenimiento (COM)_ : Costo para mantener un servicio a lo largo del tiempo.
+
+
+
 
 ## Eficiencia
 
