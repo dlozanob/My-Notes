@@ -1,5 +1,6 @@
 # Ingeniería Económica
 
+
 El proceso de la ingeniería se compone de:
 1. Determinación de objetivos
 2. Identificación de factores estratégicos
@@ -36,10 +37,11 @@ En ocasiones la mejor alternativa es no hacer nada (HN).
 
 Tipos de moral y ética:
 - Moral universal o común: Robar, asesinar, mentir está mal.
-- Moral individual o personal: Ser consiente de lo que es 
+- Moral individual o personal: Ser consiente de lo que es inmoral.
+- Ética de la ingeniería profesional: Códigos profesionales
 
-
-
+>[!Info]
+>El _Código de ética para ingenieros_ dicta aquellos códigos profesionales que debe acatar un ingeniero
 
 
 ## Eficiencia
@@ -68,6 +70,12 @@ La eficiencia puede mejorarse reduciendo la cantidad de insumos necesaria, o inc
 >La _efectividad_, en cambio de la _eficiencia_, tiene en cuenta todos los aspectos que surgen tras cierto proceso
 
 
+## Tasa de interés y tasa de retorno
+
+El _interés_ es el dinero excedente tras una
+$$
+	Interés = CantFinalDinero - CantInicialDinero
+$$
 
 
 
