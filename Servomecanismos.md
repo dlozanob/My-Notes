@@ -120,6 +120,33 @@ Se debe de tener en cuenta el conjunto de normas e informes técnicos _IEC 61131
 
 
 
+## Mechanisms
+
+
+El opuesto de tracking es regulación
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Proyecto académico
 
 ![[Pasted image 20230214095505.png]]
