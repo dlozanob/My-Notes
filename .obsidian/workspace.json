@@ -30,9 +30,16 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c5fe02f6e3a0136e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Servomecanismos.md",
+                "file": "Ingeniería Económica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Servomecanismos.md",
+                "file": "Ingeniería Económica.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Servomecanismos.md"
+                "file": "Ingeniería Económica.md"
               }
             }
           },
@@ -183,10 +190,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4fd00402b5ac6d06",
+  "active": "9105fd5d15a83cab",
   "lastOpenFiles": [
-    "Ingeniería Económica.md",
     "Servomecanismos.md",
+    "Ingeniería Económica.md",
     "LaTeX.md",
     "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
     "Excalidraw/myDrawingSpace.excalidraw.md",
