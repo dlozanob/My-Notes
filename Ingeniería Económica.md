@@ -72,12 +72,12 @@ La eficiencia puede mejorarse reduciendo la cantidad de insumos necesaria, o inc
 
 ## Tasa de interés y tasa de retorno
 
-El _interés_ es el dinero excedente tras una
+El _interés_ es el dinero excedente tras una inversión:
 $$
 	Interés = CantFinalDinero - CantInicialDinero
 $$
 
-
+Variantes 
 
 
 
