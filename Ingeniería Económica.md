@@ -22,7 +22,22 @@ Los pasos de un estudio en ingeniería económica son:
 6. Elección de la mejor opción.
 7. Implementación de la solución y vigilar los resultados.
 
-- _Costo de operación anual (COA)_ o _Costo de operación y mantenimiento (COM)_ : Costo para mantener un servicio a lo largo del tiempo.
+El factor principal para elegir la mejor alternativa es la _rentabilidad_ (mayores ingresos, menores costos).
+
+• _Costo de operación anual (COA)_ o _Costo de operación y mantenimiento (COM)_ : Costo para mantener un servicio a lo largo del tiempo.
+
+Algunos factores no económicos son:
+- Presiones del mercado; requiere mayor presencia internacional
+- Disponibilidad de recursos
+- Leyes ambientales, de seguridad, legales, etc.
+- Interés de la alta dirección o un grupo en particular por alguna alternativa
+
+En ocasiones la mejor alternativa es no hacer nada (HN).
+
+Tipos de moral y ética:
+- Moral universal o común: Robar, asesinar, mentir está mal.
+- Moral individual o personal: Ser consiente de lo que es 
+
 
 
 
