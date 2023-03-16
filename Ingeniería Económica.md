@@ -77,7 +77,13 @@ $$
 	Interés = CantFinalDinero - CantInicialDinero
 $$
 
-Variantes 
+A la cantidad de dinero inicial también se le conoce como _principal_
+
+Variantes de interés:
+- Interés pagado: Se paga el interés
+- Interés ganado: Se gana el interés
+
+
 
 
 
