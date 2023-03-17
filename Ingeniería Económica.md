@@ -25,7 +25,7 @@ Los pasos de un estudio en ingeniería económica son:
 
 El factor principal para elegir la mejor alternativa es la _rentabilidad_ (mayores ingresos, menores costos).
 
-• _Costo de operación anual (COA)_ o _Costo de operación y mantenimiento (COM)_ : Costo para mantener un servicio a lo largo del tiempo.
+- _Costo de operación anual (COA)_ o _Costo de operación y mantenimiento (COM)_ : Costo para mantener un servicio a lo largo del tiempo.
 
 Algunos factores no económicos son:
 - Presiones del mercado; requiere mayor presencia internacional
@@ -77,19 +77,23 @@ $$
 	Interés = CantFinalDinero - CantInicialDinero
 $$
 
-A la cantidad de dinero inicial también se le conoce como _principal_
-
-Variantes de interés:
-- Interés pagado: Se paga el interés
-- Interés ganado: Se gana el interés
+A la cantidad de dinero inicial también se le conoce como _principal_.
 
 La tasa de interés es el porcentaje de ganancia obtenido a partir del principal:
 $$
 	i = \frac{Interés}{Principal}*100\%
 $$
-Esto toma lugar sobre un _periodo de interés_. El más común es 1 año
+Esto toma lugar sobre un _periodo de interés_. El más común, es el interés a un año.
+
+Dependiendo de la perspectiva, el interés puede tomar diferentes nombres:
+
+| Perspectiva | Nombre | Descripción |
+|-|-|-|
+| Prestador | _Tasa de retorno_ | Interés ganado |
+| Prestatario | _Tasa de interés_ | Interés a pagar |
 
 
+- _Retorno sobre la inversión (RSI)_
 
 
 
