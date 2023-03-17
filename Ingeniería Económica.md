@@ -362,11 +362,16 @@ $$
 Se obtiene:
 $$
 \displaylines{
-	
+	\boxed{P = \frac{G}{i}\left[ \frac{(1+i)^{n} - 1}{(1+i)^{n}i} - \frac{n}{(1+i)^{n}} \right]}
 }
 $$
 
-
+Por tanto, si se tiene un gradiente (anualidad + $g$), para hallar su $VP$ se debe hacer:
+$$
+\displaylines{
+	P = A(P/A, i \%, n) + 
+}
+$$
 
 
 
