@@ -108,6 +108,13 @@ La inflación produce:
 - Reducción en la TR real
 
 
+- _Equivalencia económica_ : Es la equivalencia en el tiempo de un mismo monto de dinero
+Por ejemplo: Si la $i = 6\%$ anual, $100\$$ hoy equivalen a $106\$$ un año después.
+
+>[!Note]
+>Las alternativas se determinan de acuerdo a la tasa de interés más rentable
+
+
 ## Terminología y símbolos
 
 - _P_ : Valor de dinero en el presente (t = 0). También llamada: _VP (Valor Presente)_, _VPN (Valor Presente Neto)_, _FED (Flujo de Efectivo Descontado)_, _CC (Costo Capitalizado)_.
@@ -131,8 +138,17 @@ Todos los flujos de efectivo ocurren al final de un periodo de interés
 
 - _Diagramas de flujo de efectivo_ o _diagramas de flujo de caja_ : Representan los flujos de efectivo a lo largo del tiempo.
 
+Un ejemplo es el siguiente:
+
+![[Pasted image 20230316211901.png]]
 
 
+## Interés simple y compuesto
+
+- _Interés simple_ : Es la suma de los intereses de cada periodo de interés. El interés en cada periodo es el mismo.
+$$
+	I = Pni
+$$
 
 
 
@@ -143,4 +159,3 @@ Todos los flujos de efectivo ocurren al final de un periodo de interés
 ## External Links
 
 - [[Fórmulas Financieras Excel]]
-

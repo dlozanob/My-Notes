@@ -41,8 +41,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/myDrawingSpace.excalidraw.md",
+                "file": "Ingeniería Económica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/myDrawingSpace.excalidraw.md",
+                "file": "Ingeniería Económica.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/myDrawingSpace.excalidraw.md"
+                "file": "Ingeniería Económica.md"
               }
             }
           },
@@ -193,8 +192,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "66efc0521255a7cf",
+  "active": "9105fd5d15a83cab",
   "lastOpenFiles": [
+    "Pasted image 20230316211901.png",
+    "Excalidraw/myDrawingSpace.excalidraw.md",
     "Ingeniería Económica.md",
     "Servomecanismos.md",
     "Tema 2. Función de oferta y demanda.md",
@@ -205,7 +206,6 @@
     "Módulo 2.md",
     "LaTeX.md",
     "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
-    "Excalidraw/myDrawingSpace.excalidraw.md",
     "Pasted image 20230312134920.png",
     "Pasted Image 20230312134907_460.png",
     "Pasted Image 20230312134752_435.png",
@@ -229,7 +229,6 @@
     "Cap. 1. Modelos de sistemas lineales y no lineales.md",
     "LaTeX Template.md",
     "Mecanismos.md",
-    "Tema 1. Economía.md",
-    "Electrónica Digital II.md"
+    "Tema 1. Economía.md"
   ]
 }
