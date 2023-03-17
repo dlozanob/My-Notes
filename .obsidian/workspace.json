@@ -29,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/myDrawingSpace.excalidraw.md",
+                "file": "Ingeniería Económica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/myDrawingSpace.excalidraw.md",
+                "file": "Ingeniería Económica.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/myDrawingSpace.excalidraw.md"
+                "file": "Ingeniería Económica.md"
               }
             }
           },
@@ -181,11 +180,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "66efc0521255a7cf",
+  "active": "9105fd5d15a83cab",
   "lastOpenFiles": [
+    "Pasted image 20230317132614.png",
+    "Excalidraw/myDrawingSpace.excalidraw.md",
     "Ingeniería Económica.md",
     "Pasted image 20230317132247.png",
-    "Excalidraw/myDrawingSpace.excalidraw.md",
     "Pasted image 20230317131405.png",
     "Pasted image 20230317114256.png",
     "Pasted image 20230317114239.png",

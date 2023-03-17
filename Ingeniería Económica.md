@@ -297,14 +297,14 @@ $$
 $$
 Lo que se traduce en: Dado un valor presente, hallar un valor futuo, a una tasa del $i\%$ con $n$ periodos.
 
-| Factor | Fórmula | Interpretación |
-|-|-|-|
-| $(P/F, i\%, n)$ | $\frac{1}{(i + 1)^{n}}$ | ![[Pasted image 20230317112632.png]] |
-| $(F/P, i\%, n)$ | $(i + 1)^{n}$ | ![[Pasted image 20230317112848.png]] |
-| $(P/A, i\%, n)$ | $\frac{(1 + i)^{n} - 1}{(1 + i)^{n}i}$ | ![[Pasted image 20230317114256.png]] |
-| $(A/P, i\%, n)$ | $\frac{(1 + i)^{n}i}{(1 + i)^{n} - 1}$ | ![[Pasted image 20230317131405.png]] |
-| $(F/A, i\%, n)$ | $\frac{(1 + i)^{n} - 1}{i}$ | ![[Pasted image 20230317132247.png]] |
-| $(A/F, i\%, n)$ | $\frac{i}{(i + 1)^{n} - 1}$ |  |
+| Factor | Extensión | Fórmula | Nombre | Interpretación |
+|-|-|-|-|-|
+| P/F | $(P/F, i\%, n)$ | $\frac{1}{(i + 1)^{n}}$ | Valor presente | ![[Pasted image 20230317112632.png]] |
+| F/P | $(F/P, i\%, n)$ | $(i + 1)^{n}$ | Cantidad compuesta | ![[Pasted image 20230317112848.png]] |
+| P/A | $(P/A, i\%, n)$ | $\frac{(1 + i)^{n} - 1}{(1 + i)^{n}i}$ | Valor presente | ![[Pasted image 20230317114256.png]] |
+| A/P | $(A/P, i\%, n)$ | $\frac{(1 + i)^{n}i}{(1 + i)^{n} - 1}$ | Recuperación de capital | ![[Pasted image 20230317131405.png]] |
+| F/A | $(F/A, i\%, n)$ | $\frac{(1 + i)^{n} - 1}{i}$ | Cantidad compuesta | ![[Pasted image 20230317132247.png]] |
+| A/F | $(A/F, i\%, n)$ | $\frac{i}{(i + 1)^{n} - 1}$ | Factor de amortización | ![[Pasted image 20230317132614.png]] |
 
 >[!Note]
 >Los flujos en verde se convierten en los flujos en rojo
