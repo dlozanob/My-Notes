@@ -83,9 +83,11 @@ Variantes de interés:
 - Interés pagado: Se paga el interés
 - Interés ganado: Se gana el interés
 
-Esto toma lugar sobre un _periodo de interés_.
-
-
+La tasa de interés es el porcentaje de ganancia obtenido a partir del principal:
+$$
+	i = \frac{Interés}{Principal}*100\%
+$$
+Esto toma lugar sobre un _periodo de interés_. El más común es 1 año
 
 
 
