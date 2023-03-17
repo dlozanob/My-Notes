@@ -324,13 +324,19 @@ Un gradiente puede ser:
 
 
 Un gradiente se compone de:
-- Base: 
-- 
+- Base: Es una anualidad
+- Valor del gradiente ($g$)
 
 ![[Pasted image 20230317164817.png]]
 
+Entonces:
+$$
+\displaylines{
+	VP_{gradiente} = VP_{Base} + VP_{g}
+}
+$$
 
-
+Supongamos que $G = H - A$
 
 
 

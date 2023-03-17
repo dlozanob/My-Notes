@@ -29,7 +29,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ingeniería Económica.md",
+                "file": "Excalidraw/myDrawingSpace.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ingeniería Económica.md",
+                "file": "Excalidraw/myDrawingSpace.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ingeniería Económica.md"
+                "file": "Excalidraw/myDrawingSpace.excalidraw.md"
               }
             }
           },
@@ -180,11 +181,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ddbd1e79af701b37",
+  "active": "66efc0521255a7cf",
   "lastOpenFiles": [
+    "Ingeniería Económica.md",
     "Pasted image 20230317164817.png",
     "Excalidraw/myDrawingSpace.excalidraw.md",
-    "Ingeniería Económica.md",
     "Fórmulas Financieras Excel.md",
     "LaTeX.md",
     "Pasted image 20230317132614.png",
@@ -196,7 +197,6 @@
     "Pasted image 20230317112848.png",
     "Pasted image 20230317112632.png",
     "Pasted image 20230316223350.png",
-    "Pasted image 20230316221440.png",
     "Servomecanismos.md",
     "Tema 2. Función de oferta y demanda.md",
     "Módulo 1. Economía y matemática financiera.md",
