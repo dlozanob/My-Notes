@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ingeniería Económica.md",
+                "file": "Fórmulas Financieras Excel.md",
                 "mode": "source",
                 "source": false
               }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ingeniería Económica.md",
+                "file": "Fórmulas Financieras Excel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ingeniería Económica.md",
+                "file": "Fórmulas Financieras Excel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ingeniería Económica.md"
+                "file": "Fórmulas Financieras Excel.md"
               }
             }
           },
@@ -182,9 +182,9 @@
   },
   "active": "9105fd5d15a83cab",
   "lastOpenFiles": [
+    "Ingeniería Económica.md",
     "Excalidraw/myDrawingSpace.excalidraw.md",
     "LaTeX.md",
-    "Ingeniería Económica.md",
     "Pasted image 20230317132614.png",
     "Pasted image 20230317132247.png",
     "Pasted image 20230317131405.png",
