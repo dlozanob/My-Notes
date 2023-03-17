@@ -21,5 +21,13 @@
       "modifiers": [],
       "key": "F11"
     }
+  ],
+  "obsidian-excalidraw-plugin:insert-LaTeX-symbol": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "4"
+    }
   ]
 }
