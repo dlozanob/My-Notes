@@ -380,9 +380,11 @@ Interpretación:
 
 ## Tasa nominal y efectiva de interés
 
+El interés compuesto $i$ que se ha venido trabajando es un interés efectivo anual.
+Sin embargo, para periodos inferiores a 1 año, estas tasas debes ser tenidas en cuenta.
 
-El intrés compuesto $i$ que se ha venido tranajando es un interés efectivo anual.
-
+- _Tasa nominal (R)_ : No hay capitalización de interés en los periodos. No es real.
+- _Tasa efectiva (i%)_ : Hay capitalización de in
 
 
 
