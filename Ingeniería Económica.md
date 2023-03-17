@@ -315,6 +315,8 @@ Lo que se traduce en: Dado un valor presente, hallar un valor futuo, a una tasa 
 
 
 
+
+
 ## External Links
 
 - [[Fórmulas Financieras Excel]]
