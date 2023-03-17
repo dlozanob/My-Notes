@@ -291,8 +291,11 @@ $$
 	F = P(F/P, i\%, n)
 }
 $$
+Lo que se traduce en: Dado un valor presente, hallar un valor futuo, a una tasa del $i\%$ con $n$ periodos.
 
-- $(P/F, i\%, n)$
+| Factor | Fórmula | Interpretación |
+|-|-|-|
+| $(P/F, i\%, n)$ | $\frac{1}{(i + 1)^{n}}$ | |
 - $(F/P, i\%, n)$
 - $(P/A, i\%, n)$
 - $(A/P, i\%, n)$
