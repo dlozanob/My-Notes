@@ -120,7 +120,8 @@ La inflación produce:
 Por ejemplo: Si la $i = 6\%$ anual, $100\$$ hoy equivalen a $106\$$ un año después.
 
 >[!Note]
->Las alternativas se determinan de acuerdo a la tasa de interés más rentable
+>- Las alternativas se determinan de acuerdo a la tasa de interés más rentable
+>- La tasa de interés aumenta con el riesgo y la duración del proyecto
 
 
 ## Terminología y símbolos
@@ -456,6 +457,19 @@ Los métodos de evaluación económica de proyectos son:
 
 ### Método: VPN
 
+Se trae todo el flujo de caja del proyecto a valor presente.
+$$
+\displaylines{
+	VPN = \sum VP_{I} - \sum VP_{E}
+}
+$$
+
+- El proyecto se acepta si: $VPN \geq 0$, ya que, supera o cumple con la TMAR
+- 
+
+
+
+
 
 ### Método: VF
 
@@ -470,6 +484,10 @@ Los métodos de evaluación económica de proyectos son:
 ### Método: B/C
 
 
+### Método: PRI
+
+
+### Método: PE
 
 
 
