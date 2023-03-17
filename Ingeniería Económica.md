@@ -89,11 +89,24 @@ Dependiendo de la perspectiva, el interés puede tomar diferentes nombres:
 
 | Perspectiva | Nombre | Descripción |
 |-|-|-|
-| Prestador | _Tasa de retorno_ | Interés ganado |
+| Prestador | _Tasa de retorno (TR)_ | Interés ganado |
 | Prestatario | _Tasa de interés_ | Interés a pagar |
 
 
-- _Retorno sobre la inversión (RSI)_
+- _Retorno sobre la inversión (RSI)_ : Tasa de retorno
+
+La inflación aumenta las tasas de intereses, siendo así:
+$$
+	i = i_{real} + i_{inflación}
+$$
+
+La inflación produce:
+- Reducción del poder adquisitivo de la moneda
+- Incremento en el _IPC (Índice de Precios al Consumidor)_
+- Incremento de costos de equipo y mantenimiento
+- Incremento en los costos de recursos huma
+
+
 
 
 
