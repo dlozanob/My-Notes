@@ -217,7 +217,15 @@ $$
 
 La ley de la oferta y la demanda obedece la siguiente gráfica:
 
+![[Pasted image 20230316221440.png]]
 
+- Curva de la demanda: A menores precios, los consumidores estarán dispuestos a comprar más unidades.
+- Curva de la oferta: A precios más altos, las compañías estarán dispuestas a producir más unidades.
+
+>[!Info]
+>- Los 3 factores de la economía según economistas clásicos son: tierra, capital y trabajo
+>- _COPNIA_ : Consejo Profesional de Ingeniería y Afines
+>- Metodología matriz de marco lógico : 
 
 
 
