@@ -70,7 +70,7 @@ La eficiencia puede mejorarse reduciendo la cantidad de insumos necesaria, o inc
 >La _efectividad_, en cambio de la _eficiencia_, tiene en cuenta todos los aspectos que surgen tras cierto proceso
 
 
-## Tasa de interés y tasa de retorno
+## Concepto de interés
 
 El _interés_ es el dinero excedente tras una inversión:
 $$
@@ -104,8 +104,13 @@ La inflación produce:
 - Reducción del poder adquisitivo de la moneda
 - Incremento en el _IPC (Índice de Precios al Consumidor)_
 - Incremento de costos de equipo y mantenimiento
-- Incremento en los costos de recursos huma
+- Incremento en los costos de recursos humanos
+- Reducción en la TR real
 
+
+## Terminología y símbolos
+
+- _P_, _VP (Valor Presente)_, _VPN (Valor Presente Neto)_, _FED (Flujo de Efectivo Descontado)_, _CC (Costo Capitalizado)_ : Valor de dinero en el presente (t = 0).
 
 
 
