@@ -110,11 +110,21 @@ La inflación produce:
 
 ## Terminología y símbolos
 
-- _P_, _VP (Valor Presente)_ : Valor de dinero en el presente (t = 0). También llamada: _VPN (Valor Presente Neto)_, _FED (Flujo de Efectivo Descontado)_, _CC (Costo Capitalizado)_.
+- _P_ : Valor de dinero en el presente (t = 0). También llamada: _VP (Valor Presente)_, _VPN (Valor Presente Neto)_, _FED (Flujo de Efectivo Descontado)_, _CC (Costo Capitalizado)_.
 - _F_ : Valor de dinero en el futuro (t > 0). También llamada: _VF (Valor Futuro)_.
 - _A_ : Anualidad. Serie de cantidades de dinero consecutivas iguales. Unidad: $[\$/t]$. También llamada: _VA (Valor anual)_, _VAUE (Valor Anual Uniforme Equivalente)_.
 - _n_ :  Número de periodos de interés.
-- 
+- _i_ : Tasa de interés.
+- _t_ :  Tiempo.
+
+
+## Flujos de efectivo: Estimación y diagramación
+
+
+
+
+
+
 
 
 
