@@ -400,8 +400,22 @@ Sustituyendo $i=\frac{R}{t}$ en $F=P(1+i)^{n}$. Con $n = t$, ya que, nos referim
 $$
 \displaylines{
 	F = P\left( 1+\frac{R}{t} \right)^{t} \\
-	P(1+i)^{n} = P\left( 1+\frac{R}{t} \right)^{t} \\
-	
+	P(1+i)^{n} = P\left( 1+\frac{R}{t} \right)^{t}
+}
+$$
+Entonces $n = 1$ por tratarse de $1$ año. Y se obtiene la _tasa efectiva anual_ ($i_{ea}$) :
+$$
+\displaylines{
+	\boxed{i_{ea} = \left( 1+\frac{R}{t} \right)^{t} - 1}
+}
+$$
+
+- __Ejemplo__ :
+Se tiene un $i = 6 \%$ anual capitalizado trimestralmente.
+$$
+\displaylines{
+	R &= 0.06*4 \\
+	&= 0.24
 }
 $$
 
