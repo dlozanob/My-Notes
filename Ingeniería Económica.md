@@ -384,7 +384,21 @@ El interés compuesto $i$ que se ha venido trabajando es un interés efectivo an
 Sin embargo, para periodos inferiores a 1 año, estas tasas debes ser tenidas en cuenta.
 
 - _Tasa nominal (R)_ : No hay capitalización de interés en los periodos. No es real.
-- _Tasa efectiva (i%)_ : Hay capitalización de in
+$$
+\displaylines{
+	R = (i \%)t
+}
+$$
+Donde $i \%$ representa la tasa del periodo (mensual, trimestral, semanal, etc), $t$ representa el número de veces que este periodo cabe en $1$ año.
+
+>[!Note]
+>Por convención se usa $n$ para periodos anuales y $t$ para periodos inferiores a un año
+
+
+
+- _Tasa efectiva (i%)_ : Hay capitalización de interés en los periodos. Es real.
+
+
 
 
 
