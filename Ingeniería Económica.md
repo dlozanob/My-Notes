@@ -248,12 +248,18 @@ Las inversiones son recuperadas en la etapa operativa y en la etapa de liquidaci
 ### Criterios para fijar la TMAR
 
 1. $TMAR = \% Inflación + \% Riesgo$
-2. $TMAR = CPPC$
+2. $TMAR > CPPC$
 
 - __Ejemplo__ :
 
-| Fuentes | m
+| Fuentes | $\%$ Financiación | Costo del dinero $i\%$ |  Costo Ponderado de Capital |
+|-|-|-|-|
+| Banco A | $25 \%$ | $26.8 \%$ | $6.7 \%$ |
+| Banco B | $35 \%$ | $27.3 \%$ | $9.56 \%$ |
+| Inversionistas | $40 \%$ | $32.5\%$ | $13\%$ |
+| $\sum$ | $100\%$ | $86, 6\%$ | $29.26\%$ |
 
+Entonces $TMAR > 29.26\%$
 
 
 ## Anualidades
