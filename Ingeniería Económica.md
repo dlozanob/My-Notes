@@ -411,13 +411,22 @@ $$
 $$
 
 - __Ejemplo__ :
-Se tiene un $i = 6 \%$ anual capitalizado trimestralmente.
+Se tiene un $i = 6 \%$ trimestral.
 $$
 \displaylines{
 	R &= 0.06*4 \\
-	&= 0.24
+	&= 0.24 \\\\
+	i_{ea} &= \left( 1+\frac{0.24}{4} \right)^{4} - 1 \\
+	&= 0.26
 }
 $$
+
+>[!Note]
+>En este ejemplo, se dice que $R = 24 \%$ es una tasa de interés anual capitalizada trimestralmente
+
+
+
+
 
 
 
