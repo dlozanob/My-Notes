@@ -83,6 +83,8 @@ Variantes de interés:
 - Interés pagado: Se paga el interés
 - Interés ganado: Se gana el interés
 
+Esto toma lugar sobre un _periodo de interés_.
+
 
 
 
