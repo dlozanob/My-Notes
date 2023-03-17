@@ -286,7 +286,7 @@ $$
 
 ## Resolución de problemas de flujo de caja
 
-La relación entre $P$, $F$ y $A$ puede expresarse con factores.
+La relación entre $P$, $F$, $A$ y $G$ puede expresarse con factores.
 
 A modo de ejemplo:
 $$
@@ -305,6 +305,7 @@ Lo que se traduce en: Dado un valor presente, hallar un valor futuo, a una tasa 
 | A/P | $(A/P, i\%, n)$ | $\frac{(1 + i)^{n}i}{(1 + i)^{n} - 1}$ | Recuperación de capital | ![[Pasted image 20230317131405.png]] |
 | F/A | $(F/A, i\%, n)$ | $\frac{(1 + i)^{n} - 1}{i}$ | Cantidad compuesta | ![[Pasted image 20230317132247.png]] |
 | A/F | $(A/F, i\%, n)$ | $\frac{i}{(i + 1)^{n} - 1}$ | Factor de amortización | ![[Pasted image 20230317132614.png]] |
+| P/G | $(P/G)$
 
 >[!Note]
 >Los flujos en verde se convierten en los flujos en rojo
