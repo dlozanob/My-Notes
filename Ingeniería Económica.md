@@ -282,14 +282,24 @@ $$
 
 ## Resolución de problemas de flujo de caja
 
+La relación entre $P$, $F$ y $A$ puede expresarse con factores.
 
+A modo de ejemplo:
+$$
+\displaylines{
+	F = P(i + 1)^{n} \\
+	F = P(F/P, i\%, n)
+}
+$$
 
 - $(P/F, i\%, n)$
 - $(F/P, i\%, n)$
 - $(P/A, i\%, n)$
 - $(A/P, i\%, n)$
 - $(F/A, i\%, n)$
-- $(P/F, i\%, n)$
+- $(A/F, i\%, n)$
+
+
 
 
 
