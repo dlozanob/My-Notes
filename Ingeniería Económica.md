@@ -90,7 +90,7 @@ Dependiendo de la perspectiva, el interés puede tomar diferentes nombres:
 | Perspectiva | Nombre | Descripción |
 |-|-|-|
 | Prestador | _Tasa de retorno (TR)_ | Interés ganado |
-| Prestatario | _Tasa de interés_ | Interés a pagar |
+| Prestatario | _Tasa de interés (TI)_ | Interés a pagar |
 
 
 - _Retorno sobre la inversión (RSI)_ : Tasa de retorno
@@ -179,9 +179,21 @@ $$
 ## Conceptos económicos
 
 - _TMAR_ : Tasa Mínima Atractiva de Rendimiento. Es la mínima tasa raonable para evaluar una opción. Un proyecto es viable cuando su rendimiento esperado es mayor a la TMAR.
-   También es l
+   También es llamada: tasa por superar, tasa de corte, tasa paramétrica y tasa mínima aceptable de rendimiento.
 
+>[!Note]
+>La TMAR es establecida por financieros, sirve como criterio de aceptación de TR's
 
+- _Costo de capital_ : Tasa de interés
+
+En general, el capital se obtiene por:
+- Financiamiento por patrimonio: La corporación utiliza sus propios fondo de efectivo disponibles.
+- Financiamiento por deuda: La corporación obtiene préstamos de fuentes externas.
+
+- _CPPC_ : Costo Promedio Ponderado de Capital. 
+$$
+	CPPC = (\%DineroFinan.Deuda)(TI) + (\%DineroFi)
+$$
 
 
 
