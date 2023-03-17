@@ -425,7 +425,18 @@ $$
 >En este ejemplo, se dice que $R = 24 \%$ es una tasa de interés anual capitalizada trimestralmente
 
 
+## Métodos de evaluación económica de proyectos
 
+Componentes del estudio de factibilidad:
+- Estudio de mercados
+- Ingeniería del proyecto
+- Estimación de inversiones, costos e ingresos
+- Financiación del proyecto
+- Evaluación del proyecto
+- Evaluación financiera
+
+>[!Info]
+>
 
 
 
