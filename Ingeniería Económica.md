@@ -273,7 +273,15 @@ Entonces:
 $$
 	\boxed{F = A\frac{(1 + i)^{n} - 1}{i}}
 $$
-Ade
+
+Además, sabiendo que $F = P(1 + i)^n$ :
+$$
+	\boxed{P = A\frac{(1 + i)^{n} - 1}{(1 + i)^{n}i}}
+$$
+
+
+
+
 
 
 
