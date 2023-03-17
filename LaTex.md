@@ -207,6 +207,7 @@ $$
 | Infinite | `\infty` | $\infty$ |
 | Summe | `\sum_{<var> = <inf lim>}^{<var> = <sup lim>}` | $\sum_{k = 1}^{k = n}$ |
 | Defined integral | `\int_{<inf lim>}^{sup lim}` | $\int_{0}^{\pi}$ |
+| Surface integral | `\oint` | $\oint$ |
 | Newton's 1st derivative | `\dot{}` | $\dot{x}$ |
 | Newton's 2nd derivative | `\ddot{}` | $\ddot{x}$ |
 | Partial derivative | `\partial` | $\partial$ |
