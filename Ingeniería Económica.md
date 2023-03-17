@@ -252,6 +252,19 @@ Las inversiones son recuperadas en la etapa operativa y en la etapa de liquidaci
 
 Si se tiene una anualidad vencida:
 
+![[Pasted image 20230316223350.png]]
+
+$$
+\displaylines{
+	F = A + A_{1}(1 + i) + A_{2}(i + i)^2 + A_{3}(1 + i)^3 + ... + A_{n-1}(1 + i)^{n - 1} \\
+	F = A[1 + (1 + i) + (1 + i)^2 + (1 + i)^3 + ... + (1 + i)^{n-1}]
+}
+$$
+
+Tomando:
+$$
+	
+$$
 
 
 
