@@ -350,10 +350,15 @@ $$
 $$
 \displaylines{
 	P(1 + i)^{n} = G\left[ \frac{(1 + i)}{(1+i)^{2}} + \frac{2(1+i)}{(1+i)^{3}} +\dots+\frac{(n-1)(1+i)}{(1+i)^{n}} \right] \\\\
-	P(1 + i)^{n} = G\left[ \frac{1}{(1+i)} + \frac{2}{(1+i)^{2}} +\dots+\frac{(n-1)(1+i)}{(1+i)^{n}} \right]
+	P(1 + i)^{n} = G\left[ \frac{1}{(1+i)} + \frac{2}{(1+i)^{2}} +\dots+\frac{(n-1)}{(1+i)^{n - 1}} \right] \tag{II}
 }
 $$
-
+Haciendo $(II) - (II)$ :
+$$
+\displaylines{
+	P(1+i)^{n} - P = G\left[ \frac{1}{1+i} + \frac{1}{(1+i)^{2}} + \frac{1}{(1+i)^{3}}+\dots+\frac{n-1}{(1+i)^{n}} \right]
+}
+$$
 
 
 
