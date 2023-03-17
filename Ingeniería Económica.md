@@ -158,11 +158,20 @@ $$
 Notemos lo siguiente:
 Si se deposita en un banco un valor $P$ por $n$ periodos de interés a una tasa de interés $i$ :
 
-| Periodo | Valor | Interés |
+| Periodo | Valor () | Interés |
 |-|-|-|
 | 0 | $P$ | $P*i$ |
 | 1 | $P + P*i$ | $P(1 + i)*i$ |
-| 2 | $P(1 + i) + P(1 + i)*i$
+| 2 | $P(1 + i) + P(1 + i)*i$ | $P(1 + i)(1 + i)*i$ |
+| 3 | $P(1+i)(1 + i) + P(1+i)(1+i)*i$ | $P(1 + i)(1 + i)(1 + i)*i$ |
+| . | ........... | ........... |
+| . | ........... | ........... |
+| . | ........... | ........... |
+| . | ........... | ........... |
+| $n$ | $P(1 + i)^{n}$ | $P(1 + i)*i$ |
+
+
+
 
 
 
