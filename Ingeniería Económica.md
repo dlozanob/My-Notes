@@ -178,7 +178,8 @@ $$
 
 ## Conceptos económicos
 
-
+- _TMAR_ : Tasa Mínima Atractiva de Rendimiento. Es la mínima tasa raonable para evaluar una opción. Un proyecto es viable cuando su rendimiento esperado es mayor a la TMAR.
+   También es l
 
 
 
