@@ -311,12 +311,7 @@ Lo que se traduce en: Dado un valor presente, hallar un valor futuo, a una tasa 
 >[!Note]
 >Los flujos en verde se convierten en los flujos en rojo
 
-$$
-\displaylines{
-	f = x+ \frac{y}{8} \\
-	
-}
-$$
+Estos factores pueden ser encontrados en _tablas de interés compuesto discreto_, se encuentran al final de los libros de ingeniería económica.
 
 
 
