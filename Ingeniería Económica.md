@@ -152,6 +152,14 @@ $$
 
 - _Interés compuesto_ :  Es el interés simple más el monto total del interés acumulado de todos los periodos anteriores. Es un interés sobre el interés.
    Refleja el valor del dinero en el tiempo.
+$$
+	I_{t} = \biggr(P + \sum_{j = 1}^{j = t + 1} I_{j}\biggr)i
+$$
+Notemos lo siguiente:
+Si se deposita en un banco por 5 años a una tasa de interés del $20\%$ :
+
+| Periodo | 
+
 
 
 
