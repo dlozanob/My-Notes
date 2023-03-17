@@ -373,9 +373,9 @@ $$
 }
 $$
 
-Se interpreta como:
+Interpretación:
 
-![[Pasted image 20230317173202.png]]
+![[Pasted image 20230317173752.png]]
 
 
 
