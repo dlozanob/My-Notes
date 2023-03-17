@@ -158,7 +158,7 @@ $$
 Notemos lo siguiente:
 Si se deposita en un banco un valor $P$ por $n$ periodos de interés a una tasa de interés $i$ :
 
-| Periodo | Valor () | Interés |
+| Periodo | Valor ($F$) | Interés |
 |-|-|-|
 | 0 | $P$ | $P*i$ |
 | 1 | $P + P*i$ | $P(1 + i)*i$ |
@@ -170,8 +170,10 @@ Si se deposita en un banco un valor $P$ por $n$ periodos de interés a una tasa 
 | . | ........... | ........... |
 | $n$ | $P(1 + i)^{n}$ | $P(1 + i)*i$ |
 
-
-
+Se deduce de este crecimiento geométrico la ecuación:
+$$
+	\boxed{F = P(1 + i)^{n}}
+$$
 
 
 
