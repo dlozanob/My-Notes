@@ -298,9 +298,8 @@ Lo que se traduce en: Dado un valor presente, hallar un valor futuo, a una tasa 
 | $(P/F, i\%, n)$ | $\frac{1}{(i + 1)^{n}}$ | ![[Pasted image 20230317112632.png]] |
 | $(F/P, i\%, n)$ | $(i + 1)^{n}$ | ![[Pasted image 20230317112848.png]] |
 | $(P/A, i\%, n)$ | $\frac{(1 + i)^{n} - 1}{(1 + i)^{n}i}$ | ![[Pasted image 20230317114256.png]] |
-
-| $(A/P, i\%, n)$ | $(1 + i)^{n}i/$
-- $(F/A, i\%, n)$
+| $(A/P, i\%, n)$ | $\frac{(1 + i)^{n}i}{(1 + i)^{n} - 1}$ | ![[Pasted image 20230317131405.png]] |
+| $(F/A, i\%, n)$
 - $(A/F, i\%, n)$
 
 >[!Note]
