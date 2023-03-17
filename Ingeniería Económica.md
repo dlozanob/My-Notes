@@ -156,9 +156,13 @@ $$
 	I_{t} = \biggr(P + \sum_{j = 1}^{j = t + 1} I_{j}\biggr)i
 $$
 Notemos lo siguiente:
-Si se deposita en un banco por 5 años a una tasa de interés del $20\%$ :
+Si se deposita en un banco un valor $P$ por $n$ periodos de interés a una tasa de interés $i$ :
 
-| Periodo | 
+| Periodo | Valor | Interés |
+|-|-|-|
+| 0 | $P$ | $P*i$ |
+| 1 | $P + P*i$ | $P(1 + i)*i$ |
+| 2 | $P(1 + i) + P(1 + i)*i$
 
 
 
