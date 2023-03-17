@@ -378,6 +378,11 @@ Interpretación:
 ![[Pasted image 20230317174204.png]]
 
 
+## Tasa nominal y efectiva de interés
+
+
+El intrés compuesto $i$ que se ha venido tranajando es un interés efectivo anual.
+
 
 
 
