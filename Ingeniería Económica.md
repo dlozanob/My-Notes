@@ -299,17 +299,14 @@ Lo que se traduce en: Dado un valor presente, hallar un valor futuo, a una tasa 
 | $(F/P, i\%, n)$ | $(i + 1)^{n}$ | ![[Pasted image 20230317112848.png]] |
 | $(P/A, i\%, n)$ | $\frac{(1 + i)^{n} - 1}{(1 + i)^{n}i}$ | ![[Pasted image 20230317114256.png]] |
 
-|
-- $(A/P, i\%, n)$
+| $(A/P, i\%, n)$ | $(1 + i)^{n}i/$
 - $(F/A, i\%, n)$
 - $(A/F, i\%, n)$
 
 >[!Note]
 >Los flujos en verde se convierten en los flujos en rojo
 
-$$
 
-$$
 
 
 
