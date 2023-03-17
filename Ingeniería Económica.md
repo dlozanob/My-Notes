@@ -338,6 +338,16 @@ $$
 
 Supongamos que $G = H - A$
 
+![[Pasted image 20230317165950.png]]
+
+Entonces:
+$$
+\displaylines{
+	P = G\left[ \frac{1}{(1 + i)^{n}} + \frac{2}{(1+i)^{n}} + \dots + \frac{n-1}{(1+i)^{n}} \right] \tag{I}
+}
+$$
+
+
 
 
 

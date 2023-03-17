@@ -61,6 +61,7 @@ Environment or content blocks declaration:
 
 ## Equations
 
+### Usage
 
 Inline math expresions are wrapped in `$<math expresion>$`. Simple multiline expresions are wrapped in `$$<math expresion>$$`.
 
@@ -146,6 +147,26 @@ $$
 	\right.
 \end{align*}
 $$
+
+
+
+
+
+
+### Referencing equations
+
+```latex
+\begin{equation} \label{eq:example}
+  y = mx + b
+\end{equation}
+```
+
+Referencing the equation:
+
+```latex
+As we saw in Equation \ref{eq:example}, the slope of the line is represented by $m$.
+```
+
 
 
 ## Matrices
