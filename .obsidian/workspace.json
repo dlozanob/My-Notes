@@ -154,7 +154,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: latex",
+                "query": "file: fina",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -183,9 +183,10 @@
   "active": "ddbd1e79af701b37",
   "lastOpenFiles": [
     "Excalidraw/myDrawingSpace.excalidraw.md",
+    "Fórmulas Financieras Excel.md",
+    "Ingeniería Económica.md",
     "Propiedades de los Fluidos.md",
     "Fundamentos de Mecánica de Fluidos.md",
-    "Ingeniería Económica.md",
     "Pasted image 20230317174204.png",
     "Pasted image 20230317174127.png",
     "Pasted image 20230317173953.png",
@@ -195,7 +196,6 @@
     "Pasted image 20230317165950.png",
     "Pasted image 20230317165901.png",
     "Pasted image 20230317164817.png",
-    "Fórmulas Financieras Excel.md",
     "Pasted image 20230317132614.png",
     "Pasted image 20230317132247.png",
     "Servomecanismos.md",

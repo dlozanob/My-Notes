@@ -482,7 +482,13 @@ $$
 
 - El proyecto se acepta si: $VPN \geq 0$, ya que, supera o cumple con la TMAR
 
+Requisitos para comparar alternativas:
+- Misma vida útil
+- Alternativas mutuamente excluyentes (al seleccionar una se descarta la otra)
+- Mismo costo de capital ($i\%$)
 
+Criterios de selección:
+- Proyectos con flujo de caja de ingresos y egresos: 
 
 
 
