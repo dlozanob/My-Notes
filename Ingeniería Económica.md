@@ -313,10 +313,10 @@ Lo que se traduce en: Dado un valor presente, hallar un valor futuo, a una tasa 
 
 $$
 \displaylines{
-dfsdfs \\
-
+	f = x+ \frac{y}{8
 }
 $$
+
 
 
 
