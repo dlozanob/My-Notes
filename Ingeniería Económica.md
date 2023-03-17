@@ -295,14 +295,15 @@ Lo que se traduce en: Dado un valor presente, hallar un valor futuo, a una tasa 
 
 | Factor | Fórmula | Interpretación |
 |-|-|-|
-| $(P/F, i\%, n)$ | $\frac{1}{(i + 1)^{n}}$ | |
-- $(F/P, i\%, n)$
-- $(P/A, i\%, n)$
+| $(P/F, i\%, n)$ | $\frac{1}{(i + 1)^{n}}$ | ![[Pasted image 20230317112632.png]] |
+| $(F/P, i\%, n)$ | $(i + 1)^{n}$ | ![[Pasted image 20230317112848.png]] |
+| $(P/A, i\%, n)$ | $\frac{(1 + i)^{n} - 1}{(1 + i)^{n}i}$ |  |
 - $(A/P, i\%, n)$
 - $(F/A, i\%, n)$
 - $(A/F, i\%, n)$
 
-
+>[!Note]
+>Los flujos en verde se convierten en los flujos en rojo
 
 
 
