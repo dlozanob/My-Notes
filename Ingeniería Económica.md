@@ -320,8 +320,14 @@ Flujos de caja que aumentan o disminuyen de manera constante. El valor de la raz
 
 Un gradiente puede ser:
 - Aritmético
-- Geométrico
+- Geométric
 
+
+Un gradiente se compone de:
+- Base: 
+- 
+
+![[Pasted image 20230317164817.png]]
 
 
 
