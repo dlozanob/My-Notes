@@ -323,6 +323,12 @@ $$
 
 a. No. .... administradores.
 
+Fuentes:
+- Préstamos
+- Ret.. utilidades
+- Acciones
+Usos: Todos los activos
+
 
 
 
