@@ -139,7 +139,7 @@ Por ejemplo: Si la $i = 6\%$ anual, $100\$$ hoy equivalen a $106\$$ un año desp
 - _Flujos de efectivo_ :  Cantidades de dinero en un periodo de tiempo
 - _Flujos de entrada de efectivo_ : Ganancias, ingresos y ahorros generados
 - _Flujos de salido de efectivo_ : Costos, desembolsos y gastos
-- _Flujo neto de efectivo_ :
+- _Flujo neto de efectivo_ : También llamado _FMN (Flujo Monetario Neto)_
 $$
 	FNE = F_{Entrada} - F_{Salida}
 $$
@@ -244,6 +244,16 @@ Existen 3 tipos de presupuestos:
 - Costos y gastos (etapa operativa)
 - Ingresos (etapa operativa)
 Las inversiones son recuperadas en la etapa operativa y en la etapa de liquidación.
+
+### Criterios para fijar la TMAR
+
+1. $TMAR = \% Inflación + \% Riesgo$
+2. $TMAR = CPPC$
+
+- __Ejemplo__ :
+
+| Fuentes | m
+
 
 
 ## Anualidades
@@ -465,7 +475,8 @@ $$
 $$
 
 - El proyecto se acepta si: $VPN \geq 0$, ya que, supera o cumple con la TMAR
-- 
+
+
 
 
 
