@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9105fd5d15a83cab",
+            "id": "ddbd1e79af701b37",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fórmulas Financieras Excel.md",
+                "file": "Ingeniería Económica.md",
                 "mode": "source",
                 "source": false
               }
@@ -28,21 +28,9 @@
                 "file": "Excalidraw/myDrawingSpace.excalidraw.md"
               }
             }
-          },
-          {
-            "id": "ddbd1e79af701b37",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ingeniería Económica.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -102,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ingeniería Económica.md",
+                "file": "Excalidraw/myDrawingSpace.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ingeniería Económica.md",
+                "file": "Excalidraw/myDrawingSpace.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ingeniería Económica.md"
+                "file": "Excalidraw/myDrawingSpace.excalidraw.md"
               }
             }
           },
@@ -193,11 +181,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ddbd1e79af701b37",
+  "active": "66efc0521255a7cf",
   "lastOpenFiles": [
-    "Fórmulas Financieras Excel.md",
-    "Excalidraw/myDrawingSpace.excalidraw.md",
     "Ingeniería Económica.md",
+    "Excalidraw/myDrawingSpace.excalidraw.md",
+    "Fórmulas Financieras Excel.md",
     "LaTeX.md",
     "Pasted image 20230317132614.png",
     "Pasted image 20230317132247.png",
