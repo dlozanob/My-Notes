@@ -280,6 +280,17 @@ $$
 $$
 
 
+## Resolución de problemas de flujo de caja
+
+
+
+- $(P/F, i\%, n)$
+- $(F/P, i\%, n)$
+- $(P/A, i\%, n)$
+- $(A/P, i\%, n)$
+- $(F/A, i\%, n)$
+- $(P/F, i\%, n)$
+
 
 
 
