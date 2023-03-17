@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "4fd00402b5ac6d06",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Servomecanismos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "66efc0521255a7cf",
             "type": "leaf",
             "state": {
@@ -41,7 +29,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -101,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ingeniería Económica.md",
+                "file": "Excalidraw/myDrawingSpace.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ingeniería Económica.md",
+                "file": "Excalidraw/myDrawingSpace.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ingeniería Económica.md"
+                "file": "Excalidraw/myDrawingSpace.excalidraw.md"
               }
             }
           },
@@ -192,12 +181,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9105fd5d15a83cab",
+  "active": "66efc0521255a7cf",
   "lastOpenFiles": [
+    "Servomecanismos.md",
+    "Ingeniería Económica.md",
     "Pasted image 20230316211901.png",
     "Excalidraw/myDrawingSpace.excalidraw.md",
-    "Ingeniería Económica.md",
-    "Servomecanismos.md",
     "Tema 2. Función de oferta y demanda.md",
     "Módulo 1. Economía y matemática financiera.md",
     "Tema 3. Indicadores macroeconómicos.md",
@@ -215,7 +204,6 @@
     "Pasted image 20230312134253.png",
     "Pasted Image 20230312134050_247.png",
     "Pasted Image 20230312134035_230.png",
-    "Pasted image 20230312124646.png",
     "Señales y Sistemas II.md",
     "Estática de Fluidos.md",
     "Propiedades de los Fluidos.md",

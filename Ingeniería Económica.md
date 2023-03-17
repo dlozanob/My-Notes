@@ -108,6 +108,8 @@ La inflación produce:
 - Incremento en los costos de recursos humanos
 - Reducción en la TR real
 
+>[!Note]
+>El banco de la república tiene como misión fijar una tasa de interés para controlar la inflación
 
 - _Equivalencia económica_ : Es la equivalencia en el tiempo de un mismo monto de dinero
 Por ejemplo: Si la $i = 6\%$ anual, $100\$$ hoy equivalen a $106\$$ un año después.
@@ -211,7 +213,9 @@ $$
 >_PMI_ (Project Management Implementation) es una metodología de gestión de proyectos
 
 - _ROI_ : Return On Investment. Tasa de retorno.
-- _CDT_ : Certificado Depósito a Término
+- _CDT_ : Certificado Depósito a Término.
+
+La ley de la oferta y la demanda obedece la siguiente gráfica:
 
 
 
