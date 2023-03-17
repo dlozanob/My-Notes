@@ -192,8 +192,19 @@ En general, el capital se obtiene por:
 
 - _CPPC_ : Costo Promedio Ponderado de Capital. 
 $$
-	CPPC = (\%DineroFinan.Deuda)(TI) + (\%DineroFi)
+	CPPC = (\%DineroFinan.Deuda)(TI) + (\%DineroFinan.Pat.)(TR)
 $$
+- __Ejemplo__ : Se quiere comprar un televisor. $40\%$ del dinero es sacado de una tarjeta de crédito al $\%15$ anual y $\%60$ del dinero es sacado de los fondos de la cuenta de ahorros cuya TR es del $5\%$ anual.
+$$
+	CPPC = 0.4*15 + 0.6*5 = 9\%Anual
+$$
+
+Se debe cumplir:
+$$
+	TR \geq TMAR > CPPC
+$$
+
+- _Costo de oportunidad_ : TR de un proyecto que aún no tiene fondos
 
 
 
