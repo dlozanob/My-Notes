@@ -30,14 +30,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "c5fe02f6e3a0136e",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
         ]
       }
@@ -99,6 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Ingeniería Económica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Ingeniería Económica.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +130,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Ingeniería Económica.md"
+              }
             }
           },
           {
@@ -160,7 +156,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: servo",
+                "query": "file: finan",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -186,10 +182,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9d93bca41a6a57a5",
+  "active": "9105fd5d15a83cab",
   "lastOpenFiles": [
-    "Ingeniería Económica.md",
     "Servomecanismos.md",
+    "Tema 2. Función de oferta y demanda.md",
+    "Módulo 1. Economía y matemática financiera.md",
+    "Tema 3. Indicadores macroeconómicos.md",
+    "Tema 4. Matemáticas financieras.md",
+    "Finanzas.md",
+    "Módulo 2.md",
+    "Ingeniería Económica.md",
     "LaTeX.md",
     "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
     "Excalidraw/myDrawingSpace.excalidraw.md",
@@ -212,16 +214,10 @@
     "![[Pasted image 20230310190225.png.md",
     "Automatización, Control y Robótica.md",
     "Main.md",
-    "Tema 4. Matemáticas financieras.md",
-    "Módulo 1. Economía y matemática financiera.md",
-    "Finanzas.md",
-    "Tema 3. Indicadores macroeconómicos.md",
     "Fórmulas Financieras Excel.md",
     "Cap. 1. Modelos de sistemas lineales y no lineales.md",
     "LaTeX Template.md",
     "Mecanismos.md",
-    "Módulo 2.md",
-    "Tema 2. Función de oferta y demanda.md",
     "Tema 1. Economía.md",
     "Electrónica Digital II.md"
   ]

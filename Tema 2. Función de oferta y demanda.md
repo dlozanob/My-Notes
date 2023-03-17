@@ -53,3 +53,4 @@ A precios más elevados la oferta aumentará. Caso contrario, la oferta se ve re
 ## External links
 
 - [Yahoo finance](https://finance.yahoo.com/)
+- [https://www.bls.gov/charts/consumer-price-index/consumer-price-index-by-category-line-chart.htm](https://www.bls.gov/charts/consumer-price-index/consumer-price-index-by-category-line-chart.htm)
