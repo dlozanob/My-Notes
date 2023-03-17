@@ -314,6 +314,17 @@ Lo que se traduce en: Dado un valor presente, hallar un valor futuo, a una tasa 
 Estos factores pueden ser encontrados en _tablas de interés compuesto discreto_, se encuentran al final de los libros de ingeniería económica.
 
 
+## Gradientes
+
+Flujos de caja que aumentan o disminuyen de manera constante. El valor de la razón de cambio es el gradiente ($G$).
+
+Un gradiente puede ser:
+- Aritmético
+- Geométrico
+
+
+
+
 
 
 
