@@ -30,8 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "66efc0521255a7cf",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/myDrawingSpace.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -91,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ingeniería Económica.md",
+                "file": "Excalidraw/myDrawingSpace.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ingeniería Económica.md",
+                "file": "Excalidraw/myDrawingSpace.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ingeniería Económica.md"
+                "file": "Excalidraw/myDrawingSpace.excalidraw.md"
               }
             }
           },
@@ -156,7 +167,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: finan",
+                "query": "file: my",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -182,8 +193,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9105fd5d15a83cab",
+  "active": "66efc0521255a7cf",
   "lastOpenFiles": [
+    "Ingeniería Económica.md",
     "Servomecanismos.md",
     "Tema 2. Función de oferta y demanda.md",
     "Módulo 1. Economía y matemática financiera.md",
@@ -191,7 +203,6 @@
     "Tema 4. Matemáticas financieras.md",
     "Finanzas.md",
     "Módulo 2.md",
-    "Ingeniería Económica.md",
     "LaTeX.md",
     "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
     "Excalidraw/myDrawingSpace.excalidraw.md",

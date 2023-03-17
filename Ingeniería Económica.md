@@ -120,6 +120,17 @@ La inflación produce:
 
 ## Flujos de efectivo: Estimación y diagramación
 
+- _Flujos de efectivo_ :  Cantidades de dinero en un periodo de tiempo
+- _Flujos de entrada de efectivo_ : Ganancias, ingresos y ahorros generados
+- _Flujos de salido de efectivo_ : Costos, desembolsos y gastos
+- _Flujo neto de efectivo_ :
+$$
+	FNE = F_{Entrada} - F_{Salida}
+$$
+Todos los flujos de efectivo ocurren al final de un periodo de interés
+
+- _Diagramas de flujo de efectivo_ o _diagramas de flujo de caja_ : Representan los flujos de efectivo a lo largo del tiempo.
+
 
 
 
