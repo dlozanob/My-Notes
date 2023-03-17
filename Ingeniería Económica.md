@@ -312,9 +312,11 @@ Lo que se traduce en: Dado un valor presente, hallar un valor futuo, a una tasa 
 >Los flujos en verde se convierten en los flujos en rojo
 
 $$
-\frac{a}{ds}
-sdfsdfds
+\displaylines{
+	
+}
 $$
+
 
 
 
