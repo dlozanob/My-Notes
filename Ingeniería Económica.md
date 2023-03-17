@@ -263,8 +263,17 @@ $$
 
 Tomando:
 $$
-	
+	F(1 + i) = A[(1 + i) + (1 + i)^2 + (1 + i)^3 + (1 + i)^4 + ... + (1 + i)^{n}]	
 $$
+Restando:
+$$
+	F(1 + i) - F = A[(1 + i)^{n} - 1]
+$$
+Entonces:
+$$
+	\boxed{F = A\frac{(1 + i)^{n} - 1}{i}}
+$$
+Ade
 
 
 
