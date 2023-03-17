@@ -280,6 +280,10 @@ $$
 $$
 
 
+>[!Info]
+>Estas fórmulas aplican únicamente para anualidades vencidas
+
+
 ## Resolución de problemas de flujo de caja
 
 La relación entre $P$, $F$ y $A$ puede expresarse con factores.
@@ -299,8 +303,8 @@ Lo que se traduce en: Dado un valor presente, hallar un valor futuo, a una tasa 
 | $(F/P, i\%, n)$ | $(i + 1)^{n}$ | ![[Pasted image 20230317112848.png]] |
 | $(P/A, i\%, n)$ | $\frac{(1 + i)^{n} - 1}{(1 + i)^{n}i}$ | ![[Pasted image 20230317114256.png]] |
 | $(A/P, i\%, n)$ | $\frac{(1 + i)^{n}i}{(1 + i)^{n} - 1}$ | ![[Pasted image 20230317131405.png]] |
-| $(F/A, i\%, n)$
-- $(A/F, i\%, n)$
+| $(F/A, i\%, n)$ | $\frac{(1 + i)^{n} - 1}{i}$ | ![[Pasted image 20230317132247.png]] |
+| $(A/F, i\%, n)$ | $\frac{i}{(i + 1)^{n} - 1}$ |  |
 
 >[!Note]
 >Los flujos en verde se convierten en los flujos en rojo

@@ -29,7 +29,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ingeniería Económica.md",
+                "file": "Excalidraw/myDrawingSpace.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ingeniería Económica.md",
+                "file": "Excalidraw/myDrawingSpace.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ingeniería Económica.md"
+                "file": "Excalidraw/myDrawingSpace.excalidraw.md"
               }
             }
           },
@@ -180,11 +181,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9105fd5d15a83cab",
+  "active": "66efc0521255a7cf",
   "lastOpenFiles": [
-    "Pasted image 20230317131405.png",
-    "Excalidraw/myDrawingSpace.excalidraw.md",
     "Ingeniería Económica.md",
+    "Pasted image 20230317132247.png",
+    "Excalidraw/myDrawingSpace.excalidraw.md",
+    "Pasted image 20230317131405.png",
     "Pasted image 20230317114256.png",
     "Pasted image 20230317114239.png",
     "Pasted image 20230317113841.png",
@@ -202,8 +204,6 @@
     "Módulo 2.md",
     "LaTeX.md",
     "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
-    "Pasted image 20230312134920.png",
-    "Pasted Image 20230312134907_460.png",
     "Señales y Sistemas II.md",
     "Estática de Fluidos.md",
     "Propiedades de los Fluidos.md",
