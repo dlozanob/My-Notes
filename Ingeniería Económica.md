@@ -394,11 +394,16 @@ Donde $i \%$ representa la tasa del periodo (mensual, trimestral, semanal, etc),
 >[!Note]
 >Por convención se usa $n$ para periodos anuales y $t$ para periodos inferiores a un año
 
-
-
 - _Tasa efectiva (i%)_ : Hay capitalización de interés en los periodos. Es real.
 
-
+Sustituyendo $i=\frac{R}{t}$ en $F=P(1+i)^{n}$. Con $n = t$, ya que, nos referimos a periodos inferiores a $1$ año :
+$$
+\displaylines{
+	F = P\left( 1+\frac{R}{t} \right)^{t} \\
+	P(1+i)^{n} = P\left( 1+\frac{R}{t} \right)^{t} \\
+	
+}
+$$
 
 
 
