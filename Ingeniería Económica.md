@@ -488,7 +488,11 @@ Requisitos para comparar alternativas:
 - Mismo costo de capital ($i\%$)
 
 Criterios de selección:
-- Proyectos con flujo de caja de ingresos y egresos: 
+- Proyectos con flujo de caja de ingresos y egresos: Seleccionar el de mayor VPN
+- Proyectos con flujo de caja de costos: Seleccionar el de menor VPN
+
+
+
 
 
 
@@ -511,6 +515,16 @@ Criterios de selección:
 
 
 ### Método: PE
+
+
+### Selección de alternativas con distinta vida útil
+
+Procedimiento:
+1. Hacer los diagramas de flujo de caja
+2. Hallar el MCD de la vida útil entre las alternativas (_horizonte común_)
+3. Replicar los ciclos de los diagramas de flujo de caja el número de veces que sea necesario para tener un número de periodos equivalentes al horizonte común
+
+
 
 
 
