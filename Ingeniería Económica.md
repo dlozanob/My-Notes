@@ -436,7 +436,21 @@ Componentes del estudio de factibilidad:
 - Evaluación financiera
 
 >[!Info]
->
+>Estrategia de marketing: Estrategia 4P (Product, Place, Price, Promotion)
+>- Definición del producto
+>- Definición del precio
+>- Promoción
+>- Distribución
+>- Cliente
+
+
+Los métodos de evaluación económica de proyectos son:
+1. _VPN (Valor Presente Neto)_
+2. _CAUE (Costo Anual Uniforme Equivalente)_
+3. _TIR (Tasa Interna de Retorno)_
+4. _B/C (Beneficio/Costo)_
+5. _PE (Punto de Equilibrio)_
+
 
 
 
