@@ -225,7 +225,19 @@ La ley de la oferta y la demanda obedece la siguiente gráfica:
 >[!Info]
 >- Los 3 factores de la economía según economistas clásicos son: tierra, capital y trabajo
 >- _COPNIA_ : Consejo Profesional de Ingeniería y Afines
->- Metodología matriz de marco lógico : 
+>- Metodología matriz de marco lógico : Forma de organizar las actividades de un proyecto
+
+
+Las etapas de un proyecto son: 
+- Planeación (pre-operativa)
+- Ejecución (operativa)
+- Liquidación o terminación
+
+Existen 3 tipos de presupuestos:
+- Inversiones (ocurren en la etapa pre-operativa)
+- Costos y gastos (etapa operativa)
+- Ingresos (etapa operativa)
+Las inversiones son recuperadas en la etapa operativa y en la etapa de liquidación.
 
 
 
