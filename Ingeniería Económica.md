@@ -147,11 +147,11 @@ Un ejemplo es el siguiente:
 
 - _Interés simple_ : Es la suma de los intereses de cada periodo de interés. El interés en cada periodo es el mismo.
 $$
-	I = Pni
+	I = F = Pni
 $$
 
-
-
+- _Interés compuesto_ :  Es el interés simple más el monto total del interés acumulado de todos los periodos anteriores. Es un interés sobre el interés.
+   Refleja el valor del dinero en el tiempo.
 
 
 
@@ -159,3 +159,4 @@ $$
 ## External Links
 
 - [[Fórmulas Financieras Excel]]
+
