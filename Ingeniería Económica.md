@@ -26,6 +26,11 @@ Los pasos de un estudio en ingeniería económica son:
 
 El factor principal para elegir la mejor alternativa es la _rentabilidad_ (mayores ingresos, menores costos).
 
+Las 3 medidas de rentabilidad son:
+- Factores no económicos o intangibles
+- Análisis de sensibilidad
+- Análisis de riesgo
+
 - _Costo de operación anual (COA)_ o _Costo de operación y mantenimiento (COM)_ : Costo para mantener un servicio a lo largo del tiempo.
 
 Algunos factores no económicos son:
@@ -238,6 +243,17 @@ Existen 3 tipos de presupuestos:
 - Costos y gastos (etapa operativa)
 - Ingresos (etapa operativa)
 Las inversiones son recuperadas en la etapa operativa y en la etapa de liquidación.
+
+
+## Anualidades
+
+- _Anualidades vencidas_ : Cuando el primer flujo de la anualidad está en el año 1
+- _Anualidades anticipadas_ : Cuando el primer flujo de la anualidad está en el año 0
+
+Si se tiene una anualidad vencida:
+
+
+
 
 
 
