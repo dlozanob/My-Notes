@@ -41,8 +41,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LaTeX.md",
+                "file": "Ingeniería Económica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LaTeX.md",
+                "file": "Ingeniería Económica.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LaTeX.md"
+                "file": "Ingeniería Económica.md"
               }
             }
           },
@@ -193,11 +192,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "aa8e84c0e7debb6e",
+  "active": "ddbd1e79af701b37",
   "lastOpenFiles": [
+    "LaTeX.md",
     "Excalidraw/myDrawingSpace.excalidraw.md",
     "Ingeniería Económica.md",
-    "LaTeX.md",
     "Pasted image 20230317165950.png",
     "Pasted image 20230317165901.png",
     "Pasted image 20230317164817.png",

@@ -149,8 +149,14 @@ $$
 $$
 
 
+### Additional options
 
-
+- Tag an equation:
+```latex
+\begin{equation}
+	y = mx + b \tag{I}
+\end{equation}
+```
 
 
 ### Referencing equations
