@@ -313,7 +313,8 @@ Lo que se traduce en: Dado un valor presente, hallar un valor futuo, a una tasa 
 
 $$
 \displaylines{
-	f = x+ \frac{y}{8
+	f = x+ \frac{y}{8} \\
+	
 }
 $$
 
