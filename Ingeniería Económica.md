@@ -321,13 +321,8 @@ $$
 
 
 
-a. No. .... administradores.
+a. liquidez
 
-Fuentes:
-- Préstamos
-- Ret.. utilidades
-- Acciones
-Usos: Todos los activos
 
 
 
