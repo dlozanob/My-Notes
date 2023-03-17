@@ -446,10 +446,28 @@ Componentes del estudio de factibilidad:
 
 Los métodos de evaluación económica de proyectos son:
 1. _VPN (Valor Presente Neto)_
-2. _CAUE (Costo Anual Uniforme Equivalente)_
-3. _TIR (Tasa Interna de Retorno)_
-4. _B/C (Beneficio/Costo)_
-5. _PE (Punto de Equilibrio)_
+2. _VF (Valor Futuro)_
+3. _CAUE (Costo Anual Uniforme Equivalente)_
+4. _TIR (Tasa Interna de Retorno)_
+5. _B/C (Beneficio/Costo)_
+6. _PRI (Periodo de Recuperación de la Inversión)_
+7. _PE (Punto de Equilibrio)_
+
+
+### Método: VPN
+
+
+### Método: VF
+
+
+### Método: CAUE
+
+
+
+### Método: TIR
+
+
+### Método: B/C
 
 
 
