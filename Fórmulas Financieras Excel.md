@@ -13,11 +13,11 @@
 | INT.EFECTIVO() | INT.EFFECTIVE() | Interés efectivo anual |
 | TASA() | RATE() | Tasa de interés |
 | TASA.NOMINAL() | NOMINAL() | Hallamos tasa nominal a partir de una tasa efectiva |
-| INT.EFECTIVO() |  | Hallamos tasa esfectiva anual a partir de una tasa nominal |
-| VNA() | Método del VPN. Se deben omitir los datos en el año 0 y sumarlos al final (la función toma el primer valor en año 1) |
-| TIR() | Calcula la tasa interna de retorno |
-| NPER() | Número de periodos |
-| SLN() | Sistema de línea recta |
-| SYD() | Sistema suma de dígitos |
-| DB() | Sistema de saldo doble decreciente |
+| INT.EFECTIVO() | EFFECT() | Hallamos tasa esfectiva anual a partir de una tasa nominal |
+| VNA() | NPV() | Método del VPN. Se deben omitir los datos en el año 0 y sumarlos al final (la función toma el primer valor en año 1) |
+| TIR() | IRR() | Calcula la tasa interna de retorno |
+| NPER() | NPER() | Número de periodos |
+| SLN() | SLN() | Sistema de línea recta |
+| SYD() | SYD() | Sistema suma de dígitos |
+| DB() | DB() | Sistema de saldo doble decreciente |
 

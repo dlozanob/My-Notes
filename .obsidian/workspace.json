@@ -28,8 +28,21 @@
                 "file": "Excalidraw/myDrawingSpace.excalidraw.md"
               }
             }
+          },
+          {
+            "id": "ddbd1e79af701b37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ingeniería Económica.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -89,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fórmulas Financieras Excel.md",
+                "file": "Ingeniería Económica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fórmulas Financieras Excel.md",
+                "file": "Ingeniería Económica.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fórmulas Financieras Excel.md"
+                "file": "Ingeniería Económica.md"
               }
             }
           },
@@ -154,7 +167,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: latex",
+                "query": "file: inge",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -180,10 +193,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9105fd5d15a83cab",
+  "active": "ddbd1e79af701b37",
   "lastOpenFiles": [
-    "Ingeniería Económica.md",
+    "Fórmulas Financieras Excel.md",
     "Excalidraw/myDrawingSpace.excalidraw.md",
+    "Ingeniería Económica.md",
     "LaTeX.md",
     "Pasted image 20230317132614.png",
     "Pasted image 20230317132247.png",
@@ -212,7 +226,6 @@
     "![[Pasted image 20230310190225.png.md",
     "Automatización, Control y Robótica.md",
     "Main.md",
-    "Fórmulas Financieras Excel.md",
     "Cap. 1. Modelos de sistemas lineales y no lineales.md",
     "LaTeX Template.md",
     "Mecanismos.md",
