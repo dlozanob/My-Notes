@@ -8,6 +8,7 @@ El proceso de la ingeniería se compone de:
 4. Evaluación de las propuestas hechas por los ingenieros
 5. Asesoría en el proceso de toma de desiciones
 
+>[!Info]
 La labor de un ingeniero según el MIT es: _C.D.I.O_ (Conceptualize, Design, Implement, Operate)
 
 La ingeniería económica es el puente que une el medio técnico con el económico.
@@ -204,7 +205,14 @@ $$
 	TR \geq TMAR > CPPC
 $$
 
-- _Costo de oportunidad_ : TR de un proyecto que aún no tiene fondos
+- _Costo de oportunidad_ : Es la TR más grande de los proyectos no aceptados por falta de fondos
+
+>[!Info]
+>_PMI_ (Project Management Implementation) es una metodología de gestión de proyectos
+
+- _ROI_ : Return On Investment. Tasa de retorno.
+- _CDT_ : Certificado Depósito a Término
+
 
 
 
