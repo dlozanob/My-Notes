@@ -10,7 +10,7 @@ Puede ser líquido, gas o plasma.
 >El experimento más largo del mundo involucra la caida de un fluido de brea. El experimento comenzó en 1927. Hasta el momento solo han caido 9 gotas.
 >La brea es 2 millones de veces más viscosa que la miel.
 
-![[Pasted image 20230212132546.png]]
+![](attachments/Pasted%20image%2020230212132546.png)
 
 Un fuerza que actúa sobre un diferencial de área en un fluido produce un esfuerzo cortante y un esfuerzo normal.
 
@@ -25,7 +25,7 @@ $$
 >En fluidos, el esfuerzo normal es la misma presión
 
 
-![[Pasted image 20230212133047.png]]
+![](attachments/Pasted%20image%2020230212133047.png)
 
 Cuando se aplica una fuerza, se produce un esfuerzo que conlleva a una deformación. Sin embargo, en fluidos a diferencia de como sucede en la mecánica de sólidos, una vez retirada la fuerza, el fluido continua deformándose por la energía cinética adquirida.
 
@@ -77,31 +77,31 @@ $$
 
 Para trabajar con fluidos, se debe suponer una densidad uniforme donde cada una de las partículas tiene una dimensión infinitesimal. De tal manera que los cálculos adquieren un carácter continuo en lugar de discreto. En tamaños grandes se puede tomar esta simplificación sin problemas, ya que, la densidad es suficientemente uniforme.
 
-![[Pasted image 20230212134552.png]]
+![](attachments/Pasted%20image%2020230212134552.png)
 
-![[Pasted image 20230212134640.png]]
+![](attachments/Pasted%20image%2020230212134640.png)
 
 
 ## Tipos de sistemas
 
 - Sistemas cerrados (masa de control): La cantidad de materia en estudio se mantiene constante.
 
-![[Pasted image 20230212135057.png]]
+![](attachments/Pasted%20image%2020230212135057.png)
 
 - Sistemas abiertos (volúmen de control): El volúmen o espacio en estudio se mantiene fijo.
 
-![[Pasted image 20230212135108.png]]
+![](attachments/Pasted%20image%2020230212135108.png)
 
 
 ## Perspectivas de la física mecánica
 
 - Euleriana: Se estudian las variables inherentes a un espacio
 
-![[Pasted image 20230212135228.png]]
+![](attachments/Pasted%20image%2020230212135228.png)
 
 - Lagrangiana: Se estudan las variables inherentes a una partícula
 
-![[Pasted image 20230212135351.png]]
+![](attachments/Pasted%20image%2020230212135351.png)
 
 
 ## Presión de vapor y cavitación
@@ -125,7 +125,7 @@ Donde $A$, $B$ y $C$ son constantes que dependen del fluido.
 
 Algunas presiones de acuerdo a la temperatura para el aire son:
 
-![[Pasted image 20230305222805.png]]
+![](attachments/Pasted%20image%2020230305222805.png)
 
 >[!Info]
 >Bogotá se encuentra aproximadamente a 77 kPa
@@ -139,14 +139,14 @@ Cuando se presentan caidas de presión lo suficientemente grandes como para esta
 Al formarse burbujas, estas van a estallarse, formando abolladuras en la maquinaria.
 Esto sucede comúnmente en turbinas.
 
-![[Pasted image 20230215072810.png]]
+![](attachments/Pasted%20image%2020230215072810.png)
 
 
 A temperatura constante, en esta tubería se puede ver el gradiente de presiones, donde en algunos puntos la presión es menor que la presión de vapor.
 
-![[Pasted image 20230305224124.png]]
+![](attachments/Pasted%20image%2020230305224124.png)
 
-![[Pasted image 20230305224240.png]]
+![](attachments/Pasted%20image%2020230305224240.png)
 
 En estos puntos sucederá el fenómeno de cavitación.
 
@@ -227,7 +227,7 @@ La placa adquiere una velocidad constante. Esto provoca que en cada una de las c
 El sustrato de la capa superior adquiere la misma velocidad que la placa superior.
 Así como la capa inferior adquiere la misma velocidad de la placa inferior. Se forma un perfil de velocidad lineal en flujos laminares.
 
-![[Pasted image 20230308173632.png]]
+![](attachments/Pasted%20image%2020230308173632.png)
 
 Ahora bien, el desplazamiento de la capa superior si suponemos que se mueve a una velocidad $v$, es $da = vdt$.
 
@@ -276,7 +276,7 @@ Quiere decir que un fluido muy viscoso sometido a un esfuerzo cortante, no prese
 
 La _viscosidad dinámica_ o _viscosidad absoluta_ es una propiedad intrínseca de los fluidos.
 
-![[Pasted image 20230309121458.png]]
+![](attachments/Pasted%20image%2020230309121458.png)
 
 Esta es determinada mediante:
 
@@ -294,7 +294,7 @@ Para los fluidos no newtonianos se describe la _viscosidad aparente_ como la pen
 Esta depende del tipo de fluido y de sus condiciones de flujo (bombeo por tubería, flujo libre por una superficie, etc).
 
 
-![[Pasted image 20230310190504.png]]
+![](attachments/Pasted%20image%2020230310190504.png)
 
 
 Los plásticos de Bingham se comportan como sólidos hasta cierto punto, pero después de que se excede cierto esfuerzo y deformación adquieren una relación lineal.
@@ -310,13 +310,13 @@ Se tiene un viscosímetro.
 	- $\omega = 10\pi$ Rad/s
 	- $\mu = ?$
 
-![[Pasted image 20230310190355.png]]
+![](attachments/Pasted%20image%2020230310190355.png)
 
 Como la pared de fluido es muy delgada ($R_{ext} - R_{in} = 0.0015$ m) se acepta tomar la razón de la deformación como lineal, entonces:
 $$
 	\frac{du}{dr} = \frac{\triangle u}{\triangle r}
 $$
-![[Pasted image 20230310173732.png]]
+![](attachments/Pasted%20image%2020230310173732.png)
 
 En este sentido tomamos a $r$ en vez de $y$.
 
@@ -326,7 +326,7 @@ $$
 $$ 
 Ahora se halla el esfuerzo cortante:
 
-![[Pasted image 20230310174311.png]]
+![](attachments/Pasted%20image%2020230310174311.png)
 
 $$
 	F = \frac{T}{R_{in}} = 30[N]
@@ -349,12 +349,12 @@ $$
 
 Las moléculas en la superficie de un fluido se encuentran dinámicamente desequilibradas, por tanto, los fluidos tienden a tener una forma esférica, ya que, así se reduce el área superficial.
 
-![[Pasted image 20230310190140.png]]
+![](attachments/Pasted%20image%2020230310190140.png)
 
 
 Consideramos la siguiente configuración:
 
-![[Pasted image 20230310191232.png]]
+![](attachments/Pasted%20image%2020230310191232.png)
 
 Las fuerzas de cohesión generan una fuerza $F$ para minimizar la superficie. En este caso se está equilibrando con un dinamómetro para medirla.
 
@@ -362,7 +362,7 @@ Se define la _tensión superficial_ ($\sigma_{s}$) como fuerza por unidad de lon
 
 Cada cara ejerce tensión superficial:
 
-![[Pasted image 20230310191647.png]]
+![](attachments/Pasted%20image%2020230310191647.png)
 
 Debido a que el sistema está equilibrado:
 $$
@@ -378,7 +378,7 @@ $$
 	\sigma_{s} = \frac{W}{2\triangle A}
 $$
 
-![[Pasted image 20230310192749.png]]
+![](attachments/Pasted%20image%2020230310192749.png)
 
 >[!Info]
 >- La tensión superficial disminuye al aumentar la temperatura
@@ -393,7 +393,7 @@ Se tiene una pompa de jabón de radio $r$, donde la presión interna es mayor a 
 
 Al tomar la mitad:
 
-![[Pasted image 20230310200741.png]]
+![](attachments/Pasted%20image%2020230310200741.png)
 
 La fuerza actúa a lo largo del contorno (se consideran ambas caras por el espesor de la burbuja), luego:
 $$
@@ -420,11 +420,11 @@ Por tanto, se deduce que al soplar duro, $\triangle P$ aumenta, haciendo que el 
 - _Fuerzas de cohesión_ : Fuerzas de atracción entre las moléculas del fluido
 - _Fuerzas de adhesión_ : Fuerza de atracción entre las moléculas de la superficie del fluido y una superficie sólida. Esta es perpendicular a la superficie
 
-![[Pasted image 20230310203425.png]]
+![](attachments/Pasted%20image%2020230310203425.png)
 
 El _menisco_ o _ángulo de contacto_ es el ángulo formado entre la superficie sólida y la tangente de la superficie líquida en el punto de contacto.
 
-![[Pasted image 20230310203642.png]]
+![](attachments/Pasted%20image%2020230310203642.png)
 
 | | Menisco Cóncavo | Menisco Convexo |
 |-|-|-|
@@ -445,14 +445,14 @@ El _menisco_ o _ángulo de contacto_ es el ángulo formado entre la superficie s
 
 Las fuerzas de adhesión y de cohesión hacen que el líquido baje o suba. A esto se le conoce como _acción capilar_ o _capilaridad_.
 
-![[Pasted image 20230310204820.png]]
+![](attachments/Pasted%20image%2020230310204820.png)
 
 >[!Note]
 >La capilaridad está presente en todo momento, pero en secciones angostas es más notorio
 
 La fuerza de cohesión $\vec{F_{\sigma}}$ está empujando la columna hacia arriba.
 
-![[Pasted image 20230310205707.png]]
+![](attachments/Pasted%20image%2020230310205707.png)
 
 $$
 \displaylines{

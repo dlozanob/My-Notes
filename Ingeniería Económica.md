@@ -149,7 +149,7 @@ Todos los flujos de efectivo ocurren al final de un periodo de interés
 
 Un ejemplo es el siguiente:
 
-![[Pasted image 20230316211901.png]]
+![](attachments/Pasted%20image%2020230316211901.png)
 
 
 ## Interés simple y compuesto
@@ -223,7 +223,7 @@ $$
 
 La ley de la oferta y la demanda obedece la siguiente gráfica:
 
-![[Pasted image 20230316221440.png]]
+![](attachments/Pasted%20image%2020230316221440.png)
 
 - Curva de la demanda: A menores precios, los consumidores estarán dispuestos a comprar más unidades.
 - Curva de la oferta: A precios más altos, las compañías estarán dispuestas a producir más unidades.
@@ -269,7 +269,7 @@ Entonces $TMAR > 29.26\%$
 
 Si se tiene una anualidad vencida:
 
-![[Pasted image 20230316223350.png]]
+![](attachments/Pasted%20image%2020230316223350.png)
 
 $$
 \displaylines{
@@ -316,13 +316,13 @@ Lo que se traduce en: Dado un valor presente, hallar un valor futuo, a una tasa 
 
 | Factor | Extensión | Fórmula | Nombre | Interpretación |
 |-|-|-|-|-|
-| P/F | $(P/F, i\%, n)$ | $\frac{1}{(i + 1)^{n}}$ | Valor presente | ![[Pasted image 20230317112632.png]] |
-| F/P | $(F/P, i\%, n)$ | $(i + 1)^{n}$ | Cantidad compuesta | ![[Pasted image 20230317112848.png]] |
-| P/A | $(P/A, i\%, n)$ | $\large\frac{(1 + i)^{n} - 1}{(1 + i)^{n}i}$ | Valor presente | ![[Pasted image 20230317114256.png]] |
-| A/P | $(A/P, i\%, n)$ | $\large\frac{(1 + i)^{n}i}{(1 + i)^{n} - 1}$ | Recuperación de capital | ![[Pasted image 20230317131405.png]] |
-| F/A | $(F/A, i\%, n)$ | $\large\frac{(1 + i)^{n} - 1}{i}$ | Cantidad compuesta | ![[Pasted image 20230317132247.png]] |
-| A/F | $(A/F, i\%, n)$ | $\large\frac{i}{(i + 1)^{n} - 1}$ | Factor de amortización | ![[Pasted image 20230317132614.png]] |
-| P/G | $(P/G, i\%, n)$ | $\large\frac{1}{i}\left[ \frac{(1 + i)^{n} - 1}{(1 + i)^{n}i} - \frac{n}{(1 + i)^{n}} \right]$ | Gradiente de valor presente | ![[Pasted image 20230317174127.png]] |
+| P/F | $(P/F, i\%, n)$ | $\frac{1}{(i + 1)^{n}}$ | Valor presente | ![](attachments/Pasted%20image%2020230317112632.png) |
+| F/P | $(F/P, i\%, n)$ | $(i + 1)^{n}$ | Cantidad compuesta | ![](attachments/Pasted%20image%2020230317112848.png) |
+| P/A | $(P/A, i\%, n)$ | $\large\frac{(1 + i)^{n} - 1}{(1 + i)^{n}i}$ | Valor presente | ![](attachments/Pasted%20image%2020230317114256.png) |
+| A/P | $(A/P, i\%, n)$ | $\large\frac{(1 + i)^{n}i}{(1 + i)^{n} - 1}$ | Recuperación de capital | ![](attachments/Pasted%20image%2020230317131405.png) |
+| F/A | $(F/A, i\%, n)$ | $\large\frac{(1 + i)^{n} - 1}{i}$ | Cantidad compuesta | ![](attachments/Pasted%20image%2020230317132247.png) |
+| A/F | $(A/F, i\%, n)$ | $\large\frac{i}{(i + 1)^{n} - 1}$ | Factor de amortización | ![](attachments/Pasted%20image%2020230317132614.png) |
+| P/G | $(P/G, i\%, n)$ | $\large\frac{1}{i}\left[ \frac{(1 + i)^{n} - 1}{(1 + i)^{n}i} - \frac{n}{(1 + i)^{n}} \right]$ | Gradiente de valor presente | ![](attachments/Pasted%20image%2020230317174127.png) |
 | A/G | $(A/G, i \%, n)$ | | Gradiente de serie anual | |
 
 >[!Note]
@@ -344,7 +344,7 @@ Un gradiente se compone de:
 - Base: Es una anualidad
 - Valor del gradiente ($g$)
 
-![[Pasted image 20230317164817.png]]
+![](attachments/Pasted%20image%2020230317164817.png)
 
 Entonces:
 $$
@@ -355,7 +355,7 @@ $$
 
 Supongamos que $G = H - A$
 
-![[Pasted image 20230317165950.png]]
+![](attachments/Pasted%20image%2020230317165950.png)
 
 Entonces:
 $$
@@ -392,7 +392,7 @@ $$
 
 Interpretación:
 
-![[Pasted image 20230317174204.png]]
+![](attachments/Pasted%20image%2020230317174204.png)
 
 
 ## Tasa nominal y efectiva de interés
@@ -536,5 +536,5 @@ Procedimiento:
 
 ## External Links
 
-- [[Fórmulas Financieras Excel]]
+- [Fórmulas Financieras Excel](Fórmulas%20Financieras%20Excel.md)
 

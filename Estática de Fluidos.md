@@ -27,7 +27,7 @@ Se usa para medir la presión en cámaras de vacío.
 
 Se considera un punto en el espacio con presión $p(x, y, z)$
 
-![[Pasted image 20230311182141.png]]
+![](attachments/Pasted%20image%2020230311182141.png)
 
 Tomando la presión en el lado derecho se tiene por Taylor (excluyendo los términos de orden superior):
 $$
@@ -104,7 +104,7 @@ $$
 
 Se usa para medir la presión atmosférica. Contienen comúnmente mercurio.
 
-![[Pasted image 20230311192653.png]]
+![](attachments/Pasted%20image%2020230311192653.png)
 
 En muchas situaciones la presión de vapor es despreciable frente a la atmosférica. Entonces:
 $$
@@ -116,7 +116,7 @@ $$
 
 Se usa para medir la presión manométrica de un líquido.
 
-![[Pasted image 20230311194430.png]]
+![](attachments/Pasted%20image%2020230311194430.png)
 
 $$
 \displaylines{
@@ -130,7 +130,7 @@ $$
 
 MIde la presión manométrica del fluido en la cámara. Si tenemos dos líquidos, estos deben ser inmiscibles.
 
-![[Pasted image 20230311192947.png]]
+![](attachments/Pasted%20image%2020230311192947.png)
 
 $$
 \displaylines{
@@ -145,7 +145,7 @@ $$
 
 Miden la caida de presión a lo largo de secciones horizontales. Estas caidas son producidas por fuerzas de fricción y viscosidad (en la realidad existen esfuerzos cortantes que producen esto).
 
-![[Pasted image 20230311200808.png]]
+![](attachments/Pasted%20image%2020230311200808.png)
 
 $$
 \displaylines{

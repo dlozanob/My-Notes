@@ -103,7 +103,7 @@ Donde $N(s)$ y $D(s)$ son polinomios con coeficientes reales, se tiene las sigui
 
 Consideremos el siguiente caso:
 
-![[Pasted image 20230305213457.png]]
+![](attachments/Pasted%20image%2020230305213457.png)
 
 La función de transferencia viene dada por:
 $$
@@ -392,24 +392,24 @@ Lord Kelvin plantea los 3 bloques esenciales de la computación para el modelado
 
 - _Multiplicador por constante_ (Memoryless) :
 
-![[Pasted image 20230312115843.png]]
+![](attachments/Pasted%20image%2020230312115843.png)
 
 Implementación analógica:
 
-![[Pasted image 20230312120215.png]]
+![](attachments/Pasted%20image%2020230312120215.png)
 
 
 - _Sumador_ (Memoryless) :
 
-![[Pasted image 20230312120541.png]]
+![](attachments/Pasted%20image%2020230312120541.png)
 
 Implementación analógica:
 
-![[Pasted image 20230312121459.png]]
+![](attachments/Pasted%20image%2020230312121459.png)
 
 - _Integrador_ (Dynamic) :
 
-![[Pasted image 20230312121727.png]]
+![](attachments/Pasted%20image%2020230312121727.png)
 
 Donde:
 $$
@@ -420,7 +420,7 @@ $$
 $$
 Implementación analógica:
 
-![[Pasted image 20230312122533.png]]
+![](attachments/Pasted%20image%2020230312122533.png)
 
 Donde $RC = 1$.
 Configuraciones comunes:
@@ -440,7 +440,7 @@ $$
 
 Su representación en diagrama de bloques es:
 
-![[Pasted image 20230312124646.png]]
+![](attachments/Pasted%20image%2020230312124646.png)
 
 
 >[!Info]
@@ -497,7 +497,7 @@ A continuación, se exponen casos donde esto sucede. Los siguientes son circuito
 
 - _Circuito no observable_ :
 
-![[Pasted image 20230312134253.png]]
+![](attachments/Pasted%20image%2020230312134253.png)
 
 Al pasar de $H(s)$ a ecuaciones de estado y representarlas gráficamente, se obtiene la realización mínima de la derecha. Se pierde una porción del circuito original. 
 
@@ -505,7 +505,7 @@ Esta porción es controlada directamente por la entrada.
 
 - _Circuito no controlable_ :
 
-![[Pasted image 20230312134600.png]]
+![](attachments/Pasted%20image%2020230312134600.png)
 
 Al pasar de $H(s)$ a ecuaciones de estado y representarlas gráficamente, se obtiene la realización mínima de la derecha. Se pierde una porción del circuito original. 
 
@@ -516,7 +516,7 @@ Las variables internas pueden ser controladas en algunos casos.
 
 - _Circuito no observable y no controlable_ :
 
-![[Pasted image 20230312134920.png]]
+![](attachments/Pasted%20image%2020230312134920.png)
 
 Al pasar de $H(s)$ a ecuaciones de estado y representarlas gráficamente, se obtiene la realización mínima de la derecha. Se pierde una porción del circuito original. 
 

@@ -646,11 +646,11 @@ Ex. _-50px_
 
 The edges of the border looks like:
 
-![[Pasted image 20230130125139.png]]
+![](attachments/Pasted%20image%2020230130125139.png)
 
 So, with the abscence of text, those triangles can be used for style purposes (useful for tooltips).
 
-![[Pasted image 20230130125257.png]]
+![](attachments/Pasted%20image%2020230130125257.png)
 
 - `border-width` : Ex. _1px_, _medium_, _thick_
 
@@ -670,7 +670,7 @@ So, with the abscence of text, those triangles can be used for style purposes (u
 
 - `border-image` :  Shorthand border image property. The image taken is sliced in 9 parts like a tic-tac-toe and the middle parts are repeated all around the wrapped element.
 
-![[Pasted image 20230121191136.png]]
+![](attachments/Pasted%20image%2020230121191136.png)
 
 >[!Note]
 >The `border` property must be declarated before using `border-image`
@@ -1178,7 +1178,7 @@ div:hover {
 	- _ease-in-out_ : Slow start and end, mid-time is constant
 	- _cubic-bezier(n,n,n,n)_ : Defines a cubic Bézier curve [Bézier curves](###Bézier+curves)
 
-![[speedCurve 1.gif]]
+![](attachments/speedCurve%201.gif)
 
 
 - `transition-delay` : Defines a delay before starting the transition. Ex. _1s_
@@ -1391,10 +1391,10 @@ While satisfying certain style condition CSS code is executed. Use `max-` and `m
 ### Clearfix hack
 
 
-![[Pasted image 20230119020915.png]]
+![](attachments/Pasted%20image%2020230119020915.png)
 
 
-![[Pasted image 20230119020930.png]]
+![](attachments/Pasted%20image%2020230119020930.png)
 
 ```css
 .clearfix::after {
@@ -1451,7 +1451,7 @@ It's possible to determine the portion length of a color that takes place in the
 background-image: linear-gradient(0deg, blue, green 50% 90%, red);
 ```
 
-![[Pasted image 20230128204815.png]]
+![](attachments/Pasted%20image%2020230128204815.png)
 
 As seen in the result image, the gradient starts from bottom to top, at 50% of the path to 90%, the color is totally green. If the second percenteage (90% in this case) is omitted, the green color will start anyway at 50% but the green's length will be the same as the red's.
 
@@ -1479,7 +1479,7 @@ This takes the original gradient and replicates it along the gradient's path.
 background-image: repeating-linear-gradient(red, yellow 10%, green 20%);
 ```
 
-![[Pasted image 20230128214142.png]]
+![](attachments/Pasted%20image%2020230128214142.png)
 
 At 10% of the path the color is exactly yellow and at 20% is green. Since it'd be green to 100% of the path (if using the normal function), the `repeating-linear-gradient()` function replicates the pattern the possible amount of times.
 
@@ -1519,7 +1519,7 @@ background-image: repeating-radial-gradient(closest-corner at 75% 60%, green, bl
 
 The latter looks like:
 
-![[Pasted image 20230128221525.png]]
+![](attachments/Pasted%20image%2020230128221525.png)
 
 
 - __Conic__ : `conic-gradient(position and starting angle, color-1, ..., color-n)`
@@ -1535,7 +1535,7 @@ background-image: conic-gradient(from 45deg at 25% 60%, green 0deg 45deg, blue 6
 
 Output:
 
-![[Pasted image 20230128222437.png]]
+![](attachments/Pasted%20image%2020230128222437.png)
 
 
 The _from_ keyword indicates the starting position of the sweeping (it's clockwise by default), this parameters is _0deg_ by default, with the gradient starting with a line from the center to the top side.
@@ -1563,7 +1563,7 @@ background-image: conic-gradient(lightblue 110deg, blue 120deg 145deg, yellow 16
 
 Output:
 
-![[Pasted image 20230128223440.png]]
+![](attachments/Pasted%20image%2020230128223440.png)
 
 
 Use the `repeating-conic-gradient()` function to repeat the pattern of gradients.
@@ -1574,7 +1574,7 @@ background-image: repeating-conic-gradient(lightblue 0deg 10deg, blue 20deg 30de
 
 Output:
 
-![[Pasted image 20230128223858.png]]
+![](attachments/Pasted%20image%2020230128223858.png)
 
 
 ### Bézier curves

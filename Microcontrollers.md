@@ -174,5 +174,5 @@ todos los pines del puerto B (se recomienda poner un retardo después de habilit
 
 ## External links
 
-- [[Assembly]]
-- [[C]]
+- [Assembly](Assembly.md)
+- [C](C)

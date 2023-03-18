@@ -31,7 +31,7 @@ Así mismo, este se compone de factores como: modelo de negocio, leyes, entorno 
 
 Siendo así, la tasa de interés incrementará cuando el riesgo sea alto, ya que, desincentiva al deudor de pedir el préstamo. Igualmente la tasa de interés es proporcional al tiempo para el que se establece la paga. La relación con el tiempo adquiere una forma similar a la siguiente:
 
-![[Pasted image 20230224174754.png]]
+![](attachments/Pasted%20image%2020230224174754.png)
 
 
 La _tasa de intervención_ establece el valor mínimo que pueden adoptar las tasas de interés en una economía.

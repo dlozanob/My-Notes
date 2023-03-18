@@ -1,6 +1,6 @@
 # Obsidian basics
 
-- Linking [[Linked note]].
+- Linking [Linked note](Linked%20note.md).
 - Internal links: Look also for [External links](#external+links)
 - Tagging #tag 
 - *Italic*, also _italic_
@@ -82,7 +82,7 @@ Here's a sample footnote[^1].
 
 $$e^{i\theta} = Cos(\theta) + iSin(\theta)$$
 
-Mardown supports [[LaTeX]] commands by wrapping them with $\$$ for single lines or double  $\$$ for  multiple lines.
+Mardown supports [LaTeX](LaTeX.md) commands by wrapping them with $\$$ for single lines or double  $\$$ for  multiple lines.
 
 
 ## Matrices:

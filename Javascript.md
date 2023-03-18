@@ -1496,6 +1496,6 @@ console.log(complex.exp(complex.e));
 
 ## External Links
 
-- [[Using JS for Web Applications]]
-- [[JS libraries]]
-- [[Server communication]]
+- [Using JS for Web Applications](Using%20JS%20for%20Web%20Applications.md)
+- [JS libraries](JS%20libraries.md)
+- [Server communication](Server%20communication.md)

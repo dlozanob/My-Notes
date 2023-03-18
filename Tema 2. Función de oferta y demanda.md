@@ -35,7 +35,7 @@ $$
 
 La _curva de la demanda_ es la relación entre el precio de cierto producto y las cantidades demandas, considerando que las otras demás variables se mantienen constantes.
 
-![[Pasted image 20230317194715.png]]
+![](attachments/Pasted%20image%2020230317194715.png)
 
 
 
@@ -65,7 +65,7 @@ $$
 
 La _curva de la oferta_ representa la relación entre las cantidades de productos a ofertar y su precio, considerando que las otras demás variables se mantienen constantes.
 
-![[Pasted image 20230317200938.png]]
+![](attachments/Pasted%20image%2020230317200938.png)
 
 
 ## Equilibrio del mercado
@@ -76,7 +76,7 @@ Cuando consumidores y productores se ponen de acuerdo con un valor para una dete
 
 El _precio de equilibrio_ es aquel donde la cantidad demandada es igual a la cantidad ofrecida.
 
-![[Pasted image 20230317204159.png]]
+![](attachments/Pasted%20image%2020230317204159.png)
 
 Si se decide aumentar el precio, la oferta aumentará y los consumidores no desearán comprar varias cantidades. Hay exceso de oferta.
 Si se decide reducir el precio, la demanda aumentará y los productores no desearán producir tantos bienes. Hay exceso de demanda.

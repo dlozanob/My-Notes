@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fee1005e9cd5aaa8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Main.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -92,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "consistant-report.md",
+                "file": "Main.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "consistant-report.md",
+                "file": "Main.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "consistant-report.md"
+                "file": "Main.md"
               }
             }
           },
@@ -183,12 +195,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "096825e98c91aa10",
+  "active": "fee1005e9cd5aaa8",
   "lastOpenFiles": [
+    "consistant-report.md",
+    "Main.md",
+    "Web Development.md",
     "attachments",
     "New folder",
     "Excalidraw/blackboard.excalidraw.md",
-    "consistant-report.md",
     "Finanzas.md",
     "Tema 2. Función de oferta y demanda.md",
     "2023-03-18.md",
@@ -198,12 +212,11 @@
     "Tema 1. Economía.md",
     "Excalidraw/whiteboard.excalidraw.md",
     "Pasted image 20230317210329.png",
-    "Pasted image 20230317204159.png",
+    "attachments/Pasted image 20230317204159.png",
     "Pasted image 20230317204053.png",
-    "Pasted image 20230317200938.png",
-    "Pasted image 20230317194715.png",
+    "attachments/Pasted image 20230317200938.png",
+    "attachments/Pasted image 20230317194715.png",
     "README.md",
-    "Main.md",
     "myDrawings.md",
     "[[myDrawingSpace.excalidraw.md",
     "Untitled.md",
@@ -212,8 +225,8 @@
     "Fórmulas Financieras Excel.md",
     "Propiedades de los Fluidos.md",
     "Fundamentos de Mecánica de Fluidos.md",
-    "Pasted image 20230317174204.png",
-    "Pasted image 20230317174127.png",
+    "attachments/Pasted image 20230317174204.png",
+    "attachments/Pasted image 20230317174127.png",
     "Pasted image 20230317173953.png",
     "Pasted image 20230317173752.png",
     "Pasted image 20230317173202.png",

@@ -15,7 +15,7 @@ Un servomecanismo se define como un sistema que tiene un lazo crrado de control 
 
 El diagrama de bloques de control de un servomecanismo se ve de la siguiente manera:
 
-![[Pasted image 20230227221213.png]]
+![](attachments/Pasted%20image%2020230227221213.png)
 
 El PID corrige el error con base en el feedback (sensor).
 El _FF_ (feedforward) hace un seguimiento a la referencia (_SP_ punto de referencia, datos deseados inicialmente). Los sistemas de control avanzados suelen utilizarlos para generar una respuesta más precisa.
@@ -67,7 +67,7 @@ La plataforma _Integrated Architecture_ de la firma Rockwell Automation es un en
 
 Un controlador _PAC_ (Programmable Automation Controller) es un módulo de control automatizado el cual tiene las siguientes características: uso de varios lazos de control cerrados independientes,  velocidad y precisión alta de adquisición de datos, análisis matemático, monitorización remota, visión artificial, control de movimiento y robótica, y control de seguridad de procesos.
 
-![[Pasted image 20230226183348.png]]
+![](attachments/Pasted%20image%2020230226183348.png)
 
 Los PAC usan protocolos de red abiertos como: TCP/IP, OCP, SMTP. Ex compatible con protocolos de red privados como: CAN, Profibus.
 
@@ -93,14 +93,14 @@ Características:
 
 Configuración de los módulos:
 
-![[Pasted image 20230226192253.png]]
+![](attachments/Pasted%20image%2020230226192253.png)
 
 ---
 
 
 ## Estructura jerárquica de automatización
 
-![[Pasted image 20230226190611.png]]
+![](attachments/Pasted%20image%2020230226190611.png)
 
 El la representación gráfica de los niveles que componen a un proceso de automatización industrial. 
 
@@ -153,7 +153,7 @@ Tarea: electhronic gear
 
 ## Proyecto académico
 
-![[Pasted image 20230214095505.png]]
+![](attachments/Pasted%20image%2020230214095505.png)
 
 Se debe parametrizar el trébol, y a partir de tal parametrización hay que determinar elos perfiles de movimiento de $\theta_{1}$ y $\theta_{2}$ (gráficas con respecto al tiempo).
 
@@ -162,7 +162,7 @@ Así mismo, debe ser escalable hasta $1.33$ veces.
 
 Posición inicial:
 
-![[Pasted image 20230214103609.png]]
+![](attachments/Pasted%20image%2020230214103609.png)
 
 La segunda revoluta no puede estar por encima de la línea roja. El extremo distal o punto de interés de salida, no puede estar a la derecha de la línea verde.
 

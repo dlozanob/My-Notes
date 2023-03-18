@@ -1,7 +1,7 @@
 # LaTeX
 
 
-Ultimate template with all the enough packages and features: [[LaTeX Template]]
+Ultimate template with all the enough packages and features: [LaTeX Template](LaTeX%20Template.md)
 
 ## The LaTeX Structure
 

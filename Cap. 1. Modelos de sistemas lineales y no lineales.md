@@ -6,7 +6,7 @@ Con la finalidad de generar predicciones sobre el comportamiento de un sistema, 
 
 Un sistema se modela con un sistema de ecuaciones diferenciales. En los casos más simples con una sola ecuación.
 
-![[Pasted image 20230208222729.png]]
+![](attachments/Pasted%20image%2020230208222729.png)
 
 El vector de estados contiene las variables de estado presentes en el sistema, estos varían con el tiempo y son intrínsecos al sistema y ajenos a la entrada.
 
@@ -44,7 +44,7 @@ Donde $A, B, C$ y $D$ son matrices.
 
 - _Ejemplo:_
 
-![[Pasted image 20230208225423.png]]
+![](attachments/Pasted%20image%2020230208225423.png)
 
 $$
 \begin{align*}
@@ -118,7 +118,7 @@ $$
 
 - Resorte:
 
-![[Pasted image 20230214214707.png]]
+![](attachments/Pasted%20image%2020230214214707.png)
 
 $$
 \begin{align*}
@@ -131,13 +131,13 @@ La naturaleza de la fuerza axial que actúa sobre el resorte dependerá de la re
 
 Siendo así, se tendrán los dos casos:
 
-![[Pasted image 20230214215814.png]]
+![](attachments/Pasted%20image%2020230214215814.png)
 
 
 
 - Amortiguador
 
-![[Pasted image 20230214220124.png]]
+![](attachments/Pasted%20image%2020230214220124.png)
 
 $$
 \begin{align*}
@@ -148,11 +148,11 @@ $$
 
 Se puede tomar como dos pistones inmersos en una cámara que contiene un fluido.
 
-![[Pasted image 20230214220936.png]]
+![](attachments/Pasted%20image%2020230214220936.png)
 
 Así mismo, la fuerza que actúa sobre el amortiguador es ejercida por la viscosidad del fluido, y depende de la relación entre las velocidades $v_{1}$ y $v_{2}$.
 
-![[Pasted image 20230214221414.png]]
+![](attachments/Pasted%20image%2020230214221414.png)
 
 En el primero de los casos los dos pistones se alejan entre sí, por tanto, el fluido se opone a este movimiento, ejerciendo una fricción de amortiguación.
 En el segundo caso ambos pistones se acercan, una vez más la fuerza se opone a este movimiento.
@@ -173,7 +173,7 @@ Se le denomina a $M\frac{dv}{dt}$ como fuerza inercial, la cual es una fuerza fi
 
 - Ley de desplazamientos:
 
-![[Pasted image 20230211201401.png]]
+![](attachments/Pasted%20image%2020230211201401.png)
 
 En una trayectoria cerrada, la suma de desplazamientos de cada lazo es igual.
 
@@ -189,14 +189,14 @@ $$
 
 Ejemplo:
 
-![[Pasted image 20230211201816.png]]
+![](attachments/Pasted%20image%2020230211201816.png)
 
 
 Se hace el análisis dinámico de cada uno de los bloques:
 
-![[Pasted image 20230211202541.png]]
+![](attachments/Pasted%20image%2020230211202541.png)
 
-![[Pasted image 20230211203355.png]]
+![](attachments/Pasted%20image%2020230211203355.png)
 
 
 Se obtienen las ecuaciones:
@@ -301,7 +301,7 @@ $$
 
 Ejemplo:
 
-![[Pasted image 20230214221704.png]]
+![](attachments/Pasted%20image%2020230214221704.png)
 
 
 El procedimiento para resolver cualquier problema de este estilo es:
@@ -325,7 +325,7 @@ Todas estas fuerzas son equivalentes a una fuerza inercial $m_{1}\ddot z_{1}$, p
 
 Según las suposiciones hechas se tiene el DCL para la masa 1:
 
-![[Pasted image 20230214222650.png]]
+![](attachments/Pasted%20image%2020230214222650.png)
 
 Se hace el mismo procedimiento para la masa 2, se plantean las ecuaciones dinámicas y se modela el sistema con el vector de estados.
 
@@ -335,7 +335,7 @@ Se hace el mismo procedimiento para la masa 2, se plantean las ecuaciones dinám
 
 - Resorte de torsión:
 
-![[Pasted image 20230220184416.png]]
+![](attachments/Pasted%20image%2020230220184416.png)
 
 $$
 	T = k(\theta_{1} - \theta_{2})
@@ -343,7 +343,7 @@ $$
 
 - Amortiguador rotacional:
 
-![[Pasted image 20230220184840.png]]
+![](attachments/Pasted%20image%2020230220184840.png)
 
 $$
 	T = B(\omega_{1} - \omega_{2})
@@ -351,7 +351,7 @@ $$
 
 - Engranajes:
 
-![[Pasted image 20230220185614.png]]
+![](attachments/Pasted%20image%2020230220185614.png)
 
 Donde $f_{c}$ es la fuerza de contacto.
 Siempre se genera un torque de acción-reacción provocado por el otro engranaje.
@@ -389,11 +389,11 @@ $$
 
 Ejemplo:
 
-![[Pasted image 20230220193902.png]]
+![](attachments/Pasted%20image%2020230220193902.png)
 
 Se hace el diagrama cinemático de cada una de las inercias:
 
-![[Pasted image 20230220194331.png]]
+![](attachments/Pasted%20image%2020230220194331.png)
 
 
 Sus ecuaciones de estado son:
@@ -439,7 +439,7 @@ Donde $A$ es el área del tanque en un punto.
 
 Ejemplo:
 
-![[Pasted image 20230220201500.png]]
+![](attachments/Pasted%20image%2020230220201500.png)
 
 Caudales:
 
@@ -519,7 +519,7 @@ Donde $q_{i}$ es el calor que entra y $q_{o}$ es el que sale del cuerpo. Además
 
 Ejemplo:
 
-![[Pasted image 20230220203438.png]]
+![](attachments/Pasted%20image%2020230220203438.png)
 
 Flujos de calor:
 
@@ -588,7 +588,7 @@ $$
 
 Se podría tener el siguiente comportamiento:
 
-![[Pasted image 20230225212620.png]]
+![](attachments/Pasted%20image%2020230225212620.png)
 
 
 Sin embargo, expandiendo la función por series de Taylor, alrededor de un punto ($\bar{x}$) en la función, se obtiene:
@@ -598,7 +598,7 @@ $$
 $$
 No nos conviene expresar la función con los términos donde $x$ adquiere un grado superior en la serie de Taylor, ya que, se quiere linealizar. Por tanto, al tomar los dos primeros términos se lineariza la función en torno al punto de operación.
 
-![[Pasted image 20230225213318.png]]
+![](attachments/Pasted%20image%2020230225213318.png)
 
 Esto quiere decir que siempre y cuando $x$ difiera poco de $\bar{x}$ el error será menor.
 

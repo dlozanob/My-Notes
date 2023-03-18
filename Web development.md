@@ -2,10 +2,10 @@
 # Web Development
 
 
-- [[HTML]]
-- [[Bootstrap]]
-- [[CSS]]
-- [[Javascript]]
+- [HTML](HTML.md)
+- [Bootstrap](Bootstrap.md)
+- [CSS](CSS.md)
+- [Javascript](Javascript.md)
 
 
 
