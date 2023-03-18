@@ -60,7 +60,7 @@ $$
 - $Q_{A}$ : Cantidad ofrecida
 - $P_{A}$ : Precio del producto
 - $r$ : Precios de los insumos
-- $z$ : Precio de la tecnología de producción
+- $z$ : Calidad de la tecnología disponible
 - $H$ : Número de empresas que actúan en el mismo mercado
 
 La _curva de la oferta_ representa la relación entre las cantidades de productos a ofertar y su precio, considerando que las otras demás variables se mantienen constantes.
@@ -88,12 +88,14 @@ En un mercado libre el precio tiende a equilibrarse con el tiempo. A esto se le 
 
 Ahora bien, los otros factores de las funciones de oferta y de demanda entran en juego.
 
-La curva de la demanda es desplazada hacia la derecha cuando aumenta:
-- Renta
+La curva de la demanda es desplazada hacia la derecha cuando:
+- $()$ Renta
 - Precio de los sustitutos
 - Gustos
 
-
+La curva de la oferta es desplazazda hacia la derecha cuando:
+- Precios de los insumos
+- 
 
 
 
@@ -132,7 +134,14 @@ Un aumento en las tendencias positivas hacia cierto producto, generará que la g
 
 Precios más adsequibles de insumos y mano de obra para el productor, le permitirá generar mayores cantidades en el mismo tiempo. Siendo así, la curva de la oferta se desplaza hacia la derecha.
 
-### 
+### Tecnología disponible
+
+Poseer mejores técnicas y procesos de manufactura más eficientes, suponen precios más bajos para la misma cantidad vendida. Lo que hace que la curva de la oferta se desplace hacia la derecha.
+
+### Número de empresas oferentes
+
+Un aumento en la expectativa de un mercado, hará que entren más empresas al negocio. Aumentando los bienes ofrecidos. Lo que produce un desplazamiento a la derecha de la curva de la oferta.
+
 
 
 
