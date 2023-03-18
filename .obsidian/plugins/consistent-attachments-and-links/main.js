@@ -155,11 +155,13 @@ class Utils {
     static normalizePathForFile(path) {
         path = path.replace(/\\/gi, "/"); //replace \ to /
         path = path.replace(/%20/gi, " "); //replace %20 to space
+        path = path.replace(/%2C/gi, ",");
         return path;
     }
     static normalizePathForLink(path) {
         path = path.replace(/\\/gi, "/"); //replace \ to /
         path = path.replace(/ /gi, "%20"); //replace space to %20
+        path = path.replace(/,/gi, "%2C");
         return path;
     }
     static normalizeLinkSection(section) {
