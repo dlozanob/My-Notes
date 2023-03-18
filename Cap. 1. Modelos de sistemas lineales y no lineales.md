@@ -632,6 +632,34 @@ $$
 	\end{pmatrix}
 $$
 
+
+$$
+\begin{pmatrix}
+	\dot x_{1} \\\\
+	\dot x_{2} \\
+	. \\
+	. \\
+	. \\
+	\dot x_{n}
+\end{pmatrix}
+=
+\begin{pmatrix}
+	f_{1}(x_{1}, ..., x_{n}, u_{1}, ..., u_{n}) \\\\
+	f_{2}(x_{1}, ..., x_{n}, u_{1}, ..., u_{n}) \\
+	. \\
+	. \\
+	. \\
+	f_{n}(x_{1}, ..., x_{n}, u_{1}, ..., u_{n})
+\end{pmatrix}
+$$
+
+
+
+
+
+
+
+
 Ya que, $x_{1}, x_{2}, ..., x_{n}$ son valores establecidos, se tiene:
 
 $$
