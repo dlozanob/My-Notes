@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "6f970b7ecb471370",
+            "id": "5a09237a55ae47f9",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -28,21 +28,9 @@
                 "file": "Excalidraw/blackboard.excalidraw.md"
               }
             }
-          },
-          {
-            "id": "71af58f99c6dec8e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Finanzas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -102,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Finanzas.md",
+                "file": "Excalidraw/blackboard.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Finanzas.md",
+                "file": "Excalidraw/blackboard.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Finanzas.md"
+                "file": "Excalidraw/blackboard.excalidraw.md"
               }
             }
           },
@@ -167,7 +155,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: finanzas",
+                "query": "file: black",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -193,10 +181,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "71af58f99c6dec8e",
+  "active": "5a09237a55ae47f9",
   "lastOpenFiles": [
     "Tema 2. Función de oferta y demanda.md",
+    "Untitled.canvas",
     "Excalidraw/blackboard.excalidraw.md",
+    "Finanzas.md",
     "Obsidian basics.md",
     "Módulo 1. Economía y matemática financiera.md",
     "Tema 1. Economía.md",
@@ -206,7 +196,6 @@
     "Pasted image 20230317204053.png",
     "Pasted image 20230317200938.png",
     "Pasted image 20230317194715.png",
-    "Finanzas.md",
     "README.md",
     "Main.md",
     "myDrawings.md",
@@ -229,7 +218,6 @@
     "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
     "Señales y Sistemas II.md",
     "Estática de Fluidos.md",
-    "Dinámica de Fluidos.md",
-    "Cinemática de Fluidos.md"
+    "Dinámica de Fluidos.md"
   ]
 }
