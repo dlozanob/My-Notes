@@ -778,7 +778,8 @@ $$
 Siendo así, la forma general es:
 
 $$
-\begin{pmatrix}
+\displaylines{
+	\begin{pmatrix}
 	\dot X_{D1} \\\\
 	\dot X_{D2} \\
 	. \\
@@ -819,6 +820,7 @@ $$
 	. \\
 	U_{Dn}
 \end{pmatrix}
+}
 $$
 
 $$
