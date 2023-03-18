@@ -240,29 +240,29 @@ $$
 2. Expresar la ecuación de tranferencia en la ecuación de estado
 	$$
 \displaylines{
-\dot{x}(t) =
-\begin{pmatrix}
-	-a_{2} & . & . & . & -a_{g+1} \\\\
-	1 & ... & 0 & & 0 \\
-	. & . & . & & 0 \\
-	. & . & . & & 0 \\
-	0 & ... & 1 & & 0
-\end{pmatrix}
-x(t) + 
-\begin{pmatrix}
-	1 \\
-	0 \\
-	. \\
-	. \\
-	0 \\
-\end{pmatrix}
-u(t) \\\\\\
-y(t) =
-\begin{pmatrix}
-	b_{1} & b_{2} & ... & b_{g + 1}
-\end{pmatrix}
-x(t) + 
-du(t)
+	\dot{x}(t) =
+	\begin{pmatrix}
+		-a_{2} & . & . & . & -a_{g+1} \\\\
+		1 & ... & 0 & & 0 \\
+		. & . & . & & 0 \\
+		. & . & . & & 0 \\
+		0 & ... & 1 & & 0
+	\end{pmatrix}
+	x(t) + 
+	\begin{pmatrix}
+		1 \\
+		0 \\
+		. \\
+		. \\
+		0 \\
+	\end{pmatrix}
+	u(t) \\\\\\
+	y(t) =
+	\begin{pmatrix}
+		b_{1} & b_{2} & ... & b_{g + 1}
+	\end{pmatrix}
+	x(t) + 
+	du(t)
 }
 $$
 
