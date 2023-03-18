@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "096825e98c91aa10",
+            "id": "fee1005e9cd5aaa8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,19 +32,19 @@
             }
           },
           {
-            "id": "fee1005e9cd5aaa8",
+            "id": "cb9b41618e209e49",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main.md",
+                "file": "Ingeniería Electrónica.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Main.md",
+                "file": "consistant-report.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Main.md",
+                "file": "consistant-report.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Main.md"
+                "file": "consistant-report.md"
               }
             }
           },
@@ -197,14 +197,18 @@
   },
   "active": "fee1005e9cd5aaa8",
   "lastOpenFiles": [
+    "Ingeniería Electrónica.md",
+    "Microcontrollers.md",
+    "Taller de Ingeniería Electrónica.md",
     "consistant-report.md",
+    "C.md",
     "Main.md",
+    "Tema 2. Función de oferta y demanda.md",
     "Web Development.md",
     "attachments",
     "New folder",
     "Excalidraw/blackboard.excalidraw.md",
     "Finanzas.md",
-    "Tema 2. Función de oferta y demanda.md",
     "2023-03-18.md",
     "Untitled.canvas",
     "Obsidian basics.md",
@@ -231,10 +235,6 @@
     "Pasted image 20230317173752.png",
     "Pasted image 20230317173202.png",
     "LaTeX.md",
-    "Servomecanismos.md",
-    "Tema 3. Indicadores macroeconómicos.md",
-    "Tema 4. Matemáticas financieras.md",
-    "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
-    "Señales y Sistemas II.md"
+    "Servomecanismos.md"
   ]
 }
