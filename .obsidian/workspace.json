@@ -13,10 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main.md",
+                "file": "Automatización, Control y Robótica.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "6f94ab9ba3391e68",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -79,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Main.md",
+                "file": "Automatización, Control y Robótica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Main.md",
+                "file": "Automatización, Control y Robótica.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Main.md"
+                "file": "Automatización, Control y Robótica.md"
               }
             }
           },
