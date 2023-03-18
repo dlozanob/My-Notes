@@ -70,6 +70,8 @@ La _curva de la oferta_ representa la relación entre las cantidades de producto
 
 ## Equilibrio del mercado
 
+El _equilibrio_ es la situación donde no hay fuerzas inherentes que inciten al cambio
+
 Cuando consumidores y productores se ponen de acuerdo con un valor para una determinada cantidad de bienes, se llega a un _precio de equilibrio_, llamando a la cantidad ofrecida a este precio como _cantidad de equilibrio_.
 
 El _precio de equilibrio_ es aquel donde la cantidad demandada es igual a la cantidad ofrecida.
@@ -79,7 +81,10 @@ El _precio de equilibrio_ es aquel donde la cantidad demandada es igual a la can
 Si se decide aumentar el precio, la oferta aumentará y los consumidores no desearán comprar varias cantidades. Hay exceso de oferta.
 Si se decide reducir el precio, la demanda aumentará y los productores no desearán producir tantos bienes. Hay exceso de demanda.
 
-En un mercado libre el precio tiende a equilibrarse con el tiempo. 
+En un mercado libre el precio tiende a equilibrarse con el tiempo. A esto se le conoce como _ley de la oferta y la demanda_.
+
+
+
 
 
 
