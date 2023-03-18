@@ -87,15 +87,17 @@ $$
 $$
 
 $$
-y =
-\begin{pmatrix}
-	0 & 1
-\end{pmatrix}
-\begin{pmatrix}
-	x_{1} \\
-	x_{2}
-\end{pmatrix}
-+ u
+\displaylines{
+	y =
+	\begin{pmatrix}
+		0 & 1
+	\end{pmatrix}
+	\begin{pmatrix}
+		x_{1} \\
+		x_{2}
+	\end{pmatrix}
+	+ u
+}
 $$
 
 
