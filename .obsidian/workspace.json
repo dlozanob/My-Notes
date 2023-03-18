@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tema 2. Función de oferta y demanda.md",
+                "file": "Automatización, Control y Robótica.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tema 2. Función de oferta y demanda.md",
+                "file": "Automatización, Control y Robótica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tema 2. Función de oferta y demanda.md",
+                "file": "Automatización, Control y Robótica.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tema 2. Función de oferta y demanda.md"
+                "file": "Automatización, Control y Robótica.md"
               }
             }
           },
@@ -172,13 +172,14 @@
   },
   "active": "a014d4a96ecd1782",
   "lastOpenFiles": [
+    "Main.md",
+    "Tema 2. Función de oferta y demanda.md",
     "consistant-report.md",
     "Finanzas.md",
     "Módulo 6.md",
     "Módulo 4.md",
     "Módulo 5.md",
     "Módulo 3.md",
-    "Tema 2. Función de oferta y demanda.md",
     "Física.md",
     "Ingeniería de Diseño.md",
     "Taller de Ingeniería Electrónica.md",
@@ -188,7 +189,6 @@
     "Fundamentos de Ondas, Oscilaciones y Óptica.md",
     "Microcontrollers.md",
     "C.md",
-    "Main.md",
     "Web Development.md",
     "attachments",
     "New folder",
