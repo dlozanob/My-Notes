@@ -10,6 +10,8 @@ La oferta y la demanda determinan los precios y la cantidad que se vende de cada
 >[!Note]
 >Cuando se prohibe el mercado privado, como lo es el negocio del narcotráfico, los productos escasean, aumentando así sus precios y creando el mercado negro.
 
+## La demanda
+
 La demanda se define como la motivación o intención de comprar un bien. Si los precios bajan, las cantidades demandadas serán más altas. Caso contrario, la demanda será menor. A esto se le conoce como la _ley de la demanda_.
 
 La _demanda del mercado_ es la suma de las cantidades demandadas por cada uno de los individuos que integran este mercado.
@@ -32,10 +34,11 @@ $$
 
 La _curva de la demanda_ es la relación entre el precio de cierto producto y la demanda del mercado, considerando que las otras demás variables se mantienen constantes.
 
+![[Pasted image 20230317194715.png]]
 
 
 
-
+## La oferta
 
 La _oferta_ se puede definir como la disposición o intención de vender.
 A precios más elevados la oferta aumentará. Caso contrario, la oferta se ve reducida. A esto se le conoce como _ley de la oferta_.
