@@ -20,12 +20,14 @@
             }
           },
           {
-            "id": "5a09237a55ae47f9",
+            "id": "096825e98c91aa10",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md"
+                "file": "consistant-report.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -90,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md",
+                "file": "consistant-report.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md",
+                "file": "consistant-report.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md"
+                "file": "consistant-report.md"
               }
             }
           },
@@ -181,12 +183,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5a09237a55ae47f9",
+  "active": "096825e98c91aa10",
   "lastOpenFiles": [
-    "Tema 2. Función de oferta y demanda.md",
-    "Untitled.canvas",
+    "attachments",
+    "New folder",
     "Excalidraw/blackboard.excalidraw.md",
+    "consistant-report.md",
     "Finanzas.md",
+    "Tema 2. Función de oferta y demanda.md",
+    "2023-03-18.md",
+    "Untitled.canvas",
     "Obsidian basics.md",
     "Módulo 1. Economía y matemática financiera.md",
     "Tema 1. Economía.md",
@@ -216,8 +222,6 @@
     "Tema 3. Indicadores macroeconómicos.md",
     "Tema 4. Matemáticas financieras.md",
     "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
-    "Señales y Sistemas II.md",
-    "Estática de Fluidos.md",
-    "Dinámica de Fluidos.md"
+    "Señales y Sistemas II.md"
   ]
 }
