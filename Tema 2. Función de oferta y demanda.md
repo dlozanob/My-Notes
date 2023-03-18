@@ -74,13 +74,12 @@ Cuando consumidores y productores se ponen de acuerdo con un valor para una dete
 
 El _precio de equilibrio_ es aquel donde la cantidad demandada es igual a la cantidad ofrecida.
 
+![[Pasted image 20230317204159.png]]
 
+Si se decide aumentar el precio, la oferta aumentará y los consumidores no desearán comprar varias cantidades. Hay exceso de oferta.
+Si se decide reducir el precio, la demanda aumentará y los productores no desearán producir tantos bienes. Hay exceso de demanda.
 
-
-
-
-
-En un mercado libre el precio tiende a equilibrarse con el tiempo.
+En un mercado libre el precio tiende a equilibrarse con el tiempo. 
 
 
 
