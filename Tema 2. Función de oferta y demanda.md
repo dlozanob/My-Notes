@@ -100,13 +100,20 @@ margarina.
 
 Al aumentar el poder adquisitivo del consumidor, la curva de la demanda se desplaza hacia la derecha.
 
-![[Pasted image 20230317210329.png]]
-
 
 ### Precios de los sustitutos
 
+- _Bienes sustitutivos_ : La subida del precio de uno, eleva la cantidad demandada del otro.
+Ejemplo: Mantequilla y margarina.
+
+- _Bienes complementarios_ : La subida del precio de uno, reduce la cantidad demandada del otro.
+Ejemplo: Automóviles y gasolina.
+
+Al aumentar el precio de un bien sustituto, la curva de la demanda se desplaza hacia la derecha.
+Al aumentar el precio de un bien complementario, la curva de la demanda se desplaza hacia la izquierda.
 
 
+### Gustos de los consumi
 
 
 
