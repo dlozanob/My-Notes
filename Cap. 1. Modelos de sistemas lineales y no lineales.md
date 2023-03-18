@@ -439,7 +439,6 @@ $$
 Donde $A$ es el área del tanque en un punto.
 
 
-
 Ejemplo:
 
 ![](attachments/Pasted%20image%2020230220201500.png)
@@ -473,6 +472,7 @@ $$
 	dV_{3} = Adh_{3}
 \end{align*}
 $$
+
 Entonces:
 
 $$
@@ -503,11 +503,13 @@ El flujo de calor desde un cuerpo 1 hasta un cuerpo 2, se define como:
 $$
 	q_{12} = \frac{T_{1} - T_{2}}{R_{1}}
 $$
+
 Donde $R_{1}$ es una resistencia térmica, definida por:
 
 $$
 	R_{1} = \frac{l}{kA}
 $$
+
 Donde $l$ es el grosor del cuerpo, $A$ el área y $k$ es la conductividad térmica del cuerpo.
 
 Así mismo, la tasa de cambio de la temperatura (capacidad térmica) está dada por:
@@ -543,6 +545,7 @@ $$
 	\frac{dT_{A}}{dt} = \frac{q_{mA} - q_{AE}}{C_{A}} \\\\
 \end{align*}
 $$
+
 Donde $q$ es un calor que entra al cuerpo, en este caso es $0$.
 
 Reemplazando los flujos:
@@ -553,6 +556,7 @@ $$
 	\frac{dT_{A}}{dt} = \frac{1}{C_{A}}(\frac{T_{m} - T_{A}}{R_{m}} - \frac{T_{A} - T_{E}}{R_{A}}) \\\\
 \end{align*}
 $$
+
 Modelando el sistema:
 
 $$
@@ -599,6 +603,7 @@ Sin embargo, expandiendo la función por series de Taylor, alrededor de un punto
 $$
 	F_{resorte} = F(\bar{x}) + \frac{dF}{dx}\biggr\rvert_{\bar{x}}(x - \bar{x}) + ...
 $$
+
 No nos conviene expresar la función con los términos donde $x$ adquiere un grado superior en la serie de Taylor, ya que, se quiere linealizar. Por tanto, al tomar los dos primeros términos se lineariza la función en torno al punto de operación.
 
 ![](attachments/Pasted%20image%2020230225213318.png)
@@ -626,7 +631,6 @@ $$
 		f_{n}(x_{1}, ..., x_{n}, u_{1}, ..., u_{n})
 	\end{pmatrix}
 $$
-
 
 Ya que, $x_{1}, x_{2}, ..., x_{n}$ son valores establecidos, se tiene:
 
@@ -714,6 +718,7 @@ $$
 	\right.
 \end{align*}
 $$
+ 
  Donde:
 
 $$
@@ -743,6 +748,7 @@ B =
 \end{pmatrix}_{\biggr\rvert X=  X_{N}, U = U_{N}}
 \end{align*}
 $$
+
 $$
 \begin{align*}
 C =
@@ -863,6 +869,7 @@ $$
 $$
 
 Donde:
+
 $$
 \begin{align*}
 	* =
