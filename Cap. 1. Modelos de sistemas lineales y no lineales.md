@@ -632,30 +632,6 @@ $$
 	\end{pmatrix}
 $$
 
-
-$$
-\begin{pmatrix}
-	1 & 0 & 0 \\
-0 & 1 & 0 \\
-0 & 0 & 1
-\end{pmatrix}
-$$
-
-$$
-\displaylines{
-	\begin{pmatrix}
-	1 & 0 & 0 \\
-0 & 1 & 0 \\
-0 & 0 & 1
-\end{pmatrix}
-}
-$$
-
-
-
-
-
-
 Ya que, $x_{1}, x_{2}, ..., x_{n}$ son valores establecidos, se tiene:
 
 $$
@@ -703,7 +679,6 @@ $$
 		. \\
 		x_{n} - x_{N}
 	\end{pmatrix}
-
 \end{align*}
 $$
 
@@ -726,7 +701,6 @@ $$
 		. \\
 		u_{n} - u_{N}
 	\end{pmatrix}
-
 \end{align*}
 $$
 
