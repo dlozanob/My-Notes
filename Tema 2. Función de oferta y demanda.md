@@ -20,7 +20,7 @@ Cuando aumenta el precio de cierto bien, la gente comenzará a consumirlo en men
 
 Al aumentar el precio de un producto, la misma cantidad que se compraba antes es claramente más costosa, por tanto, las personas poseerán una menor capacidad adquisitiva. Esto se traduce en poseer menores cantidades de todos los bienes que la persona normalmente compra. A esto se le conoce como _efecto renta_.
 
-La demanda puede modelarse como una función que involucra 4 variables. La función de demanda satisface:
+La demanda puede modelarse como una función que involucra 4 variables. La _función de la demanda_ satisface:
 
 $$
   Q_{A} = D(P_{A}, Y, P_{B}, G)
