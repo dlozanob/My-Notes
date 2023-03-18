@@ -39,8 +39,8 @@ $$
 	&y = Cx + Du
 \end{align*}
 $$
-Donde $A, B, C$ y $D$ son matrices.
 
+Donde $A, B, C$ y $D$ son matrices.
 
 - _Ejemplo:_
 
@@ -59,6 +59,7 @@ $$
 	&y = u - x_{2}
 \end{align*}
 $$
+
 Se obtiene el resultado:
 
 $$
@@ -82,6 +83,7 @@ $$
 \end{pmatrix}
 u
 $$
+
 $$
 y =
 \begin{pmatrix}
@@ -161,6 +163,7 @@ En el segundo caso ambos pistones se acercan, una vez más la fuerza se opone a 
 - Ley de D'Alembert:
 
 Es el mismo principio de la segunda de Newton
+
 $$
 \begin{align*}
 	&\sum_{k = i}^{k = n} (f_{ext})_{i} = M\frac{dv}{dt} \\
@@ -225,6 +228,7 @@ $$
 	\dot y_{2}
 \end{pmatrix}
 $$
+
 Reemplazando:
 
 $$
@@ -242,7 +246,6 @@ $$
 	&\dot x_{4} = \frac{k_{2}}{M_{2}}x_{1} + \frac{B}{M_{2}}x_{2} - \frac{k_{2}}{M_{2}}x_{3} - \frac{B}{M_{2}}x_{4} + \frac{1}{M_{2}}f_{a}(t) 
 \end{align*}
 $$
-
 
 Entonces el modelo adquiere la forma:
 
@@ -275,6 +278,7 @@ $$
 \end{pmatrix}
 f_{a}(t)
 $$
+
 $$
 \begin{pmatrix}
 	y_{1} \\
@@ -365,13 +369,12 @@ $$
 $$
 
 
-
-
 De la ley de Newton para torques externos actuando sobre un cuerpo, se tiene:
 
 $$
 	\sum_{i}T_{ext, i} = J\ddot \theta
 $$
+
 Donde $J$ es el momento polar de inercia del cuerpo.
 
 A la sumatoria de todos los torques, incluyendo la inercia, se llama _Ley de D'Alembert_:
