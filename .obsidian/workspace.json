@@ -11,8 +11,12 @@
             "id": "a014d4a96ecd1782",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Automatización, Control y Robótica.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -75,6 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Automatización, Control y Robótica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,6 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Automatización, Control y Robótica.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -112,7 +118,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Automatización, Control y Robótica.md"
+              }
             }
           },
           {
@@ -166,7 +174,7 @@
   "lastOpenFiles": [
     "Automatización%2C control y robótica.md",
     "Prueba, N.md",
-    "Automatización, control y robótica.md",
+    "Automatización, Control y Robótica.md",
     "Prueba%2C N.md",
     "Main.md",
     "Tema 2. Función de oferta y demanda.md",
