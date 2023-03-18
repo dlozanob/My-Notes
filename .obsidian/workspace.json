@@ -18,33 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "fee1005e9cd5aaa8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "consistant-report.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cb9b41618e209e49",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ingeniería Electrónica.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "consistant-report.md",
+                "file": "Tema 2. Función de oferta y demanda.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "consistant-report.md",
+                "file": "Tema 2. Función de oferta y demanda.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "consistant-report.md"
+                "file": "Tema 2. Función de oferta y demanda.md"
               }
             }
           },
@@ -195,20 +170,29 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fee1005e9cd5aaa8",
+  "active": "a014d4a96ecd1782",
   "lastOpenFiles": [
-    "Ingeniería Electrónica.md",
-    "Microcontrollers.md",
-    "Taller de Ingeniería Electrónica.md",
     "consistant-report.md",
+    "Finanzas.md",
+    "Módulo 6.md",
+    "Módulo 4.md",
+    "Módulo 5.md",
+    "Módulo 3.md",
+    "Tema 2. Función de oferta y demanda.md",
+    "Física.md",
+    "Ingeniería de Diseño.md",
+    "Taller de Ingeniería Electrónica.md",
+    "Ingeniería Electrónica.md",
+    "Fundamentos de Mecánica de Fluidos.md",
+    "Propiedades de los Fluidos.md",
+    "Fundamentos de Ondas, Oscilaciones y Óptica.md",
+    "Microcontrollers.md",
     "C.md",
     "Main.md",
-    "Tema 2. Función de oferta y demanda.md",
     "Web Development.md",
     "attachments",
     "New folder",
     "Excalidraw/blackboard.excalidraw.md",
-    "Finanzas.md",
     "2023-03-18.md",
     "Untitled.canvas",
     "Obsidian basics.md",
@@ -222,19 +206,10 @@
     "attachments/Pasted image 20230317194715.png",
     "README.md",
     "myDrawings.md",
-    "[[myDrawingSpace.excalidraw.md",
-    "Untitled.md",
-    "Módulo 2.md",
-    "Ingeniería Económica.md",
-    "Fórmulas Financieras Excel.md",
-    "Propiedades de los Fluidos.md",
-    "Fundamentos de Mecánica de Fluidos.md",
     "attachments/Pasted image 20230317174204.png",
     "attachments/Pasted image 20230317174127.png",
     "Pasted image 20230317173953.png",
     "Pasted image 20230317173752.png",
-    "Pasted image 20230317173202.png",
-    "LaTeX.md",
-    "Servomecanismos.md"
+    "Pasted image 20230317173202.png"
   ]
 }
