@@ -39,8 +39,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md",
+                "file": "Tema 2. Función de oferta y demanda.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md",
+                "file": "Tema 2. Función de oferta y demanda.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md"
+                "file": "Tema 2. Función de oferta y demanda.md"
               }
             }
           },
@@ -191,14 +190,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6f970b7ecb471370",
+  "active": "a014d4a96ecd1782",
   "lastOpenFiles": [
+    "Excalidraw/blackboard.excalidraw.md",
+    "Excalidraw/whiteboard.excalidraw.md",
     "Tema 2. Función de oferta y demanda.md",
     "Pasted image 20230317194715.png",
-    "Excalidraw/whiteboard.excalidraw.md",
     "Módulo 1. Economía y matemática financiera.md",
     "Finanzas.md",
-    "Excalidraw/blackboard.excalidraw.md",
     "README.md",
     "Main.md",
     "myDrawings.md",

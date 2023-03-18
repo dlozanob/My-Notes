@@ -43,7 +43,7 @@ La _curva de la demanda_ es la relación entre el precio de cierto producto y la
 La _oferta_ se puede definir como la disposición o intención de vender.
 A precios más elevados la oferta aumentará. Caso contrario, la oferta se ve reducida. A esto se le conoce como _ley de la oferta_.
 
-
+La _tabala de oferta individual_ recoge las cantidades de un producto que un vendedor desea vender para cada precio.
 
 
 
