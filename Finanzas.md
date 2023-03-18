@@ -6,7 +6,7 @@
 - [[Módulo 4]]
 - [[Módulo 5]]
 - [[Módulo 6]]
-- [a](../Mecanismos.md)
+- [a](/Mecanismos.md)
 
 
 
