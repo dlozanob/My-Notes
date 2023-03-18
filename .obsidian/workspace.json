@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Basics.md",
+                "file": "Main.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian Basics.md",
+                "file": "Main.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian Basics.md",
+                "file": "Main.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian Basics.md"
+                "file": "Main.md"
               }
             }
           },
@@ -172,7 +172,9 @@
   },
   "active": "a014d4a96ecd1782",
   "lastOpenFiles": [
+    "Automatización%2C Control y Robótica.md",
     "Main.md",
+    "Obsidian Basics.md",
     "Automatización, Control y Robótica.md",
     "Ciencias económicas y Administrativa.md",
     "Pasted image 20230317210329.png",
@@ -208,8 +210,6 @@
     "attachments",
     "New folder",
     "Excalidraw/blackboard.excalidraw.md",
-    "2023-03-18.md",
-    "Untitled.canvas",
-    "Obsidian Basics.md"
+    "Untitled.canvas"
   ]
 }
