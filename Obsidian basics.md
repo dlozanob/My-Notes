@@ -1,4 +1,4 @@
-# Obsidian basics
+# Obsidian Basics
 
 - Linking [Linked note](Linked%20note.md).
 - Internal links: Look also for [External links](#external+links)
