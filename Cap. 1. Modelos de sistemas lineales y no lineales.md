@@ -657,13 +657,11 @@ $$
 
 
 $$
-\displaylines{
-	\displaylines{\ndfsd\n}
-}
-
-\begin{}
-
-\end{}
+\begin{pmatrix}
+	1 & 0 & 0 \\
+0 & 1 & 0 \\
+0 & 0 & 1
+\end{pmatrix}
 $$
 
 
