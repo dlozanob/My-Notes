@@ -88,6 +88,16 @@ En un mercado libre el precio tiende a equilibrarse con el tiempo. A esto se le 
 
 Ahora bien, los otros factores de las funciones de oferta y de demanda entran en juego.
 
+La curva de la demanda es desplazada hacia la derecha cuando aumenta:
+- Renta
+- Precio de los sustitutos
+- Gustos
+
+
+
+
+
+
 ### Renta de los consumidores
 
 - _Bienes normales_ : Al aumentar la renta, se aumenta la demanda de ellos.
@@ -113,8 +123,12 @@ Al aumentar el precio de un bien sustituto, la curva de la demanda se desplaza h
 Al aumentar el precio de un bien complementario, la curva de la demanda se desplaza hacia la izquierda.
 
 
-### Gustos de los consumi
+### Gustos de los consumidores
 
+Un aumento en las tendencias positivas hacia cierto producto, generará que la gente prefiera consumir en mayor medida tal bien. Por tanto, un aumento en los gustos de los consumidores, genera que la curva de la demanda se desplce hacia la derecha.
+
+
+### Precios de los factores productivos
 
 
 
