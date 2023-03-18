@@ -780,46 +780,46 @@ Siendo así, la forma general es:
 $$
 \displaylines{
 	\begin{pmatrix}
-	\dot X_{D1} \\\\
-	\dot X_{D2} \\
-	. \\
-	. \\
-	. \\
-	\dot X_{Dn}
-\end{pmatrix}
-=
-\begin{pmatrix}
-	\frac{\partial f_{1}}{\partial x_{1}} & \frac{\partial f_{1}}{\partial x_{2}} & ... & \frac{\partial f_{1}}{\partial x_{n}} \\\\
-	\frac{\partial f_{2}}{\partial x_{1}} & \frac{\partial f_{2}}{\partial x_{2}} & ... & \frac{\partial f_{2}}{\partial x_{n}} \\
-	. & . & & . \\
-	. & . & & . \\
-	. & . & & . \\
-	\frac{\partial f_{n}}{\partial x_{1}} & \frac{\partial f_{n}}{\partial x_{2}} & ... & \frac{\partial f_{n}}{\partial x_{n}}
-\end{pmatrix}_{\biggr\rvert*}
-\begin{pmatrix}
-	X_{D1} \\\\
-	X_{D2} \\
-	. \\
-	. \\
-	. \\
-	X_{Dn}
-\end{pmatrix}
-+
-\begin{pmatrix}
-	\frac{\partial f_{1}}{\partial u_{1}} & \frac{\partial f_{1}}{\partial u_{2}} & ... & \frac{\partial f_{1}}{\partial u_{p}} \\\\
-	\frac{\partial f_{2}}{\partial u_{1}} & \frac{\partial f_{2}}{\partial u_{2}} & ... & \frac{\partial f_{2}}{\partial u_p} \\
-	. & . & & . \\
-	. & . & & . \\
-	. & . & & . \\
-	\frac{\partial f_{n}}{\partial u_{1}} & \frac{\partial f_{n}}{\partial u_{2}} & ... & \frac{\partial f_{n}}{\partial u_{p}}
-\end{pmatrix}_{\biggr\rvert *}
-\begin{pmatrix}
-	U_{D1} \\\\
-	U_{D2} \\
-	. \\
-	. \\
-	U_{Dn}
-\end{pmatrix}
+		\dot X_{D1} \\\\
+		\dot X_{D2} \\
+		. \\
+		. \\
+		. \\
+		\dot X_{Dn}
+	\end{pmatrix}
+	=
+	\begin{pmatrix}
+		\frac{\partial f_{1}}{\partial x_{1}} & \frac{\partial f_{1}}{\partial x_{2}} & ... & \frac{\partial f_{1}}{\partial x_{n}} \\\\
+		\frac{\partial f_{2}}{\partial x_{1}} & \frac{\partial f_{2}}{\partial x_{2}} & ... & \frac{\partial f_{2}}{\partial x_{n}} \\
+		. & . & & . \\
+		. & . & & . \\
+		. & . & & . \\
+		\frac{\partial f_{n}}{\partial x_{1}} & \frac{\partial f_{n}}{\partial x_{2}} & ... & \frac{\partial f_{n}}{\partial x_{n}}
+	\end{pmatrix}_{\biggr\rvert*}
+	\begin{pmatrix}
+		X_{D1} \\\\
+		X_{D2} \\
+		. \\
+		. \\
+		. \\
+		X_{Dn}
+	\end{pmatrix}
+	+
+	\begin{pmatrix}
+		\frac{\partial f_{1}}{\partial u_{1}} & \frac{\partial f_{1}}{\partial u_{2}} & ... & \frac{\partial f_{1}}{\partial u_{p}} \\\\
+		\frac{\partial f_{2}}{\partial u_{1}} & \frac{\partial f_{2}}{\partial u_{2}} & ... & \frac{\partial f_{2}}{\partial u_p} \\
+		. & . & & . \\
+		. & . & & . \\
+		. & . & & . \\
+		\frac{\partial f_{n}}{\partial u_{1}} & \frac{\partial f_{n}}{\partial u_{2}} & ... & \frac{\partial f_{n}}{\partial u_{p}}
+	\end{pmatrix}_{\biggr\rvert *}
+	\begin{pmatrix}
+		U_{D1} \\\\
+		U_{D2} \\
+		. \\
+		. \\
+		U_{Dn}
+	\end{pmatrix}
 }
 $$
 
