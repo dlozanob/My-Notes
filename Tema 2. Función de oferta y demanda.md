@@ -28,9 +28,9 @@ $$
 
 - $Q_{A}$ : Cantidad demandada
 - $P_{A}$: Precio del producto
-- $P_{B}$: Precio del sustituto
-- $Y$: Renta
-- $G$: Gustos
+- $P_{B}$: Precio de los sustitutos
+- $Y$: Renta de los consumidores
+- $G$: Gustos de los consumidores
 
 
 La _curva de la demanda_ es la relación entre el precio de cierto producto y las cantidades demandas, considerando que las otras demás variables se mantienen constantes.
@@ -83,6 +83,8 @@ Si se decide reducir el precio, la demanda aumentará y los productores no desea
 
 En un mercado libre el precio tiende a equilibrarse con el tiempo. A esto se le conoce como _ley de la oferta y la demanda_.
 
+
+## Cambio de las condiciones del mercado
 
 
 
