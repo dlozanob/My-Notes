@@ -73,6 +73,7 @@ $$
 	&y[n] = Cx[n] + Du[n]
 \end{align*}
 $$
+
 Estas son las ecuaciones de diferencia, las cuales, se usan de manera recursiva para hallar la solución del sistema.
 
 Pasos para definir el paso $\triangle$:
@@ -90,9 +91,11 @@ Pasos para definir el paso $\triangle$:
 ## Funciones de transferencia
 
 La transformada de laplace de la respuesta al impulso es la función de transferencia del sistema.
+
 $$
 	H(s) = \frac{Y(s)}{U(s)}
 $$
+
 En circuitos eléctricos se pueden obtener impedancias tras aplicar la transformada de Laplace en cada componente:
 | | R | L | C |
 |-|-|-|-|
@@ -100,9 +103,11 @@ En circuitos eléctricos se pueden obtener impedancias tras aplicar la transform
 | Dominio de Laplace | $V(s) = RI(s)$ | $V(s) = sLI(s)$ | $V(s) = \frac{1}{sC}I(s)$ |
 
 Considerando la función de transferencia de la forma:
+
 $$
 	H(s) = \frac{N(s)}{D(s)}
 $$
+
 Donde $N(s)$ y $D(s)$ son polinomios con coeficientes reales, se tiene las siguientes definiciones para $H(s)$:
 | Designación | Condición |
 |-|-|
@@ -116,43 +121,56 @@ Consideremos el siguiente caso:
 ![](attachments/Pasted%20image%2020230305213457.png)
 
 La función de transferencia viene dada por:
+
 $$
 	\frac{Y(s)}{U(s)} = G = -\frac{Z_{2}}{Z_{1}}
 $$
 
 Si $Z_{1}$ es $R$ (resistencia) y $Z_{2}$ es $\frac{1}{sC}$ (capacitancia), se tiene:
+
 $$
 	G = -\frac{\frac{1}{sC}}{R} = -\frac{1}{sRC}
 $$
+
 La transformada de Laplace inversa se corresponde a un integrador.
+
 $$
 	y(t) = -\frac{1}{RC}\int_{0}^{t}u(t)dt
 $$
 
+
 Así mismo, si $Z_{2}$ es $R$ (resistencia) y $Z_{1}$ es $\frac{1}{sC}$ (capacitancia), se tiene:
+
 $$
 	G = -\frac{R}{\frac{1}{sC}} = -sRC
 $$
+
 Lo que corresponde a un derivador.
 
 
 Sin embargo, supongamos ahora que la señal de entrada es:
+
 $$
 	u(t) = 2Sin(t) + 0.01Sin(1000t)
 $$
+
 Donde $2Sin(t)$ es la señal base y $0.01Sin(1000t)$ representa al ruido.
 La señal original es 20 veces mayor al ruido.
 
 Al pasar por un derivador:
+
 $$
 	\dot{u(t)} = 2Cos(t) + 10Cos(1000t)
 $$
+
 La señal original es 5 veces menor al ruido.
 
 Al pasar por un integrador:
+
 $$
 	U(t) = -2Cos(t) - 10^{-5}Cos(1000t) + 2 + 10^{-5}
 $$
+
 La señal original es $2*10^{5}$ veces mayor que el ruido.
 
 Se concluye que:
@@ -163,17 +181,21 @@ Esto sucede para funciones de transferencia impropias.
 Sin embargo, en funciones de transferencia propias no sucede esto.
 
 Un ejemplo de ello, son los _PID_ en sistemas de control. Donde se tiene la función de transferencia:
+
 $$
 	H(s) = k_{1} + \frac{k_{2}}{s} + sk_{3}
 $$
+
 - $k_{1}$ : Constante proporcional
 - $k_{2}$ : Constante integral
 - $k_{3}$ : Constante derivativa
 
 Notemos que $sK_{3}$ es impropia, para hacerla propia se reemplaza por:
+
 $$
 	sk_{3} \leftarrow \frac{sk_{3}}{1 + \frac{k_{3}}{N}s}
 $$
+
 Donde $N$ es un valor muy grande.
 
 
@@ -185,16 +207,20 @@ Una función de transferencia, tiene infinitas representaciones o _realizaciones
 ### Función de transferencia $\rightarrow$ Variables de estado
 
 Se tiene una función de transferencia propia:
+
 $$
 	H(s) = \frac{N(s)}{D(s)}
 $$
-  Tal que:
+ 
+Tal que:
+
 $$
 \displaylines{
 	D(s) = a_{1}s^{G} + a_{2}s^{G - 1} + ... + a_{G + 1} \\
 	N(s) = b_{1}s^{g} + b_{2}s^{g - 1} + ... + b_{g + 1}
 }
 $$
+
 -  $G$ : Grado de $D(s)$
 - $g$ : Grado de $N(s)$
 
@@ -212,7 +238,6 @@ $$
             - $d$ : Cociente
 		
 2. Expresar la ecuación de tranferencia en la ecuación de estado
-
 	$$
 \displaylines{
 \dot{x}(t) =
@@ -247,19 +272,25 @@ $$
 
 
 - __Ejemplo__ :
+- 
 $$
 	H(s) = \frac{3s^{4} + 5s^{3} + 24s^{2} + 23s - 6}{2s^{4} + 6s^{3} + 15s^{2} + 12s + 5}
 $$
 
 Forma mónica:
+
 $$
 	H(s) = \frac{1.5s^{4} + 2.5s^{3} + 12s^{2} + 11.5s - 3}{s^{4} + 3s^{3} + 7.5s^{2} + 6s + 2.5}
 $$
+
 Al dividir el polinomio, se deja en su forma propia:
+
 $$
 	H(s) = \frac{-2s^{3} + 0.75s^{2} + 2.5s + -6.75}{s^{4} + 3s^{3} + 7.5s^{2} + 6s + 2.5} + 1.5
 $$
+
 Se halla la ecuación de estados:
+
 $$
 \displaylines{
 \dot{x} =
@@ -290,6 +321,7 @@ $$
 ### Variables de estado $\rightarrow$ Función de transferencia
 
 Se tiene el sistema en variables de estado:
+
 $$
 \displaylines{
 	\dot{x(t)} = Ax(t) + Bu(t) \\
@@ -298,6 +330,7 @@ $$
 $$
 
 Aplicando transformada de Laplace a $\dot{x(t)}$ :
+
 $$
 \displaylines{
 	sX(s) = AX(s) + BU(s) \\
@@ -307,6 +340,7 @@ $$
 $$
 
 Sustituyendo en la transformada de $y(t)$ :
+
 $$
 \displaylines{
 	Y(s) = CX(s) + DU(s) \\
@@ -353,6 +387,7 @@ $$
 $$
 
 Entonces:
+
 $$
 	H(s) =
 	\begin{pmatrix}
@@ -374,6 +409,7 @@ $$
 	\end{pmatrix}
 	- 2
 $$
+
 $$
 	H(s) = \frac{3s+4}{s\left(s+2\right)+10} - 2
 $$
@@ -422,12 +458,14 @@ Implementación analógica:
 ![](attachments/Pasted%20image%2020230312121727.png)
 
 Donde:
+
 $$
 \displaylines{
 	u(t) = \dot{x}(t) \\
 	y(t) = \int_{0}^{t}u(\tau)d\tau + y(0) = x(t)
 }
 $$
+
 Implementación analógica:
 
 ![](attachments/Pasted%20image%2020230312122533.png)
@@ -441,6 +479,7 @@ Configuraciones comunes:
 - __Ejemplo__ :
 
 Consideremos el sistema no lineal:
+
 $$
 \displaylines{
 	\dot{x}_{1} = -\alpha_{1}x_{1} - \alpha_{2}x_{1}x_{2} + u \\
@@ -471,11 +510,15 @@ Se tiene la siguiente función de transferencia:
 $$
 	H(s) = \frac{3s^{3} + 8s^{2} + 10s + 4}{s^{4} + 5s^{3} + 4s^{2} - 2s - 8}
 $$
+
 Al simplificar:
+
 $$
 	H(s) = \frac{3s + 2}{s^{2} + 3s - 4}
 $$
+
 $H(s)$ tiene grado 2. Al obtener su representación en ecuaciones de estado:
+
 $$
 \displaylines{
 	\dot{x}(t) =
