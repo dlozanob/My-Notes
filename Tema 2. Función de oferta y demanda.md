@@ -32,7 +32,7 @@ $$
 - $G$: Gustos
 
 
-La _curva de la demanda_ es la relación entre el precio de cierto producto y la demanda del mercado, considerando que las otras demás variables se mantienen constantes.
+La _curva de la demanda_ es la relación entre el precio de cierto producto y las cantidades demandas, considerando que las otras demás variables se mantienen constantes.
 
 ![[Pasted image 20230317194715.png]]
 
@@ -49,6 +49,14 @@ La _tabla de oferta del mercado_ recoge las cantidades de un producto que varios
 Se suman las cantidades de las tablas de oferta individual.
 
 Conforme el mercado permite mejores precios, los productores estarán dispuestos a trabajar más tiempo y así producir mayores cantidades.
+
+La _curva de la oferta_ representa la relación entre las cantidades de productos a ofertar y su precio, considerando que las otras demás variables se mantienen constantes.
+
+![[Pasted image 20230317200938.png]]
+
+
+
+
 
 
 

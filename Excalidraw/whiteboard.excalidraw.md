@@ -105,8 +105,8 @@ ae1a6319cd41dd59bcae65c5a44b45dcf3707cff: $$Precio$$
 		},
 		{
 			"type": "line",
-			"version": 81,
-			"versionNonce": 114674803,
+			"version": 218,
+			"versionNonce": 389922205,
 			"isDeleted": false,
 			"id": "Nd-0zDlHE93XtyIJArVQP",
 			"fillStyle": "hachure",
@@ -115,17 +115,17 @@ ae1a6319cd41dd59bcae65c5a44b45dcf3707cff: $$Precio$$
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -131.75,
-			"y": -69,
+			"x": -123.75,
+			"y": 34,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 161,
-			"height": 119,
+			"width": 180,
+			"height": 116,
 			"seed": 86374781,
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": null,
-			"updated": 1679100689865,
+			"updated": 1679101769470,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -139,8 +139,8 @@ ae1a6319cd41dd59bcae65c5a44b45dcf3707cff: $$Precio$$
 					0
 				],
 				[
-					161,
-					119
+					180,
+					-116
 				]
 			]
 		},
@@ -593,8 +593,8 @@ ae1a6319cd41dd59bcae65c5a44b45dcf3707cff: $$Precio$$
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "triangle",
-		"scrollX": 371.75,
-		"scrollY": 415,
+		"scrollX": 488.75,
+		"scrollY": 375,
 		"zoom": {
 			"value": 1
 		},
