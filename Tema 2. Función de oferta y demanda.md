@@ -89,15 +89,14 @@ En un mercado libre el precio tiende a equilibrarse con el tiempo. A esto se le 
 Ahora bien, los otros factores de las funciones de oferta y de demanda entran en juego.
 
 La curva de la demanda es desplazada hacia la derecha cuando:
-- $()$ Renta
-- Precio de los sustitutos
-- Gustos
+- $(\uparrow)$ Renta
+- $(\uparrow)$ Precio de los sustitutos
+- $(\uparrow)$ Gustos
 
-La curva de la oferta es desplazazda hacia la derecha cuando:
-- Precios de los insumos
-- 
-
-
+La curva de la oferta es desplazada hacia la derecha cuando:
+- $(\downarrow)$ Precios de los insumos
+- $(\uparrow)$ Tecnología disponible
+- $(\uparrow)$ Número de empresas oferentes
 
 
 ### Renta de los consumidores
