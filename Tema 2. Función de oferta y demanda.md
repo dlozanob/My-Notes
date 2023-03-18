@@ -95,7 +95,16 @@ Ahora bien, los otros factores de las funciones de oferta y de demanda entran en
 	 - _Bienes de lujo_ : Al aumentar la renta, la cantidad demandada aumenta en mayor proporción que la renta.
 
 - _Bienes inferiores_ : Al aumentar la renta, se disminuye la demanda de ellos.
-Ya que, para
+Ya que, para estos hay alternativas de mejor calidad. Ejemplos: transporte público, mortadela, 
+margarina.
+
+Al aumentar el poder adquisitivo del consumidor, la curva de la demanda se desplaza hacia la derecha.
+
+![[Pasted image 20230317210329.png]]
+
+
+### Precios de los sustitutos
+
 
 
 
