@@ -23,6 +23,7 @@ La salida de un sistema está dada por la integral de convolución:
 $$
 	y(t) = \int_{\tau = 0}^{\infty} h(t - \tau)u(\tau)d\tau
 $$
+
 Donde $h(t)$ representa la respuesta impulsiva.
 
 
@@ -35,28 +36,37 @@ La solución de las ecuaciones de estado pueden ser halladas mediante:
 - Métodos numéricos
 
 La ecuación de estado de un sistema LTI es:
+
 $$
 	\dot{x(t)} = Ax(t) + Bu(t)
 $$
+
 La cual puede reescrita como:
+
 $$
 	\dot{x(t)} = \frac{x(t + \triangle) - x(t)}{\triangle}
 $$
+
 Entonces:
+
 $$
 \begin{align*}
 	Ax(t) + Bu(t) = \frac{x(t + \triangle) - x(t)}{\triangle} \\\\
 	x(t + \triangle) = (I + \triangle A)x(t) + \triangle Bu(t)
 \end{align*}
 $$
+
 Computacionalmente se quieren hallar los valores de $x$ y $y$ para un periodo de tiempo discretizado en intervalos $\triangle$ (tamaño del paso). Entonces, haciendo $t = n\triangle$:
+
 $$
 \begin{align*}
 	&x((n + 1)\triangle) = (I + \triangle A)x(n\triangle) + \triangle Bu(n\triangle) \\
 	&y(n\triangle) = Cx(n\triangle) + Du(n\triangle)
 \end{align*}
 $$
+
 Debido a que estamos tomando valores discretos en el tiempo, podemos expresar las ecuaciones como un sistema en tiempo discreto.
+
 $$
 \begin{align*}
 	&x[n + 1] = (I + \triangle A)x[n] + \triangle Bu[n] \\
