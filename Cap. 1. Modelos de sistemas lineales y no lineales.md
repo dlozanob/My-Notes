@@ -63,25 +63,27 @@ $$
 Se obtiene el resultado:
 
 $$
-\begin{pmatrix}
-	\dot x_{1} \\
-	\dot x_{2}
-\end{pmatrix}
-=
-\begin{pmatrix}
-	0 & \frac{1}{L} \\
-	-\frac{1}{C} & -\frac{1}{RC}
-\end{pmatrix}
-\begin{pmatrix}
-	x_{1} \\
-	x_{2}	
-\end{pmatrix}
-+
-\begin{pmatrix}
-	0 \\
-	\frac{1}{RC}
-\end{pmatrix}
-u
+\displaylines{
+	\begin{pmatrix}
+		\dot x_{1} \\
+		\dot x_{2}
+	\end{pmatrix}
+	=
+	\begin{pmatrix}
+		0 & \frac{1}{L} \\
+		-\frac{1}{C} & -\frac{1}{RC}
+	\end{pmatrix}
+	\begin{pmatrix}
+		x_{1} \\
+		x_{2}	
+	\end{pmatrix}
+	+
+	\begin{pmatrix}
+		0 \\
+		\frac{1}{RC}
+	\end{pmatrix}
+	u
+}
 $$
 
 $$
@@ -214,19 +216,21 @@ $$
 Se define el vector de estados:
 
 $$
-\begin{pmatrix}
-	x_{1} \\
-	x_{2} \\
-	x_{3} \\
-	x_{4}
-\end{pmatrix}
-=
-\begin{pmatrix}
-	y_{1} \\
-	\dot y_{1} \\
-	y_{2} \\
-	\dot y_{2}
-\end{pmatrix}
+\displaylines{
+	\begin{pmatrix}
+		x_{1} \\
+		x_{2} \\
+		x_{3} \\
+		x_{4}
+	\end{pmatrix}
+	=
+	\begin{pmatrix}
+		y_{1} \\
+		\dot y_{1} \\
+		y_{2} \\
+		\dot y_{2}
+	\end{pmatrix}
+}
 $$
 
 Reemplazando:
@@ -250,57 +254,61 @@ $$
 Entonces el modelo adquiere la forma:
 
 $$
-\begin{pmatrix}
-	\dot x_{1} \\
-	\dot x_{2} \\
-	\dot x_{3} \\
-	\dot x_{4}
-\end{pmatrix}
-=
-\begin{pmatrix}
-	0 & 1 & 0 & 0 \\
-	-\frac{k_{1} + k_{2}}{M_{1}} & -\frac{B}{M_{1}} & \frac{k_{2}}{M_{1}} & \frac{B}{M_{1}} \\
-	0 & 0 & 0 & 1 \\
-	\frac{k_{2}}{M_2} & \frac{B}{M_{2}} & -\frac{k_{2}}{M_{2}} & -\frac{B}{M_{2}}
-\end{pmatrix}
-\begin{pmatrix}
-	x_{1} \\
-	x_{2} \\
-	x_{3} \\
-	x_{4}
-\end{pmatrix}
-+
-\begin{pmatrix}
-	0 \\
-	0 \\
-	0 \\
-	\frac{1}{M_{2}}
-\end{pmatrix}
-f_{a}(t)
+\displaylines{
+	\begin{pmatrix}
+		\dot x_{1} \\
+		\dot x_{2} \\
+		\dot x_{3} \\
+		\dot x_{4}
+	\end{pmatrix}
+	=
+	\begin{pmatrix}
+		0 & 1 & 0 & 0 \\
+		-\frac{k_{1} + k_{2}}{M_{1}} & -\frac{B}{M_{1}} & \frac{k_{2}}{M_{1}} & \frac{B}{M_{1}} \\
+		0 & 0 & 0 & 1 \\
+		\frac{k_{2}}{M_2} & \frac{B}{M_{2}} & -\frac{k_{2}}{M_{2}} & -\frac{B}{M_{2}}
+	\end{pmatrix}
+	\begin{pmatrix}
+		x_{1} \\
+		x_{2} \\
+		x_{3} \\
+		x_{4}
+	\end{pmatrix}
+	+
+	\begin{pmatrix}
+		0 \\
+		0 \\
+		0 \\
+		\frac{1}{M_{2}}
+	\end{pmatrix}
+	f_{a}(t)
+}
 $$
 
 $$
-\begin{pmatrix}
-	y_{1} \\
-	y_{2}
-\end{pmatrix}
-=
-\begin{pmatrix}
-	1 & 0 & 0 & 0 \\
-	0 & 0 & 1 & 0
-\end{pmatrix}
-\begin{pmatrix}
-	x_{1} \\
-	x_{2} \\
-	x_{3} \\
-	x_{4} \\
-\end{pmatrix}
-+
-\begin{pmatrix}
-	0 \\
-	0
-\end{pmatrix}
-f_{a}(t)
+\displaylines{
+	\begin{pmatrix}
+		y_{1} \\
+		y_{2}
+	\end{pmatrix}
+	=
+	\begin{pmatrix}
+		1 & 0 & 0 & 0 \\
+		0 & 0 & 1 & 0
+	\end{pmatrix}
+	\begin{pmatrix}
+		x_{1} \\
+		x_{2} \\
+		x_{3} \\
+		x_{4} \\
+	\end{pmatrix}
+	+
+	\begin{pmatrix}
+		0 \\
+		0
+	\end{pmatrix}
+	f_{a}(t)
+}
 $$
 
 Ejemplo:
@@ -560,21 +568,23 @@ $$
 Modelando el sistema:
 
 $$
-\begin{pmatrix}
-	\dot T_{m} \\\\
-	\dot T_{A}
-\end{pmatrix}
-=
-\begin{pmatrix}
-	-\frac{1}{C_{m}R_{m}} & \frac{1}{C_{m}R_{m}} \\\\
-	\frac{1}{C_{A}R_{m}} & -(\frac{1}{C_{A}R_{m}} + \frac{C_{A}}{R_{A}})
-\end{pmatrix}
-+
-\begin{pmatrix}
-	0 \\\\
-	\frac{1}{C_{A}R_{A}}
-\end{pmatrix}
-T_{E}
+\displaylines{
+	\begin{pmatrix}
+		\dot T_{m} \\\\
+		\dot T_{A}
+	\end{pmatrix}
+	=
+	\begin{pmatrix}
+		-\frac{1}{C_{m}R_{m}} & \frac{1}{C_{m}R_{m}} \\\\
+		\frac{1}{C_{A}R_{m}} & -\left( \frac{1}{C_{A}R_{m}} + \frac{C_{A}}{R_{A}} \right)
+	\end{pmatrix}
+	+
+	\begin{pmatrix}
+		0 \\\\
+		\frac{1}{C_{A}R_{A}}
+	\end{pmatrix}
+	T_{E}
+}
 $$
 
 
