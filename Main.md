@@ -3,7 +3,7 @@
 
 ## Index
 
-- [Automatización, Control y Robótica](Automatización%2C%20Control%20y%20Robótica.md)
+- [Automatización, Control y Robótica](Automatización%2C%20control%20y%20robótica.md)
 - [Física](Física.md)
 - [Ingeniería de Diseño](Ingeniería%20de%20Diseño.md)
 - [Ciencias Económicas y Administrativas](Ciencias%20Económicas%20y%20Administrativas.md)
