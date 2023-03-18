@@ -70,7 +70,9 @@ La _curva de la oferta_ representa la relación entre las cantidades de producto
 
 ## Equilibrio del mercado
 
-Cuando 
+Cuando consumidores y productores se ponen de acuerdo con un valor para una determinada cantidad de bienes, se llega a un _precio de equilibrio_, llamando a la cantidad ofrecida a este precio como _cantidad de equilibrio_.
+
+El _precio de equilibrio_ es aquel donde la cantidad demandada es igual a la cantidad ofrecida.
 
 
 
