@@ -43,7 +43,12 @@ La _curva de la demanda_ es la relación entre el precio de cierto producto y la
 La _oferta_ se puede definir como la disposición o intención de vender.
 A precios más elevados la oferta aumentará. Caso contrario, la oferta se ve reducida. A esto se le conoce como _ley de la oferta_.
 
-La _tabala de oferta individual_ recoge las cantidades de un producto que un vendedor desea vender para cada precio.
+La _tabla de oferta individual_ recoge las cantidades de un producto que un vendedor desea vender para cada precio.
+
+La _tabla de oferta del mercado_ recoge las cantidades de un producto que varios productores desean vender para cada precio.
+Se suman las cantidades de las tablas de oferta individual.
+
+Conforme el mercado permite mejores precios, los productores estarán dispuestos a trabajar más tiempo y así producir mayores cantidades.
 
 
 
