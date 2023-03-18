@@ -80,6 +80,11 @@ El _precio de equilibrio_ es aquel donde la cantidad demandada es igual a la can
 
 
 
+En un mercado libre el precio tiende a equilibrarse con el tiempo.
+
+
+
+
 
 ## Elasticidad
 

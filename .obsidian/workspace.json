@@ -39,7 +39,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -99,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tema 2. Función de oferta y demanda.md",
+                "file": "Excalidraw/blackboard.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tema 2. Función de oferta y demanda.md",
+                "file": "Excalidraw/blackboard.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tema 2. Función de oferta y demanda.md"
+                "file": "Excalidraw/blackboard.excalidraw.md"
               }
             }
           },
@@ -190,12 +191,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a014d4a96ecd1782",
+  "active": "6f970b7ecb471370",
   "lastOpenFiles": [
-    "Pasted image 20230317200938.png",
-    "Excalidraw/blackboard.excalidraw.md",
     "Excalidraw/whiteboard.excalidraw.md",
+    "Excalidraw/blackboard.excalidraw.md",
     "Tema 2. Función de oferta y demanda.md",
+    "Pasted image 20230317200938.png",
     "Pasted image 20230317194715.png",
     "Módulo 1. Economía y matemática financiera.md",
     "Finanzas.md",
@@ -218,7 +219,6 @@
     "Pasted image 20230317165950.png",
     "Pasted image 20230317165901.png",
     "Pasted image 20230317164817.png",
-    "Pasted image 20230317132614.png",
     "Servomecanismos.md",
     "Tema 3. Indicadores macroeconómicos.md",
     "Tema 4. Matemáticas financieras.md",
