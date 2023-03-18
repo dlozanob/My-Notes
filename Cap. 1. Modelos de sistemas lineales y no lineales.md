@@ -824,47 +824,49 @@ $$
 $$
 
 $$
-\begin{pmatrix}
-	Y_{D1} \\\\
-	Y_{D2} \\
-	. \\
-	. \\
-	. \\
-	Y_{Dn}
-\end{pmatrix}
-=
-\begin{pmatrix}
-	\frac{\partial g_{1}}{\partial x_{1}} & \frac{\partial g_{1}}{\partial x_{2}} & ... & \frac{\partial g_{1}}{\partial x_{n}} \\\\
-	\frac{\partial g_{2}}{\partial x_{1}} & \frac{\partial g_{2}}{\partial x_{2}} & ... & \frac{\partial g_{2}}{\partial x_{n}} \\
-	. & . & & . \\
-	. & . & & . \\
-	. & . & & . \\
-	\frac{\partial g_{q}}{\partial x_{1}} & \frac{\partial g_{q}}{\partial x_{2}} & ... & \frac{\partial g_{q}}{\partial x_{n}} 
-\end{pmatrix}_{\biggr\rvert *}
-\begin{pmatrix}
-	X_{D1} \\\\
-	X_{D2} \\
-	. \\
-	. \\
-	. \\
-	X_{Dn}
-\end{pmatrix}
-+
-\begin{pmatrix}
-	\frac{\partial g_{1}}{\partial u_{1}} & \frac{\partial g_{1}}{\partial u_{2}} & ... & \frac{\partial g_{1}}{\partial u_{p}} \\\\
-	\frac{\partial g_{2}}{\partial u_{1}} & \frac{\partial g_{2}}{\partial u_{2}} & ... & \frac{\partial g_{2}}{\partial u_{p}} \\
-	. & . & & . \\
-	. & . & & . \\
-	. & . & & . \\
-	\frac{\partial g_{q}}{\partial u_{1}} & \frac{\partial g_{q}}{\partial u_{2}} & ... & \frac{\partial g_{q}}{\partial u_{p}} 
-\end{pmatrix}_{\biggr\rvert *}
-\begin{pmatrix}
-	U_{D1} \\\\
-	U_{D2} \\
-	. \\
-	. \\
-	U_{Dn}
-\end{pmatrix}
+\displaylines{
+	\begin{pmatrix}
+		Y_{D1} \\\\
+		Y_{D2} \\
+		. \\
+		. \\
+		. \\
+		Y_{Dn}
+	\end{pmatrix}
+	=
+	\begin{pmatrix}
+		\frac{\partial g_{1}}{\partial x_{1}} & \frac{\partial g_{1}}{\partial x_{2}} & ... & \frac{\partial g_{1}}{\partial x_{n}} \\\\
+		\frac{\partial g_{2}}{\partial x_{1}} & \frac{\partial g_{2}}{\partial x_{2}} & ... & \frac{\partial g_{2}}{\partial x_{n}} \\
+		. & . & & . \\
+		. & . & & . \\
+		. & . & & . \\
+		\frac{\partial g_{q}}{\partial x_{1}} & \frac{\partial g_{q}}{\partial x_{2}} & ... & \frac{\partial g_{q}}{\partial x_{n}} 
+	\end{pmatrix}_{\biggr\rvert *}
+	\begin{pmatrix}
+		X_{D1} \\\\
+		X_{D2} \\
+		. \\
+		. \\
+		. \\
+		X_{Dn}
+	\end{pmatrix}
+	+
+	\begin{pmatrix}
+		\frac{\partial g_{1}}{\partial u_{1}} & \frac{\partial g_{1}}{\partial u_{2}} & ... & \frac{\partial g_{1}}{\partial u_{p}} \\\\
+		\frac{\partial g_{2}}{\partial u_{1}} & \frac{\partial g_{2}}{\partial u_{2}} & ... & \frac{\partial g_{2}}{\partial u_{p}} \\
+		. & . & & . \\
+		. & . & & . \\
+		. & . & & . \\
+		\frac{\partial g_{q}}{\partial u_{1}} & \frac{\partial g_{q}}{\partial u_{2}} & ... & \frac{\partial g_{q}}{\partial u_{p}} 
+	\end{pmatrix}_{\biggr\rvert *}
+	\begin{pmatrix}
+		U_{D1} \\\\
+		U_{D2} \\
+		. \\
+		. \\
+		U_{Dn}
+	\end{pmatrix}
+}
 $$
 
 Donde:
