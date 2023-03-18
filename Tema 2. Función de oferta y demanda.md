@@ -26,6 +26,7 @@ $$
   Q_{A} = D(P_{A}, Y, P_{B}, G)
 $$
 
+- $Q_{A}$ : Cantidad demandada
 - $P_{A}$: Precio del producto
 - $P_{B}$: Precio del sustituto
 - $Y$: Renta
@@ -50,18 +51,26 @@ Se suman las cantidades de las tablas de oferta individual.
 
 Conforme el mercado permite mejores precios, los productores estarán dispuestos a trabajar más tiempo y así producir mayores cantidades.
 
-La _curva de la oferta_ representa la relación entre las cantidades de productos a ofertar y su precio, considerando que las otras demás variables se mantienen constantes.
-
-![[Pasted image 20230317200938.png]]
-
 La _función de la oferta_ modela la cantidad ofrecida de un bien. Satisface:
 $$
 \displaylines{
 	Q_{A} = O(P_{A}, r, z, H)
 }
 $$
-- 
+- $Q_{A}$ : Cantidad ofrecida
+- $P_{A}$ : Precio del producto
+- $r$ : Precios de los insumos
+- $z$ : Precio de la tecnología de producción
+- $H$ : Número de empresas que actúan en el mismo mercado
 
+La _curva de la oferta_ representa la relación entre las cantidades de productos a ofertar y su precio, considerando que las otras demás variables se mantienen constantes.
+
+![[Pasted image 20230317200938.png]]
+
+
+## Equilibrio del mercado
+
+Cuando 
 
 
 
