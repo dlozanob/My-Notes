@@ -5,5 +5,7 @@
     "en-US"
   ],
   "alwaysUpdateLinks": false,
-  "newLinkFormat": "relative"
+  "newLinkFormat": "relative",
+  "useMarkdownLinks": true,
+  "attachmentFolderPath": "./attachments"
 }

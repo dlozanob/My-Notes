@@ -33,8 +33,12 @@
             "id": "71af58f99c6dec8e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Finanzas.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -98,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Finanzas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Finanzas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +141,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Finanzas.md"
+              }
             }
           },
           {
@@ -159,7 +167,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: obsidian",
+                "query": "file: finanzas",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,

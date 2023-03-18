@@ -6,7 +6,7 @@
 - [[Módulo 4]]
 - [[Módulo 5]]
 - [[Módulo 6]]
-- [a](https://github.com/dy-sh/obsidian-consistent-attachments-and-links)
+
 
 
 
