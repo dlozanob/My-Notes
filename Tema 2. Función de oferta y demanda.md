@@ -86,6 +86,20 @@ En un mercado libre el precio tiende a equilibrarse con el tiempo. A esto se le 
 
 ## Cambio de las condiciones del mercado
 
+Ahora bien, los otros factores de las funciones de oferta y de demanda entran en juego.
+
+### Renta de los consumidores
+
+- _Bienes normales_ : Al aumentar la renta, se aumenta la demanda de ellos.
+	- _Bienes de primera necesidad_ : Al aumentar la renta, la cantidad demandada aumenta en menor proporción que la renta.
+	 - _Bienes de lujo_ : Al aumentar la renta, la cantidad demandada aumenta en mayor proporción que la renta.
+
+- _Bienes inferiores_ : Al aumentar la renta, se disminuye la demanda de ellos.
+Ya que, para
+
+
+
+
 
 
 
