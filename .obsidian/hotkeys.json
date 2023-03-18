@@ -36,7 +36,7 @@
       "modifiers": [
         "Mod"
       ],
-      "key": "Q"
+      "key": "X"
     }
   ],
   "obsidian-latex-suite:latex-suite-disable-all-features": [
@@ -45,7 +45,7 @@
         "Mod",
         "Shift"
       ],
-      "key": "Q"
+      "key": "X"
     }
   ]
 }

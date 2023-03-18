@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cap. 1. Modelos de sistemas lineales y no lineales.md",
+                "file": "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cap. 1. Modelos de sistemas lineales y no lineales.md",
+                "file": "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cap. 1. Modelos de sistemas lineales y no lineales.md",
+                "file": "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cap. 1. Modelos de sistemas lineales y no lineales.md"
+                "file": "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md"
               }
             }
           },
@@ -173,6 +173,7 @@
   "active": "6f94ab9ba3391e68",
   "lastOpenFiles": [
     "Señales y Sistemas II.md",
+    "Cap. 1. Modelos de sistemas lineales y no lineales.md",
     "Automatización, Control y Robótica.md",
     "Señales y Sistemas I.md",
     "Automatización%2C Control y Robótica.md",
@@ -207,7 +208,6 @@
     "Propiedades de los Fluidos.md",
     "Fundamentos de Ondas, Oscilaciones y Óptica.md",
     "Microcontrollers.md",
-    "C.md",
     "attachments",
     "New folder",
     "Untitled.canvas"
