@@ -11,12 +11,8 @@
             "id": "6f94ab9ba3391e68",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -79,7 +75,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +91,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,9 +112,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md"
-              }
+              "state": {}
             }
           },
           {
@@ -172,6 +164,7 @@
   },
   "active": "6f94ab9ba3391e68",
   "lastOpenFiles": [
+    "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
     "Señales y Sistemas II.md",
     "Cap. 1. Modelos de sistemas lineales y no lineales.md",
     "Automatización, Control y Robótica.md",
@@ -207,7 +200,6 @@
     "Fundamentos de Mecánica de Fluidos.md",
     "Propiedades de los Fluidos.md",
     "Fundamentos de Ondas, Oscilaciones y Óptica.md",
-    "Microcontrollers.md",
     "attachments",
     "New folder",
     "Untitled.canvas"
