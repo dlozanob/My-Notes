@@ -18,8 +18,31 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "54bbcd792b397943",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-03-17 19.40.16.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "f1bd5322e444e618",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Main.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -79,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tema 2. Función de oferta y demanda.md",
+                "file": "Main.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tema 2. Función de oferta y demanda.md",
+                "file": "Main.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tema 2. Función de oferta y demanda.md"
+                "file": "Main.md"
               }
             }
           },
@@ -144,7 +167,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: fina",
+                "query": "file: my",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -170,12 +193,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "66efc0521255a7cf",
+  "active": "f1bd5322e444e618",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-03-17 19.40.16.excalidraw.md",
+    "Excalidraw/myDrawingSpace.excalidraw.md",
+    "Untitled.md",
+    "Tema 2. Función de oferta y demanda.md",
     "Módulo 1. Economía y matemática financiera.md",
     "Finanzas.md",
     "Módulo 2.md",
-    "Excalidraw/myDrawingSpace.excalidraw.md",
     "Ingeniería Económica.md",
     "Fórmulas Financieras Excel.md",
     "Propiedades de los Fluidos.md",
@@ -192,7 +218,6 @@
     "Pasted image 20230317132614.png",
     "Pasted image 20230317132247.png",
     "Servomecanismos.md",
-    "Tema 2. Función de oferta y demanda.md",
     "Tema 3. Indicadores macroeconómicos.md",
     "Tema 4. Matemáticas financieras.md",
     "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
@@ -205,7 +230,6 @@
     "Main.md",
     "Cap. 1. Modelos de sistemas lineales y no lineales.md",
     "LaTeX Template.md",
-    "Mecanismos.md",
-    "Tema 1. Economía.md"
+    "Mecanismos.md"
   ]
 }
