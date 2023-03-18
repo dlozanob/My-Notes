@@ -4,5 +4,6 @@
     "es",
     "en-US"
   ],
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": false,
+  "newLinkFormat": "relative"
 }
