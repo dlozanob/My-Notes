@@ -130,7 +130,9 @@ Un aumento en las tendencias positivas hacia cierto producto, generará que la g
 
 ### Precios de los factores productivos
 
+Precios más adsequibles de insumos y mano de obra para el productor, le permitirá generar mayores cantidades en el mismo tiempo. Siendo así, la curva de la oferta se desplaza hacia la derecha.
 
+### 
 
 
 
