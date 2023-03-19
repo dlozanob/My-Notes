@@ -238,11 +238,19 @@ $$
 \end{align*}
 $$
 
-Se obtiene:
+Entonces:
 
 $$
 \begin{align*}
-	y_{CP} = 
+	y_{CP} = \frac{p_{0}y_{c} + \rho g\sin\theta I_{x x,O}}{(p_{0} + \rho gy_{c}\sin\theta)A}
+\end{align*}
+$$
+
+Usando el teorema de Steiner, se obtiene el punto de aplicación de $F_{R}$ :
+
+$$
+\begin{align*}
+	\boxed{y_{CP} = y_{c} + \frac{I_{x x, O}}{}}
 \end{align*}
 $$
 
