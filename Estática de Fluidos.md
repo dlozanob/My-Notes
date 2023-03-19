@@ -233,8 +233,16 @@ $$
 	y_{CP}F_{R} &= \int _{A}y \, dF_{R} \\
 	&= \int _{A}yp \, dA \\
 	&=\int _{A}y(p_{0}+\rho gy\sin\theta) \, dA \\
-	&=p_{0}\int _{A}y \, dA + \rho g\sin\theta \int _{A}y^{2} \, dA
+	&=p_{0}\int _{A}y \, dA + \rho g\sin\theta \int _{A}y^{2} \, dA \\
+	&=p_{0}y_{c}+\rho g\sin\theta I_{xx, O}
 \end{align*}
 $$
 
+Se obtiene:
+
+$$
+\begin{align*}
+	y_{CP} = 
+\end{align*}
+$$
 
