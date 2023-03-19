@@ -195,9 +195,16 @@ La fuerza que actúa sobre un diferencial de área es:
 $$
 \displaylines{
 	dF_{R} = pdA \\
-	dF_{R} = (p_{0} + \rho gy\sin\theta)dA \\\\
+	dF_{R} = (p_{0} + \rho gy\sin\theta)dA
+}
+$$
+
+Ahora bien, tomando la fuerza sobre toda la superficie:
+
+$$
+\displaylines{
 	F_{R} = \int _{A}(p_{0} + \rho gy \sin\theta) \, dA  \\
-	F_{R} = p_{0}A + \rho g\sin\theta \int _{A}y \, dA 
+	F_{R} = p_{0}A + \rho g\sin\theta \int _{A}y \, dA 	
 }
 $$
 
@@ -206,7 +213,11 @@ Notemos que $\int _{A}y \, dA$ es el primer momento de área. Entonces:
 $$
 \displaylines{
 	F_{R} = p_{0}A + \rho gA\sin\theta y_{c} \\\\
-	\boxed{F_{R} = (p_{0} + \rho g\sin\theta h_{c})A}
+	\boxed{F_{R} = (p_{0} + \rho g h_{c})A}
 }
 $$
+
+De tal manera que la fuerza hidrostática resultante sobre la cara superior de la placa es la fuerza que actúa sobre su centroide. Donde $h_{c}$ es la distancia desde la superficie hasta el centroide.
+
+Sin embargo, esta fuerza no está aplicada en el centroide, 
 
