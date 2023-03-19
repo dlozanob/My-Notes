@@ -90,4 +90,21 @@ $$
 \end{align*}
 $$
 
-Si $A$ tiene valores propios no repetidos, existe un a matriz $$
+Si $A$ tiene valores propios no repetidos, existe un a matriz $T$ (_matriz de transición_), tal que:
+
+$$
+\begin{align*}
+	TAT^{-1} =
+	\begin{pmatrix}
+\lambda_{1} & 0 & 0 & . & 0 \\
+0 & \lambda_{2} & 0 & . & 0 \\
+0 & 0 & \lambda_{3} & . & 0 \\
+0 & 0 & 0 & . & 0 \\
+0 & 0 & 0 & . & \lambda_{n}
+\end{pmatrix}
+\end{align*}
+= \bar{A}
+$$
+
+Su diagonal son sus valores propios. La matriz $\bar{A}$ se conoce como _matriz de Jordan_.
+
