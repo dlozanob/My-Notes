@@ -294,4 +294,11 @@ $$
 \end{align*}
 $$
 
-Ahora bien, determinar el punto de aplicación de $F_{R}$
+Ahora bien, determinar el punto de aplicación de $F_{R}$ es complejo. Sin embargo, para arcos circulares se cumple que la fuerza se aplica sobre el centro geométrico, ya que, todos los diferenciales de fuerza tienen su línea de acción sobre el centroide.
+
+![](attachments/Pasted%20image%2020230318214056.png)
+
+Cuando se tienen varios fluidos, $F_{R}$ es la superposición de las fuerzas resultantes en cada capa de fluido.
+
+![](attachments/Pasted%20image%2020230318214339.png)
+

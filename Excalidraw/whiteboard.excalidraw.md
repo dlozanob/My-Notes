@@ -10,7 +10,7 @@ tags: [excalidraw]
 # Text Elements
 
 # Embedded files
-eacbdc77b2ee5143b685d1de4ee3d53c4971a020: [[attachments/Pasted Image 20230318213654_793.png]]
+23360ce7adeda6fe23f93386cbb38033ee5f50eb: [[attachments/Pasted Image 20230318214311_018.png]]
 
 %%
 # Drawing
@@ -20,6 +20,70 @@ eacbdc77b2ee5143b685d1de4ee3d53c4971a020: [[attachments/Pasted Image 20230318213
 	"version": 2,
 	"source": "https://excalidraw.com",
 	"elements": [
+		{
+			"id": "obxc0nG2NTIIFVvpI7Yjt",
+			"type": "image",
+			"x": -237.04567989541073,
+			"y": -85.18639108952024,
+			"width": 400.3974103478539,
+			"height": 331.1462859166213,
+			"angle": 0,
+			"strokeColor": "transparent",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 265416222,
+			"version": 96,
+			"versionNonce": 63815362,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1679193786975,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "23360ce7adeda6fe23f93386cbb38033ee5f50eb",
+			"scale": [
+				1,
+				1
+			]
+		},
+		{
+			"id": "aY-fufY-x8AHyhgXLTbvm",
+			"type": "image",
+			"x": -413.08935016006717,
+			"y": -56.56951788595654,
+			"width": 224.9256592298596,
+			"height": 332.9408063176453,
+			"angle": 0,
+			"strokeColor": "transparent",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 1383852830,
+			"version": 22,
+			"versionNonce": 1252834050,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1679193780791,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "1243220fd2a798d91501716a2eb0720f7a84f950",
+			"scale": [
+				1,
+				1
+			]
+		},
 		{
 			"id": "ZZVEOw8h40NrJRaUowAeh",
 			"type": "image",
@@ -38,11 +102,11 @@ eacbdc77b2ee5143b685d1de4ee3d53c4971a020: [[attachments/Pasted Image 20230318213
 			"groupIds": [],
 			"roundness": null,
 			"seed": 261239710,
-			"version": 56,
-			"versionNonce": 998344258,
-			"isDeleted": false,
+			"version": 57,
+			"versionNonce": 1807445506,
+			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1679193420440,
+			"updated": 1679193650296,
 			"link": null,
 			"locked": false,
 			"status": "pending",
