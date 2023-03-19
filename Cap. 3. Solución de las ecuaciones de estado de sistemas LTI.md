@@ -59,12 +59,24 @@ $$
 \end{align*}
 $$
 
-¿Qué sería $e^{ At }$? Claramente no puede ser:
+Notemos que:
 
 $$
 \begin{align*}
+	e^{ A } \neq
 	\begin{pmatrix}
-	a_{11}
+	e^{ a_{11} } & e^{ a_{12} } & \dots & e^{ a_{1n} } \\
+. & . & . & . \\
+	. & . & . & . \\
+e^{ a_{n 1 }} & e^{ a_{n 2 }} & . & e^{ a_{nn} }
 \end{pmatrix}
+\end{align*}
+$$
+
+Al hacer $e^{ At }$ se obtiene:
+
+$$
+\begin{align*}
+	e^{ At } = \sum_{n = 0}^{\infty} \frac{(At)^{n}}{n!}
 \end{align*}
 $$
