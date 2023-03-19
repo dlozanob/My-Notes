@@ -174,3 +174,8 @@ $$
 }
 $$
 
+
+## Fuerza hidrostática sobre superficies sumergidas
+
+Considerando un fluido incompresible y en reposo, se sabe que:
+

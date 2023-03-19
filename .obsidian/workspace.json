@@ -63,7 +63,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "8cf20f15e2d652f4",
@@ -172,7 +173,9 @@
   },
   "active": "6f94ab9ba3391e68",
   "lastOpenFiles": [
+    "Propiedades de los Fluidos.md",
     "Fundamentos de Mecánica de Fluidos.md",
+    "Estática de Fluidos.md",
     "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
     "Señales y Sistemas II.md",
     "Cap. 1. Modelos de sistemas lineales y no lineales.md",
@@ -206,8 +209,6 @@
     "Ingeniería de Diseño.md",
     "Taller de Ingeniería Electrónica.md",
     "Ingeniería Electrónica.md",
-    "Propiedades de los Fluidos.md",
-    "Fundamentos de Ondas, Oscilaciones y Óptica.md",
     "attachments",
     "New folder",
     "Untitled.canvas"
