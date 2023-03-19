@@ -229,9 +229,12 @@ Sin embargo, esta fuerza no está aplicada en el centroide, está aplicada sobre
 Partiendo del torque producido por $F_{R}$ en el centro de presión:
 
 $$
-\displaylines{
+\begin{align*}
 	y_{CP}F_{R} &= \int _{A}y \, dF_{R} \\
-	&= \int _{A} \, dA
-}
+	&= \int _{A}yp \, dA \\
+	&=\int _{A}y(p_{0}+\rho gy\sin\theta) \, dA \\
+	&=p_{0}\int _{A}y \, dA + \rho g\sin\theta \int _{A}y^{2} \, dA
+\end{align*}
 $$
+
 
