@@ -278,3 +278,7 @@ Entonces $p_{0} = P_{atm_{1}} - P_{atm_{2}}$
 
 ## Fuerza hidrostática sobre superficies curvas sumergidas
 
+La fuerza resultante se descompone en sus componentes $(F_{H}, F_{V})$ 
+
+
+![](attachments/Pasted%20image%2020230318213422.png)
