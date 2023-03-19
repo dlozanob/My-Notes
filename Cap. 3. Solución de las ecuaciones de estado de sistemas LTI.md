@@ -46,7 +46,7 @@ La solución de este sistema es:
 
 $$
 \begin{align*}
-	x(t) = e^{At}x_{0}
+	\boxed{x(t) = e^{At}x_{0}}
 \end{align*}
 $$
 
@@ -68,30 +68,7 @@ $$
 \end{align*}
 $$
 
-Notemos que:
-
-$$
-\begin{align*}
-	e^{ A } \neq
-	\begin{pmatrix}
-	e^{ a_{11} } & e^{ a_{12} } & \dots & e^{ a_{1n} } \\
-. & . & . & . \\
-	. & . & . & . \\
-e^{ a_{n 1 }} & e^{ a_{n 2 }} & . & e^{ a_{nn} }
-\end{pmatrix}
-\end{align*}
-$$
-
-Derivando la expresión:
-
-$$
-\begin{align*}
-	\frac{de^{ At }}{dt} &= A + A^{2}t + \frac{A^{3}t^{2}}{2!} + \dots \\
-	&= A\sum_{n=0}^{\infty} \frac{(At)^{n}}{n!}
-\end{align*}
-$$
-
-Se confirma:
+Además se cumple:
 
 $$
 \begin{align*}
@@ -99,3 +76,4 @@ $$
 \end{align*}
 $$
 
+Sin embargo, dar una solución de esta manera resulta una tarea tediosa 
