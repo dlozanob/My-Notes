@@ -194,7 +194,10 @@ La fuerza que actúa sobre un diferencial de área es:
 
 $$
 \displaylines{
-	
+	dF_{R} = pdA \\
+	dF_{R} = (p_{0} + \rho gy\sin\theta)dA \\\\
+	F_{R} = \int _{A}(p_{0} + \rho gy \sin\theta) \, dA  \\
+	F_{R} = p_{0}A + \rho g\sin\theta \int  \, dx 
 }
 $$
 
