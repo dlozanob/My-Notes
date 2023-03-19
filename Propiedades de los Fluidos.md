@@ -182,9 +182,8 @@ Sustituir en $k$ para obtener $k = \rho \biggr(\frac{\partial P}{\partial \rho}\
 >[!Note]
 >Para un gas de ideal $k = P$
 
-
 >[!Info]
->Para la velocidad 
+>Para una onda de sonido viajando en un líquido se cumple: $c = \sqrt{ \frac{k}{\rho} }$
 
 
 - _Compresibilidad isotérmica_ :
