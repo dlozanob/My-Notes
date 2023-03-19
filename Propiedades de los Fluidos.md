@@ -183,6 +183,10 @@ Sustituir en $k$ para obtener $k = \rho \biggr(\frac{\partial P}{\partial \rho}\
 >Para un gas de ideal $k = P$
 
 
+>[!Info]
+>Para la velocidad 
+
+
 - _Compresibilidad isotérmica_ :
 
 $$
