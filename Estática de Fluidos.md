@@ -197,12 +197,16 @@ $$
 	dF_{R} = pdA \\
 	dF_{R} = (p_{0} + \rho gy\sin\theta)dA \\\\
 	F_{R} = \int _{A}(p_{0} + \rho gy \sin\theta) \, dA  \\
-	F_{R} = p_{0}A + \rho g\sin\theta \int  \, dx 
+	F_{R} = p_{0}A + \rho g\sin\theta \int _{A}y \, dA 
 }
 $$
 
+Notemos que $\int _{A}y \, dA$ es el primer momento de área. Entonces:
+
 $$
 \displaylines{
-	
+	F_{R} = p_{0}A + \rho gA\sin\theta y_{c} \\\\
+	\boxed{F_{R} = (p_{0} + \rho g\sin\theta h_{c})A}
 }
 $$
+
