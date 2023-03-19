@@ -10,7 +10,7 @@ $$
 \end{align*}
 $$
 
-La entrada $u = 0$
+La entrada $u = 0$. Condiciones iniciales dadas.
 
 - _Respuesta particular o forzada_ :
 
@@ -20,5 +20,5 @@ $$
 \end{align*}
 $$
 
-La entrada $u \neq 0$
+La entrada $u \neq 0$. Las condiciones iniciales son cero.
 
