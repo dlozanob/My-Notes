@@ -257,3 +257,4 @@ $$
 >[!Note]
 >La fuerza de presión en fluidos compresibles actúa sobre el centro geométrico
 
+
