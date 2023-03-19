@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Señales y Sistemas II.md",
+                "file": "Cap. 3. Solución de las ecuaciones de estado de sistemas LTI.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Señales y Sistemas II.md",
+                "file": "Cap. 3. Solución de las ecuaciones de estado de sistemas LTI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Señales y Sistemas II.md",
+                "file": "Cap. 3. Solución de las ecuaciones de estado de sistemas LTI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Señales y Sistemas II.md"
+                "file": "Cap. 3. Solución de las ecuaciones de estado de sistemas LTI.md"
               }
             }
           },
@@ -183,8 +183,10 @@
   },
   "active": "6f94ab9ba3391e68",
   "lastOpenFiles": [
-    "Cap. 3. Solución de las ecuaciones de estado de sistemas LTI.md",
     "Señales y Sistemas II.md",
+    "Cap. 1. Modelos de sistemas lineales y no lineales.md",
+    "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
+    "Cap. 3. Solución de las ecuaciones de estado de sistemas LTI.md",
     "Estática de Fluidos.md",
     "attachments/Pasted image 20230318214339.png",
     "Excalidraw/whiteboard.excalidraw.md",
@@ -200,8 +202,6 @@
     "Excalidraw/attachments",
     "Propiedades de los Fluidos.md",
     "Fundamentos de Mecánica de Fluidos.md",
-    "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
-    "Cap. 1. Modelos de sistemas lineales y no lineales.md",
     "Automatización, Control y Robótica.md",
     "Señales y Sistemas I.md",
     "Automatización%2C Control y Robótica.md",
