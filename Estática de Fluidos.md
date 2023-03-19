@@ -257,4 +257,8 @@ $$
 >[!Note]
 >La fuerza de presión en fluidos compresibles actúa sobre el centro geométrico
 
+El término $p_{0}$ de $y_{CP}$ puede variar de acuerdo a las condiciones del problema.
+
+Si se consideran las fuerzas sobre las dos caras:
+
 
