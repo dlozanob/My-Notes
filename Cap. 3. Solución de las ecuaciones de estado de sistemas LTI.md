@@ -34,4 +34,37 @@ $$
 \end{align*}
 $$
 
-Sin embargo, cuando $A$ es una matriz, se debe resolver
+Sin embargo, cuando $A$ es una matriz, se debe resolver:
+
+$$
+\begin{align*}
+	\dot{x} = Ax
+\end{align*}
+$$
+
+Por series de Taylor se sabe que:
+
+$$
+\begin{align*}
+	e^{ x } &= \sum_{n=0}^{\infty} \frac{x^{n}}{n!} \\
+	&= 1 + x + \frac{x^{2}}{2!} + \frac{x^{3}}{3!} + \dots
+\end{align*}
+$$
+
+Extrapolando esta idea al caso matricial:
+
+$$
+\begin{align*}
+	e^{ A } = I + A + \frac{A^{2}}{2!} + \frac{A^{3}}{3!} + \dots
+\end{align*}
+$$
+
+¿Qué sería $e^{ At }$? Claramente no puede ser:
+
+$$
+\begin{align*}
+	\begin{pmatrix}
+	a_{11}
+\end{pmatrix}
+\end{align*}
+$$
