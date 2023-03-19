@@ -157,7 +157,7 @@ En estos puntos sucederá el fenómeno de cavitación.
 Se define el _módulo de elasticidad volumétrico_ o _coeficiente de compresibilidad_   (_bulk modulus_) como el incremento de presión necesario para generar un decremento de volumen unitario a temperatura constante.
 
 $$
-	\boxed{k = -V_{0} \biggr(\frac{\partial P}{\partial V}\biggr)_{T} = \rho_{0} \biggr(\frac{\partial P}{\partial \rho}\biggr)_{T}}
+	\boxed{k = -V \biggr(\frac{\partial P}{\partial V}\biggr)_{T} = \rho \biggr(\frac{\partial P}{\partial \rho}\biggr)_{T}}
 $$
 
 Se puede tomar la aproximación:
@@ -196,7 +196,7 @@ $$
 Se define el _coeficiente de expansión volumétrico_ o _módulo de elasticidad volumétrico_ como el incremento del volumen relativo ante un incremento de temperatura.
 
 $$
-	\boxed{\beta = \frac{1}{V_{0}}\biggr(\frac{\partial V}{\partial T}\biggr)_{P} = -\frac{1}{\rho_{0}}\biggr(\frac{\partial \rho}{\partial T}\biggr)_{P}}
+	\boxed{\beta = \frac{1}{V}\biggr(\frac{\partial V}{\partial T}\biggr)_{P} = -\frac{1}{\rho}\biggr(\frac{\partial \rho}{\partial T}\biggr)_{P}}
 $$
 
 Puede aproximarse de la forma:
