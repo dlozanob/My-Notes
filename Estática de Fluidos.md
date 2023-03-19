@@ -261,4 +261,13 @@ El término $p_{0}$ de $y_{CP}$ puede variar de acuerdo a las condiciones del pr
 
 Si se consideran las fuerzas sobre las dos caras:
 
+![](attachments/Pasted%20image%2020230318211204.png)
+
+$$
+\begin{align*}
+	\sum F_{R} &= (P_{atm_{1}} + \rho_{1}gh_{c})A - (P_{atm_{2}} + \rho_{2}gh_{c})A \\
+	&= (P_{atm_{1}})
+\end{align*}
+$$
+
 
