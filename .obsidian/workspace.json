@@ -25,14 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fundamentos de Mecánica de Fluidos.md",
+                "file": "Propiedades de los Fluidos.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "91e7d5e666aca050",
+            "id": "acb7e44b7778feff",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -42,7 +42,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/whiteboard.excalidraw.md",
+                "file": "Propiedades de los Fluidos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/whiteboard.excalidraw.md",
+                "file": "Propiedades de los Fluidos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/whiteboard.excalidraw.md"
+                "file": "Propiedades de los Fluidos.md"
               }
             }
           },
@@ -194,11 +194,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "91e7d5e666aca050",
+  "active": "a6e59e7e856425d4",
   "lastOpenFiles": [
-    "Tema 4. Matemáticas financieras.md",
-    "Excalidraw/whiteboard.excalidraw.md",
     "Fundamentos de Mecánica de Fluidos.md",
+    "Excalidraw/whiteboard.excalidraw.md",
+    "Tema 4. Matemáticas financieras.md",
     "Fundamentos de Mecánica.md",
     "Propiedades de los Fluidos.md",
     "Estática de Fluidos.md",

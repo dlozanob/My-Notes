@@ -8,10 +8,6 @@ tags: [excalidraw]
 
 
 # Text Elements
-
-# Embedded files
-55168fcc1b27255499fb35962a83c669708ba0ed: [[../Tema 4. Matemáticas financieras]]
-
 %%
 # Drawing
 ```json
@@ -22,9 +18,9 @@ tags: [excalidraw]
 	"elements": [
 		{
 			"type": "image",
-			"version": 384,
-			"versionNonce": 1496123363,
-			"isDeleted": false,
+			"version": 595,
+			"versionNonce": 710147693,
+			"isDeleted": true,
 			"id": "y4C6h7IH",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
@@ -32,17 +28,17 @@ tags: [excalidraw]
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -469.79263691467867,
-			"y": -435.65089847911395,
+			"x": -698.5643624172027,
+			"y": -1051.7289046836008,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 596.2483828980547,
-			"height": 953.9974126368875,
+			"width": 1260.2066183107615,
+			"height": 2016.3305892972185,
 			"seed": 19353,
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1679238565396,
+			"updated": 1679238624964,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -68,10 +64,10 @@ tags: [excalidraw]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "triangle",
-		"scrollX": 649.0148140681202,
-		"scrollY": 413.27727262501065,
+		"scrollX": 2697.2943865951543,
+		"scrollY": 1706.2302767016577,
 		"zoom": {
-			"value": 1.1030899869919435
+			"value": 0.20000000000000007
 		},
 		"currentItemRoundness": "sharp",
 		"gridSize": null,
@@ -82,3 +78,4 @@ tags: [excalidraw]
 	"files": {}
 }
 ```
+%%
