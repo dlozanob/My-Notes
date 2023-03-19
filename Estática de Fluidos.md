@@ -186,4 +186,20 @@ $$
 }
 $$
 
-![](attachments/Pasted%20image%2020230318201010.png)
+Si consideramos una placa sumergida en el fluido:
+
+![](attachments/Pasted%20image%2020230318201210.png)
+
+La fuerza que actúa sobre un diferencial de área es:
+
+$$
+\displaylines{
+	
+}
+$$
+
+$$
+\displaylines{
+	
+}
+$$
