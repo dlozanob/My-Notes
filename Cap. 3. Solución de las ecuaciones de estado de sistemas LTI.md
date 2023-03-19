@@ -91,10 +91,19 @@ $$
 \end{align*}
 $$
 
-Entonces se puede afirmar:
+Entonces:
 
 $$
 \begin{align*}
-	
+	\frac{de^{At}}{dt} = Ae^{At}
+\end{align*}
+$$
+
+Podemos afirmar que la solución del sistema es:
+
+$$
+\begin{align*}
+	\dot{x} =  Ae^{ At }x_{0}\\
+	x(t) = e^{At}x_{0}
 \end{align*}
 $$
