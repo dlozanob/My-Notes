@@ -11,8 +11,12 @@
             "id": "6f94ab9ba3391e68",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Estática de Fluidos.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -75,6 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Estática de Fluidos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,6 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Estática de Fluidos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -112,7 +118,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Estática de Fluidos.md"
+              }
             }
           },
           {
@@ -164,6 +172,7 @@
   },
   "active": "6f94ab9ba3391e68",
   "lastOpenFiles": [
+    "Fundamentos de Mecánica de Fluidos.md",
     "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
     "Señales y Sistemas II.md",
     "Cap. 1. Modelos de sistemas lineales y no lineales.md",
@@ -197,7 +206,6 @@
     "Ingeniería de Diseño.md",
     "Taller de Ingeniería Electrónica.md",
     "Ingeniería Electrónica.md",
-    "Fundamentos de Mecánica de Fluidos.md",
     "Propiedades de los Fluidos.md",
     "Fundamentos de Ondas, Oscilaciones y Óptica.md",
     "attachments",

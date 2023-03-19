@@ -10,13 +10,17 @@ Se considera que las partículas se encuentran en un marco inercial de referenci
 
 - _Presión absoluta_ ($p$) : Es medida con respecto al vacío absoluto o presión nula.
 - _Presión manométrica_ ($p_{m}$) :  Es medida con respecto a la presión atmosférica ($p_{m} > p_{atm}$).
+
 $$
 	p_{m} = p - p_{atm}
 $$
+
 - _Presión de vacío_ ($p_{v}$) : Es medida con respecto a la presión atmosférica ($p_{v} < p_{atm}$).
+
 $$
 	p_{v} = p_{atm} - p
 $$
+
 Se usa para medir la presión en cámaras de vacío.
 
 >[!Note]
@@ -30,10 +34,13 @@ Se considera un punto en el espacio con presión $p(x, y, z)$
 ![](attachments/Pasted%20image%2020230311182141.png)
 
 Tomando la presión en el lado derecho se tiene por Taylor (excluyendo los términos de orden superior):
+
 $$
 	p(x, y + \frac{\partial y}{2}, z) = p(x, y + \frac{\partial y}{2}, z) + \frac{\partial p}{\partial y}\frac{\partial y}{2}
 $$
+
 La fuerza en este punto es:
+
 $$
 \displaylines{
 	F(x, y + \frac{\partial y}{2}, z) = \biggr(p + \frac{\partial p}{\partial y}\frac{\partial y}{2}\biggr)\partial x\partial z
@@ -41,6 +48,7 @@ $$
 $$
 
 Así mismo, se obtiene la fuerza en el lado izquierdo, y se suman ambas fuerzas:
+
 $$
 	\displaylines{
 	 \partial F_{y} = \biggr(p - \frac{\partial p}{\partial y}\frac{\partial y}{2}\biggr)\partial x\partial z - \biggr(p + \frac{\partial p}{\partial y}\frac{\partial y}{2}\biggr)\partial x\partial z \\\\
@@ -48,11 +56,15 @@ $$
 		\partial F_{y} = -\frac{\partial p}{\partial y}\partial V
 }
 $$
+
 De manera análoga se halla $\partial F_{x}$ y $\partial F_{z}$. Se deduce:
+
 $$
 	\partial \vec{F} = -(\vec{\nabla}p)\partial V
 $$
+
 Haciendo sumatoria de fuerzas de manera vectorial:
+
 $$
 \displaylines{
 	\sum \partial \vec{F} = \partial m\vec{a} \\
@@ -66,6 +78,7 @@ $$
 >La ecuación solo es válida en ausencia de esfuerzos cortantes
 
 Si el fluido tiene una velocidad constante entonces:
+
 $$
 \begin{pmatrix}
 	\frac{\partial p}{\partial x} \\\\
@@ -79,6 +92,7 @@ $$
 	-\gamma
 \end{pmatrix}
 $$
+
 $$
 \displaylines{
 	\frac{dp}{dz} = -\gamma \\
@@ -86,6 +100,7 @@ $$
 	\boxed{\triangle p = -\gamma \triangle z}
 }
 $$
+
 >[!Note]
 >La ecuación solo es válida cuando:
 >- No hay esfuerzos cortantes
@@ -93,6 +108,7 @@ $$
 >- Es un fluido incompresible
 
 Para gases ideales:
+
 $$
 	p = p_{atm}exp\biggr(\frac{-g*m_{mol}}{RT_{0}}(z - l)\biggr)
 $$
@@ -107,6 +123,7 @@ Se usa para medir la presión atmosférica. Contienen comúnmente mercurio.
 ![](attachments/Pasted%20image%2020230311192653.png)
 
 En muchas situaciones la presión de vapor es despreciable frente a la atmosférica. Entonces:
+
 $$
 	p_{atm} = \gamma h
 $$
