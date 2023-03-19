@@ -10,7 +10,7 @@ tags: [excalidraw]
 # Text Elements
 
 # Embedded files
-94e9bc680f85c30715bbc375e3bf0fe0cf3c128e: [[attachments/Pasted Image 20230318201144_651.png]]
+5b66f6849241a4d88356ef17bbec89cf4ee7c673: [[attachments/Pasted Image 20230318203146_773.png]]
 
 %%
 # Drawing
@@ -20,6 +20,38 @@ tags: [excalidraw]
 	"version": 2,
 	"source": "https://excalidraw.com",
 	"elements": [
+		{
+			"id": "lcLsaYVRjUazlbj6dWaaI",
+			"type": "image",
+			"x": -234.97053677577367,
+			"y": -84.27100291051505,
+			"width": 417.27114219658677,
+			"height": 335.13587426421265,
+			"angle": 0,
+			"strokeColor": "transparent",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 213976350,
+			"version": 57,
+			"versionNonce": 492951646,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1679189507929,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "5b66f6849241a4d88356ef17bbec89cf4ee7c673",
+			"scale": [
+				1,
+				1
+			]
+		},
 		{
 			"id": "U8aeOuDq100kWmuchSjtH",
 			"type": "image",
@@ -38,11 +70,11 @@ tags: [excalidraw]
 			"groupIds": [],
 			"roundness": null,
 			"seed": 1590954434,
-			"version": 44,
-			"versionNonce": 29133890,
-			"isDeleted": false,
+			"version": 45,
+			"versionNonce": 10859522,
+			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1679188303436,
+			"updated": 1679189504256,
 			"link": null,
 			"locked": false,
 			"status": "pending",

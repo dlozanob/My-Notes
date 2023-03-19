@@ -219,5 +219,19 @@ $$
 
 De tal manera que la fuerza hidrostática resultante sobre la cara superior de la placa es la fuerza que actúa sobre su centroide. Donde $h_{c}$ es la distancia desde la superficie hasta el centroide.
 
-Sin embargo, esta fuerza no está aplicada en el centroide, 
+Sin embargo, esta fuerza no está aplicada en el centroide, está aplicada sobre un punto llamado _centro de presión_.
+
+>[!Note]
+>El centro de presión siempre está más abajo que el centroide
+
+![](attachments/Pasted%20image%2020230318203150.png)
+
+Partiendo del torque producido por $F_{R}$ en el centro de presión:
+
+$$
+\displaylines{
+	y_{CP}F_{R} &= \int _{A}y \, dF_{R} \\
+	&= \int _{A} \, dA
+}
+$$
 
