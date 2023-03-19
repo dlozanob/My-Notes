@@ -1,4 +1,4 @@
 # My-Notes
 Knowledge database
 
-[Main](/Main.md)
+[Main](Main.md)

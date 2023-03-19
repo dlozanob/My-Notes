@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estática de Fluidos.md",
+                "file": "Señales y Sistemas II.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estática de Fluidos.md",
+                "file": "Señales y Sistemas II.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Estática de Fluidos.md",
+                "file": "Señales y Sistemas II.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estática de Fluidos.md"
+                "file": "Señales y Sistemas II.md"
               }
             }
           },
@@ -183,10 +183,12 @@
   },
   "active": "6f94ab9ba3391e68",
   "lastOpenFiles": [
+    "Cap. 3. Solución de las ecuaciones de estado de sistemas LTI.md",
+    "Señales y Sistemas II.md",
+    "Estática de Fluidos.md",
     "attachments/Pasted image 20230318214339.png",
     "Excalidraw/whiteboard.excalidraw.md",
     "Excalidraw/attachments/Pasted Image 20230318214311_018.png",
-    "Estática de Fluidos.md",
     "attachments/Pasted image 20230318214056.png",
     "Excalidraw/attachments/Pasted Image 20230318214054_709.png",
     "attachments/Pasted image 20230318213703.png",
@@ -195,12 +197,10 @@
     "attachments/Pasted image 20230318213422.png",
     "Excalidraw/attachments/Pasted Image 20230318213414_798.png",
     "attachments/Pasted image 20230318213358.png",
-    "attachments/Pasted image 20230318211921.png",
     "Excalidraw/attachments",
     "Propiedades de los Fluidos.md",
     "Fundamentos de Mecánica de Fluidos.md",
     "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
-    "Señales y Sistemas II.md",
     "Cap. 1. Modelos de sistemas lineales y no lineales.md",
     "Automatización, Control y Robótica.md",
     "Señales y Sistemas I.md",

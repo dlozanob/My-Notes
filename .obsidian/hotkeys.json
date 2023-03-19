@@ -47,5 +47,14 @@
       ],
       "key": "X"
     }
+  ],
+  "consistent-attachments-and-links:reorganize-vault": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "R"
+    }
   ]
 }
