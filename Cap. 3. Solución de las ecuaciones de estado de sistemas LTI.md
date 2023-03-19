@@ -22,3 +22,16 @@ $$
 
 La entrada $u \neq 0$. Las condiciones iniciales son cero.
 
+
+## Solución del sistema en su respuesta natural
+
+El caso más simple, es cuando tenemos una sola variable (caso escalar):
+
+$$
+\begin{align*}
+	\dot{x} = ax \\
+	x(t) = e^{ at }x_{0}
+\end{align*}
+$$
+
+Sin embargo, cuando $A$ es una matriz, se debe resolver
