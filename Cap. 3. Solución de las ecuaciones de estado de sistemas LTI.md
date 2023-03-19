@@ -77,6 +77,24 @@ Al hacer $e^{ At }$ se obtiene:
 
 $$
 \begin{align*}
-	e^{ At } = \sum_{n = 0}^{\infty} \frac{(At)^{n}}{n!}
+	e^{ At } &= \sum_{n = 0}^{\infty} \frac{(At)^{n}}{n!} \\
+	&= I + At + \frac{A^{2}t^{2}}{2!} + \frac{A^{3}t^{3}}{3!} + \dots
+\end{align*}
+$$
+
+Derivando la expresión:
+
+$$
+\begin{align*}
+	\frac{de^{ At }}{dt} &= A + A^{2}t + \frac{A^{3}t^{2}}{2!} + \dots \\
+	&= A\sum_{n=0}^{\infty} \frac{(At)^{n}}{n!}
+\end{align*}
+$$
+
+Entonces se puede afirmar:
+
+$$
+\begin{align*}
+	
 \end{align*}
 $$
