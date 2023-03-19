@@ -18,6 +18,16 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "91e7d5e666aca050",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/whiteboard.excalidraw.md"
+              }
+            }
           }
         ]
       }
@@ -173,9 +183,16 @@
   },
   "active": "6f94ab9ba3391e68",
   "lastOpenFiles": [
+    "Excalidraw/whiteboard.excalidraw.md",
+    "Estática de Fluidos.md",
+    "attachments/Pasted image 20230318201010.png",
+    "attachments/Pasted image 20230318200954.png",
+    "attachments/Pasted image 20230318200944.png",
+    "Excalidraw/attachments/Pasted Image 20230318200942_244.png",
+    "Excalidraw/attachments",
+    "attachments/Pasted image 20230318200916.png",
     "Propiedades de los Fluidos.md",
     "Fundamentos de Mecánica de Fluidos.md",
-    "Estática de Fluidos.md",
     "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
     "Señales y Sistemas II.md",
     "Cap. 1. Modelos de sistemas lineales y no lineales.md",
@@ -190,11 +207,6 @@
     "Pasted image 20230317173953.png",
     "Pasted image 20230317173752.png",
     "Pasted image 20230317173202.png",
-    "Pasted image 20230317165901.png",
-    "Pasted image 20230317114239.png",
-    "Pasted image 20230317113841.png",
-    "Pasted Image 20230312134907_460.png",
-    "Pasted Image 20230312134752_435.png",
     "Automatización%2C control y robótica.md",
     "Prueba, N.md",
     "Prueba%2C N.md",
@@ -207,8 +219,6 @@
     "Módulo 3.md",
     "Física.md",
     "Ingeniería de Diseño.md",
-    "Taller de Ingeniería Electrónica.md",
-    "Ingeniería Electrónica.md",
     "attachments",
     "New folder",
     "Untitled.canvas"

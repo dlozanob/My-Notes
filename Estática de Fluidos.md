@@ -179,3 +179,11 @@ $$
 
 Considerando un fluido incompresible y en reposo, se sabe que:
 
+$$
+\displaylines{
+	\Delta p = -\rho g \Delta z \\
+	p = p_{0} + \rho g\Delta z
+}
+$$
+
+![](attachments/Pasted%20image%2020230318201010.png)
