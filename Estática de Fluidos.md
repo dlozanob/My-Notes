@@ -278,7 +278,20 @@ Entonces $p_{0} = P_{atm_{1}} - P_{atm_{2}}$
 
 ## Fuerza hidrostática sobre superficies curvas sumergidas
 
-La fuerza resultante se descompone en sus componentes $(F_{H}, F_{V})$ 
-
+La fuerza resultante se determina en sus componentes $(F_{H}, F_{V})$ por simplicidad.
 
 ![](attachments/Pasted%20image%2020230318213422.png)
+
+El fluido ejerce esta fuerza $F_{R}$ sobre la pared, así mismo, la pared ejerce una fuerza $-F_{R}$ sobre el fluido.
+
+![](attachments/Pasted%20image%2020230318213703.png)
+
+$$
+\begin{align*}
+	-F_{H} = F_{x} \\
+	-F_{V} = F_{y} + W \\\\
+	\vec{F_{R}} = (F_{H}, F_{V})
+\end{align*}
+$$
+
+Ahora bien, determinar el punto de aplicación de $F_{R}$
