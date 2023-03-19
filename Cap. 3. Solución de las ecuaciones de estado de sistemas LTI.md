@@ -76,4 +76,18 @@ $$
 \end{align*}
 $$
 
-Sin embargo, dar una solución de esta manera resulta una tarea tediosa 
+Sin embargo, dar una solución de esta manera resulta una tarea tediosa y un resultado engorroso de leer. 
+En la siguiente sección, se dará una solución mucho más simple.
+
+
+## Diagonalización de sistemas
+
+De nuevo, se considera el sistema:
+
+$$
+\begin{align*}
+	\dot{x} = Ax
+\end{align*}
+$$
+
+Si $A$ tiene valores propios no repetidos, existe un a matriz $$
