@@ -246,11 +246,13 @@ $$
 \end{align*}
 $$
 
-Usando el teorema de Steiner, se obtiene el punto de aplicación de $F_{R}$ :
+Usando el teorema de Steiner, se obtiene el punto de aplicación (centro de presión) de $F_{R}$ :
 
 $$
 \begin{align*}
-	\boxed{y_{CP} = y_{c} + \frac{I_{x x, O}}{}}
+	\boxed{y_{CP} = y_{c} + \frac{I_{x x, O}}{\left[ y_{c} + \frac{p_{0}}{\rho g\sin\theta} \right]A}}
 \end{align*}
 $$
+
+
 
