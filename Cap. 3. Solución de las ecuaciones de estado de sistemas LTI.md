@@ -42,6 +42,14 @@ $$
 \end{align*}
 $$
 
+La solución de este sistema es:
+
+$$
+\begin{align*}
+	x(t) = e^{At}x_{0}
+\end{align*}
+$$
+
 Por series de Taylor se sabe que:
 
 $$
@@ -55,7 +63,8 @@ Extrapolando esta idea al caso matricial:
 
 $$
 \begin{align*}
-	e^{ A } = I + A + \frac{A^{2}}{2!} + \frac{A^{3}}{3!} + \dots
+	e^{ At } &= \sum_{n = 0}^{\infty} \frac{(At)^{n}}{n!} \\
+	&= I + At + \frac{A^{2}t^{2}}{2!} + \frac{A^{3}t^{3}}{3!} + \dots
 \end{align*}
 $$
 
@@ -73,15 +82,6 @@ e^{ a_{n 1 }} & e^{ a_{n 2 }} & . & e^{ a_{nn} }
 \end{align*}
 $$
 
-Al hacer $e^{ At }$ se obtiene:
-
-$$
-\begin{align*}
-	e^{ At } &= \sum_{n = 0}^{\infty} \frac{(At)^{n}}{n!} \\
-	&= I + At + \frac{A^{2}t^{2}}{2!} + \frac{A^{3}t^{3}}{3!} + \dots
-\end{align*}
-$$
-
 Derivando la expresión:
 
 $$
@@ -91,7 +91,7 @@ $$
 \end{align*}
 $$
 
-Entonces:
+Se confirma:
 
 $$
 \begin{align*}
@@ -99,11 +99,3 @@ $$
 \end{align*}
 $$
 
-Podemos afirmar que la solución del sistema es:
-
-$$
-\begin{align*}
-	\dot{x} =  Ae^{ At }x_{0}\\
-	x(t) = e^{At}x_{0}
-\end{align*}
-$$
