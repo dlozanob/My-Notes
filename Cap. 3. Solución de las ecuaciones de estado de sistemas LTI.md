@@ -68,6 +68,17 @@ $$
 \end{align*}
 $$
 
+Derviando lo anterior se halla:
+
+$$
+\begin{align*}
+	
+\end{align*}
+$$
+
+
+
+
 Además se cumple:
 
 $$
