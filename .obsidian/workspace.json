@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Estática de Fluidos.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -39,8 +39,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md",
+                "file": "Estática de Fluidos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md",
+                "file": "Estática de Fluidos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md"
+                "file": "Estática de Fluidos.md"
               }
             }
           },
@@ -192,11 +191,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7baa2f08c5efcd06",
+  "active": "6f94ab9ba3391e68",
   "lastOpenFiles": [
+    "attachments/Pasted image 20230320161152.png",
+    "Excalidraw/blackboard.excalidraw.md",
     "Excalidraw/whiteboard.excalidraw.md",
     "Estática de Fluidos.md",
-    "Excalidraw/blackboard.excalidraw.md",
+    "attachments/Pasted image 20230320161136.png",
     "attachments/Pasted image 20230320155520.png",
     "attachments/Pasted image 20230320155510.png",
     "Excalidraw/attachments/Pasted Image 20230320155508_992.png",
@@ -212,7 +213,6 @@
     "Excalidraw/attachments/Pasted Image 20230320114956_932.png",
     "Propiedades de los Fluidos.md",
     "Fundamentos de Mecánica de Fluidos.md",
-    "attachments/Pasted image 20230319223905.png",
     "Tema 4. Matemáticas financieras.md",
     "Fundamentos de Mecánica.md",
     "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",

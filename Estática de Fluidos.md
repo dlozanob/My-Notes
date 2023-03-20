@@ -392,6 +392,8 @@ Se concluye que la fuerza de flotación es el peso del líquido desplazado por l
 
 Ahora bien, si un cuerpo flota, se debe cumplir:
 
+![](attachments/Pasted%20image%2020230320161152.png)
+
 $$
 \begin{align*}
 	F_{B} = W
