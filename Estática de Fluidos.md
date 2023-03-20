@@ -414,3 +414,7 @@ $$
 - $\rho_{f}$ : Densidad del fluido
 - $\rho_{s}$ : Densidad del sólido
 
+
+>[!Note]
+>La estabilidad del objeto se garantiza si el centro geométrico está por encima del centro de masa
+
