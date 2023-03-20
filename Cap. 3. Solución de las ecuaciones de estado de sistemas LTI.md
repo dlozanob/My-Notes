@@ -161,6 +161,7 @@ Ahora bien, para hallar la solución en las coordenadas originales se hace:
 
 $$
 \begin{align*}
-	T^{-1}z(t) = T^{-1}e^{ \bar{A}t }(Tx)
+	T^{-1}z(t) = T^{-1}e^{ \bar{A}t }(Tx_{0}) \\\\
+	\boxed{x(t) = T^{-1}e^{ \bar{A}t }Tx_{0}}
 \end{align*}
 $$
