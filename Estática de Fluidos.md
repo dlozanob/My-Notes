@@ -175,6 +175,15 @@ $$
 $$
 
 
+- __Ejemplo__ :
+Se desea determinar $\Delta h$
+
+![](attachments/Pasted%20image%2020230320114957.png)
+
+
+
+
+
 ## Fuerza hidrostática sobre superficies planas sumergidas
 
 Considerando un fluido incompresible y en reposo, se sabe que:

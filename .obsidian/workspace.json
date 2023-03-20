@@ -14,8 +14,18 @@
               "type": "markdown",
               "state": {
                 "file": "Estática de Fluidos.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "41790737ad9a4e0b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/whiteboard.excalidraw.md"
               }
             }
           }
@@ -173,8 +183,11 @@
   },
   "active": "6f94ab9ba3391e68",
   "lastOpenFiles": [
-    "Propiedades de los Fluidos.md",
+    "attachments/Pasted image 20230320114957.png",
+    "Excalidraw/whiteboard.excalidraw.md",
+    "Excalidraw/attachments/Pasted Image 20230320114956_932.png",
     "Estática de Fluidos.md",
+    "Propiedades de los Fluidos.md",
     "LaTeX.md",
     "Fundamentos de Mecánica de Fluidos.md",
     "Excalidraw/blackboard.excalidraw.md",
@@ -184,7 +197,6 @@
     "attachments/Pasted image 20230319223818.png",
     "attachments/Pasted image 20230319223618.png",
     "attachments/Pasted image 20230319223558.png",
-    "Excalidraw/whiteboard.excalidraw.md",
     "Señales y Sistemas II.md",
     "Tema 4. Matemáticas financieras.md",
     "Fundamentos de Mecánica.md",
@@ -194,7 +206,6 @@
     "Excalidraw/attachments/Pasted Image 20230318214311_018.png",
     "attachments/Pasted image 20230318214056.png",
     "Excalidraw/attachments/Pasted Image 20230318214054_709.png",
-    "attachments/Pasted image 20230318213703.png",
     "Excalidraw/attachments",
     "Automatización, Control y Robótica.md",
     "Señales y Sistemas I.md",
@@ -209,7 +220,6 @@
     "consistant-report.md",
     "Finanzas.md",
     "Módulo 6.md",
-    "Módulo 4.md",
     "attachments",
     "New folder",
     "Untitled.canvas"
