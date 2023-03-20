@@ -110,7 +110,7 @@ $$
 
 Su diagonal son sus valores propios. La matriz $\bar{A}$ se conoce como _matriz de Jordan_.
 
-Se sabe que:
+Tal que:
 
 $$
 \begin{align*}
@@ -130,45 +130,16 @@ Donde $\vec{v}_{i}$ son los vectores propios de $A$. Tal que hay $n$ vectores pr
 >El objetivo de esto es calcular $e^{ At }$ de una manera simple.
 >Procedimiento:
 >1. Aplicar la transformación $A$ a los vectores propios:
-$AT^{-1}$
+$$AT^{-1}$$
 >2. Traducir esta transformación al lenguaje del espacio formado por las bases propias:
-$TAT^{-1}$
+$$TAT^{-1}$$
 >3. Estamos en el espacio formado por las bases propias. Ahora aplicamos el operador exponencial sobre $TAT^{-1}t$:
-$e^{ TAT^{-1}t }$
+$$e^{ TAT^{-1}t }$$
 >4. Traer esta transformación a nuestro lenguaje:
-$T^{-1}e^{ TAT^{-1}t }$
+$$T^{-1}e^{ TAT^{-1}t }$$
 >5. Estamos en nuestro espacio original. La transformación está aplicada sobre los vectores propios, así que para dejarla aplicada sobre las bases de nuestro espacio:
->$T^{-1}e^{ TAT^{-1}t }T = e^{ At }$
+>$$T^{-1}e^{ TAT^{-1}t }T = e^{ At }$$
 
-
-
-
-Cambiamos las coordenadas:
-
-$$
-\begin{align*}
-	z = Tx
-\end{align*}
-$$
-
-Expresando dinámicamente este sistema:
-
-$$
-\begin{align*}
-	\dot{z} &= T\dot{x} \\
-	&= T(Ax) \\
-	&= TAT^{-1}z \\
-	&=\bar{A}z
-\end{align*}
-$$
-
-Cuya respuesta es:
-
-$$
-\begin{align*}
-	z(t) = e^{ \bar{A}t }z_{0}
-\end{align*}
-$$
 
 De tal manera que:
 
@@ -189,15 +160,6 @@ e^{ \lambda_{1}t } & 0 & 0 & . & 0 \\
 .  & . & . & . & .\\
 0 & 0 & 0 & . & e^{ \lambda_{m}t }
 \end{pmatrix}
-\end{align*}
-$$
-
-Ahora bien, para hallar la solución en las coordenadas originales se hace:
-
-$$
-\begin{align*}
-	T^{-1}z(t) = T^{-1}e^{ \bar{A}t }(Tx_{0}) \\\\
-	\boxed{x(t) = T^{-1}e^{ \bar{A}t }Tx_{0}}
 \end{align*}
 $$
 
