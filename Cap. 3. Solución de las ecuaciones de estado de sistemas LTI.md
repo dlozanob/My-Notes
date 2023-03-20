@@ -186,19 +186,20 @@ $$
 
 ## Solución del sistema en su respuesta natural: Valores propios repetidos
 
-La _forma de Jordan_ es el siguiente tensor:
+La _forma de Jordan_ es la matriz de bases propias repetidas:
 
 $$
 \begin{align*}
 	J = \begin{pmatrix}
-J_{1} & 0 & 0 & . & 0 \\
-0 & J_{2} & 0 & . & 0 \\
-0 & 0 & J_{3} & . & 0 \\
-0 & 0 & 0 & . & J_{n}
+\lambda_{1} & 0 & 0 & . & 0 \\
+0 & \lambda_{2} & 0 & . & 0 \\
+0 & 0 & \lambda_{3} & . & 0 \\
+0 & 0 & 0 & . & \lambda_{n}
 \end{pmatrix}
 \end{align*}
 $$
 
+Con la particularidad de que los valores propios repetidos (los cuales siempre aparecen consecutivos en la diagonal de la matriz) generan $1$'s en la diagonal supe
 Donde:
 
 $$
