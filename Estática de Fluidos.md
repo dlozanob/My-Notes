@@ -183,7 +183,9 @@ $$
 
 El estado final es el siguiente:
 
-![](attachments/Pasted%20image%2020230320115926.png)
+![](attachments/Pasted%20image%2020230320120053.png)
+
+El fluido es incompresible, el volumen desplazado es el mismo. Entonces:
 
 
 
