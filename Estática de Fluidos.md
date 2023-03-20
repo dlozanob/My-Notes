@@ -224,11 +224,16 @@ $$
 \end{align*}
 $$
 
+Finalmente:
 
-
-
-
-
+$$
+\begin{align*}
+	h_{f} &= l + 0.05\sin(30°) + \Delta h \\
+	h_{f} &= \frac{1}{2}(0.05 + 3\Delta h) \\
+	h_{f} &= \frac{3}{2}\left( \frac{0.05}{3} + \frac{10kPa}{\frac{3}{2}\gamma_{M} - \gamma_{A} - \frac{1}{2}\gamma_{B}} \right) \\\\
+	h_{f} &= 10.548cm
+\end{align*}
+$$
 
 
 ## Fuerza hidrostática sobre superficies planas sumergidas
