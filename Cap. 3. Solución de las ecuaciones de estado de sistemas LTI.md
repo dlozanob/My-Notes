@@ -110,3 +110,4 @@ $$
 
 Su diagonal son sus valores propios. La matriz $\bar{A}$ se conoce como _matriz de Jordan_.
 
+Se puede interpretar como 
