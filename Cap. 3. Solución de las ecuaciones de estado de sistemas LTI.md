@@ -133,6 +133,17 @@ Cuya respuesta es:
 
 $$
 \begin{align*}
-	z(t) =
+	z(t) = e^{ \bar{A}t }z_{0}
+\end{align*}
+$$
+
+De tal manera que:
+
+$$
+\begin{align*}
+	e^{ \bar{A}t } = I + \bar{A}t + \frac{\bar{A}^{2}t^{2}}{2!} + \frac{\bar{A}^{3}t^{3}}{3!} + \dots \\\\
+	e^{ \bar{A}t } = \begin{pmatrix}
+\sum_{n=0}^{\infty} \frac{\lambda_{1}^{n}t^{n}}{n!}
+\end{pmatrix}
 \end{align*}
 $$
