@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Propiedades de los Fluidos.md",
+                "file": "Estática de Fluidos.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Propiedades de los Fluidos.md",
+                "file": "Estática de Fluidos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Propiedades de los Fluidos.md",
+                "file": "Estática de Fluidos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Propiedades de los Fluidos.md"
+                "file": "Estática de Fluidos.md"
               }
             }
           },
@@ -172,6 +172,7 @@
   },
   "active": "d6b6f2fda0b586e1",
   "lastOpenFiles": [
+    "Propiedades de los Fluidos.md",
     "Excalidraw/blackboard.excalidraw.md",
     "Fundamentos de Mecánica de Fluidos.md",
     "Excalidraw/whiteboard.excalidraw.md",
@@ -191,7 +192,6 @@
     "attachments/Pasted image 20230320120053.png",
     "attachments/Pasted image 20230320115926.png",
     "attachments/Pasted image 20230320114957.png",
-    "Propiedades de los Fluidos.md",
     "Tema 4. Matemáticas financieras.md",
     "Fundamentos de Mecánica.md",
     "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",

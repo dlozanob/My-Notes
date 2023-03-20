@@ -80,7 +80,8 @@ $$
 Si el fluido tiene una velocidad constante entonces:
 
 $$
-\begin{pmatrix}
+\begin{align*}
+	\begin{pmatrix}
 	\frac{\partial p}{\partial x} \\\\
 	\frac{\partial p}{\partial x} \\\\
 	\frac{\partial p}{\partial x}
@@ -91,6 +92,7 @@ $$
 	0 \\\\
 	-\gamma
 \end{pmatrix}
+\end{align*}
 $$
 
 $$
