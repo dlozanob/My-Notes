@@ -200,19 +200,23 @@ $$
 $$
 
 Puede aproximarse de la forma:
+
 $$
 	\beta \approx \frac{\triangle V/V_{0}}{\triangle T} = -\frac{\triangle \rho/\rho_{0}}{\triangle T}
 $$
 
 
 De manera general, el volumen $V(T, P)$ varía en función de la temperatura y la presión. Al hacer su derivada total:
+
 $$
 \begin{align*}
 	&dV = \biggr(\frac{\partial V}{\partial T}\biggr)_{P}dT + \biggr(\frac{\partial V}{\partial P}\biggr)_{T}dP \\\\
 	&dV = (\beta dT - \alpha dP)V
 \end{align*}
 $$
+
 Del mismo modo para $\rho$ :
+
 $$
 \begin{align*}
 	&\alpha = \frac{d\rho}{\rho} = -\frac{dV}{V} \\\\
@@ -258,6 +262,7 @@ Así que un contexto más general se describe (representa la razón de deformaci
 $$
 	\dot \gamma = \frac{dv}{dy}
 $$
+
 Se tienen las siguientes relaciones:
 
 $$
@@ -273,6 +278,7 @@ $$
 $$
 	\boxed{\tau = \mu \frac{du}{dy}}
 $$
+
 Tiene unidades $[ML^{-1}T^{-1}] = [FTL^{-2}] = [Pa*s]$.
 
 Quiere decir que un fluido muy viscoso sometido a un esfuerzo cortante, no presenta mucha deformación como si lo haría un fluido menos viscoso.
@@ -316,14 +322,17 @@ Se tiene un viscosímetro.
 ![](attachments/Pasted%20image%2020230310190355.png)
 
 Como la pared de fluido es muy delgada ($R_{ext} - R_{in} = 0.0015$ m) se acepta tomar la razón de la deformación como lineal, entonces:
+
 $$
 	\frac{du}{dr} = \frac{\triangle u}{\triangle r}
 $$
+
 ![](attachments/Pasted%20image%2020230310173732.png)
 
 En este sentido tomamos a $r$ en vez de $y$.
 
 De tal manera:
+
 $$
 	\frac{\triangle u}{\triangle r} = \frac{\omega R_{in} - 0}{R_{in} - R_{ext}} = -400\pi[s^{-1}]
 $$ 
@@ -334,18 +343,20 @@ Ahora se halla el esfuerzo cortante:
 $$
 	F = \frac{T}{R_{in}} = 30[N]
 $$
+
 $$
 	A = \pi R_{in}^2l = 0.15[m^2]
 $$
+
 $$
 	\tau = \frac{F}{A} = 198.94[Pa]
 $$
 
 Por último, calculamos la viscosidad:
+
 $$
 	\mu = \frac{\tau}{\frac{du}{dr}} = 0.158[Pa*s]
 $$
-
 
 
 ## Tensión superficial
@@ -353,7 +364,6 @@ $$
 Las moléculas en la superficie de un fluido se encuentran dinámicamente desequilibradas, por tanto, los fluidos tienden a tener una forma esférica, ya que, así se reduce el área superficial.
 
 ![](attachments/Pasted%20image%2020230310190140.png)
-
 
 Consideramos la siguiente configuración:
 
@@ -368,15 +378,19 @@ Cada cara ejerce tensión superficial:
 ![](attachments/Pasted%20image%2020230310191647.png)
 
 Debido a que el sistema está equilibrado:
+
 $$
 	\boxed{F = \sigma_{s}2b}
 $$
 
 Así mismo, el trabajo realizado por esta fuerza es:
+
 $$
 	W = \sigma_{s}2b*\triangle x = 2\sigma_{s}\triangle A
 $$
+
 Entonces, la tensión superficial es el trabajo requerido para aumentar 1 unidad de área en una de las superficies:
+
 $$
 	\sigma_{s} = \frac{W}{2\triangle A}
 $$
@@ -399,22 +413,28 @@ Al tomar la mitad:
 ![](attachments/Pasted%20image%2020230310200741.png)
 
 La fuerza actúa a lo largo del contorno (se consideran ambas caras por el espesor de la burbuja), luego:
+
 $$
 	F_{s} = 2\sigma_{s}(2\pi r) = 4\sigma_{s}\pi r
 $$
+
 $$
 	F_{s} = \triangle P*A = P(\pi r^2)
 $$
+
 $$
 \displaylines{
 	4\sigma_{s}\pi r = \triangle P(\pi r^2) \\
 	\triangle P = \frac{4\sigma_{s}}{r}
 }
 $$
+
 Entonces la ecuación de diseño de una burbuja es:
+
 $$
 	r = \frac{4\sigma_{s}}{\triangle P}
 $$
+
 Por tanto, se deduce que al soplar duro, $\triangle P$ aumenta, haciendo que el radio disminuya, y viceversa.
 
 
@@ -434,7 +454,6 @@ El _menisco_ o _ángulo de contacto_ es el ángulo formado entre la superficie s
 | $\theta$ | $< 90°$ | $> 90°$ |
 | Fuerza predominante | Adhesión | Cohesión |
 | ¿El fluido moja? | Sí | No |
-
 
 >[!Note]
 >Para el agua y la mayoría de fluidos $\theta \approx 0$
