@@ -2,11 +2,11 @@
   "background-settings@@background-settings-workplace-background-image": true,
   "background-settings@@background-settings-workplace-theme-dark": "background-settings-workplace-theme-dark-custom-option",
   "background-settings@@blur-depth": 0,
-  "background-settings@@brightness-4-bg": 0.6,
+  "background-settings@@brightness-4-bg": 0.7,
   "background-settings@@background-image-settings-switch": false,
   "background-settings@@background-image-settings-markdown-page-options": "background-image-settings-markdown-page-transparent",
   "background-settings@@toggle-nonoverlapping-bg": false,
   "background-settings@@toggle-bg-panel-page": false,
-  "background-settings@@saturate-4-bg": 1,
+  "background-settings@@saturate-4-bg": 2,
   "background-settings@@background-settings-workplace-theme-dark-custom": "url(\"https://wallpaperaccess.com/full/6241167.jpg\")"
 }
