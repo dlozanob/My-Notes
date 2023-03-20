@@ -143,7 +143,24 @@ $$
 \begin{align*}
 	e^{ \bar{A}t } = I + \bar{A}t + \frac{\bar{A}^{2}t^{2}}{2!} + \frac{\bar{A}^{3}t^{3}}{3!} + \dots \\\\
 	e^{ \bar{A}t } = \begin{pmatrix}
-\sum_{n=0}^{\infty} \frac{\lambda_{1}^{n}t^{n}}{n!}
+\sum_{n=0}^{\infty} \frac{\lambda_{1}^{n}t^{n}}{n!} & 0 & 0 & . & 0 \\
+0 & \sum_{n=0}^{\infty} \frac{\lambda_{2}^{n}t^{n}}{n!} & 0 & . & 0 \\
+0 & 0 & \sum_{n=0}^{\infty} \frac{\lambda_{3}^{n}t^{n}}{n!} & . & 0 \\
+0 & 0 & 0 & . & \sum_{n=0}^{\infty} \frac{\lambda_{m}^{n}t^{n}}{n!}
+\end{pmatrix} \\\\
+	e^{ \bar{A}t } = \begin{pmatrix}
+e^{ \lambda_{1}t } & 0 & 0 & . & 0 \\
+0 & e^{ \lambda_{2}t } & 0 & . & 0 \\
+0 & 0 & e^{ \lambda_{3}t } & . & 0 \\
+0 & 0 & 0 & . & e^{ \lambda_{m}t }
 \end{pmatrix}
+\end{align*}
+$$
+
+Ahora bien, para hallar la solución en las coordenadas originales se hace:
+
+$$
+\begin{align*}
+	T^{-1}z(t) = T^{-1}e^{ \bar{A}t }(Tx)
 \end{align*}
 $$
