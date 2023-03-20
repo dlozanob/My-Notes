@@ -126,6 +126,13 @@ $$
 
 Donde $\vec{v}_{i}$ son los vectores propios de $A$. Tal que hay $n$ vectores propios de dimensión $m$.
 
+>[!Note]
+>El objetivo de esto es calcular $e^{ At }$ de una manera simple.
+>Procedimiento:
+>- Aplicar la transformación $A$ a los vectores propios ($AT^{-1}$)
+>- Traducir esta transformación al lenguaje del espacio formado por las 
+
+
 
 Cambiamos las coordenadas:
 
