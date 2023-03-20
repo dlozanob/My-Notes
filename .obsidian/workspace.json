@@ -11,11 +11,24 @@
             "id": "d6b6f2fda0b586e1",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HTML.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6b93c86eaf95d517",
+            "type": "leaf",
+            "state": {
               "type": "graph",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -162,14 +175,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d6b6f2fda0b586e1",
+  "active": "6b93c86eaf95d517",
   "lastOpenFiles": [
+    "HTML.md",
+    "Cinemática de Fluidos.md",
+    "Servomecanismos.md",
     "Estática de Fluidos.md",
     "Propiedades de los Fluidos.md",
     "Excalidraw/blackboard.excalidraw.md",
     "Fundamentos de Mecánica de Fluidos.md",
     "Excalidraw/whiteboard.excalidraw.md",
-    "Cinemática de Fluidos.md",
     "attachments/Pasted image 20230320161152.png",
     "attachments/Pasted image 20230320161136.png",
     "attachments/Pasted image 20230320155520.png",
@@ -199,8 +214,6 @@
     "Prueba, N.md",
     "Prueba%2C N.md",
     "Tema 2. Función de oferta y demanda.md",
-    "consistant-report.md",
-    "Finanzas.md",
     "attachments",
     "New folder",
     "Untitled.canvas"
