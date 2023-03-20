@@ -8,12 +8,6 @@ tags: [excalidraw]
 
 
 # Text Elements
-
-# Embedded files
-e1af1dfd85bba136b64bc76c061c6b027ad41760: $$V_{sum}$$
-9ecce5d9d5c6c2e677526d4a6ddbeb37025a7373: $$W = \rho_{s}gV_{s}$$
-0be48ddabf8fbd166b0880385a2c280af0b67f75: $$F_{B} = \rho_{f}gV_{sum}$$
-
 %%
 # Drawing
 ```json
@@ -24,9 +18,9 @@ e1af1dfd85bba136b64bc76c061c6b027ad41760: $$V_{sum}$$
 	"elements": [
 		{
 			"type": "freedraw",
-			"version": 333,
-			"versionNonce": 737556283,
-			"isDeleted": false,
+			"version": 334,
+			"versionNonce": 1000750837,
+			"isDeleted": true,
 			"id": "2a9a3q72Y0NL8MF1VZkIr",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
@@ -44,7 +38,7 @@ e1af1dfd85bba136b64bc76c061c6b027ad41760: $$V_{sum}$$
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1679346507321,
+			"updated": 1679350661305,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1359,9 +1353,9 @@ e1af1dfd85bba136b64bc76c061c6b027ad41760: $$V_{sum}$$
 		},
 		{
 			"type": "line",
-			"version": 169,
-			"versionNonce": 1595420149,
-			"isDeleted": false,
+			"version": 170,
+			"versionNonce": 1746474715,
+			"isDeleted": true,
 			"id": "mIegihaU7JxMwEfdu7zjb",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
@@ -1381,7 +1375,7 @@ e1af1dfd85bba136b64bc76c061c6b027ad41760: $$V_{sum}$$
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1679346507321,
+			"updated": 1679350661305,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -1402,9 +1396,9 @@ e1af1dfd85bba136b64bc76c061c6b027ad41760: $$V_{sum}$$
 		},
 		{
 			"type": "freedraw",
-			"version": 61,
-			"versionNonce": 1614911451,
-			"isDeleted": false,
+			"version": 62,
+			"versionNonce": 315398229,
+			"isDeleted": true,
 			"id": "l1kM7NsydYZHk8edVgeLx",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
@@ -1422,7 +1416,7 @@ e1af1dfd85bba136b64bc76c061c6b027ad41760: $$V_{sum}$$
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1679346507321,
+			"updated": 1679350661305,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1653,9 +1647,9 @@ e1af1dfd85bba136b64bc76c061c6b027ad41760: $$V_{sum}$$
 		},
 		{
 			"type": "freedraw",
-			"version": 8,
-			"versionNonce": 1881712469,
-			"isDeleted": false,
+			"version": 9,
+			"versionNonce": 1076331387,
+			"isDeleted": true,
 			"id": "7tmvAm3_lr0_C_9P2dAkq",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
@@ -1673,7 +1667,7 @@ e1af1dfd85bba136b64bc76c061c6b027ad41760: $$V_{sum}$$
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1679346507321,
+			"updated": 1679350661305,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1692,9 +1686,9 @@ e1af1dfd85bba136b64bc76c061c6b027ad41760: $$V_{sum}$$
 		},
 		{
 			"type": "arrow",
-			"version": 180,
-			"versionNonce": 1264388149,
-			"isDeleted": false,
+			"version": 181,
+			"versionNonce": 1520485813,
+			"isDeleted": true,
 			"id": "BFsWjWWtjFyfjvXjftEBT",
 			"fillStyle": "hachure",
 			"strokeWidth": 4,
@@ -1714,7 +1708,7 @@ e1af1dfd85bba136b64bc76c061c6b027ad41760: $$V_{sum}$$
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1679346696216,
+			"updated": 1679350661305,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -1739,9 +1733,9 @@ e1af1dfd85bba136b64bc76c061c6b027ad41760: $$V_{sum}$$
 		},
 		{
 			"type": "arrow",
-			"version": 81,
-			"versionNonce": 1795064219,
-			"isDeleted": false,
+			"version": 82,
+			"versionNonce": 822041627,
+			"isDeleted": true,
 			"id": "l1P_SmUt-pEfq3nHvIgxX",
 			"fillStyle": "hachure",
 			"strokeWidth": 2,
@@ -1761,7 +1755,7 @@ e1af1dfd85bba136b64bc76c061c6b027ad41760: $$V_{sum}$$
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1679346696216,
+			"updated": 1679350661305,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -1786,9 +1780,9 @@ e1af1dfd85bba136b64bc76c061c6b027ad41760: $$V_{sum}$$
 		},
 		{
 			"type": "freedraw",
-			"version": 1133,
-			"versionNonce": 10768821,
-			"isDeleted": false,
+			"version": 1134,
+			"versionNonce": 1716012821,
+			"isDeleted": true,
 			"id": "kfAil7rKuItiiDHdsKJB3",
 			"fillStyle": "hachure",
 			"strokeWidth": 4,
@@ -1806,7 +1800,7 @@ e1af1dfd85bba136b64bc76c061c6b027ad41760: $$V_{sum}$$
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1679346531872,
+			"updated": 1679350661306,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -6345,9 +6339,9 @@ e1af1dfd85bba136b64bc76c061c6b027ad41760: $$V_{sum}$$
 		},
 		{
 			"type": "image",
-			"version": 36,
-			"versionNonce": 1888323541,
-			"isDeleted": false,
+			"version": 37,
+			"versionNonce": 915611835,
+			"isDeleted": true,
 			"id": "bWatmeHV",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
@@ -6365,7 +6359,7 @@ e1af1dfd85bba136b64bc76c061c6b027ad41760: $$V_{sum}$$
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1679346547472,
+			"updated": 1679350661306,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -6377,9 +6371,9 @@ e1af1dfd85bba136b64bc76c061c6b027ad41760: $$V_{sum}$$
 		},
 		{
 			"type": "image",
-			"version": 231,
-			"versionNonce": 1404358037,
-			"isDeleted": false,
+			"version": 233,
+			"versionNonce": 674710997,
+			"isDeleted": true,
 			"id": "hmLjgrQE",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
@@ -6396,13 +6390,8 @@ e1af1dfd85bba136b64bc76c061c6b027ad41760: $$V_{sum}$$
 			"seed": 67759,
 			"groupIds": [],
 			"roundness": null,
-			"boundElements": [
-				{
-					"id": "BFsWjWWtjFyfjvXjftEBT",
-					"type": "arrow"
-				}
-			],
-			"updated": 1679346623649,
+			"boundElements": [],
+			"updated": 1679350661306,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -6414,9 +6403,9 @@ e1af1dfd85bba136b64bc76c061c6b027ad41760: $$V_{sum}$$
 		},
 		{
 			"type": "image",
-			"version": 49,
-			"versionNonce": 1485434491,
-			"isDeleted": false,
+			"version": 51,
+			"versionNonce": 237530619,
+			"isDeleted": true,
 			"id": "XPN0bh6j",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
@@ -6433,13 +6422,8 @@ e1af1dfd85bba136b64bc76c061c6b027ad41760: $$V_{sum}$$
 			"seed": 41592,
 			"groupIds": [],
 			"roundness": null,
-			"boundElements": [
-				{
-					"id": "l1P_SmUt-pEfq3nHvIgxX",
-					"type": "arrow"
-				}
-			],
-			"updated": 1679346662809,
+			"boundElements": [],
+			"updated": 1679350661306,
 			"link": null,
 			"locked": false,
 			"status": "pending",
