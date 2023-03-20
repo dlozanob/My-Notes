@@ -28,8 +28,21 @@
                 "file": "Excalidraw/whiteboard.excalidraw.md"
               }
             }
+          },
+          {
+            "id": "0de2a41c39b405d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cap. 3. Solución de las ecuaciones de estado de sistemas LTI.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -90,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estática de Fluidos.md",
+                "file": "Cap. 3. Solución de las ecuaciones de estado de sistemas LTI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Estática de Fluidos.md",
+                "file": "Cap. 3. Solución de las ecuaciones de estado de sistemas LTI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estática de Fluidos.md"
+                "file": "Cap. 3. Solución de las ecuaciones de estado de sistemas LTI.md"
               }
             }
           },
@@ -181,11 +194,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6f94ab9ba3391e68",
+  "active": "0de2a41c39b405d3",
   "lastOpenFiles": [
-    "Linked note.md",
-    "Estática de Fluidos.md",
+    "Señales y Sistemas II.md",
     "Excalidraw/whiteboard.excalidraw.md",
+    "Estática de Fluidos.md",
+    "Linked note.md",
     "attachments/Pasted image 20230320121941.png",
     "LaTeX.md",
     "attachments/Pasted image 20230320120053.png",
@@ -201,7 +215,6 @@
     "attachments/Pasted image 20230319223818.png",
     "attachments/Pasted image 20230319223618.png",
     "attachments/Pasted image 20230319223558.png",
-    "Señales y Sistemas II.md",
     "Tema 4. Matemáticas financieras.md",
     "Fundamentos de Mecánica.md",
     "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
