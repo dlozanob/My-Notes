@@ -110,4 +110,29 @@ $$
 
 Su diagonal son sus valores propios. La matriz $\bar{A}$ se conoce como _matriz de Jordan_.
 
-Se puede interpretar como 
+Cambiamos las coordenadas:
+
+$$
+\begin{align*}
+	z = Tx
+\end{align*}
+$$
+
+Expresando dinámicamente este sistema:
+
+$$
+\begin{align*}
+	\dot{z} &= T\dot{x} \\
+	&= T(Ax) \\
+	&= TAT^{-1}z \\
+	&=\bar{A}z
+\end{align*}
+$$
+
+Cuya respuesta es:
+
+$$
+\begin{align*}
+	z(t) =
+\end{align*}
+$$
