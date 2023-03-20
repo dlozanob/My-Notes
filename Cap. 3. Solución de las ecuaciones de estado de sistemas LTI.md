@@ -23,7 +23,7 @@ $$
 La entrada $u \neq 0$. Las condiciones iniciales son cero.
 
 
-## Solución del sistema en su respuesta natural
+## Solución del sistema en su respuesta natural: Forma
 
 El caso más simple, es cuando tenemos una sola variable (caso escalar):
 
