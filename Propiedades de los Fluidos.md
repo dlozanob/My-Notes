@@ -337,7 +337,7 @@ De tal manera:
 
 $$
 \begin{align*}
-	\frac{\triangle u}{\triangle r} = \frac{\omega R_{in} - 0}{R_{in} - R_{ext}} = -400\pi[s^{-1}]
+	\frac{\triangle u}{\triangle r} = \frac{\omega R_{in} - 0}{R_{in} - R_{ext}} = -400\pi s^{-1}
 \end{align*}
 $$ 
 Ahora se halla el esfuerzo cortante:
