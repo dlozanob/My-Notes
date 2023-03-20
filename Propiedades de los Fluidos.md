@@ -170,6 +170,7 @@ $$
 
 
 La deducción de $k$ en términos de $\rho$ es:
+
 $$
 \begin{align*}
 	\rho &= \frac{m}{V} \\\\
@@ -177,6 +178,7 @@ $$
 	dV &= -\frac{V^{2}}{m}d\rho \\\\
 \end{align*}
 $$
+
 Sustituir en $k$ para obtener $k = \rho \biggr(\frac{\partial P}{\partial \rho}\biggr)_{T}$
 
 >[!Note]
