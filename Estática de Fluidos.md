@@ -396,6 +396,21 @@ Ahora bien, si un cuerpo flota, se debe cumplir:
 
 $$
 \begin{align*}
-	F_{B} = W
+	F_{B} &= W \\
+	\rho_{f}gV_{sum} &= \rho_{s}gV_{s}
 \end{align*}
 $$
+
+Por tanto:
+
+$$
+\begin{align*}
+	\boxed{\frac{V_{sum}}{\rho_{s}} = \frac{V_{s}}{\rho_{f}}}
+\end{align*}
+$$
+
+- $V_{sum}$ : Volumen sumergido
+- $V_{s}$ : Volumen del sólido
+- $\rho_{f}$ : Densidad del fluido
+- $\rho_{s}$ : Densidad del sólido
+
