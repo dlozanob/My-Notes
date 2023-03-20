@@ -114,12 +114,17 @@ Se sabe que:
 
 $$
 \begin{align*}
-	T^{-1} = 
+	T^{-1} = \begin{pmatrix}
+v_{1_{{1}}} & v_{2_{{1}}} & v_{3_{{1}}} & . & v_{n_{{1}}} \\
+v_{1_{{2}}} & v_{2_{{2}}} & v_{3_{{2}}} & . & v_{n_{{2}}} \\
+v_{1_{{3}}} & v_{2_{{3}}} & v_{3_{{3}}} & . & v_{n_{{3}}} \\
+. & . & . & . & . \\
+v_{1_{{m}}} & v_{2_{{m}}} & v_{3_{{m}}} & . & v_{n_{{m}}}
+\end{pmatrix}
 \end{align*}
 $$
 
-
-
+Donde $\vec{v}_{i}$ son los vectores propios de $A$. Tal que hay $n$ vectores propios de dimensión $m$.
 
 
 Cambiamos las coordenadas:
