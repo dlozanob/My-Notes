@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Estática de Fluidos.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -28,17 +28,8 @@
                 "file": "Excalidraw/whiteboard.excalidraw.md"
               }
             }
-          },
-          {
-            "id": "82997b0faf2b3e7e",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,6 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Estática de Fluidos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Estática de Fluidos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +129,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Estática de Fluidos.md"
+              }
             }
           },
           {
@@ -186,10 +181,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "82997b0faf2b3e7e",
+  "active": "6f94ab9ba3391e68",
   "lastOpenFiles": [
-    "Estática de Fluidos.md",
+    "attachments/Pasted image 20230320155520.png",
     "Excalidraw/whiteboard.excalidraw.md",
+    "Estática de Fluidos.md",
+    "attachments/Pasted image 20230320155510.png",
+    "Excalidraw/attachments/Pasted Image 20230320155508_992.png",
+    "attachments/Pasted image 20230320155458.png",
     "Cap. 3. Solución de las ecuaciones de estado de sistemas LTI.md",
     "Señales y Sistemas II.md",
     "Linked note.md",
@@ -204,9 +203,6 @@
     "Excalidraw/blackboard.excalidraw.md",
     "attachments/Pasted image 20230319223905.png",
     "attachments/Pasted image 20230319223834.png",
-    "attachments/Pasted image 20230319223818.png",
-    "attachments/Pasted image 20230319223618.png",
-    "attachments/Pasted image 20230319223558.png",
     "Tema 4. Matemáticas financieras.md",
     "Fundamentos de Mecánica.md",
     "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
@@ -224,7 +220,6 @@
     "Tema 2. Función de oferta y demanda.md",
     "consistant-report.md",
     "Finanzas.md",
-    "Módulo 6.md",
     "attachments",
     "New folder",
     "Untitled.canvas"

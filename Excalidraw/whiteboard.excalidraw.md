@@ -8,6 +8,10 @@ tags: [excalidraw]
 
 
 # Text Elements
+
+# Embedded files
+e47ef2c287359650cafa4270ff20b4dd3ac0a607: [[attachments/Pasted Image 20230320155508_992.png]]
+
 %%
 # Drawing
 ```json
@@ -16,6 +20,38 @@ tags: [excalidraw]
 	"version": 2,
 	"source": "https://excalidraw.com",
 	"elements": [
+		{
+			"id": "ASwrqlTpiJFNnacgxrptU",
+			"type": "image",
+			"x": 112.74755918567763,
+			"y": 15.82336742002542,
+			"width": 314.9792275734727,
+			"height": 338.33440076028336,
+			"angle": 0,
+			"strokeColor": "transparent",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 1414840629,
+			"version": 43,
+			"versionNonce": 1120588379,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1679345715687,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "e47ef2c287359650cafa4270ff20b4dd3ac0a607",
+			"scale": [
+				1,
+				1
+			]
+		},
 		{
 			"type": "image",
 			"version": 210,
@@ -5901,10 +5937,10 @@ tags: [excalidraw]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": "bar",
 		"currentItemEndArrowhead": "bar",
-		"scrollX": 371.96416116949024,
-		"scrollY": 239.09875092217743,
+		"scrollX": 261.2061259966581,
+		"scrollY": 168.52264419082513,
 		"zoom": {
-			"value": 0.8500000000000002
+			"value": 0.9700000000000003
 		},
 		"currentItemRoundness": "sharp",
 		"gridSize": null,

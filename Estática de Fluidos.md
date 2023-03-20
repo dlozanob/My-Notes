@@ -363,3 +363,19 @@ Cuando se tienen varios fluidos, $F_{R}$ es la superposición de las fuerzas res
 
 ![](attachments/Pasted%20image%2020230318214339.png)
 
+
+## Flotación
+
+Se considera una placa como la que se muestra en la imagen:
+
+![](attachments/Pasted%20image%2020230320155520.png)
+
+La fuerza hidrostática sobre la cara superior e inferior son:
+
+$$
+\begin{align*}
+	F_{s,y} = -(p_{0} + \rho_{f}gs)A \\\\
+	F_{i,y} = (p_{0} + \rho_{f}g(s + h))A
+\end{align*}
+$$
+
