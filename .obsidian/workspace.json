@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fundamentos de Mecánica de Fluidos.md",
+                "file": "Estática de Fluidos.md",
                 "mode": "preview",
                 "source": false
               }
@@ -80,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fundamentos de Mecánica de Fluidos.md",
+                "file": "Estática de Fluidos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fundamentos de Mecánica de Fluidos.md",
+                "file": "Estática de Fluidos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fundamentos de Mecánica de Fluidos.md"
+                "file": "Estática de Fluidos.md"
               }
             }
           },

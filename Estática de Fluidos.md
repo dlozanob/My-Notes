@@ -175,7 +175,7 @@ $$
 $$
 
 
-## Fuerza hidrostática sobre superficies sumergidas
+## Fuerza hidrostática sobre superficies planas sumergidas
 
 Considerando un fluido incompresible y en reposo, se sabe que:
 
