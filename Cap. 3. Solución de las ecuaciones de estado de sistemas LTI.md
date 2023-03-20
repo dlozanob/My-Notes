@@ -190,12 +190,12 @@ La _forma de Jordan_ es la matriz de bases propias repetidas:
 
 $$
 \begin{align*}
-	J = \begin{pmatrix}
+	TAT^{-1} = \begin{pmatrix}
 \lambda_{1} & 0 & 0 & . & 0 \\
 0 & \lambda_{2} & 0 & . & 0 \\
 0 & 0 & \lambda_{3} & . & 0 \\
 0 & 0 & 0 & . & \lambda_{n}
-\end{pmatrix}
+\end{pmatrix} = J
 \end{align*}
 $$
 
@@ -203,16 +203,17 @@ Con la particularidad de que los valores propios repetidos (los cuales siempre a
 
 Ejemplo:
 
+![](attachments/Pasted%20image%2020230319223818.png)
+
+Ejemplo:
+
+![](attachments/Pasted%20image%2020230319223905.png)
+
+
+Donde:
+
 $$
 \begin{align*}
-	\begin{pmatrix}
-\lambda_{1} & 1 & 0 & 0  & 0 & 0\\
-0 & \lambda_{1} & 0 & 0  & 0 & 0\\
-0 & 0 & \lambda_{2} & 1  & 0 & 0\\
-0 & 0 & 0  & \lambda_{2} & 1  & 0 \\
-0 & 0 & 0 & 0 & \lambda_{2}  & 0 \\
-0 & 0 & 0 & 0 & 0 & \lambda_{3}
-\end{pmatrix}
+	e^{ At } = T^{-1}
 \end{align*}
 $$
-
