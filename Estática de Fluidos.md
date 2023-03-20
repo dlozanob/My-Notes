@@ -177,7 +177,7 @@ $$
 
 - __Ejemplo__ :
 	- $h_{0} = 0.05\sin(30)$
-	- $h_{f}$ = ? ; Si $P_{A0} = P_{Af} - 10kPa$ ; $P_{Bf} = P_{B0}$
+	- $h_{f}$ = ? ; Si $P_{A_{0}} = P_{A_{f}} - 10kPa$ ; $P_{B_{f}} = P_{B_{0}}$
 
 ![](attachments/Pasted%20image%2020230320114957.png)
 
@@ -198,12 +198,20 @@ $$
 \end{align*}
 $$
 
-Ahora bien, se plantea el recorrido del fluido para el estado inicial:
+Ahora bien, se plantea el recorrido de fluido para el estado inicial:
 
 $$
 \begin{align*}
-	P_{B_{0}} - P_{A_{0}} &= (P_{1} - P_{A}) + (P_{2} - P_{1}) + (P_{B} - P_{2}) \\
-	P_{B_{0}} = P_{A_{0}} - \gamma_{A}
+	&P_{B_{0}} - P_{A_{0}} = (P_{1} - P_{A}) + (P_{2} - P_{1}) + (P_{B} - P_{2}) \\
+	&P_{B_{0}} = P_{A_{0}} - \gamma_{A}(-0.1) - \gamma_{M}(-0.05\sin(30°)) - \gamma_{B}(0.08) \\
+	&P_{B_{0}} = P_{A_{0}} + 0.1\gamma_{A} + \frac{0.05}{2}\gamma_{M} - 0.08\gamma_{B}
+\end{align*}
+$$
+Análogamente para el recorrido de fluido para el estado final:
+
+$$
+\begin{align*}
+	P_{B_{f}} = P_{A_{f}} + \gamma_{A}(0.1 - \Delta h)
 \end{align*}
 $$
 
