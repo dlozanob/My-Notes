@@ -42,14 +42,6 @@ $$
 \end{align*}
 $$
 
-La solución de este sistema es:
-
-$$
-\begin{align*}
-	\boxed{x(t) = e^{At}x_{0}}
-\end{align*}
-$$
-
 Por series de Taylor se sabe que:
 
 $$
@@ -68,22 +60,21 @@ $$
 \end{align*}
 $$
 
-Derviando lo anterior se halla:
+Derivando lo anterior se halla:
 
 $$
 \begin{align*}
-	
+	\frac{de^{At}}{dt} &= A + A^{2}t + \frac{A^{3}t^{2}}{2!} + \dots \\
+	&=A\sum_{n=0}^{\infty} \frac{(At)^{n}}{n!} \\\\
+	\frac{de^{At}}{dt} &= Ae^{ At }
 \end{align*}
 $$
 
-
-
-
-Además se cumple:
+Entonces se concluye que:
 
 $$
 \begin{align*}
-	\frac{de^{At}}{dt} = Ae^{At}
+	\boxed{x(t) = e^{ At }x_{0}}
 \end{align*}
 $$
 
