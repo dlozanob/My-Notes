@@ -193,10 +193,19 @@ Entonces:
 
 $$
 \begin{align*}
-	
+	l &= \Delta h\sin(30°) \\
+	l &= \frac{\Delta h}{2}
 \end{align*}
 $$
 
+Ahora bien, se plantea el recorrido del fluido para el estado inicial:
+
+$$
+\begin{align*}
+	P_{B_{0}} - P_{A_{0}} &= (P_{1} - P_{A}) + (P_{2} - P_{1}) + (P_{B} - P_{2}) \\
+	P_{B_{0}} = P_{A_{0}} - \gamma_{A}
+\end{align*}
+$$
 
 
 

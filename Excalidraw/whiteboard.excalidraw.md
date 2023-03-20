@@ -2848,8 +2848,8 @@ d9d2c2ec748aa7cd3a20ff1544bf71f367d7431d: [[attachments/Pasted Image 20230320114
 		},
 		{
 			"type": "arrow",
-			"version": 61,
-			"versionNonce": 92855029,
+			"version": 73,
+			"versionNonce": 8762229,
 			"isDeleted": false,
 			"id": "3kAtnYAUiMa1MW0CU3Sww",
 			"fillStyle": "hachure",
@@ -2868,7 +2868,7 @@ d9d2c2ec748aa7cd3a20ff1544bf71f367d7431d: [[attachments/Pasted Image 20230320114
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1679332780357,
+			"updated": 1679332949449,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -3301,8 +3301,8 @@ d9d2c2ec748aa7cd3a20ff1544bf71f367d7431d: [[attachments/Pasted Image 20230320114
 		},
 		{
 			"type": "arrow",
-			"version": 65,
-			"versionNonce": 406731483,
+			"version": 77,
+			"versionNonce": 2054761051,
 			"isDeleted": false,
 			"id": "SEC7MUaKGmOab9-3l5SUT",
 			"fillStyle": "hachure",
@@ -3321,7 +3321,7 @@ d9d2c2ec748aa7cd3a20ff1544bf71f367d7431d: [[attachments/Pasted Image 20230320114
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1679332780357,
+			"updated": 1679332949450,
 			"link": null,
 			"locked": false,
 			"startBinding": {
