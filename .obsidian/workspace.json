@@ -28,8 +28,19 @@
                 "file": "Excalidraw/whiteboard.excalidraw.md"
               }
             }
+          },
+          {
+            "id": "7baa2f08c5efcd06",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/blackboard.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -90,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estática de Fluidos.md",
+                "file": "Excalidraw/blackboard.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Estática de Fluidos.md",
+                "file": "Excalidraw/blackboard.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estática de Fluidos.md"
+                "file": "Excalidraw/blackboard.excalidraw.md"
               }
             }
           },
@@ -181,11 +192,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6f94ab9ba3391e68",
+  "active": "7baa2f08c5efcd06",
   "lastOpenFiles": [
-    "attachments/Pasted image 20230320155520.png",
     "Excalidraw/whiteboard.excalidraw.md",
     "Estática de Fluidos.md",
+    "Excalidraw/blackboard.excalidraw.md",
+    "attachments/Pasted image 20230320155520.png",
     "attachments/Pasted image 20230320155510.png",
     "Excalidraw/attachments/Pasted Image 20230320155508_992.png",
     "attachments/Pasted image 20230320155458.png",
@@ -200,9 +212,7 @@
     "Excalidraw/attachments/Pasted Image 20230320114956_932.png",
     "Propiedades de los Fluidos.md",
     "Fundamentos de Mecánica de Fluidos.md",
-    "Excalidraw/blackboard.excalidraw.md",
     "attachments/Pasted image 20230319223905.png",
-    "attachments/Pasted image 20230319223834.png",
     "Tema 4. Matemáticas financieras.md",
     "Fundamentos de Mecánica.md",
     "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",

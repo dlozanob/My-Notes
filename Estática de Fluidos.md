@@ -383,9 +383,17 @@ La fuerza de flotación resultante es:
 
 $$
 \begin{align*}
-	F_{B,y} &= \rho_{f}ghA \\
-	F_{B,y} &= \rho_{f}gV 
+	F_{B,y} = \rho_{f}ghA \\\\
+	\boxed{F_{B} = \rho_{f}gV}
 \end{align*}
 $$
 
 Se concluye que la fuerza de flotación es el peso del líquido desplazado por la placa.
+
+Ahora bien, si un cuerpo flota, se debe cumplir:
+
+$$
+\begin{align*}
+	F_{B} = W
+\end{align*}
+$$

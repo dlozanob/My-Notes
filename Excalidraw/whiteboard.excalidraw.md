@@ -8,10 +8,6 @@ tags: [excalidraw]
 
 
 # Text Elements
-
-# Embedded files
-e47ef2c287359650cafa4270ff20b4dd3ac0a607: [[attachments/Pasted Image 20230320155508_992.png]]
-
 %%
 # Drawing
 ```json
@@ -38,11 +34,11 @@ e47ef2c287359650cafa4270ff20b4dd3ac0a607: [[attachments/Pasted Image 20230320155
 			"groupIds": [],
 			"roundness": null,
 			"seed": 1414840629,
-			"version": 43,
-			"versionNonce": 1120588379,
-			"isDeleted": false,
+			"version": 44,
+			"versionNonce": 1679150843,
+			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1679345715687,
+			"updated": 1679346288246,
 			"link": null,
 			"locked": false,
 			"status": "pending",
