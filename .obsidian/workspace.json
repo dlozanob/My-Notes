@@ -23,8 +23,12 @@
             "id": "aa09381acef3325c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ],
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md"
+              }
             }
           },
           {
@@ -178,6 +186,7 @@
   },
   "active": "aa09381acef3325c",
   "lastOpenFiles": [
+    "Señales y Sistemas II.md",
     "Propiedades de los Fluidos.md",
     "LaTeX.md",
     "Fundamentos de Mecánica de Fluidos.md",
@@ -194,7 +203,6 @@
     "Excalidraw/attachments/Pasted Image 20230320155508_992.png",
     "attachments/Pasted image 20230320155458.png",
     "Cap. 3. Solución de las ecuaciones de estado de sistemas LTI.md",
-    "Señales y Sistemas II.md",
     "Linked note.md",
     "attachments/Pasted image 20230320121941.png",
     "attachments/Pasted image 20230320120053.png",
