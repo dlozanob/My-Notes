@@ -176,9 +176,16 @@ $$
 
 
 - __Ejemplo__ :
-Se desea determinar $\Delta h$
+	- $h_{0} = 0.05\sin(30)$
+	- $h_{f}$ = ? ; Si $P_{A0} = P_{Af} - 10kPa$ ; $P_{Bf} = P_{B0}$
 
 ![](attachments/Pasted%20image%2020230320114957.png)
+
+El estado final es el siguiente:
+
+
+
+
 
 
 
