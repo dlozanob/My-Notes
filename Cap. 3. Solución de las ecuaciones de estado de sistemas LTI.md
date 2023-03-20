@@ -217,7 +217,6 @@ Donde:
 
 $$
 \begin{align*}
-	e^{ At } = T^{-1}e^{ Jt }T \\\\
 	e^{ Jt } = \begin{pmatrix}
 e^{ J_{1}t } & 0 & 0 & . & 0 \\
 0 & e^{ J_{2}t } & 0 & . & 0 \\
@@ -232,7 +231,15 @@ e^{ J_{1}t } & 0 & 0 & . & 0 \\
 . & . & . & . & . \\
 0 & 0 & 0 & . & t \\
 0 & 0 & 0 & . & 1
-\end{pmatrix}
+\end{pmatrix}e^{ \lambda_{i}t }
+\end{align*}
+$$
+
+Por tanto:
+
+$$
+\begin{align*}
+	\boxed{x(t) = T^{-1}e^{ Jt }Tx_{0}}
 \end{align*}
 $$
 
