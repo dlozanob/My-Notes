@@ -78,7 +78,7 @@ $$
 \end{align*}
 $$
 
-Sin embargo, dar una solución de esta manera resulta una tarea tediosa y un resultado engorroso de leer. 
+Sin embargo, dar una solución de esta manera resulta una tarea tediosa y un resultado engorroso de leer.
 En la siguiente sección, se dará una solución mucho más simple.
 
 
@@ -88,9 +88,12 @@ De nuevo, se considera el sistema:
 
 $$
 \begin{align*}
-	\dot{x} = Ax
+	\dot{x} = Ax \\
+	x(t) = e^{ At }x_{0}
 \end{align*}
 $$
+
+Se quiere calcular $e^{ At }$ de un manera simple usando diagonalización.
 
 Si $A$ tiene valores propios no repetidos, existe un a matriz $T$ (_matriz de transición_), tal que:
 
@@ -126,7 +129,6 @@ $$
 
 Donde $\vec{v}_{i}$ son los vectores propios de $A$. Tal que hay $n$ vectores propios de dimensión $m$.
 
-El objetivo de esto es calcular $e^{ At }$ de una manera simple.
 __Procedimiento:__
 
 1. Aplicar la transformación $A$ a los vectores propios:
@@ -190,7 +192,14 @@ $$
 . & . & . & . & . \\
 0 & 0 & 0 & . & \sum_{n=0}^{\infty} \frac{\lambda_{m}^{n}t^{n}}{n!}
 \end{pmatrix} \\\\
-	e^{ \bar{A}t } = \begin{pmatrix}
+\end{align*}
+$$
+
+Entonces:
+
+$$
+\begin{align*}
+		e^{ \bar{A}t } = \begin{pmatrix}
 e^{ \lambda_{1}t } & 0 & 0 & . & 0 \\
 0 & e^{ \lambda_{2}t } & 0 & . & 0 \\
 0 & 0 & e^{ \lambda_{3}t } & . & 0 \\
