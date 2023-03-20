@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "00a733e842a5e6ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Propiedades de los Fluidos.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Propiedades de los Fluidos.md",
+                "file": "Estática de Fluidos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Propiedades de los Fluidos.md",
+                "file": "Estática de Fluidos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Propiedades de los Fluidos.md"
+                "file": "Estática de Fluidos.md"
               }
             }
           },
@@ -184,8 +171,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "00a733e842a5e6ad",
+  "active": "6f94ab9ba3391e68",
   "lastOpenFiles": [
+    "Propiedades de los Fluidos.md",
     "Estática de Fluidos.md",
     "LaTeX.md",
     "Fundamentos de Mecánica de Fluidos.md",
@@ -198,7 +186,6 @@
     "attachments/Pasted image 20230319223558.png",
     "Excalidraw/whiteboard.excalidraw.md",
     "Señales y Sistemas II.md",
-    "Propiedades de los Fluidos.md",
     "Tema 4. Matemáticas financieras.md",
     "Fundamentos de Mecánica.md",
     "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
