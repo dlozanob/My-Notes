@@ -340,7 +340,7 @@ $$
 	\frac{\triangle u}{\triangle r} = \frac{\omega R_{in} - 0}{R_{in} - R_{ext}} = -400\pi[s^{-1}]
 \end{align*}
 $$ 
-Ahora se halla el esfuerzo cortante:
+
 
 ![](attachments/Pasted%20image%2020230310174311.png)
 
