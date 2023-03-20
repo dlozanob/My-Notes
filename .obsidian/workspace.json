@@ -8,27 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d6b6f2fda0b586e1",
+            "id": "6b93c86eaf95d517",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTML.md",
+                "file": "LaTeX.md",
                 "mode": "preview",
                 "source": false
               }
             }
-          },
-          {
-            "id": "6b93c86eaf95d517",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,6 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "LaTeX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,6 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "LaTeX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +118,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "LaTeX.md"
+              }
             }
           },
           {
