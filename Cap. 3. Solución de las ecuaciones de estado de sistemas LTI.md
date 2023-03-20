@@ -206,10 +206,12 @@ Ejemplo:
 $$
 \begin{align*}
 	\begin{pmatrix}
-\lambda_{1} & 0 & 0 & 0 \\
-0 & \lambda_{2} & 1 & 0 \\
-0 & 0 & \lambda_{2} & 0 \\
-0 & 0 & 0 & \lambda_{3}
+\lambda_{1} & 1 & 0 & 0  & 0 & 0\\
+0 & \lambda_{1} & 0 & 0  & 0 & 0\\
+0 & 0 & \lambda_{2} & 1  & 0 & 0\\
+0 & 0 & 0  & \lambda_{2} & 1  & 0 \\
+0 & 0 & 0 & 0 & \lambda_{2}  & 0 \\
+0 & 0 & 0 & 0 & 0 & \lambda_{3}
 \end{pmatrix}
 \end{align*}
 $$
