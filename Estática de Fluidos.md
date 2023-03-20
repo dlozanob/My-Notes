@@ -209,6 +209,7 @@ $$
 	&P_{B_{0}} = P_{A_{0}} + 0.1\gamma_{A} + \frac{0.05}{2}\gamma_{M} - 0.08\gamma_{B} \tag{I}
 \end{align*}
 $$
+
 Análogamente para el recorrido de fluido para el estado final:
 
 $$
