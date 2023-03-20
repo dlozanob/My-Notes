@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cap. 3. Solución de las ecuaciones de estado de sistemas LTI.md",
+                "file": "Excalidraw/blackboard.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cap. 3. Solución de las ecuaciones de estado de sistemas LTI.md",
+                "file": "Excalidraw/blackboard.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cap. 3. Solución de las ecuaciones de estado de sistemas LTI.md"
+                "file": "Excalidraw/blackboard.excalidraw.md"
               }
             }
           },
@@ -202,11 +202,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "19653c757d5e2c33",
+  "active": "65c4e2bbf444037f",
   "lastOpenFiles": [
-    "Fundamentos de Mecánica de Fluidos.md",
-    "Excalidraw/blackboard.excalidraw.md",
     "Cap. 3. Solución de las ecuaciones de estado de sistemas LTI.md",
+    "Excalidraw/blackboard.excalidraw.md",
+    "Fundamentos de Mecánica de Fluidos.md",
     "Excalidraw/whiteboard.excalidraw.md",
     "Señales y Sistemas II.md",
     "Propiedades de los Fluidos.md",

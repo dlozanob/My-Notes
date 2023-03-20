@@ -199,13 +199,18 @@ $$
 \end{align*}
 $$
 
-Con la particularidad de que los valores propios repetidos (los cuales siempre aparecen consecutivos en la diagonal de la matriz) generan $1$'s en la diagonal supe
-Donde:
+Con la particularidad de que los valores propios repetidos (los cuales siempre aparecen consecutivos en la diagonal de la matriz) generan $1$'s en la diagonal superior.
+
+Ejemplo:
 
 $$
 \begin{align*}
-	J_{i} = \begin{pmatrix}
-\lambda_{1} & 0 & 0 & . & 0
+	\begin{pmatrix}
+\lambda_{1} & 0 & 0 & 0 \\
+0 & \lambda_{2} & 1 & 0 \\
+0 & 0 & \lambda_{2} & 0 \\
+0 & 0 & 0 & \lambda_{3}
 \end{pmatrix}
 \end{align*}
 $$
+
