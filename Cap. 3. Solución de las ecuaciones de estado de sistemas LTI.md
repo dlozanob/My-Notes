@@ -101,7 +101,7 @@ $$
 \lambda_{1} & 0 & 0 & . & 0 \\
 0 & \lambda_{2} & 0 & . & 0 \\
 0 & 0 & \lambda_{3} & . & 0 \\
-0 & 0 & 0 & . & 0 \\
+. & . & . & . & . \\
 0 & 0 & 0 & . & \lambda_{n}
 \end{pmatrix}
 \end{align*}
@@ -163,12 +163,14 @@ $$
 \sum_{n=0}^{\infty} \frac{\lambda_{1}^{n}t^{n}}{n!} & 0 & 0 & . & 0 \\
 0 & \sum_{n=0}^{\infty} \frac{\lambda_{2}^{n}t^{n}}{n!} & 0 & . & 0 \\
 0 & 0 & \sum_{n=0}^{\infty} \frac{\lambda_{3}^{n}t^{n}}{n!} & . & 0 \\
+. & . & . & . & . \\
 0 & 0 & 0 & . & \sum_{n=0}^{\infty} \frac{\lambda_{m}^{n}t^{n}}{n!}
 \end{pmatrix} \\\\
 	e^{ \bar{A}t } = \begin{pmatrix}
 e^{ \lambda_{1}t } & 0 & 0 & . & 0 \\
 0 & e^{ \lambda_{2}t } & 0 & . & 0 \\
 0 & 0 & e^{ \lambda_{3}t } & . & 0 \\
+.  & . & . & . & .\\
 0 & 0 & 0 & . & e^{ \lambda_{m}t }
 \end{pmatrix}
 \end{align*}
@@ -194,6 +196,7 @@ $$
 \lambda_{1} & 0 & 0 & . & 0 \\
 0 & \lambda_{2} & 0 & . & 0 \\
 0 & 0 & \lambda_{3} & . & 0 \\
+. & . & . & . & . \\
 0 & 0 & 0 & . & \lambda_{n}
 \end{pmatrix} = J
 \end{align*}
@@ -214,6 +217,13 @@ Donde:
 
 $$
 \begin{align*}
-	e^{ At } = T^{-1}
+	e^{ At } = T^{-1}e^{ Jt }T \\\\
+	e^{ Jt } = \begin{pmatrix}
+e^{ J_{1}t } & 0 & 0 & . & 0 \\
+0 & e^{ J_{2}t } & 0 & . & 0 \\
+0 & 0 & e^{ J_{3}t } & . & 0  \\
+. & . & . & . & . \\
+0 & 0 & 0 & . & e^{  }
+\end{pmatrix}
 \end{align*}
 $$
