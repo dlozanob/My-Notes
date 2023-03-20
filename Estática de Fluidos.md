@@ -203,18 +203,26 @@ Ahora bien, se plantea el recorrido de fluido para el estado inicial:
 $$
 \begin{align*}
 	&P_{B_{0}} - P_{A_{0}} = (P_{1} - P_{A}) + (P_{2} - P_{1}) + (P_{B} - P_{2}) \\
-	&P_{B_{0}} = P_{A_{0}} - \gamma_{A}(-0.1) - \gamma_{M}(-0.05\sin(30°)) - \gamma_{B}(0.08) \\
-	&P_{B_{0}} = P_{A_{0}} + 0.1\gamma_{A} + \frac{0.05}{2}\gamma_{M} - 0.08\gamma_{B}
+	&P_{B_{0}} = P_{A_{0}} - \gamma_{A}(-0.1) - \gamma_{M}(-0.05\sin(30°)) - \gamma_{B}(0.08) \\\\
+	&P_{B_{0}} = P_{A_{0}} + 0.1\gamma_{A} + \frac{0.05}{2}\gamma_{M} - 0.08\gamma_{B} \tag{I}
 \end{align*}
 $$
 Análogamente para el recorrido de fluido para el estado final:
 
 $$
 \begin{align*}
-	P_{B_{f}} = P_{A_{f}} + \gamma_{A}(0.1 - \Delta h)
+	P_{B_{f}} = P_{A_{f}} + \gamma_{A}(0.1 - \Delta h) + \gamma_{M}\left( \frac{\Delta h}{2} + \frac{0.05}{2} + \Delta h \right) - \gamma_{B}\left( 0.08 + \frac{\Delta h}{2} \right) \\\\
+	P_{B_{0}} = P_{A_{0}} - 10kPa + \gamma_{A}(0.1 - \Delta h) + \gamma_{M}\left( \frac{\Delta h}{2} + \frac{0.05}{2} + \Delta h \right) - \gamma_{B}\left( 0.08 + \frac{\Delta h}{2} \right) \tag{II}
 \end{align*}
 $$
 
+Igualando $(I)$ y $(II)$:
+
+$$
+\begin{align*}
+	\Delta h = \frac{10kPa}{\frac{3}{2}\gamma_{M} - \gamma_{A} - \frac{1}{2}\gamma_{B}}
+\end{align*}
+$$
 
 
 
