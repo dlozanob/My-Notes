@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linked note.md",
-                "mode": "source",
+                "file": "Estática de Fluidos.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linked note.md",
+                "file": "Estática de Fluidos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linked note.md",
+                "file": "Estática de Fluidos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linked note.md"
+                "file": "Estática de Fluidos.md"
               }
             }
           },
@@ -183,6 +183,7 @@
   },
   "active": "6f94ab9ba3391e68",
   "lastOpenFiles": [
+    "Linked note.md",
     "Estática de Fluidos.md",
     "Excalidraw/whiteboard.excalidraw.md",
     "attachments/Pasted image 20230320121941.png",
