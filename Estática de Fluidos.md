@@ -183,6 +183,8 @@ $$
 
 El estado final es el siguiente:
 
+![](attachments/Pasted%20image%2020230320115926.png)
+
 
 
 
