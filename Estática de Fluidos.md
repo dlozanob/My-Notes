@@ -187,6 +187,12 @@ El estado final es el siguiente:
 
 El fluido es incompresible, el volumen desplazado es el mismo. Entonces:
 
+$$
+\begin{align*}
+	V = \left( \frac{\pi}{4}(\varnothing \sin(30°))^{2} \right)\left( \frac{\Delta h}{\sin(30°)} \right)
+\end{align*}
+$$
+
 
 
 
