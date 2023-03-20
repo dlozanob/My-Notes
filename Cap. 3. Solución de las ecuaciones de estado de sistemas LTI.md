@@ -126,20 +126,57 @@ $$
 
 Donde $\vec{v}_{i}$ son los vectores propios de $A$. Tal que hay $n$ vectores propios de dimensión $m$.
 
->[!Note]
->El objetivo de esto es calcular $e^{ At }$ de una manera simple.
->Procedimiento:
->1. Aplicar la transformación $A$ a los vectores propios:
-$$AT^{-1}$$
->2. Traducir esta transformación al lenguaje del espacio formado por las bases propias:
-$$TAT^{-1}$$
->3. Estamos en el espacio formado por las bases propias. Ahora aplicamos el operador exponencial sobre $TAT^{-1}t$:
-$$e^{ TAT^{-1}t }$$
->4. Traer esta transformación a nuestro lenguaje:
-$$T^{-1}e^{ TAT^{-1}t }$$
->5. Estamos en nuestro espacio original. La transformación está aplicada sobre los vectores propios, así que para dejarla aplicada sobre las bases de nuestro espacio:
->$$T^{-1}e^{ TAT^{-1}t }T = e^{ At }$$
+El objetivo de esto es calcular $e^{ At }$ de una manera simple.
+__Procedimiento:__
 
+1. Aplicar la transformación $A$ a los vectores propios:
+
+$$
+\begin{align*}
+	AT^{-1}
+\end{align*}
+$$
+
+2. Traducir esta transformación al lenguaje del espacio formado por las bases propias:
+
+$$
+\begin{align*}
+	TAT^{-1}
+\end{align*}
+$$
+
+3. Estamos en el espacio formado por las bases propias. Ahora aplicamos el operador exponencial sobre $TAT^{-1}t$:
+
+$$
+\begin{align*}
+	e^{ TAT^{-1}t }
+\end{align*}
+$$
+
+4. Traer esta transformación a nuestro lenguaje:
+
+$$
+\begin{align*}
+	T^{-1}e^{ TAT^{-1}t }
+\end{align*}
+$$
+
+5. Estamos en nuestro espacio original. La transformación está aplicada sobre los vectores propios, así que para dejarla aplicada sobre las bases de nuestro espacio:
+
+$$
+\begin{align*}
+	T^{-1}e^{ TAT^{-1}t }T = e^{ At } \\
+	T^{-1}e^{ \bar{A}t }T = e^{ At }
+\end{align*}
+$$
+
+Entonces:
+
+$$
+\begin{align*}
+	\boxed{x(t) = T^{-1}e^{ \bar{A}t }Tx_{0}}
+\end{align*}
+$$
 
 De tal manera que:
 
