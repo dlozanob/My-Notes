@@ -110,6 +110,18 @@ $$
 
 Su diagonal son sus valores propios. La matriz $\bar{A}$ se conoce como _matriz de Jordan_.
 
+Se sabe que:
+
+$$
+\begin{align*}
+	T^{-1} = 
+\end{align*}
+$$
+
+
+
+
+
 Cambiamos las coordenadas:
 
 $$
