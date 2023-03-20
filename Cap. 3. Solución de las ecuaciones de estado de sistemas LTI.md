@@ -23,7 +23,7 @@ $$
 La entrada $u \neq 0$. Las condiciones iniciales son cero.
 
 
-## Solución del sistema en su respuesta natural: Forma
+## Solución del sistema en su respuesta natural: Forma extendida
 
 El caso más simple, es cuando tenemos una sola variable (caso escalar):
 
@@ -82,7 +82,7 @@ Sin embargo, dar una solución de esta manera resulta una tarea tediosa y un res
 En la siguiente sección, se dará una solución mucho más simple.
 
 
-## Diagonalización de sistemas
+## Solución del sistema en su respuesta natural: Forma compacta
 
 De nuevo, se considera el sistema:
 
@@ -163,5 +163,31 @@ $$
 \begin{align*}
 	T^{-1}z(t) = T^{-1}e^{ \bar{A}t }(Tx_{0}) \\\\
 	\boxed{x(t) = T^{-1}e^{ \bar{A}t }Tx_{0}}
+\end{align*}
+$$
+
+
+## Solución del sistema en su respuesta natural: Valores propios repetidos
+
+La _forma de Jordan_ es el siguiente tensor:
+
+$$
+\begin{align*}
+	J = \begin{pmatrix}
+J_{1} & 0 & 0 & . & 0 \\
+0 & J_{2} & 0 & . & 0 \\
+0 & 0 & J_{3} & . & 0 \\
+0 & 0 & 0 & . & J_{n}
+\end{pmatrix}
+\end{align*}
+$$
+
+Donde:
+
+$$
+\begin{align*}
+	J_{i} = \begin{pmatrix}
+\lambda_{1} & 0 & 0 & . & 0
+\end{pmatrix}
 \end{align*}
 $$
