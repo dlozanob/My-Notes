@@ -342,6 +342,7 @@ $$
 $$ 
 
 Ahora se halla el esfuerzo cortante:
+
 ![](attachments/Pasted%20image%2020230310174311.png)
 
 $$
