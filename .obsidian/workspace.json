@@ -29,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -91,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md",
+                "file": "Tema 2. Función de oferta y demanda.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md",
+                "file": "Tema 2. Función de oferta y demanda.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md"
+                "file": "Tema 2. Función de oferta y demanda.md"
               }
             }
           },
@@ -182,10 +181,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e2e7d108e18b5f43",
+  "active": "aeb58ef31561f279",
   "lastOpenFiles": [
-    "Tema 2. Función de oferta y demanda.md",
+    "attachments/Pasted image 20230321124323.png",
     "Excalidraw/blackboard.excalidraw.md",
+    "Tema 2. Función de oferta y demanda.md",
+    "attachments/Pasted image 20230321124314.png",
+    "attachments/Pasted image 20230321124303.png",
     "Módulo 1. Economía y matemática financiera.md",
     "Finanzas.md",
     "Ciencias Económicas y Administrativas.md",
@@ -210,8 +212,6 @@
     "Linked note.md",
     "attachments/Pasted image 20230320121941.png",
     "attachments/Pasted image 20230320120053.png",
-    "attachments/Pasted image 20230320115926.png",
-    "attachments/Pasted image 20230320114957.png",
     "Tema 4. Matemáticas financieras.md",
     "Fundamentos de Mecánica.md",
     "Cap. 1. Modelos de sistemas lineales y no lineales.md",
@@ -220,7 +220,6 @@
     "Señales y Sistemas I.md",
     "Automatización%2C Control y Robótica.md",
     "Obsidian Basics.md",
-    "Ciencias económicas y Administrativa.md",
     "attachments",
     "New folder",
     "Untitled.canvas"

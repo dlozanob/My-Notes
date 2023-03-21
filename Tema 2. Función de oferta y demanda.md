@@ -155,11 +155,20 @@ $$
 
 - Demanda elástica: $e>1$
 
+![](attachments/Pasted%20image%2020230321124314.png)
 
+Un pequeño cambio en el precio genera un cambio considerable en la cantidad demandada.
 
-
+>[!Note]
+>Caso extremo: Línea horizontal. Alto impacto en la cantidad demandada
 
 - Demanda inelástica: $e < 1$
+
+![](attachments/Pasted%20image%2020230321124323.png)
+Al cambiar el precio la cantidad demandada no se ve casi alterada.
+
+>[!Note]
+>Caso extremo: Línea vertical. El precio nunca podrá cambiar la cantidad demandada.
 
 
 
