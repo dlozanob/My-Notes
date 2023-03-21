@@ -162,3 +162,12 @@ Mecanismos de la política monetaria:
 - Préstamos de ventanilla o de redescuento (intervención) : Préstamos para recoger liquidez de la economía
 - Política de requerimientos de reservas (encajes) : Establecer el encaje mínimo que deben de tener los bancos
 
+
+- _Riesgo país_ : Es la posibilidad de pérdida que presentan las inversiones de un país con respecto a otro.
+
+$$
+\begin{align*}
+	
+\end{align*}
+$$
+
