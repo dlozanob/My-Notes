@@ -133,9 +133,7 @@ Donde $B$ es el periodo de tiempo sobre el que actua la tasa, $C$ es el periodo 
 
 >[!Note]
 >Las tasas anticipadas son más comunes que las vencidas.
->Estas son usadas en préstamos a largo plazo
-
-
+>Estas son usadas en préstamos a largo plazo, hipotecas e inversiones a plazo fijo, donde se requiere un dinero por adelantado.
 
 Se tiene la siguiente relación entre tasas efectivas vencidas ($i_{v}$) y tasas efectivas anticipadas ($i_{a}$) :
 
