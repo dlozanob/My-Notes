@@ -91,6 +91,7 @@ Ahora bien, los otros factores de las funciones de oferta y de demanda entran en
 La curva de la demanda es desplazada hacia la derecha cuando:
 - $(\uparrow)$ Renta
 - $(\uparrow)$ Precio de los sustitutos
+- $(\downarrow)$ Precio de los bienes complementarios
 - $(\uparrow)$ Gustos
 
 La curva de la oferta es desplazada hacia la derecha cuando:
@@ -142,11 +143,15 @@ Poseer mejores técnicas y procesos de manufactura más eficientes, suponen prec
 Un aumento en la expectativa de un mercado, hará que entren más empresas al negocio. Aumentando los bienes ofrecidos. Lo que produce un desplazamiento a la derecha de la curva de la oferta.
 
 
-
-
-
-
 ## Elasticidad
+
+Cuantifica el impacto que tienen los cambios en el precio sobre las cantidades demandadas u ofrecidas.
+
+$$
+\begin{align*}
+	e = \frac{\Delta \%Cantidad}{\Delta \% Precio}
+\end{align*}
+$$
 
 
 
