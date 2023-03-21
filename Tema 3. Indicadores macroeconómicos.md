@@ -152,10 +152,13 @@ Políticas del Banco de la República:
 - Política de intervención cambiaria: Mantener la estabilidad financiera
 - Política crediticia: Proponer mecanismos para regular el sistema de crédito y el endeudamiento
 
-
-
 La _tasa de intervención_ es una tasa que determina el costo mínimo de los recursos del país. Esta es fijada por las juntas directivas de los bancos centrales.
 
 >[!Note]
 >Contraer la economía significa bajar el consumo
+
+Mecanismos de la política monetaria:
+- Operaciones de mercado Abierto (OMA) : Regular la cantidad de dinero en la economía. El Banco inserta o retira dinero.
+- Préstamos de ventanilla o de redescuento (intervención) : Préstamos para recoger liquidez de la economía
+- Política de requerimientos de reservas (encajes) : Establecer el encaje mínimo que deben de tener los bancos
 
