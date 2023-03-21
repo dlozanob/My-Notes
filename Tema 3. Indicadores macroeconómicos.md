@@ -32,20 +32,45 @@ Donde:
 El _desempleo estructural_ es aquel que toma largos periodos de tiempo.  Surge por problemas en la economía, no por decisión de la gente.
 El _desempleo friccional_ es aquel que se da por un instante de tiempo. Surge por decisión de las personas.
 
-Se puede decir que una persona está empleada si en en la última semana hizo alguna de estas actividades:
-- Trabajo por el que recibe ingresos $>1$ hora.
-- Trabajo no pago $>1$ hora.
-- Hizo alg
+Se puede clasificar a la población en edad de trabajar de la siguiente manera:
+- Población activa:
+	- Población empleado
+	- Desempleado
+
+
+Se puede decir que una persona está empleada si en la última semana hizo alguna de estas actividades:
+- Trabajó por $>1$ hora y recibió ingresos.
+- Trabajó por $>1$ hora y no recibió ingresos.
+- Hizo alguna diligencia para conseguir trabajo.
+
 
 
 $$
 \begin{align*}
-	TasaDeDesempleo = \frac{Desocupados}{PoblaciónActiva} \\\\
-	TasaGlobalDeActividad = \frac{PoblaciónActiva}{PoblaciónTotal} \\\\
-	TasaDeActividad = \frac{PoblaciónActiva}{PoblaciónEnEdadDeTrabajar} \\\\
+	TasaDeDesempleo = \frac{Desocupados}{PoblaciónActiva}
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	TasaGlobalDeActividad = \frac{PoblaciónActiva}{PoblaciónTotal}
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	TasaDeActividad = \frac{PoblaciónActiva}{PoblaciónEnEdadDeTrabajar}
+\end{align*}
+$$
+
+$$
+\begin{align*}
 	TasaDeEmpleo = \frac{Ocupados}{PoblaciónEnEdadDeTrabajar}
 \end{align*}
 $$
+
+
+
 
 
 ## Inflación
