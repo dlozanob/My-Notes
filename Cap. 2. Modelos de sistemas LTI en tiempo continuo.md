@@ -237,13 +237,13 @@ $$
             - $R(s)$ : Residuo del polinomio
             - $d$ : Cociente
 		
-2. Expresar la ecuación de tranferencia en la ecuación de estado
+2. Expresar la ecuación de tranferencia en la ecuación de estado:
 
 $$
 \displaylines{
 	\dot{x}(t) =
 	\begin{pmatrix}
-		-a_{2} & . & . & . & -a_{g+1} \\\\
+		-a_{2} & . & . & . & -a_{G+1} \\\\
 		1 & ... & 0 & & 0 \\
 		. & . & . & & 0 \\
 		. & . & . & & 0 \\
