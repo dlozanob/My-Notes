@@ -494,7 +494,7 @@ Su representación en diagrama de bloques es:
 
 
 >[!Info]
->La electrónica análoga recibe ese nombre porque permite simular modelos análogamente de otros dominios de la ciencia
+>La electrónica análoga recibe este nombre porque permite simular modelos análogamente de otros dominios de la ciencia
 
 
 ## Realizaciones mínimas
