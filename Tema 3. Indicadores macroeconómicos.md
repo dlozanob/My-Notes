@@ -85,9 +85,8 @@ Usan una porción del dinero que toman de alguien que deposita para mantenerla c
 
 - _TRM_ : Tasa Representativa del Mercado. Tasa de cambio promedio que representa el intercambio de la moneda colombiana con dinero extranjero. Es determinada por el Banco Central. Si esta decrece, la moneda extranjera no tendrá mucho poder adquisitivo sobre la moneda colombiana.
 - _Colcap_ : Refleja los cambios de las acciones de las 20 empresas con mayor valor en sus acciones y mejor liquidez que pertenecen a la Bolsa de Valores de Colombia (BVC). Esta misma entidad se encarga de fijar este índice.
-- _Petróleo WTI_ : West Texas Intermediate. Es una clase de petróleo bruto (crudo) que sirve para determinar el precio del petróleo bruto
-- _UVR_ : 
-
+- _Petróleo WTI_ : West Texas Intermediate. Es una clase de petróleo bruto (crudo) que sirve para determinar el precio del petróleo bruto.
+- _UVR_ : Unidad de Valor Real. Refleja el poder adquisitivo con base a la variación del IPC durante un mes. Lo determina el Banco de la República.
 
 
 ## Inflación
