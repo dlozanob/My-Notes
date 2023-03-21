@@ -28,6 +28,18 @@
                 "file": "Excalidraw/blackboard.excalidraw.md"
               }
             }
+          },
+          {
+            "id": "85da895c7223237a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tema 1. Economía.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -183,13 +195,15 @@
   },
   "active": "aeb58ef31561f279",
   "lastOpenFiles": [
+    "Tema 1. Economía.md",
+    "Excalidraw/blackboard.excalidraw.md",
+    "Tema 3. Indicadores macroeconómicos.md",
     "Módulo 1. Economía y matemática financiera.md",
+    "Finanzas.md",
     "Tema 2. Función de oferta y demanda.md",
     "attachments/Pasted image 20230321124323.png",
-    "Excalidraw/blackboard.excalidraw.md",
     "attachments/Pasted image 20230321124314.png",
     "attachments/Pasted image 20230321124303.png",
-    "Finanzas.md",
     "Ciencias Económicas y Administrativas.md",
     "Main.md",
     "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
@@ -218,7 +232,6 @@
     "Automatización, Control y Robótica.md",
     "Señales y Sistemas I.md",
     "Automatización%2C Control y Robótica.md",
-    "Obsidian Basics.md",
     "attachments",
     "New folder",
     "Untitled.canvas"

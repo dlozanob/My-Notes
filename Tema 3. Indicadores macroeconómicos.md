@@ -6,7 +6,7 @@ El PIB es el valor monetario total de bienes y servicios dentro de un territorio
 Hay 3 perspectivas para medirlo:
 
 - Demanda: $Y = C + I + G + X - M$
-- Oferta: $Y = VP - C_{i} + T - S$
+- Oferta: $Y = VP - Ci + T - S$
 - Renta: $Y = Ebe + RA + T$
 
 Donde:
@@ -21,6 +21,12 @@ Donde:
 >[!Note]
 >- El PIB no es una medida de riqueza ni de bienestar, es solo una aproximación
 >- El _coeficiente de Gini_ mide la desigualdad
+
+- _Exportaciones_: Conjunto de bienes y servicios que un país presta o vende al exterior
+- _Importaciones_: Conjunto de bienes y servicios que un país compra o solicita desde el interior
+- _Balanza comercial_ : Mide la relación entre importaciones y exportaciones.
+
+
 
 
 ## Medición del empleo
