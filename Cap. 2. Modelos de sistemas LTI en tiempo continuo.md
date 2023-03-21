@@ -225,7 +225,7 @@ $$
 - $g$ : Grado de $N(s)$
 
 
-- _Procedimiento_ :
+_Procedimiento_ :
 
 1. Hacer propia la función de transferencia en caso de que no lo sea ($G > g$)
 	1. Dejarla en su forma mónica ($a_{1} = 1$)
