@@ -10,13 +10,13 @@ Hay 3 perspectivas para medirlo:
 - Renta: $Y = Ebe + RA + T$
 
 Donde:
-- $Y$ : Ingreso
+- $Y$ : Ingreso (PIB)
 - $C$ : Consumo
 - $I$ : Inversión
 - $G$ : Gasto público
 - $X$ : Exportaciones
 - $M$ : Importaciones
-- $X - M$ : Balanza comercial
+- $X - M$ : Balanza comercial o balanza cambiaria
 
 >[!Note]
 >- El PIB no es una medida de riqueza ni de bienestar, es solo una aproximación
