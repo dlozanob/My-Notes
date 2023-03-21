@@ -75,10 +75,12 @@ $$
 La banca es un agente importante el cual se encarga de captar el dinero de la gente para reinvertirlo. La tasa a la que un individuo invierte su dinero en el banco, se llama _tasa pasiva_ o _tasa de captación_. Mientras que la tasa a la que presta se llama _tasa activa_.
 Usan una porción del dinero que toman de alguien que deposita para mantenerla como reserva. La tasa que define esa porción se llama _encaje_ (10% - 20%).
 
+---
 ### Tasas de captación
 
 - _DTF_ : Depósito a Término Fijo. Promedio de las tasas de captación a 90 días de todo el sistema financiero.
-- _CDT_ : Certificado de Depósito a Término. Título del valor depositado que hace 
+- _CDT_ : Certificado de Depósito a Término fijo. Título entregado por el banco a un cliente sobre un dinero que es depositado por un plazo determinado (30, 60, 90, 180 o 360 días).
+- _TCC_ : Tasa de interés de Corporaciones financieras. Promedio de las tasas de captación a través de los CDT's por 90 días, de las entidades financieras privadas.
 
 
 
