@@ -81,7 +81,12 @@ Usan una porción del dinero que toman de alguien que deposita para mantenerla c
 - _DTF_ : Depósito a Término Fijo. Promedio de las tasas de captación a 90 días de todo el sistema financiero.
 - _CDT_ : Certificado de Depósito a Término fijo. Título entregado por el banco a un cliente sobre un dinero que es depositado por un plazo determinado (30, 60, 90, 180 o 360 días).
 - _TCC_ : Tasa de interés de Corporaciones financieras. Promedio de las tasas de captación a través de los CDT's por 90 días, de las entidades financieras privadas.
+---
 
+- _TRM_ : Tasa Representativa del Mercado. Tasa de cambio promedio que representa el intercambio de la moneda colombiana y monedas extranjeras. 
+- _Colcap_ : 
+- _Petróleo WTI_ : West Texas Intermediate.
+- _UVR_ : 
 
 
 
