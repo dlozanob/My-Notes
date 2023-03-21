@@ -22,4 +22,4 @@ Ejemplos:
 
 Los derivados financieros surgen de los anteriores ejemplos.
 
-
+Las _cámaras de riesgo_ custodian los títulos correspondientes a las transacciones para garantizar que estas se cumplan.
