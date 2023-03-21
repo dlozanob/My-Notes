@@ -123,12 +123,11 @@ Al aumentar el encaje disminuye la liquidez.
 - _Tasa de cambio_ :  Es la relación entre dos monedas de distintos paises.
 En Colombia es la cantidad en pesos por dólar.
 
-Disminuye cuando hay mucha moneda extranjera:
-- Inversión extranjera
-- Exportaciones
-- Crédito externo
-Aumenta cuando hay escasez de moneda extranjera:
-- Inversiones en el extranje
+| ($\downarrow$): Presencia de moneda extranjera | ($\uparrow$): Escasez de moneda extranjera |
+|-|-|
+| Ganancias por inversión extranjera | Inversiones en el extranjero |
+| Exportaciones | Importaciones |
+| Crédito externo | Pago de deudas extranjeras |
 
 
 La _tasa de intervención_ es una tasa que determina el costo mínimo de los recursos del país. Esta es fijada por las juntas directivas de los bancos centrales.
