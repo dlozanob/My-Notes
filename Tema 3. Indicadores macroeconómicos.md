@@ -73,7 +73,6 @@ $$
 ## Otros indicadores
 
 La banca es un agente importante el cual se encarga de captar el dinero de la gente para reinvertirlo. La tasa a la que un individuo invierte su dinero en el banco, se llama _tasa pasiva_ o _tasa de captación_. Mientras que la tasa a la que presta se llama _tasa activa_.
-Usan una porción del dinero que toman de alguien que deposita para mantenerla como reserva. La tasa que define esa porción se llama _encaje_ (10% - 20%).
 
 ---
 ### Tasas de captación
@@ -102,13 +101,21 @@ Una medida para bajar la inflación, podría ser bajando el encaje de los bancos
 
 $$
 \begin{align*}
-	IPC = \frac{PrecioCestaAñoAMedir}{P\mathrm{Re}cioCestaAñoBase}*100\%
+	IPC = \frac{PrecioCestaAñoAMedir}{PrecioCestaAñoBase}*100\%
 \end{align*}
 $$
 
 Se debe determinar qué productos componen la cesta, para luego dar con el costo toal de esta.
 
+Desventajas del IPC:
+- No tiene en cuenta la variación de los precios de los productos
+- No tiene en cuenta la variación de la renta
+- No mide la calidad de los bienes y servicios
+- Sobreestima la inflación
 
+Los bancos usan una porción del dinero que toman de alguien que deposita para mantenerla como reserva. La tasa que define esa porción se llama _encaje_ (10% - 20%).
+Esta es una herramienta de prevención de riesgos.
+Al aumentar el encaje disminuye la liquidez.
 
 
 
