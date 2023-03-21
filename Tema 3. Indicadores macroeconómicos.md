@@ -93,9 +93,25 @@ Usan una porción del dinero que toman de alguien que deposita para mantenerla c
 
 El _IPC_ (Índice de Precios al Consumidor) mide la evolución del costo promedio de una canasta de bienes y servicios representativa para el hogar (necesidades básicas). Tiene que ver con la pérdida del poder adquisitivo de la moneda.
 
-Se puede medir la inflación como la diferencia de la misma entre dos periodos de tiempo.
+Se puede medir la inflación como la diferencia de la misma entre dos periodos de tiempo. Se mide como la variación porcentual del IPC.
 
 Una medida para bajar la inflación, podría ser bajando el encaje de los bancos.
+
+>[!Note]
+>El IPC es determinado por el Departamento Administrativo Nacional de Estadística (DANE) mensualmente
+
+$$
+\begin{align*}
+	IPC = \frac{PrecioCestaAñoAMedir}{P\mathrm{Re}cioCestaAñoBase}*100\%
+\end{align*}
+$$
+
+Se debe determinar qué productos componen la cesta, para luego dar con el costo toal de esta.
+
+
+
+
+
 
 La _tasa de intervención_ es una tasa que determina el costo mínimo de los recursos del país. Esta es fijada por las juntas directivas de los bancos centrales.
 
