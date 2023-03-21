@@ -22,8 +22,10 @@ Ejemplos:
 
 Los derivados financieros surgen de los anteriores ejemplos.
 
-Las _cámaras de riesgo_ custodian los títulos correspondientes a las transacciones para garantizar que estas se cumplan.
+Las _cámaras de riesgo_ custodian los títulos correspondientes a las transacciones para garantizar que estas se cumplan. Es un intermediario que garantiza que se honren los compromisos entre transacciones.
 
 >[!Note]
 >El _equity_ se refiere a las acciones de la empresa
 
+
+- _Sistemas de compensación y liquidación de valores_ : Son mecanismos para la confirmación, compesación y liquidación de operaciones sobre valores
