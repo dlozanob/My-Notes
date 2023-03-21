@@ -122,8 +122,11 @@ Al aumentar el encaje disminuye la liquidez.
 
 Los principales objetivos del Banco Central son:
 - Reducir el desempleo
-- Preservar el poder adquisitivo de la moneda
+- Controlar la inflación
 - Regular la tasa de cambio
+
+Estos son entes independientes del gobierno.
+
 
 - _Tasa de cambio_ :  Es la relación entre dos monedas de distintos paises.
 En Colombia es la cantidad en pesos por dólar.
@@ -137,6 +140,17 @@ En Colombia es la cantidad en pesos por dólar.
 >[!Info]
 >- Un ejemplo de Banco Central es la _Reserva General de los Estados Unidos (FED)_. Tiene una junta central en Washington y varios bancos regionales.
 >- En Colombia, el Banco Central es el Banco de la República
+
+Misión del Banco de la República:
+- Preservación del poder adquisitivo de la moneda
+- Hacer crecer la economía
+- Estabilidad financiera
+- Gestión cultural
+
+Políticas del Banco de la República:
+- Política monetaria: Mantener una tasa de inflación baja y estable para reducir el desempleo y aumentar la producción
+- Política de intervención cambiaria: Mantener la estabilidad financiera
+- Política crediticia: 
 
 
 
