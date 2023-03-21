@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e2e7d108e18b5f43",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/blackboard.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -80,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tema 2. Función de oferta y demanda.md",
+                "file": "Excalidraw/blackboard.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tema 2. Función de oferta y demanda.md",
+                "file": "Excalidraw/blackboard.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tema 2. Función de oferta y demanda.md"
+                "file": "Excalidraw/blackboard.excalidraw.md"
               }
             }
           },
@@ -171,8 +182,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "aeb58ef31561f279",
+  "active": "e2e7d108e18b5f43",
   "lastOpenFiles": [
+    "Tema 2. Función de oferta y demanda.md",
+    "Excalidraw/blackboard.excalidraw.md",
     "Módulo 1. Economía y matemática financiera.md",
     "Finanzas.md",
     "Ciencias Económicas y Administrativas.md",
@@ -186,7 +199,6 @@
     "Cinemática de Fluidos.md",
     "Servomecanismos.md",
     "Estática de Fluidos.md",
-    "Excalidraw/blackboard.excalidraw.md",
     "Excalidraw/whiteboard.excalidraw.md",
     "attachments/Pasted image 20230320161152.png",
     "attachments/Pasted image 20230320161136.png",
@@ -209,7 +221,6 @@
     "Automatización%2C Control y Robótica.md",
     "Obsidian Basics.md",
     "Ciencias económicas y Administrativa.md",
-    "Automatización%2C control y robótica.md",
     "attachments",
     "New folder",
     "Untitled.canvas"

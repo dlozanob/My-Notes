@@ -153,6 +153,15 @@ $$
 \end{align*}
 $$
 
+- Demanda elástica: $e>1$
+
+
+
+
+
+- Demanda inelástica: $e < 1$
+
+
 
 
 
