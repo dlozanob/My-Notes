@@ -168,11 +168,7 @@ Un pequeño cambio en el precio genera un cambio considerable en la cantidad dem
 Al cambiar el precio la cantidad demandada no se ve casi alterada.
 
 >[!Note]
->Caso extremo: Línea vertical. El precio nunca podrá cambiar la cantidad demandada.
-
-
-
-
+>Caso extremo: Línea vertical. El precio nunca podrá cambiar la cantidad demandada
 
 
 ## External links
