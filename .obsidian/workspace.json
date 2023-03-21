@@ -28,8 +28,21 @@
                 "file": "Excalidraw/blackboard.excalidraw.md"
               }
             }
+          },
+          {
+            "id": "30a490f122ef9abc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ingeniería Económica.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -90,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tema 4. Matemáticas financieras.md",
+                "file": "Ingeniería Económica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tema 4. Matemáticas financieras.md",
+                "file": "Ingeniería Económica.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tema 4. Matemáticas financieras.md"
+                "file": "Ingeniería Económica.md"
               }
             }
           },
@@ -181,11 +194,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "aeb58ef31561f279",
+  "active": "30a490f122ef9abc",
   "lastOpenFiles": [
+    "Tema 4. Matemáticas financieras.md",
     "attachments/Pasted image 20230321150833.png",
     "Excalidraw/blackboard.excalidraw.md",
-    "Tema 4. Matemáticas financieras.md",
     "attachments/Pasted image 20230321150555.png",
     "Módulo 1. Economía y matemática financiera.md",
     "Tema 3. Indicadores macroeconómicos.md",
@@ -212,7 +225,6 @@
     "attachments/Pasted image 20230320155520.png",
     "attachments/Pasted image 20230320155510.png",
     "Excalidraw/attachments/Pasted Image 20230320155508_992.png",
-    "attachments/Pasted image 20230320155458.png",
     "Cap. 3. Solución de las ecuaciones de estado de sistemas LTI.md",
     "Linked note.md",
     "Fundamentos de Mecánica.md",

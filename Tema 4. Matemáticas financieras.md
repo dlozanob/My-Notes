@@ -127,10 +127,11 @@ Al igualar a 0 el flujo de caja neto en el año 0, es decir, el VPN, se halla la
 
 Donde $B$ es el periodo de tiempo sobre el que actua la tasa, $C$ es el periodo de composición de esta.
 
-Para convertir una tasa efectiva anticipada a una tasa efectiva vencida, se tiene:
+Se tiene la siguiente relación entre tasas efectivas vencidas ($i_{v}$) y tasas efectivas anticipadas ($i_{a}$) :
 
 $$
 \begin{align*}
-	i_{v} = 
+	\boxed{i_{v} = \frac{i_{a}}{1 - i_{a}}}
 \end{align*}
 $$
+
