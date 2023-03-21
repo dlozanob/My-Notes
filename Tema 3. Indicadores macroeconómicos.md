@@ -114,11 +114,16 @@ Desventajas del IPC:
 - Sobreestima la inflación
 
 
-## El papel del banco
+## El papel del banco central
 
 Los bancos usan una porción del dinero que toman de alguien que deposita para mantenerla como reserva. La tasa que define esa porción se llama _encaje_ (10% - 20%).
 Esta es una herramienta de prevención de riesgos.
 Al aumentar el encaje disminuye la liquidez.
+
+Los principales objetivos del Banco Central son:
+- Reducir el desempleo
+- Preservar el poder adquisitivo de la moneda
+- Regular la tasa de cambio
 
 - _Tasa de cambio_ :  Es la relación entre dos monedas de distintos paises.
 En Colombia es la cantidad en pesos por dólar.
@@ -128,6 +133,14 @@ En Colombia es la cantidad en pesos por dólar.
 | Ganancias por inversión extranjera | Inversiones en el extranjero |
 | Exportaciones | Importaciones |
 | Crédito externo | Pago de deudas extranjeras |
+
+>[!Info]
+>- Un ejemplo de Banco Central es la _Reserva General de los Estados Unidos (FED)_. Tiene una junta central en Washington y varios bancos regionales.
+>- En Colombia, el Banco Central es el Banco de la República
+
+
+
+
 
 
 La _tasa de intervención_ es una tasa que determina el costo mínimo de los recursos del país. Esta es fijada por las juntas directivas de los bancos centrales.
