@@ -29,7 +29,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -90,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tema 4. Matemáticas financieras.md",
+                "file": "Excalidraw/blackboard.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tema 4. Matemáticas financieras.md",
+                "file": "Excalidraw/blackboard.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tema 4. Matemáticas financieras.md"
+                "file": "Excalidraw/blackboard.excalidraw.md"
               }
             }
           },
@@ -181,13 +182,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "aeb58ef31561f279",
+  "active": "e2e7d108e18b5f43",
   "lastOpenFiles": [
+    "Tema 4. Matemáticas financieras.md",
     "Módulo 1. Economía y matemática financiera.md",
     "Tema 3. Indicadores macroeconómicos.md",
     "Excalidraw/blackboard.excalidraw.md",
     "Tema 2. Función de oferta y demanda.md",
-    "Tema 4. Matemáticas financieras.md",
     "Tema 1. Economía.md",
     "Finanzas.md",
     "attachments/Pasted image 20230321124323.png",

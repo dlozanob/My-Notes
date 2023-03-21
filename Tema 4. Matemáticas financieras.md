@@ -21,12 +21,13 @@ $$
 Desde la perspectiva del prestamista, la tasa de interés recibe el nombre de _tasa de rendimiento_ (TR). Por lo que su ganancia se llama _rendimiento_.
 Desde la perspectiva del deudor, simplemente es _tasa de interés_ y el valor que debe pagar adicional es el _interés_.
 
+
 El valor de la tasa de interés depende de dos factores:
 
-- Riesgo: Es el riesgo de cumplir con la deuda.
+- _Riesgo_: Es el riesgo de cumplir con la deuda.
 Así mismo, este se compone de factores como: modelo de negocio, leyes, entorno económico y disponibilidad de recursos
 
-- Tiempo: El tiempo que transcurre hasta finalizar el periodo de préstamo.
+- _Tiempo_: El tiempo que transcurre hasta finalizar el periodo de préstamo.
 
 
 Siendo así, la tasa de interés incrementará cuando el riesgo sea alto, ya que, desincentiva al deudor de pedir el préstamo. Igualmente la tasa de interés es proporcional al tiempo para el que se establece la paga. La relación con el tiempo adquiere una forma similar a la siguiente:
@@ -115,3 +116,11 @@ Al igualar a 0 el flujo de caja neto en el año 0, es decir, el VPN, se halla la
 - CPPC o WACC Weighted Average Cost of Capital : Costo promedio ponderado de capital
 
 - TD :  Tasa de descuento
+
+
+
+
+
+## Identificación y conversión de tasas
+
+
