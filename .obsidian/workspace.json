@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Módulo 3. Introducción al mercado de capitales.md",
-                "mode": "preview",
+                "file": "Tema 2. Estructura del mercado.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Módulo 3. Introducción al mercado de capitales.md",
+                "file": "Tema 2. Estructura del mercado.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Módulo 3. Introducción al mercado de capitales.md",
+                "file": "Tema 2. Estructura del mercado.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Módulo 3. Introducción al mercado de capitales.md"
+                "file": "Tema 2. Estructura del mercado.md"
               }
             }
           },
@@ -183,9 +183,10 @@
   },
   "active": "aeb58ef31561f279",
   "lastOpenFiles": [
+    "Módulo 3. Introducción al mercado de capitales.md",
+    "Tema 2. Estructura del mercado.md",
     "Finanzas.md",
     "Módulo 1. Economía y matemática financiera.md",
-    "Módulo 3. Introducción al mercado de capitales.md",
     "Tema 4. Matemáticas financieras.md",
     "Excalidraw/blackboard.excalidraw.md",
     "Ingeniería Económica.md",
@@ -219,7 +220,6 @@
     "Fundamentos de Mecánica.md",
     "Cap. 1. Modelos de sistemas lineales y no lineales.md",
     "Excalidraw/attachments",
-    "Automatización, Control y Robótica.md",
     "attachments",
     "New folder",
     "Untitled.canvas"
