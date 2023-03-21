@@ -27,12 +27,16 @@ Donde:
 - _Balanza comercial_ : Mide la relación entre importaciones y exportaciones.
 
 
-
-
 ## Medición del empleo
 
 El _desempleo estructural_ es aquel que toma largos periodos de tiempo.  Surge por problemas en la economía, no por decisión de la gente.
 El _desempleo friccional_ es aquel que se da por un instante de tiempo. Surge por decisión de las personas.
+
+Se puede decir que una persona está empleada si en en la última semana hizo alguna de estas actividades:
+- Trabajo por el que recibe ingresos $>1$ hora.
+- Trabajo no pago $>1$ hora.
+- Hizo alg
+
 
 $$
 \begin{align*}
