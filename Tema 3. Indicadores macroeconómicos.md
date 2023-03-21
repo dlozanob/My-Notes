@@ -113,11 +113,22 @@ Desventajas del IPC:
 - No mide la calidad de los bienes y servicios
 - Sobreestima la inflación
 
+
+## El papel del banco
+
 Los bancos usan una porción del dinero que toman de alguien que deposita para mantenerla como reserva. La tasa que define esa porción se llama _encaje_ (10% - 20%).
 Esta es una herramienta de prevención de riesgos.
 Al aumentar el encaje disminuye la liquidez.
 
+- _Tasa de cambio_ :  Es la relación entre dos monedas de distintos paises.
+En Colombia es la cantidad en pesos por dólar.
 
+Disminuye cuando hay mucha moneda extranjera:
+- Inversión extranjera
+- Exportaciones
+- Crédito externo
+Aumenta cuando hay escasez de moneda extranjera:
+- Inversiones en el extranje
 
 
 La _tasa de intervención_ es una tasa que determina el costo mínimo de los recursos del país. Esta es fijada por las juntas directivas de los bancos centrales.
