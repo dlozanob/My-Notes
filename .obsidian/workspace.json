@@ -41,8 +41,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ingeniería Económica.md",
+                "file": "Tema 4. Matemáticas financieras.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ingeniería Económica.md",
+                "file": "Tema 4. Matemáticas financieras.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ingeniería Económica.md"
+                "file": "Tema 4. Matemáticas financieras.md"
               }
             }
           },
@@ -194,8 +193,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "30a490f122ef9abc",
+  "active": "aeb58ef31561f279",
   "lastOpenFiles": [
+    "Ingeniería Económica.md",
     "Tema 4. Matemáticas financieras.md",
     "attachments/Pasted image 20230321150833.png",
     "Excalidraw/blackboard.excalidraw.md",

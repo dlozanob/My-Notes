@@ -127,6 +127,16 @@ Al igualar a 0 el flujo de caja neto en el año 0, es decir, el VPN, se halla la
 
 Donde $B$ es el periodo de tiempo sobre el que actua la tasa, $C$ es el periodo de composición de esta.
 
+
+- _Tasas anticipadas_ : El interés se genera al inicio de cada periodo
+- _Tasas vencidas_ : El interés se genera al final de cada periodo
+
+>[!Note]
+>Las tasas anticipadas son más comunes que las vencidas.
+>Estas son usadas en préstamos a largo plazo
+
+
+
 Se tiene la siguiente relación entre tasas efectivas vencidas ($i_{v}$) y tasas efectivas anticipadas ($i_{a}$) :
 
 $$
