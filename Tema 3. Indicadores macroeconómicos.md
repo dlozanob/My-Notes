@@ -150,10 +150,7 @@ Misión del Banco de la República:
 Políticas del Banco de la República:
 - Política monetaria: Mantener una tasa de inflación baja y estable para reducir el desempleo y aumentar la producción
 - Política de intervención cambiaria: Mantener la estabilidad financiera
-- Política crediticia: 
-
-
-
+- Política crediticia: Proponer mecanismos para regular el sistema de crédito y el endeudamiento
 
 
 
