@@ -166,6 +166,9 @@ Al cambiar el precio la cantidad demandada no se ve casi alterada.
 >[!Note]
 >Caso extremo: Línea vertical. El precio nunca podrá cambiar la cantidad demandada
 
+>[!Info]
+>La _endogeneidad_ se refiere al hecho de que una variable está relacionada con otras. El precio de un bien es una variable endógena, ya que, depende de la oferta y de la demanda
+
 
 ## External links
 

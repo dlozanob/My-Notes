@@ -173,4 +173,3 @@ $$
 - $RP$ : Riesgo país
 - $Rf_{D}$ : Rendimiento de las inversiones libres de riesgo locales de un país desarrollado 
 - $Rf_{R}$ : Rendimiento de las inversiones libres de riesgo locales de un país con riesgo 
-
