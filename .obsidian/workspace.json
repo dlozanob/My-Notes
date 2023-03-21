@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "300dc4265415fdd7",
+            "id": "aeb58ef31561f279",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
+                "file": "Tema 2. Función de oferta y demanda.md",
                 "mode": "preview",
                 "source": false
               }
@@ -80,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
+                "file": "Tema 2. Función de oferta y demanda.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
+                "file": "Tema 2. Función de oferta y demanda.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md"
+                "file": "Tema 2. Función de oferta y demanda.md"
               }
             }
           },
@@ -171,11 +171,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "300dc4265415fdd7",
+  "active": "aeb58ef31561f279",
   "lastOpenFiles": [
+    "Módulo 1. Economía y matemática financiera.md",
+    "Finanzas.md",
+    "Ciencias Económicas y Administrativas.md",
+    "Main.md",
+    "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
     "Señales y Sistemas II.md",
     "Propiedades de los Fluidos.md",
-    "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
     "LaTeX.md",
     "Fundamentos de Mecánica de Fluidos.md",
     "HTML.md",
@@ -203,13 +207,9 @@
     "Automatización, Control y Robótica.md",
     "Señales y Sistemas I.md",
     "Automatización%2C Control y Robótica.md",
-    "Main.md",
     "Obsidian Basics.md",
     "Ciencias económicas y Administrativa.md",
     "Automatización%2C control y robótica.md",
-    "Prueba, N.md",
-    "Prueba%2C N.md",
-    "Tema 2. Función de oferta y demanda.md",
     "attachments",
     "New folder",
     "Untitled.canvas"
