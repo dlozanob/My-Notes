@@ -83,7 +83,7 @@ Usan una porción del dinero que toman de alguien que deposita para mantenerla c
 - _TCC_ : Tasa de interés de Corporaciones financieras. Promedio de las tasas de captación a través de los CDT's por 90 días, de las entidades financieras privadas.
 ---
 
-- _TRM_ : Tasa Representativa del Mercado. Tasa de cambio promedio que representa el intercambio de la moneda colombiana y monedas extranjeras. 
+- _TRM_ : Tasa Representativa del Mercado. Tasa de cambio promedio que representa el intercambio de la moneda colombiana con dinero extranjero. Es determinada por el Banco Central. Si esta decrece, la moneda extranjera no tendrá mucho poder adquisitivo sobre la moneda colombiana.
 - _Colcap_ : 
 - _Petróleo WTI_ : West Texas Intermediate.
 - _UVR_ : 
