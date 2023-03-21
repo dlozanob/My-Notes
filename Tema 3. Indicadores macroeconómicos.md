@@ -34,9 +34,9 @@ El _desempleo friccional_ es aquel que se da por un instante de tiempo. Surge po
 
 Se puede clasificar a la población en edad de trabajar de la siguiente manera:
 - Población activa:
-	- Población empleado
-	- Desempleado
-
+	- Población empleada
+	- Población desempleada
+- Población inactiva: La persona no realiza trabajo alguno ni hace algo para obtenerlo
 
 Se puede decir que una persona está empleada si en la última semana hizo alguna de estas actividades:
 - Trabajó por $>1$ hora y recibió ingresos.
@@ -47,7 +47,7 @@ Se puede decir que una persona está empleada si en la última semana hizo algun
 
 $$
 \begin{align*}
-	TasaDeDesempleo = \frac{Desocupados}{PoblaciónActiva}
+	TasaDeDesempleo = \frac{Desempleados}{PoblaciónActiva}
 \end{align*}
 $$
 
@@ -65,10 +65,16 @@ $$
 
 $$
 \begin{align*}
-	TasaDeEmpleo = \frac{Ocupados}{PoblaciónEnEdadDeTrabajar}
+	TasaDeEmpleo = \frac{Empleados}{PoblaciónEnEdadDeTrabajar}
 \end{align*}
 $$
 
+
+## Otros indicadores
+
+### Tasas de captación
+
+- _DTF_ : Depósito a término fijo. 
 
 
 
