@@ -15,9 +15,11 @@ Ejemplos:
 - Cédulas hipotecarias: Títulos sobre hipotecas
 
 >[!Note]
->Las pólizas de seguros y títulos de capitalización no son valores
+>Las pólizas de seguros y títulos de capitalización no son valores (no se sabe si va a pasar la tragedia)
 
 >[!Note]
 >Una titularización es dar un derecho sobre un bien
+
+Los derivados financieros surgen de los anteriores ejemplos.
 
 
