@@ -74,4 +74,5 @@ $$
 \end{pmatrix}
 \end{align*}
 $$
-Ssse sabe que $$
+
+Se sabe que $\hat{a}_{r} = -r\omega^{2}\hat{r}$. Además, $\hat{a}_{\theta} = \hat{a}_{z} = 0$, ya que, de lo contrario habrían esfuerzos cortantes.
