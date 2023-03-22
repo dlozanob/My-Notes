@@ -340,6 +340,24 @@ Entonces $p_{0} = P_{atm_{1}} - P_{atm_{2}}$
 >Si la placa está simplemente sumergida en un fluido, las presiones atmosféricas se anulan en ambas caras y $p_{0} = 0$
 
 
+- __Ejemplo__ :
+
+![](attachments/Pasted%20image%2020230322081000.png)
+
+
+
+
+$$
+\begin{align*}
+	F_{R}
+\end{align*}
+$$
+
+
+
+
+
+
 ## Fuerza hidrostática sobre superficies curvas sumergidas
 
 La fuerza resultante se determina en sus componentes $(F_{H}, F_{V})$ por simplicidad.
