@@ -362,6 +362,17 @@ $$
 $$
 
 
+- __Ejemplo__ :
+
+![](attachments/Pasted%20image%2020230322083012.png)
+
+
+
+
+
+
+
+
 ## Fuerza hidrostática sobre superficies curvas sumergidas
 
 La fuerza resultante se determina en sus componentes $(F_{H}, F_{V})$ por simplicidad.
