@@ -52,6 +52,26 @@ Para el caso rotacional, el gradiente de P en coordenadas cilíndricas toma la f
 
 $$
 \begin{align*}
-	\vec{\nabla}P = \frac{\partial P}{\partial r}\hat{r} + \frac{1}{r} \frac{\partial P}{\partial \theta}\theta ha
+	\vec{\nabla}P = \frac{\partial P}{\partial r}\hat{r} + \frac{1}{r} \frac{\partial P}{\partial \theta}\hat{\theta} + \frac{\partial P}{\partial z}\hat{z}
 \end{align*}
 $$
+
+Se tiene:
+
+$$
+\begin{align*}
+	\begin{pmatrix}
+\frac{\partial P}{\partial r} \\
+\frac{\partial P}{\partial \theta} \\
+\frac{\partial P}{\partial z}
+\end{pmatrix}
+=
+-
+\begin{pmatrix}
+\rho a_{r} \\
+\rho a_{\theta} \\
+\rho a_{z} + \gamma
+\end{pmatrix}
+\end{align*}
+$$
+
