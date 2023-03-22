@@ -146,3 +146,17 @@ $$
 
 ## Amortizaciones
 
+Al realizar un préstamo, este debe ser pagado en cuotas a lo largo de varios de periodos de interés. La manera en la que se distribuyen estos pagos, influye en el tiempo en el que se liquida la deuda.
+
+### Serie uniforme
+
+
+
+
+
+### Gradiente aritmético
+
+
+### Gradiente geométrico
+
+

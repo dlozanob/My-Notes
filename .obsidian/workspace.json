@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "62d6dcfd683e22ca",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/blackboard.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -93,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ingeniería Económica.md",
+                "file": "Excalidraw/blackboard.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ingeniería Económica.md",
+                "file": "Excalidraw/blackboard.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ingeniería Económica.md"
+                "file": "Excalidraw/blackboard.excalidraw.md"
               }
             }
           },
@@ -185,9 +195,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cb571af17c3ce952",
+  "active": "62d6dcfd683e22ca",
   "lastOpenFiles": [
     "Tema 4. Matemáticas financieras.md",
+    "Ingeniería Económica.md",
     "Propiedades de los Fluidos.md",
     "Módulo 1. Economía y matemática financiera.md",
     "Finanzas.md",
@@ -214,7 +225,6 @@
     "Tema 2. Estructura del mercado.md",
     "Módulo 3. Introducción al mercado de capitales.md",
     "Tema 1. Infraestructura de los mercados financieros.md",
-    "Ingeniería Económica.md",
     "Tema 3. Indicadores macroeconómicos.md",
     "Tema 2. Función de oferta y demanda.md",
     "Tema 1. Economía.md",

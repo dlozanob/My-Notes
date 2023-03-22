@@ -387,7 +387,7 @@ $$
 Por tanto, si se tiene un gradiente (anualidad + $g$), para hallar su $VP$ se debe hacer:
 $$
 \displaylines{
-	P = A(P/A, i \%, n) + G(P/G, i \%, n)
+	\boxed{P = A(P/A, i \%, n) + G(P/G, i \%, n)}
 }
 $$
 
