@@ -11,8 +11,12 @@
             "id": "e15964fab3e115bb",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Cap. 3. Solución de las ecuaciones de estado de sistemas LTI.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -76,6 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Cap. 3. Solución de las ecuaciones de estado de sistemas LTI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,6 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Cap. 3. Solución de las ecuaciones de estado de sistemas LTI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,7 +119,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Cap. 3. Solución de las ecuaciones de estado de sistemas LTI.md"
+              }
             }
           },
           {
@@ -166,6 +174,7 @@
   },
   "active": "e15964fab3e115bb",
   "lastOpenFiles": [
+    "Señales y Sistemas II.md",
     "Excalidraw/blackboard.excalidraw.md",
     "Estática de Fluidos.md",
     "attachments/Pasted image 20230322090717.png",
@@ -195,7 +204,6 @@
     "Ciencias Económicas y Administrativas.md",
     "Main.md",
     "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
-    "Señales y Sistemas II.md",
     "Propiedades de los Fluidos.md",
     "LaTeX.md",
     "HTML.md",
