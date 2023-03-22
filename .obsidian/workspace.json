@@ -29,7 +29,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -90,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cinemática de Fluidos.md",
+                "file": "Excalidraw/blackboard.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cinemática de Fluidos.md",
+                "file": "Excalidraw/blackboard.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cinemática de Fluidos.md"
+                "file": "Excalidraw/blackboard.excalidraw.md"
               }
             }
           },
@@ -181,11 +182,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e2e7d108e18b5f43",
+  "active": "147e5c51fb8a7b58",
   "lastOpenFiles": [
+    "Cinemática de Fluidos.md",
     "Excalidraw/blackboard.excalidraw.md",
     "Estática de Fluidos.md",
-    "Cinemática de Fluidos.md",
     "attachments/Pasted image 20230321205605.png",
     "balck.md",
     "Fundamentos de Mecánica de Fluidos.md",
