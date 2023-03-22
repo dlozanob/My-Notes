@@ -40,7 +40,7 @@ Con el fín de parametrizar estas líneas, se hace la derivada total $dP$ nula.
 
 $$
 \begin{align*}
-	0 = -\rho a_{y}dy - \rho(a_{z} + g)dz \\
-	\frac{dz}{dy} = -\frac{\rho(a_{z} + g)}{}
+	0 = -\rho a_{y}dy - \rho(a_{z} + g)dz \\\\
+	\boxed{\frac{dz}{dy} = -\frac{a_{y}}{a_{z} + g}}
 \end{align*}
 $$
