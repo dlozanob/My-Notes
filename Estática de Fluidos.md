@@ -406,7 +406,14 @@ $$
 
 ![](attachments/Pasted%20image%2020230322083845.png)
 
+$$
+\begin{align*}
+	F_{V} &= \rho g h_{c}A - W \\
+	&= (1000kg/m^{3})(9.8m/s^{2})(3m)(3m*4m) - \left( \gamma \frac{\pi }{4} \right)
+\end{align*}
+$$
 
+![](attachments/Pasted%20image%2020230322084452.png)
 
 
 
