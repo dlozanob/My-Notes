@@ -433,20 +433,10 @@ $$
 
 $$
 \begin{align*}
-	2.76F_{R} = 3\sqrt{ 2 }\left( \frac{\sqrt{ 2 }}{2}F_{r} \right)
+	2.76F_{R} &= 3\sqrt{ 2 }\left( \frac{\sqrt{ 2 }}{2}F_{r} \right) \\
+	F_{r} &= 176604.12N
 \end{align*}
 $$
-
-
-
-
-
-
-
-
-
-
-
 
 
 ## Flotación

@@ -8,25 +8,11 @@
         "type": "tabs",
         "children": [
           {
-            "id": "df6a6a7256c9d83d",
+            "id": "e15964fab3e115bb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Estática de Fluidos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "654d05b35f599233",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md"
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -90,7 +76,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estática de Fluidos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +92,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Estática de Fluidos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,9 +113,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Estática de Fluidos.md"
-              }
+              "state": {}
             }
           },
           {
@@ -182,11 +164,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "df6a6a7256c9d83d",
+  "active": "e15964fab3e115bb",
   "lastOpenFiles": [
-    "attachments/Pasted image 20230322090717.png",
     "Excalidraw/blackboard.excalidraw.md",
     "Estática de Fluidos.md",
+    "attachments/Pasted image 20230322090717.png",
     "attachments/Pasted image 20230322085021.png",
     "attachments/Pasted image 20230322084452.png",
     "attachments/Pasted image 20230322083845.png",
@@ -198,7 +180,6 @@
     "Fundamentos de Mecánica de Fluidos.md",
     "Cinemática de Fluidos.md",
     "attachments/Pasted image 20230321222030.png",
-    "attachments/Pasted image 20230321221906.png",
     "balck.md",
     "Física.md",
     "Tema 2. Estructura del mercado.md",
