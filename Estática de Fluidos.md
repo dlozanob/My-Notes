@@ -344,20 +344,22 @@ Entonces $p_{0} = P_{atm_{1}} - P_{atm_{2}}$
 
 ![](attachments/Pasted%20image%2020230322081000.png)
 
-
-
+![](attachments/Pasted%20image%2020230322081858.png)
 
 $$
 \begin{align*}
 	F_{R} &= -p_{0}A + (p_{0} + \rho gh_{c})A \\
-	F_{R} &= \rho gh_{c}A = (1025kg/m^{3})(9.8m /s^{2})(4m)[\pi (0.15m)^{2}] \\
-	F_{R} = 2840N
+	F_{R} &= \rho gh_{c}A = (1025kg/m^{3})(9.8m /s^{2})(4m)[\pi (0.15m)^{2}] \\\\
+	F_{R} &= 2840N
 \end{align*}
 $$
 
-
-
-
+$$
+\begin{align*}
+	y_{CP} &= 4m + \frac{\left( \frac{\pi (0.15m)^{4}}{4} \right)}{4m(\pi (0.15m)^{2})} \\
+	y_{CP} &= 4.0014m
+\end{align*}
+$$
 
 
 ## Fuerza hidrostática sobre superficies curvas sumergidas
