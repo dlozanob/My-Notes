@@ -30,6 +30,7 @@ f3e515abfd58e6fcbb36555b984339deeac20885: $$3m$$
 dc28ac1b03b984efcf9353614893145108533e09: $$\theta$$
 0ce37017f29af0bfb9a14d1f110038919d46fcc8: $$2.76m$$
 e4e763c78ff99dfa2abb12921acff646df877c9d: $$45°$$
+84a80cc622e0bb879f86e161a0cb1b638d6aca1b: $$\frac{\sqrt{2}}{2}F_{r}$$
 
 %%
 # Drawing
@@ -4656,6 +4657,38 @@ e4e763c78ff99dfa2abb12921acff646df877c9d: $$45°$$
 				1,
 				1
 			]
+		},
+		{
+			"type": "image",
+			"version": 104,
+			"versionNonce": 1028646301,
+			"isDeleted": false,
+			"id": "KYePkfLV",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 530.6542780149781,
+			"y": -323.6356244008437,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 42.66666666666663,
+			"height": 35.13725490196075,
+			"seed": 33364,
+			"groupIds": [],
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1679493852317,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "84a80cc622e0bb879f86e161a0cb1b638d6aca1b",
+			"scale": [
+				1,
+				1
+			]
 		}
 	],
 	"appState": {
@@ -4673,8 +4706,8 @@ e4e763c78ff99dfa2abb12921acff646df877c9d: $$45°$$
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "triangle",
-		"scrollX": -29.48761134831162,
-		"scrollY": 677.8317028322163,
+		"scrollX": 61.345721985021704,
+		"scrollY": 661.1650361655495,
 		"zoom": {
 			"value": 1.2000000000000002
 		},

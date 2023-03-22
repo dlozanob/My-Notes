@@ -429,6 +429,14 @@ $$
 \end{align*}
 $$
 
+![](attachments/Pasted%20image%2020230322090717.png)
+
+$$
+\begin{align*}
+	2.76F_{R} = 3\sqrt{ 2 }\left( \frac{\sqrt{ 2 }}{2}F_{r} \right)
+\end{align*}
+$$
+
 
 
 
