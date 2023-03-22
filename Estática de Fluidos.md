@@ -416,6 +416,23 @@ $$
 
 ![](attachments/Pasted%20image%2020230322085021.png)
 
+$$
+\begin{align*}
+	F_{R} &= \sqrt{ F_{v}^{2} + F_{H}^{2} } \\
+	&= 191961N
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	\theta = 23.2
+\end{align*}
+$$
+
+
+
+
+
 
 
 
