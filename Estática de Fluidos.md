@@ -362,17 +362,6 @@ $$
 $$
 
 
-- __Ejemplo__ :
-
-![](attachments/Pasted%20image%2020230322083012.png)
-
-
-
-
-
-
-
-
 ## Fuerza hidrostática sobre superficies curvas sumergidas
 
 La fuerza resultante se determina en sus componentes $(F_{H}, F_{V})$ por simplicidad.
@@ -398,6 +387,25 @@ Ahora bien, determinar el punto de aplicación de $F_{R}$ es complejo. Sin embar
 Cuando se tienen varios fluidos, $F_{R}$ es la superposición de las fuerzas resultantes en cada capa de fluido.
 
 ![](attachments/Pasted%20image%2020230318214339.png)
+
+
+- __Ejemplo__ :
+
+![](attachments/Pasted%20image%2020230322083012.png)
+
+![](attachments/Pasted%20image%2020230322083519.png)
+
+$$
+\begin{align*}
+	-F_{H} &= F_{x} \\
+	F_{H} &= 
+\end{align*}
+$$
+
+
+
+
+
 
 
 ## Flotación
