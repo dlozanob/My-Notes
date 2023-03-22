@@ -30,6 +30,9 @@ Si suponemos que $a_{x} = 0$ :
 
 $$
 \begin{align*}
-	dP = P
+	dP &= P_{y}dy + P_{z}dz \\
+	dP &= -\rho a_{y}dy - \rho (a_{z} + g)dz
 \end{align*}
 $$
+
+Al acelerarse el fluido, habrán algunas líneas cuya presión a lo largo de las mismas es la misma
