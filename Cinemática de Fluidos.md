@@ -68,10 +68,10 @@ $$
 =
 -
 \begin{pmatrix}
-\rho a_{r} \\
-\rho a_{\theta} \\
-\rho a_{z} + \gamma
+\rho \hat{a_{r}} \\
+\rho \hat{a_{\theta}} \\
+\rho \hat{a_{z}} + \gamma
 \end{pmatrix}
 \end{align*}
 $$
-
+Ssse sabe que 
