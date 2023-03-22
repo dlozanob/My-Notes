@@ -74,4 +74,4 @@ $$
 \end{pmatrix}
 \end{align*}
 $$
-Ssse sabe que 
+Ssse sabe que $$
