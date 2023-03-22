@@ -398,10 +398,13 @@ Cuando se tienen varios fluidos, $F_{R}$ es la superposición de las fuerzas res
 $$
 \begin{align*}
 	-F_{H} &= F_{x} \\
-	F_{H} &= 
+	F_{H} &= \rho g h_{c}A \\
+	&= (1000kg/m^{3})(9.8m/s^{2})(1.5m)(1.5m*4m) \\
+	&= 176400N
 \end{align*}
 $$
 
+![](attachments/Pasted%20image%2020230322083845.png)
 
 
 
