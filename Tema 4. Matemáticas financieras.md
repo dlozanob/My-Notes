@@ -150,6 +150,17 @@ Al realizar un préstamo, este debe ser pagado en cuotas a lo largo de varios de
 
 ### Serie uniforme
 
+La cuota es la misma en cada periodo
+
+![](attachments/Pasted%20image%2020230322184630.png)
+
+$$
+\begin{align*}
+	
+\end{align*}
+$$
+
+
 
 
 
