@@ -88,12 +88,19 @@ En el fluido se formarán algunos lazos cerrados donde la presión no varía a l
 
 ![](attachments/Pasted%20image%2020230321222030.png)
 
-Para hallar la parametrización de estos lazos:
+Hallamos la parametrización de estos lazos:
 
 $$
 \begin{align*}
+	0 &= \rho r \omega^{2}dr - \gamma dz \\\\
 	\frac{dz}{dr} &= \frac{r\omega^{2}}{g} \\\\
-	\int _{0}^{z} \, dz &= \frac{\omega^{2}}{g}\int _{0}^{r}r \, dr \\\\
-	\boxed{z(r) = }
+	\int _{0}^{z} \, dz &= \frac{\omega^{2}}{g}\int _{0}^{r}r \, dr
 \end{align*}
 $$
+
+$$
+\begin{align*}
+	\boxed{z(r) = \frac{\omega^{2}r^{2}}{2g}}
+\end{align*}
+$$
+
