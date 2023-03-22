@@ -11,8 +11,12 @@
             "id": "6718191b799f71f7",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Tema 4. Matemáticas financieras.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -76,6 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Tema 4. Matemáticas financieras.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,6 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Tema 4. Matemáticas financieras.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,7 +119,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Tema 4. Matemáticas financieras.md"
+              }
             }
           },
           {
@@ -166,6 +174,10 @@
   },
   "active": "6718191b799f71f7",
   "lastOpenFiles": [
+    "Módulo 1. Economía y matemática financiera.md",
+    "Finanzas.md",
+    "Ciencias Económicas y Administrativas.md",
+    "Main.md",
     "Cap. 3. Solución de las ecuaciones de estado de sistemas LTI.md",
     "Señales y Sistemas II.md",
     "Excalidraw/blackboard.excalidraw.md",
@@ -187,15 +199,11 @@
     "Tema 2. Estructura del mercado.md",
     "Módulo 3. Introducción al mercado de capitales.md",
     "Tema 1. Infraestructura de los mercados financieros.md",
-    "Finanzas.md",
-    "Módulo 1. Economía y matemática financiera.md",
     "Tema 4. Matemáticas financieras.md",
     "Ingeniería Económica.md",
     "Tema 3. Indicadores macroeconómicos.md",
     "Tema 2. Función de oferta y demanda.md",
     "Tema 1. Economía.md",
-    "Ciencias Económicas y Administrativas.md",
-    "Main.md",
     "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
     "Propiedades de los Fluidos.md",
     "LaTeX.md",
