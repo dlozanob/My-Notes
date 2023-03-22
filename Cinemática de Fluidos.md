@@ -4,7 +4,7 @@ Partiendo de la expresión:
 
 $$
 \begin{align*}
-	-\vec{\nabla}p - \gamma \hat{k} = \vec{\rho}a
+	-\vec{\nabla}P - \gamma \hat{k} = \vec{\rho}a
 \end{align*}
 $$
 
@@ -36,11 +36,22 @@ $$
 $$
 
 Al acelerarse el fluido, habrán algunas líneas cuya presión a lo largo de las mismas es igual.
+
+![](attachments/Pasted%20image%2020230321205605.png)
+
 Con el fín de parametrizar estas líneas, se hace la derivada total $dP$ nula.
 
 $$
 \begin{align*}
 	0 = -\rho a_{y}dy - \rho(a_{z} + g)dz \\\\
 	\boxed{\frac{dz}{dy} = -\frac{a_{y}}{a_{z} + g}}
+\end{align*}
+$$
+
+Para el caso rotacional, el gradiente de P en coordenadas cilíndricas toma la forma:
+
+$$
+\begin{align*}
+	\vec{\nabla}P = \frac{\partial P}{\partial r}\hat{r} + \frac{1}{r} \frac{\partial P}{\partial \theta}\theta ha
 \end{align*}
 $$

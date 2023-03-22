@@ -29,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -91,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md",
+                "file": "Cinemática de Fluidos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md",
+                "file": "Cinemática de Fluidos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md"
+                "file": "Cinemática de Fluidos.md"
               }
             }
           },
@@ -182,12 +181,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "147e5c51fb8a7b58",
+  "active": "e2e7d108e18b5f43",
   "lastOpenFiles": [
-    "Cinemática de Fluidos.md",
     "Excalidraw/blackboard.excalidraw.md",
-    "balck.md",
     "Estática de Fluidos.md",
+    "Cinemática de Fluidos.md",
+    "attachments/Pasted image 20230321205605.png",
+    "balck.md",
     "Fundamentos de Mecánica de Fluidos.md",
     "Física.md",
     "Tema 2. Estructura del mercado.md",
@@ -218,8 +218,6 @@
     "attachments/Pasted image 20230320161136.png",
     "attachments/Pasted image 20230320155520.png",
     "attachments/Pasted image 20230320155510.png",
-    "Excalidraw/attachments/Pasted Image 20230320155508_992.png",
-    "Cap. 3. Solución de las ecuaciones de estado de sistemas LTI.md",
     "Excalidraw/attachments",
     "attachments",
     "New folder",
