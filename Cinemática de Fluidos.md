@@ -92,6 +92,8 @@ Para hallar la parametrización de estos lazos:
 
 $$
 \begin{align*}
-	
+	\frac{dz}{dr} &= \frac{r\omega^{2}}{g} \\\\
+	\int _{0}^{z} \, dz &= \frac{\omega^{2}}{g}\int _{0}^{r}r \, dr \\\\
+	\boxed{z(r) = }
 \end{align*}
 $$
