@@ -29,7 +29,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -90,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estática de Fluidos.md",
+                "file": "Excalidraw/blackboard.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Estática de Fluidos.md",
+                "file": "Excalidraw/blackboard.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estática de Fluidos.md"
+                "file": "Excalidraw/blackboard.excalidraw.md"
               }
             }
           },
@@ -182,11 +183,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "df6a6a7256c9d83d",
+  "active": "654d05b35f599233",
   "lastOpenFiles": [
-    "attachments/Pasted image 20230322084452.png",
-    "Excalidraw/blackboard.excalidraw.md",
     "Estática de Fluidos.md",
+    "attachments/Pasted image 20230322085021.png",
+    "Excalidraw/blackboard.excalidraw.md",
+    "attachments/Pasted image 20230322084452.png",
     "attachments/Pasted image 20230322083845.png",
     "attachments/Pasted image 20230322083835.png",
     "attachments/Pasted image 20230322083519.png",
@@ -197,7 +199,6 @@
     "Cinemática de Fluidos.md",
     "attachments/Pasted image 20230321222030.png",
     "attachments/Pasted image 20230321221906.png",
-    "attachments/Pasted image 20230321205605.png",
     "balck.md",
     "Física.md",
     "Tema 2. Estructura del mercado.md",
@@ -207,7 +208,6 @@
     "Módulo 1. Economía y matemática financiera.md",
     "Tema 4. Matemáticas financieras.md",
     "Ingeniería Económica.md",
-    "attachments/Pasted image 20230321150833.png",
     "Tema 3. Indicadores macroeconómicos.md",
     "Tema 2. Función de oferta y demanda.md",
     "Tema 1. Economía.md",
