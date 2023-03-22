@@ -86,5 +86,12 @@ $$
 
 En el fluido se formarán algunos lazos cerrados donde la presión no varía a lo largo de ellos.
 
+![](attachments/Pasted%20image%2020230321222030.png)
 
+Para hallar la parametrización de estos lazos:
 
+$$
+\begin{align*}
+	
+\end{align*}
+$$
