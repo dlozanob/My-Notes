@@ -76,3 +76,15 @@ $$
 $$
 
 Se sabe que $\hat{a}_{r} = -r\omega^{2}\hat{r}$. Además, $\hat{a}_{\theta} = \hat{a}_{z} = 0$, ya que, de lo contrario habrían esfuerzos cortantes.
+
+$$
+\begin{align*}
+	dP &= \frac{\partial P}{\partial r}dr + \frac{\partial P}{\partial \theta}d\theta + \frac{\partial P}{\partial z}dz \\
+	dP &= \rho r\omega^{2}dr - \gamma dz
+\end{align*}
+$$
+
+En el fluido se formarán algunos lazos cerrados donde la presión no varía a lo largo de ellos.
+
+
+
