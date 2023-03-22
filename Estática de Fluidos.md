@@ -349,7 +349,9 @@ Entonces $p_{0} = P_{atm_{1}} - P_{atm_{2}}$
 
 $$
 \begin{align*}
-	F_{R}
+	F_{R} &= -p_{0}A + (p_{0} + \rho gh_{c})A \\
+	F_{R} &= \rho gh_{c}A = (1025kg/m^{3})(9.8m /s^{2})(4m)[\pi (0.15m)^{2}] \\
+	F_{R} = 2840N
 \end{align*}
 $$
 
