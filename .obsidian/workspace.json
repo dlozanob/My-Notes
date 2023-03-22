@@ -11,8 +11,12 @@
             "id": "df6a6a7256c9d83d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Estática de Fluidos.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -76,6 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Estática de Fluidos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,6 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Estática de Fluidos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,7 +119,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Estática de Fluidos.md"
+              }
             }
           },
           {
@@ -165,6 +173,7 @@
   },
   "active": "df6a6a7256c9d83d",
   "lastOpenFiles": [
+    "Fundamentos de Mecánica de Fluidos.md",
     "Excalidraw/blackboard.excalidraw.md",
     "Cinemática de Fluidos.md",
     "attachments/Pasted image 20230321222030.png",
@@ -172,7 +181,6 @@
     "Estática de Fluidos.md",
     "attachments/Pasted image 20230321205605.png",
     "balck.md",
-    "Fundamentos de Mecánica de Fluidos.md",
     "Física.md",
     "Tema 2. Estructura del mercado.md",
     "Módulo 3. Introducción al mercado de capitales.md",
