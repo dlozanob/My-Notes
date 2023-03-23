@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tema 2. Estructura del mercado.md",
+                "file": "Tema 1. Infraestructura de los mercados financieros.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tema 2. Estructura del mercado.md",
+                "file": "Tema 1. Infraestructura de los mercados financieros.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tema 2. Estructura del mercado.md",
+                "file": "Tema 1. Infraestructura de los mercados financieros.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tema 2. Estructura del mercado.md"
+                "file": "Tema 1. Infraestructura de los mercados financieros.md"
               }
             }
           },
@@ -175,6 +175,7 @@
   "active": "6718191b799f71f7",
   "lastOpenFiles": [
     "Módulo 3. Introducción al mercado de capitales.md",
+    "Tema 2. Estructura del mercado.md",
     "Finanzas.md",
     "Módulo 1. Economía y matemática financiera.md",
     "Tema 3. Indicadores macroeconómicos.md",
@@ -209,7 +210,6 @@
     "Fundamentos de Mecánica de Fluidos.md",
     "Cinemática de Fluidos.md",
     "balck.md",
-    "Física.md",
     "Excalidraw/attachments",
     "attachments",
     "New folder",

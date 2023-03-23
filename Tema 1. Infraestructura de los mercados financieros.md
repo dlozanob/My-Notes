@@ -1,5 +1,8 @@
 # Tema 1. Infraestructura de los mercados financieros
 
+## Mercados financieros
+
+El mercado primario permite el financiamiento de las actividades públicas o privadas
 
 
 
