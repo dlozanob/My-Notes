@@ -23,15 +23,12 @@
             "id": "75b259de607a71cf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HTML.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -92,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tema 1. Composición y estructura del balance general, estado de resultados y flujo de caja neto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tema 1. Composición y estructura del balance general, estado de resultados y flujo de caja neto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Tema 1. Composición y estructura del balance general, estado de resultados y flujo de caja neto.md"
-              }
+              "state": {}
             }
           },
           {
@@ -184,7 +177,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6718191b799f71f7",
+  "active": "75b259de607a71cf",
   "lastOpenFiles": [
     "HTML.md",
     "Tema 1. Composición y estructura del balance general, estado de resultados y flujo de caja neto.md",
