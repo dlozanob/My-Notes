@@ -118,7 +118,7 @@ $$
 Donde $n$ es el número de veces que el periodo cabe en un año.
 
 - __Ejemplo__ :
-	- $16\%$ EM $\to$ $?$ ET
+	- $16\%$ ES $\to$ $?$ ET
 
 $$
 \begin{align*}

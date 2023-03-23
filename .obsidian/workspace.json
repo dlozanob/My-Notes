@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Tema 4. Matemáticas financieras.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -26,7 +26,7 @@
               "type": "markdown",
               "state": {
                 "file": "Fórmulas Financieras Excel.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -198,9 +198,9 @@
   },
   "active": "6718191b799f71f7",
   "lastOpenFiles": [
-    "Ingeniería Económica.md",
     "Fórmulas Financieras Excel.md",
     "Tema 4. Matemáticas financieras.md",
+    "Ingeniería Económica.md",
     "formulas financiera.md",
     "Módulo 1. Economía y matemática financiera.md",
     "Finanzas.md",

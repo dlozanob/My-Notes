@@ -442,6 +442,18 @@ $$
 >[!Note]
 >En este ejemplo, se dice que $R = 24 \%$ es una tasa de interés anual capitalizada trimestralmente
 
+- __Ejemplo__ :
+	- $16\%$ ES $\to$ $?$ ET
+
+$$
+\begin{align*}
+	i_{EA} &= (1 + 0.16)^{2} - 1 \\
+	&= 34.56\% \\\\
+	i_{EA} &= (1 + i_{ET})^{4} - 1 \\
+	i_{ET} &= 7.7\%
+\end{align*}
+$$
+
 
 ## Métodos de evaluación económica de proyectos
 
