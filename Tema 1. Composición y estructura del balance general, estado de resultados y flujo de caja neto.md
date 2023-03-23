@@ -13,6 +13,46 @@ Informa cómo se obtuvo la utilidad o pérdida de un periodo contable
 	<tr>
 		<th><center>(+) Ingresos</center><th>
 	</tr>
+
+	<tr>
+		<td>(-) Costos de ventas</td>
+	</tr>
+	<tr>
+		<td>(-) Gastos de distribución</td>
+	</tr>
+	<tr>
+		<td>(-) Gastos de administración</td>
+	</tr>
+	<tr>
+		<td> EBITDA</td>
+	</tr>
+	<tr>
+		<td>(-) Depreciación y amortizaciones</td>
+	</tr>
+	<tr>
+		<td> EBIT</td>
+	</tr>
+	<tr>
+		<td>(-) Gastos financieros</td>
+	</tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 	<tr>
 		<th><center>(-) Costos</center></th>
 	</tr>
@@ -20,16 +60,18 @@ Informa cómo se obtuvo la utilidad o pérdida de un periodo contable
 	<tr>
 		<td>(+) Inventario inicial</td>
 	</tr>
-
 	<tr>
 		<td>(+) Compras</td>
 	</tr>
-
 	<tr>
 		<td>Σ Mercancía disponible</td>
 	</tr>
-
-
+	<tr>
+		<td>(-) Inventario final</td>
+	</tr>
+	<tr>
+		<td>Σ Costo de venta</td>
+	</tr>
 
 
 	<tr>
