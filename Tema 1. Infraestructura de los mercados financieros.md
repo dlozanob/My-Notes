@@ -16,7 +16,11 @@ Las calificadores de riesgo son entidades externas que estudian el caso del pré
 La mejor calificación que brinda esta organización es AAA.
 Riesgo intermedio BBB-
 
-El mercado secundario
+En el mercado secundario, es darle liquidez al mercado financiero
+
+La liquidez de un bono supone qué tan rápido se puede convertir un bono en efectivo
+Igualmente sucede con las acciones
+los bonos del gobierno son liquidos
 
 
 
