@@ -156,16 +156,15 @@ La cuota es la misma en cada periodo
 
 $$
 \begin{align*}
-	
+	A = P\left[ \frac{i(1 + i)^{n}}{(1 + i)^{n} - 1} \right]
 \end{align*}
 $$
 
 
-
-
-
-
 ### Gradiente aritmético
+
+
+
 
 
 ### Gradiente geométrico
