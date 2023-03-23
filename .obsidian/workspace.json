@@ -13,19 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Módulo 2. Diagnóstico financiero.md",
+                "file": "Tema 1. Composición y estructura del balance general, estado de resultados y flujo de caja neto.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "62d6dcfd683e22ca",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md"
               }
             }
           }
@@ -90,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Módulo 2. Diagnóstico financiero.md",
+                "file": "Tema 1. Composición y estructura del balance general, estado de resultados y flujo de caja neto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Módulo 2. Diagnóstico financiero.md",
+                "file": "Tema 1. Composición y estructura del balance general, estado de resultados y flujo de caja neto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Módulo 2. Diagnóstico financiero.md"
+                "file": "Tema 1. Composición y estructura del balance general, estado de resultados y flujo de caja neto.md"
               }
             }
           },
@@ -184,12 +174,17 @@
   },
   "active": "6718191b799f71f7",
   "lastOpenFiles": [
-    "Finanzas.md",
+    "Tema 1. Composición y estructura del balance general%2C estado de resultados y flujo de caja neto.md",
     "Módulo 2. Diagnóstico financiero.md",
+    "Tema 1. Composición y estructura del balance general, estado de resultados y flujo de caja neto.md",
+    "Automatización, Control y Robótica.md",
+    "Automatización%2C Control y Robótica.md",
+    "Main.md",
+    "Finanzas.md",
+    "Excalidraw/blackboard.excalidraw.md",
     "Módulo 3. Introducción al mercado de capitales.md",
     "Módulo 1. Economía y matemática financiera.md",
     "Tema 4. Matemáticas financieras.md",
-    "Excalidraw/blackboard.excalidraw.md",
     "Fórmulas Financieras Excel.md",
     "Ingeniería Económica.md",
     "attachments/Pasted image 20230322193804.png",
@@ -198,7 +193,6 @@
     "attachments/Pasted image 20230322184630.png",
     "Propiedades de los Fluidos.md",
     "Ciencias Económicas y Administrativas.md",
-    "Main.md",
     "Cap. 3. Solución de las ecuaciones de estado de sistemas LTI.md",
     "Señales y Sistemas II.md",
     "Estática de Fluidos.md",
@@ -216,10 +210,6 @@
     "Tema 1. Infraestructura de los mercados financieros.md",
     "Tema 3. Indicadores macroeconómicos.md",
     "Tema 2. Función de oferta y demanda.md",
-    "Tema 1. Economía.md",
-    "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
-    "LaTeX.md",
-    "HTML.md",
     "Excalidraw/attachments",
     "attachments",
     "New folder",
