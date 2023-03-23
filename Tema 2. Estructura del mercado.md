@@ -4,7 +4,7 @@ Se considera _valor_ a cualquier derecho de manera negociable que haga parte de 
 
 Ejemplos:
 - Títulos de deuda pública: Emisiones que hacen los gobiernos para financiar sus compromisos de corto plazo
-- Acciones: Capital representado en patrimonio
+- Acciones: Capital representado en patrimonio. Los tenedores de las acciones se vuelven socios de la empresa y pueden tomar desiciones sobre ellas
 - Bonos: Son préstamos que se le hacen a una empresa para que esta pueda financiarse. Normalmente se emiten varios bonos. Estos están representados en porcentaje
 - Papeles comerciales
 - Certificados de propósito de mercancías
@@ -29,3 +29,14 @@ Las _cámaras de riesgo_ custodian los títulos correspondientes a las transacci
 
 
 - _Sistemas de compensación y liquidación de valores_ : Son mecanismos para la confirmación, compesación y liquidación de operaciones sobre valores
+
+
+
+
+
+
+Las utilidades que genera la empresa se llaman _dividendos_
+
+renta variable -> acciones
+renta fija -> bonos
+
