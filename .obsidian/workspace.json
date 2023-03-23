@@ -26,6 +26,18 @@
               "type": "markdown",
               "state": {
                 "file": "Fórmulas Financieras Excel.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fa8e7cd4eef35d9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ingeniería Económica.md",
                 "mode": "preview",
                 "source": false
               }
@@ -187,6 +199,8 @@
   },
   "active": "e02088eb34941b28",
   "lastOpenFiles": [
+    "Ingeniería Económica.md",
+    "Fórmulas Financieras Excel.md",
     "Tema 4. Matemáticas financieras.md",
     "formulas financiera.md",
     "Módulo 1. Economía y matemática financiera.md",
@@ -201,8 +215,6 @@
     "Main.md",
     "Excalidraw/blackboard.excalidraw.md",
     "Módulo 3. Introducción al mercado de capitales.md",
-    "Fórmulas Financieras Excel.md",
-    "Ingeniería Económica.md",
     "attachments/Pasted image 20230322193804.png",
     "attachments/Pasted image 20230322193332.png",
     "attachments/Pasted image 20230322192716.png",
