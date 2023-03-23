@@ -223,6 +223,7 @@ Used within `<ul>` or `<ol>`
 	- `<tr>` : Table row
 	- `<th>` : Table header
 	- `<td>` : Table element
+		- `colspan` : Columns it takes
 
 Example:
 
