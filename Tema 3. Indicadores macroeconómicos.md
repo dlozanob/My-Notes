@@ -119,6 +119,7 @@ Desventajas del IPC:
 Los bancos usan una porción del dinero que toman de alguien que deposita para mantenerla como reserva. La tasa que define esa porción se llama _encaje_ (10% - 20%).
 Esta es una herramienta de prevención de riesgos.
 Al aumentar el encaje disminuye la liquidez.
+El encaje regula el dinero en circulación de una economía.
 
 Los principales objetivos del Banco Central son:
 - Reducir el desempleo
