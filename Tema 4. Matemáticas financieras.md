@@ -86,6 +86,15 @@ Por tanto, la inflación en el año es del $1.92\%$.
 
 Donde $B$ es el periodo de tiempo sobre el que actua la tasa, $C$ es el periodo de composición de esta.
 
+A partir de una tasa efectiva se producen tasas nominales compuestas:
+- $2\%EM$ 
+
+
+
+
+
+
+
 
 - _Tasas anticipadas_ : El interés se genera al inicio de cada periodo
 - _Tasas vencidas_ : El interés se genera al final de cada periodo
