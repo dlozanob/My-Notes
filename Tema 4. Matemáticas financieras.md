@@ -87,14 +87,20 @@ Por tanto, la inflación en el año es del $1.92\%$.
 Donde $B$ es el periodo de tiempo sobre el que actua la tasa, $C$ es el periodo de composición de esta.
 
 A partir de una tasa efectiva se producen tasas nominales compuestas:
-- $2\%EM$ 
+- $2\%EM\to 12\%NSM$
+- $2\%EM\to 6\%NTM$
+- $4\%ET\to 16\%NAT$
+- $1.5\%ES\to 3\%NAS$
 
+Para el cálculo entre tasas efectivas se puede hacer:
 
+$$
+\begin{align*}
+	\boxed{(1 + i_{E_{1}})^{n_{1}} = (1 + i_{E_{2}})^{n_{2}}}
+\end{align*}
+$$
 
-
-
-
-
+Donde $n$ es el número de veces que el periodo cabe en un año.
 
 - _Tasas anticipadas_ : El interés se genera al inicio de cada periodo
 - _Tasas vencidas_ : El interés se genera al final de cada periodo
@@ -116,16 +122,6 @@ $$
 >- $20\%$ EA : Efectiva anual
 >- $1.8\%$ EM : Efectiva mensual
 
-Para el cálculo entre tasas efectivas se puede hacer:
-
-$$
-\begin{align*}
-	\boxed{(1 + i_{E_{1}})^{n_{1}} = (1 + i_{E_{2}})^{n_{2}}}
-\end{align*}
-$$
-
-Donde $n$ es el número de veces que el periodo cabe en un año.
-
 - __Ejemplo__ :
 	- $16\%$ ES $\to$ $?$ ET
 
@@ -133,6 +129,14 @@ $$
 \begin{align*}
 	(1 + 0.16)^{2} &= (1 + i_{ET})^{4} \\
 	i_{ET} &= 7.7\%
+\end{align*}
+$$
+- __Ejemplo__ :
+	- $24\%$ NAM $\to$ $?$ NSM
+
+$$
+\begin{align*}
+	24\%NAM = 
 \end{align*}
 $$
 
