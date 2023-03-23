@@ -107,7 +107,30 @@ $$
 >- $20\%$ EA : Efectiva anual
 >- $1.8\%$ EM : Efectiva mensual
 
-Para el cálculo entre tasas efectivas 
+Para el cálculo entre tasas efectivas se puede hacer:
+
+$$
+\begin{align*}
+	\boxed{(1 + i_{E_{1}})^{n_{1}} = (1 + i_{E_{2}})^{n_{2}}}
+\end{align*}
+$$
+
+Donde $n$ es el número de veces que el periodo cabe en un año.
+
+- __Ejemplo__ :
+	- $16\%$ EM $\to$ $?$ ET
+
+$$
+\begin{align*}
+	(1 + 0.16)^{2} &= (1 + i_{ET})^{4} \\
+	i_{ET} &= 7.7\%
+\end{align*}
+$$
+
+
+
+
+
 
 
 
