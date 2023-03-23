@@ -146,9 +146,19 @@ $$
 \end{align*}
 $$
 
+>[!Note]
+>Todos estos cálculos sirven siempre y cuando la tasa sea vencida.
+>Si se trabaja con tasas anticipadas, deben convertirse a vencidas para poder efectuar los cálculos.
 
+- __Ejemplo__ :
+	- $4\%$ ETa $\to$ $?$ ESa
 
-
+$$
+\begin{align*}
+	i_{v} &= \frac{0.04}{1 - 0.04} \\
+	&= 
+\end{align*}
+$$
 
 
 
