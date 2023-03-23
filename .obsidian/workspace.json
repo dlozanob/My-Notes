@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Módulo 3. Introducción al mercado de capitales.md",
-                "mode": "preview",
+                "file": "Tema 3. Indicadores macroeconómicos.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -80,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Módulo 3. Introducción al mercado de capitales.md",
+                "file": "Tema 3. Indicadores macroeconómicos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Módulo 3. Introducción al mercado de capitales.md",
+                "file": "Tema 3. Indicadores macroeconómicos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Módulo 3. Introducción al mercado de capitales.md"
+                "file": "Tema 3. Indicadores macroeconómicos.md"
               }
             }
           },
@@ -174,11 +174,11 @@
   },
   "active": "6718191b799f71f7",
   "lastOpenFiles": [
-    "Ingeniería Económica.md",
-    "Módulo 3. Introducción al mercado de capitales.md",
-    "Finanzas.md",
-    "Módulo 2. Diagnóstico financiero.md",
     "Módulo 1. Economía y matemática financiera.md",
+    "Finanzas.md",
+    "Módulo 3. Introducción al mercado de capitales.md",
+    "Ingeniería Económica.md",
+    "Módulo 2. Diagnóstico financiero.md",
     "Tema 4. Matemáticas financieras.md",
     "Fórmulas Financieras Excel.md",
     "formulas financiera.md",
