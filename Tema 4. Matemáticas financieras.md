@@ -169,16 +169,13 @@ La cuota incrementa un valor $G$ cada periodo
 
 $$
 \begin{align*}
-	P = A\left[ \frac{1-(1 + i)^{-n}}{i} \right]
+	P = A\left[ \frac{1-(1 + i)^{-n}}{i} \right] + \frac{G}{i}\left[ \frac{1-(1 + i)^{-n}}{i} - \frac{n}{(1 + i)^{n}}\right]
 \end{align*}
 $$
 
 
-
-
-
-
-
 ### Gradiente geométrico
 
+Se añade un $j\%$ 
 
+![](attachments/Pasted%20image%2020230322193332.png)
