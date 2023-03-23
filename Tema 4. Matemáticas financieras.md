@@ -163,6 +163,18 @@ $$
 
 ### Gradiente aritmético
 
+La cuota incrementa un valor $G$ cada periodo
+
+![](attachments/Pasted%20image%2020230322192716.png)
+
+$$
+\begin{align*}
+	P = A\left[ \frac{1-(1 + i)^{-n}}{i} \right]
+\end{align*}
+$$
+
+
+
 
 
 
