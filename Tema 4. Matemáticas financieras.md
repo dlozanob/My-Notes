@@ -132,11 +132,17 @@ $$
 \end{align*}
 $$
 - __Ejemplo__ :
-	- $24\%$ NAM $\to$ $?$ NSM
+	- $24\%$ NAM $\to$ $?$ NST
 
 $$
 \begin{align*}
-	24\%NAM = 
+	24\%NAM &= \left( \frac{24\%}{12} \right)EM \\
+	&= 2\% EM \\\\
+	 (1 + i_{EM})^{12} &= (1 + i_{ET})^{4} \\
+	i_{ET} &= (1 + 2\%)^{3} - 1 \\
+	&= 6.12\% \\\\
+	6.12\%ET &= (2*6.12\%)NST \\
+	&= 12.24\%NST
 \end{align*}
 $$
 
