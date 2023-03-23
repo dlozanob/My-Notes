@@ -176,6 +176,26 @@ $$
 
 ### Gradiente geométrico
 
-Se añade un $j\%$ 
+La cuota se incrementa un $j\%$ con cada periodo
 
 ![](attachments/Pasted%20image%2020230322193332.png)
+
+$$
+\begin{align*}
+	P = k\left[ \frac{1 - \left( \frac{1 + j}{1 + i} \right)^{n}}{(i - j)} \right]
+\end{align*}
+$$
+
+
+### Perpetuidades
+
+El número de periodos es infinito
+
+![](attachments/Pasted%20image%2020230322193804.png)
+
+$$
+\begin{align*}
+	P = \frac{A}{i}
+\end{align*}
+$$
+
