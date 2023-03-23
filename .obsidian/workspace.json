@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Módulo 2. Diagnóstico financiero.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fa8e7cd4eef35d9e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ingeniería Económica.md",
+                "file": "Módulo 3. Introducción al mercado de capitales.md",
                 "mode": "preview",
                 "source": false
               }
@@ -92,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Módulo 2. Diagnóstico financiero.md",
+                "file": "Módulo 3. Introducción al mercado de capitales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Módulo 2. Diagnóstico financiero.md",
+                "file": "Módulo 3. Introducción al mercado de capitales.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Módulo 2. Diagnóstico financiero.md"
+                "file": "Módulo 3. Introducción al mercado de capitales.md"
               }
             }
           },
@@ -186,22 +174,22 @@
   },
   "active": "6718191b799f71f7",
   "lastOpenFiles": [
+    "Ingeniería Económica.md",
+    "Módulo 3. Introducción al mercado de capitales.md",
     "Finanzas.md",
+    "Módulo 2. Diagnóstico financiero.md",
     "Módulo 1. Economía y matemática financiera.md",
     "Tema 4. Matemáticas financieras.md",
-    "Ingeniería Económica.md",
     "Fórmulas Financieras Excel.md",
     "formulas financiera.md",
     "Tema 1. Composición y estructura del balance general, estado de resultados y flujo de caja neto.md",
     "Mecanismos.md",
     "HTML.md",
     "Tema 1. Composición y estructura del balance general%2C estado de resultados y flujo de caja neto.md",
-    "Módulo 2. Diagnóstico financiero.md",
     "Automatización, Control y Robótica.md",
     "Automatización%2C Control y Robótica.md",
     "Main.md",
     "Excalidraw/blackboard.excalidraw.md",
-    "Módulo 3. Introducción al mercado de capitales.md",
     "attachments/Pasted image 20230322193804.png",
     "attachments/Pasted image 20230322193332.png",
     "attachments/Pasted image 20230322192716.png",
