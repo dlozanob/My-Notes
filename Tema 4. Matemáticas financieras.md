@@ -107,6 +107,10 @@ $$
 >- $20\%$ EA : Efectiva anual
 >- $1.8\%$ EM : Efectiva mensual
 
+Para el cálculo entre tasas efectivas 
+
+
+
 
 ## Amortizaciones
 
