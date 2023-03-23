@@ -85,3 +85,16 @@ $$
 \end{align*}
 $$
 
+- _Activo_ :
+	- Corriente o circulante
+	- No corriente
+		- Activos fijos tangibles
+		- Activos fijos intangibles
+
+- _Pasivo_ : 
+	- Corriente o a corto plazo
+	- No corriente o a largo plazo
+
+- _Patrimonio_ : 
+	- Capital
+	- Utilidades o pérdidas
