@@ -70,6 +70,18 @@ Informa cómo se obtuvo la utilidad o pérdida de un periodo contable
 </table>
 </center>
 
+- _EBITDA_ : Earnings Before Interest, Taxes, Depreciation and Amortization. Ganancias antes de intereses, impuestos, depreciaciones y amortizaciones.
+- _EBIT_ : Earnings Before Interest and Taxes. Ganancias antes de intereses e impuestos.
+- _EBT_ : Earnings Before Taxes. Ganancias antes de impuestos.
 
 
+## Estado de situación financiera (balance general)
+
+Presenta el valor de las propiedades, obligaciones y capital de una empresa.
+
+$$
+\begin{align*}
+	ACTIVO = PASIVO + PATRIMONIO
+\end{align*}
+$$
 
