@@ -128,6 +128,9 @@ Los principales objetivos del Banco Central son:
 
 Estos son entes independientes del gobierno.
 
+>[!Note]
+>La _tasa de usura_ o _tasa de interés de política monetaria_ es la tasa máxima que se puede cobrar
+
 
 - _Tasa de cambio_ :  Es la relación entre dos monedas de distintos paises.
 En Colombia es la cantidad en pesos por dólar.
