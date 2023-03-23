@@ -61,7 +61,7 @@ La variación porcentual del indicador que determina el nivel de los precios rep
 >[!Note]
 >En Colombia, este indicador es el IPC (Índice de Precios al Consumidor)
 
-Ejemplo:
+- __Ejemplo__ :
 
 $$
 \begin{align*}
@@ -75,44 +75,9 @@ $$
 Por tanto, la inflación en el año es del $1.92\%$.
 
 
-
-El $VPN$ se halla trayendo todos los valores al año 0 y se sumándolos entre ellos.
-Está descrita por:
-
-$$
-	VPN = \sum_{t = 1}^{n}\frac{V_{t}}{(1 + k)^t} - I_{0}
-$$
-
-Donde:
-- $t$ : Periodo
-- $n$ : Último periodo
-- $V_{t}$ : Valor neto en un determinado periodo
-- $k$ : TMAR o TD
-- $I_{0}$ : Inversión en el año 0
-
-Al usarse el $VPN$ como criterio de desición, se escoge la alternativa que satisfaga:
-
-$$
-	TIR \geq TMAR
-$$
-Si $TIR = TMAR$ entonces $VPN = 0$.
-Si esto sucede, la alternativa no se rechaza, ya que, se está obteniendo lo mínimo que se esperaba al invertir.
-
-
-Al igualar a 0 el flujo de caja neto en el año 0, es decir, el VPN, se halla la TIR ($k$)
-
->[!Note]
->Convención para las tasas:
->- $20\%$ EA : Efectiva anual
->- $1.8\%$ EM : Efectiva mensual
-
-
 - CPPC o WACC Weighted Average Cost of Capital : Costo promedio ponderado de capital
 
 - TD :  Tasa de descuento
-
-
-
 
 
 ## Identificación y conversión de tasas
@@ -136,6 +101,11 @@ $$
 	\boxed{i_{v} = \frac{i_{a}}{1 - i_{a}}}
 \end{align*}
 $$
+
+>[!Note]
+>Algunos ejemplos:
+>- $20\%$ EA : Efectiva anual
+>- $1.8\%$ EM : Efectiva mensual
 
 
 ## Amortizaciones
@@ -196,3 +166,27 @@ $$
 
 ## TIR y VPN
 
+El $VPN$ se halla trayendo todos los valores al año 0 y sumándolos entre ellos.
+Está descrita por:
+
+$$
+	VPN = \sum_{t = 1}^{n}\frac{V_{t}}{(1 + k)^t} - I_{0}
+$$
+
+Donde:
+- $t$ : Periodo
+- $n$ : Último periodo
+- $V_{t}$ : Valor neto en un determinado periodo
+- $k$ : TMAR o TD
+- $I_{0}$ : Inversión en el año 0
+
+Al usarse el $VPN$ como criterio de desición, se escoge la alternativa que satisfaga:
+
+$$
+	TIR \geq TMAR
+$$
+Si $TIR = TMAR$ entonces $VPN = 0$.
+Si esto sucede, la alternativa no se rechaza, ya que, se está obteniendo lo mínimo que se esperaba al invertir.
+
+
+Al igualar a 0 el flujo de caja neto en el año 0, es decir, el VPN, se halla la TIR ($k$)
