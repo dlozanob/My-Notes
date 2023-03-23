@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Tema 1. Composición y estructura del balance general, estado de resultados y flujo de caja neto.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -27,8 +27,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -89,6 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Tema 1. Composición y estructura del balance general, estado de resultados y flujo de caja neto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Tema 1. Composición y estructura del balance general, estado de resultados y flujo de caja neto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +127,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Tema 1. Composición y estructura del balance general, estado de resultados y flujo de caja neto.md"
+              }
             }
           },
           {
@@ -177,8 +180,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "75b259de607a71cf",
+  "active": "6718191b799f71f7",
   "lastOpenFiles": [
+    "Mecanismos.md",
     "HTML.md",
     "Tema 1. Composición y estructura del balance general, estado de resultados y flujo de caja neto.md",
     "Tema 1. Composición y estructura del balance general%2C estado de resultados y flujo de caja neto.md",
@@ -214,7 +218,6 @@
     "Física.md",
     "Tema 2. Estructura del mercado.md",
     "Tema 1. Infraestructura de los mercados financieros.md",
-    "Tema 3. Indicadores macroeconómicos.md",
     "Excalidraw/attachments",
     "attachments",
     "New folder",
