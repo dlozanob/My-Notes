@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML.md",
+                "file": "Tema 1. Composición y estructura del balance general, estado de resultados y flujo de caja neto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTML.md",
+                "file": "Tema 1. Composición y estructura del balance general, estado de resultados y flujo de caja neto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTML.md"
+                "file": "Tema 1. Composición y estructura del balance general, estado de resultados y flujo de caja neto.md"
               }
             }
           },
@@ -185,10 +184,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "75b259de607a71cf",
+  "active": "6718191b799f71f7",
   "lastOpenFiles": [
-    "Tema 1. Composición y estructura del balance general, estado de resultados y flujo de caja neto.md",
     "HTML.md",
+    "Tema 1. Composición y estructura del balance general, estado de resultados y flujo de caja neto.md",
     "Tema 1. Composición y estructura del balance general%2C estado de resultados y flujo de caja neto.md",
     "Módulo 2. Diagnóstico financiero.md",
     "Automatización, Control y Robótica.md",

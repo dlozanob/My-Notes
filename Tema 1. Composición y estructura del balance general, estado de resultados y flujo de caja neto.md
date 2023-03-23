@@ -9,4 +9,9 @@ Informa cómo se obtuvo la utilidad o pérdida de un periodo contable
 	<tr>
 		<th>Estado de resultados</th>
 	<tr>
+	<tr>
+		<th><center>Ingresos</center><th>
+	</tr>
+	<tr>
+	</tr>
 </table>
