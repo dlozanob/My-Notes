@@ -148,7 +148,7 @@ $$
 
 >[!Note]
 >Todos estos cálculos sirven siempre y cuando la tasa sea vencida.
->Si se trabaja con tasas anticipadas, deben convertirse a vencidas para poder efectuar los cálculos.
+>Si se trabaja con tasas anticipadas, deben convertirse a efectivas, y apartir de ahí convrtirlas a vencidas para poder efectuar los cálculos.
 
 - __Ejemplo__ :
 	- $4\%$ ETa $\to$ $?$ ESa
