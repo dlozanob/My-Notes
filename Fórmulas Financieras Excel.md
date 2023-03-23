@@ -10,7 +10,7 @@
 | VA() | PV() | Valor presente |
 | VF() | FV() | Valor futuro |
 | PAGO() | PMT() | Anualidad |
-| INT.EFECTIVO() | INT.EFFECTIVE() | Interés efectivo anual |
+| INT.EFECTIVO() | EFFECT() | Interés efectivo anual |
 | TASA() | RATE() | Tasa de interés |
 | TASA.NOMINAL() | NOMINAL() | Hallamos tasa nominal a partir de una tasa efectiva |
 | INT.EFECTIVO() | EFFECT() | Hallamos tasa esfectiva anual a partir de una tasa nominal |
