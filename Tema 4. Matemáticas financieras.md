@@ -180,13 +180,13 @@ Donde:
 - $k$ : TMAR o TD
 - $I_{0}$ : Inversión en el año 0
 
+Al igualar a 0 el flujo de caja neto en el año 0, es decir, el VPN, se halla la TIR ($k$)
+
 Al usarse el $VPN$ como criterio de desición, se escoge la alternativa que satisfaga:
 
 $$
 	TIR \geq TMAR
 $$
+
 Si $TIR = TMAR$ entonces $VPN = 0$.
 Si esto sucede, la alternativa no se rechaza, ya que, se está obteniendo lo mínimo que se esperaba al invertir.
-
-
-Al igualar a 0 el flujo de caja neto en el año 0, es decir, el VPN, se halla la TIR ($k$)
