@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tema 4. Matemáticas financieras.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e02088eb34941b28",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fórmulas Financieras Excel.md",
+                "file": "Módulo 2. Diagnóstico financiero.md",
                 "mode": "preview",
                 "source": false
               }
@@ -43,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ingeniería Económica.md",
+                "file": "Módulo 2. Diagnóstico financiero.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ingeniería Económica.md",
+                "file": "Módulo 2. Diagnóstico financiero.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ingeniería Económica.md"
+                "file": "Módulo 2. Diagnóstico financiero.md"
               }
             }
           },
@@ -197,14 +184,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fa8e7cd4eef35d9e",
+  "active": "6718191b799f71f7",
   "lastOpenFiles": [
-    "Tema 4. Matemáticas financieras.md",
-    "Fórmulas Financieras Excel.md",
-    "Ingeniería Económica.md",
-    "formulas financiera.md",
-    "Módulo 1. Economía y matemática financiera.md",
     "Finanzas.md",
+    "Módulo 1. Economía y matemática financiera.md",
+    "Tema 4. Matemáticas financieras.md",
+    "Ingeniería Económica.md",
+    "Fórmulas Financieras Excel.md",
+    "formulas financiera.md",
     "Tema 1. Composición y estructura del balance general, estado de resultados y flujo de caja neto.md",
     "Mecanismos.md",
     "HTML.md",
