@@ -12,13 +12,13 @@ Toma datos del estado de situación financiera y del estado de resultados.
 		<th><center>Flujo de caja de tesorería</center></th>
 	</tr>
 	<tr>
-		<th><center>+ Utilidad neta</center></th>
+		<th><center>(+) Utilidad neta</center></th>
 	</tr>
 	<tr>
-		<th><center>+ CAPEX</center></th>
+		<th><center>(+) CAPEX</center></th>
 	</tr>
 	<tr>
-		<th><center>+ Saldo anterior de caja</center></th>
+		<th><center>(+) Saldo anterior de caja</center></th>
 	</tr>
 	<tr>
 		<th><center>Σ Flujo de caja de tesorería</center></th>
@@ -38,49 +38,50 @@ Toma datos del estado de situación financiera y del estado de resultados.
 		<th><center>Utilidad neta</center></th>
 	</tr>
 	<tr>
-		<td>+ Utilidad neta</td>
+		<td>(+) Utilidad neta</td>
 	</tr>
 	<tr>
-		<td>+ Depreciaciones y Amortizaciones</td>
+		<td>(+) Depreciaciones y Amortizaciones</td>
 	</tr>
 	<tr>
-		<td>+ Gastos no efectivos</td>
+		<td>(+) Gastos no efectivos</td>
 	</tr>
 	<tr>
-		<td>+ Gastos por diferencia en cambio</td>
+		<td>(+) Gastos por diferencia en cambio</td>
 	</tr>
 	<tr>
-		<td>+ Gastos por corrección monetaria</td>
+		<td>(+) Gastos por corrección monetaria</td>
 	</tr>
 </table>
 
 
 ### Inversión KTN
 
-La inversión KTN (working capital) se calcula:
+La inversión KTN (working capital) se calcula con la variación de cuentas del activo corriente y el pasivo corriente entre dos periodos.
 
 <table>
 	<tr>
 		<th><center>Inversión en Capital de trabajo</center></th>
 	</tr>
 	<tr>
-		<td>- Variación en CXC</td>
+		<td>(-) Variación en CXC</td>
 	</tr>
 	<tr>
-		<td>- Variación en inventarios</td>
+		<td>(-) Variación en inventarios</td>
 	</tr>
 	<tr>
-		<td>- Variación en otros activos corrientes</td>
+		<td>(-) Variación en otros activos corrientes</td>
 	</tr>
 	<tr>
 		<td>Σ Variación total en activos corrientes</td>
 	</tr>
 	<tr>
-		<td>+ Variación en pasivos corrientes</td>
+		<td>(+) Variación en pasivos corrientes</td>
 	</tr>
 </table>
 
-Es la variación de activos corrientes y pasivos corrientes entre dos periodos.
+>[!Note]
+>Se exceptúa el activo corriente disponible
 
 
 ### CAPEX
@@ -92,27 +93,32 @@ La inversión en activos fijos CAPEX (Capital Expenditures) son los recursos emp
 		<th><center>CAPEX</center></th>
 	</tr>
 	<tr>
-		<td>- Equipos de laboratorio</td>
+		<td>(-) Equipos de laboratorio</td>
 	</tr>
 	<tr>
-		<td>- Vehículos</td>
+		<td>(-) Vehículos</td>
 	</tr>
 	<tr>
-		<td>- Muebles y enseres</td>
+		<td>(-) Muebles y enseres</td>
 	</tr>
 	<tr>
-		<td>- Edificios</td>
+		<td>(-) Edificios</td>
 	</tr>
 	<tr>
-		<td>- Terreno</td>
+		<td>(-) Terreno</td>
 	</tr>
 	<tr>
-		<td>Licencias e intangibles</td>
+		<td>(-) Licencias e intangibles</td>
 	</tr>
 	<tr>
-		<td>Pago de préstamos nacionales</td>
+		<td>(+) Pago de préstamos nacionales</td>
 	</tr>
 </table>
 
 >[!Note]
 >Cada inciso representa la variación de costos de cada recurso entre los dos años.
+
+
+## Flujo de caja libre (FCL)
+
+Se refiere a los flujos que generan las actividades operativas.
