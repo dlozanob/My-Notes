@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7aff2316c3df30a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tema 4. Matemáticas financieras.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -117,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fórmulas Financieras Excel.md",
+                "file": "Tema 4. Matemáticas financieras.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fórmulas Financieras Excel.md",
+                "file": "Tema 4. Matemáticas financieras.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fórmulas Financieras Excel.md"
+                "file": "Tema 4. Matemáticas financieras.md"
               }
             }
           },
@@ -208,20 +220,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6136449faf54e828",
+  "active": "7aff2316c3df30a5",
   "lastOpenFiles": [
-    "Tema 4. Financiamiento a corto plazo.md",
-    "Tema 2. Análisis de estados financieros e indicadores financieros.md",
+    "Módulo 1. Economía y matemática financiera.md",
+    "Finanzas.md",
     "Tema 1. Composición y estructura del balance general, estado de resultados y flujo de caja neto.md",
+    "Tema 4. Financiamiento a corto plazo.md",
     "Fórmulas Financieras Excel.md",
+    "Tema 2. Análisis de estados financieros e indicadores financieros.md",
     "Tema 1. Composición y estructura del balance general%2C estado de resultados y flujo de caja neto.md",
     "Módulo 2. Diagnóstico financiero.md",
-    "Finanzas.md",
     "Tema 3. Análisis de flujo de efectivo y análisis de capital de trabajo.md",
     "Tema 1. Infraestructura de los mercados financieros.md",
     "attachments/Pasted image 20230323212619.png",
     "Tema 4. Matemáticas financieras.md",
-    "Módulo 1. Economía y matemática financiera.md",
     "Módulo 3. Introducción al mercado de capitales.md",
     "Tema 2. Estructura del mercado.md",
     "Tema 3. Indicadores macroeconómicos.md",
