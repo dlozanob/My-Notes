@@ -201,11 +201,9 @@ Los activos fijos netos se calculan:
 
 $$
 \begin{align*}
-	ActivosFijosNetos = ActivosFijos - Dep\mathrm{Re}cia
+	ActivosFijosNetos = ActivosFijos - DepreciaciónAcumulada
 \end{align*}
 $$
-
-
 
 - _ROA_ : Retorno Sobre los Activos.
 
@@ -217,3 +215,34 @@ $$
 
 - _WACC_ : Costo Promedio Ponderado de Capital. Costo de la financiación de la compañía ponderado de acuerdo a su tipo (deuda - equity) y proporción.
 
+$$
+\begin{align*}
+	WACC = 
+\end{align*}
+$$
+
+
+
+
+- _Costo de deuda (Ai)_ : 
+
+$$
+\begin{align*}
+	Ai = \frac{GastosFinancieros(n)}{ObligacionesFinancieras(n - 1)}
+\end{align*}
+$$
+
+- _Costo Equity_ : 
+
+$$
+\begin{align*}
+	CostoEquity = \frac{PagoDeDividendos(n)}{TotalDelPatrimonio(n - 1)}
+\end{align*}
+$$
+
+
+_Procedimiento_  :
+1. Determinar: _NOPAT_, _TAO_ y _ROA_
+2. Calcular el _costo de deuda_ y el _costo Equity_
+3. Calcular _WACC_
+4. Calcular _EVA_
