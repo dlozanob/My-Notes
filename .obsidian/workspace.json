@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tema 4. Financiamiento a corto plazo.md",
+                "file": "Tema 2. Análisis de estados financieros e indicadores financieros.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tema 4. Financiamiento a corto plazo.md",
+                "file": "Tema 2. Análisis de estados financieros e indicadores financieros.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tema 4. Financiamiento a corto plazo.md"
+                "file": "Tema 2. Análisis de estados financieros e indicadores financieros.md"
               }
             }
           },
@@ -208,12 +208,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "338d71ad752a023f",
+  "active": "2166543c3eb54a93",
   "lastOpenFiles": [
-    "Fórmulas Financieras Excel.md",
-    "Tema 4. Financiamiento a corto plazo.md",
-    "Tema 2. Análisis de estados financieros e indicadores financieros.md",
     "Tema 1. Composición y estructura del balance general, estado de resultados y flujo de caja neto.md",
+    "Tema 2. Análisis de estados financieros e indicadores financieros.md",
+    "Tema 4. Financiamiento a corto plazo.md",
+    "Fórmulas Financieras Excel.md",
     "Tema 1. Composición y estructura del balance general%2C estado de resultados y flujo de caja neto.md",
     "Módulo 2. Diagnóstico financiero.md",
     "Finanzas.md",
