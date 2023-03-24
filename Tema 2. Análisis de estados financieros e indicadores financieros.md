@@ -83,8 +83,8 @@ $$
 - _Gastos_  : Son los gastos que se deben pagar para el funcionamiento de la empresa
 	- _Generales_
 	- _Ventas_ : Publicidad
-	- _Administrativos_ : 
-- _Utilidad de operación_ :
+	- _Administrativos_ : Garantizan el funcionamiento de la empresa, incluyendo salarios de empleados no involucrados en la producción
+- _Utilidad de operación_ o _gener_ :
 
 $$
 \begin{align*}
@@ -92,6 +92,7 @@ $$
 \end{align*}
 $$
 
+- _Depreciaciones y amortizaciones (costos contables)_ : En este caso no son acumulativas a periodos anteriores. Se toman en cuenta solamente desde el periodo de evaluación con respecto al anterior.
 - _Gastos financieros_ : Gastos de endeudamientos
 - _Utilidad antes de impuestos_ :
 
