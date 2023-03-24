@@ -174,7 +174,7 @@ Los siguientes rubros no son incluidos:
 Es la diferencia entre los resultados de la operación y el costo de la financiación
 Es la utilidad económica residual.
 
-- _NOPAT_ : Utilidad Operacional después de Impuestos. No tiene efectos de la financiación.
+- _NOPAT_ : Utilidad Operacional después de Impuestos y antes de intereses. No tiene efectos de la financiación.
 
 $$
 \begin{align*}
