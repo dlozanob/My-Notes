@@ -110,3 +110,9 @@ $$
 - _Patrimonio_ : 
 	- Capital
 	- Utilidades o pérdidas
+
+
+## Depreciaciones y amortizaciones
+
+
+
