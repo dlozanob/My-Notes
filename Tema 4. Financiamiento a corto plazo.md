@@ -7,24 +7,26 @@ Determina el estado de liquidez de la firma.
 
 Toma datos del estado de situación financiera y del estado de resultados.
 
-| Utilidad neta |
-|-|
-| + Depreciaciones |
-| + Amortizaciones |
-| - Inversión KTN |
-| - Inversión activos fijos |
-| + Variación PLP (aportes) |
-| + Variación patrimonio |
-| - Pago de dividendos |
-| + Saldo anterior |
-| = Flujo de caja de tesorería |
-
 <table>
 	<tr>
 		<th><center>Flujo de caja de tesorería</center></th>
 	</tr>
+	<tr>
+		<th><center>+ Utilidad neta</center></th>
+	</tr>
+	<tr>
+		<th><center>+ CAPEX</center></th>
+	</tr>
+	<tr>
+		<th><center>+ Saldo anterior de caja</center></th>
+	</tr>
+	<tr>
+		<th><center>Σ Flujo de caja de tesorería</center></th>
+	</tr>
 </table>
 
+>[!Note]
+>Suma todo lo que hay en cada uno de los campos
 
 - _KTN_ : Capital de Trabajo Neto
 - _PLP_ : Pasivo de Largo Plazo
@@ -34,6 +36,9 @@ Toma datos del estado de situación financiera y del estado de resultados.
 <table>
 	<tr>
 		<th><center>Utilidad neta</center></th>
+	</tr>
+	<tr>
+		<td>+ Utilidad neta</td>
 	</tr>
 	<tr>
 		<td>+ Depreciaciones y Amortizaciones</td>
@@ -73,20 +78,13 @@ La inversión KTN (working capital) se calcula:
 	<tr>
 		<td>+ Variación en pasivos corrientes</td>
 	</tr>
-	<tr>
-		<td>Σ Variación neta</td>
-	</tr>
 </table>
 
 Es la variación de activos corrientes y pasivos corrientes entre dos periodos.
-
-$$
-\begin{align*}
-	InversiónKTN = VariaciónPasivosCorrientes - VariaciónActivosCorrientes
-\end{align*}
-$$
 
 
 ### CAPEX
 
 La inversión en activos fijos CAPEX (Capital Expenditures) son los recursos empleados durante el periodo para adquirir activos para la explotación del proyecto.
+
+<table>
