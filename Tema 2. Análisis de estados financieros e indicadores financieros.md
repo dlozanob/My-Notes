@@ -157,3 +157,8 @@ $$
 ## Flujo de caja
 
 Refleja las entradas y salidas de efectivo a partir de la operación de la compañía y el pago a sus fuentes de financiación.
+
+- _Flujo de caja operativo_
+- _Flujo de caja financiero_
+- _Flujo de caja para accionistas_
+
