@@ -1,7 +1,7 @@
 # Tema 2. Análisis de estados financieros e indicadores financieros
 
 El análisis de los estados financieros implica una comparación del desempeño de la empresa en el tiempo, así como una comparación con otras compañías que participan en el mismo sector.
-Este análisis se realiza para identificar los puntos débiles y fuertes de la empresa.
+Este análisis se realiza para identificar los puntos débiles y fuertes de la compañía.
 
 
 ## Estado de situación financiera (balance general)
