@@ -167,17 +167,19 @@ Calcula un porcentaje fijo para el saldo por depreciar en cada periodo. El valor
 
 $$
 \begin{align*}
-	i_{D} = \frac{2\%}{N}
+	i_{D_{N}} = \frac{2\%}{N}
 \end{align*}
 $$
 
-- $N$ : Periodo actual 
+- $i_{D_{N}}$ : Tasa de depreciación para el año $N$
+- $N$ : Periodo actual
 
 $$
 \begin{align*}
-	
+	D_{N} = VA - VA*i_{D_{N}}
 \end{align*}
 $$
 
+- $D_{N}$ :  Depreciación para el año N
 
 
