@@ -123,11 +123,13 @@ La tasa de depreciación es la misma para todos los periodos.
 
 $$
 \begin{align*}
-	i_{D} = \frac{ValorActivo - ValorSalvamento}{VidaÚtil}
+	i_{D} = \frac{VA - VS}{VidaÚtil}
 \end{align*}
 $$
 
 - $i_{D}$ : Tasa de depreciación
+- $VA$ : Valor del activo
+- $VS$ : Valor del salvamento
 
 $$
 \begin{align*}
@@ -149,7 +151,33 @@ $$
 
 $$
 \begin{align*}
-	i_{D_{N}} = \frac{N}{}
+	i_{D_{N}} &= \frac{N}{\left( \frac{N(N + 1)}{2} \right)}*(VA - VS) \\
+	&= \frac{2(VA - VS)}{N + 1}
 \end{align*}
 $$
+
+- $i_{D_{N}}$ : Tasa de depreciación para el año $N$
+- $VA$ : Valor del activo
+- $VS$ : Valor del salvamento
+
+
+### Sistema de saldo doble decreciente (DB - Double Declining Balance)
+
+Calcula un porcentaje fijo para el saldo por depreciar en cada periodo. El valor máximo (tasa) es el doble de línea recta.
+
+$$
+\begin{align*}
+	i_{D} = \frac{2\%}{N}
+\end{align*}
+$$
+
+- $N$ : Periodo actual 
+
+$$
+\begin{align*}
+	
+\end{align*}
+$$
+
+
 
