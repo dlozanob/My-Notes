@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tema 4. Financiamiento a corto plazo.md",
+                "file": "Tema 2. Análisis de estados financieros e indicadores financieros.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tema 4. Financiamiento a corto plazo.md",
+                "file": "Tema 2. Análisis de estados financieros e indicadores financieros.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tema 4. Financiamiento a corto plazo.md"
+                "file": "Tema 2. Análisis de estados financieros e indicadores financieros.md"
               }
             }
           },
@@ -196,11 +196,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9594f1e4e1075bc3",
+  "active": "6718191b799f71f7",
   "lastOpenFiles": [
+    "Tema 4. Financiamiento a corto plazo.md",
     "Tema 2. Análisis de estados financieros e indicadores financieros.md",
     "Tema 1. Composición y estructura del balance general, estado de resultados y flujo de caja neto.md",
-    "Tema 4. Financiamiento a corto plazo.md",
     "Tema 1. Composición y estructura del balance general%2C estado de resultados y flujo de caja neto.md",
     "Módulo 2. Diagnóstico financiero.md",
     "Tema 1. Infraestructura de los mercados financieros.md",

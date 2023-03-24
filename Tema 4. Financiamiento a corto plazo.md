@@ -170,11 +170,19 @@ Es la diferencia entre los resultados de la operación y el costo de la financia
 Es la utilidad económica residual.
 
 - _NOPAT_ : Utilidad Operacional después de Impuestos. No tiene efectos de la financiación.
+
+$$
+\begin{align*}
+	NOPAT = UtilidadOperacional(1 - i)
+\end{align*}
+$$
+Donde $i$ es la tasa de impuestos.
+
 - _TAO_  : Total Activos de Operación.
 
 $$
 \begin{align*}
-	NOPAT = CapitalDeTrabajoNeto + ActivosFijosNetos
+	TAO = CapitalDeTrabajoNeto + ActivosFijosNetos
 \end{align*}
 $$
 
@@ -186,5 +194,5 @@ $$
 \end{align*}
 $$
 
-- _WACC_ : Costo Promedio Ponderado de Capital.
+- _WACC_ : Costo Promedio Ponderado de Capital. Costo de la financiación de la compañía ponderado de acuerdo a su tipo (deuda - equity) y proporción.
 
