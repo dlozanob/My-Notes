@@ -171,4 +171,28 @@ Refleja las entradas y salidas de efectivo a partir de la operación de la compa
 ### Razones de liquidez o solvencia
 
 - _Razón corriente_ : 
-	- 
+
+$$
+\begin{align*}
+	RazónCorriente = \frac{ActivosCorrientes}{PasivosCorrientes}
+\end{align*}
+$$
+
+- _Prueba ácida_ : 
+
+$$
+\begin{align*}
+	PruebaÁcida = \frac{Caja + CuentasPorCobrar}{PasivosCorrientes}*100\%
+\end{align*}
+$$
+
+
+### Razones de administración o utilización de los activos
+
+- _Rotación de inventarios_ :
+
+$$
+\begin{align*}
+	RotaciónDeInventarios = \frac{Ventas_{Año2}}{PromedioInventarios}
+\end{align*}
+$$
