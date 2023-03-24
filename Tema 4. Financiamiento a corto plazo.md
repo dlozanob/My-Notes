@@ -173,7 +173,7 @@ Es la utilidad económica residual.
 
 $$
 \begin{align*}
-	NOPAT = UtilidadOperacional(1 - i)
+	NOPAT = EBIT(1 - i)
 \end{align*}
 $$
 Donde $i$ es la tasa de impuestos.
@@ -185,6 +185,27 @@ $$
 	TAO = CapitalDeTrabajoNeto + ActivosFijosNetos
 \end{align*}
 $$
+
+El capital de trabajo neto se calcula:
+
+$$
+\begin{align*}
+	CapitalDeTrabajoNeto = ActivosOperacionesDeCortoPlazo - PasivosOperacionesDeCortoPlazo
+\end{align*}
+$$
+
+>[!Note]
+>No se considera a la caja como activo de corto plazo
+
+Los activos fijos netos se calculan:
+
+$$
+\begin{align*}
+	ActivosFijosNetos = ActivosFijos - Dep\mathrm{Re}cia
+\end{align*}
+$$
+
+
 
 - _ROA_ : Retorno Sobre los Activos.
 

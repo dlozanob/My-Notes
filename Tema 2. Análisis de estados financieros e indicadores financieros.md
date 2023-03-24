@@ -86,11 +86,11 @@ $$
 	- _Generales_
 	- _Ventas_ : Publicidad
 	- _Administrativos_ : Garantizan el funcionamiento de la empresa, incluyendo salarios de empleados no involucrados en la producción
-- _Utilidad de operación_ o _generación interna de recursos (EBITDA)_ :
+- _Generación interna de recursos (EBITDA)_ :
 
 $$
 \begin{align*}
-	UtilidadOperativa = UtilidadBruta - Gastos
+	EBITDA = UtilidadBruta - Gastos
 \end{align*}
 $$
 
