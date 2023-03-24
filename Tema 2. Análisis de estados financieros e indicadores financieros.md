@@ -31,8 +31,7 @@ Representación gráfica del balance general:
 		- Maquinaria
 		- Mobiliario
 	- _Activos intangibles_
-	- _Depreciaciones y amortizaciones_ : Representan el desgaste de los activos fijos 
-	  por el paso del tiempo. El único activo fijo indepreciable es el terreno.
+	- _Depreciaciones y amortizaciones_ : (-) Representan el desgaste de los activos fijos por el paso del tiempo. El único activo fijo indepreciable es el terreno.
 
 >[!Note]
 >Las depreciaciones ocurren sobre activos tangibles.
@@ -49,6 +48,11 @@ Representación gráfica del balance general:
 	- _Bancos_ : Deudas con los bancos
 	- _Empleados_ : Deudas con los empleados (nóminas, beneficios, gratificaciones)
 	- _Estado_ : Deudas con el estado (impuestos)
+	- _Cuentas por pagar_
+	- _Cesantías_
+	- _Duedas corrientes_
+	- _Impuestos acumulados_
+	- _Pagos recibidos por adelantado_
 - _Pasivos no corrientes_ : Son deudas que se deben pagar a largo plazo (mayor a un año)
 	- _Hipotecas_ : Deudas que están respaldadas por terrenos
 	- _Bancos_ :  Deudas a largo plazo con bancos nacionales y extranjeros
@@ -61,6 +65,9 @@ Son las oblgaciones que la empresa tiene con sus accionistas.
 
 - _Capital_ : Inversión inicial y aportes de los socios
 - _Utilidades acumuladas_ : Ganancias acumuladas producto de las ventas. Se pueden convertir en capital o distribuirse entre los dueños (dividendos)
+	- _Utilidad o pérdida del periodo_
+	- _Valorizaciones_
+	- _Reserva legal_
 
 
 ## Estado de resultados (PyG)
