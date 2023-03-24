@@ -13,7 +13,7 @@ Muestra lo ocurrido entre dos puntos en el tiempo.
 		<th><center>Estado de resultados</center></th>
 	<tr>
 	<tr>
-		<th><center>(+) Ingresos</center></th>
+		<td>(+) Ventas</td>
 	</tr>
 	<tr>
 		<td>(-) Costos de ventas</td>
@@ -58,10 +58,10 @@ Muestra lo ocurrido entre dos puntos en el tiempo.
 		<td>Σ Utilidad neta</td>
 	</tr>
 	<tr>
-		<td>(-) Reserva legal </td>
+		<td>(-) Reserva legal</td>
 	</tr>
 	<tr>
-		<td>(-) Impuestos de renta</td>
+		<td>(-) Dividendos</td>
 	</tr>
 	<tr>
 		<th><center>Σ Utilidades retenidas</center></th>
@@ -69,7 +69,7 @@ Muestra lo ocurrido entre dos puntos en el tiempo.
 </table>
 </center>
 
-Los _costos de ventas_ se obtienen:
+Los _costos de ventas_ se obtienen así:
 
 <center>
 <table>
