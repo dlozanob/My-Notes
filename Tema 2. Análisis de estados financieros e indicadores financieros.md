@@ -37,6 +37,10 @@ Representación gráfica del balance general:
 >Las depreciaciones ocurren sobre activos tangibles.
 >Las amortizaciones ocurren sobre activos intangibles.
 
+>[!Note]
+>Solo el efectivo representa el dinero real
+
+
 
 ### Pasivos
 
@@ -44,3 +48,17 @@ Representación gráfica del balance general:
 	- _Proveedores_ : Obligaciones con los proveedores
 	- _Bancos_ : Deudas con los bancos
 	- _Empleados_ : Deudas con los empleados (nóminas, beneficios, gratificaciones)
+	- _Estado_ : Deudas con el estado (impuestos)
+- _Pasivos no corrientes_ : Son deudas que se deben pagar a largo plazo (mayor a un año)
+	- _Hipotecas_ : Deudas que están respaldadas por terrenos
+	- _Tenedores de bonos_ : Deudas con inversionistas que compraron los bonos
+
+
+### Patrimonio
+
+Son las oblgaciones que la empresa tiene con sus accionistas.
+
+- _Capital_ : Inversión inicial y aportes de los socios
+- _Utilidades acumuladas_ : Ganancias acumuladas producto de las ventas. Se pueden convertir en capital o distribuirse entre los dueños (dividendos)
+
+
