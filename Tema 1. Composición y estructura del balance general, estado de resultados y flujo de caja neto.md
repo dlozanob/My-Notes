@@ -58,7 +58,23 @@ Muestra lo ocurrido entre dos puntos en el tiempo.
 		<td>Σ Utilidad neta</td>
 	</tr>
 	<tr>
-		<th><center>(-) Costos</center></th>
+		<td>(-) Reserva legal </td>
+	</tr>
+	<tr>
+		<td>(-) Impuestos de renta</td>
+	</tr>
+	<tr>
+		<th><center>Σ Utilidades retenidas</center></th>
+	</tr>
+</table>
+</center>
+
+Los _costos de ventas_ se obtienen:
+
+<center>
+<table>
+	<tr>
+		<th><center>Costos de ventas</center></th>
 	</tr>
 	<tr>
 		<td>(+) Inventario inicial</td>
@@ -75,14 +91,9 @@ Muestra lo ocurrido entre dos puntos en el tiempo.
 	<tr>
 		<td>Σ Costo de venta</td>
 	</tr>
-	<tr>
-		<th><center>(-) Gastos</center></th>
-	</tr>
-	<tr>
-		<th><center>Σ Utilidad</center></th>
-	</tr>
 </table>
 </center>
+
 
 - _EBITDA_ : Earnings Before Interest, Taxes, Depreciation and Amortization. Ganancias antes de intereses, impuestos, depreciaciones y amortizaciones.
 - _EBIT_ : Earnings Before Interest and Taxes. Ganancias antes de intereses e impuestos.
