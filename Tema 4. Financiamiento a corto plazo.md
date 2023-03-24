@@ -24,4 +24,11 @@ Toma datos del estado de situación financiera y del estado de resultados.
 - _PLP_ : Pasivo de Largo Plazo
 - _CAPEX_ : Capital Expenditures
 
-La inversión KTN (working capital) 
+La inversión KTN (working capital) se calcula:
+
+<table>
+	<tr>
+		<th><center>Inversión en</center></th>
+	</tr>
+
+<\table>
