@@ -55,7 +55,7 @@ Representación gráfica del balance general:
 	- _Tenedores de bonos_ : Deudas con inversionistas que compraron los bonos
 
 
-### Patrimonio
+### Patrimonio (Equity)
 
 Son las oblgaciones que la empresa tiene con sus accionistas.
 

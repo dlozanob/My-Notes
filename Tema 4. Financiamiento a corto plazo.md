@@ -164,4 +164,27 @@ Los siguientes rubros no son incluidos:
 	- = Flujo de caja libre
 
 
-## Valor Económico Agregado ()
+## Valor Económico Agregado (EVA)
+
+Es la diferencia entre los resultados de la operación y el costo de la financiación
+Es la utilidad económica residual.
+
+- _NOPAT_ : Utilidad Operacional después de Impuestos. No tiene efectos de la financiación.
+- _TAO_  : Total Activos de Operación.
+
+$$
+\begin{align*}
+	NOPAT = CapitalDeTrabajoNeto + ActivosFijosNetos
+\end{align*}
+$$
+
+- _ROA_ : Retorno Sobre los Activos.
+
+$$
+\begin{align*}
+	ROA = \frac{NOPAT}{TAO}
+\end{align*}
+$$
+
+- _WACC_ : Costo Promedio Ponderado de Capital.
+
