@@ -268,3 +268,10 @@ _Procedimiento_  :
 2. Calcular el _costo de deuda_ y el _costo Equity_
 3. Calcular _WACC_
 4. Calcular _EVA_
+
+
+---
+
+
+El ciclo _dinero/producto_ es el periodo comprendido entre el desembolso del efectivo para la compra de inventario de insumos y el tiempo en el que se reciben las ganancias de las ventas.
+
