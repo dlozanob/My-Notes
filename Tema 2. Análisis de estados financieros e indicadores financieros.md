@@ -81,4 +81,21 @@ $$
 	- _Generales_
 	- _Ventas_
 	- _Administrativos_
-- 
+- _Utilidad de operación_ :
+
+$$
+\begin{align*}
+	UtilidadOperativa = UtilidadBruta - Gastos
+\end{align*}
+$$
+
+- _Gastos financieros_ : Gastos de endeudamientos
+- _Utilidad antes de impuestos_ :
+
+$$
+\begin{align*}
+	UtilidadAntesDeImpuestos = UtilidadOperativa - GastosFinancieros
+\end{align*}
+$$
+
+- _Impuestos_ : 
