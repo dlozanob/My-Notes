@@ -117,3 +117,10 @@ $$
 $$
 
 Estas son después capitalizadas.
+
+
+Los _ingresos operacionales_ son aquellos producto de las ganancias de la empresa, antes de aploicar impuestos e intereses (EBIT).
+
+En el _costo de ventas_ se incluye:
+- Insumos
+- 

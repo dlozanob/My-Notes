@@ -38,6 +38,15 @@ Informa cómo se obtuvo la utilidad o pérdida de un periodo contable
 		<td>(-) Gastos financieros</td>
 	</tr>
 	<tr>
+		<td>(+) Otros ingresos</td>
+	</tr>
+	<tr>
+		<td>(-) Pérdida en cambio</td>
+	</tr>
+	<tr>
+		<td>(+) Corrección monetaria</td>
+	</tr>
+	<tr>
 		<td>Σ EBT</td>
 	</tr>
 	<tr>
