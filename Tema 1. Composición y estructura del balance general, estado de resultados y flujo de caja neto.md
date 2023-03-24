@@ -114,5 +114,16 @@ $$
 
 ## Depreciaciones y amortizaciones
 
+Las depreciaciones son la pérdida de valor que sufren los activos fijos.
+Se debe al uso, o a la obsolescencia tecnológica.
+
+### Sistema de línea recta (SLN - Sistema de Línea Normal)
 
 
+$$
+\begin{align*}
+	i_{D} = \frac{ValorActivo - ValorSalvamento}{VidaÚtil}
+\end{align*}
+$$
+
+- $i_{D}$
