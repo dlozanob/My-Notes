@@ -217,12 +217,27 @@ $$
 
 $$
 \begin{align*}
-	WACC = 
+	WACC = CostoponderadoDeuda + CostoPonderadoEquity
 \end{align*}
 $$
 
+El costo ponderado de la deuda se calcula:
 
+$$
+\begin{align*}
+	CostoPonderadoDeuda = \%DeudaLP*Ai*(1 - i)
+\end{align*}
+$$
 
+Donde $i$ es la tasa de impuestos.
+
+El costo ponderado del Equity se calcula:
+
+$$
+\begin{align*}
+	CostoPonderadoEquity = \%Equity*CostoEquity
+\end{align*}
+$$
 
 - _Costo de deuda (Ai)_ : 
 
@@ -240,6 +255,13 @@ $$
 \end{align*}
 $$
 
+- _EVA_ : 
+
+$$
+\begin{align*}
+	\boxed{EVA = TAO*(ROA - WACC)}
+\end{align*}
+$$
 
 _Procedimiento_  :
 1. Determinar: _NOPAT_, _TAO_ y _ROA_
