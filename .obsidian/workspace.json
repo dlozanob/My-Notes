@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tema 2. Análisis de estados financieros e indicadores financieros.md",
+                "file": "Tema 4. Financiamiento a corto plazo.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tema 2. Análisis de estados financieros e indicadores financieros.md",
+                "file": "Tema 4. Financiamiento a corto plazo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tema 2. Análisis de estados financieros e indicadores financieros.md"
+                "file": "Tema 4. Financiamiento a corto plazo.md"
               }
             }
           },
@@ -220,10 +220,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2166543c3eb54a93",
+  "active": "338d71ad752a023f",
   "lastOpenFiles": [
-    "Tema 4. Financiamiento a corto plazo.md",
     "Tema 2. Análisis de estados financieros e indicadores financieros.md",
+    "Tema 4. Financiamiento a corto plazo.md",
     "Tema 2. Función de oferta y demanda.md",
     "Módulo 1. Economía y matemática financiera.md",
     "Tema 4. Matemáticas financieras.md",
