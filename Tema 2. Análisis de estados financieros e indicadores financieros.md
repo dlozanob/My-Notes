@@ -30,6 +30,7 @@ Representación gráfica del balance general:
 		- Edificios
 		- Maquinaria
 		- Mobiliario
+	- _Activos intangibles_
 	- _Depreciaciones y amortizaciones_ : Representan el desgaste de los activos fijos 
 	  por el paso del tiempo. El único activo fijo indepreciable es el terreno.
 
@@ -50,6 +51,7 @@ Representación gráfica del balance general:
 	- _Estado_ : Deudas con el estado (impuestos)
 - _Pasivos no corrientes_ : Son deudas que se deben pagar a largo plazo (mayor a un año)
 	- _Hipotecas_ : Deudas que están respaldadas por terrenos
+	- _Bancos_ :  Deudas a largo plazo c
 	- _Tenedores de bonos_ : Deudas con inversionistas que compraron los bonos
 
 
@@ -161,3 +163,7 @@ Refleja las entradas y salidas de efectivo a partir de la operación de la compa
 - _Flujo de caja operativo_
 - _Flujo de caja financiero_
 - _Flujo de caja para accionistas_
+
+
+## Indicadores financieros
+
