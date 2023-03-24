@@ -12,9 +12,16 @@ Toma datos del estado de situación financiera y del estado de resultados.
 | + Depreciaciones |
 | + Amortizaciones |
 | - Inversión KTN |
-
-
+| - Inversión activos fijos |
+| + Variación PLP (aportes) |
+| + Variación patrimonio |
+| - Pago de dividendos |
+| + Saldo anterior |
+| = Flujo de caja de tesorería |
 
 
 - _KTN_ : Capital de Trabajo Neto
 - _PLP_ : Pasivo de Largo Plazo
+- _CAPEX_ : Capital Expenditures
+
+La inversión KTN (working capital) 
