@@ -182,4 +182,6 @@ $$
 
 - $D_{N}$ :  Depreciación para el año N
 
+>[!Note]
+>También es llamado _Sistema de gradiente geométrico creciente_
 
