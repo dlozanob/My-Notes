@@ -15,6 +15,9 @@ Se construye usando el estado de situación financiera y el estado de resultados
 		<th><center>(+) Utilidad neta</center></th>
 	</tr>
 	<tr>
+		<th><center>(+) Inversión KTN</center></th>
+	</tr>	
+	<tr>
 		<th><center>(+) CAPEX</center></th>
 	</tr>
 	<tr>
@@ -33,6 +36,8 @@ Se construye usando el estado de situación financiera y el estado de resultados
 
 >[!Note]
 >Debe coincidir con la cuenta caja del estado de situación financiera
+
+El _saldo anterior de caja_ es el _Disponible_ de los activos corrientes en el anterior periodo.
 
 
 ### Utilidad neta

@@ -11,8 +11,12 @@
             "id": "338d71ad752a023f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Tema 4. Financiamiento a corto plazo.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -76,6 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Tema 4. Financiamiento a corto plazo.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,6 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Tema 4. Financiamiento a corto plazo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,7 +119,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Tema 4. Financiamiento a corto plazo.md"
+              }
             }
           },
           {
@@ -165,14 +173,14 @@
   },
   "active": "338d71ad752a023f",
   "lastOpenFiles": [
-    "Tema 4. Financiamiento a corto plazo.md",
+    "Módulo 2. Diagnóstico financiero.md",
+    "Tema 3. Análisis de flujo de efectivo y análisis de capital de trabajo.md",
     "Tema 2. Análisis de estados financieros e indicadores financieros.md",
+    "Finanzas.md",
+    "Tema 4. Financiamiento a corto plazo.md",
     "Tema 1. Composición y estructura del balance general, estado de resultados y flujo de caja neto.md",
     "Tema 1. Composición y estructura del balance general%2C estado de resultados y flujo de caja neto.md",
-    "Módulo 2. Diagnóstico financiero.md",
     "Tema 1. Infraestructura de los mercados financieros.md",
-    "Tema 3. Análisis de flujo de efectivo y análisis de capital de trabajo.md",
-    "Finanzas.md",
     "Fórmulas Financieras Excel.md",
     "attachments/Pasted image 20230323212619.png",
     "Tema 4. Matemáticas financieras.md",
