@@ -12,12 +12,15 @@ Representación gráfica del balance general:
 
 ![](attachments/Pasted%20image%2020230323212619.png)
 
-- Activo corriente:
-	- Caja y bancos: Representa el efectivo de la empresa guardado en los bancos. Se trata de un $100\%$ de liquidez.
-	- Cuentas por cobrar: Es el dinero que se le cobra a los deudores. Son producto de las ventas
-	- Otras cuentas por cobrar: Estas son ajenas al negocio principal
-	- inventarios: 
-
-
-
-
+- _Activo corriente_ : Poseen liquidez
+	- _Caja y bancos_ : Representa el efectivo de la empresa guardado en los bancos. Se trata de un $100\%$ de liquidez.
+	- _Cuentas por cobrar_ : Es el dinero que se le cobra a los deudores. Son producto de las ventas
+	- _Otras cuentas por cobrar_ : Estas son ajenas al negocio principal
+	- _Inventarios_ : Representa las existencias que tiene la empresa en sus almacenes
+		- Insumos
+		- Materia prima
+		- Productos en proceso y terminados
+	- _Gastos pagados por anticipado_ : Son pagos que la empresa realiza de manera adelantada por algún producto que tendrá en el futuro
+- _Activo no corriente_ : No poseen mucha liquidez. Pueden ser convertidos en efectivo en un plazo mayor a un año.
+	- _Activos fijos_ :
+		- Terreno
