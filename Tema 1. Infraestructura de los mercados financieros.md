@@ -23,7 +23,7 @@ Igualmente sucede con las acciones
 los bonos del gobierno son liquidos
 
 
-
+_tasa de intermediación_ es la diferencia entre la tasa de usura y la tasa de intervención
 
 ## External links
 
