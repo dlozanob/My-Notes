@@ -41,7 +41,6 @@ Representación gráfica del balance general:
 >Solo el efectivo representa el dinero real
 
 
-
 ### Pasivos
 
 - _Pasivos corrientes_ : Son deudas que deben pagarse a corto plazo (un año máximo)
