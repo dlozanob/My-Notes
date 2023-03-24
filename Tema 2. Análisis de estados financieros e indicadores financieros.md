@@ -133,6 +133,7 @@ Estas son después capitalizadas.
 
 
 
+Algunos márgenes son:
 
 $$
 \begin{align*}
@@ -152,3 +153,7 @@ $$
 \end{align*}
 $$
 
+
+## Flujo de caja
+
+Refleja las entradas y salidas de efectivo a partir de la operación de la compañía y el pago a sus fuentes de financiación.
