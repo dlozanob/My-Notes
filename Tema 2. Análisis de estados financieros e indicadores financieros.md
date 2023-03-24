@@ -67,8 +67,11 @@ Muestra la rentabilidad de la empresa durante un periodo (ganacias y pérdidas).
 
 Se compone de:
 
-- _Ventas_ : No incluye el IVA. Representa las ganancias producidas por ventas.
-- _Costo de ventas_  : Representa el costo de la mercancía vendida
+- _Ventas_ o _ingresos operacionales_ : No incluye el IVA. Representa las ganancias producidas por ventas.
+- _Costo de ventas_  : Representa el costo de la mercancía vendida. Incluye:
+	- Insumos
+	- Pago de salarios
+	- Suministro de servicios
 - _Utilidad bruta_ :
 
 $$
@@ -79,8 +82,8 @@ $$
 
 - _Gastos_  : Son los gastos que se deben pagar para el funcionamiento de la empresa
 	- _Generales_
-	- _Ventas_
-	- _Administrativos_
+	- _Ventas_ : Publicidad
+	- _Administrativos_ : 
 - _Utilidad de operación_ :
 
 $$
@@ -119,8 +122,11 @@ $$
 Estas son después capitalizadas.
 
 
-Los _ingresos operacionales_ son aquellos producto de las ganancias de la empresa, antes de aploicar impuestos e intereses (EBIT).
 
-En el _costo de ventas_ se incluye:
-- Insumos
-- 
+
+$$
+\begin{align*}
+	MargenBruto = \frac{UtilidadBruta}{IngresosOperacionales}
+\end{align*}
+$$
+
