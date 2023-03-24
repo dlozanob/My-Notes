@@ -134,3 +134,9 @@ Los siguientes rubros no son incluidos:
 - Dividendos pagados o utilidades distribuidas
 - Ahorro en impuestos por pago de intereses o egresos no operacionales
 
+### Método directo
+
+- EBITDA
+	- (-) Impuestos operacionales $= EBIT*i$
+	   Donde $i$ es la tasa de impuestos en el PyG
+	- (-) Inversión KTN - Impuestos acumulados (en pasivos corrientes)

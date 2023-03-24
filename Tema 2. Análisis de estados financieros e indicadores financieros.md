@@ -96,7 +96,7 @@ $$
 
 - _Depreciaciones y amortizaciones (costos contables)_ : En este caso no son acumulativas a periodos anteriores. Se toman en cuenta solamente desde el periodo de evaluación con respecto al anterior.
 
-- _Utilidad operacional (EBIT)_ : 
+- _Utilidad operacional_ o _utilidad operativa (EBIT)_ : 
 
 $$
 \begin{align*}
