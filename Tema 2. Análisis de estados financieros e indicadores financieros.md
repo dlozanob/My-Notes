@@ -196,3 +196,23 @@ $$
 	RotaciónDeInventarios = \frac{Ventas_{Año2}}{PromedioInventarios}
 \end{align*}
 $$
+
+Se toma el promedio de los inventarios para dos años consecutivos.
+
+- _Días de inventario_ :
+
+$$
+\begin{align*}
+	DíasDeInventario = \frac{360Días}{RotaciónDeInventarios}
+\end{align*}
+$$
+
+- _Rotación de activos_ :
+
+$$
+\begin{align*}
+	RotaciónDeActivos = \frac{Ventas_{Año2}}{PromedioActivos}
+\end{align*}
+$$
+
+Se toma el promedio de los activos totales en dos años consecutivos.
