@@ -26,12 +26,13 @@
               "type": "markdown",
               "state": {
                 "file": "Tema 1. Composición y estructura del balance general, estado de resultados y flujo de caja neto.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -92,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tema 2. Análisis de estados financieros e indicadores financieros.md",
+                "file": "Tema 1. Composición y estructura del balance general, estado de resultados y flujo de caja neto.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tema 2. Análisis de estados financieros e indicadores financieros.md",
+                "file": "Tema 1. Composición y estructura del balance general, estado de resultados y flujo de caja neto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tema 2. Análisis de estados financieros e indicadores financieros.md"
+                "file": "Tema 1. Composición y estructura del balance general, estado de resultados y flujo de caja neto.md"
               }
             }
           },
@@ -183,10 +184,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6718191b799f71f7",
+  "active": "bd950aff34d86257",
   "lastOpenFiles": [
-    "Tema 1. Composición y estructura del balance general, estado de resultados y flujo de caja neto.md",
     "Tema 2. Análisis de estados financieros e indicadores financieros.md",
+    "Tema 1. Composición y estructura del balance general, estado de resultados y flujo de caja neto.md",
     "Tema 1. Composición y estructura del balance general%2C estado de resultados y flujo de caja neto.md",
     "Módulo 2. Diagnóstico financiero.md",
     "Finanzas.md",

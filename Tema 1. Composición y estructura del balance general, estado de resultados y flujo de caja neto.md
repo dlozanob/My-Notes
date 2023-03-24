@@ -17,6 +17,9 @@ Informa cómo se obtuvo la utilidad o pérdida de un periodo contable
 		<td>(-) Costos de ventas</td>
 	</tr>
 	<tr>
+		<td>Σ Utilidad bruta</td>
+	</tr>
+	<tr>
 		<td>(-) Gastos de distribución</td>
 	</tr>
 	<tr>

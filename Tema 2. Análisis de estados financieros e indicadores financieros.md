@@ -98,4 +98,22 @@ $$
 \end{align*}
 $$
 
-- _Impuestos_ : 
+- _Impuestos_ : Es el porcentaje que se descuenta de la utilidad antes de impuestos
+- _Utilidad neta_ : 
+
+$$
+\begin{align*}
+	UtilidadNeta = UtilidadAntesDeImpuestos(1 - \%Impuestos)
+\end{align*}
+$$
+
+- _Dividendos_ : Es la reprtición de las utilidades entre los socios y los propietarios de la empresa
+- _Utilidades retenidas_ : 
+
+$$
+\begin{align*}
+	UtilidadesRetenidas = UtilidadNeta - Dividendos
+\end{align*}
+$$
+
+Estas son después capitalizadas.
