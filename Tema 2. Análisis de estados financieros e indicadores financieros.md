@@ -51,7 +51,7 @@ Representación gráfica del balance general:
 	- _Estado_ : Deudas con el estado (impuestos)
 - _Pasivos no corrientes_ : Son deudas que se deben pagar a largo plazo (mayor a un año)
 	- _Hipotecas_ : Deudas que están respaldadas por terrenos
-	- _Bancos_ :  Deudas a largo plazo c
+	- _Bancos_ :  Deudas a largo plazo con bancos nacionales y extranjeros
 	- _Tenedores de bonos_ : Deudas con inversionistas que compraron los bonos
 
 
@@ -122,12 +122,13 @@ $$
 \end{align*}
 $$
 
-- _Dividendos_ : Es la reprtición de las utilidades entre los socios y los propietarios de la empresa
+- _Dividendos_ : Es la repartición de las utilidades entre los socios y los propietarios de la empresa
+- _Reserva legal_ :  Es una cantidad de reserva obligatoria que debe guardar la empresa
 - _Utilidades retenidas_ : 
 
 $$
 \begin{align*}
-	UtilidadesRetenidas = UtilidadNeta - Dividendos
+	UtilidadesRetenidas = UtilidadNeta - Dividendos - \%ReservaLegal
 \end{align*}
 $$
 
@@ -167,3 +168,7 @@ Refleja las entradas y salidas de efectivo a partir de la operación de la compa
 
 ## Indicadores financieros
 
+### Razones de liquidez o solvencia
+
+- _Razón corriente_ : 
+	- 
