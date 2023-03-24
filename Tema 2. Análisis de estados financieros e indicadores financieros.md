@@ -12,6 +12,9 @@ Representación gráfica del balance general:
 
 ![](attachments/Pasted%20image%2020230323212619.png)
 
+
+### Activos
+
 - _Activo corriente_ : Poseen liquidez
 	- _Caja y bancos_ : Representa el efectivo de la empresa guardado en los bancos. Se trata de un $100\%$ de liquidez.
 	- _Cuentas por cobrar_ : Es el dinero que se le cobra a los deudores. Son producto de las ventas
@@ -24,3 +27,20 @@ Representación gráfica del balance general:
 - _Activo no corriente_ : No poseen mucha liquidez. Pueden ser convertidos en efectivo en un plazo mayor a un año.
 	- _Activos fijos_ :
 		- Terreno
+		- Edificios
+		- Maquinaria
+		- Mobiliario
+	- _Depreciaciones y amortizaciones_ : Representan el desgaste de los activos fijos 
+	  por el paso del tiempo. El único activo fijo indepreciable es el terreno.
+
+>[!Note]
+>Las depreciaciones ocurren sobre activos tangibles.
+>Las amortizaciones ocurren sobre activos intangibles.
+
+
+### Pasivos
+
+- _Pasivos corrientes_ : Son deudas que deben pagarse a corto plazo (un año máximo)
+	- _Proveedores_ : Obligaciones con los proveedores
+	- _Bancos_ : Deudas con los bancos
+	- _Empleados_ : Deudas con los empleados (nóminas, beneficios, gratificaciones)
