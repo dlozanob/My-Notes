@@ -28,7 +28,26 @@ La inversión KTN (working capital) se calcula:
 
 <table>
 	<tr>
-		<th><center>Inversión en</center></th>
+		<th><center>Inversión en Capital de trabajo</center></th>
 	</tr>
-
+	<tr>
+		<td>- Variación en CXC</td>
+	</tr>
+	<tr>
+		<td>- Variación en inventarios</td>
+	</tr>
+	<tr>
+		<td>- Variación en otros activos corrientes</td>
+	</tr>
+	<tr>
+		<td>Sum Variación total en activos corrientes</td>
+	</tr>
+	<tr>
+		<td>+ Variación en pasivos corrientes</td>
+	</tr>
+	<tr>
+		<td>sum Variación neta</td>
+	</tr>
 <\table>
+
+Es la variación de activos corrientes y pasivos corrientes entre dos periodos.
