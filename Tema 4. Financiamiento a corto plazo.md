@@ -22,7 +22,6 @@ Toma datos del estado de situación financiera y del estado de resultados.
 
 - _KTN_ : Capital de Trabajo Neto
 - _PLP_ : Pasivo de Largo Plazo
-- _CAPEX_ : Capital Expenditures
 
 
 ### Inversión KTN
@@ -51,7 +50,7 @@ La inversión KTN (working capital) se calcula:
 	<tr>
 		<td>Σ Variación neta</td>
 	</tr>
-<\table>
+</table>
 
 Es la variación de activos corrientes y pasivos corrientes entre dos periodos.
 
@@ -61,3 +60,7 @@ $$
 \end{align*}
 $$
 
+
+### CAPEX
+
+La inversión en activos fijos CAPEX (Capital Expenditures) son los recursos empleados durante el periodo para adquirir activos para la explotación del proyecto.
