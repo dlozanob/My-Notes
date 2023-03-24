@@ -140,3 +140,22 @@ Los siguientes rubros no son incluidos:
 	- (-) Impuestos operacionales $= EBIT*i$
 	   Donde $i$ es la tasa de impuestos en el PyG
 	- (-) Inversión KTN - Impuestos acumulados (en pasivos corrientes)
+	- (-) CAPEX - Pago de préstamos nacionales
+	- = Flujo de caja libre
+
+
+### Método indirecto
+
+- EBITDA
+	- (+) Depreciación
+	- (+) Amortización
+	- (-) Inversión KTN
+	- (-) Inversión activos fijos
+	- (+) Gastos financieros
+	- (-) Ingresos no operacionales
+	- (+) Egresos no operacionales
+	- (-) Ventaja tributaria gastos financieros
+	- (+) Impuestos causados por otros ingresos
+	- (-) Ventaja tributaria otros egresos
+	- = Flujo de caja libre
+
