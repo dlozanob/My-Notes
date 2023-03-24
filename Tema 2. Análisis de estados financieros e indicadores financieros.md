@@ -225,19 +225,18 @@ $$
 \end{align*}
 $$
 
-- :
-
-
-
+- _Margen EBITDA_ : 
 
 $$
 \begin{align*}
-	MargenEBITDA = \frac{EBITDA}{IngresosOperacionales}
+	MargenEBITDA = \frac{EBITDA}{IngresosOperacionales}*100\%
 \end{align*}
 $$
 
+- _Margen EBIT_ o _margen operacional_ : 
+
 $$
 \begin{align*}
-	MargenOperacional = \frac{EBIT}{IngresosOperacionales}
+	MargenEBIT = \frac{EBIT}{IngresosOperacionales}*100\%
 \end{align*}
 $$
