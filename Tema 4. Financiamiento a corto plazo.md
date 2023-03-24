@@ -222,7 +222,7 @@ $$
 
 $$
 \begin{align*}
-	WACC = CostoponderadoDeuda + CostoPonderadoEquity
+	WACC = CostoPonderadoDeuda + CostoPonderadoEquity
 \end{align*}
 $$
 
