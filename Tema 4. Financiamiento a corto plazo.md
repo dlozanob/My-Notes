@@ -19,6 +19,24 @@ Toma datos del estado de situación financiera y del estado de resultados.
 | + Saldo anterior |
 | = Flujo de caja de tesorería |
 
+<table>
+	<tr>
+		<th><center>Utilidad neta</center></th>
+	</tr>
+	<tr>
+		<td>+ Depreciaciones y Amortizaciones</td>
+	</tr>
+	<tr>
+		<td>+ Gastos no efectivos</td>
+		<td>sds</td>
+		<tr>
+			<td>a</td>
+		</tr>
+	</tr>
+</table>
+
+
+
 
 - _KTN_ : Capital de Trabajo Neto
 - _PLP_ : Pasivo de Largo Plazo
