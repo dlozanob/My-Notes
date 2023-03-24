@@ -30,8 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6136449faf54e828",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fórmulas Financieras Excel.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -92,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tema 2. Análisis de estados financieros e indicadores financieros.md",
+                "file": "Fórmulas Financieras Excel.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tema 2. Análisis de estados financieros e indicadores financieros.md",
+                "file": "Fórmulas Financieras Excel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tema 2. Análisis de estados financieros e indicadores financieros.md"
+                "file": "Fórmulas Financieras Excel.md"
               }
             }
           },
@@ -183,10 +196,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2166543c3eb54a93",
+  "active": "6136449faf54e828",
   "lastOpenFiles": [
-    "Tema 4. Financiamiento a corto plazo.md",
     "Tema 2. Análisis de estados financieros e indicadores financieros.md",
+    "Tema 4. Financiamiento a corto plazo.md",
     "Módulo 2. Diagnóstico financiero.md",
     "Finanzas.md",
     "Tema 3. Análisis de flujo de efectivo y análisis de capital de trabajo.md",

@@ -4,6 +4,7 @@
 >- Referencia absoluta: F4
 >- Flujos de salida negativos
 >- Usar tasas de interés con '%'
+>- El valor de salvamento en depreciaciones es: $i_{salvamento}*ValorInicial$
 
 | Fórmula | (ENG) | Descripción |
 |-|-|-|
