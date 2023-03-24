@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "279cfa1323679d4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tema 4. Matemáticas financieras.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -80,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tema 1. Composición y estructura del balance general, estado de resultados y flujo de caja neto.md",
+                "file": "Tema 4. Matemáticas financieras.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tema 1. Composición y estructura del balance general, estado de resultados y flujo de caja neto.md",
+                "file": "Tema 4. Matemáticas financieras.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tema 1. Composición y estructura del balance general, estado de resultados y flujo de caja neto.md"
+                "file": "Tema 4. Matemáticas financieras.md"
               }
             }
           },
@@ -171,21 +184,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6718191b799f71f7",
+  "active": "279cfa1323679d4a",
   "lastOpenFiles": [
+    "Módulo 1. Economía y matemática financiera.md",
+    "Finanzas.md",
+    "Tema 1. Composición y estructura del balance general, estado de resultados y flujo de caja neto.md",
     "Tema 1. Composición y estructura del balance general%2C estado de resultados y flujo de caja neto.md",
     "Módulo 2. Diagnóstico financiero.md",
-    "Finanzas.md",
     "Módulo 3. Introducción al mercado de capitales.md",
     "Tema 1. Infraestructura de los mercados financieros.md",
     "Tema 2. Estructura del mercado.md",
-    "Módulo 1. Economía y matemática financiera.md",
     "Tema 3. Indicadores macroeconómicos.md",
     "Ingeniería Económica.md",
     "Tema 4. Matemáticas financieras.md",
     "Fórmulas Financieras Excel.md",
     "formulas financiera.md",
-    "Tema 1. Composición y estructura del balance general, estado de resultados y flujo de caja neto.md",
     "Mecanismos.md",
     "HTML.md",
     "Automatización, Control y Robótica.md",

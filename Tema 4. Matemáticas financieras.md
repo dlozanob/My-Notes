@@ -79,6 +79,14 @@ Por tanto, la inflación en el año es del $1.92\%$.
 
 - TD :  Tasa de descuento
 
+>[!Info]
+>Efecto Fisher:
+$$\begin{align*}(1 + i_{c}) = (1 + i_{r})*(1 + i_{inf})\end{align*}$$
+>Donde:
+>- $i_{c}$ : Tasa de interés corriente
+>- $i_{r}$ : Tasa de interés real
+>- $i_{inf}$  : Tasa de inflación
+
 
 ## Identificación y conversión de tasas
 
