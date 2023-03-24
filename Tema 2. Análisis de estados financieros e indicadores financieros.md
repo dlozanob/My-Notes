@@ -216,3 +216,15 @@ $$
 $$
 
 Se toma el promedio de los activos totales en dos años consecutivos.
+
+
+### Razones de apalancamiento financiero o de administración de deudas
+
+- _Razón de deuda a capital_ : 
+
+$$
+\begin{align*}
+	RazónDeDeudaACapital = \frac{Pasivos}{Patrimonio}
+\end{align*}
+$$
+
