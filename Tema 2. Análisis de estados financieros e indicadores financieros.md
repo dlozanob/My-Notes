@@ -61,3 +61,24 @@ Son las oblgaciones que la empresa tiene con sus accionistas.
 - _Utilidades acumuladas_ : Ganancias acumuladas producto de las ventas. Se pueden convertir en capital o distribuirse entre los dueños (dividendos)
 
 
+## Estado de resultados (PyG)
+
+Muestra la rentabilidad de la empresa durante un periodo (ganacias y pérdidas).
+
+Se compone de:
+
+- _Ventas_ : No incluye el IVA. Representa las ganancias producidas por ventas.
+- _Costo de ventas_  : Representa el costo de la mercancía vendida
+- _Utilidad bruta_ :
+
+$$
+\begin{align*}
+	UtilidadBruta = Ventas - CostoDeVentas
+\end{align*}
+$$
+
+- _Gastos_  : Son los gastos que se deben pagar para el funcionamiento de la empresa
+	- _Generales_
+	- _Ventas_
+	- _Administrativos_
+- 
