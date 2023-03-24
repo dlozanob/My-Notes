@@ -88,3 +88,31 @@ Es la variación de activos corrientes y pasivos corrientes entre dos periodos.
 La inversión en activos fijos CAPEX (Capital Expenditures) son los recursos empleados durante el periodo para adquirir activos para la explotación del proyecto.
 
 <table>
+	<tr>
+		<th><center>CAPEX</center></th>
+	</tr>
+	<tr>
+		<td>- Equipos de laboratorio</td>
+	</tr>
+	<tr>
+		<td>- Vehículos</td>
+	</tr>
+	<tr>
+		<td>- Muebles y enseres</td>
+	</tr>
+	<tr>
+		<td>- Edificios</td>
+	</tr>
+	<tr>
+		<td>- Terreno</td>
+	</tr>
+	<tr>
+		<td>Licencias e intangibles</td>
+	</tr>
+	<tr>
+		<td>Pago de préstamos nacionales</td>
+	</tr>
+</table>
+
+>[!Note]
+>Cada inciso representa la variación de costos de cada recurso entre los dos años.
