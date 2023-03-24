@@ -135,28 +135,6 @@ $$
 Estas son después capitalizadas.
 
 
-
-Algunos márgenes son:
-
-$$
-\begin{align*}
-	MargenBruto = \frac{UtilidadBruta}{IngresosOperacionales}
-\end{align*}
-$$
-
-$$
-\begin{align*}
-	MargenEBITDA = \frac{EBITDA}{IngresosOperacionales}
-\end{align*}
-$$
-
-$$
-\begin{align*}
-	MargenOperacional = \frac{UtilidadOperacional}{IngresosOperacionales}
-\end{align*}
-$$
-
-
 ## Flujo de caja
 
 Refleja las entradas y salidas de efectivo a partir de la operación de la compañía y el pago a sus fuentes de financiación.
@@ -228,3 +206,38 @@ $$
 \end{align*}
 $$
 
+
+### Razones de rentabilidad
+
+- _Margen bruto_ o _margen de utilidad bruta_ : 
+
+$$
+\begin{align*}
+	MargenBruto = \frac{UtilidadBruta}{IngresosOperacionales}*100\%
+\end{align*}
+$$
+
+- _Margen de ganancias netas_ : 
+
+$$
+\begin{align*}
+	MargenDeGananciasNetas = \frac{UtilidadNeta}{IngresosOperacional}*100\%
+\end{align*}
+$$
+
+- :
+
+
+
+
+$$
+\begin{align*}
+	MargenEBITDA = \frac{EBITDA}{IngresosOperacionales}
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	MargenOperacional = \frac{EBIT}{IngresosOperacionales}
+\end{align*}
+$$
