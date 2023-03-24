@@ -84,7 +84,7 @@ $$
 	- _Generales_
 	- _Ventas_ : Publicidad
 	- _Administrativos_ : Garantizan el funcionamiento de la empresa, incluyendo salarios de empleados no involucrados en la producción
-- _Utilidad de operación_ o _gener_ :
+- _Utilidad de operación_ o _generación interna de recursos (EBITDA)_ :
 
 $$
 \begin{align*}
@@ -93,12 +93,21 @@ $$
 $$
 
 - _Depreciaciones y amortizaciones (costos contables)_ : En este caso no son acumulativas a periodos anteriores. Se toman en cuenta solamente desde el periodo de evaluación con respecto al anterior.
-- _Gastos financieros_ : Gastos de endeudamientos
-- _Utilidad antes de impuestos_ :
+
+- _Utilidad operacional (EBIT)_ : 
 
 $$
 \begin{align*}
-	UtilidadAntesDeImpuestos = UtilidadOperativa - GastosFinancieros
+	UtilidadOperacional = UtilidadDeOperación - DepreciacionesYAmortizaciones
+\end{align*}
+$$
+
+- _Gastos financieros_ : Gastos de endeudamientos
+- _Utilidad antes de impuestos (EBT)_ :
+
+$$
+\begin{align*}
+	UtilidadAntesDeImpuestos = UtilidadOperacional - GastosFinancieros
 \end{align*}
 $$
 
@@ -128,6 +137,18 @@ Estas son después capitalizadas.
 $$
 \begin{align*}
 	MargenBruto = \frac{UtilidadBruta}{IngresosOperacionales}
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	MargenEBITDA = \frac{EBITDA}{IngresosOperacionales}
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	MargenOperacional = \frac{UtilidadOperacional}{IngresosOperacionales}
 \end{align*}
 $$
 
