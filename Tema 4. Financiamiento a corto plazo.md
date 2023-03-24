@@ -31,6 +31,10 @@ Se construye usando el estado de situación financiera y el estado de resultados
 - _KTN_ : Capital de Trabajo Neto
 - _PLP_ : Pasivo de Largo Plazo
 
+>[!Note]
+>Debe coincidir con la cuenta caja del estado de situación financiera
+
+
 ### Utilidad neta
 
 <table>
@@ -159,3 +163,5 @@ Los siguientes rubros no son incluidos:
 	- (-) Ventaja tributaria otros egresos
 	- = Flujo de caja libre
 
+
+## Valor Económico Agregado ()

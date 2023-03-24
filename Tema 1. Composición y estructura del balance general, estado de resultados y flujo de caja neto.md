@@ -3,7 +3,9 @@
 
 ## Estado de resultados (PyG)
 
-Informa cómo se obtuvo la utilidad o pérdida de un periodo contable
+Informa cómo se obtuvo la utilidad o pérdida de un periodo contable.
+
+Muestra lo ocurrido entre dos puntos en el tiempo.
 
 <center>
 <table>
@@ -110,6 +112,9 @@ $$
 - _Patrimonio_ : 
 	- Capital
 	- Utilidades o pérdidas
+
+
+Representa una fotografía de la posición de la empresa en un punto determinado de tiempo.
 
 
 ## Depreciaciones y amortizaciones
