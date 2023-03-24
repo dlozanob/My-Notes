@@ -5,7 +5,7 @@
 Considera la suma de los ingresos y egresos de una caja que ocurren durante un periodo.
 Determina el estado de liquidez de la firma.
 
-Toma datos del estado de situación financiera y del estado de resultados.
+Se construye usando el estado de situación financiera y el estado de resultados.
 
 <table>
 	<tr>
@@ -122,3 +122,15 @@ La inversión en activos fijos CAPEX (Capital Expenditures) son los recursos emp
 ## Flujo de caja libre (FCL)
 
 Se refiere a los flujos que generan las actividades operativas.
+Son fondos adicionales para entregar a los inversionistas y poseedores de deuda.
+
+Se construye usando el estado de situación financiera y el estado de resultados.
+
+Los siguientes rubros no son incluidos:
+- Aportes de socios
+- Ingresos por préstamos recibidos
+- Pagos o amortizaciones de préstamos
+- Gastos financieros
+- Dividendos pagados o utilidades distribuidas
+- Ahorro en impuestos por pago de intereses o egresos no operacionales
+
