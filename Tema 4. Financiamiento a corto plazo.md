@@ -236,6 +236,13 @@ $$
 
 Donde $i$ es la tasa de impuestos.
 
+$$
+\begin{align*}
+	\%DeudaLP = \frac{TotalPasivoLP}{TotalPasivoLP + Patrimonio}
+\end{align*}
+$$
+
+
 El costo ponderado del Equity se calcula:
 
 $$
@@ -243,6 +250,19 @@ $$
 	CostoPonderadoEquity = \%Equity*CostoEquity
 \end{align*}
 $$
+
+$$
+\begin{align*}
+	\%Equity = \frac{Patrimonio}{Patrimonio + TotalPasivoLP}
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	CostoEquity = \frac{Dividendos}{Patrimonio}
+\end{align*}
+$$
+
 
 - _Costo de deuda (Ai)_ : 
 
