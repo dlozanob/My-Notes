@@ -119,6 +119,7 @@ Se debe al uso, o a la obsolescencia tecnológica.
 
 ### Sistema de línea recta (SLN - Sistema de Línea Normal)
 
+La tasa de depreciación es la misma para todos los periodos.
 
 $$
 \begin{align*}
@@ -126,4 +127,29 @@ $$
 \end{align*}
 $$
 
-- $i_{D}$
+- $i_{D}$ : Tasa de depreciación
+
+$$
+\begin{align*}
+	Valor_{AñoN} = Valor_{Año(N - 1)} - i_D
+\end{align*}
+$$
+
+### Sistema suma de dígitos (SYD - Sum of the Years Digits)
+
+Se suman los dígitos de toda la vida del activo:
+
+$$
+\begin{align*}
+	N + (N - 1) + (N - 2) + \dots + 1 = \sum_{i = 0}^{N - 1} (N - i) = \frac{N(N + 1)}{2}
+\end{align*}
+$$
+
+- $N$ :  Vida útil del activo 
+
+$$
+\begin{align*}
+	i_{D_{N}} = \frac{N}{}
+\end{align*}
+$$
+
