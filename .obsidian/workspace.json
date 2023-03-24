@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bd950aff34d86257",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tema 1. Composición y estructura del balance general, estado de resultados y flujo de caja neto.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "6718191b799f71f7",
             "type": "leaf",
             "state": {
@@ -32,7 +20,7 @@
             }
           },
           {
-            "id": "c2b1200ea491c79e",
+            "id": "9594f1e4e1075bc3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -42,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "077b9701e1c3ba49",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tema 1. Composición y estructura del balance general, estado de resultados y flujo de caja neto.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -196,21 +196,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c2b1200ea491c79e",
+  "active": "9594f1e4e1075bc3",
   "lastOpenFiles": [
     "Tema 2. Análisis de estados financieros e indicadores financieros.md",
     "Tema 1. Composición y estructura del balance general, estado de resultados y flujo de caja neto.md",
     "Tema 4. Financiamiento a corto plazo.md",
+    "Tema 1. Composición y estructura del balance general%2C estado de resultados y flujo de caja neto.md",
     "Módulo 2. Diagnóstico financiero.md",
+    "Tema 1. Infraestructura de los mercados financieros.md",
     "Tema 3. Análisis de flujo de efectivo y análisis de capital de trabajo.md",
     "Finanzas.md",
     "Fórmulas Financieras Excel.md",
-    "Tema 1. Composición y estructura del balance general%2C estado de resultados y flujo de caja neto.md",
     "attachments/Pasted image 20230323212619.png",
     "Tema 4. Matemáticas financieras.md",
     "Módulo 1. Economía y matemática financiera.md",
     "Módulo 3. Introducción al mercado de capitales.md",
-    "Tema 1. Infraestructura de los mercados financieros.md",
     "Tema 2. Estructura del mercado.md",
     "Tema 3. Indicadores macroeconómicos.md",
     "Ingeniería Económica.md",

@@ -24,6 +24,9 @@ Toma datos del estado de situación financiera y del estado de resultados.
 - _PLP_ : Pasivo de Largo Plazo
 - _CAPEX_ : Capital Expenditures
 
+
+### Inversión KTN
+
 La inversión KTN (working capital) se calcula:
 
 <table>
@@ -40,14 +43,21 @@ La inversión KTN (working capital) se calcula:
 		<td>- Variación en otros activos corrientes</td>
 	</tr>
 	<tr>
-		<td>Sum Variación total en activos corrientes</td>
+		<td>Σ Variación total en activos corrientes</td>
 	</tr>
 	<tr>
 		<td>+ Variación en pasivos corrientes</td>
 	</tr>
 	<tr>
-		<td>sum Variación neta</td>
+		<td>Σ Variación neta</td>
 	</tr>
 <\table>
 
 Es la variación de activos corrientes y pasivos corrientes entre dos periodos.
+
+$$
+\begin{align*}
+	InversiónKTN = VariaciónPasivosCorrientes - VariaciónActivosCorrientes
+\end{align*}
+$$
+
