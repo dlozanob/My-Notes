@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main.md",
-                "mode": "preview",
+                "file": "Electrónica Digital II.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -80,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Main.md",
+                "file": "Electrónica Digital II.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Main.md",
+                "file": "Electrónica Digital II.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Main.md"
+                "file": "Electrónica Digital II.md"
               }
             }
           },
@@ -173,8 +173,8 @@
   },
   "active": "d372ece51f2bfdd9",
   "lastOpenFiles": [
-    "Ingeniería Electrónica.md",
     "Main.md",
+    "Ingeniería Electrónica.md",
     "Tema 2. Función de oferta y demanda.md",
     "Fórmulas Financieras Excel.md",
     "Tema 4. Financiamiento a corto plazo.md",
