@@ -11,8 +11,12 @@
             "id": "d372ece51f2bfdd9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Main.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -76,6 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Main.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,6 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Main.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,7 +119,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Main.md"
+              }
             }
           },
           {
@@ -165,6 +173,8 @@
   },
   "active": "d372ece51f2bfdd9",
   "lastOpenFiles": [
+    "Ingeniería Electrónica.md",
+    "Main.md",
     "Tema 2. Función de oferta y demanda.md",
     "Fórmulas Financieras Excel.md",
     "Tema 4. Financiamiento a corto plazo.md",
@@ -188,14 +198,12 @@
     "HTML.md",
     "Automatización, Control y Robótica.md",
     "Automatización%2C Control y Robótica.md",
-    "Main.md",
     "Excalidraw/blackboard.excalidraw.md",
     "attachments/Pasted image 20230322193804.png",
     "attachments/Pasted image 20230322193332.png",
     "attachments/Pasted image 20230322192716.png",
     "attachments/Pasted image 20230322184630.png",
     "Propiedades de los Fluidos.md",
-    "Ciencias Económicas y Administrativas.md",
     "attachments/Pasted image 20230322090717.png",
     "attachments/Pasted image 20230322085021.png",
     "attachments/Pasted image 20230322084452.png",
