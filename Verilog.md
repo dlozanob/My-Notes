@@ -222,8 +222,27 @@ Ways of specifying delays:
 		```
 
 - _Net declaration delay_
+	- Syntax: `<netType_variable> #<delay> <var>`
 
+		```verilog
+		wire #10 out;
+		assign out = A & B;
+		```
 
+---
+
+Data flow level implementation example:
+
+```verilog
+module fulladd4(a, b, c_in, sum, c_out);
+	input [3:0] a, b;
+	input c_in;
+	output [3:0] sum;
+	output c_out;
+
+	assign {c_out, sum} = 
+endmodule
+```
 
 
 
