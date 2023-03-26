@@ -25,6 +25,13 @@ comment */
 ```
 
 
+Design methodologies:
+- _Top-down_: First define the top level block then define the sub-blocks until defining the leaf cells to build up the entire top level block
+- _Bottom-up_: First identify the building blocks and use them to build up bigger blocks until make the entire top-level block
+
+>[!Note]
+>In the synthesis process the digital design based on logic gates is created based on the Verilog code.
+
 
 ## Abstraction levels
 
@@ -43,7 +50,6 @@ Interpretation:
 
 ![](attachments/Pasted%20image%2020230325194712.png)
 
-
 - _Gate level_
 	- The modules are implemented in terms of logic gates
 	- Syntax implementation: `<primitive_name> <instance_name>(<output>, <input(s)>)`
@@ -56,7 +62,6 @@ or G2(Q, A, B);
 nand G3(Q, A, B);
 ```
 
-
 - _Data flow level_
 	- Module is designed by specifying the data flow
 	- Syntax implementation: `assign <signal_name> = <expression>`
@@ -68,7 +73,6 @@ assign x = A & B;
 assign y = A | B;
 assign z = ~A;
 ```
-
 
 - _Behavioral level_
 	- Modules are described by their behaviour (highest abstraction level)
@@ -92,6 +96,24 @@ begin
 		out = i1;
 end
 ```
+
+
+### Gate level modeling
+
+
+
+
+### Data flow level modeling
+
+
+
+### Behavioral level modeling
+
+
+
+
+
+
 
 
 ## Modules
@@ -154,17 +176,6 @@ module mux4to1(i0, i1, i2, i3, s0, s1, out);
 	mux2to1 mux3(x1, x2, s0, out);
 endmodule
 ```
-
-
-## Synthesis
-
-In this process the digital design based on logic gates is created based on the Verilog code.
-
-
-## Design methodologies
-
-- Top-down: First define the top level block then define the sub-blocks until defining the leaf cells to build up the entire top level block
-- Bottom-up: First identify the building blocks and use them to build up bigger blocks until make the entire top-level block
 
 
 ## Data types
