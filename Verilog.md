@@ -82,6 +82,9 @@ end
 
 ## Modules
 
+Are circuit blocks that can be used to build a more complex block.
+
+
 Basic framework:
 
 ```verilog
@@ -102,14 +105,17 @@ Suppose the following circuit.
 The module representation is:
 
 ```verilog
-module myModule(i0, i1, sel, out);
+module mux2to1(i0, i1, sel, out);
 	input i0, i1, sel;
 	output out;
 
 	@always(i0, i1, sel)
 	begin
-	
-
+		if(sel)
+			out = i0;
+		else
+			out = i1;
 	end
 endmodule
 ```
+
