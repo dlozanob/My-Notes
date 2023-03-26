@@ -180,23 +180,25 @@ In this process the digital design based on logic gates is created based on the 
 	- Default value: `Z`
 	- Data types:
 		- _wire_ : Single connection
-		- _wand_ : 
-	
-		```verilog
-		wand y;
-		
-		assign y = A & B;
-		assign y = A | B;
-		
-		// y = (A & B) & (A | B)
-		```
-
-		- _wor_ : Same as `wand`. `y = <assign1> | <assign2>`
-		- _supply0_ : 
+		- _wand_ : And wire connection
+		- _wor_ : Or wire connection
+		- _supply0_ :
 		- _supply1_ :
 
 
+		```verilog
+		wand y;
+		assign y = A & B;
+		assign y = A | B;
+		// y = (A & B) & (A | B)
 
+		/* ------------------------------------------------------------- */
+
+		wor y;
+		assign y = A & B;
+		assign y = A | B;
+		// y = (A & B) | (A | B)
+		```
 
 
 
