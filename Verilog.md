@@ -144,9 +144,15 @@ Syntax: `<logic_gate> <name>(<output>, <input>, <control>)`
 ![](attachments/Pasted%20image%2020230326144544.png)
 
 
+#### Gate delays
+
+- Rise delay: Introduces a delay at rising edge
+- Fall delay: Introduces a delay at falling edge
+- Turn-off delay
 
 
-
+>[!Note]
+>If the delay 
 
 
 
