@@ -269,7 +269,9 @@ end
 
 The `always` statement executes continously while running the program.
 
-
+>[!Note]
+>A _deadlock_ is a situation when a process A needs one resource holded by a process B to continue, and the latter need a resource holded by A. But A won't release it until having the required resource to finish the process, so the same happens to B.
+>Hence, the execution will never stop.
 
 
 
