@@ -373,10 +373,30 @@ An unknown logic value will be prooduced when there are two signals of same stre
 ## Operators
 
 - _Arithmetic_
-	- _Unary_ : `+`, `-`
-	- _Binary_ : `+`, `-`, `*`, `/`, `**` (power), `%` (modulus)
+	- _Unary_ :
+		- Plus signed: `+`
+		- Negative signed: `-`
+	- _Binary_ : 
+		- Add: `+`
+		- Substract: `-`
+		- Product: `*`
+		- Division: `/`
+		- Power: `**`
+		- Modulus: `%`
 	  If any operator has a value x, the output will be x.
 
-- _Logical_ : `!`, `&&`, `||`
+- _Logical_ :
+	- Negation: `!`
+	- And: `&&`
+	- Or: `||`
 
-- _Bitwise_ : ``
+- _Bitwise_ :
+	- Bitwise and: `&`
+	- Bitwise or: `|`
+	- 1's complement: `~`
+	- Bitwise xor: `^`
+	- Bitwise xnor: `^~` or `~^`
+
+- _Equality_ : 
+	- Logical equality: `==`
+	- Logical inequality: `!=`, 
