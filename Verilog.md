@@ -178,6 +178,8 @@ In this process the digital design based on logic gates is created based on the 
 	- Represents connections between hardware elements
 	- Declaration keyword: `wire`
 	- Default value: `Z`
+	- Data types:
+		- _wire_
 
 
 ### Value and signal strength levels
@@ -217,4 +219,4 @@ An unknown logic value will be prooduced when there are two signals of same stre
 - _Output_
 	- Internally reg or net. Externally net
 - _Inout_
-	- Only net data type
+	- Only wire data type
