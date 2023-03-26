@@ -256,8 +256,12 @@ B[0]; // B's MSB
 
 Allowed for `Register` data types.
 
+Syntax: `<data_type> [r1:r2] <var_name> [r3:r4]`
+There are $\mid r_{3} - r_{4} + 1 |$ `var_name`'s with length $| r_{1} - r_{2} + 1 |$ each one.
+
 ```verilog
 reg [7:0] register_bank [15:0]; // 16 8-bit register banks
+reg num [31:0]; // 32 1-bit numbers
 ```
 
 
