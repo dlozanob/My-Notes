@@ -263,16 +263,22 @@ begin
 end
 ```
 
->[!Note]
->If there's a single line statement, `begin` and `end` can be omitted
-
-
-The `always` statement executes at every clock change.
+The `always` statement executes according to it's event.
 
 Syntax:
 
 ```verilog
-always @()
+always @(<event>) begin
+	<statements>
+end
+```
+
+The `<event>` block represents any change. For instance:
+
+```verilog
+always // Triggered at any clock change
+always @(A or B) // Triggered at clock's positive edge
+always @(A or B) // Triggered if (A or B) changes
 ```
 
 
@@ -282,6 +288,9 @@ A deadlock condition will be created if an always statement has no control for s
 >[!Note]
 >A _deadlock_ is a situation when a process A needs one resource holded by a process B to continue, and the latter need a resource holded by A. But A won't release it until having the required resource to finish the process, so the same happens to B.
 >Hence, the execution will never stop.
+
+>[!Note]
+>If there's a single line statement, `begin` and `end` can be omitted
 
 
 A _procedural assignment_ updates _Register_ data type values. 
