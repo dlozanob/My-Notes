@@ -254,7 +254,7 @@ B[0]; // B's MSB
 
 ### Arrays
 
-Allowed for `Register` data types.
+Allowed for `Register` data types and `wire`.
 
 Syntax: `<data_type> [r1:r2] <var_name> [r3:r4]`
 There are $\mid r_{3} - r_{4} + 1 |$ `var_name`'s with length $| r_{1} - r_{2} + 1 |$ each one.
@@ -262,7 +262,10 @@ There are $\mid r_{3} - r_{4} + 1 |$ `var_name`'s with length $| r_{1} - r_{2} +
 ```verilog
 reg [7:0] register_bank [15:0]; // 16 8-bit register banks
 reg num [31:0]; // 32 1-bit numbers
+
+reg [7:0] membyte [0:1023]; // 1k memory, 8-bit words
 ```
+
 
 
 
