@@ -14,4 +14,4 @@
 
 ## External links
 
-- [Verilog](Verilog)
+- [Verilog](Verilog.md)
