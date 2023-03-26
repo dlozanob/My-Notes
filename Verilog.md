@@ -146,18 +146,22 @@ Syntax: `<logic_gate> <instance_name>(<output>, <input>, <control>)`
 
 #### Gate delays
 
-Syntax:
-
-```verilog
-<gate_name> #<delay_time> <instance_name>(<input>, <outp>)
-```
-
-
-
 - Rise delay: Introduces a delay at rising edge
 - Fall delay: Introduces a delay at falling edge
 - Turn-off delay: Introduces a delay when going from any logic value to `Z`
 
+Syntax:
+
+```verilog
+// Assign a delay to all kinds
+<gate_name> #(<delay_time>) <instance_name>(<input>, <output(s)>);
+
+// Assign a delay to rise and fall edges
+<gate_name> #(<rise_delay, fall_delay>) <instance_name>(<input>, <output(s)>);
+
+// Assign a delay to all kinds, specifying each one
+<gate_name> #(<rise_delay, fall_delay, turnOff_delay>) <instance_name>(<input>, <output(s)>);
+```
 
 >[!Note]
 >If the delay transists to `X`, the minimum of the 3 delays is considered
