@@ -122,45 +122,26 @@ Syntax: `<logic_gate> <name>(<output>, <input>, <control>)`
 
 ![](attachments/Pasted%20image%2020230326143823.png)
 
-| A | Ctrl | Q |
-|-|-|-|
-| 0 | 0 | Z |
-| 0 | 1 | 0 |
-| 1 | 0 | Z |
-| 1 | 1 | 1 |
+![](attachments/Pasted%20image%2020230326144439.png)
+
 
 - _bufif0_ :
 
 ![](attachments/Pasted%20image%2020230326143951.png)
 
-| A | Ctrl | Q |
-|-|-|-|
-| 0 | 0 | 0 |
-| 0 | 1 | Z |
-| 1 | 0 | 1 |
-| 1 | 1 | Z |
+![](attachments/Pasted%20image%2020230326144457.png)
 
 - _notif1_ :
 
 ![](attachments/Pasted%20image%2020230326144012.png)
 
-| A | Ctrl | Q |
-|-|-|-|
-| 0 | 0 | Z |
-| 0 | 1 | 1 |
-| 1 | 0 | Z |
-| 1 | 1 | 0 |
+![](attachments/Pasted%20image%2020230326144515.png)
 
 - _notif0_ :
 
 ![](attachments/Pasted%20image%2020230326144023.png)
 
-| A | Ctrl | Q |
-|-|-|-|
-| 0 | 0 | Z |
-| 0 | 1 | 0 |
-| 1 | 0 | Z |
-| 1 | 1 | 1 |
+![](attachments/Pasted%20image%2020230326144544.png)
 
 
 
