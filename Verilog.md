@@ -187,7 +187,8 @@ Declaration syntax:
 			```verilog
 			reg count;
 			reg [7:0] bus;
-			count = 1'b0;
+			count = 3'b101;
+			count[2]; // 1
 			```
 
 		- _integer_ : General purpose register data type
@@ -411,39 +412,48 @@ An unknown logic value will be prooduced when there are two signals of same stre
 	A === B; // 0
 	```
 
-	- _Relational_ :
-		- Greater than: `>`
-		- Less than: `<`
-		- Greater or equal than: `>=`
-		- Less or equal than: `<=`
+- _Relational_ :
+	- Greater than: `>`
+	- Less than: `<`
+	- Greater or equal than: `>=`
+	- Less or equal than: `<=`
 
-	- _Reduction_: Takes one operand
-		- And: `&`
-		- Or: `|`
-		- Nand: `~&`
-		- Nor: `~|`
-		- Xor: `^`
-		- Xnor: `~^` or `^~`
+- _Reduction_: Takes one operand
+	- And: `&`
+	- Or: `|`
+	- Nand: `~&`
+	- Nor: `~|`
+	- Xor: `^`
+	- Xnor: `~^` or `^~`
+
+```verilog
+reg A = 4b'1010;
+&A; // 1 & 0 & 1 & 0 = 0
+```
+
+- _Shift_ : 
+	- Right shift: `>>`
+	- Left shift: `<<`
+	- Arithmetic right shit: `>>>`
+	- Arithmetic left shit: `<<<`
+
+```verilog
+reg A = 4b'1010;
+Y = A >> 1; // 0101
+Y = A << 1; // 0100
+Y = A >> 2; // 0010
+Y = A >>> 1; // 1101 The vacant bit is filled with the MSB (1)
+Y = A <<< 2; // 1000
+```
+
+- _Concatenation_ :
+   Syntax: `{element1, ..., elementN}`
 
 	```verilog
-	reg A = 4b'1010;
-	&A; // 1 & 0 & 1 & 0 = 0
+	reg A = 4b'1011;
+	reg B = 3b'101;
+	Y = {A, B}; // 7b'1011101
 	```
 
-	- _Shift_ : 
-		- Right shift: `>>`
-		- Left shift: `<<`
-		- Arithmetic right shit: `>>>`
-		- Arithmetic left shit: `<<<`
-
-	```verilog
-	reg A = 4b'1010;
-	Y = A >> 1; // 0101
-	Y = A << 1; // 0100
-	Y = A >> 2; // 0010
-	Y = A >>> 1; // 1101 The vacant bit is filled with the MSB (1)
-	Y = A <<< 2; // 1000
-	```
-
-	- _Concatenation_ :
-		- 
+- _Conditional_ : 
+  Syntax: ``
