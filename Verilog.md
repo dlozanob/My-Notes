@@ -267,6 +267,19 @@ reg [7:0] membyte [0:1023]; // 1k memory, 8-bit words
 ```
 
 
+### Parameters
+
+Are constant values. Allows module instances to be customized.
+Syntax: `parameter <param_name> = <value>`
+
+```verilog
+parameter size = 8; // Defines 'size' as a constant value 8
+```
+
+
+### Strings
+
+Can be stored in `reg` data types. Each character ta
 
 
 
@@ -274,7 +287,8 @@ reg [7:0] membyte [0:1023]; // 1k memory, 8-bit words
 
 
 
-## Numbers : 
+
+### Numbers : 
 
 Syntax: `<size>'<base><number>`
 
