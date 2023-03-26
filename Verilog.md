@@ -185,6 +185,13 @@ endmodule
 
 ### Data flow level modeling
 
+A continous assignment describes the circuit at a higher level of abstraction than using logic gates. A continous assignment statement starts with the `assign` keyword.
+
+Syntax: `assign <netType_variable> = <logic_statement>`
+
+
+
+
 
 
 
