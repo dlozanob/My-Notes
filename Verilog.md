@@ -219,12 +219,10 @@ In this process the digital design based on logic gates is created based on the 
 
 		   X and Z extension:
 
-```verilog
-6'bx5 // xxx_101
-7'd
-```
-
-
+			```verilog
+			6'bx101 // xxx_101
+			8'dz7 // zzzz_0111
+			```
 
 
 >[!Note]
