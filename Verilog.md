@@ -283,13 +283,32 @@ Types:
 	- Syntax: `<variable> = <value>`
 	- Statements are executed sequentially in the order they are specified
 
-```verilog
-x = 4;
-y = 2'b10;
-```
+	```verilog
+	x = 4;
+	y = 2'b10;
+	```
 
 - Non-blocking assignments
-	- 
+	- Syntax: `<variable> <= <value>`
+	- Statements are executed concurrently
+
+	```verilog
+	x <= 4;
+	y <= 2'b10;
+	```
+
+>[!Note]
+>It's recommended to don't mix both assignment ways
+
+
+#### Delays
+
+Set the assignment time.
+
+- _Regular delay_ 
+- _Intra-assignment delay_ 
+
+
 
 
 
