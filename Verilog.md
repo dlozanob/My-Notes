@@ -191,5 +191,12 @@ In this process the digital design based on logic gates is created based on the 
 
 | Signal strength level | Type | Degree |
 |-|-|-|
-| supply | Driving | Strong |
-| strong | Driving | Weak 
+| supply | Driving | 8 (Strongest) |
+| strong | Driving | 7 |
+| pull | Driving | 6 |
+| large | Storage | 5 |
+| weak | Driving | 4 |
+| medium | Storage | 3 |
+| small | Storage | 2 |
+| highz | High impedance | 1 (Weakest) |
+
