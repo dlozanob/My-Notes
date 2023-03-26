@@ -103,7 +103,7 @@ end
 
 ## Modules
 
-Are circuit blocks that can be used to build a more complex block.
+Are circuit blocks that can be used to build up a more complex block.
 
 Basic module framework:
 
@@ -170,4 +170,10 @@ In this process the digital design based on logic gates is created based on the 
 
 ## Design methodologies
 
-- Top-down: First define the top level block then define the sub-blocks until defining the leaf cells to build up the entire top
+- Top-down: First define the top level block then define the sub-blocks until defining the leaf cells to build up the entire top level block
+- Bottom-up: First identify the building blocks and use them to build up bigger blocks until make the entire top-level block
+
+
+## Data types
+
+- _Register_
