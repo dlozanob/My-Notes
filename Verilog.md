@@ -5,22 +5,32 @@ Is a HDL (Hardware Descriptive Language) standarized as IEEE 1364-2001.
 >[!Note]
 >Files have `.v` extension
 
+---
+
 Verilog main features:
 - Is weakly typed (doesn't require explicit mention of object types)
 - C based
 - Case sensitive
 - Uses `;`'s
 - Signal and variable names can't start with: `<number>`, `<non-alphanumeric-character>`
-
+---
+ 
 Comments:
 
 ```verilog
 // Single line comment
 
-/*
-Multiline comment
-*/
+/* Multiline
+comment */
 ```
+
+
+To create intermediate signals use:
+
+```verilog
+wire <signal(s)>;
+```
+
 
 
 ## Abstraction levels
@@ -154,10 +164,3 @@ endmodule
 
 
 
-
-
-To create intermediate signals use:
-
-```verilog
-wire <signal(s)>;
-```
