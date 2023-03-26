@@ -175,11 +175,14 @@ In this process the digital design based on logic gates is created based on the 
 	- Data types:
 		- _reg_ : Bit variable
 
-```verilog
-reg count;
-reg [7:0] bus;
-```
+			```verilog
+			reg count;
+			reg [7:0] bus;
+			count = 1'b0;
+			```
 
+		- _integer_ : General purpose register data type
+		  Values are stored as signed quantities. 32 bits by default.
 
 - _Net_
 	- Represents connections between hardware elements
@@ -205,30 +208,33 @@ reg [7:0] bus;
 		
 		- _supply0_ : $V_{dd}$ supply signal
 		- _supply1_ : $gnd$ supply signal
-		- Numbers : 
-		   Syntax: `<size>'<base><number>`
-		   
-		   | Base | Notation |
-		   |-|-|
-		   | Binary | `b` or `B` |
-		   | Octal | `o` or `O` |
-		   | Decimal | `d` or `D` |
-		   | Hexadecimal | `h` or `H` | 
-		   
-			```verilog
-			3'b101 // 3 bit, 101 binary
-			12'o42xx // 12 bit, 42xx octal (100 010 xxx xxx)
-			4'd3 // 4 bit, 3 decimal
-			12'ha35 // 12 bit, a35 hexadecimal
-			25 // 32 bits by default, 35 decimal signed number
-			```
 
-		   X and Z extension:
 
-			```verilog
-			6'bx101 // xxx_101
-			8'dz7 // zzzz_0111
-			```
+## Numbers : 
+
+Syntax: `<size>'<base><number>`
+
+| Base | Notation |
+|-|-|
+| Binary | `b` or `B` |
+| Octal | `o` or `O` |
+| Decimal | `d` or `D` |
+| Hexadecimal | `h` or `H` | 
+
+```verilog
+3'b101 // 3 bit, 101 binary
+12'o42xx // 12 bit, 42xx octal (100 010 xxx xxx)
+4'd3 // 4 bit, 3 decimal
+12'ha35 // 12 bit, a35 hexadecimal
+25 // 32 bits by default, 35 decimal signed number
+```
+
+X and Z extension:
+
+```verilog
+6'bx101 // xxx_101
+8'dz7 // zzzz_0111
+```
 
 
 >[!Note]
@@ -236,7 +242,7 @@ reg [7:0] bus;
 >
  
 
-### Value and signal strength levels
+## Value and signal strength levels
 
 | Value level | Description |
 |-|-|
