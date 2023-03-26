@@ -197,6 +197,17 @@ Declaration syntax:
 		 - _real_  : Allows decimal and scientific notation. Default value is `0.0`
 		   Rounded off to the nearest integer when assigned to an `integer` data type
 
+		- _time_ : Used to store the simulation time. Is unsigned
+
+			```verilog
+			time newSimTime;
+			initial
+			begin
+			newSimTime = $time; // Save elapsed simulation time
+			end
+			```
+
+
 - _Net_
 	- Represents connections between hardware elements
 	- Default value: `Z`
