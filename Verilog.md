@@ -294,7 +294,13 @@ myString = "Hallo Welt";
 
 | Escaped character | Character displayed |
 |-|-|
-| `` |
+| `\n` | `<new line>` |
+| `\t` | `<tab>` |
+| `\%` | `%` |
+| `\\` | `\` |
+| `\"` | `"` |
+
+
 
 
 
