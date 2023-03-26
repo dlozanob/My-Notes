@@ -166,6 +166,19 @@ Syntax:
 >[!Note]
 >If the delay transists to `X`, the minimum of the 3 delays is considered
 
+---
+
+Gate level implementation example:
+
+```verilog
+module D(a, b, c, q);
+
+
+endmodule
+```
+
+
+
 
 
 
