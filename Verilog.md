@@ -171,18 +171,21 @@ Syntax:
 Gate level implementation example:
 
 ```verilog
-module D(a, b, c, q);
-
-
+module half_sub(a, b, borrow, diff);
+	input a, b;
+	output borrow, diff;
+	
+	wire w;
+	xor x(diff, a, b);
+	not n(w, a);
+	and y(borrow, w, b);
 endmodule
 ```
 
 
-
-
-
-
 ### Data flow level modeling
+
+
 
 
 
