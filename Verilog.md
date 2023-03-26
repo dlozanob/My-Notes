@@ -182,9 +182,6 @@ In this process the digital design based on logic gates is created based on the 
 		- _wire_ : Single connection
 		- _wand_ : And wire connection
 		- _wor_ : Or wire connection
-		- _supply0_ :
-		- _supply1_ :
-
 
 		```verilog
 		wand y;
@@ -199,6 +196,16 @@ In this process the digital design based on logic gates is created based on the 
 		assign y = A | B;
 		// y = (A & B) | (A | B)
 		```
+		
+		- _supply0_ : $V_{dd}$ supply signal
+		- _supply1_ : $gnd$ supply signal
+		- Numbers : 
+		   Syntax: `<size>'<base><number>`
+```verilog
+1'b1 // Logic 1
+8'h21 // 8 bit number 0010 0001
+12'ha35
+```
 
 
 
