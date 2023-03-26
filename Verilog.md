@@ -179,7 +179,21 @@ In this process the digital design based on logic gates is created based on the 
 	- Declaration keyword: `wire`
 	- Default value: `Z`
 	- Data types:
-		- _wire_
+		- _wire_ : Allows one assignment
+		- _wand_ : 
+	
+	```verilog
+	wand y;
+	
+	assign y = A & B;
+	assign y = A | B;
+```
+
+	- sdsds
+
+
+
+
 
 
 ### Value and signal strength levels
