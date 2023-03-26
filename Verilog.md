@@ -163,4 +163,7 @@ endmodule
 ```
 
 
+## Synthesis
+
+In this process the digital design based on logic gates is created based on the Verilog code.
 
