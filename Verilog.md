@@ -279,9 +279,22 @@ parameter size = 8; // Defines 'size' as a constant value 8
 
 ### Strings
 
-Can be stored in `reg` data types. Each character ta
+Can be stored in `reg` data types. Each character takes up a byte.
 
+Syntax:
 
+```verilog
+reg [8*<str_length>:1] <str_name>; // Declaration
+<str_name> = "<str_value>"; // Assignment
+
+//Example
+reg [8*10:1] myString;
+myString = "Hallo Welt";
+```
+
+| Escaped character | Character displayed |
+|-|-|
+| `` |
 
 
 
