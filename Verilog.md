@@ -240,43 +240,29 @@ module fulladd4(a, b, c_in, sum, c_out);
 	output [3:0] sum;
 	output c_out;
 
-	assign {c_out, sum} = 
+	assign {c_out, sum} = a + b + c_in;
 endmodule
 ```
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### Behavioral level modeling
 
+B
+Verilog supports two structured procedure statements: `always` and `initial`
 
 
 
 
 
+
+
+---
+
+Behavioral level implementation example:
+
+```verilog
+
+```
 
 
 ## Modules
