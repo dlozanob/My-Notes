@@ -241,12 +241,28 @@ Repesent multiple bit size. Any data type can be declared as vector.
 Default size is scalar (1-bit).
 
 Are declared specifying the range: `<data_type> [r1:r2] <var_name>`
-Where `r1` is the most significant bit.
+Where `r1` is the most significant bit (MSB).
 
 ```verilog
+wire [15:0] A;
+wire [0:15] B;
 
-
+A[15]; // A's MSB
+B[0]; // B's MSB
 ```
+
+
+### Arrays
+
+Allowed for `Register` data types.
+
+```verilog
+reg [7:0] register_bank [15:0]; // 16 8-bit register banks
+```
+
+
+
+
 
 
 
