@@ -25,13 +25,6 @@ comment */
 ```
 
 
-To create intermediate signals use:
-
-```verilog
-wire <signal(s)>;
-```
-
-
 
 ## Abstraction levels
 
@@ -177,3 +170,11 @@ In this process the digital design based on logic gates is created based on the 
 ## Data types
 
 - _Register_
+	- Represents data storage elements
+	- Declaration keyword: `reg`
+	- Default value: `X`
+
+- _Net_
+	- Represents connections between hardware elements
+	- Declaration keyword: `wire`
+	- Default value: `Z`
