@@ -202,9 +202,11 @@ In this process the digital design based on logic gates is created based on the 
 		- Numbers : 
 		   Syntax: `<size>'<base><number>`
 ```verilog
-1'b1 // Logic 1
-8'h21 // 8 bit number 0010 0001
-12'ha35
+3'b101 // 3 bit, 101 binary
+12'o42xx // 12 bit, 42xx octal (100 010 xxx xxx)
+4'd3 // 4 bit, 3 decimal
+12'ha35 // 12 bit, a35 hexadecimal
+25 // 32 bits by default, 35 decimal signed number
 ```
 
 
