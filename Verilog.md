@@ -338,6 +338,14 @@ module counter(clk, clear, Q);
 	input clk, clear;
 	output [3:0] Q;
 	reg [3:0] Q;
+
+	always @(posedge clear or negedge clk)
+	begin
+		if(clear)
+			Q = 4'd0;
+		else
+			Q = (Q + 1)%16;
+	end
 endmodule;
 ```
 
@@ -496,7 +504,7 @@ module mux2to1(i0, i1, sel, out);
 	input i0, i1, sel;
 	output out;
 
-	@always(i0, i1, sel)
+	always @(i0, i1, sel)
 	begin
 		if(sel)
 			out = i0;
