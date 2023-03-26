@@ -276,14 +276,13 @@ end
 The `<event>` block represents any change. For instance:
 
 ```verilog
-always // Triggered at any clock change
-always @(A or B) // Triggered at clock's positive edge
+always // Triggered at any clock change (no control)
+always @(posedge clk) // Triggered at clk's rising edge
+always @(negedge clk) // Triggered at clock's falling edge
 always @(A or B) // Triggered if (A or B) changes
 ```
 
-
-
-A deadlock condition will be created if an always statement has no control for simulation time.
+A deadlock condition will be created if an always statement has no control.
 
 >[!Note]
 >A _deadlock_ is a situation when a process A needs one resource holded by a process B to continue, and the latter need a resource holded by A. But A won't release it until having the required resource to finish the process, so the same happens to B.
@@ -335,7 +334,11 @@ Set the assignment time.
 Behavioral level implementation example:
 
 ```verilog
-
+module counter(clk, clear, Q);
+	input clk, clear;
+	output [3:0] Q;
+	reg [3:0] Q;
+endmodule;
 ```
 
 
