@@ -380,13 +380,32 @@ else <statement3>;
 
 ```verilog
 case(<expression>)
+	<alternative1>: 
+		begin 
+		<statement1> 
+		end;
+	<alternative2>: 
+		begin 
+		<statement2> 
+		end;
+	default: <statement1> 
 ```
 
+- _For loop_
 
+```verilog
 
+```
 
+- _While loop_
 
+```verilog
+while(<expression>) begin
+	<statements>
+end
+```
 
+- _Do_
 
 
 
