@@ -178,7 +178,6 @@ Declaration syntax:
 <var_name> = <value> // If already declared
 ```
 
-
 - _Register_
 	- Represents data storage elements
 	- Default value: `X`
@@ -193,10 +192,8 @@ Declaration syntax:
 
 		- _integer_ : General purpose register data type
 		  Values are stored as signed quantities. 32 bits by default.
-		  
 		 - _real_  : Allows decimal and scientific notation. Default value is `0.0`
 		   Rounded off to the nearest integer when assigned to an `integer` data type
-
 		- _time_ : Used to store the simulation time. Is unsigned
 
 			```verilog
@@ -301,12 +298,6 @@ myString = "Hallo Welt";
 | `\"` | `"` |
 
 
-
-
-
-
-
-
 ### Numbers : 
 
 Syntax: `<size>'<base><number>`
@@ -379,3 +370,9 @@ An unknown logic value will be prooduced when there are two signals of same stre
 	- Only wire data type
 
 
+## Operators
+
+- _Arithmetic_
+	- _Unary_ : For signed numbers. 
+	  `+`, `-`
+	- _Binary_
