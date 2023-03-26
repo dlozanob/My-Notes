@@ -305,8 +305,9 @@ Types:
 
 Set the assignment time.
 
-- _Regular delay_ 
-- _Intra-assignment delay_ 
+- _Regular delay_ : Is the time before the right statement is evaluated and assigned to the variable.
+	- Syntax: `#<delay> <variable> = <value>`
+- _Intra-assignment delay_ : 
 
 
 
