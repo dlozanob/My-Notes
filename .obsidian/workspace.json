@@ -29,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -91,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/whiteboard.excalidraw.md",
+                "file": "Verilog.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/whiteboard.excalidraw.md",
+                "file": "Verilog.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/whiteboard.excalidraw.md"
+                "file": "Verilog.md"
               }
             }
           },
@@ -182,12 +181,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7b3c0c5230f76631",
+  "active": "d372ece51f2bfdd9",
   "lastOpenFiles": [
+    "attachments/Pasted image 20230326144023.png",
+    "Excalidraw/whiteboard.excalidraw.md",
     "Verilog.md",
+    "attachments/Pasted image 20230326144012.png",
+    "attachments/Pasted image 20230326143951.png",
+    "attachments/Pasted image 20230326143823.png",
     "Main.md",
     "attachments/Pasted image 20230325212425.png",
-    "Excalidraw/whiteboard.excalidraw.md",
     "attachments/Pasted image 20230325212345.png",
     "Electrónica Digital II.md",
     "attachments/Pasted image 20230325201945.png",
@@ -195,9 +198,6 @@
     "attachments/Pasted image 20230325201911.png",
     "attachments/Pasted image 20230325194712.png",
     "attachments/Pasted image 20230325194706.png",
-    "Excalidraw/attachments/Pasted Image 20230325194705_404.png",
-    "Excalidraw/attachments/Pasted Image 20230325194653_323.png",
-    "attachments/Pasted image 20230325194628.png",
     "CSS.md",
     "Ingeniería Electrónica.md",
     "Tema 2. Función de oferta y demanda.md",
