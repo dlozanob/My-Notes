@@ -456,4 +456,7 @@ Y = A <<< 2; // 1000
 	```
 
 - _Conditional_ : 
-  Syntax: ``
+  Syntax: `<condition> ? <ouputIfTrue> : <outputIfFalse>`
+
+
+
