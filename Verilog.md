@@ -95,6 +95,13 @@ module <module_name>(<signals>);
 endmodule
 ```
 
+To instantiate a module to use it in another, do:
+
+```verilog
+<module_name> <instance_name>(<signals>);
+```
+
+
 Example:
 
 Suppose the following circuit.
@@ -126,8 +133,20 @@ The 4 to 1 module definition is:
 module mux4to1(i0, i1, i2, i3, s0, s1, out);
 	input i0, i1, i2, i3, s0, s1;
 	output out;
+	wire x1, x2;
 
-	
-
+	mux2to1 mux1(i0, i1, s1, x1);
+	mux2to1 mux2(i2, i3, s1, x2);
+	mux2to1 mux3(x1, x2, s0, out);
 endmodule
+```
+
+
+
+
+
+To create intermediate signals use:
+
+```verilog
+wire <signal(s)>;
 ```
