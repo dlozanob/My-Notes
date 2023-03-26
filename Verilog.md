@@ -324,8 +324,18 @@ Behavioral level implementation example:
 ## Block statements
 
 - _Block statement-sequence block_
+	- Begin-end is used to group multiple statements
 - _Block statement-parallel block_
+	- Fork-join is used to group multiple statements
 
+
+---
+
+The _fork-join_ model is a way of execute a parallel program. Parallel tasks start and end at the same time.
+
+![](attachments/Pasted%20image%2020230326172938.png)
+
+---
 
 
 ## Modules
