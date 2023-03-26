@@ -217,4 +217,4 @@ An unknown logic value will be prooduced when there are two signals of same stre
 - _Output_
 	- Internally reg or net. Externally net
 - _Inout_
-	- Only wire data type
+	- Only net data type
