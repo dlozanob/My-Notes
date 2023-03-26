@@ -288,6 +288,9 @@ Types:
 	y = 2'b10;
 	```
 
+>[!Note]
+>Allowed to reassign variables by: `<variable> <binaryOperator>= <value>`
+
 - Non-blocking assignments
 	- Syntax: `<variable> <= <value>`
 	- Statements are executed concurrently
@@ -393,7 +396,7 @@ endcase
 - _For loop_
 
 ```verilog
-
+for(int <auxVar> = <initValue>; <auxVarStopCondition>; <auxVar>)
 ```
 
 - _While loop_
