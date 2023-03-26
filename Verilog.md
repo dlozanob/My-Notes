@@ -93,3 +93,23 @@ module <module_name>(<signals>);
 endmodule
 ```
 
+Example:
+
+Suppose the following circuit.
+
+![](attachments/Pasted%20image%2020230325201945.png)
+
+The module representation is:
+
+```verilog
+module myModule(i0, i1, sel, out);
+	input i0, i1, sel;
+	output out;
+
+	@always(i0, i1, sel)
+	begin
+	
+
+	end
+endmodule
+```
