@@ -396,7 +396,10 @@ endcase
 - _For loop_
 
 ```verilog
-for(int <auxVar> = <initValue>; <auxVarStopCondition>; <auxVar>)
+for(int <auxVar> = <initValue>; <auxVarStopCondition>; <auxVarReassignment>)
+begin
+	<statements>
+end
 ```
 
 - _While loop_
@@ -415,6 +418,24 @@ do begin
 end
 while(<expression>);
 ```
+
+- _Repeat loop_
+
+```verilog
+repeat(<number>)
+begin
+	<statement>
+end
+```
+
+- _Forever loop_
+	- Executes Forever until a `$finish` or `disable` 
+
+```verilog
+
+```
+
+
 
 
 
