@@ -306,11 +306,9 @@ Types:
 Set the assignment time.
 
 - _Regular delay_ : Is the time before the right statement is evaluated and assigned to the variable.
-	- Syntax: `#<delay> <variable> = <value>`
-- _Intra-assignment delay_ : 
-
-
-
+	- Syntax: `#<delay> <variable> = <statement>`
+- _Intra-assignment delay_ : Is the time before the right statement is assigned to the variable.
+	- Syntax: `<variable> = #<delay> <statement>`
 
 
 ---
@@ -320,6 +318,14 @@ Behavioral level implementation example:
 ```verilog
 
 ```
+
+
+
+## Block statements
+
+- _Block statement-sequence block_
+- _Block statement-parallel block_
+
 
 
 ## Modules
