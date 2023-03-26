@@ -200,3 +200,6 @@ In this process the digital design based on logic gates is created based on the 
 | small | Storage | 2 |
 | highz | High impedance | 1 (Weakest) |
 
+
+The strongest signal prevails when there are two signals of different strenght driven on a wire.
+
