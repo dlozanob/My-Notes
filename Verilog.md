@@ -373,6 +373,10 @@ An unknown logic value will be prooduced when there are two signals of same stre
 ## Operators
 
 - _Arithmetic_
-	- _Unary_ : For signed numbers. 
-	  `+`, `-`
-	- _Binary_
+	- _Unary_ : `+`, `-`
+	- _Binary_ : `+`, `-`, `*`, `/`, `**` (power), `%` (modulus)
+	  If any operator has a value x, the output will be x.
+
+- _Logical_ : `!`, `&&`, `||`
+
+- _Bitwise_ : ``
