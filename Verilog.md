@@ -183,19 +183,19 @@ In this process the digital design based on logic gates is created based on the 
 		- _wand_ : And wire connection
 		- _wor_ : Or wire connection
 
-		```verilog
-		wand y;
-		assign y = A & B;
-		assign y = A | B;
-		// y = (A & B) & (A | B)
-
-		/* ------------------------------------------------------------- */
-
-		wor y;
-		assign y = A & B;
-		assign y = A | B;
-		// y = (A & B) | (A | B)
-		```
+			```verilog
+			wand y;
+			assign y = A & B;
+			assign y = A | B;
+			// y = (A & B) & (A | B)
+	
+			/* ------------------------------------------------------------- */
+	
+			wor y;
+			assign y = A & B;
+			assign y = A | B;
+			// y = (A & B) | (A | B)
+			```
 		
 		- _supply0_ : $V_{dd}$ supply signal
 		- _supply1_ : $gnd$ supply signal
@@ -209,13 +209,21 @@ In this process the digital design based on logic gates is created based on the 
 		   | Decimal | `d` or `D` |
 		   | Hexadecimal | `h` or `H` | 
 		   
-		```verilog
-		3'b101 // 3 bit, 101 binary
-		12'o42xx // 12 bit, 42xx octal (100 010 xxx xxx)
-		4'd3 // 4 bit, 3 decimal
-		12'ha35 // 12 bit, a35 hexadecimal
-		25 // 32 bits by default, 35 decimal signed number
-		```
+			```verilog
+			3'b101 // 3 bit, 101 binary
+			12'o42xx // 12 bit, 42xx octal (100 010 xxx xxx)
+			4'd3 // 4 bit, 3 decimal
+			12'ha35 // 12 bit, a35 hexadecimal
+			25 // 32 bits by default, 35 decimal signed number
+			```
+
+>[!Note]
+>To improve readability use `__`'s. Ex.: `8b1011_1010`
+>
+
+
+
+
 
 
 

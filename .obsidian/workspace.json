@@ -11,8 +11,12 @@
             "id": "d372ece51f2bfdd9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Verilog.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -86,6 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Verilog.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,6 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Verilog.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +129,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Verilog.md"
+              }
             }
           },
           {
@@ -175,6 +183,7 @@
   },
   "active": "d372ece51f2bfdd9",
   "lastOpenFiles": [
+    "Main.md",
     "Verilog.md",
     "attachments/Pasted image 20230325212425.png",
     "Excalidraw/whiteboard.excalidraw.md",
@@ -189,7 +198,6 @@
     "Excalidraw/attachments/Pasted Image 20230325194653_323.png",
     "attachments/Pasted image 20230325194628.png",
     "CSS.md",
-    "Main.md",
     "Ingeniería Electrónica.md",
     "Tema 2. Función de oferta y demanda.md",
     "Fórmulas Financieras Excel.md",
