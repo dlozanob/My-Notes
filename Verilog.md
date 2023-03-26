@@ -12,7 +12,12 @@ Verilog main features:
 
 
 Supports 4 levels of abstraction:
-- Switch level
+- Switch level:
+	- Modules are composed by switches. NMOS and PMOS are used as switches
+
+Syntax implementation: 
+
+
 - Gate level
 - Data flow level
 - Behavioral level
