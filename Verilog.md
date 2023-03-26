@@ -269,6 +269,14 @@ end
 
 The `always` statement executes at every clock change.
 
+Syntax:
+
+```verilog
+always @()
+```
+
+
+
 A deadlock condition will be created if an always statement has no control for simulation time.
 
 >[!Note]
@@ -312,7 +320,6 @@ Set the assignment time.
 	- Syntax: `#<delay> <variable> = <statement>`
 - _Intra-assignment delay_ : Is the time before the right statement is assigned to the variable.
 	- Syntax: `<variable> = #<delay> <statement>`
-
 
 ---
 
@@ -396,8 +403,7 @@ endcase
 - _For loop_
 
 ```verilog
-for(int <auxVar> = <initValue>; <auxVarStopCondition>; <auxVarReassignment>)
-begin
+for(int <auxVar> = <initValue>; <auxVarStopCondition>; <auxVarReassignment>) begin
 	<statements>
 end
 ```
@@ -422,22 +428,23 @@ while(<expression>);
 - _Repeat loop_
 
 ```verilog
-repeat(<number>)
-begin
-	<statement>
+repeat(<number>) begin
+	<statements>
 end
 ```
 
 - _Forever loop_
-	- Executes Forever until a `$finish` or `disable` 
+	- Executes forever until a `$finish` or `disable` keyword is encountered
 
 ```verilog
-
+forever begin
+	<statements>
+end
 ```
 
 
-
-
+>[!Note]
+>The keywords `break` and `continue` are supported
 
 
 ## Modules
