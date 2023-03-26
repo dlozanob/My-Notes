@@ -324,20 +324,27 @@ Behavioral level implementation example:
 ## Block statements
 
 - _Block statement-sequence block_
-	- Begin-end is used to group multiple statements
+	- The `begin`, `end` keywords are used to group multiple statements
 	- Statements are executed sequentially
-	- Delays are relative to global simulation time
+	- The execution must wait any delay
 
-```verilog
-initial
-begin
-	x = 
-end
-```
+	```verilog
+	initial
+	begin
+		x = 3; // Assigns at simulation time = 0
+		#5 y = 4'b1011; // Assigns at simulation time = 5
+		#10 z = -3; // Assigns at simulation time = 15
+	end
+	```
 
 - _Block statement-parallel block_
-	- Fork-join is used to group multiple statements
+	- The `fork`, `join` keywords are used to group multiple statements
 	- Statements are executed concurrently
+	- The execution uses different threads to keep running while a delay is on
+
+
+
+
 
 
 ---
