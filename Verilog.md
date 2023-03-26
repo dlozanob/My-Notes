@@ -11,17 +11,19 @@ Verilog main features:
 - Case sensitive
 - Uses `;`'s
 
+
+## Abstraction levels
+
 Supports 4 levels of abstraction:
 - Switch level:
-	- Modules are composed by switches. NMOS and PMOS are used as switches
-
-Syntax implementation: ``<mos_name> <instance_name>(output, data, control)``
+	- Modules are composed by switches. NMOS and PMOS are used as switches.
+	- Syntax implementation: ``<mos_name> <instance_name>(output, data, control)``
 
 Example:
 
 ```verilog
-pmos p(Q, vdd, A);
-nmos n(vss, Q, A);
+pmos myPMOSInstance(Q, vdd, A);
+nmos myNOMSInstance(Q, vss, A);
 ```
 
 Interpretation:
@@ -30,6 +32,8 @@ Interpretation:
 
 
 - Gate level
+	- The modules are implemented in terms of logic gates
+	- Syntax implementation: `<primitive_name> <instance_name>(<output>, <input(s)>)`
 - Data flow level
 - Behavioral level
 
