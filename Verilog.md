@@ -100,6 +100,18 @@ end
 
 ### Gate level modeling
 
+Available logic gates are:
+- _and_
+- _or_
+- _xor_
+- _nand_
+- _nor_
+- _xnor_
+
+>[!Note]
+>If any input has `X` or `Z` value, the output will be `X`
+
+
 
 
 
