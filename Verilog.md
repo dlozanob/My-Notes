@@ -234,6 +234,23 @@ Declaration syntax:
 		- _supply1_ : $gnd$ supply signal
 
 
+### Vectors
+
+Repesent multiple bit size. Any data type can be declared as vector.
+
+Default size is scalar (1-bit).
+
+Are declared specifying the range: `<data_type> [r1:r2] <var_name>`
+Where `r1` is the most significant bit.
+
+```verilog
+
+
+```
+
+
+
+
 ## Numbers : 
 
 Syntax: `<size>'<base><number>`
@@ -304,3 +321,5 @@ An unknown logic value will be prooduced when there are two signals of same stre
 	- Internally reg or net. Externally net
 - _Inout_
 	- Only wire data type
+
+
