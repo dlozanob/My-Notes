@@ -78,3 +78,13 @@ begin
 		out = i1;
 end
 ```
+
+
+## Modules
+
+Basic framework:
+
+```verilog
+module <module_name>(<signals>);
+	input <inputs>
+```
