@@ -14,7 +14,7 @@ Verilog main features:
 
 ## Abstraction levels
 
-- Switch level
+- _Switch level_
 	- Modules are composed by switches. NMOS and PMOS are used as switches.
 	- Syntax implementation: ``<mos_name> <instance_name>(output, data, control)``
 
@@ -30,7 +30,7 @@ Interpretation:
 ![](attachments/Pasted%20image%2020230325194712.png)
 
 
-- Gate level
+- _Gate level_
 	- The modules are implemented in terms of logic gates
 	- Syntax implementation: `<primitive_name> <instance_name>(<output>, <input(s)>)`
 
@@ -43,7 +43,7 @@ nand G3(Q, A, B);
 ```
 
 
-- Data flow level
+- _Data flow level_
 	- Module is designed by specifying the data flow
 	- Syntax implementation: `assign <signal_name> = <expression>`
 
@@ -56,15 +56,25 @@ assign z = ~A;
 ```
 
 
-- Behavioral level
+- _Behavioral level_
 	- Modules are described by their behaviour (highest abstraction level)
 	- Syntax implementation:
 
 ```verilog
-always@()
+always@(<params>)
 begin
 	<algorithm>
 end
 ```
 
+Example:
 
+```verilog
+always@(i0, i1, sel)
+begin
+	if(sel)
+		out = i0;
+	else
+		out = i1;
+end
+```
