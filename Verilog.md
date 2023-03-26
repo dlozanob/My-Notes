@@ -828,3 +828,10 @@ An unknown logic value will be prooduced when there are two signals of same stre
 	- Only wire data type
 
 
+## Internal variable monitoring system tasks
+
+- _$display_
+- _$write_
+- _$strobe_
+- _$monitor_
+	- Displays
