@@ -6,3 +6,12 @@
 
 >[!Info]
 >Un _ASIC_ (Aplication-Specific Integrated Circuit) es un chip de silicio creado para una función específica
+
+
+
+
+
+
+## External links
+
+- [Verilog](Verilog)
