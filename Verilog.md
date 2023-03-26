@@ -433,4 +433,15 @@ An unknown logic value will be prooduced when there are two signals of same stre
 	- _Shift_ : 
 		- Right shift: `>>`
 		- Left shift: `<<`
-		- 
+		- Arithmetic right shit: `>>>`
+		- Arithmetic left shit: `<<<`
+
+```verilog
+reg A = 4b'1010;
+Y = A >> 1; // 0101
+Y = A << 1; // 0100
+Y = A >> 2; // 0010
+
+
+
+```
