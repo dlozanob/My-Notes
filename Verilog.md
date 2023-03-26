@@ -404,7 +404,20 @@ An unknown logic value will be prooduced when there are two signals of same stre
 	- Case inequality: `!==`
 	Logical operators don't include `X` and `Z`, case operators do.
 
-```verilog
-reg A = b'1010;
-reg B = 
-```
+	```verilog
+	reg A = 4b'1010;
+	reg B = 4b'1xxz;
+	A == B; // x
+	A === B; // 0
+	```
+
+	- _Relational_ :
+		- Greater than: `>`
+		- Less than: `<`
+		- Greater or equal than: `>=`
+		- Less or equal than: `<=`
+
+	- _Reduction_: Takes one operand
+		- And: `&`
+		- Or: `|`
+		- 
