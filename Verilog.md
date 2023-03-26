@@ -171,12 +171,18 @@ In this process the digital design based on logic gates is created based on the 
 
 - _Register_
 	- Represents data storage elements
-	- Declaration keyword: `reg`
 	- Default value: `X`
+	- Data types:
+		- _reg_ : Bit variable
+
+```verilog
+reg count;
+reg [7:0] bus;
+```
+
 
 - _Net_
 	- Represents connections between hardware elements
-	- Declaration keyword: `wire`
 	- Default value: `Z`
 	- Data types:
 		- _wire_ : Single connection
@@ -189,7 +195,7 @@ In this process the digital design based on logic gates is created based on the 
 			assign y = A | B;
 			// y = (A & B) & (A | B)
 	
-			/* ------------------------------------------------------------- */
+			/* ------------------------------------------------------------ */
 	
 			wor y;
 			assign y = A & B;
