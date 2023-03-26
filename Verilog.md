@@ -10,6 +10,17 @@ Verilog main features:
 - C based
 - Case sensitive
 - Uses `;`'s
+- Signal and variable names can't start with: `<number>`, `<non-alphanumeric-character>`
+
+Comments:
+
+```verilog
+// Single line comment
+
+/*
+Multiline comment
+*/
+```
 
 
 ## Abstraction levels
