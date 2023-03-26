@@ -320,8 +320,9 @@ Behavioral level implementation example:
 ```
 
 
-
 ## Block statements
+
+Implemented only in behavioral level abstraction.
 
 - _Block statement-sequence block_
 	- The `begin`, `end` keywords are used to group multiple statements
@@ -340,12 +341,17 @@ Behavioral level implementation example:
 - _Block statement-parallel block_
 	- The `fork`, `join` keywords are used to group multiple statements
 	- Statements are executed concurrently
-	- The execution uses different threads to keep running while a delay is on
+	- The execution uses different threads to keep running while a delay
 
-
-
-
-
+```verilog
+initial
+fork
+	x = 3; // Assigns at simulation time = 0
+	#5 y = 4'b1011; // Assigns at simulation time = 5
+	#10 z = -3; // Assigns at simulation time = 10
+join
+end
+```
 
 ---
 
@@ -354,6 +360,25 @@ The _fork-join_ model is a way of execute a parallel program. Parallel tasks sta
 ![](attachments/Pasted%20image%2020230326172938.png)
 
 ---
+
+- _If statement_
+
+```verilog
+if(<expression>) <statementIfTrue>; // Single statement
+
+if(<expression>) <statementIfTrue>; <statement>
+
+```
+
+
+
+
+
+
+
+
+
+
 
 
 ## Modules
