@@ -179,17 +179,21 @@ In this process the digital design based on logic gates is created based on the 
 	- Declaration keyword: `wire`
 	- Default value: `Z`
 	- Data types:
-		- _wire_ : Allows one assignment
+		- _wire_ : Single connection
 		- _wand_ : 
 	
-	```verilog
-	wand y;
-	
-	assign y = A & B;
-	assign y = A | B;
-```
+		```verilog
+		wand y;
+		
+		assign y = A & B;
+		assign y = A | B;
+		
+		// y = (A & B) & (A | B)
+		```
 
-	- sdsds
+		- _wor_ : Same as `wand`. `y = <assign1> | <assign2>`
+		- _supply0_ : 
+		- _supply1_ :
 
 
 
