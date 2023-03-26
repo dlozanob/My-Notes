@@ -331,46 +331,6 @@ X and Z extension:
 >
  
 
-## Value and signal strength levels
-
-| Value level | Description |
-|-|-|
-| 0 | Logic 0 |
-| 1 | Logic 1 |
-| X | Unknown logic value |
-| Z | High impedance |
-
-| Signal strength level | Type | Degree |
-|-|-|-|
-| supply | Driving | 8 (Strongest) |
-| strong | Driving | 7 |
-| pull | Driving | 6 |
-| large | Storage | 5 |
-| weak | Driving | 4 |
-| medium | Storage | 3 |
-| small | Storage | 2 |
-| highz | High impedance | 1 (Weakest) |
-
-
-The strongest signal prevails when there are two signals of different strenght driven on a wire.
-
-![](attachments/Pasted%20image%2020230325212345.png)
-
-An unknown logic value will be prooduced when there are two signals of same strenght driven on a wire.
-
-![](attachments/Pasted%20image%2020230325212425.png)
-
-
-### Port assignments
-
-- _Input_
-	- Internally net. Externally reg or net
-- _Output_
-	- Internally reg or net. Externally net
-- _Inout_
-	- Only wire data type
-
-
 ## Operators
 
 - _Arithmetic_
@@ -462,7 +422,47 @@ Y = A <<< 2; // 1000
 ```verilog
 reg m = 2'b10;
 reg n = 2'b1x;
-assign q = (m < n) ? ;
+assign q = (m < n) ? 2'b10 : 2'b11; // 2'bxx
 ```
+
+
+## Value and signal strength levels
+
+| Value level | Description |
+|-|-|
+| 0 | Logic 0 |
+| 1 | Logic 1 |
+| X | Unknown logic value |
+| Z | High impedance |
+
+| Signal strength level | Type | Degree |
+|-|-|-|
+| supply | Driving | 8 (Strongest) |
+| strong | Driving | 7 |
+| pull | Driving | 6 |
+| large | Storage | 5 |
+| weak | Driving | 4 |
+| medium | Storage | 3 |
+| small | Storage | 2 |
+| highz | High impedance | 1 (Weakest) |
+
+
+The strongest signal prevails when there are two signals of different strenght driven on a wire.
+
+![](attachments/Pasted%20image%2020230325212345.png)
+
+An unknown logic value will be prooduced when there are two signals of same strenght driven on a wire.
+
+![](attachments/Pasted%20image%2020230325212425.png)
+
+
+### Port assignments
+
+- _Input_
+	- Internally net. Externally reg or net
+- _Output_
+	- Internally reg or net. Externally net
+- _Inout_
+	- Only wire data type
 
 
