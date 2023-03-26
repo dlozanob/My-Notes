@@ -436,12 +436,14 @@ An unknown logic value will be prooduced when there are two signals of same stre
 		- Arithmetic right shit: `>>>`
 		- Arithmetic left shit: `<<<`
 
-```verilog
-reg A = 4b'1010;
-Y = A >> 1; // 0101
-Y = A << 1; // 0100
-Y = A >> 2; // 0010
+	```verilog
+	reg A = 4b'1010;
+	Y = A >> 1; // 0101
+	Y = A << 1; // 0100
+	Y = A >> 2; // 0010
+	Y = A >>> 1; // 1101 The vacant bit is filled with the MSB (1)
+	Y = A <<< 2; // 1000
+	```
 
-
-
-```
+	- _Concatenation_ :
+		- 
