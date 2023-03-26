@@ -267,11 +267,16 @@ end
 >If there's a single line statement, `begin` and `end` can be omitted
 
 
-The `always` statement executes continously while running the program.
+The `always` statement executes at every clock change.
+
+A deadlock condition will be created if an always statement has no control for simulation time.
 
 >[!Note]
 >A _deadlock_ is a situation when a process A needs one resource holded by a process B to continue, and the latter need a resource holded by A. But A won't release it until having the required resource to finish the process, so the same happens to B.
 >Hence, the execution will never stop.
+
+
+A _procedural assignment_ updates _Register_ data type values. 
 
 
 
