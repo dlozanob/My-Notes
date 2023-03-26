@@ -420,4 +420,17 @@ An unknown logic value will be prooduced when there are two signals of same stre
 	- _Reduction_: Takes one operand
 		- And: `&`
 		- Or: `|`
+		- Nand: `~&`
+		- Nor: `~|`
+		- Xor: `^`
+		- Xnor: `~^` or `^~`
+
+	```verilog
+	reg A = 4b'1010;
+	&A; // 1 & 0 & 1 & 0 = 0
+	```
+
+	- _Shift_ : 
+		- Right shift: `>>`
+		- Left shift: `<<`
 		- 
