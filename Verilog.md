@@ -203,3 +203,18 @@ In this process the digital design based on logic gates is created based on the 
 
 The strongest signal prevails when there are two signals of different strenght driven on a wire.
 
+![](attachments/Pasted%20image%2020230325212345.png)
+
+An unknown logic value will be prooduced when there are two signals of same strenght driven on a wire.
+
+![](attachments/Pasted%20image%2020230325212425.png)
+
+
+### Port assignments
+
+- _Input_
+	- Internally net. Externally reg or net
+- _Output_
+	- Internally reg or net. Externally net
+- _Inout_
+	- Only wire data type
