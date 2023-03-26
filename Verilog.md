@@ -278,6 +278,19 @@ A deadlock condition will be created if an always statement has no control for s
 
 A _procedural assignment_ updates _Register_ data type values. 
 
+Types:
+- Blocking assignments
+	- Syntax: `<variable> = <value>`
+	- Statements are executed sequentially in the order they are specified
+
+```verilog
+x = 4;
+y = 2'b10;
+```
+
+- Non-blocking assignments
+	- 
+
 
 
 ---
