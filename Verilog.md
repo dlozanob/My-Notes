@@ -84,8 +84,7 @@ end
 
 Are circuit blocks that can be used to build a more complex block.
 
-
-Basic framework:
+Basic module framework:
 
 ```verilog
 module <module_name>(<signals>);
@@ -102,7 +101,9 @@ Suppose the following circuit.
 
 ![](attachments/Pasted%20image%2020230325201945.png)
 
-The module representation is:
+Is a 4 to 1 multiplexor.
+Is composed by 3,  2 to 1 multiplexors. 
+So the 2 to 1 mux module definition is:
 
 ```verilog
 module mux2to1(i0, i1, sel, out);
@@ -119,3 +120,14 @@ module mux2to1(i0, i1, sel, out);
 endmodule
 ```
 
+The 4 to 1 module definition is:
+
+```verilog
+module mux4to1(i0, i1, i2, i3, s0, s1, out);
+	input i0, i1, i2, i3, s0, s1;
+	output out;
+
+	
+
+endmodule
+```
