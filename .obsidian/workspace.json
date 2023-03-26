@@ -29,7 +29,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -90,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Verilog.md",
+                "file": "Excalidraw/whiteboard.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Verilog.md",
+                "file": "Excalidraw/whiteboard.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Verilog.md"
+                "file": "Excalidraw/whiteboard.excalidraw.md"
               }
             }
           },
@@ -181,15 +182,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d372ece51f2bfdd9",
+  "active": "7b3c0c5230f76631",
   "lastOpenFiles": [
+    "Verilog.md",
     "attachments/Pasted image 20230326144544.png",
     "attachments/Pasted image 20230326144515.png",
     "attachments/Pasted image 20230326144457.png",
     "attachments/Pasted image 20230326144439.png",
     "attachments/Pasted image 20230326144023.png",
     "Excalidraw/whiteboard.excalidraw.md",
-    "Verilog.md",
     "attachments/Pasted image 20230326144012.png",
     "attachments/Pasted image 20230326143951.png",
     "attachments/Pasted image 20230326143823.png",
@@ -197,7 +198,6 @@
     "attachments/Pasted image 20230325212425.png",
     "attachments/Pasted image 20230325212345.png",
     "Electrónica Digital II.md",
-    "attachments/Pasted image 20230325201945.png",
     "CSS.md",
     "Ingeniería Electrónica.md",
     "Tema 2. Función de oferta y demanda.md",
