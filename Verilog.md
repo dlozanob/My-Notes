@@ -247,8 +247,13 @@ endmodule
 
 ### Behavioral level modeling
 
-B
-Verilog supports two structured procedure statements: `always` and `initial`
+Are written inside structured procedure statements.
+Verilog supports two of these: `always` and `initial`
+Those blocks run in parallel. Blocks can't be nested.
+Their activity starts at 0 simulation time.
+
+The `initial` statement runs once when running the program and it's execution stops until the last block is executed
+
 
 
 
