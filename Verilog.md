@@ -247,15 +247,28 @@ endmodule
 
 ### Behavioral level modeling
 
-Are written inside structured procedure statements.
+Is written inside structured procedure statements.
 Verilog supports two of these: `always` and `initial`
-Those blocks run in parallel. Blocks can't be nested.
+Those blocks run in parallel.
 Their activity starts at 0 simulation time.
 
-The `initial` statement runs once when running the program and it's execution stops until the last block is executed
+The `initial` statement runs once when running the program and it's execution stops until the last block is executed.
+
+Syntax:
+
+```verilog
+initial
+begin
+	<statements>
+end
+```
+
+>[!Note]
+>- If there's a single line statement, `begin` and `end` can be omitted
+>- Multiple `initial` blocks cause parallel execution.
 
 
-
+The `always` statement executes continously while running the program.
 
 
 
