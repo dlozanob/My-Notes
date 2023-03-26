@@ -57,6 +57,7 @@ Interpretation:
 Example:
 
 ```verilog
+buf G0(Q, A);
 and G1(Q, A, B);
 or G2(Q, A, B);
 nand G3(Q, A, B);
@@ -101,6 +102,8 @@ end
 ### Gate level modeling
 
 Available logic gates are:
+- _buf_
+- _not_
 - _and_
 - _or_
 - _xor_
@@ -111,6 +114,15 @@ Available logic gates are:
 >[!Note]
 >If any input has `X` or `Z` value, the output will be `X`
 
+- 
+
+
+| A | Ctrl | Q |
+|-|-|-|
+| 0 | 0 | Z |
+| 0 | 1 | 0 |
+| 1 | 0 | Z |
+| 1 | 1 | 1 |
 
 
 
