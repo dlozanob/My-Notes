@@ -178,3 +178,18 @@ In this process the digital design based on logic gates is created based on the 
 	- Represents connections between hardware elements
 	- Declaration keyword: `wire`
 	- Default value: `Z`
+
+
+### Value and signal strength levels
+
+| Value level | Description |
+|-|-|
+| 0 | Logic 0 |
+| 1 | Logic 1 |
+| X | Unknown logic value |
+| Z | High impedance |
+
+| Signal strength level | Type | Degree |
+|-|-|-|
+| supply | Driving | Strong |
+| strong | Driving | Weak 
