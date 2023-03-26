@@ -343,15 +343,15 @@ Implemented only in behavioral level abstraction.
 	- Statements are executed concurrently
 	- The execution uses different threads to keep running while a delay
 
-```verilog
-initial
-fork
-	x = 3; // Assigns at simulation time = 0
-	#5 y = 4'b1011; // Assigns at simulation time = 5
-	#10 z = -3; // Assigns at simulation time = 10
-join
-end
-```
+	```verilog
+	initial
+	fork
+		x = 3; // Assigns at simulation time = 0
+		#5 y = 4'b1011; // Assigns at simulation time = 5
+		#10 z = -3; // Assigns at simulation time = 10
+	join
+	end
+	```
 
 ---
 
@@ -364,13 +364,23 @@ The _fork-join_ model is a way of execute a parallel program. Parallel tasks sta
 - _If statement_
 
 ```verilog
-if(<expression>) <statementIfTrue>; // Single statement
+// Single statement
+if(<expression>) <statementIfTrue>;
 
-if(<expression>) <statementIfTrue>; <statement>
+// True-false single statement
+if(<expression>) <statementIfTrue>; <statementIfFalse>;
 
+// General form
+if(<expression1>) <statement1>;
+else if(<expression2>) <statement2>;
+else <statement3>;
 ```
 
+- _Case statement_
 
+```verilog
+case(<expression>)
+```
 
 
 
