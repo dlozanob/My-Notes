@@ -167,3 +167,7 @@ endmodule
 
 In this process the digital design based on logic gates is created based on the Verilog code.
 
+
+## Design methodologies
+
+- Top-down: First define the top level block then define the sub-blocks until defining the leaf cells to build up the entire top
