@@ -18,6 +18,16 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7b3c0c5230f76631",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/whiteboard.excalidraw.md"
+              }
+            }
           }
         ]
       }
@@ -173,8 +183,15 @@
   },
   "active": "d372ece51f2bfdd9",
   "lastOpenFiles": [
-    "Electrónica Digital II.md",
+    "attachments/Pasted image 20230325194712.png",
+    "Excalidraw/whiteboard.excalidraw.md",
     "Verilog.md",
+    "attachments/Pasted image 20230325194706.png",
+    "Excalidraw/attachments/Pasted Image 20230325194705_404.png",
+    "Excalidraw/attachments/Pasted Image 20230325194653_323.png",
+    "attachments/Pasted image 20230325194628.png",
+    "CSS.md",
+    "Electrónica Digital II.md",
     "Main.md",
     "Ingeniería Electrónica.md",
     "Tema 2. Función de oferta y demanda.md",
@@ -197,18 +214,11 @@
     "Ingeniería Económica.md",
     "formulas financiera.md",
     "Mecanismos.md",
-    "HTML.md",
-    "Automatización, Control y Robótica.md",
-    "Automatización%2C Control y Robótica.md",
     "attachments/Pasted image 20230322193804.png",
     "attachments/Pasted image 20230322193332.png",
     "attachments/Pasted image 20230322192716.png",
     "attachments/Pasted image 20230322184630.png",
     "attachments/Pasted image 20230322090717.png",
-    "attachments/Pasted image 20230322085021.png",
-    "attachments/Pasted image 20230322084452.png",
-    "attachments/Pasted image 20230322083845.png",
-    "attachments/Pasted image 20230322083835.png",
     "Excalidraw/attachments",
     "attachments",
     "New folder",
