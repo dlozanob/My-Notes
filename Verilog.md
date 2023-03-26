@@ -169,6 +169,16 @@ In this process the digital design based on logic gates is created based on the 
 
 ## Data types
 
+Declaration syntax:
+
+```verilog
+<data_type> <var_name>, <other variables>; // Declaration
+<data_type> <var_name> = <value>;
+
+<var_name> = <value> // If already declared
+```
+
+
 - _Register_
 	- Represents data storage elements
 	- Default value: `X`
@@ -183,6 +193,9 @@ In this process the digital design based on logic gates is created based on the 
 
 		- _integer_ : General purpose register data type
 		  Values are stored as signed quantities. 32 bits by default.
+		  
+		 - _real_  : Allows decimal and scientific notation. Default value is `0.0`
+		   Rounded off to the nearest integer when assigned to an `integer` data type
 
 - _Net_
 	- Represents connections between hardware elements
