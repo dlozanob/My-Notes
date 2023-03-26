@@ -217,15 +217,20 @@ In this process the digital design based on logic gates is created based on the 
 			25 // 32 bits by default, 35 decimal signed number
 			```
 
+		   X and Z extension:
+
+```verilog
+6'bx5 // xxx_101
+7'd
+```
+
+
+
+
 >[!Note]
 >To improve readability use `__`'s. Ex.: `8b1011_1010`
 >
-
-
-
-
-
-
+ 
 
 ### Value and signal strength levels
 
