@@ -203,17 +203,24 @@ wire out = A & B;
 
 #### Delays
 
-Control the assignation time.
+Insert a delay for the assignation time.
+
 Ways of specifying delays:
 - _Regular assignment delay_
-  Syntax: `assign #<delay> <var> = <statement>`
+	- Syntax: `assign #<delay> <var> = <statement>`
 
-```verilog
-assign #10 out = A & B; // Takes 10 time units to 
-```
-
+		```verilog
+		wire out;
+		assign #10 out = A & B; // Takes 10 time units to assign any (A & B) change to out
+		```
 
 - _Implicit continous assignment delay_
+	- Syntax: `<netType_variable> #<delay> <var> = <statement>`
+
+		```verilog
+		wire #10 out = A & B; // Takes 10 time units to assign any (A & B) change to out
+		```
+
 - _Net declaration delay_
 
 
