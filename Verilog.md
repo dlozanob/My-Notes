@@ -114,7 +114,10 @@ Available logic gates are:
 >[!Note]
 >If any input has `X` or `Z` value, the output will be `X`
 
-- 
+#### Controlled logic gates
+
+
+- _bufif1_ :
 
 
 | A | Ctrl | Q |
@@ -123,6 +126,41 @@ Available logic gates are:
 | 0 | 1 | 0 |
 | 1 | 0 | Z |
 | 1 | 1 | 1 |
+
+
+- _bufif0_ :
+
+| A | Ctrl | Q |
+|-|-|-|
+| 0 | 0 | Z |
+| 0 | 1 | 0 |
+| 1 | 0 | Z |
+| 1 | 1 | 1 |
+
+
+- _notif1_ :
+
+| A | Ctrl | Q |
+|-|-|-|
+| 0 | 0 | Z |
+| 0 | 1 | 0 |
+| 1 | 0 | Z |
+| 1 | 1 | 1 |
+
+
+- _notif0_ :
+
+| A | Ctrl | Q |
+|-|-|-|
+| 0 | 0 | Z |
+| 0 | 1 | 0 |
+| 1 | 0 | Z |
+| 1 | 1 | 1 |
+
+
+
+
+
 
 
 
