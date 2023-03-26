@@ -86,5 +86,10 @@ Basic framework:
 
 ```verilog
 module <module_name>(<signals>);
-	input <inputs>
+	input <inputs>;
+	output <outputs>;
+	
+	<...module_architecture description...>
+endmodule
 ```
+
