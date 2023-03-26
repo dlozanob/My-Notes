@@ -23,7 +23,7 @@ Example:
 
 ```verilog
 pmos myPMOSInstance(Q, vdd, A);
-nmos myNOMSInstance(Q, vss, A);
+nmos myNMOSInstance(Q, vss, A);
 ```
 
 Interpretation:
@@ -34,7 +34,22 @@ Interpretation:
 - Gate level
 	- The modules are implemented in terms of logic gates
 	- Syntax implementation: `<primitive_name> <instance_name>(<output>, <input(s)>)`
+
+Example:
+
+```verilog
+and G1(Q, A, B);
+or G2(Q, A, B);
+nand G3(Q, A, B);
+```
+
+
 - Data flow level
+	- Module is designed by specifying the data flow
+
+
+
+
 - Behavioral level
 
 
