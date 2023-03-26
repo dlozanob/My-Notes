@@ -453,10 +453,16 @@ Y = A <<< 2; // 1000
 	reg A = 4b'1011;
 	reg B = 3b'101;
 	Y = {A, B}; // 7b'1011101
+	Z = {2'bx1, 3b'101, 2'b10, 2{1'b1}}; // 10'b0_x1_101_10_1_1
 	```
 
 - _Conditional_ : 
   Syntax: `<condition> ? <ouputIfTrue> : <outputIfFalse>`
 
+```verilog
+reg m = 2'b10;
+reg n = 2'b1x;
+assign q = (m < n) ? ;
+```
 
 
