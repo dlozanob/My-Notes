@@ -116,7 +116,7 @@ Available logic gates are:
 
 #### Controlled logic gates
 
-Syntax: `<logic_gate> <name>(<output>, <input>, <control>)`
+Syntax: `<logic_gate> <instance_name>(<output>, <input>, <control>)`
 
 - _bufif1_ :
 
@@ -146,13 +146,21 @@ Syntax: `<logic_gate> <name>(<output>, <input>, <control>)`
 
 #### Gate delays
 
+Syntax:
+
+```verilog
+<gate_name> #<delay_time> <instance_name>(<input>, <outp>)
+```
+
+
+
 - Rise delay: Introduces a delay at rising edge
 - Fall delay: Introduces a delay at falling edge
-- Turn-off delay
+- Turn-off delay: Introduces a delay when going from any logic value to `Z`
 
 
 >[!Note]
->If the delay 
+>If the delay transists to `X`, the minimum of the 3 delays is considered
 
 
 
