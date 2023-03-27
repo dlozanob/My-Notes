@@ -828,7 +828,9 @@ An unknown logic value will be prooduced when there are two signals of same stre
 	- Only wire data type
 
 
-## Internal variable monitoring system tasks
+## System tasks
+
+### Internal variable monitoring system tasks
 
 Are used to display in the console the values of the variables of a program.
 
@@ -867,3 +869,28 @@ endmodule
 
 - _$random_
 	- Generates a random integer every time it's called
+	- Syntax: `<var> = $random[<integer>]`
+
+
+### Simulation control tasks
+
+- _$reset_
+	- Resets the simulation to time 0
+- _$stop_
+	- Halts the simulation and puts it in interactive mode (the user can enter commands)
+- _$finish_
+	- Exit the simulation back to the operating system
+
+
+### Simulation time related tasks
+
+- _$time_
+	- Returns the current simulation time as a 64 bit integer
+- _$stime_
+	- Returns the current simulation time as a 32 bit integer
+- _$realtime_
+	- Returns the current simulation time as a real number
+
+
+
+
