@@ -283,12 +283,60 @@ $$
 
 - __Ejemplo__ :
 
+Hallar la respuesta natural.
+
 $$
 \begin{align*}
 	\dot{x} = \begin{pmatrix}
 	-5 & -2 & -1 \\
 	4 & 0 & 0 \\
 	0 & 1 & 0
+\end{pmatrix}x
+\end{align*}
+$$
+
+Sus valores propios son: $\lambda_{1} = -1$ y $\lambda_{2} = \lambda_{3} = -2$.
+
+$$
+\begin{align*}
+	J = \begin{pmatrix}
+	J_{1} & 0 \\
+    0 & J_{2}
 \end{pmatrix}
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	J_{1} &= -1 \\\\
+	J_{2} &= \begin{pmatrix}
+	-2 & 1 \\
+	0 & -2
+\end{pmatrix}
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	J = \begin{pmatrix}
+	-1 & 0 & 0 \\
+	0 & -2 & 1 \\
+	0 & 0 & -2
+\end{pmatrix}
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	e^{Jt} = \begin{pmatrix}
+	e^{J_{1}t} & 0 \\
+	0 & e^{J_{2}t}
+\end{pmatrix}
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	
 \end{align*}
 $$
