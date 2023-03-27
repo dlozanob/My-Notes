@@ -8,14 +8,6 @@ tags: [excalidraw]
 
 
 # Text Elements
-t ^0HuvEyTJ
-
-u ^TVwqH2e1
-
-
-# Embedded files
-b3d114c9f10267dd14f4a78fe0537139d148ca49: $$\varepsilon$$
-
 %%
 # Drawing
 ```json
@@ -25,10 +17,42 @@ b3d114c9f10267dd14f4a78fe0537139d148ca49: $$\varepsilon$$
 	"source": "https://excalidraw.com",
 	"elements": [
 		{
+			"id": "jScocQiOrEaA1rTQqss2f",
+			"type": "image",
+			"x": -387.7128946821982,
+			"y": -99.43553246027543,
+			"width": 562.9170881579762,
+			"height": 253.81529421408746,
+			"angle": 0,
+			"strokeColor": "transparent",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 1627533622,
+			"version": 72,
+			"versionNonce": 1846209654,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1679957601123,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "879a714b0b3f859c8f7340a7f8fede7ea492cf37",
+			"scale": [
+				1,
+				1
+			]
+		},
+		{
 			"type": "arrow",
-			"version": 109,
-			"versionNonce": 100574838,
-			"isDeleted": false,
+			"version": 110,
+			"versionNonce": 374877354,
+			"isDeleted": true,
 			"id": "2dOlo2Rdq4TV-mg61Bn6O",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
@@ -48,7 +72,7 @@ b3d114c9f10267dd14f4a78fe0537139d148ca49: $$\varepsilon$$
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1679955906005,
+			"updated": 1679957540175,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -69,9 +93,9 @@ b3d114c9f10267dd14f4a78fe0537139d148ca49: $$\varepsilon$$
 		},
 		{
 			"type": "arrow",
-			"version": 71,
-			"versionNonce": 1841196842,
-			"isDeleted": false,
+			"version": 72,
+			"versionNonce": 1007536886,
+			"isDeleted": true,
 			"id": "E8bWE3JEyD5acoOa6Y0Ca",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
@@ -91,7 +115,7 @@ b3d114c9f10267dd14f4a78fe0537139d148ca49: $$\varepsilon$$
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1679956011305,
+			"updated": 1679957540175,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -116,9 +140,9 @@ b3d114c9f10267dd14f4a78fe0537139d148ca49: $$\varepsilon$$
 		},
 		{
 			"type": "line",
-			"version": 82,
-			"versionNonce": 1603168182,
-			"isDeleted": false,
+			"version": 83,
+			"versionNonce": 750847850,
+			"isDeleted": true,
 			"id": "w4zsnSsjwrR4GHKI9mANK",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
@@ -138,7 +162,7 @@ b3d114c9f10267dd14f4a78fe0537139d148ca49: $$\varepsilon$$
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1679955906005,
+			"updated": 1679957540175,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -159,9 +183,9 @@ b3d114c9f10267dd14f4a78fe0537139d148ca49: $$\varepsilon$$
 		},
 		{
 			"type": "line",
-			"version": 46,
-			"versionNonce": 1958057642,
-			"isDeleted": false,
+			"version": 47,
+			"versionNonce": 1095040054,
+			"isDeleted": true,
 			"id": "4Wi3AWV50WGDvM7O--8D5",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
@@ -181,7 +205,7 @@ b3d114c9f10267dd14f4a78fe0537139d148ca49: $$\varepsilon$$
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1679955906005,
+			"updated": 1679957540175,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -202,9 +226,9 @@ b3d114c9f10267dd14f4a78fe0537139d148ca49: $$\varepsilon$$
 		},
 		{
 			"type": "freedraw",
-			"version": 159,
-			"versionNonce": 202637558,
-			"isDeleted": false,
+			"version": 160,
+			"versionNonce": 515934762,
+			"isDeleted": true,
 			"id": "Q5JHWLp68Vn4Lx0FrB3Wk",
 			"fillStyle": "hachure",
 			"strokeWidth": 4,
@@ -222,7 +246,7 @@ b3d114c9f10267dd14f4a78fe0537139d148ca49: $$\varepsilon$$
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1679955906005,
+			"updated": 1679957540175,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -861,9 +885,9 @@ b3d114c9f10267dd14f4a78fe0537139d148ca49: $$\varepsilon$$
 		},
 		{
 			"type": "arrow",
-			"version": 30,
-			"versionNonce": 1698779754,
-			"isDeleted": false,
+			"version": 31,
+			"versionNonce": 319030646,
+			"isDeleted": true,
 			"id": "NjU86TSEeKLxYecIfBelS",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
@@ -883,7 +907,7 @@ b3d114c9f10267dd14f4a78fe0537139d148ca49: $$\varepsilon$$
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1679955936729,
+			"updated": 1679957540175,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -908,9 +932,9 @@ b3d114c9f10267dd14f4a78fe0537139d148ca49: $$\varepsilon$$
 		},
 		{
 			"type": "image",
-			"version": 84,
-			"versionNonce": 134406454,
-			"isDeleted": false,
+			"version": 86,
+			"versionNonce": 1888329718,
+			"isDeleted": true,
 			"id": "2gK3jqhO",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
@@ -927,13 +951,8 @@ b3d114c9f10267dd14f4a78fe0537139d148ca49: $$\varepsilon$$
 			"seed": 34081,
 			"groupIds": [],
 			"roundness": null,
-			"boundElements": [
-				{
-					"id": "NjU86TSEeKLxYecIfBelS",
-					"type": "arrow"
-				}
-			],
-			"updated": 1679955936729,
+			"boundElements": [],
+			"updated": 1679957540176,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -961,16 +980,11 @@ b3d114c9f10267dd14f4a78fe0537139d148ca49: $$\varepsilon$$
 			"groupIds": [],
 			"roundness": null,
 			"seed": 1780136298,
-			"version": 9,
-			"versionNonce": 654504054,
-			"isDeleted": false,
-			"boundElements": [
-				{
-					"id": "E8bWE3JEyD5acoOa6Y0Ca",
-					"type": "arrow"
-				}
-			],
-			"updated": 1679956011305,
+			"version": 11,
+			"versionNonce": 1620378218,
+			"isDeleted": true,
+			"boundElements": [],
+			"updated": 1679957540176,
 			"link": null,
 			"locked": false,
 			"text": "t",
@@ -1001,11 +1015,11 @@ b3d114c9f10267dd14f4a78fe0537139d148ca49: $$\varepsilon$$
 			"groupIds": [],
 			"roundness": null,
 			"seed": 123135722,
-			"version": 56,
-			"versionNonce": 982963242,
-			"isDeleted": false,
+			"version": 57,
+			"versionNonce": 466585514,
+			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1679956009311,
+			"updated": 1679957540176,
 			"link": null,
 			"locked": false,
 			"text": "u",
@@ -1034,10 +1048,10 @@ b3d114c9f10267dd14f4a78fe0537139d148ca49: $$\varepsilon$$
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": "bar",
 		"currentItemEndArrowhead": "bar",
-		"scrollX": 592.6267527305318,
-		"scrollY": 305.7882397928855,
+		"scrollX": 639.4436102256792,
+		"scrollY": 368.52820100616225,
 		"zoom": {
-			"value": 1.0956897027524708
+			"value": 0.9534032255264231
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,

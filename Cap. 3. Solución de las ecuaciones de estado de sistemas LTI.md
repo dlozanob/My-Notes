@@ -451,7 +451,9 @@ $$
 
 $$
 \begin{align*}
-	\boxed{y(t) = CA^{-1}e^{At}B + D - CA^{-1}B}
+	\boxed{y(t) = \underbrace{ CA^{-1}e^{At}B }_{ transitoria } + \underbrace{ D - CA^{-1}B }_{ estable }}
 \end{align*}
 $$
+
+![](attachments/Pasted%20image%2020230327175239.png)
 
