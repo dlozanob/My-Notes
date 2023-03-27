@@ -241,16 +241,6 @@ $$
 
 La matriz $J_{i}$ tiene dimensiones $m_{i}xm_{i}$ donde $m_{i}$ es el número de veces que se repite el valor propio $\lambda_{i}$. La diagonal superior de $j_{i}$ está repleta de $1$'s.
 
-
-- __Ejemplo__:
-
-![](attachments/Pasted%20image%2020230319223818.png)
-
-Ejemplo:
-
-![](attachments/Pasted%20image%2020230319223905.png)
-
-
 Donde:
 
 $$
@@ -281,3 +271,8 @@ $$
 \end{align*}
 $$
 
+- __Ejemplos__:
+
+![](attachments/Pasted%20image%2020230327161133.png)
+
+![](attachments/Pasted%20image%2020230327161215.png)
