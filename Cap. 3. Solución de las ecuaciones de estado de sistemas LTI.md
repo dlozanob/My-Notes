@@ -184,8 +184,8 @@ De tal manera que:
 
 $$
 \begin{align*}
-	e^{ \bar{A}t } = I + \bar{A}t + \frac{\bar{A}^{2}t^{2}}{2!} + \frac{\bar{A}^{3}t^{3}}{3!} + \dots \\\\
-	e^{ \bar{A}t } = \begin{pmatrix}
+	e^{ \bar{A}t } &= I + \bar{A}t + \frac{\bar{A}^{2}t^{2}}{2!} + \frac{\bar{A}^{3}t^{3}}{3!} + \dots \\\\
+	e^{ \bar{A}t } &= \begin{pmatrix}
 \sum_{n=0}^{\infty} \frac{\lambda_{1}^{n}t^{n}}{n!} & 0 & 0 & . & 0 \\
 0 & \sum_{n=0}^{\infty} \frac{\lambda_{2}^{n}t^{n}}{n!} & 0 & . & 0 \\
 0 & 0 & \sum_{n=0}^{\infty} \frac{\lambda_{3}^{n}t^{n}}{n!} & . & 0 \\
@@ -255,15 +255,17 @@ e^{ J_{1}t } & 0 & 0 & . & 0 \\
 0 & 0 & 0 & . & e^{ J_{n} }
 \end{pmatrix} \\\\
 	e^{ J_{i}t } = \begin{pmatrix}
-1 & t & \frac{t^{2}}{2!} & . & \frac{t^{n-1}}{(n-1)!} \\
-0 & 1 & t & . & \frac{t^{n-2}}{(n-2)!} \\
-0 & 0 & 1 & . & \frac{t^{n-3}}{(n-3)!} \\
+1 & t & \frac{t^{2}}{2!} & . & \frac{t^{m_{i} - 1}}{(m_{i} - 1)!} \\
+0 & 1 & t & . & \frac{t^{m_{i} - 2}}{(m_{i} - 2)!} \\
+0 & 0 & 1 & . & \frac{t^{m_{i} - 3}}{(m_{i} - 3)!} \\
 . & . & . & . & . \\
 0 & 0 & 0 & . & t \\
 0 & 0 & 0 & . & 1
 \end{pmatrix}e^{ \lambda_{i}t }
 \end{align*}
 $$
+
+La matriz $e^{J_{i}t}$ tiene la misma dimensión que $J$
 
 Por tanto:
 
