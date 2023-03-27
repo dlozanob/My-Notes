@@ -275,6 +275,7 @@ $$
 \end{align*}
 $$
 
+
 - __Ejemplos__:
 
 ![](attachments/Pasted%20image%2020230327161133.png)
@@ -283,7 +284,7 @@ $$
 
 - __Ejemplo__ :
 
-Hallar la respuesta natural.
+Hallar $e^{Jt}$
 
 $$
 \begin{align*}
@@ -354,3 +355,9 @@ $$
 \end{pmatrix}
 \end{align*}
 $$
+
+
+## Solución del sistema en su forma general
+
+
+
