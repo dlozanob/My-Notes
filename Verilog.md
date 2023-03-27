@@ -909,8 +909,23 @@ Some IEEE-1364 directives are:
 
 - `` `include``
 	- Are replaced by the contents of its referencing file
-	- Syntax: 
+	- Syntax: `` `include "<fileName>"``
+
+	```verilog
+	`include "disciplines.vams"
+	```
+
 - `` `timescale``
+	- Defines the time unit and the time precision for the modules that follow it
+	- Syntax: `` `timescale <timeUnit><unit>/<timePrecision><unit>``
+
+	```verilog
+	// Units can be: s, ms, us, ns, ps, fs
+	`timescale 10ns/1ns
+	```
+
+
+## Tasks and functions
 
 
 
