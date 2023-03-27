@@ -396,6 +396,9 @@ $$
 \end{align*}
 $$
 
+
+### Respuesta al impulso
+
 La respuesta al impulso $y(t) = h(t)$ se produce cuando $u(t) = \delta(t)$
 
 $$
@@ -428,5 +431,16 @@ $$
 Donde $\sigma_{max}$ es la parte real del vector propio más rápido (grande) del sistema.
 
 
+### Respuesta al escalón
 
+Siendo $u(t)$ la función escalón:
+
+$$
+\begin{align*}
+	y(t) &= \cancel{ Ce^{At}x_{0} } + C\int _{0}^{t} e^{A(t - \tau)}Bu(t) \, d\tau + Du(t) \\
+	&= C\int _{0}^{t}e^{A(t - \tau)}B \, d \tau + Du(t) \\
+	&=C\int _{0}^{t} e^{A\sigma}B \, d\sigma + D \\
+	&= CA^{-1}e^{A\sigma}B
+\end{align*}
+$$
 
