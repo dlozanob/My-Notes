@@ -387,6 +387,17 @@ La respuesta al impulso $y(t) = h(t)$ se produce cuando $u(t) = \delta(t)$
 
 $$
 \begin{align*}
-	h(t) = \cancel{ Ce^{At}x_{0} } + C\int _{0}^{t} e^{A(t - \tau)}B\delta(t) \, d\tau + D\delta(t)
+	h(t) &= \cancel{ Ce^{At}x_{0} } + C\int _{0}^{t} e^{A(t - \tau)}B\delta(t) \, d\tau + D\delta(t) \\\\
+	h(t) &= Ce^{At}B + D\delta(t)
+\end{align*}
+$$
+
+Se cancela el primer término, ya que, se consideran condiciones iniciales nulas (respuesta forzada).
+
+Siendo así, la salida puede ser descrita en función de la respuesta al impulso:
+
+$$
+\begin{align*}
+	y(t) = Ce^{At}x_{0} + \int _{0}^{t} h(t - \tau)u(\tau) \, d\tau
 \end{align*}
 $$
