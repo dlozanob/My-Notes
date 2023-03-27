@@ -406,7 +406,12 @@ Se puede llegar a una aproximación de la función impulso ($\delta(t)$) con el 
 
 $$
 \begin{align*}
-	
+	\varepsilon \sigma_{max} \leq 1
 \end{align*}
 $$
+
+![](attachments/Pasted%20image%2020230327172706.png)
+
+Donde $\sigma_{max}$ es la parte real del vector propio más rápido (grande) del sistema.
+
 

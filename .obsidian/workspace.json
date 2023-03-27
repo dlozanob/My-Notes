@@ -29,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -91,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md",
+                "file": "Cap. 3. Solución de las ecuaciones de estado de sistemas LTI.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md",
+                "file": "Cap. 3. Solución de las ecuaciones de estado de sistemas LTI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md"
+                "file": "Cap. 3. Solución de las ecuaciones de estado de sistemas LTI.md"
               }
             }
           },
@@ -182,11 +181,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e91d9d0f1b0952fd",
+  "active": "a72b3741cf5d2798",
   "lastOpenFiles": [
-    "Cap. 3. Solución de las ecuaciones de estado de sistemas LTI.md",
-    "attachments/Pasted image 20230327172558.png",
+    "attachments/Pasted image 20230327172706.png",
     "Excalidraw/blackboard.excalidraw.md",
+    "Cap. 3. Solución de las ecuaciones de estado de sistemas LTI.md",
+    "attachments/Pasted image 20230327172658.png",
+    "attachments/Pasted image 20230327172558.png",
     "Excalidraw/whiteboard.excalidraw.md",
     "LaTeX.md",
     "attachments/Pasted image 20230327161215.png",
@@ -200,7 +201,6 @@
     "attachments/Pasted image 20230326173200.png",
     "attachments/Pasted image 20230326172938.png",
     "attachments/Pasted image 20230326144544.png",
-    "attachments/Pasted image 20230326144515.png",
     "Main.md",
     "Electrónica Digital II.md",
     "CSS.md",

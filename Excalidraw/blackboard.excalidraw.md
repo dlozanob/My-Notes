@@ -10,7 +10,7 @@ tags: [excalidraw]
 # Text Elements
 t ^0HuvEyTJ
 
-y ^TVwqH2e1
+u ^TVwqH2e1
 
 
 # Embedded files
@@ -69,8 +69,8 @@ b3d114c9f10267dd14f4a78fe0537139d148ca49: $$\varepsilon$$
 		},
 		{
 			"type": "arrow",
-			"version": 70,
-			"versionNonce": 1534960618,
+			"version": 71,
+			"versionNonce": 1841196842,
 			"isDeleted": false,
 			"id": "E8bWE3JEyD5acoOa6Y0Ca",
 			"fillStyle": "hachure",
@@ -91,11 +91,15 @@ b3d114c9f10267dd14f4a78fe0537139d148ca49: $$\varepsilon$$
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1679955906005,
+			"updated": 1679956011305,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
-			"endBinding": null,
+			"endBinding": {
+				"elementId": "0HuvEyTJ",
+				"focus": 0.477760697747662,
+				"gap": 11.864672970224092
+			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": "triangle",
@@ -942,8 +946,8 @@ b3d114c9f10267dd14f4a78fe0537139d148ca49: $$\varepsilon$$
 		{
 			"id": "0HuvEyTJ",
 			"type": "text",
-			"x": 23.42357456956006,
-			"y": 102.30064846806556,
+			"x": 16.1222373571145,
+			"y": 104.12598277117695,
 			"width": 12,
 			"height": 25,
 			"angle": 0,
@@ -957,11 +961,16 @@ b3d114c9f10267dd14f4a78fe0537139d148ca49: $$\varepsilon$$
 			"groupIds": [],
 			"roundness": null,
 			"seed": 1780136298,
-			"version": 3,
-			"versionNonce": 705952810,
+			"version": 9,
+			"versionNonce": 654504054,
 			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1679955978214,
+			"boundElements": [
+				{
+					"id": "E8bWE3JEyD5acoOa6Y0Ca",
+					"type": "arrow"
+				}
+			],
+			"updated": 1679956011305,
 			"link": null,
 			"locked": false,
 			"text": "t",
@@ -977,9 +986,9 @@ b3d114c9f10267dd14f4a78fe0537139d148ca49: $$\varepsilon$$
 		{
 			"id": "TVwqH2e1",
 			"type": "text",
-			"x": -42.28846034244975,
-			"y": -24.56008559817559,
-			"width": 10,
+			"x": -230.29789356292224,
+			"y": -72.01877747907153,
+			"width": 12,
 			"height": 25,
 			"angle": 0,
 			"strokeColor": "#c92a2a",
@@ -992,22 +1001,22 @@ b3d114c9f10267dd14f4a78fe0537139d148ca49: $$\varepsilon$$
 			"groupIds": [],
 			"roundness": null,
 			"seed": 123135722,
-			"version": 3,
-			"versionNonce": 2054060458,
+			"version": 56,
+			"versionNonce": 982963242,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1679955985978,
+			"updated": 1679956009311,
 			"link": null,
 			"locked": false,
-			"text": "y",
-			"rawText": "y",
+			"text": "u",
+			"rawText": "u",
 			"fontSize": 20,
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"baseline": 18,
 			"containerId": null,
-			"originalText": "y"
+			"originalText": "u"
 		}
 	],
 	"appState": {
