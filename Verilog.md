@@ -983,4 +983,27 @@ endmodule
 Conditions of use:
 - The function can't advance the simulation time (must be parallel)
 - The function can't have nonblocking assignments
-- 
+- No variable can be named as the function it is scoped inside
+
+Syntax:
+
+```verilog
+function <functionName> <returnVarType> <functionName> (<portList>);
+	<statements>
+endfunction
+```
+
+- __Example__ :
+
+```verilog
+function [7:0] sum;
+	input [7:0] a, b;
+	begin
+		sum = a + b;
+	end
+endfunction
+```
+
+```verilog
+module functionCalling 
+```
