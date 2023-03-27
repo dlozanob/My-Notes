@@ -11,8 +11,12 @@
             "id": "567875e2a67e5460",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Servomecanismos.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -76,6 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Servomecanismos.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,6 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Servomecanismos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,7 +119,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Servomecanismos.md"
+              }
             }
           },
           {
@@ -165,6 +173,8 @@
   },
   "active": "567875e2a67e5460",
   "lastOpenFiles": [
+    "Assembly.md",
+    "Main.md",
     "Cap. 3. Solución de las ecuaciones de estado de sistemas LTI.md",
     "Señales y Sistemas II.md",
     "Excalidraw/blackboard.excalidraw.md",
@@ -182,7 +192,6 @@
     "Excalidraw/attachments/Pasted Image 20230327160703_904.png",
     "Servomecanismos.md",
     "Verilog.md",
-    "Main.md",
     "Electrónica Digital II.md",
     "CSS.md",
     "Ingeniería Electrónica.md",
