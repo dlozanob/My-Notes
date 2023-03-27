@@ -359,5 +359,20 @@ $$
 
 ## Solución del sistema en su forma general
 
+Si la entrada $u(t)$ no es nula, la solución del sistema
 
+$$
+\begin{align*}
+	\dot{x} &= Ax + Bu \\
+	y &= Cx + Du 
+\end{align*}
+$$
+ 
+ está dada por:
+
+$$
+\begin{align*}
+	\boxed{x(t) = e^{At}x_{0} + \int _{0}^{t} e^{A(t - \tau)}Bu(\tau) \, d\tau }
+\end{align*}
+$$
 
