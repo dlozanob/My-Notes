@@ -372,7 +372,7 @@ $$
 
 $$
 \begin{align*}
-	\boxed{x(t) = e^{At}x_{0} + \int _{0}^{t} e^{A(t - \tau)}Bu(\tau) \, d\tau }
+	x(t) = e^{At}x_{0} + \int _{0}^{t} e^{A(t - \tau)}Bu(\tau) \, d\tau
 \end{align*}
 $$
 
@@ -384,6 +384,10 @@ $$
 \end{align*}
 $$
 
+>[!Note]
+>$e^{Jt}$ es lo mismo que $e^{\bar{A}t}$, el cálculo de cada una depende de si tiene valores propios repetidos
+
+
 Sabiendo esto:
 
 $$
@@ -391,6 +395,7 @@ $$
 	y(t) = C[e^{At}x_{0} + \int _{0}^{t} e^{A(t - \tau)}Bu(\tau)] +Du \\\\
 \end{align*}
 $$
+
 La respuesta al impulso $y(t) = h(t)$ se produce cuando $u(t) = \delta(t)$
 
 $$
@@ -421,5 +426,7 @@ $$
 ![](attachments/Pasted%20image%2020230327172706.png)
 
 Donde $\sigma_{max}$ es la parte real del vector propio más rápido (grande) del sistema.
+
+
 
 
