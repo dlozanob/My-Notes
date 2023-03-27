@@ -838,12 +838,10 @@ Syntax: `$<systemTask> ("<format_string>", param(s))`
 	- Displays once its executed
 	- Adds a new line character at the end
 - _$write_
-	- 
 - _$strobe_
 	- Displays at the very end of the current simulation time unit when executed
 - _$monitor_
 	- Displays every time one of its parameters change
-
 
 Example:
 
@@ -853,7 +851,19 @@ module example;
 	initial
 		begin
 		new_reg = 1'b1;
-		$strobe ("Strobe value of new_reg = %b");
+		$strobe ("Strobe value of new_reg = %b", new_reg);
+		$display ("Display value of new_reg = %b", new_reg);
+		new_reg = 0'b1;
+		$monitor ("Monitor value of new_reg = %b", new_reg);
 		end
 endmodule
+
+// Console output:
+// Strobe value of new_reg = 0
+// Display value of new_reg = 1
+// Monitor value of new_reg = 1
+// Monitor value of new_reg = 0
 ```
+
+- _$random_
+	- Generates a random integer every time it's called
