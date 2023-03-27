@@ -929,6 +929,11 @@ Are used when any of these:
 - The task has zero or more than one output arguments
 - The task has no input arguments
 
+Main features:
+- Can contain time control statements: `@(posedge)`, `#`
+- Allows nested tasks and functions
+- Can have multiple return values
+
 Syntax:
 
 ```verilog
@@ -978,9 +983,12 @@ endmodule
 ```
 
 
-- Can contain time control statements: `@(posedge)`, `#`
-- Allows nested tasks and functions
-- 
+- _Reentrant tasks_ have the keyword `automatic` between the `task` keyword and the task name.
+	- Variables declared within are allocated dynamically for each concurrent task call
+	- 
+
+
+
 
 
 ## Functions
@@ -989,6 +997,11 @@ Conditions of use:
 - The function can't advance the simulation time (must be parallel)
 - The function can't have nonblocking assignments
 - No variable can be named as the function it is scoped inside
+
+Main features:
+- Executes in zero simulation time
+- Nested functions are allowed
+- Returns a single value when called
 
 Syntax:
 
