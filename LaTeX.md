@@ -243,6 +243,9 @@ As we saw in Equation \ref{eq:example}, the slope of the line is represented by 
 | Fourier transform | `\mathscr{F}` | $\mathscr{F}$ |
 | Laplace transform  | `\mathscr{L}` | $\mathscr{L}$ |
 | Cross product | `\times` | $\times$ |
+| Cancel | `\cancel{}` | $\cancel{ x }$ |
+| Underbrace | `\underbrace{<var>}_{<desc>}` | $\underbrace{ Q }_{output}$ |
+
 
 ## Special characters
 

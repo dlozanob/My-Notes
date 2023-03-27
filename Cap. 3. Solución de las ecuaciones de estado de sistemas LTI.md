@@ -387,6 +387,6 @@ La respuesta al impulso $y(t) = h(t)$ se produce cuando $u(t) = \delta(t)$
 
 $$
 \begin{align*}
-	h(t) = \cancel{ Ce^{At}x_{0} }
+	h(t) = \cancel{ Ce^{At}x_{0} } + C\int _{0}^{t} e^{A(t - \tau)}B\delta(t) \, d\tau + D\delta(t)
 \end{align*}
 $$
