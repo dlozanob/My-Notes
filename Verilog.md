@@ -966,8 +966,6 @@ begin
 end
 ```
 
-- __Example__ :
-
 ```verilog
 module taskCalling(a, b, c);
 	input a, b;
@@ -987,14 +985,10 @@ endmodule
 	- Variables declared within are allocated statically
 	- Each concurrent call to the task will overwrite the variables of the task from all other concurrent calls to the task
 
-
 - _Reentrant tasks_ have the keyword `automatic` between the `task` keyword and the task name.
 	- Variables declared within are allocated dynamically for each concurrent task call
 	- All variables will be replicated in each concurrent call to store state specific to that invocation
 	- Variables declared are de-allocated at the end of task invocation
-
-
-
 
 
 ## Functions
@@ -1012,7 +1006,7 @@ Main features:
 Syntax:
 
 ```verilog
-function <functionName> <returnVarType> <functionName> (<portList>);
+function <returnVarType> <functionName> (<portList>);
 	<statements>
 endfunction
 ```
@@ -1040,4 +1034,7 @@ module functionCalling(a, b, c);
 endmodule
 ```
 
+
+>[!Note]
+>Functions can be reentrant by using the keyword `automatic`
 
