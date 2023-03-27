@@ -241,7 +241,7 @@ $$
 \end{align*}
 $$
 
-La matriz $J_{i}$ (_bloque de Jordan_) tiene dimensiones $m_{i}xm_{i}$ donde $m_{i}$ es el número de veces que se repite el valor propio $\lambda_{i}$. La diagonal superior de $j_{i}$ está repleta de $1$'s.
+La matriz $J_{i}$ (_bloque de Jordan_) tiene dimensiones $m_{i} \times m_{i}$ donde $m_{i}$ es el número de veces que se repite el valor propio $\lambda_{i}$. La diagonal superior de $j_{i}$ está repleta de $1$'s.
 
 Además:
 
@@ -265,7 +265,7 @@ e^{ J_{1}t } & 0 & 0 & . & 0 \\
 \end{align*}
 $$
 
-La matriz $e^{J_{i}t}$ tiene la misma dimensión que $J$
+La matriz $e^{J_{i}t}$ tiene dimensiones $m_{i} \times m_{i}$.
 
 Por tanto:
 
@@ -280,3 +280,15 @@ $$
 ![](attachments/Pasted%20image%2020230327161133.png)
 
 ![](attachments/Pasted%20image%2020230327161215.png)
+
+- __Ejemplo__ :
+
+$$
+\begin{align*}
+	\dot{x} = \begin{pmatrix}
+	-5 & -2 & -1 \\
+	4 & 0 & 0 \\
+	0 & 1 & 0
+\end{pmatrix}
+\end{align*}
+$$

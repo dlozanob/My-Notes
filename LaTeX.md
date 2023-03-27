@@ -242,7 +242,7 @@ As we saw in Equation \ref{eq:example}, the slope of the line is represented by 
 | Exclusive sum | `\oplus` | $\oplus$ |
 | Fourier transform | `\mathscr{F}` | $\mathscr{F}$ |
 | Laplace transform  | `\mathscr{L}` | $\mathscr{L}$ |
-
+| Cross product | `\times` | $\times$ |
 
 ## Special characters
 
