@@ -239,10 +239,10 @@ $$
 \end{align*}
 $$
 
-La matriz $J_{i}$ tiene dimensiones $mxm$ donde 
+La matriz $J_{i}$ tiene dimensiones $m_{i}xm_{i}$ donde $m_{i}$ es el número de veces que se repite el valor propio $\lambda_{i}$. La diagonal superior de $j_{i}$ está repleta de $1$'s.
 
 
-Ejemplo:
+- __Ejemplo__:
 
 ![](attachments/Pasted%20image%2020230319223818.png)
 
