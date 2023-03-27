@@ -892,5 +892,15 @@ endmodule
 	- Returns the current simulation time as a real number
 
 
+## Compiler directives
+
+Control the compilation of a verilog description.
+A compiler
+
+Some IEEE-1364 directives are:
+- `` `define``
+- `` `include``
+- `` `timescale``
+
 
 
