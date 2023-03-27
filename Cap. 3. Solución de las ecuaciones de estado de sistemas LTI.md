@@ -376,6 +376,14 @@ $$
 \end{align*}
 $$
 
+Lo cual es equivalente a:
+
+$$
+\begin{align*}
+	\boxed{x(t) = T^{-1}e^{Jt}Tx_{0} + T^{-1}\int _{0}^{t} e^{J(t - \tau)}TBu(\tau) \, d\tau }
+\end{align*}
+$$
+
 Sabiendo esto:
 
 $$
