@@ -925,9 +925,9 @@ Some IEEE-1364 directives are:
 ## Tasks
 
 Are used when any of these:
-- There are delay, timing, or event control constructs in the procedure
-- The procedure has zero or more than one output arguments
-- The procedure has no input arguments
+- There are delay, timing, or event control constructs in the task
+- The task has zero or more than one output arguments
+- The task has no input arguments
 
 Syntax:
 
@@ -972,6 +972,15 @@ module taskCalling(a, b, c);
 
 	always @(a)
 	begin
-		sum(a, b);
+		sum(a, b, c);
 	end
+endmodule
 ```
+
+
+## Functions
+
+Conditions of use:
+- The function can't advance the simulation time (must be parallel)
+- The function can't have nonblocking assignments
+- 
