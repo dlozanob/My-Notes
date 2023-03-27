@@ -376,3 +376,17 @@ $$
 \end{align*}
 $$
 
+Sabiendo esto:
+
+$$
+\begin{align*}
+	y(t) = C[e^{At}x_{0} + \int _{0}^{t} e^{A(t - \tau)}Bu(\tau)] +Du \\\\
+\end{align*}
+$$
+La respuesta al impulso $y(t) = h(t)$ se produce cuando $u(t) = \delta(t)$
+
+$$
+\begin{align*}
+	h(t) = \cancel{ Ce^{At}x_{0} }
+\end{align*}
+$$
