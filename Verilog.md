@@ -830,9 +830,9 @@ An unknown logic value will be prooduced when there are two signals of same stre
 
 ## Internal variable monitoring system tasks
 
-Are used to display the variables in a program.
+Are used to display in the console the values of the variables of a program.
 
-Syntax: `$<systemTask>("<format_string>", param(s))`
+Syntax: `$<systemTask> ("<format_string>", param(s))`
 
 - _$display_
 	- Displays once its executed
@@ -843,3 +843,17 @@ Syntax: `$<systemTask>("<format_string>", param(s))`
 	- Displays at the very end of the current simulation time unit when executed
 - _$monitor_
 	- Displays every time one of its parameters change
+
+
+Example:
+
+```verilog
+module example;
+	reg new_reg;
+	initial
+		begin
+		new_reg = 1'b1;
+		$strobe ("Strobe value of new_reg = %b");
+		end
+endmodule
+```
