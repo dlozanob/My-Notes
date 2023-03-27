@@ -401,3 +401,12 @@ $$
 	y(t) = Ce^{At}x_{0} + \int _{0}^{t} h(t - \tau)u(\tau) \, d\tau
 \end{align*}
 $$
+
+Se puede llegar a una aproximación de la función impulso ($\delta(t)$) con el fin de identificar un sistema experimentalmente. Una buena aproximación es:
+
+$$
+\begin{align*}
+	
+\end{align*}
+$$
+

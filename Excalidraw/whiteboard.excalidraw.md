@@ -8,12 +8,6 @@ tags: [excalidraw]
 
 
 # Text Elements
-J =  ^p2bg1QMH
-
-
-# Embedded files
-2b358d5a1484193a3315f9b652d750976d84cc86: [[attachments/Pasted Image 20230327161208_090.png]]
-
 %%
 # Drawing
 ```json
@@ -24,9 +18,9 @@ J =  ^p2bg1QMH
 	"elements": [
 		{
 			"type": "rectangle",
-			"version": 133,
-			"versionNonce": 521461686,
-			"isDeleted": false,
+			"version": 134,
+			"versionNonce": 1761160170,
+			"isDeleted": true,
 			"id": "1ZPdmVdUIoJBe6pZAlkFN",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
@@ -44,7 +38,7 @@ J =  ^p2bg1QMH
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1679951403998,
+			"updated": 1679955946156,
 			"link": null,
 			"locked": false
 		},
@@ -66,11 +60,11 @@ J =  ^p2bg1QMH
 			"groupIds": [],
 			"roundness": null,
 			"seed": 1530840694,
-			"version": 149,
-			"versionNonce": 210010218,
-			"isDeleted": false,
+			"version": 150,
+			"versionNonce": 527392694,
+			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1679951792169,
+			"updated": 1679955946157,
 			"link": null,
 			"locked": false,
 			"text": "J = ",
@@ -101,11 +95,11 @@ J =  ^p2bg1QMH
 			"groupIds": [],
 			"roundness": null,
 			"seed": 1908593974,
-			"version": 43,
-			"versionNonce": 2136393130,
-			"isDeleted": false,
+			"version": 44,
+			"versionNonce": 1501568682,
+			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1679951522915,
+			"updated": 1679955946157,
 			"link": null,
 			"locked": false,
 			"status": "pending",
