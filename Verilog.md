@@ -978,6 +978,11 @@ endmodule
 ```
 
 
+- Can contain time control statements: `@(posedge)`, `#`
+- Allows nested tasks and functions
+- 
+
+
 ## Functions
 
 Conditions of use:
@@ -1005,5 +1010,15 @@ endfunction
 ```
 
 ```verilog
-module functionCalling 
+module functionCalling(a, b, c);
+	input [7:0] a, b;
+	output [7:0] c;
+	wire [7:0] c;
+
+	`include "myFunction.v"
+
+	assign c = sum(a, b);
+endmodule
 ```
+
+
