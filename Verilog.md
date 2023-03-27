@@ -934,7 +934,44 @@ Syntax:
 ```verilog
 task <name>;
 	input <input(s)>;
-	output <output()>
+	output <output(s)>;
+
+	begin
+		<statements>
+	end
 endtask
 ```
 
+
+- __Example__ :
+
+```verilog
+task sum;
+	input [7:0] a, b;
+	output [7:0] c;
+	begin
+		c = a + b;
+	end
+endtask
+
+initial
+begin
+	reg [7:0] x, y, z;
+	sum(x, y, z);
+end
+```
+
+- __Example__ :
+
+```verilog
+module taskCalling(a, b, c);
+	input a, b;
+	output c;
+	
+	`include "myTask.v"
+
+	always @(a)
+	begin
+		sum(a, b);
+	end
+```
