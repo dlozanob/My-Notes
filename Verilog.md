@@ -983,9 +983,15 @@ endmodule
 ```
 
 
+- _Static tasks_ don't have the keyword `automatic`.
+	- Variables declared within are allocated statically
+	- Each concurrent call to the task will overwrite the variables of the task from all other concurrent calls to the task
+
+
 - _Reentrant tasks_ have the keyword `automatic` between the `task` keyword and the task name.
 	- Variables declared within are allocated dynamically for each concurrent task call
-	- 
+	- All variables will be replicated in each concurrent call to store state specific to that invocation
+	- Variables declared are de-allocated at the end of task invocation
 
 
 
