@@ -403,8 +403,13 @@ La respuesta al impulso $y(t) = h(t)$ se produce cuando $u(t) = \delta(t)$
 
 $$
 \begin{align*}
-	h(t) &= \cancel{ Ce^{At}x_{0} } + C\int _{0}^{t} e^{A(t - \tau)}B\delta(t) \, d\tau + D\delta(t) \\\\
-	h(t) &= Ce^{At}B + D\delta(t)
+	h(t) = \cancel{ Ce^{At}x_{0} } + C\int _{0}^{t} e^{A(t - \tau)}B\delta(t) \, d\tau + D\delta(t) \\\\
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	\boxed{h(t) = Ce^{At}B + D\delta(t)}
 \end{align*}
 $$
 
@@ -440,7 +445,13 @@ $$
 	y(t) &= \cancel{ Ce^{At}x_{0} } + C\int _{0}^{t} e^{A(t - \tau)}Bu(t) \, d\tau + Du(t) \\
 	&= C\int _{0}^{t}e^{A(t - \tau)}B \, d \tau + Du(t) \\
 	&=C\int _{0}^{t} e^{A\sigma}B \, d\sigma + D \\
-	&= CA^{-1}e^{A\sigma}B
+	&= CA^{-1}e^{A\sigma}B \biggr\rvert_{\sigma = 0}^{\sigma = t} + D
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	\boxed{y(t) = CA^{-1}e^{At}B + D - CA^{-1}B}
 \end{align*}
 $$
 

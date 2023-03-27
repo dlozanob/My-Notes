@@ -33,12 +33,15 @@
             "id": "7740e7f460dc33f7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "LaTeX.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Cap. 3. Solución de las ecuaciones de estado de sistemas LTI.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Cap. 3. Solución de las ecuaciones de estado de sistemas LTI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +141,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Cap. 3. Solución de las ecuaciones de estado de sistemas LTI.md"
+              }
             }
           },
           {
@@ -186,15 +193,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7740e7f460dc33f7",
+  "active": "a72b3741cf5d2798",
   "lastOpenFiles": [
+    "LaTeX.md",
+    "Excalidraw/blackboard.excalidraw.md",
     "Cap. 3. Solución de las ecuaciones de estado de sistemas LTI.md",
     "attachments/Pasted image 20230327172706.png",
-    "Excalidraw/blackboard.excalidraw.md",
     "attachments/Pasted image 20230327172658.png",
     "attachments/Pasted image 20230327172558.png",
     "Excalidraw/whiteboard.excalidraw.md",
-    "LaTeX.md",
     "attachments/Pasted image 20230327161215.png",
     "Excalidraw/attachments/Pasted Image 20230327161208_090.png",
     "attachments/Pasted image 20230327161133.png",
