@@ -337,6 +337,20 @@ $$
 
 $$
 \begin{align*}
-	
+	e^{J_{1}t} &= e^{-t} \\\\
+	e^{J_{2}t} &= \begin{pmatrix}
+	1 & t \\
+	0 & 1
+\end{pmatrix}e^{-2t}
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	e^{Jt} = \begin{pmatrix}
+    e^{-t} & 0 & 0 \\
+0 & e^{-2t} & te^{-2t} \\
+0 & 0 & e^{-2t}	
+\end{pmatrix}
 \end{align*}
 $$
