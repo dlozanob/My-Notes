@@ -226,6 +226,8 @@ J_{1} & 0 & 0 & . & 0 \\
 \end{align*}
 $$
 
+Donde $n$ es el número de valores propios.
+
 Tal que:
 
 $$
@@ -239,9 +241,9 @@ $$
 \end{align*}
 $$
 
-La matriz $J_{i}$ tiene dimensiones $m_{i}xm_{i}$ donde $m_{i}$ es el número de veces que se repite el valor propio $\lambda_{i}$. La diagonal superior de $j_{i}$ está repleta de $1$'s.
+La matriz $J_{i}$ (_bloque de Jordan_) tiene dimensiones $m_{i}xm_{i}$ donde $m_{i}$ es el número de veces que se repite el valor propio $\lambda_{i}$. La diagonal superior de $j_{i}$ está repleta de $1$'s.
 
-Donde:
+Además:
 
 $$
 \begin{align*}
@@ -252,7 +254,7 @@ e^{ J_{1}t } & 0 & 0 & . & 0 \\
 . & . & . & . & . \\
 0 & 0 & 0 & . & e^{ J_{n} }
 \end{pmatrix} \\\\
-	e^{ J_{i} } = \begin{pmatrix}
+	e^{ J_{i}t } = \begin{pmatrix}
 1 & t & \frac{t^{2}}{2!} & . & \frac{t^{n-1}}{(n-1)!} \\
 0 & 1 & t & . & \frac{t^{n-2}}{(n-2)!} \\
 0 & 0 & 1 & . & \frac{t^{n-3}}{(n-3)!} \\
