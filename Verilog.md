@@ -488,9 +488,16 @@ To instantiate a module to use it in another, do:
 <module_name> <instance_name>(<signals>);
 ```
 
+Port assignments:
+- _input_
+	- Internally net. Externally reg or net
+- _output_
+	- Internally reg or net. Externally net
+- _inout_
+	- Only wire data type
 
-Example:
 
+- __Example__ :
 Suppose the following circuit.
 
 ![](attachments/Pasted%20image%2020230325201945.png)
@@ -818,16 +825,6 @@ An unknown logic value will be prooduced when there are two signals of same stre
 ![](attachments/Pasted%20image%2020230325212425.png)
 
 
-### Port assignments
-
-- _Input_
-	- Internally net. Externally reg or net
-- _Output_
-	- Internally reg or net. Externally net
-- _Inout_
-	- Only wire data type
-
-
 ## System tasks
 
 ### Internal variable monitoring system tasks
@@ -925,7 +922,19 @@ Some IEEE-1364 directives are:
 	```
 
 
-## Tasks and functions
+## Tasks
 
+Are used when any of these:
+- There are delay, timing, or event control constructs in the procedure
+- The procedure has zero or more than one output arguments
+- The procedure has no input arguments
 
+Syntax:
+
+```verilog
+task <name>;
+	input <input(s)>;
+	output <output()>
+endtask
+```
 
