@@ -895,11 +895,21 @@ endmodule
 ## Compiler directives
 
 Control the compilation of a verilog description.
-A compiler
+Syntax: `` `<compilerDirective> <argument>``
 
 Some IEEE-1364 directives are:
 - `` `define``
+	- Gives a name to a collection of characters so it can be used then
+	- Syntax: `` `define <name> <value>``
+
+	```verilog
+	`define size 7
+	reg [0:`size] A;
+	```
+
 - `` `include``
+	- Are replaced by the contents of its referencing file
+	- Syntax: 
 - `` `timescale``
 
 
