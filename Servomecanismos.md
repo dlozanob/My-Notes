@@ -18,17 +18,16 @@ El diagrama de bloques de control de un servomecanismo se ve de la siguiente man
 ![](attachments/Pasted%20image%2020230227221213.png)
 
 
+## Components description
+---
 
-robotic arms, and manufacturing machines. A sensor generates a feedback output signal straight to  
-the error detector module in the control system.  
-Drivers: In order to regulate an stabilize a motor operation, a driver is needed. It’s responsible of  
-obtaining the proper nominal torque and nominal speed, as well as keeping the inertia of the motor.  
-A DC power supply is connected to the driver, the electronics on this device amplify the signal and  
-regulates it.  
-- _Actuators_ : Being responsible of the mechanism motion, actuators move each component in the system according to their degrees of freedom. There are many actuator instances, some of them are hydraulic  
-cylinders, motors, linear actuators, pneumatic cylinders, piezoelectric actuators, among others.  
+- _Reference input signal_ : A motion variable is set as input to the system, it represents the desired value of a parameter for a given instant of time.  
+- _Controller device_ : Includes several functions, such as reading the input signal and process it using control algorithms in order to generate a corrected output to regulate the mechanism motion. It’s also responsible of storing data and stablish correct communication with other controller devices. Some examples of these controllers are: PLC’s (Programmable Logic Controllers), FPGA’s (Field Programmable Gate Arrays), microcontrollers, DCS’s (Distributed Control Systems), and PAC’S (Programmable Automation Controllers). These systems are responsible of implementing a control algorithm, which optimizes and updates the motion parameter according to the feedback and the reference value. The PID (Program Derivative Integral) control is a widely used algorithm, implemented in many industrial aplications because of it’s simple use and performance. It’s composed by 3 components which are Proportional, Integral and Derivative, combining these three elements the controller device generates an output signal which is proportional to the error and it’s rate of change. Another commonly used control algorithms are State-Space Control, Model Predictive Control (MPC), Adaptive Control, Nonlinear Control and Robust Control.  
+- _Feedback signal_ : A constant monitoring of the controlled variable is required in order to know the current state at any time instant. For this purpose, a sensor is used, encoders are very commonly implemented devices, they are normally found in applications such as processes involving motors, robotic arms, and manufacturing machines. A sensor generates a feedback output signal straight to the error detector module in the control system.  
+- _Drivers_ : In order to regulate an stabilize a motor operation, a driver is needed. It’s responsible of obtaining the proper nominal torque and nominal speed, as well as keeping the inertia of the motor. A DC power supply is connected to the driver, the electronics on this device amplify the signal and regulates it.  
+- _Actuators_ : Being responsible of the mechanism motion, actuators move each component in the system according to their degrees of freedom. There are many actuator instances, some of them are hydraulic cylinders, motors, linear actuators, pneumatic cylinders, piezoelectric actuators, among others.  
 - _Mechanical Power Transmision System_ : The output produced by an actuator most of the times needs to be scaled by a factor or be moved to another point in the mechanism. Mechanical power transmision systems involve the implementation of gears, belts, pulleys, chains, sprockets, power screws, which are responsible of transform the corresponding forces to an output point.  
-- _Feedforward signal_ : Predicting possible results is important in advanced control systems, the feed-forward signal looks for disturbances that may affect the system, the controller device must have a previous knowledge about the process in order to implement this routine. A more accurate output is guaranteed than having a case where this technique is not implemented.  
+- _Feedforward signal_ : Predicting possible results is important in advanced control systems, the feedforward signal looks for disturbances that may affect the system, the controller device must have a previous knowledge about the process in order to implement this routine. A more accurate output is guaranteed than having a case where this technique is not implemented.  
 - _Mechanism and load_ : The mechanism is responsible of modifying a set of income products in order to process them. According to the number of degrees of freedom in each joint, linkage types and quantity,  and relation between them, a mechanism will have an intrinsic motion nature, which is controlled by its actuators. The load force, is the mass or inertia that the mechanism must handle.
 ___
 
