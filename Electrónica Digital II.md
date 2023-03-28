@@ -120,10 +120,7 @@ Este set debe ser definido de acuerdo a las instrucciones que se consideren más
 Cada instrucción es identificada por un opcode:
 
 
-# clase
-
-Corrimiento a la izuierda
-
+# Clase
 
 
 $$
@@ -131,6 +128,12 @@ $$
 	maxSaltoInst = \underbrace{ 2^{2} }_{ shiftLeft2 } *\underbrace{ 2^{16-1} }_{ SignExtend-signo+Significativo }
 \end{align*}
 $$
+
+
+
+
+
+
 
 
 
