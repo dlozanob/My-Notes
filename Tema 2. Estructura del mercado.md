@@ -1,21 +1,21 @@
 # Tema 2. Estructura del mercado
 
-Se considera _valor_ a cualquier derecho de manera negociable que haga parte de una emisión.
+Se considera _valor_ a cualquier derecho de manera negociable que haga parte de una emisión (debe tener como objetivo la captación de recursos).
 
-Ejemplos:
-- Títulos de deuda pública: Emisiones que hacen los gobiernos para financiar sus compromisos de corto plazo
-- Acciones: Capital representado en patrimonio. Los tenedores de las acciones se vuelven socios de la empresa y pueden tomar desiciones sobre ellas
-- Bonos: Son préstamos que se le hacen a una empresa para que esta pueda financiarse. Normalmente se emiten varios bonos. Estos están representados en porcentaje
-- Papeles comerciales
-- Certificados de propósito de mercancías
-- Títulos o derechos
-- Títulos representativos de capital de riesgo
-- CDT
-- Aceptaciones bancarias
-- Cédulas hipotecarias: Títulos sobre hipotecas
+Estos valores son:
+- _Títulos de deuda pública_ : Emisiones que hacen los gobiernos para financiar sus compromisos de corto plazo
+- _Acciones_ : Capital representado en patrimonio. Los tenedores de las acciones se vuelven socios de la empresa y pueden tomar desiciones sobre ellas
+- _Bonos_ : Son préstamos que se le hacen a una empresa para que esta pueda financiarse. Normalmente se emiten varios bonos. Estos están representados en porcentaje. Pueden vencerse tras años
+- _Papeles comerciales_ : Es una forma de financiamiento a corto plazo. Se vencen en un tiempo inferior a 270 días
+- _Certificados de propósito de mercancías_
+- _Títulos o derechos_
+- _Títulos representativos de capital de riesgo_
+- _CDT_
+- _Aceptaciones bancarias_
+- _Cédulas hipotecarias_ : Títulos sobre hipotecas
 
 >[!Note]
->Las pólizas de seguros y títulos de capitalización no son valores (no se sabe si va a pasar la tragedia)
+>Las pólizas de seguros y títulos de capitalización no son valores. Ni hay una completa certeza de que estos serán ejecutados (no se sabe si va a pasar la tragedia)
 
 >[!Note]
 >Una titularización es dar un derecho sobre un bien

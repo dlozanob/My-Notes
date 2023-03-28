@@ -1,9 +1,9 @@
 [
   "obsidian-git",
-  "calendar",
   "obsidian-excalidraw-plugin",
   "obsidian-style-settings",
   "consistent-attachments-and-links",
   "obsidian-latex-suite",
-  "obsidian-advanced-slides"
+  "obsidian-advanced-slides",
+  "calendar"
 ]

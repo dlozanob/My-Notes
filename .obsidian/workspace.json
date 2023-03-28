@@ -11,8 +11,12 @@
             "id": "15b454363de2e734",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Tema 2. Estructura del mercado.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -59,8 +63,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "8cf20f15e2d652f4",
@@ -69,6 +72,7 @@
       {
         "id": "69cfc4de903d3da0",
         "type": "tabs",
+        "dimension": 52.5,
         "children": [
           {
             "id": "3e34f1a2ffb2f672",
@@ -76,6 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Tema 2. Estructura del mercado.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,6 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Tema 2. Estructura del mercado.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,22 +119,26 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Tema 2. Estructura del mercado.md"
+              }
             }
           },
           {
-            "id": "5693abeaa76d99d1",
+            "id": "1f499520603a2d93",
             "type": "leaf",
             "state": {
               "type": "calendar",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "bc3f1f8ab0e0e5f8",
         "type": "tabs",
+        "dimension": 47.5,
         "children": [
           {
             "id": "abed2df76f33d216",
@@ -149,8 +159,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249.5,
-    "collapsed": true
+    "width": 249.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,6 +175,9 @@
   },
   "active": "15b454363de2e734",
   "lastOpenFiles": [
+    "Módulo 3. Introducción al mercado de capitales.md",
+    "Finanzas.md",
+    "2023-03-28.md",
     "Linked note.md",
     "Obsidian Basics.md",
     "Main.md",
@@ -199,9 +211,6 @@
     "Tema 2. Función de oferta y demanda.md",
     "Fórmulas Financieras Excel.md",
     "Tema 4. Financiamiento a corto plazo.md",
-    "Tema 2. Análisis de estados financieros e indicadores financieros.md",
-    "Módulo 1. Economía y matemática financiera.md",
-    "Tema 4. Matemáticas financieras.md",
     "Excalidraw/attachments",
     "attachments",
     "New folder",
