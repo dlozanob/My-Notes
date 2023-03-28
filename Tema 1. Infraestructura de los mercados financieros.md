@@ -4,23 +4,20 @@
 
 El mercado primario permite el financiamiento de las actividades públicas o privadas
 
-Bonos del tesoro de Estados Unidos (TES), son bonos públicos
-Estos son los elementos menos riesgoso en una economía
-Se presta a una tasa muy baja
+- _Bonos del tesoro de Estados Unidos (TES)_ 
+	- Son bonos públicos. Estos son los elementos menos riesgosos en una economía. Se prestan a una tasa muy baja.
 
-Hay bonos públicos del gobierno central, y otros que no lo son
+Hay bonos públicos del gobierno central, y otros que no lo son.
 
-También existen bonos privados
+También existen bonos privados.
 
-Las calificadores de riesgo son entidades externas que estudian el caso del préstamo para establecer el riesgo de pago
+Las _calificadoras de riesgo_ son entidades externas que estudian el caso del préstamo para establecer el riesgo de pago
 La mejor calificación que brinda esta organización es AAA.
-Riesgo intermedio BBB-
+Una calificación para un riesgo intermedio es BBB-
 
-En el mercado secundario, es darle liquidez al mercado financiero
+El _mercado secundario_ se encarga de darle liquidez al mercado financiero
 
-La liquidez de un bono supone qué tan rápido se puede convertir un bono en efectivo
-Igualmente sucede con las acciones
-los bonos del gobierno son liquidos
+La liquidez de un bono supone qué tan rápido se puede convertir un bono en efectivo. Igualmente sucede con las acciones. Los bonos del gobierno son liquidos
 
-
-_tasa de intermediación_ es la diferencia entre la tasa de usura y la tasa de intervención
+- _Tasa de intermediación_
+	- Es la diferencia entre la tasa de usura y la tasa de intervención

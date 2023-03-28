@@ -48,7 +48,11 @@ Los _derivados financieros_ surgen de los anteriores ejemplos. Estos se consider
 	- Cumple el rol de Agencia Numeradora Nacional (ANN)
 	- Cada inversionista tiene una cuenta en Deceval
 - _Banco de la República de Colombia (BRC)_
-	- 
+	- Ofrece servicios bancarios y métodos de pago al mercado financiero
+- _Servicios electrónicos (SEBRA)_
+	- Es un sistema electrónico de ejecución y consulta de transacciones entre el mercado financiero y el BRC
+- _Sistema Electrónico de Negociación (SEN)_
+	- Es el sistema de negociación
 
 
 
