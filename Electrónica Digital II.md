@@ -130,6 +130,19 @@ $$
 $$
 
 
+![](attachments/Pasted%20image%2020230328075731.png)
+
+Fetch, Decode, Execute
+
+Este procesdor almacena por cada una de estas -> se penaliza en tiempo
+
+
+
+- _GIPS_ : Giga instrucciones por segundo
+
+
+
+
 
 
 
