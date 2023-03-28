@@ -134,12 +134,14 @@ $$
 
 Fetch, Decode, Execute
 
-Este procesdor almacena por cada una de estas -> se penaliza en tiempo
+Este procesador almacena por cada una de estas -> se penaliza en tiempo
 
-
+El primero era secuencial, pero este es semiparalelo
 
 - _GIPS_ : Giga instrucciones por segundo
 
+
+## Arquitectura pipeline
 
 
 
