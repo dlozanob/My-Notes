@@ -93,10 +93,23 @@ Sus objetivos son:
 >El _S&P (Standard & Pulse)_ 500 es un índice de la bolsa de valores de las 500 empresas más grandes de la economía
 >
 
-renta variable -> acciones
-renta fija -> bonos
 
-Se llama renta fija porque el flujo de caja se conoce. 
+Los bonos son de _renta fija_, ya que, el flujo de caja se conoce.
 
-En la renta variable no se conoce el flujo de caja con certeza.
-Empresa pública: sale al mercado de valores.
+Por otro lado, las acciones son de _renta variable_ porque el flujo de caja no se conoce con certeza. El valor de la acción (_market capitalization_) es volátil.
+
+>[!Note]
+>Se conoce como empresa pública a aquella que está activa en el mercado de valores
+
+
+Tipos de acciones:
+- _Ordinarias_
+	- El dueño de aquellas acciones tiene derecho a participar en las juntas de accionistas de la empresa. El propietario posee una parte de esta
+	- La mayoría de acciones que se emiten son de este tipo
+	- El propietario de la acción puede recibir dividendos que varian de acuerdo al rendimiento de la compañía
+- _Preferenciales_
+	- El accionista preferencial tiene preferencia sobre los accionistas ordinarios en la distribución de activos y en el pago de dividendos
+	- El popietario adquiere dividendos fijos
+	- Comúnmente los accionistas preferentes no tienen derecho a votar en las juntas de accionistas
+- _Outstanding_
+
