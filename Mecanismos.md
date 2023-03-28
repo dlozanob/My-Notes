@@ -38,7 +38,7 @@ Se caracterizan por tener un contacto superficial.
 
 >[!Info]
 >The _Cardan joint_ is an universal joint commonly used in shafts to transmit rotary motion. Has 2 DOF
->![](attachments/Pasted%20image%2020230327203448.png)
+>![](attachments/Pasted%20image%2020230327203727.png)
 
 
 ### Pares superiores
