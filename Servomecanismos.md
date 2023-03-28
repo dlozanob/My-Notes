@@ -11,14 +11,54 @@ Algunos conceptos clave:
 >[!Info]
 >Comúnmente las válvulas hidráulicas manejan un rango de 3-15 psi.
 
-Un servomecanismo se define como un sistema que tiene un lazo crrado de control con una retroalimentación brindada por un sensor, la cual se usa para corregir el parámetro de control con respecto a la referencia.
+Un servomecanismo se define como un sistema que tiene un lazo cerrado de control con una retroalimentación brindada por un sensor, la cual se usa para corregir el parámetro de control con respecto a la referencia.
 
 El diagrama de bloques de control de un servomecanismo se ve de la siguiente manera:
 
 ![](attachments/Pasted%20image%2020230227221213.png)
 
+
+
+robotic arms, and manufacturing machines. A sensor generates a feedback output signal straight to  
+the error detector module in the control system.  
+Drivers: In order to regulate an stabilize a motor operation, a driver is needed. It’s responsible of  
+obtaining the proper nominal torque and nominal speed, as well as keeping the inertia of the motor.  
+A DC power supply is connected to the driver, the electronics on this device amplify the signal and  
+regulates it.  
+- _Actuators_ : Being responsible of the mechanism motion, actuators move each component in the system according to their degrees of freedom. There are many actuator instances, some of them are hydraulic  
+cylinders, motors, linear actuators, pneumatic cylinders, piezoelectric actuators, among others.  
+- _Mechanical Power Transmision System_ : The output produced by an actuator most of the times needs to be scaled by a factor or be moved to another point in the mechanism. Mechanical power transmision systems involve the implementation of gears, belts, pulleys, chains, sprockets, power screws, which are responsible of transform the corresponding forces to an output point.  
+- _Feedforward signal_ : Predicting possible results is important in advanced control systems, the feed-forward signal looks for disturbances that may affect the system, the controller device must have a previous knowledge about the process in order to implement this routine. A more accurate output is guaranteed than having a case where this technique is not implemented.  
+- _Mechanism and load_ : The mechanism is responsible of modifying a set of income products in order to process them. According to the number of degrees of freedom in each joint, linkage types and quantity,  and relation between them, a mechanism will have an intrinsic motion nature, which is controlled by its actuators. The load force, is the mass or inertia that the mechanism must handle.
+___
+
+
 El PID corrige el error con base en el feedback (sensor).
 El _FF_ (feedforward) hace un seguimiento a la referencia (_SP_ punto de referencia, datos deseados inicialmente). Los sistemas de control avanzados suelen utilizarlos para generar una respuesta más precisa.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 - _MAx_ : Motion Axis _x_
 	- _MAS_ : Motion Axis Stop
