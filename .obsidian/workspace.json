@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tema 2. Estructura del mercado.md",
-                "mode": "source",
+                "file": "Tema 3. Introducción a los mercados de capitales.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tema 2. Estructura del mercado.md",
+                "file": "Tema 3. Introducción a los mercados de capitales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tema 2. Estructura del mercado.md",
+                "file": "Tema 3. Introducción a los mercados de capitales.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tema 2. Estructura del mercado.md"
+                "file": "Tema 3. Introducción a los mercados de capitales.md"
               }
             }
           },
@@ -147,7 +147,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"derivados\"",
+                "query": "\"ROA\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -174,11 +174,14 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "abed2df76f33d216",
+  "active": "a6fd2107d0309302",
   "lastOpenFiles": [
     "Módulo 3. Introducción al mercado de capitales.md",
-    "Finanzas.md",
     "Tema 2. Estructura del mercado.md",
+    "Tema 4. Financiamiento a corto plazo.md",
+    "Tema 2. Análisis de estados financieros e indicadores financieros.md",
+    "Módulo 2. Diagnóstico financiero.md",
+    "Finanzas.md",
     "Tema 3. Introducción a los mercados de capitales.md",
     "Excalidraw/blackboard.excalidraw.md",
     "Electrónica Digital II.md",
@@ -194,10 +197,7 @@
     "Server communication.md",
     "Tema 1. Infraestructura de los mercados financieros.md",
     "Tema 3. Indicadores macroeconómicos.md",
-    "Módulo 2. Diagnóstico financiero.md",
-    "Tema 4. Financiamiento a corto plazo.md",
     "Tema 3. Análisis de flujo de efectivo y análisis de capital de trabajo.md",
-    "Tema 2. Análisis de estados financieros e indicadores financieros.md",
     "Tema 1. Composición y estructura del balance general%2C estado de resultados y flujo de caja neto.md",
     "Tema 1. Composición y estructura del balance general, estado de resultados y flujo de caja neto.md",
     "Módulo 6.md",
