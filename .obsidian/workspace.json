@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tema 1. Infraestructura de los mercados financieros.md",
+                "file": "Finanzas.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tema 1. Infraestructura de los mercados financieros.md",
+                "file": "Tema 2. Estructura del mercado.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tema 1. Infraestructura de los mercados financieros.md",
+                "file": "Tema 2. Estructura del mercado.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tema 1. Infraestructura de los mercados financieros.md"
+                "file": "Tema 2. Estructura del mercado.md"
               }
             }
           },
@@ -192,13 +192,13 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "abed2df76f33d216",
+  "active": "15b454363de2e734",
   "lastOpenFiles": [
+    "Finanzas.md",
     "Módulo 3. Introducción al mercado de capitales.md",
+    "Tema 1. Infraestructura de los mercados financieros.md",
     "Tema 2. Estructura del mercado.md",
     "Tema 3. Indicadores macroeconómicos.md",
-    "Finanzas.md",
-    "Tema 1. Infraestructura de los mercados financieros.md",
     "Módulo 2. Diagnóstico financiero.md",
     "Tema 4. Financiamiento a corto plazo.md",
     "Tema 3. Análisis de flujo de efectivo y análisis de capital de trabajo.md",

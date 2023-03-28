@@ -75,7 +75,17 @@ Sus objetivos son:
 - Llevar el registro de mensajes y avisos
 - Adoptar mecanismos para la compensación y la liquidación
 
+---
 
+- _Proveedores de precios (PP)_
+	- Son empresas que informan a los inversionistas sobre los precios disponibles en el mercado financiero
+	- Estas recopilan información en tiempo real. Esta información es comúnmente extraida de la bolsa de valores, mercados OTC, agentes de bolsa
+	- Algunos de ellos son
+		- Bloomberg
+		- Thomson Reuters
+		- FactSet
+		- Morningstar
+		- S&P
 
 
 

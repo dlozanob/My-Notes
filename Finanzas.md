@@ -11,5 +11,6 @@
 
 - [BVC](https://www.bvc.com.co/Market-Guide)
 - [Yahoo finance](https://finance.yahoo.com/)
-- [https://www.bls.gov/charts/consumer-price-index/consumer-price-index-by-category-line-chart.htm](https://www.bls.gov/charts/consumer-price-index/consumer-price-index-by-category-line-chart.htm)
+- [US Graphics for Economic News Releases](https://www.bls.gov/charts/home.htm)
 - [Deceval](https://www.deceval.com.co/portal/page/portal/Home)
+- [Bloomberg](https://www.bloomberg.com/markets)
