@@ -85,13 +85,7 @@ Sus objetivos son:
 		- Thomson Reuters
 		- FactSet
 		- Morningstar
-		- S&P
-
-
-
-
-
-
+		- S&P Global Market Intelligence
 
 
 renta variable -> acciones

@@ -1,9 +1,5 @@
 # Electrónica Digital II
 
-
-
-
-
 >[!Info]
 >Un _ASIC_ (Aplication-Specific Integrated Circuit) es un chip de silicio creado para una función específica
 
@@ -23,7 +19,6 @@ Procedimiento de diseño:
 Muestra el algoritmo del programa de manera secuencial con bloques que definen su comportamiento.
 
 ![](attachments/Pasted%20image%2020230328071931.png)
-
 
 
 ### Datapath
@@ -76,7 +71,7 @@ Se la da una descripción detallada al diagrama de caja negra, combinando Unidad
 
 ## Controlador
 
-Podemos crear un sistema organizado que permita un mejor control de nuestros proceso.
+Podemos crear un sistema organizado que permita un mejor control de nuestros procesos.
 
 La arquitectura básica de un controlador es la siguiente:
 

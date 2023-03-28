@@ -4,34 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3425699da2fa53fb",
+        "id": "08e03c1df95dca05",
         "type": "tabs",
         "children": [
           {
-            "id": "15b454363de2e734",
+            "id": "a18df9d07a68477b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tema 2. Estructura del mercado.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "c3b6ac4d03f301d0",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "70fa37da439bd3b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Finanzas.md",
+                "file": "Electrónica Digital II.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tema 2. Estructura del mercado.md",
+                "file": "Electrónica Digital II.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tema 2. Estructura del mercado.md",
+                "file": "Electrónica Digital II.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tema 2. Estructura del mercado.md"
+                "file": "Electrónica Digital II.md"
               }
             }
           },
@@ -178,7 +160,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249.5
+    "width": 249.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,12 +175,12 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "15b454363de2e734",
+  "active": "a18df9d07a68477b",
   "lastOpenFiles": [
+    "Tema 2. Estructura del mercado.md",
     "Finanzas.md",
     "Módulo 3. Introducción al mercado de capitales.md",
     "Tema 1. Infraestructura de los mercados financieros.md",
-    "Tema 2. Estructura del mercado.md",
     "Tema 3. Indicadores macroeconómicos.md",
     "Módulo 2. Diagnóstico financiero.md",
     "Tema 4. Financiamiento a corto plazo.md",
