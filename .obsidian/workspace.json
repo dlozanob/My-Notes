@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "8581060225cc05ec",
+        "id": "3d5ed538b673d904",
         "type": "tabs",
         "children": [
           {
-            "id": "0a425e0cfc96e8b9",
+            "id": "e85b9b00184a3e8a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Servomecanismos.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -76,6 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Servomecanismos.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,6 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Servomecanismos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,7 +119,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Servomecanismos.md"
+              }
             }
           },
           {
@@ -163,8 +171,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0a425e0cfc96e8b9",
+  "active": "e85b9b00184a3e8a",
   "lastOpenFiles": [
+    "Linked note.md",
+    "attachments/Pasted image 20230328103327.png",
+    "testnote.md",
+    "CSS.md",
     "Estática de Fluidos.md",
     "Fundamentos de Mecánica de Fluidos.md",
     "Cinemática de Fluidos.md",
@@ -182,7 +194,6 @@
     "Excalidraw/attachments/Pasted Image 20230328072318_029.png",
     "attachments/Pasted image 20230328072136.png",
     "Excalidraw/attachments/Pasted Image 20230328072135_127.png",
-    "attachments/Pasted image 20230328072057.png",
     "Servomecanismos.md",
     "Assembly.md",
     "Main.md",
@@ -191,7 +202,6 @@
     "Excalidraw/blackboard.excalidraw.md",
     "LaTeX.md",
     "Verilog.md",
-    "CSS.md",
     "Ingeniería Electrónica.md",
     "Tema 2. Función de oferta y demanda.md",
     "Fórmulas Financieras Excel.md",
@@ -199,8 +209,6 @@
     "Tema 2. Análisis de estados financieros e indicadores financieros.md",
     "Módulo 1. Economía y matemática financiera.md",
     "Tema 4. Matemáticas financieras.md",
-    "Tema 3. Indicadores macroeconómicos.md",
-    "Tema 1. Economía.md",
     "Excalidraw/attachments",
     "attachments",
     "New folder",
