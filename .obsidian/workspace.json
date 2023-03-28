@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "8dcdc8d022521974",
+        "id": "8581060225cc05ec",
         "type": "tabs",
         "children": [
           {
-            "id": "567875e2a67e5460",
+            "id": "c58283c6d7335b18",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Servomecanismos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bea788da4f9a7817",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mecanismos.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +76,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mecanismos.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +92,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mecanismos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +113,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Mecanismos.md"
-              }
+              "state": {}
             }
           },
           {
@@ -184,12 +163,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bea788da4f9a7817",
+  "active": "c58283c6d7335b18",
   "lastOpenFiles": [
+    "Mecanismos.md",
+    "Servomecanismos.md",
     "attachments/Pasted image 20230327203727.png",
     "attachments/Pasted image 20230327203448.png",
-    "Servomecanismos.md",
-    "Mecanismos.md",
     "Assembly.md",
     "Main.md",
     "Cap. 3. Solución de las ecuaciones de estado de sistemas LTI.md",
@@ -205,7 +184,6 @@
     "attachments/Pasted image 20230327161215.png",
     "Excalidraw/attachments/Pasted Image 20230327161208_090.png",
     "attachments/Pasted image 20230327161133.png",
-    "Excalidraw/attachments/Pasted Image 20230327160725_388.png",
     "Verilog.md",
     "Electrónica Digital II.md",
     "CSS.md",

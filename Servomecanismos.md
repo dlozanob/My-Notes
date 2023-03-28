@@ -141,36 +141,6 @@ Se debe de tener en cuenta el conjunto de normas e informes técnicos _IEC 61131
 
 
 
-## Mecanismos
-
-El opuesto de 
-
-Tarea: electhronic gear
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Proyecto académico
 
 ![](attachments/Pasted%20image%2020230214095505.png)
