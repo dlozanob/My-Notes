@@ -128,7 +128,7 @@ Corrimiento a la izuierda
 
 $$
 \begin{align*}
-	2^{2} + 2
+	maxSaltoInst = \underbrace{ 2^{2} }_{ shiftLeft2 } *\underbrace{ 2^{16-1} }_{ SignExtend-signo+Significativo }
 \end{align*}
 $$
 
