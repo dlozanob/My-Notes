@@ -11,8 +11,22 @@
             "id": "c58283c6d7335b18",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Electrónica Digital II.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0a425e0cfc96e8b9",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/whiteboard.excalidraw.md"
+              }
             }
           }
         ]
@@ -76,6 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Electrónica Digital II.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,6 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Electrónica Digital II.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,7 +129,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Electrónica Digital II.md"
+              }
             }
           },
           {
@@ -165,6 +183,15 @@
   },
   "active": "c58283c6d7335b18",
   "lastOpenFiles": [
+    "attachments/Pasted image 20230328072136.png",
+    "Excalidraw/whiteboard.excalidraw.md",
+    "Excalidraw/attachments/Pasted Image 20230328072135_127.png",
+    "Electrónica Digital II.md",
+    "attachments/Pasted image 20230328072057.png",
+    "Excalidraw/attachments/Pasted Image 20230328072056_329.png",
+    "attachments/Pasted image 20230328072041.png",
+    "attachments/Pasted image 20230328071945.png",
+    "attachments/Pasted image 20230328071931.png",
     "Mecanismos.md",
     "Servomecanismos.md",
     "attachments/Pasted image 20230327203727.png",
@@ -177,15 +204,7 @@
     "attachments/Pasted image 20230327175239.png",
     "LaTeX.md",
     "Excalidraw/attachments/Pasted Image 20230327175232_152.png",
-    "attachments/Pasted image 20230327172706.png",
-    "attachments/Pasted image 20230327172658.png",
-    "attachments/Pasted image 20230327172558.png",
-    "Excalidraw/whiteboard.excalidraw.md",
-    "attachments/Pasted image 20230327161215.png",
-    "Excalidraw/attachments/Pasted Image 20230327161208_090.png",
-    "attachments/Pasted image 20230327161133.png",
     "Verilog.md",
-    "Electrónica Digital II.md",
     "CSS.md",
     "Ingeniería Electrónica.md",
     "Tema 2. Función de oferta y demanda.md",
