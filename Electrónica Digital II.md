@@ -120,11 +120,17 @@ Este set debe ser definido de acuerdo a las instrucciones que se consideren más
 Cada instrucción es identificada por un opcode:
 
 
+# clase
+
+Corrimiento a la izuierda
 
 
 
-
-
+$$
+\begin{align*}
+	2^{2} + 2
+\end{align*}
+$$
 
 
 
