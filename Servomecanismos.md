@@ -143,7 +143,7 @@ Se debe de tener en cuenta el conjunto de normas e informes técnicos _IEC 61131
 
 ## Mecanismos
 
-El opuesto de tracking es regulación
+El opuesto de 
 
 Tarea: electhronic gear
 
