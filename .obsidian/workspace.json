@@ -136,7 +136,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: black",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -165,6 +165,11 @@
   },
   "active": "0a425e0cfc96e8b9",
   "lastOpenFiles": [
+    "Estática de Fluidos.md",
+    "Fundamentos de Mecánica de Fluidos.md",
+    "Cinemática de Fluidos.md",
+    "Propiedades de los Fluidos.md",
+    "Mecanismos.md",
     "Excalidraw/whiteboard.excalidraw.md",
     "Electrónica Digital II.md",
     "attachments/Pasted image 20230328075731.png",
@@ -178,7 +183,6 @@
     "attachments/Pasted image 20230328072136.png",
     "Excalidraw/attachments/Pasted Image 20230328072135_127.png",
     "attachments/Pasted image 20230328072057.png",
-    "Mecanismos.md",
     "Servomecanismos.md",
     "Assembly.md",
     "Main.md",
@@ -197,9 +201,6 @@
     "Tema 4. Matemáticas financieras.md",
     "Tema 3. Indicadores macroeconómicos.md",
     "Tema 1. Economía.md",
-    "Finanzas.md",
-    "Tema 1. Composición y estructura del balance general, estado de resultados y flujo de caja neto.md",
-    "Tema 1. Composición y estructura del balance general%2C estado de resultados y flujo de caja neto.md",
     "Excalidraw/attachments",
     "attachments",
     "New folder",
