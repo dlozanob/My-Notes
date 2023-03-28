@@ -59,13 +59,21 @@ Los _derivados financieros_ surgen de los anteriores ejemplos. Estos se consider
 	- Compensa cheques
 
 
+## Sistemas de negociación y registro
 
 - _Sistemas de negociación de valores_
 	- Son mecanismos de negociación
 - _Sistemas de registro de operaciones sobre valores_
 	- Son mecanismos de registro de transacciones en el mercao OTC
-	- _OTC (Over The Counter)_ : Es un mercado financiero donde los participantes negocian sin intermediarios y de manera privada
+	- _OTC (Over The Counter)_
+		- Es un mercado financiero donde los participantes negocian sin intermediarios y de manera privada
+		- Supone un mayor riesgo a cambio de rapidez y privacidad
 
+Sus objetivos son:
+- Llevar el registro de los afiliados
+- Llevar el registro de los valores
+- Llevar el registro de mensajes y avisos
+- Adoptar mecanismos para la compensación y la liquidación
 
 
 

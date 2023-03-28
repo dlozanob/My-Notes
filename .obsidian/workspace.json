@@ -20,6 +20,24 @@
             }
           }
         ]
+      },
+      {
+        "id": "c3b6ac4d03f301d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "70fa37da439bd3b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tema 1. Infraestructura de los mercados financieros.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -63,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "8cf20f15e2d652f4",
@@ -80,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tema 2. Estructura del mercado.md",
+                "file": "Tema 1. Infraestructura de los mercados financieros.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tema 2. Estructura del mercado.md",
+                "file": "Tema 1. Infraestructura de los mercados financieros.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tema 2. Estructura del mercado.md"
+                "file": "Tema 1. Infraestructura de los mercados financieros.md"
               }
             }
           },
@@ -146,7 +165,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"banco central\"",
+                "query": "sfc",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -173,11 +192,11 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "15b454363de2e734",
+  "active": "abed2df76f33d216",
   "lastOpenFiles": [
-    "Tema 3. Indicadores macroeconómicos.md",
-    "Tema 2. Estructura del mercado.md",
     "Módulo 3. Introducción al mercado de capitales.md",
+    "Tema 2. Estructura del mercado.md",
+    "Tema 3. Indicadores macroeconómicos.md",
     "Finanzas.md",
     "Tema 1. Infraestructura de los mercados financieros.md",
     "Módulo 2. Diagnóstico financiero.md",
