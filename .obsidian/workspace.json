@@ -8,25 +8,11 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c58283c6d7335b18",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Electrónica Digital II.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "0a425e0cfc96e8b9",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/whiteboard.excalidraw.md"
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -90,7 +76,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electrónica Digital II.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +92,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electrónica Digital II.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,9 +113,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Electrónica Digital II.md"
-              }
+              "state": {}
             }
           },
           {
@@ -181,13 +163,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c58283c6d7335b18",
+  "active": "0a425e0cfc96e8b9",
   "lastOpenFiles": [
-    "attachments/Pasted image 20230328075731.png",
     "Excalidraw/whiteboard.excalidraw.md",
+    "Electrónica Digital II.md",
+    "attachments/Pasted image 20230328075731.png",
     "Obsidian Basics.md",
     "Excalidraw/attachments/Pasted Image 20230328075641_121.png",
-    "Electrónica Digital II.md",
     "attachments/Pasted image 20230328072355.png",
     "Excalidraw/attachments/Pasted Image 20230328072351_121.png",
     "attachments/Pasted image 20230328072343.png",
@@ -196,7 +178,6 @@
     "attachments/Pasted image 20230328072136.png",
     "Excalidraw/attachments/Pasted Image 20230328072135_127.png",
     "attachments/Pasted image 20230328072057.png",
-    "Excalidraw/attachments/Pasted Image 20230328072056_329.png",
     "Mecanismos.md",
     "Servomecanismos.md",
     "Assembly.md",
