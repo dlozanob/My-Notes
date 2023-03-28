@@ -13,10 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Servomecanismos.md",
-                "mode": "preview",
+                "file": "Linked note.md",
+                "mode": "source",
                 "source": false
               }
+            }
+          }
+        ]
+      },
+      {
+        "id": "107a143aec4f6a5d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "06ab8e38130aa9fc",
+            "type": "leaf",
+            "state": {
+              "type": "reveal-preview-view",
+              "state": {}
             }
           }
         ]
@@ -80,8 +94,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Servomecanismos.md",
-                "collapseAll": true,
+                "file": "Linked note.md",
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -97,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Servomecanismos.md",
+                "file": "Linked note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Servomecanismos.md"
+                "file": "Linked note.md"
               }
             }
           },
@@ -168,11 +182,15 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
   "active": "e85b9b00184a3e8a",
   "lastOpenFiles": [
+    "Obsidian Basics.md",
+    "Main.md",
+    "Servomecanismos.md",
     "Linked note.md",
     "attachments/Pasted image 20230328103327.png",
     "testnote.md",
@@ -185,7 +203,6 @@
     "Excalidraw/whiteboard.excalidraw.md",
     "Electrónica Digital II.md",
     "attachments/Pasted image 20230328075731.png",
-    "Obsidian Basics.md",
     "Excalidraw/attachments/Pasted Image 20230328075641_121.png",
     "attachments/Pasted image 20230328072355.png",
     "Excalidraw/attachments/Pasted Image 20230328072351_121.png",
@@ -194,9 +211,7 @@
     "Excalidraw/attachments/Pasted Image 20230328072318_029.png",
     "attachments/Pasted image 20230328072136.png",
     "Excalidraw/attachments/Pasted Image 20230328072135_127.png",
-    "Servomecanismos.md",
     "Assembly.md",
-    "Main.md",
     "Cap. 3. Solución de las ecuaciones de estado de sistemas LTI.md",
     "Señales y Sistemas II.md",
     "Excalidraw/blackboard.excalidraw.md",
