@@ -49,22 +49,23 @@ Procedimiento:
 3.  Definición de la arquitectura
 4.  Definición de la unidad de control (diagrama de estados)
 
+
+### Diagrama de caja negra
+
+Representa la arquitectura como sistema, donde solo se tiene en cuenta la parte externa (entradas y salidas)
+
 ![](attachments/Pasted%20image%2020230328072136.png)
 
 
 ### Representación de la arquitectura
 
 Se divide en:
-
 -   _Datapath_ :
-    
     -   Determina los componentes o conjuntos de instrucciones que conforma la arquitectura (_ISA_, Instruction Set Architecture)
 -   _Unidad de control_
-    
     -   Determina el comportamiento del programa mediante su cambio de estados. Coordina las operaciones del datapath
 
 Pasos:
-
 1.  Definir la arquitectura del Datapath: Seleccionar el grupo de instrucciones que integra la aplicación
 2.  Definir la unidad de control: Identificar la secuencia de operaciones del set de instrucciones
 
@@ -85,13 +86,13 @@ La arquitectura básica de un controlador es la siguiente:
 ### Ciclo de instrucción
 
 1. _Instruction Fetch_
-  - El procesador manda una dirección a la unidad de memoria para encontrar la instrucción solicitada
-2. _Decode_
-  - La instrucción es traducida desde su _opcode_ a la tarea que debe realizar
-3. _Data Fetch_
-  - Se toman los datos de la memoria para utilizarlos en la tarea
-4. _Execution_
-  - Se ejecuta, dispone y guarda el resultado
+	  - El procesador manda una dirección a la unidad de memoria para encontrar la instrucción solicitada
+1. _Decode_
+	  - La instrucción es traducida desde su _opcode_ a la tarea que debe realizar
+1. _Data Fetch_
+	  - Se toman los datos de la memoria para utilizarlos en la tarea
+1. _Execution_
+	  - Se ejecuta, dispone y guarda el resultado
 
 
 ### Abstracción
@@ -123,9 +124,6 @@ Cada instrucción es identificada por un opcode:
 
 
 
-### Diagrama de caja negra
-
-Representa la arquitectura como sistema, donde solo se tiene en cuenta la parte externa (entradas y salidas)
 
 
 
