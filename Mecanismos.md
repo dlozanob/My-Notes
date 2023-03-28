@@ -268,6 +268,11 @@ Notar que el elemento $2$ es un eslabón cuaternario.
 >
 >![](attachments/Pasted%20image%2020230211173210.png)
 
+>[!Note]
+>- $M \geq 1$ : Mecanismo
+>- $M = 0$ : Estructura
+>- $M = -1$ : Estructura estáticamente indeterminada
+
 
 ### Casos en los que Grübler no funciona
 
