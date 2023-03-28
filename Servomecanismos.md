@@ -38,7 +38,7 @@ Es un sistema que integra los mundos digital y físico mediante redes de comunic
 
 Un _gemelo digital_ es un modelo virtual que simula un sistema físico en tiempo real con ayuda de sensores. Uno de los programas que permiten modelar estos sistemas son Siemens NX - MCD.
 
-El controlador se comunica con el gemelo digital mediante el protocolo _OPC_ (O P Communi)
+El controlador se comunica con el gemelo digital mediante el protocolo _OPC_ (Open Platform Communications), el cual es un estándar para la comunicación de máquinas en automatización
 
 
 
