@@ -28,6 +28,18 @@
                 "file": "Excalidraw/whiteboard.excalidraw.md"
               }
             }
+          },
+          {
+            "id": "ae0b56c6eb2c5601",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian Basics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -183,27 +195,27 @@
   },
   "active": "c58283c6d7335b18",
   "lastOpenFiles": [
-    "attachments/Pasted image 20230328072136.png",
-    "Excalidraw/whiteboard.excalidraw.md",
-    "Excalidraw/attachments/Pasted Image 20230328072135_127.png",
+    "Obsidian Basics.md",
     "Electrónica Digital II.md",
+    "attachments/Pasted image 20230328072355.png",
+    "Excalidraw/whiteboard.excalidraw.md",
+    "Excalidraw/attachments/Pasted Image 20230328072351_121.png",
+    "attachments/Pasted image 20230328072343.png",
+    "attachments/Pasted image 20230328072319.png",
+    "Excalidraw/attachments/Pasted Image 20230328072318_029.png",
+    "attachments/Pasted image 20230328072136.png",
+    "Excalidraw/attachments/Pasted Image 20230328072135_127.png",
     "attachments/Pasted image 20230328072057.png",
     "Excalidraw/attachments/Pasted Image 20230328072056_329.png",
     "attachments/Pasted image 20230328072041.png",
-    "attachments/Pasted image 20230328071945.png",
-    "attachments/Pasted image 20230328071931.png",
     "Mecanismos.md",
     "Servomecanismos.md",
-    "attachments/Pasted image 20230327203727.png",
-    "attachments/Pasted image 20230327203448.png",
     "Assembly.md",
     "Main.md",
     "Cap. 3. Solución de las ecuaciones de estado de sistemas LTI.md",
     "Señales y Sistemas II.md",
     "Excalidraw/blackboard.excalidraw.md",
-    "attachments/Pasted image 20230327175239.png",
     "LaTeX.md",
-    "Excalidraw/attachments/Pasted Image 20230327175232_152.png",
     "Verilog.md",
     "CSS.md",
     "Ingeniería Electrónica.md",

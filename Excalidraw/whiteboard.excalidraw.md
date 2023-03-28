@@ -10,7 +10,7 @@ tags: [excalidraw]
 # Text Elements
 
 # Embedded files
-bf159b7682c305ba1f9f3488cf10161d317eeafa: [[attachments/Pasted Image 20230328072135_127.png]]
+93a7727b986d055bfa6702ea8614e93c3fde0019: [[attachments/Pasted Image 20230328072351_121.png]]
 
 %%
 # Drawing
@@ -20,6 +20,70 @@ bf159b7682c305ba1f9f3488cf10161d317eeafa: [[attachments/Pasted Image 20230328072
 	"version": 2,
 	"source": "https://excalidraw.com",
 	"elements": [
+		{
+			"id": "-qSyVHdJy0pdVRF5Byv6q",
+			"type": "image",
+			"x": -240,
+			"y": 7.5,
+			"width": 237.2567049808429,
+			"height": 226,
+			"angle": 0,
+			"strokeColor": "transparent",
+			"backgroundColor": "#121212",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 1494954719,
+			"version": 35,
+			"versionNonce": 691778161,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1680006232651,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "93a7727b986d055bfa6702ea8614e93c3fde0019",
+			"scale": [
+				1,
+				1
+			]
+		},
+		{
+			"id": "-E8w4XMgxPN86oH15c6yR",
+			"type": "image",
+			"x": -182.88010899182564,
+			"y": -161.74530271398748,
+			"width": 350.7602179836513,
+			"height": 268.7453027139875,
+			"angle": 0,
+			"strokeColor": "transparent",
+			"backgroundColor": "#121212",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 2112250385,
+			"version": 52,
+			"versionNonce": 830988991,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1680006227858,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "fe489039c690a17e9330edb234818a3d6bcb04ae",
+			"scale": [
+				1,
+				1
+			]
+		},
 		{
 			"id": "r6JgIZc38aViqLLQO6HvY",
 			"type": "image",
@@ -38,11 +102,11 @@ bf159b7682c305ba1f9f3488cf10161d317eeafa: [[attachments/Pasted Image 20230328072
 			"groupIds": [],
 			"roundness": null,
 			"seed": 452523729,
-			"version": 73,
-			"versionNonce": 1958528831,
-			"isDeleted": false,
+			"version": 74,
+			"versionNonce": 490702687,
+			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1680006093177,
+			"updated": 1680006191625,
 			"link": null,
 			"locked": false,
 			"status": "pending",
