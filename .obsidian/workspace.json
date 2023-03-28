@@ -23,15 +23,14 @@
             "id": "a6fd2107d0309302",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Obsidian Basics.md",
-                "mode": "preview",
-                "source": false
+                "file": "Excalidraw/blackboard.excalidraw.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electrónica Digital II.md",
+                "file": "Excalidraw/blackboard.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electrónica Digital II.md",
+                "file": "Excalidraw/blackboard.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Electrónica Digital II.md"
+                "file": "Excalidraw/blackboard.excalidraw.md"
               }
             }
           },
@@ -186,11 +185,13 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "a18df9d07a68477b",
+  "active": "a6fd2107d0309302",
   "lastOpenFiles": [
-    "Verilog.md",
     "Electrónica Digital II.md",
+    "Excalidraw/blackboard.excalidraw.md",
+    "attachments/Pasted image 20230328143842.png",
     "Obsidian Basics.md",
+    "Verilog.md",
     "Server communication.md",
     "Tema 2. Estructura del mercado.md",
     "Finanzas.md",
@@ -213,8 +214,6 @@
     "Main.md",
     "Servomecanismos.md",
     "attachments/Pasted image 20230328103327.png",
-    "testnote.md",
-    "CSS.md",
     "attachments/Pasted image 20230328075731.png",
     "Excalidraw/attachments/Pasted Image 20230328075641_121.png",
     "attachments/Pasted image 20230328072355.png",
@@ -223,7 +222,6 @@
     "attachments/Pasted image 20230328072319.png",
     "Excalidraw/attachments/Pasted Image 20230328072318_029.png",
     "attachments/Pasted image 20230328072136.png",
-    "Excalidraw/attachments/Pasted Image 20230328072135_127.png",
     "Excalidraw/attachments",
     "attachments",
     "New folder",

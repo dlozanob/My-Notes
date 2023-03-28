@@ -42,7 +42,7 @@ Procedimiento:
 1.  Diagrama de caja negra
 2.  Diagrama de flujo
 3.  Definición de la arquitectura
-4.  Definición de la unidad de control (diagrama de estados)
+4.  Definición de la unidad de control (es una máquina de estados finita (FSM))
 
 
 ### Diagrama de caja negra
@@ -55,7 +55,7 @@ Representa la arquitectura como sistema, donde solo se tiene en cuenta la parte 
 ### Representación de la arquitectura
 
 Se divide en:
--   _Datapath_ :
+-   _Datapath_
     -   Determina los componentes o conjuntos de instrucciones que conforma la arquitectura (_ISA_, Instruction Set Architecture)
 -   _Unidad de control_
     -   Determina el comportamiento del programa mediante su cambio de estados. Coordina las operaciones del datapath
@@ -80,13 +80,15 @@ La arquitectura básica de un controlador es la siguiente:
 
 ### Ciclo de instrucción
 
+La unidad de control realiza los siguientes pasos para la ejecución de una instrucción:
+
 1. _Instruction Fetch_
 	  - El procesador manda una dirección a la unidad de memoria para encontrar la instrucción solicitada
-1. _Decode_
+2. _Decode_
 	  - La instrucción es traducida desde su _opcode_ a la tarea que debe realizar
-1. _Data Fetch_
+3. _Data Fetch_
 	  - Se toman los datos de la memoria para utilizarlos en la tarea
-1. _Execution_
+4. _Execution_
 	  - Se ejecuta, dispone y guarda el resultado
 
 
@@ -110,11 +112,23 @@ Es el conjunto de instrucciones guardadas en memoria que puede realizar el contr
 Este set debe ser definido de acuerdo a las instrucciones que se consideren más generales para garantizar libertad de diseño. Un set de instrucciones reducido hace más rápido el sistema.
 
 >[!Note]
-> Algunas arquitecturas son basadas en pilas, otras en registros
+> - El $90 \%$ de procesadores son basados en registros, el $10\%$ son basados en pilas
+> - Los basados en registros suelen ser más rápidos
 
-Cada instrucción es identificada por un opcode: 
+Cada instrucción es identificada por un _opcode_ (código de operación) : `<mnemónico> <operandos>`. E.g.: `add $s0, $s1, $s2`
+
+Estos requieren de 0 a 3 operandos.
+
+>[!Info]
+> El $50\%$ de procesadores no tienen multiplicador, por lo que esta tarea es hecha por software
+
+- __Ejemplo__ :
+
+![](attachments/Pasted%20image%2020230328143842.png)
 
 
+>[!Info]
+>El compilador universal de C es _gcc_
 
 
 

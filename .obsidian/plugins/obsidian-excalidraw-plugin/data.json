@@ -69,7 +69,7 @@
   "library2": {
     "type": "excalidrawlib",
     "version": 2,
-    "source": "https://excalidraw.com",
+    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.8.21",
     "libraryItems": [
       {
         "status": "published",
@@ -199,11 +199,11 @@
             "fontFamily": 1,
             "text": "-5   -4    -3   -2   -1   0      1    2     3    4    5",
             "rawText": "",
-            "baseline": 14,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "-5   -4    -3   -2   -1   0      1    2     3    4    5"
+            "originalText": "-5   -4    -3   -2   -1   0      1    2     3    4    5",
+            "lineHeight": 1.25
           },
           {
             "type": "text",
@@ -236,11 +236,11 @@
             "fontFamily": 1,
             "text": "5\n\n4\n\n3\n\n2\n\n1   \n\n0\n\n\n-1\n\n-2\n\n-3\n\n-4\n\n-5",
             "rawText": "",
-            "baseline": 442.33333333333337,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "5\n\n4\n\n3\n\n2\n\n1   \n\n0\n\n\n-1\n\n-2\n\n-3\n\n-4\n\n-5"
+            "originalText": "5\n\n4\n\n3\n\n2\n\n1   \n\n0\n\n\n-1\n\n-2\n\n-3\n\n-4\n\n-5",
+            "lineHeight": 1.2499999999999996
           },
           {
             "type": "line",
@@ -1138,11 +1138,11 @@
             "fontFamily": 1,
             "text": "x",
             "rawText": "",
-            "baseline": 18,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "x"
+            "originalText": "x",
+            "lineHeight": 1.25
           },
           {
             "type": "text",
@@ -1180,11 +1180,11 @@
             "fontFamily": 1,
             "text": "y",
             "rawText": "",
-            "baseline": 18,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "y"
+            "originalText": "y",
+            "lineHeight": 1.25
           }
         ],
         "id": "l9cXGiz_dQPDMRBQfvCHl",
@@ -1383,11 +1383,11 @@
             "fontFamily": 1,
             "text": "-5   -4    -3   -2   -1   0      1    2     3    4    5",
             "rawText": "",
-            "baseline": 14,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "-5   -4    -3   -2   -1   0      1    2     3    4    5"
+            "originalText": "-5   -4    -3   -2   -1   0      1    2     3    4    5",
+            "lineHeight": 1.25
           },
           {
             "type": "text",
@@ -1420,11 +1420,11 @@
             "fontFamily": 1,
             "text": "5\n\n4\n\n3\n\n2\n\n1   \n\n0\n\n\n-1\n\n-2\n\n-3\n\n-4\n\n-5",
             "rawText": "",
-            "baseline": 442.33333333333337,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "5\n\n4\n\n3\n\n2\n\n1   \n\n0\n\n\n-1\n\n-2\n\n-3\n\n-4\n\n-5"
+            "originalText": "5\n\n4\n\n3\n\n2\n\n1   \n\n0\n\n\n-1\n\n-2\n\n-3\n\n-4\n\n-5",
+            "lineHeight": 1.2499999999999996
           },
           {
             "type": "line",
@@ -2322,11 +2322,11 @@
             "fontFamily": 1,
             "text": "x",
             "rawText": "",
-            "baseline": 18,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "x"
+            "originalText": "x",
+            "lineHeight": 1.25
           },
           {
             "type": "text",
@@ -2364,11 +2364,11 @@
             "fontFamily": 1,
             "text": "y",
             "rawText": "",
-            "baseline": 18,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "y"
+            "originalText": "y",
+            "lineHeight": 1.25
           }
         ],
         "id": "0F4vbpZF3RoNMKF0ahxEJ",
@@ -2948,11 +2948,11 @@
             "fontFamily": 1,
             "text": "-5   -4   -3  -2   -1   0    1    2   3   4    5",
             "rawText": "",
-            "baseline": 14,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "-5   -4   -3  -2   -1   0    1    2   3   4    5"
+            "originalText": "-5   -4   -3  -2   -1   0    1    2   3   4    5",
+            "lineHeight": 1.25
           }
         ],
         "id": "tbEQodw_eVx6OA2POnIkv",
@@ -8438,11 +8438,11 @@
             "fontFamily": 3,
             "text": "VPN",
             "rawText": "",
-            "baseline": 16.43566399671241,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "VPN"
+            "originalText": "VPN",
+            "lineHeight": 1.2483992393150807
           }
         ],
         "id": "Ljp0lYo0daI313HM5Lb0e",
@@ -11664,11 +11664,11 @@
             "fontFamily": 1,
             "text": "Bar",
             "rawText": "",
-            "baseline": 23,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Bar"
+            "originalText": "Bar",
+            "lineHeight": 1.6
           },
           {
             "type": "rectangle",
@@ -12056,11 +12056,11 @@
             "fontFamily": 1,
             "text": "Stacked bar",
             "rawText": "",
-            "baseline": 23,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Stacked bar"
+            "originalText": "Stacked bar",
+            "lineHeight": 1.6
           },
           {
             "type": "line",
@@ -12778,11 +12778,11 @@
             "fontFamily": 1,
             "text": "100% stacked bar",
             "rawText": "",
-            "baseline": 23,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "100% stacked bar"
+            "originalText": "100% stacked bar",
+            "lineHeight": 1.6
           },
           {
             "type": "line",
@@ -13500,11 +13500,11 @@
             "fontFamily": 1,
             "text": "Grouped bar",
             "rawText": "",
-            "baseline": 23,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Grouped bar"
+            "originalText": "Grouped bar",
+            "lineHeight": 1.6
           },
           {
             "type": "line",
@@ -13886,11 +13886,11 @@
             "fontFamily": 1,
             "text": "Column",
             "rawText": "",
-            "baseline": 23,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Column"
+            "originalText": "Column",
+            "lineHeight": 1.6
           },
           {
             "type": "rectangle",
@@ -14514,11 +14514,11 @@
             "fontFamily": 1,
             "text": "Stacked Column",
             "rawText": "",
-            "baseline": 23,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Stacked Column"
+            "originalText": "Stacked Column",
+            "lineHeight": 1.6
           },
           {
             "type": "rectangle",
@@ -15173,11 +15173,11 @@
             "fontFamily": 1,
             "text": "100% Stacked Column",
             "rawText": "",
-            "baseline": 23,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "100% Stacked Column"
+            "originalText": "100% Stacked Column",
+            "lineHeight": 1.6
           },
           {
             "type": "rectangle",
@@ -15739,11 +15739,11 @@
             "fontFamily": 1,
             "text": "Grouped Column",
             "rawText": "",
-            "baseline": 23,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Grouped Column"
+            "originalText": "Grouped Column",
+            "lineHeight": 1.6
           },
           {
             "type": "rectangle",
@@ -16386,11 +16386,11 @@
             "fontFamily": 1,
             "text": "Line",
             "rawText": "",
-            "baseline": 23,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Line"
+            "originalText": "Line",
+            "lineHeight": 1.6
           },
           {
             "type": "line",
@@ -16844,11 +16844,11 @@
             "fontFamily": 1,
             "text": "Line",
             "rawText": "",
-            "baseline": 23,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Line"
+            "originalText": "Line",
+            "lineHeight": 1.6
           },
           {
             "type": "ellipse",
@@ -17498,11 +17498,11 @@
             "fontFamily": 1,
             "text": "Area",
             "rawText": "",
-            "baseline": 23,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Area"
+            "originalText": "Area",
+            "lineHeight": 1.6
           },
           {
             "type": "line",
@@ -17871,11 +17871,11 @@
             "fontFamily": 1,
             "text": "Stacked area",
             "rawText": "",
-            "baseline": 23,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Stacked area"
+            "originalText": "Stacked area",
+            "lineHeight": 1.6
           },
           {
             "type": "line",
@@ -18321,11 +18321,11 @@
             "fontFamily": 1,
             "text": "100 %Stacked area",
             "rawText": "",
-            "baseline": 23,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "100 %Stacked area"
+            "originalText": "100 %Stacked area",
+            "lineHeight": 1.6
           },
           {
             "type": "line",
@@ -18887,11 +18887,11 @@
             "fontFamily": 1,
             "text": "ThemeRiver",
             "rawText": "",
-            "baseline": 23,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "ThemeRiver"
+            "originalText": "ThemeRiver",
+            "lineHeight": 1.6
           },
           {
             "type": "line",
@@ -19477,11 +19477,11 @@
             "fontFamily": 1,
             "text": "Scatter",
             "rawText": "",
-            "baseline": 23,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Scatter"
+            "originalText": "Scatter",
+            "lineHeight": 1.6
           },
           {
             "type": "ellipse",
@@ -20658,11 +20658,11 @@
             "fontFamily": 1,
             "text": "Bubble",
             "rawText": "",
-            "baseline": 23,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Bubble"
+            "originalText": "Bubble",
+            "lineHeight": 1.6
           }
         ],
         "id": "_6shmNAE93q4KSHgSnSGp",
@@ -20747,11 +20747,11 @@
             "fontFamily": 1,
             "text": "Cartiesan heatmap",
             "rawText": "",
-            "baseline": 23,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Cartiesan heatmap"
+            "originalText": "Cartiesan heatmap",
+            "lineHeight": 1.6
           },
           {
             "type": "rectangle",
@@ -32294,11 +32294,11 @@
             "fontFamily": 1,
             "text": "Calendar heatmap",
             "rawText": "",
-            "baseline": 23,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Calendar heatmap"
+            "originalText": "Calendar heatmap",
+            "lineHeight": 1.6
           },
           {
             "type": "rectangle",
@@ -38784,11 +38784,11 @@
             "fontFamily": 1,
             "text": "Tree Map",
             "rawText": "",
-            "baseline": 23,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Tree Map"
+            "originalText": "Tree Map",
+            "lineHeight": 1.6
           }
         ],
         "id": "8IEil3COjD9nwmQ8_5p9b",
@@ -38974,11 +38974,11 @@
             "fontFamily": 1,
             "text": "Waterfall",
             "rawText": "",
-            "baseline": 23,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Waterfall"
+            "originalText": "Waterfall",
+            "lineHeight": 1.6
           },
           {
             "type": "rectangle",
@@ -39359,11 +39359,11 @@
             "fontFamily": 1,
             "text": "item 1",
             "rawText": "",
-            "baseline": 23,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "item 1"
+            "originalText": "item 1",
+            "lineHeight": 1.6
           },
           {
             "type": "text",
@@ -39396,11 +39396,11 @@
             "fontFamily": 1,
             "text": "item 2",
             "rawText": "",
-            "baseline": 23,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "item 2"
+            "originalText": "item 2",
+            "lineHeight": 1.6
           },
           {
             "type": "text",
@@ -39433,11 +39433,11 @@
             "fontFamily": 1,
             "text": "item 3",
             "rawText": "",
-            "baseline": 23,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "item 3"
+            "originalText": "item 3",
+            "lineHeight": 1.6
           },
           {
             "type": "rectangle",
@@ -39498,11 +39498,11 @@
             "fontFamily": 1,
             "text": "item 4",
             "rawText": "",
-            "baseline": 23,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "item 4"
+            "originalText": "item 4",
+            "lineHeight": 1.6
           }
         ],
         "id": "Kt1LleVzJWuFKISz8VI04",
@@ -39632,11 +39632,11 @@
             "fontFamily": 1,
             "text": "Dot\\strip plot",
             "rawText": "",
-            "baseline": 23,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Dot\\strip plot"
+            "originalText": "Dot\\strip plot",
+            "lineHeight": 1.6
           },
           {
             "type": "ellipse",
@@ -40102,11 +40102,11 @@
             "fontFamily": 1,
             "text": "Dot (multi-strip) plot",
             "rawText": "",
-            "baseline": 23,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Dot (multi-strip) plot"
+            "originalText": "Dot (multi-strip) plot",
+            "lineHeight": 1.6
           },
           {
             "type": "ellipse",
@@ -41188,11 +41188,11 @@
             "fontFamily": 1,
             "text": "Dot (multi-strip with jitter) plot",
             "rawText": "",
-            "baseline": 23,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Dot (multi-strip with jitter) plot"
+            "originalText": "Dot (multi-strip with jitter) plot",
+            "lineHeight": 1.6
           },
           {
             "type": "ellipse",
@@ -44766,11 +44766,11 @@
             "fontFamily": 1,
             "text": "Column Histogram",
             "rawText": "",
-            "baseline": 23,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Column Histogram"
+            "originalText": "Column Histogram",
+            "lineHeight": 1.6
           },
           {
             "type": "rectangle",
@@ -45236,11 +45236,11 @@
             "fontFamily": 1,
             "text": "Population pyrimid",
             "rawText": "",
-            "baseline": 23,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Population pyrimid"
+            "originalText": "Population pyrimid",
+            "lineHeight": 1.6
           },
           {
             "type": "rectangle",
@@ -46111,11 +46111,11 @@
             "fontFamily": 1,
             "text": "Density plot",
             "rawText": "",
-            "baseline": 23,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Density plot"
+            "originalText": "Density plot",
+            "lineHeight": 1.6
           },
           {
             "type": "line",
@@ -46326,11 +46326,11 @@
             "fontFamily": 1,
             "text": "Box & Whisker",
             "rawText": "",
-            "baseline": 23,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Box & Whisker"
+            "originalText": "Box & Whisker",
+            "lineHeight": 1.6
           },
           {
             "type": "line",
@@ -47404,11 +47404,11 @@
             "fontFamily": 1,
             "text": "Violin",
             "rawText": "",
-            "baseline": 23,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Violin"
+            "originalText": "Violin",
+            "lineHeight": 1.6
           }
         ],
         "id": "-ubQTeqUPveHn_XQuRIRm",
@@ -47720,11 +47720,11 @@
             "fontFamily": 1,
             "text": "Pie",
             "rawText": "",
-            "baseline": 23,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Pie"
+            "originalText": "Pie",
+            "lineHeight": 1.6
           }
         ],
         "id": "fCqnnV5yaisZowZsAK_9o",
@@ -47764,11 +47764,11 @@
             "fontFamily": 1,
             "text": "Donut",
             "rawText": "",
-            "baseline": 23,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Donut"
+            "originalText": "Donut",
+            "lineHeight": 1.6
           },
           {
             "type": "line",
@@ -48256,11 +48256,11 @@
             "fontFamily": 1,
             "text": "Polar - Area\\Coxcomb (The Florence Nightinglae chart)",
             "rawText": "",
-            "baseline": 23,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Polar - Area\\Coxcomb (The Florence Nightinglae chart)"
+            "originalText": "Polar - Area\\Coxcomb (The Florence Nightinglae chart)",
+            "lineHeight": 1.6
           },
           {
             "type": "line",
@@ -49277,11 +49277,11 @@
             "fontFamily": 1,
             "text": "Jan",
             "rawText": "",
-            "baseline": 17,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Jan"
+            "originalText": "Jan",
+            "lineHeight": 1.5947368421052623
           },
           {
             "type": "text",
@@ -49314,11 +49314,11 @@
             "fontFamily": 1,
             "text": "Feb",
             "rawText": "",
-            "baseline": 17,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Feb"
+            "originalText": "Feb",
+            "lineHeight": 1.5947368421052623
           },
           {
             "type": "text",
@@ -49351,11 +49351,11 @@
             "fontFamily": 1,
             "text": "Mar",
             "rawText": "",
-            "baseline": 17,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Mar"
+            "originalText": "Mar",
+            "lineHeight": 1.5947368421052623
           },
           {
             "type": "text",
@@ -49388,11 +49388,11 @@
             "fontFamily": 1,
             "text": "Apr",
             "rawText": "",
-            "baseline": 17,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Apr"
+            "originalText": "Apr",
+            "lineHeight": 1.5947368421052623
           },
           {
             "type": "text",
@@ -49425,11 +49425,11 @@
             "fontFamily": 1,
             "text": "May",
             "rawText": "",
-            "baseline": 17,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "May"
+            "originalText": "May",
+            "lineHeight": 1.5947368421052623
           }
         ],
         "id": "C-izyvlmbmkNYn5v3SZK_",
@@ -51396,11 +51396,11 @@
             "fontFamily": 1,
             "text": "label 2",
             "rawText": "",
-            "baseline": 23,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "label 2"
+            "originalText": "label 2",
+            "lineHeight": 1.6
           },
           {
             "type": "text",
@@ -51433,11 +51433,11 @@
             "fontFamily": 1,
             "text": "label 3",
             "rawText": "",
-            "baseline": 23,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "label 3"
+            "originalText": "label 3",
+            "lineHeight": 1.6
           },
           {
             "type": "text",
@@ -51470,11 +51470,11 @@
             "fontFamily": 1,
             "text": "label 4",
             "rawText": "",
-            "baseline": 23,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "label 4"
+            "originalText": "label 4",
+            "lineHeight": 1.6
           },
           {
             "type": "text",
@@ -51507,11 +51507,11 @@
             "fontFamily": 1,
             "text": "label 5",
             "rawText": "",
-            "baseline": 23,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "label 5"
+            "originalText": "label 5",
+            "lineHeight": 1.6
           },
           {
             "type": "text",
@@ -51544,11 +51544,11 @@
             "fontFamily": 1,
             "text": "label 6",
             "rawText": "",
-            "baseline": 23,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "label 6"
+            "originalText": "label 6",
+            "lineHeight": 1.6
           },
           {
             "type": "text",
@@ -51581,11 +51581,11 @@
             "fontFamily": 1,
             "text": "label 1",
             "rawText": "",
-            "baseline": 23,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "label 1"
+            "originalText": "label 1",
+            "lineHeight": 1.6
           },
           {
             "type": "text",
@@ -51618,11 +51618,11 @@
             "fontFamily": 1,
             "text": "Radar (spider)",
             "rawText": "",
-            "baseline": 23,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Radar (spider)"
+            "originalText": "Radar (spider)",
+            "lineHeight": 1.6
           }
         ],
         "id": "VDCgymVgBj_W1gL_4yXD0",
