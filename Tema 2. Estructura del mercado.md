@@ -52,7 +52,19 @@ Los _derivados financieros_ surgen de los anteriores ejemplos. Estos se consider
 - _Servicios electrónicos (SEBRA)_
 	- Es un sistema electrónico de ejecución y consulta de transacciones entre el mercado financiero y el BRC
 - _Sistema Electrónico de Negociación (SEN)_
-	- Es el sistema de negociación
+	- Es el sistema de negociación y registro de operaciones sobre valores
+- _Sistema de cuentas de depósito (CUD)_
+	- Es un sistema de pagos del BRC
+	- Liquida transacciones de títulos valores, divisas, préstamos interbancarios
+	- Compensa cheques
+
+
+
+- _Sistemas de negociación de valores_
+	- Son mecanismos de negociación
+- _Sistemas de registro de operaciones sobre valores_
+	- Son mecanismos de registro de transacciones en el mercao OTC
+	- _OTC (Over The Counter)_ : Es un mercado financiero donde los participantes negocian sin intermediarios y de manera privada
 
 
 
