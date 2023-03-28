@@ -36,6 +36,11 @@ Se caracterizan por tener un contacto superficial.
 >[!Note]
 >La junta helicoidal posee 1 GDL aunque se produzcan dos movientos, ya que, se modifica un único parámetro de rotación para mover el elemento
 
+>[!Info]
+>The _Cardan joint_ is an universal joint commonly used in shafts to transmit rotary motion. Has 2 DOF
+>![](attachments/Pasted%20image%2020230327203448.png)
+
+
 ### Pares superiores
 
 Se caracterizan por poseer contactos puntuales o lineales.
