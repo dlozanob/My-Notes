@@ -11,7 +11,7 @@ Algunos conceptos clave:
 >[!Info]
 >Comúnmente las válvulas hidráulicas manejan un rango de 3-15 psi.
 
-Un servomecanismo se define como un sistema que tiene un lazo cerrado de control con una retroalimentación brindada por un sensor, la cual se usa para corregir el parámetro de control con respecto a la referencia.
+Un servomecanismo se define como un sistema que tiene un lazo cerrado de control con una retroalimentación brindada por un sensor, la cual se usa para corregir el parámetro de control con respecto a la referencia. Un servomecanismo debe tener un buen rendimiento en términos de velocidad y precisión.
 
 El diagrama de bloques de control de un servomecanismo se ve de la siguiente manera:
 
@@ -38,10 +38,7 @@ Es un sistema que integra los mundos digital y físico mediante redes de comunic
 
 Un _gemelo digital_ es un modelo virtual que simula un sistema físico en tiempo real con ayuda de sensores. Uno de los programas que permiten modelar estos sistemas son Siemens NX - MCD.
 
-El controlador se comunica con el gemelo digital mediante el protocolo _OPC_ (Open Platform Communications), el cual es un estándar para la comunicación de máquinas en automatización
-
-
-
+El controlador se comunica con el gemelo digital mediante el protocolo _OPC_ (Open Platform Communications), el cual es un estándar para la comunicación de máquinas en automatización.
 
 
 ###### Components description
@@ -145,7 +142,6 @@ Se debe de tener en cuenta el conjunto de normas e informes técnicos _IEC 61131
 
 
 ## Mecanismos
-
 
 El opuesto de tracking es regulación
 
