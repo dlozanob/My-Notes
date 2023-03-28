@@ -88,6 +88,12 @@ Sus objetivos son:
 		- S&P Global Market Intelligence
 
 
+
+>[!Info]
+>_S&P (Standard & Pulse)_ es un índice de la bolsa de valores de las empresas más grandes de la economía
+>
+
 renta variable -> acciones
 renta fija -> bonos
 
+Se llama renta fija porque el flujo de caja se conoce. 
