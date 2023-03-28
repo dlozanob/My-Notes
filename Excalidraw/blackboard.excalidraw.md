@@ -8,6 +8,10 @@ tags: [excalidraw]
 
 
 # Text Elements
+
+# Embedded files
+272fd6a57b7afa39fd4855f2303acbe7b1528be4: [[attachments/Pasted Image 20230328145830_233.png]]
+
 %%
 # Drawing
 ```json
@@ -16,6 +20,38 @@ tags: [excalidraw]
 	"version": 2,
 	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.8.21",
 	"elements": [
+		{
+			"id": "E0hRj4CukoftKH1PjLaN2",
+			"type": "image",
+			"x": -312.60185185185185,
+			"y": -116.32499999999999,
+			"width": 422.7037037037037,
+			"height": 285.325,
+			"angle": 0,
+			"strokeColor": "transparent",
+			"backgroundColor": "#b6b6b6",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 1164568955,
+			"version": 57,
+			"versionNonce": 240319387,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1680033508983,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "272fd6a57b7afa39fd4855f2303acbe7b1528be4",
+			"scale": [
+				1,
+				1
+			]
+		},
 		{
 			"id": "eQLSg6_VYhHUUXCbDZ-kz",
 			"type": "image",

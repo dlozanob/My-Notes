@@ -69,13 +69,20 @@ Se la da una descripción detallada al diagrama de caja negra, combinando Unidad
 ![](attachments/Pasted%20image%2020230328072319.png)
 
 
-## Controlador
+## Procesador
 
-Podemos crear un sistema organizado que permita un mejor control de nuestros procesos.
+Su arquitectura es la siguiente:
 
-La arquitectura básica de un controlador es la siguiente:
+![](attachments/Pasted%20image%2020230328145831.png)
 
-![](attachments/Pasted%20image%2020230328145327.png)
+Se compone de:
+- _Datapath_
+	- Ejecuta las operaciones
+- _Unidad de control_
+	- Ordena al datapath, memoria y I/O lo que debe hacerse
+
+
+
 
 
 ### Ciclo de instrucción
@@ -83,7 +90,7 @@ La arquitectura básica de un controlador es la siguiente:
 La unidad de control realiza los siguientes pasos para la ejecución de una instrucción:
 
 1. _Instruction Fetch_
-	  - El procesador manda una dirección a la unidad de memoria para encontrar la instrucción solicitada
+	  - El procesador manda una dirección a la unidad de memoria para encontrar la instrucción solicitada (_opcode_)
 2. _Decode_
 	  - La instrucción es traducida desde su _opcode_ a la tarea que debe realizar
 3. _Data Fetch_
@@ -129,11 +136,6 @@ Estos requieren de 0 a 3 operandos.
 
 >[!Info]
 >El compilador universal de C es _gcc_
-
-
-## Procesador
-
-
 
 
 
