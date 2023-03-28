@@ -90,10 +90,13 @@ Sus objetivos son:
 
 
 >[!Info]
->_S&P (Standard & Pulse)_ es un índice de la bolsa de valores de las empresas más grandes de la economía
+>El _S&P (Standard & Pulse)_ 500 es un índice de la bolsa de valores de las 500 empresas más grandes de la economía
 >
 
 renta variable -> acciones
 renta fija -> bonos
 
 Se llama renta fija porque el flujo de caja se conoce. 
+
+En la renta variable no se conoce el flujo de caja con certeza.
+Empresa pública: sale al mercado de valores.

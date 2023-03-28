@@ -147,7 +147,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"graph TD\"",
+                "query": "\"derivados\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -174,7 +174,7 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "a6fd2107d0309302",
+  "active": "abed2df76f33d216",
   "lastOpenFiles": [
     "Módulo 3. Introducción al mercado de capitales.md",
     "Finanzas.md",
