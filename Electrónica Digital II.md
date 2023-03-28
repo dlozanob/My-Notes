@@ -97,10 +97,10 @@ Representa la comunicación entre el usuario en un alto nivel, con la máquina (
 ```mermaid
 graph TD
 
-High Level Language --> Compiler
-Compiler --> Assembly
-Assembly --> Assembler
-Assembler --> Binary code
+A[High Level Language] --> C(Compiler)
+C(Compiler) --> Assembly
+Assembly --> D(Assembler)
+D(Assembler) --> B[Binary code]
 ```
 
 ### Set de instrucciones (ISA)
@@ -112,7 +112,14 @@ Este set debe ser definido de acuerdo a las instrucciones que se consideren más
 >[!Note]
 > Algunas arquitecturas son basadas en pilas, otras en registros
 
-Cada instrucción es identificada por un opcode:
+Cada instrucción es identificada por un opcode: 
+
+
+
+
+
+
+
 
 
 # Clase
@@ -134,11 +141,6 @@ Este procesador almacena por cada una de estas -> se penaliza en tiempo
 El primero era secuencial, pero este es semiparalelo
 
 - _GIPS_ : Giga instrucciones por segundo
-
-
-## Arquitectura pipeline
-
-
 
 
 

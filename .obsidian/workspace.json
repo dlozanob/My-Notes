@@ -18,6 +18,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a6fd2107d0309302",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian Basics.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -147,7 +159,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sfc",
+                "query": "\"graph TD\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -160,8 +172,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249.5,
-    "collapsed": true
+    "width": 249.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,6 +188,10 @@
   },
   "active": "a18df9d07a68477b",
   "lastOpenFiles": [
+    "Verilog.md",
+    "Electrónica Digital II.md",
+    "Obsidian Basics.md",
+    "Server communication.md",
     "Tema 2. Estructura del mercado.md",
     "Finanzas.md",
     "Módulo 3. Introducción al mercado de capitales.md",
@@ -195,15 +210,11 @@
     "Tema 1. Economía.md",
     "2023-03-28.md",
     "Linked note.md",
-    "Obsidian Basics.md",
     "Main.md",
     "Servomecanismos.md",
     "attachments/Pasted image 20230328103327.png",
     "testnote.md",
     "CSS.md",
-    "Estática de Fluidos.md",
-    "Fundamentos de Mecánica de Fluidos.md",
-    "Cinemática de Fluidos.md",
     "attachments/Pasted image 20230328075731.png",
     "Excalidraw/attachments/Pasted Image 20230328075641_121.png",
     "attachments/Pasted image 20230328072355.png",

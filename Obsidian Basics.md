@@ -112,7 +112,7 @@ c & d
 
 ## Diagrams:
 
-Mermaid provides the following diagram types:
+[Mermaid](#Useful+Links) provides the following diagram types:
 
 -   Flowchart
 -   Sequence diagram
@@ -196,3 +196,6 @@ md1 :md1, 2023-03-01, 2023-03-31
 >Markdown supports some HTML syntax.
 
 
+## Useful links
+
+- [Mermaid Documentation](https://mermaid.js.org/intro/)
