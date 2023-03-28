@@ -75,7 +75,7 @@ Podemos crear un sistema organizado que permita un mejor control de nuestros pro
 
 La arquitectura básica de un controlador es la siguiente:
 
-![](attachments/Pasted%20image%2020230328072355.png)
+![](attachments/Pasted%20image%2020230328145327.png)
 
 
 ### Ciclo de instrucción
@@ -129,6 +129,10 @@ Estos requieren de 0 a 3 operandos.
 
 >[!Info]
 >El compilador universal de C es _gcc_
+
+
+## Procesador
+
 
 
 
