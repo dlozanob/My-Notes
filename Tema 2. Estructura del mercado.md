@@ -38,9 +38,17 @@ Los _derivados financieros_ surgen de los anteriores ejemplos. Estos se consider
 	- Es una organización privada y una sociedad anónima
 - _Cámara de Riesgo Central de Contraparte de Colombia (CRCC)_
 	- Custodia los títulos correspondientes a las transacciones para garantizar que estas se cumplan
+	- Es el intermediario de las transacciones
 	- Es un organismo de compensación
-- 
-
+- _Cámara de compensación de Divisas (CCV)_
+	- Compensa, liquida y administra garantías en el mercado de divisas
+- _Deceval_
+	- Es un depósito centralizado de valores de la BVC
+	- Deposita y custodia los valores inscritos en el Registro Nacional de Valores y Emisores. También los administra y los liquida
+	- Cumple el rol de Agencia Numeradora Nacional (ANN)
+	- Cada inversionista tiene una cuenta en Deceval
+- _Banco de la República de Colombia (BRC)_
+	- 
 
 
 

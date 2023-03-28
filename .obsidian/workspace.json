@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tema 2. Estructura del mercado.md",
+                "file": "Módulo 1. Economía y matemática financiera.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tema 2. Estructura del mercado.md",
+                "file": "Módulo 1. Economía y matemática financiera.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tema 2. Estructura del mercado.md",
+                "file": "Módulo 1. Economía y matemática financiera.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tema 2. Estructura del mercado.md"
+                "file": "Módulo 1. Economía y matemática financiera.md"
               }
             }
           },
@@ -175,8 +175,13 @@
   },
   "active": "15b454363de2e734",
   "lastOpenFiles": [
-    "Módulo 3. Introducción al mercado de capitales.md",
     "Finanzas.md",
+    "Módulo 1. Economía y matemática financiera.md",
+    "Tema 2. Función de oferta y demanda.md",
+    "Tema 1. Economía.md",
+    "Módulo 3. Introducción al mercado de capitales.md",
+    "Tema 1. Infraestructura de los mercados financieros.md",
+    "Tema 2. Estructura del mercado.md",
     "2023-03-28.md",
     "Linked note.md",
     "Obsidian Basics.md",
@@ -206,11 +211,6 @@
     "Señales y Sistemas II.md",
     "Excalidraw/blackboard.excalidraw.md",
     "LaTeX.md",
-    "Verilog.md",
-    "Ingeniería Electrónica.md",
-    "Tema 2. Función de oferta y demanda.md",
-    "Fórmulas Financieras Excel.md",
-    "Tema 4. Financiamiento a corto plazo.md",
     "Excalidraw/attachments",
     "attachments",
     "New folder",

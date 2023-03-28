@@ -169,8 +169,3 @@ Al cambiar el precio la cantidad demandada no se ve casi alterada.
 >[!Info]
 >La _endogeneidad_ se refiere al hecho de que una variable está relacionada con otras. El precio de un bien es una variable endógena, ya que, depende de la oferta y de la demanda
 
-
-## External links
-
-- [Yahoo finance](https://finance.yahoo.com/)
-- [https://www.bls.gov/charts/consumer-price-index/consumer-price-index-by-category-line-chart.htm](https://www.bls.gov/charts/consumer-price-index/consumer-price-index-by-category-line-chart.htm)
