@@ -466,7 +466,7 @@ $$
 Se concluye que la fuerza de flotación es el peso del líquido desplazado por la placa.
 
 >[!Note]
->Para el caso general, se llega a la misma conclusión, ya que, la distribución de presión depende de la forma del cuerpo. Por tanto, las fuerzas de flotación que actuan sobre el elemento y el volumen de fluidos son las mismas. Además, el elemento de fluido está en reposo, por lo que el peso del fluido es la misma fuerza de flotación
+>Para el caso general, se llega a la misma conclusión, ya que, la distribución de presión depende de la forma del cuerpo. Por tanto, las fuerzas de flotación que actuan sobre el elemento y el elemento de fluido del mismo volumen son las mismas. Además, el elemento de fluido está en reposo, por lo que el peso del fluido es la misma fuerza de flotación
 
 Ahora bien, si un cuerpo flota, se debe cumplir:
 
@@ -492,9 +492,18 @@ $$
 - $\rho_{f}$ : Densidad del fluido
 - $\rho_{s}$ : Densidad del sólido
 
-
 >[!Note]
->La estabilidad del objeto se garantiza si el centro geométrico está por encima del centro de masa
+>- La fórmula solo es válida cuando $\rho_{s} \leq \rho_{f}$
+>- La estabilidad del objeto se garantiza si el centro geométrico está por encima del centro de masa
+
+
+- __Ejemplo__ :
+	- $\rho = 1025kg/m^3$
+	- 
+
+
+
+
 
 
 ## Estática en cuerpos rígidos

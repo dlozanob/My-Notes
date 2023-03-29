@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Estática de Fluidos.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estática de Fluidos.md",
+                "file": "Electrónica Digital II.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Estática de Fluidos.md",
+                "file": "Electrónica Digital II.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estática de Fluidos.md"
+                "file": "Electrónica Digital II.md"
               }
             }
           },
@@ -186,12 +187,13 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "a6fd2107d0309302",
+  "active": "73b6e3586ac1461e",
   "lastOpenFiles": [
+    "Estática de Fluidos.md",
     "Electrónica Digital II.md",
+    "attachments/Pasted image 20230329083753.png",
     "Ingeniería Electrónica.md",
     "Main.md",
-    "Estática de Fluidos.md",
     "Fundamentos de Mecánica de Fluidos.md",
     "Cinemática de Fluidos.md",
     "attachments/Pasted image 20230328214422.png",
@@ -220,10 +222,8 @@
     "Tema 1. Composición y estructura del balance general, estado de resultados y flujo de caja neto.md",
     "Módulo 6.md",
     "Módulo 1. Economía y matemática financiera.md",
-    "Tema 4. Matemáticas financieras.md",
     "attachments/Pasted image 20230328103327.png",
     "attachments/Pasted image 20230328075731.png",
-    "Excalidraw/attachments/Pasted Image 20230328075641_121.png",
     "Excalidraw/attachments",
     "attachments",
     "New folder",

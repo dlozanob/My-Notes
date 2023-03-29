@@ -160,9 +160,18 @@ Los ciclos de ejecución de este procesador son:
 	- El PC manda una dirección a la memoria de instrucciones, esta brinda el opcode de la instrucción
 	- $PC += 4$
 2. _Decode_
+	- A partir del _opcode_ se determina:
+		- Tipo de instrucción
+		- Longitud de los campos
+		- Datos requeridos
+
+![](attachments/Pasted%20image%2020230329083753.png)
+
+>[!Note]
+>El _opcode_ tiene un tamaño de 8 bits
+
+3. _Data Fetch_
 	- 
-
-
 
 
 
