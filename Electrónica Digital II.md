@@ -155,6 +155,14 @@ Su datapath está representado de la forma:
 
 - El PC se incrementa en 4 al pasar de una instrucción consecutiva a otra, ya que, cada instrucción tiene 4 bytes
 
+Los ciclos de ejecución de este procesador son:
+1. _Instruction Fetch_
+	- El PC manda una dirección a la memoria de instrucciones, esta brinda el opcode de la instrucción
+	- $PC += 4$
+2. _Decode_
+	- 
+
+
 
 
 
