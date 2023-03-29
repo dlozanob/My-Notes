@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Electrónica Digital II.md",
-                "mode": "source",
+                "file": "Estática de Fluidos.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electrónica Digital II.md",
+                "file": "Estática de Fluidos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electrónica Digital II.md",
+                "file": "Estática de Fluidos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Electrónica Digital II.md"
+                "file": "Estática de Fluidos.md"
               }
             }
           },
@@ -176,6 +176,8 @@
   },
   "active": "a6fd2107d0309302",
   "lastOpenFiles": [
+    "Fundamentos de Mecánica de Fluidos.md",
+    "Electrónica Digital II.md",
     "attachments/Pasted image 20230328214422.png",
     "Tema 2. Estructura del mercado.md",
     "Módulo 3. Introducción al mercado de capitales.md",
@@ -185,7 +187,6 @@
     "Módulo 2. Diagnóstico financiero.md",
     "Finanzas.md",
     "Excalidraw/blackboard.excalidraw.md",
-    "Electrónica Digital II.md",
     "attachments/Pasted image 20230328145831.png",
     "Excalidraw/attachments/Pasted Image 20230328145830_233.png",
     "attachments/Pasted image 20230328145327.png",
@@ -211,7 +212,6 @@
     "attachments/Pasted image 20230328103327.png",
     "attachments/Pasted image 20230328075731.png",
     "Excalidraw/attachments/Pasted Image 20230328075641_121.png",
-    "attachments/Pasted image 20230328072355.png",
     "Excalidraw/attachments",
     "attachments",
     "New folder",
