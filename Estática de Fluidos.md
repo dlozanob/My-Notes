@@ -176,6 +176,7 @@ $$
 }
 $$
 
+---
 
 - __Ejemplo__ :
 	- $h_{0} = 0.05\sin(30)$
@@ -339,6 +340,7 @@ Entonces $p_{0} = P_{atm_{1}} - P_{atm_{2}}$
 >[!Note]
 >Si la placa está simplemente sumergida en un fluido, las presiones atmosféricas se anulan en ambas caras y $p_{0} = 0$
 
+---
 
 - __Ejemplo__ :
 
@@ -388,6 +390,7 @@ Cuando se tienen varios fluidos, $F_{R}$ es la superposición de las fuerzas res
 
 ![](attachments/Pasted%20image%2020230318214339.png)
 
+---
 
 - __Ejemplo__ :
 
@@ -496,6 +499,7 @@ $$
 >- La fórmula solo es válida cuando $\rho_{s} \leq \rho_{f}$
 >- La estabilidad del objeto se garantiza si el centro geométrico está por encima del centro de masa
 
+---
 
 - __Ejemplo__ :
 	- $\rho = 1025kg/m^3$

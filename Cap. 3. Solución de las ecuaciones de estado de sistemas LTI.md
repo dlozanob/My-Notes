@@ -275,6 +275,7 @@ $$
 \end{align*}
 $$
 
+---
 
 - __Ejemplos__:
 
