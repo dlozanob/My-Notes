@@ -11,8 +11,12 @@
             "id": "a6fd2107d0309302",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Electrónica Digital II.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -77,6 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Electrónica Digital II.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,6 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Electrónica Digital II.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +120,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Electrónica Digital II.md"
+              }
             }
           },
           {
@@ -168,6 +176,7 @@
   },
   "active": "a6fd2107d0309302",
   "lastOpenFiles": [
+    "attachments/Pasted image 20230328214422.png",
     "Tema 2. Estructura del mercado.md",
     "Módulo 3. Introducción al mercado de capitales.md",
     "Tema 3. Introducción a los mercados de capitales.md",
@@ -199,7 +208,6 @@
     "Tema 1. Economía.md",
     "2023-03-28.md",
     "Linked note.md",
-    "Main.md",
     "attachments/Pasted image 20230328103327.png",
     "attachments/Pasted image 20230328075731.png",
     "Excalidraw/attachments/Pasted Image 20230328075641_121.png",

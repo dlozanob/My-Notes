@@ -82,9 +82,6 @@ Se compone de:
 	- Ordena al datapath, memoria y I/O lo que debe hacerse
 
 
-
-
-
 ### Ciclo de instrucción
 
 La unidad de control realiza los siguientes pasos para la ejecución de una instrucción:
@@ -137,6 +134,18 @@ Estos requieren de 0 a 3 operandos.
 >[!Info]
 >El compilador universal de C es _gcc_
 
+
+## Arquitectura MIPS
+
+Es el procesador más básico (MIPS - Microprocessor without Pipeline Stages). 
+Su datapath está representado de la forma:
+
+![](attachments/Pasted%20image%2020230328214422.png)
+
+- _PC_
+	- Program Counter. Almacena la dirección en memoria de la instrucción por ejecutar.
+- _Banco de registros_
+	- Se compone de 32 registros de 32 bits
 
 
 
