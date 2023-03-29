@@ -499,11 +499,35 @@ $$
 
 - __Ejemplo__ :
 	- $\rho = 1025kg/m^3$
-	- 
+	- $\rho_{Bloque} = 2300kg/m^3$
+	- $V = 1m^{3}$
+	- $T_{aire}, T_{sum} = ?$
 
+![](attachments/Pasted%20image%2020230329085453.png)
 
+$$
+\begin{align*}
+	T_{aire} &= W \\
+	&=  (2300)(9.8)(1) \\
+	&= 22540N
+\end{align*}
+$$
 
+$$
+\begin{align*}
+	F_{B} &= \rho V_{Bloque}g \\
+	&= (1025)(1)(9.8) \\
+	&= 10045N
+\end{align*}
+$$
 
+$$
+\begin{align*}
+	T_{sum} &= W - F_{B} \\
+	&= 22540 - 10045 \\
+	&= 12495N
+\end{align*}
+$$
 
 
 ## Estática en cuerpos rígidos

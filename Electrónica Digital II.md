@@ -163,7 +163,7 @@ Los ciclos de ejecución de este procesador son:
 	- A partir del _opcode_ se determina:
 		- Tipo de instrucción
 		- Longitud de los campos
-		- Datos requeridos
+		- Datos que se le van a pedir al banco de registros
 
 ![](attachments/Pasted%20image%2020230329083753.png)
 

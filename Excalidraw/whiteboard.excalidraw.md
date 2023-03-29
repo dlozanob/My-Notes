@@ -8,12 +8,6 @@ tags: [excalidraw]
 
 
 # Text Elements
-Processor ^o2mqtLxx
-
-
-# Embedded files
-52e0e90e68000f2749b1882dcf2f1d1afda0167f: [[attachments/Pasted Image 20230328145053_117.png]]
-
 %%
 # Drawing
 ```json
@@ -23,10 +17,74 @@ Processor ^o2mqtLxx
 	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.8.21",
 	"elements": [
 		{
+			"id": "075wj3VOazsOuKRfiRepx",
 			"type": "image",
-			"version": 48,
-			"versionNonce": 1019969237,
-			"isDeleted": false,
+			"x": -222.3589706615852,
+			"y": -110.37558552362574,
+			"width": 155.353919239905,
+			"height": 189.04513064133016,
+			"angle": 0,
+			"strokeColor": "transparent",
+			"backgroundColor": "#c0c0c0",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 1499014710,
+			"version": 47,
+			"versionNonce": 1721459562,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1680098204102,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "92b953e7ab86e43345a9a8208ba7c5a451e75318",
+			"scale": [
+				1,
+				1
+			]
+		},
+		{
+			"id": "o5Fmj4NXKiZstBM2CWjfR",
+			"type": "image",
+			"x": -60.453982538069766,
+			"y": -128.15705820771126,
+			"width": 232.0950118764846,
+			"height": 220.86460807600952,
+			"angle": 0,
+			"strokeColor": "transparent",
+			"backgroundColor": "#c0c0c0",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 499142954,
+			"version": 90,
+			"versionNonce": 1842241590,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1680098204102,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "303fd56bf8dac82da551ab306653c1b7adaea6b1",
+			"scale": [
+				1,
+				1
+			]
+		},
+		{
+			"type": "image",
+			"version": 49,
+			"versionNonce": 1337533098,
+			"isDeleted": true,
 			"id": "GHYXT1KmeH4tgur8yaiYP",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
@@ -43,8 +101,8 @@ Processor ^o2mqtLxx
 			"seed": 1882215573,
 			"groupIds": [],
 			"roundness": null,
-			"boundElements": null,
-			"updated": 1680033168924,
+			"boundElements": [],
+			"updated": 1680098049723,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -56,9 +114,9 @@ Processor ^o2mqtLxx
 		},
 		{
 			"type": "rectangle",
-			"version": 44,
-			"versionNonce": 1221354779,
-			"isDeleted": false,
+			"version": 45,
+			"versionNonce": 2111780086,
+			"isDeleted": true,
 			"id": "kXUeCK7XVfJVOIj4uwbiM",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
@@ -75,16 +133,16 @@ Processor ^o2mqtLxx
 			"seed": 79886837,
 			"groupIds": [],
 			"roundness": null,
-			"boundElements": null,
-			"updated": 1680033180638,
+			"boundElements": [],
+			"updated": 1680098049724,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 469,
-			"versionNonce": 111329019,
-			"isDeleted": false,
+			"version": 470,
+			"versionNonce": 982728042,
+			"isDeleted": true,
 			"id": "o2mqtLxx",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
@@ -96,13 +154,13 @@ Processor ^o2mqtLxx
 			"y": -52,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 82.20066236413044,
-			"height": 21,
+			"width": 82.19668579101562,
+			"height": 20.999999999999996,
 			"seed": 689744699,
 			"groupIds": [],
 			"roundness": null,
-			"boundElements": null,
-			"updated": 1680033193845,
+			"boundElements": [],
+			"updated": 1680098049724,
 			"link": null,
 			"locked": false,
 			"fontSize": 18.26086956521739,
@@ -125,14 +183,14 @@ Processor ^o2mqtLxx
 		"currentItemStrokeWidth": 4,
 		"currentItemStrokeStyle": "solid",
 		"currentItemRoughness": 0,
-		"currentItemOpacity": 40,
+		"currentItemOpacity": 100,
 		"currentItemFontFamily": 2,
 		"currentItemFontSize": 16,
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": "bar",
 		"currentItemEndArrowhead": "bar",
-		"scrollX": 529.75,
-		"scrollY": 340,
+		"scrollX": 459.3589706615852,
+		"scrollY": 398.29245013170174,
 		"zoom": {
 			"value": 1
 		},
