@@ -26,13 +26,12 @@
               "type": "markdown",
               "state": {
                 "file": "Electrónica Digital II.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electrónica Digital II.md",
+                "file": "Estática de Fluidos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electrónica Digital II.md",
+                "file": "Estática de Fluidos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Electrónica Digital II.md"
+                "file": "Estática de Fluidos.md"
               }
             }
           },
@@ -187,14 +186,14 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "73b6e3586ac1461e",
+  "active": "a6fd2107d0309302",
   "lastOpenFiles": [
+    "Electrónica Digital II.md",
     "Ingeniería Electrónica.md",
     "Main.md",
     "Estática de Fluidos.md",
     "Fundamentos de Mecánica de Fluidos.md",
     "Cinemática de Fluidos.md",
-    "Electrónica Digital II.md",
     "attachments/Pasted image 20230328214422.png",
     "Tema 2. Estructura del mercado.md",
     "Módulo 3. Introducción al mercado de capitales.md",

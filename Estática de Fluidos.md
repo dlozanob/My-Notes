@@ -465,6 +465,9 @@ $$
 
 Se concluye que la fuerza de flotación es el peso del líquido desplazado por la placa.
 
+>[!Note]
+>Para el caso general, se llega a la misma conclusión, ya que, la distribución de presión depende de la forma del cuerpo. Por tanto, las fuerzas de flotación que actuan sobre el elemento y el volumen de fluidos son las mismas. Además, el elemento de fluido está en reposo, por lo que el peso del fluido es la misma fuerza de flotación
+
 Ahora bien, si un cuerpo flota, se debe cumplir:
 
 ![](attachments/Pasted%20image%2020230320161152.png)
