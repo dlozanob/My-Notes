@@ -143,10 +143,17 @@ Su datapath está representado de la forma:
 ![](attachments/Pasted%20image%2020230328214422.png)
 
 - _PC_
-	- Program Counter. Almacena la dirección en memoria de la instrucción por ejecutar.
-- _Banco de registros_
-	- Se compone de 32 registros de 32 bits
+	- Program Counter. Almacena la dirección en memoria de la instrucción actual.
 
+- Este es un procesador de 32 bits
+	- Sus instrucciones tienen un tamaño de 32 bits
+
+- Su _Banco de registros_ se compone de 32 registros de 32 bits
+
+- Las instrucciones se almacenan en la _memoria de instrucciones_
+	- Esta permite lectura y escritura de instrucciones
+
+- El PC se incrementa en 4 al pasar de una instrucción consecutiva a otra, ya que, cada instrucción tiene 4 bytes
 
 
 
