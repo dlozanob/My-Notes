@@ -170,8 +170,13 @@ Los ciclos de ejecución de este procesador son:
 >[!Note]
 >El _opcode_ tiene un tamaño de 8 bits
 
-3. _Data Fetch_
-	- 
+3. _Execute_
+	- Se realizan las operaciones en la ALU
+
+4. _Memory Acess_
+	- Es una etapa adicional exclusiva para las operaciones _LW_ (load word) y _SW_ (store word)
+
+5. _Res_
 
 
 
