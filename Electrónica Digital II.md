@@ -142,24 +142,31 @@ Su datapath está representado de la forma:
 
 ![](attachments/Pasted%20image%2020230328214422.png)
 
-- _PC_
-	- Program Counter. Almacena la dirección en memoria de la instrucción actual.
 
 - Este es un procesador de 32 bits
 	- Sus instrucciones tienen un tamaño de 32 bits
+
+- _PC_
+	- Program Counter. Almacena la dirección en memoria de la instrucción actual.
+	- El PC se incrementa en 4 al pasar de una instrucción consecutiva a otra, ya que, cada instrucción tiene 4 bytes
+
+- Las instrucciones se almacenan en la _memoria de instrucciones_
+	- Esta permite lectura y escritura de instrucciones
 
 - Su _Banco de registros_ se compone de 32 registros de 32 bits
 
 ![](attachments/Pasted%20image%2020230329220302.png)
 
+Para efectuar operaciones con dos registros, se deben de leer los dos al tiempo, por eso tiene dos entradas de lectura de registros.
+
+- La _ALU_ tiene como entradas los dos registros seleccionados y su señal de control de 4 bits indica la operación a realizar.
+
+![](attachments/Pasted%20image%2020230329221242.png)
+
+La salidad de detección de Cero se utiliza para la implementación de los saltos condicionales.
 
 
 
-
-- Las instrucciones se almacenan en la _memoria de instrucciones_
-	- Esta permite lectura y escritura de instrucciones
-
-- El PC se incrementa en 4 al pasar de una instrucción consecutiva a otra, ya que, cada instrucción tiene 4 bytes
 
 Los ciclos de ejecución de este procesador son:
 1. _Instruction Fetch_
