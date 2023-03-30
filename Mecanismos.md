@@ -605,7 +605,10 @@ Obtenemos una ecuación vectorial (_ecuación de clausura_):
 El sistema de ecuaciones obtenido es no lineal, se puede usar el método numérico de solución de sistemas no lineales de Newton-Raphson.
 
 
+# TO DO
 
+- Actividad: Análisis de posición de mecanismos
+- 
 
 
 

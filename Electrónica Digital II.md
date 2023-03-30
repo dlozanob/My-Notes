@@ -218,6 +218,8 @@ El primero era secuencial, pero este es semiparalelo
 
 - _GIPS_ : Giga instrucciones por segundo
 
+---
+
 
 
 
