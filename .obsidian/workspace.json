@@ -147,7 +147,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"1 atm\"",
+                "query": "\"TES\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -174,7 +174,7 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "12ec89d481aaf490",
+  "active": "abed2df76f33d216",
   "lastOpenFiles": [
     "Módulo 3. Introducción al mercado de capitales.md",
     "Finanzas.md",
