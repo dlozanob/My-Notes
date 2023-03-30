@@ -150,6 +150,12 @@ Su datapath está representado de la forma:
 
 - Su _Banco de registros_ se compone de 32 registros de 32 bits
 
+![](attachments/Pasted%20image%2020230329220302.png)
+
+
+
+
+
 - Las instrucciones se almacenan en la _memoria de instrucciones_
 	- Esta permite lectura y escritura de instrucciones
 
@@ -176,11 +182,16 @@ Los ciclos de ejecución de este procesador son:
 4. _Memory Acess_
 	- Es una etapa adicional exclusiva para las operaciones _LW_ (load word) y _SW_ (store word)
 
-5. _Res_
+5. _Register Write_
+	- Aplica para las instrucciones que escriben en registros
 
 
 
-# Clase
+
+
+
+
+# Clases
 
 
 $$
