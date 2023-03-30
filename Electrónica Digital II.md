@@ -165,7 +165,7 @@ Para efectuar operaciones con dos registros, se deben de leer los dos al tiempo,
 
 La salidad de detección de Cero se utiliza para la implementación de los saltos condicionales.
 
-
+310, 38
 
 
 Los ciclos de ejecución de este procesador son:
