@@ -11,8 +11,12 @@
             "id": "12ec89d481aaf490",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Tema 3. Introducción a los mercados de capitales.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -77,6 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Tema 3. Introducción a los mercados de capitales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,6 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Tema 3. Introducción a los mercados de capitales.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +120,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Tema 3. Introducción a los mercados de capitales.md"
+              }
             }
           },
           {
@@ -168,6 +176,8 @@
   },
   "active": "12ec89d481aaf490",
   "lastOpenFiles": [
+    "Módulo 3. Introducción al mercado de capitales.md",
+    "Finanzas.md",
     "Electrónica Digital II.md",
     "Servomecanismos.md",
     "Mecanismos.md",
@@ -191,12 +201,10 @@
     "Cinemática de Fluidos.md",
     "attachments/Pasted image 20230328214422.png",
     "Tema 2. Estructura del mercado.md",
-    "Módulo 3. Introducción al mercado de capitales.md",
     "Tema 3. Introducción a los mercados de capitales.md",
     "Tema 4. Financiamiento a corto plazo.md",
     "Tema 2. Análisis de estados financieros e indicadores financieros.md",
     "Módulo 2. Diagnóstico financiero.md",
-    "Finanzas.md",
     "Excalidraw/blackboard.excalidraw.md",
     "attachments/Pasted image 20230328145831.png",
     "Excalidraw/attachments/Pasted Image 20230328145830_233.png",
