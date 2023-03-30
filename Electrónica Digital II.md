@@ -228,7 +228,7 @@ Varias ventanas de registros permiten tener procesos más rápidos
 >[!Info]
 >La arquitectura spark tiene un grupo de 8 ventanas (8 BR)
 
-
+- Carga inmediata de datos las instrucciones terminan en $i$
 
 
 

@@ -608,6 +608,7 @@ El sistema de ecuaciones obtenido es no lineal, se puede usar el método numéri
 # TO DO
 
 - Actividad: Análisis de posición de mecanismos
+- Proyecto
 - 
 
 
