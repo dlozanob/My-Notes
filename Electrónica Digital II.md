@@ -177,6 +177,8 @@ Los ciclos de ejecución de este procesador son:
 		- Longitud de los campos
 		- Datos que se le van a pedir al banco de registros
 
+Organización para R-type:
+
 ![](attachments/Pasted%20image%2020230329083753.png)
 
 >[!Note]

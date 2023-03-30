@@ -609,7 +609,11 @@ El sistema de ecuaciones obtenido es no lineal, se puede usar el método numéri
 
 - Actividad: Análisis de posición de mecanismos
 - Proyecto
-- 
+- Síntesis de mecanismos: Manivela-corredera balancín
+- Síntesis de mecanismos: Presentación
+- Optimización
+- Barnes problem
+
 
 
 
