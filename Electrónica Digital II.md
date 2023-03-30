@@ -220,9 +220,13 @@ El primero era secuencial, pero este es semiparalelo
 
 ---
 
+>[!Info]
+>El $80\%$ de los procesadores tienen un registro 0 para hacer una inicialización segura -> Asegurarse que los datos son los datos iniciales
 
+Varias ventanas de registros permiten tener procesos más rápidos
 
-
+>[!Info]
+>La arquitectura spark tiene un grupo de 8 ventanas (8 BR)
 
 
 
