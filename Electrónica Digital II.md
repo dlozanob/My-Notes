@@ -232,6 +232,10 @@ Varias ventanas de registros permiten tener procesos más rápidos
 
 
 
+
+
+
+
 ## External links
 
 - [Verilog](Verilog.md)
