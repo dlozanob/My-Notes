@@ -271,7 +271,7 @@ Notar que el elemento $2$ es un eslabón cuaternario.
 >[!Note]
 >- $M \geq 1$ : Mecanismo
 >- $M = 0$ : Estructura
->- $M = -1$ : Estructura estáticamente indeterminada
+>- $M = -1$ : Estructura estáticamente indeterminada (Truss)
 
 
 ### Casos en los que Grübler no funciona
