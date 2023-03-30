@@ -139,7 +139,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"ROA\"",
+                "query": "\"1 atm\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -166,7 +166,7 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "d168528cf9fccfc7",
+  "active": "abed2df76f33d216",
   "lastOpenFiles": [
     "Cap. 3. Solución de las ecuaciones de estado de sistemas LTI.md",
     "Estática de Fluidos.md",
