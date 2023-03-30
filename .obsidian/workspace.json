@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mecanismos.md",
-                "mode": "preview",
+                "file": "Servomecanismos.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mecanismos.md",
+                "file": "Servomecanismos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mecanismos.md",
+                "file": "Servomecanismos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mecanismos.md"
+                "file": "Servomecanismos.md"
               }
             }
           },
@@ -189,8 +189,8 @@
   },
   "active": "0e128cd77afce2e4",
   "lastOpenFiles": [
-    "Electrónica Digital II.md",
     "Mecanismos.md",
+    "Electrónica Digital II.md",
     "Verilog.md",
     "attachments/Pasted image 20230329221242.png",
     "attachments/Pasted image 20230329220302.png",

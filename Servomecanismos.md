@@ -166,3 +166,4 @@ Se deben hacer hasta 10 ciclos de la segunda etapa.
 ## External Links
 
 - [IEC 61131](https://webstore.iec.ch/webstore/webstore.nsf/mysearchajax?Openform&key=iec%2061131&sorting=&start=1&onglet=1)
+- [Stewart Platform](https://www.youtube.com/watch?v=j4OmVLc_oDw)
