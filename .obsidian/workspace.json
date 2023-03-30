@@ -147,7 +147,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"TES\"",
+                "query": "\"colcap\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -174,8 +174,10 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "abed2df76f33d216",
+  "active": "12ec89d481aaf490",
   "lastOpenFiles": [
+    "Tema 3. Indicadores macroeconómicos.md",
+    "Tema 3. Introducción a los mercados de capitales.md",
     "Módulo 3. Introducción al mercado de capitales.md",
     "Finanzas.md",
     "Electrónica Digital II.md",
@@ -201,7 +203,6 @@
     "Cinemática de Fluidos.md",
     "attachments/Pasted image 20230328214422.png",
     "Tema 2. Estructura del mercado.md",
-    "Tema 3. Introducción a los mercados de capitales.md",
     "Tema 4. Financiamiento a corto plazo.md",
     "Tema 2. Análisis de estados financieros e indicadores financieros.md",
     "Módulo 2. Diagnóstico financiero.md",
@@ -211,7 +212,6 @@
     "attachments/Pasted image 20230328145327.png",
     "Obsidian Basics.md",
     "Server communication.md",
-    "Tema 1. Infraestructura de los mercados financieros.md",
     "Excalidraw/attachments",
     "attachments",
     "New folder",
