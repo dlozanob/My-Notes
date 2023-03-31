@@ -8,11 +8,6 @@ tags: [excalidraw]
 
 
 # Text Elements
-
-# Embedded files
-eac6dbdd8f64201131a9e28e2cb162146a0f63d6: $$\begin{align*} 	\Delta hA = V_{sum} \tag{I} \end{align*}$$
-04a1833112c063768ebae1b22f4292a27c43ce4f: $$\begin{align*} 	\frac{V_{sum}}{\rho_{2}} = \frac{V}{\rho_{1}} \end{align*}$$
-
 %%
 # Drawing
 ```json
@@ -23,9 +18,9 @@ eac6dbdd8f64201131a9e28e2cb162146a0f63d6: $$\begin{align*} 	\Delta hA = V_{sum} 
 	"elements": [
 		{
 			"type": "image",
-			"version": 17,
-			"versionNonce": 1372032555,
-			"isDeleted": false,
+			"version": 18,
+			"versionNonce": 1023134923,
+			"isDeleted": true,
 			"id": "0eKVJ3e8",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
@@ -43,7 +38,7 @@ eac6dbdd8f64201131a9e28e2cb162146a0f63d6: $$\begin{align*} 	\Delta hA = V_{sum} 
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1680236826943,
+			"updated": 1680237057987,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -55,9 +50,9 @@ eac6dbdd8f64201131a9e28e2cb162146a0f63d6: $$\begin{align*} 	\Delta hA = V_{sum} 
 		},
 		{
 			"type": "image",
-			"version": 30,
-			"versionNonce": 516173989,
-			"isDeleted": false,
+			"version": 31,
+			"versionNonce": 2064415077,
+			"isDeleted": true,
 			"id": "vAeGaWUR",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
@@ -75,11 +70,107 @@ eac6dbdd8f64201131a9e28e2cb162146a0f63d6: $$\begin{align*} 	\Delta hA = V_{sum} 
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1680236838793,
+			"updated": 1680237057988,
 			"link": null,
 			"locked": false,
 			"status": "pending",
 			"fileId": "04a1833112c063768ebae1b22f4292a27c43ce4f",
+			"scale": [
+				1,
+				1
+			]
+		},
+		{
+			"type": "image",
+			"version": 35,
+			"versionNonce": 1696463723,
+			"isDeleted": true,
+			"id": "AjcoAOty",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -274.06943309834793,
+			"y": 71.1315476046841,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 130,
+			"height": 41,
+			"seed": 74868,
+			"groupIds": [],
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1680237057988,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "697551e29e8bdcf5f9ff1bc2423fcf24c851b1a2",
+			"scale": [
+				1,
+				1
+			]
+		},
+		{
+			"type": "image",
+			"version": 75,
+			"versionNonce": 6423749,
+			"isDeleted": true,
+			"id": "NK2YEAYn",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 30.81921340330723,
+			"y": -147.63390242741661,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 300,
+			"height": 41,
+			"seed": 92863,
+			"groupIds": [],
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1680237057988,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "639e756936e37c4f56ede952bba06a1e6113934a",
+			"scale": [
+				1,
+				1
+			]
+		},
+		{
+			"type": "image",
+			"version": 49,
+			"versionNonce": 843142667,
+			"isDeleted": true,
+			"id": "8LbESXxk",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 157.09877651812775,
+			"y": -39.84815929975582,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 98,
+			"height": 51,
+			"seed": 61885,
+			"groupIds": [],
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1680237057988,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "40e4ae8f98ec5b1562292814fc8c940d1ecdd6ad",
 			"scale": [
 				1,
 				1
