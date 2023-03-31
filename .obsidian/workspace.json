@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a58bace846ddaf14",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Estática de Fluidos.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "b81b37cb5946cfe9",
             "type": "leaf",
             "state": {
@@ -39,6 +27,14 @@
               "state": {
                 "file": "Excalidraw/blackboard.excalidraw.md"
               }
+            }
+          },
+          {
+            "id": "13f67dcae49d89d4",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -104,7 +100,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +116,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,9 +137,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md"
-              }
+              "state": {}
             }
           },
           {
@@ -197,11 +189,11 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "9a3b542152b0b7f8",
+  "active": "13f67dcae49d89d4",
   "lastOpenFiles": [
+    "Excalidraw/blackboard.excalidraw.md",
     "Linked note.md",
     "Estática de Fluidos.md",
-    "Excalidraw/blackboard.excalidraw.md",
     "Excalidraw/whiteboard.excalidraw.md",
     "LaTeX.md",
     "Excalidraw/attachments/Pasted Image 20230331091726_890.png",
