@@ -9,13 +9,20 @@ Hey! This is a linked note.
 
 $$
 \begin{aligned}
-	& \text {Table 1.1. A Jupyter notebook table using LaTeX }\\
-	&\begin{array}{ccccc}
-		\hline \hline \text { Figura } & A\si{kg} & \bar{x} & \bar{y} & \bar{x}A & \bar{y}A \\
-		\hline \text{Cuadrado} & 16 & 837 & 970 \\
-		\text{Triángulo} & 47 & 877 & 230 \\
-		\sum & 31 & 25 & 415 \\
+	\begin{array}{ccccc}
+		\hline \hline \text { Figura } & A\quad (m^{2}) & y_{i}\quad (m) & y_{i}A\quad (m^{3}) \\
+		\hline \text{Cuadrado} & 16 & 2 & 32 \\
+		\text{Tri}\acute{a}\text{ngulo} & 8 & \frac{4}{3} & \frac{32}{3} \\
+		\sum & 24 &  & \frac{128}{3} \\
 		\hline
 	\end{array}
 \end{aligned}
+$$
+
+$$
+\begin{align*}
+	\bar{y} &= \frac{\sum y_{i}A}{\sum A} \\
+	&= \frac{\frac{128}{3}}{24} \\
+	&= \frac{16}{9}m
+\end{align*}
 $$

@@ -8,6 +8,10 @@ tags: [excalidraw]
 
 
 # Text Elements
+
+# Embedded files
+6255664b8bf62f03845217d1c97c79383f33b6a9: $$\begin{aligned} 	\begin{array}{ccccc} 		\hline \hline \text { Figura } & A\quad (m^{2}) & \bar{y}\quad (m) & \bar{y}A\quad (m^{3}) \\ 		\hline \text{Cuadrado} & 16 & 2 & 32 \\ 		\text{Tri}\acute{a}\text{ngulo} & 8 & \frac{4}{3} & \frac{32}{3} \\ 		\sum & 24 & \frac{10}{3} & 80 \\ 		\hline 	\end{array} \end{aligned}$$
+
 %%
 # Drawing
 ```json
@@ -18,31 +22,31 @@ tags: [excalidraw]
 	"elements": [
 		{
 			"type": "image",
-			"version": 30,
-			"versionNonce": 727308997,
-			"isDeleted": true,
-			"id": "c0wkZimz",
+			"version": 24,
+			"versionNonce": 875359205,
+			"isDeleted": false,
+			"id": "zyX90joo",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -312.0479712217571,
-			"y": -121.99408630355106,
+			"x": -273.2599237484275,
+			"y": -146.3026995676313,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 392,
-			"height": 180,
-			"seed": 48273,
+			"width": 352,
+			"height": 115,
+			"seed": 45003,
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1680270860508,
+			"updated": 1680271699686,
 			"link": null,
 			"locked": false,
 			"status": "pending",
-			"fileId": "7e1657dcd6b0617e8a5ba2b5d10de135d0f1df71",
+			"fileId": "6255664b8bf62f03845217d1c97c79383f33b6a9",
 			"scale": [
 				1,
 				1
@@ -64,10 +68,10 @@ tags: [excalidraw]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "triangle",
-		"scrollX": 538.7752439490299,
-		"scrollY": 349.26681357627837,
+		"scrollX": 531.4392025950912,
+		"scrollY": 371.60146356737386,
 		"zoom": {
-			"value": 1.0999999999999999
+			"value": 1.2022683380621475
 		},
 		"currentItemRoundness": "sharp",
 		"gridSize": null,
