@@ -27,6 +27,6 @@ $$
 
 $$
 \begin{align*}
-	\frac{dz}{dy} = -\frac{1.5}{\Delta y} = 
+	\frac{dz}{dy} = -\frac{1.5}{\Delta y} = \frac{9}{16}
 \end{align*}
 $$
