@@ -28,9 +28,20 @@
                 "file": "Excalidraw/whiteboard.excalidraw.md"
               }
             }
+          },
+          {
+            "id": "393b751353d096d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LaTeX.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/whiteboard.excalidraw.md",
+                "file": "Linked note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/whiteboard.excalidraw.md",
+                "file": "Linked note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/whiteboard.excalidraw.md"
+                "file": "Linked note.md"
               }
             }
           },
@@ -185,11 +196,12 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "7ce5d1aaf3924807",
+  "active": "a58bace846ddaf14",
   "lastOpenFiles": [
+    "Excalidraw/whiteboard.excalidraw.md",
+    "LaTeX.md",
     "Linked note.md",
     "attachments/Pasted image 20230331084359.png",
-    "Excalidraw/whiteboard.excalidraw.md",
     "Excalidraw/attachments/Pasted Image 20230331083915_158.png",
     "Propiedades de los Fluidos.md",
     "Excalidraw/attachments/Pasted Image 20230331004503_054.png",
