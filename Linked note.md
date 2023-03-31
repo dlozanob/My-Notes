@@ -9,9 +9,9 @@ Hey! This is a linked note.
 
 $$
 \begin{align*}
-	a = 2m \\
-	\rho = 1000kg/m^{3} \\
-	h = 2.5m
+	a &= 2m \\
+	\rho &= 1000kg/m^{3} \\
+	h &= 2.5m
 \end{align*}
 $$
 
@@ -39,7 +39,7 @@ $$
 $$
 \begin{align*}
 	y_{cp} &= h_{c} + \frac{I_{xx,o}}{h_{c}A} \\
-	&=\frac{h}{2} + \frac{h^{\cancel{ 3 }}}{6\left( \frac{\cancel{ h }}{\cancel{ 2 }} \right)(\cancel{ 2 }\cancel{ h })} \\
+	&=\frac{h}{2} + \frac{h^{ 3 }}{6\left( \frac{ h }{2 } \right)(2  h )} \\
 	&=\frac{2}{3}h
 \end{align*}
 $$
@@ -80,13 +80,20 @@ $$
 
 $$
 \begin{align*}
-	M\cancel{ g } - \rho \cancel{ g }\pi (h-1) > \frac{\rho \cancel{ g }h^{3}}{12}
+	M g  - \rho g \pi (h-1) > \frac{\rho g h^{3}}{12}
 \end{align*}
 $$
 
 $$
 \begin{align*}
-	M > \rho []
+	M &> \rho \left[ \frac{h^{3}}{12} + \pi (h-1) \right] \\\\
+	M &> (1000kg/m^3)\left[ \frac{(2.5m)^{3}}{12} + \pi (2.5m - 1)\right]
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	\boxed{M > 6014.47kg}
 \end{align*}
 $$
 
