@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "d92542f210e16411",
+        "id": "3206a0f84f96040c",
         "type": "tabs",
         "children": [
           {
-            "id": "12ec89d481aaf490",
+            "id": "783a1326c5da2935",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tema 3. Introducción a los mercados de capitales.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -81,7 +77,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tema 3. Introducción a los mercados de capitales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +93,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tema 3. Introducción a los mercados de capitales.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,9 +114,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Tema 3. Introducción a los mercados de capitales.md"
-              }
+              "state": {}
             }
           },
           {
@@ -174,10 +166,10 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "abed2df76f33d216",
+  "active": "783a1326c5da2935",
   "lastOpenFiles": [
-    "Tema 3. Indicadores macroeconómicos.md",
     "Tema 3. Introducción a los mercados de capitales.md",
+    "Tema 3. Indicadores macroeconómicos.md",
     "Módulo 3. Introducción al mercado de capitales.md",
     "Finanzas.md",
     "Electrónica Digital II.md",
