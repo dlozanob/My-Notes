@@ -13,29 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linked note.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7ce5d1aaf3924807",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/whiteboard.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "393b751353d096d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LaTeX.md",
+                "file": "Estática de Fluidos.md",
                 "mode": "preview",
                 "source": false
               }
@@ -103,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linked note.md",
+                "file": "Estática de Fluidos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linked note.md",
+                "file": "Estática de Fluidos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linked note.md"
+                "file": "Estática de Fluidos.md"
               }
             }
           },
@@ -198,9 +176,10 @@
   },
   "active": "a58bace846ddaf14",
   "lastOpenFiles": [
-    "Excalidraw/whiteboard.excalidraw.md",
     "Linked note.md",
+    "Excalidraw/whiteboard.excalidraw.md",
     "LaTeX.md",
+    "Excalidraw/attachments/Pasted Image 20230331091726_890.png",
     "attachments/Pasted image 20230331084359.png",
     "Excalidraw/attachments/Pasted Image 20230331083915_158.png",
     "Propiedades de los Fluidos.md",
@@ -226,14 +205,12 @@
     "Main.md",
     "attachments/Pasted image 20230329085453.png",
     "Excalidraw/attachments/Pasted Image 20230329085436_196.png",
-    "Excalidraw/attachments/Pasted Image 20230329085436_146.png",
     "Ingeniería Electrónica.md",
     "Cinemática de Fluidos.md",
     "Tema 2. Estructura del mercado.md",
     "Tema 4. Financiamiento a corto plazo.md",
     "Tema 2. Análisis de estados financieros e indicadores financieros.md",
     "Módulo 2. Diagnóstico financiero.md",
-    "Excalidraw/blackboard.excalidraw.md",
     "Excalidraw/attachments",
     "attachments",
     "New folder",

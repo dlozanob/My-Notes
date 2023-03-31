@@ -8,10 +8,6 @@ tags: [excalidraw]
 
 
 # Text Elements
-
-# Embedded files
-6255664b8bf62f03845217d1c97c79383f33b6a9: $$\begin{aligned} 	\begin{array}{ccccc} 		\hline \hline \text { Figura } & A\quad (m^{2}) & \bar{y}\quad (m) & \bar{y}A\quad (m^{3}) \\ 		\hline \text{Cuadrado} & 16 & 2 & 32 \\ 		\text{Tri}\acute{a}\text{ngulo} & 8 & \frac{4}{3} & \frac{32}{3} \\ 		\sum & 24 & \frac{10}{3} & 80 \\ 		\hline 	\end{array} \end{aligned}$$
-
 %%
 # Drawing
 ```json
@@ -22,31 +18,95 @@ tags: [excalidraw]
 	"elements": [
 		{
 			"type": "image",
-			"version": 24,
-			"versionNonce": 875359205,
-			"isDeleted": false,
-			"id": "zyX90joo",
+			"version": 20,
+			"versionNonce": 2049950949,
+			"isDeleted": true,
+			"id": "ka8XKHdx",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -273.2599237484275,
-			"y": -146.3026995676313,
+			"x": -323.68082827827305,
+			"y": -239.40840394519992,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 352,
-			"height": 115,
-			"seed": 45003,
+			"width": 405,
+			"height": 43,
+			"seed": 22272,
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1680271699686,
+			"updated": 1680272962726,
 			"link": null,
 			"locked": false,
 			"status": "pending",
-			"fileId": "6255664b8bf62f03845217d1c97c79383f33b6a9",
+			"fileId": "6c5e55e22bf376cec47258ded4fa1feed3a6df2a",
+			"scale": [
+				1,
+				1
+			]
+		},
+		{
+			"type": "image",
+			"version": 43,
+			"versionNonce": 1430726635,
+			"isDeleted": true,
+			"id": "7pL0pKVQ",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -194.3156210731134,
+			"y": -137.378458097539,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 150,
+			"height": 18,
+			"seed": 5094,
+			"groupIds": [],
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1680272962727,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "41c24ea411074f642894cb2e46daca0363aaa3b7",
+			"scale": [
+				1,
+				1
+			]
+		},
+		{
+			"type": "image",
+			"version": 18,
+			"versionNonce": 1678762053,
+			"isDeleted": true,
+			"id": "JhUqPcKY",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -175.0569814447357,
+			"y": -58.80934107051655,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 132,
+			"height": 25,
+			"seed": 59744,
+			"groupIds": [],
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1680272962727,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "2ea76d4178f9080cea713bd54410837ab8dc1c49",
 			"scale": [
 				1,
 				1
@@ -66,12 +126,12 @@ tags: [excalidraw]
 		"currentItemFontFamily": 3,
 		"currentItemFontSize": 16,
 		"currentItemTextAlign": "left",
-		"currentItemStartArrowhead": null,
-		"currentItemEndArrowhead": "triangle",
-		"scrollX": 531.4392025950912,
-		"scrollY": 371.60146356737386,
+		"currentItemStartArrowhead": "bar",
+		"currentItemEndArrowhead": "bar",
+		"scrollX": 629.4497916842646,
+		"scrollY": 439.86806135919255,
 		"zoom": {
-			"value": 1.2022683380621475
+			"value": 1.072266928021471
 		},
 		"currentItemRoundness": "sharp",
 		"gridSize": null,
