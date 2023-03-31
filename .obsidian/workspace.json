@@ -11,11 +11,26 @@
             "id": "a58bace846ddaf14",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Linked note.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7ce5d1aaf3924807",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/whiteboard.excalidraw.md"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,6 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Excalidraw/whiteboard.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,6 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Excalidraw/whiteboard.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +131,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Excalidraw/whiteboard.excalidraw.md"
+              }
             }
           },
           {
@@ -166,11 +185,13 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "a58bace846ddaf14",
+  "active": "7ce5d1aaf3924807",
   "lastOpenFiles": [
-    "Propiedades de los Fluidos.md",
     "Linked note.md",
+    "attachments/Pasted image 20230331084359.png",
     "Excalidraw/whiteboard.excalidraw.md",
+    "Excalidraw/attachments/Pasted Image 20230331083915_158.png",
+    "Propiedades de los Fluidos.md",
     "Excalidraw/attachments/Pasted Image 20230331004503_054.png",
     "Estática de Fluidos.md",
     "Excalidraw/attachments/Pasted Image 20230331002149_085.png",
@@ -194,10 +215,8 @@
     "attachments/Pasted image 20230329085453.png",
     "Excalidraw/attachments/Pasted Image 20230329085436_196.png",
     "Excalidraw/attachments/Pasted Image 20230329085436_146.png",
-    "attachments/Pasted image 20230329083753.png",
     "Ingeniería Electrónica.md",
     "Cinemática de Fluidos.md",
-    "attachments/Pasted image 20230328214422.png",
     "Tema 2. Estructura del mercado.md",
     "Tema 4. Financiamiento a corto plazo.md",
     "Tema 2. Análisis de estados financieros e indicadores financieros.md",
