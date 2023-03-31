@@ -9,27 +9,32 @@ Hey! This is a linked note.
 
 $$
 \begin{align*}
-	F_{R} = (p_{0} + \gamma h_{c})A
+	\Delta hA = V_{sum} \tag{I}
 \end{align*}
 $$
 
 $$
 \begin{align*}
-	h_{c} &= \bar{y}_{S} + \bar{y}_{T} \\
-	&= \left( \frac{4}{3}m \right) + \left( \frac{4}{2}m \right) \\
-	&= \frac{10}{3}m
+	\frac{V_{sum}}{\rho_{2}} = \frac{V}{\rho_{1}}
 \end{align*}
 $$
 
 $$
 \begin{align*}
-	A &= (4m)^{2} + \frac{(4m)^{2}}{2} \\
-	&= 24m^{2}
+	V_{sum} = \frac{\rho_{2}V}{\rho_{1}} \cdot \frac{g}{g}
 \end{align*}
 $$
 
 $$
 \begin{align*}
-	F_{R} = \left( 101325Pa + (8.75kN/m^{3})\left( \frac{10}{3}m_{0}00 \right) \right)
+	V_{sum} = \frac{\gamma_{2}V}{\gamma_{1}} \tag{II}
 \end{align*}
 $$
+
+$$
+\begin{align*}
+	\boxed{\Delta h = \frac{\gamma_{2}V}{\gamma_{1}A}}
+\end{align*}
+$$
+
+
