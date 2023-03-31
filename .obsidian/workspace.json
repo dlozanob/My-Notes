@@ -8,28 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b81b37cb5946cfe9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linked note.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9a3b542152b0b7f8",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md"
-              }
-            }
-          },
-          {
             "id": "13f67dcae49d89d4",
             "type": "leaf",
             "state": {
@@ -37,8 +15,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -191,8 +168,8 @@
   },
   "active": "13f67dcae49d89d4",
   "lastOpenFiles": [
-    "Excalidraw/blackboard.excalidraw.md",
     "Linked note.md",
+    "Excalidraw/blackboard.excalidraw.md",
     "Estática de Fluidos.md",
     "Excalidraw/whiteboard.excalidraw.md",
     "LaTeX.md",
