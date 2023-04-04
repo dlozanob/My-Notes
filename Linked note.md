@@ -20,8 +20,22 @@ $$
 
 $$
 \begin{align*}
-	A &= K_{1} - K_{2}(\sin(\theta_{1})\sin(\theta_{2}) + \cos(\theta_{1})\cos(\theta_{2})) - K_{3}\cos(\theta_{1}) + \cos(\theta_{2}) \\
-	B &= 2(K_{3}\sin(\theta_{1}) - \sin(\theta_{2})) \\
-	C &= K_{1} - K_{2}(\sin(\theta_{1})\sin(\theta_{2}) + \cos(\theta_{1})\cos(\theta_{2})) + K_{3}\cos(\theta_{1}) - \cos(\theta_{2})
+	A &= K_{1} - K_{2}(\sin(\theta_{1})\sin(\theta_{2}) + \cos(\theta_{1})\cos(\theta_{2})) - K_{3}\cos(\theta_{1}) + \cos(\theta_{2}) \\\\
+	B &= 2(K_{3}\sin(\theta_{1}) - \sin(\theta_{2})) \\\\
+	C &= K_{1} - K_{2}(\sin(\theta_{1})\sin(\theta_{2}) + \cos(\theta_{1})\cos(\theta_{2})) + K_{3}\cos(\theta_{1}) - \cos(\theta_{2}) \\\\
+	D &= K_{4} + K_{5}(\sin(\theta_{1})\sin(\theta_{2}) + \cos(\theta_{1})\cos(\theta_{2})) - K_{6}\cos(\theta_{1}) + \cos(\theta_{2}) \\\\
+	E &= 2(K_{6}\sin(\theta_{1}) - \sin(\theta_{2})) \\\\
+	F &= K_{4} + K_{5}(\sin(\theta_{1})\sin(\theta_{2}) + \cos(\theta_{1})\cos(\theta_{2})) + K_{6}\cos(\theta_{1}) - \cos(\theta_{2})
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	K_{1} &= \frac{r_{2}^{2} - r_{3}^{2} + r_{4}^{2} + r_{1}^{2}}{2r_{2}r_{4}} \\\\
+	K_{2} &= \frac{r_{1}}{r_{4}} \\\\
+	K_{3} &= \frac{r_{1}}{r_{2}} \\\\
+	K_{4} &= \frac{r_{4}^{2} - r_{1}^{2} - r_{2}^{2} - r_{3}^{2}}{2r_{2}r_{3}} \\\\
+	K_{5} &= \frac{r_{1}}{r_{3}} \\\\
+	K_{6} &= \frac{r_{1}}{r_{2}}
 \end{align*}
 $$
