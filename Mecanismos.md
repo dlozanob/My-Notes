@@ -353,7 +353,6 @@ Supuestamente el mecanismo estaría bloqueado, pero en realidad tenemos un GDL.
 
 ![](attachments/Pasted%20image%2020230219191743.png)
 
-
 El _teorema de Grashoff_ determina el tipo de movimiento de los eslabones laterales.
 
 | $s + l \leq p + q$ | Mecanismo de Grashoff |
