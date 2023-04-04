@@ -39,3 +39,9 @@ $$
 	K_{6} &= \frac{r_{1}}{r_{2}}
 \end{align*}
 $$
+
+$$
+\begin{align*}
+	\theta_{1} = \pi - \arctan\left( \frac{76 - 12}{47.5} \right)
+\end{align*}
+$$
