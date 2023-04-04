@@ -587,30 +587,30 @@ Obtenemos una ecuación vectorial (_ecuación de clausura_):
 
 ![](attachments/Pasted%20image%2020230220182109.png)
 
+En eszte caso $\theta_{1}$ y $\theta_{2}$ son valores conocidos y se quiere determinar los valores de $\theta_{3}$ y $\theta_{4}$.
+
 El sistema de ecuaciones obtenido es no lineal, se puede usar el método numérico de solución de sistemas no lineales de Newton-Raphson.
 
 
+
+
+
+
+
+
+
+---
+
 # TO DO
 
-- Actividad: Análisis de posición de mecanismos
-- Proyecto
-- Síntesis de mecanismos: Manivela-corredera balancín
-- Síntesis de mecanismos: Presentación
-- Optimización
-- Barnes problem
+- [ ] Actividad: Análisis de posición de mecanismos
+- [ ] Proyecto
+- [ ] Síntesis de mecanismos: Manivela-corredera balancín
+- [ ] Síntesis de mecanismos: Presentación
+- [ ] Optimización
+- [ ] Barnes problem
 
-
-
-
-
-
-
-
-
-
-
-
-
+---
 
 
 ## Anexos
