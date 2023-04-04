@@ -48,12 +48,12 @@ Se caracterizan por poseer contactos puntuales o lineales.
 ![](attachments/Pasted%20image%2020230211101216.png)
 
 En ambos casos se tienen 2 GDL.
-Para ver esto de un  modo más sencillo, se supone que los ejes inferiores no están fijos en el espacio, por tanto, pueden producir rotación en sus respectivos elementos, así como trasladarse linealmente como la rueda de un carro.
+Para ver esto de un modo más sencillo, se supone que los elementos inferiores no están fijos en el espacio, por tanto, pueden producir rotación en sus respectivos elementos, así como trasladarse linealmente como la rueda de un carro.
 
 
 ### Juntas completas
 
-Permiten 1 solo GDL, los otros son restringidos.
+Permiten 1 solo GDL.
 
 ![](attachments/Pasted%20image%2020230211101419.png)
 
@@ -63,7 +63,6 @@ Permiten 1 solo GDL, los otros son restringidos.
 Permiten 2 GDL.
 
 ![](attachments/Pasted%20image%2020230211101520.png)
-
 
 
 El _orden_ en una junta, sirve para determinar el número de grados de libertad presentes en una sola junta. Donde uno de los eslabones es la bancada.
@@ -92,7 +91,7 @@ Basta con que solo un eslabón esté conectado únicamente a otro.
 
 ![](attachments/Pasted%20image%2020230211102645.png)
 
-Característico de brazos robóticos en ensambladoras. En robótica se le conoce a esto como robótica serial.
+Característico en brazos robóticos en ensambladoras. En robótica se le conoce a esto como robótica serial.
 
 
 ### Cadena cerrada

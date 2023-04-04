@@ -11,8 +11,22 @@
             "id": "8d96b56d397bec1a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Mecanismos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "efbbc86b643b3955",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/blackboard.excalidraw.md"
+              }
             }
           }
         ]
@@ -77,6 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Mecanismos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,6 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Mecanismos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +130,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Mecanismos.md"
+              }
             }
           },
           {
@@ -139,7 +157,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"sonido\"",
+                "query": "\"\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -168,9 +186,10 @@
   },
   "active": "8d96b56d397bec1a",
   "lastOpenFiles": [
+    "Excalidraw/blackboard.excalidraw.md",
+    "Mecanismos.md",
     "Estática de Fluidos.md",
     "Linked note.md",
-    "Excalidraw/blackboard.excalidraw.md",
     "Excalidraw/whiteboard.excalidraw.md",
     "LaTeX.md",
     "Excalidraw/attachments/Pasted Image 20230331091726_890.png",
@@ -187,7 +206,6 @@
     "Finanzas.md",
     "Electrónica Digital II.md",
     "Servomecanismos.md",
-    "Mecanismos.md",
     "Verilog.md",
     "attachments/Pasted image 20230329221242.png",
     "attachments/Pasted image 20230329220302.png",
