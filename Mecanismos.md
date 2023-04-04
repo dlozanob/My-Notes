@@ -226,7 +226,7 @@ $$
 $$
 
 Aquí el resorte se considera como elemento debido a que no hace parte de la bancada.
-El mecanismo está bloqueado según esta perspectiva.
+El mecanismo está bloqueado por el resorte.
 
 Ahora bien, consideremos el mismo caso pero sin resorte:
 
@@ -243,11 +243,9 @@ $$
 $$
 
 
-
 Ejemplo:
 
 ![](attachments/Pasted%20image%2020230219190852.png)
-
 
 $$
 \begin{align*}
