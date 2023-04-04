@@ -538,7 +538,7 @@ Algunos ejemplos son:
 
 Son configuraciones en las que se ubica uno de los eslabones impulsados en una posición extrema.
 
-Se llaman de agarrotamiento porque en estas posiciones algunos eslabones quedan solapados sobre otro o son colineales, provocando un atasco.
+Se llaman de agarrotamiento porque en estas posiciones algunos eslabones quedan solapados uno sobre otro o son colineales, provocando un atasco.
 Por ello mismo, se recomienda que los mecanismos no comiencen en estas configuraciones. Por otro lado, si empiezan en otra, cuando lleguen a estas posiciones, el mecanismo ya va a tener una inercia y no se va a atascar.
 
 También son llamadas _posiciones singulares_.
@@ -548,11 +548,10 @@ También son llamadas _posiciones singulares_.
 ![](attachments/Pasted%20image%2020230220174402.png)
 
 
-
 ## Ángulo de transmisión
 
 
-- Ventaja mecánica ($V.M$): Es la eficiencia del mecanismo.
+- _Ventaja mecánica_ ($V.M$): Es la eficiencia del mecanismo.
 
 $$
 \begin{align*}
@@ -561,8 +560,7 @@ $$
 \end{align*}
 $$
 
-
-- Ángulo de transmisión ($\gamma$): Es aquel entre dos eslabones que cuantifica la ventaja mecánica.
+- _Ángulo de transmisión_ ($\gamma$): Es aquel entre dos eslabones que cuantifica la ventaja mecánica.
 
 Para mecanismos de biela-manivela y 4 barras:
 
