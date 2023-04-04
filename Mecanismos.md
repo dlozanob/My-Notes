@@ -388,7 +388,6 @@ Cuando todas las juntas son completas, el mecanismo tiene un número impar de GD
 
 ![](attachments/Pasted%20image%2020230219203444.png)
 
-
 En la imagen se tienen dos isómeros, con 2 eslabones ternarios y 4 binarios. Producen 1 GDL.
 
 
@@ -403,17 +402,14 @@ Lo encerrado en el cuadrado rojo se vuelve bancada porque el eslabón binario bl
 >Las hélices de los helicópteros poseen una geometría tal que, al fallar el helicóptero y caer, el aire hace que la hélice gire, igualando parcialmente la fuerza de la gravedad, lo que hace que el helicóptero caiga con velocidad constante
 
 
-
-## Inversión de eslabonamientos
+### Inversión de eslabonamientos
 
 Consiste en modificar el comportamiento del mecanismo al cambiar la bancada de elemento.
 
 ![](attachments/Pasted%20image%2020230219205857.png)
 
 
-
-
-## Transformación de eslabonamientos
+### Transformación de eslabonamientos
 
 Consiste en transformar los elementos sin modificar los GDL.
 
@@ -425,12 +421,11 @@ Reglas:
 
 2. Cualquier junta completa se puede reemplazar por una semijunta aumentando un GDL
 
-4. Reducir un eslabón disminuye un GDL
+3. Reducir un eslabón disminuye un GDL
 
-6. Combinar las reglas 2 y 4 no alterará los GDL
+4. Combinar las reglas 2 y 3 no alterará los GDL
 
 ![](attachments/Pasted%20image%2020230219212620.png)
-
 
 El eslabón efectivo 3 es perpendicular a la tangente de la curva de la ranura. En la última imagen se pivota este eslabón hacia el infinito.
 
@@ -443,13 +438,11 @@ Otro ejemplo del uso de esta regla es el siguiente:
 
 Una de las revolutas se cambia por una junta superior la cual es una semijunta. Luego se elimina uno de los eslabones.
 
-
 5. Un eslabón ternario o de mayor orden puede ser reemplazado por uno contraido parcialmente con una junta múltiple.
 
 ![](attachments/Pasted%20image%2020230220133409.png)
 
 Es decir, queda un eslabón binario, pero todos los eslabones cuyas juntas se eliminan, se encuentran en una misma junta concurrente.
-
 
 6. Un eslabón ternario o de mayor orden puede ser eliminado, y todos sus eslabones concurren en una misma junta múltiple.
 
@@ -458,15 +451,14 @@ Es decir, queda un eslabón binario, pero todos los eslabones cuyas juntas se el
 
 ## Análisis de posición (método gráfico)
 
-
-- Configuración: Posición de todos los eslabones para una determinada posición
-- Inversión geométrica: Configuraciones alternas para una misma posición de los eslabones de entrada
+- _Configuración_ : Posición de todos los eslabones para una determinada posición
+- _Inversión geométrica_ : Configuraciones alternas para una misma posición de los eslabones de entrada
 
 ![](attachments/Pasted%20image%2020230220141509.png)
 
->[!Note]
->En un mecanismo de 4 barras, se le dice _circuito abierto_ a la inversión que está en negro.
->Se le dice _circuito cruzado_ a la inversión en azul.
+
+En un mecanismo de 4 barras, se le dice _circuito abierto_ a la inversión que está en negro.
+Se le dice _circuito cruzado_ a la inversión en azul.
 
 
 Procedimiento:
