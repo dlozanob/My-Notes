@@ -119,7 +119,9 @@ Procedimiento para representar gráficamente un mecanismo:
 >[!Note]
 >Un punto de interés es comúnmente un punto clave donde se aplican fuerzas (puntos de entrada) o donde estas son producidas (puntos de salida)
 
-Ejemplo:
+---
+
+- __Ejemplo__ :
 
 ![](attachments/Pasted%20image%2020230211124749.png)
 
@@ -158,8 +160,9 @@ $$
 >- Los resortes no se cuentan como elementos cuando estos hacen parte de la bancada. Caso contrario, se representa como un eslabón binario
 >- Cuando se vence la fuerza del resorte se recupera la movilidad real. Los resortes bloquean los mecanismos
 
+---
 
-Ejemplo:
+- __Ejemplo__ :
 
 ![](attachments/Pasted%20image%2020230211165147.png)
 
@@ -176,7 +179,7 @@ $$
 El elemento $1$ es la bancada. Las juntas $D$ y $F$ cuentan por 3 $J_{1}$, junta prismática y dos revolutas.
 
 
-Ejemplo:
+- __Ejemplo__ :
 
 ![](attachments/Pasted%20image%2020230211165644.png)
 
@@ -190,7 +193,7 @@ $$
 \end{align*}
 $$
 
-Ejemplo:
+- __Ejemplo__ :
 
 ![](attachments/Pasted%20image%2020230211170424.png)
 
@@ -208,7 +211,7 @@ Las poleas se modelan como dos pseudo-eslabones. Además de 2 juntas completas e
 La única $J_{2}$ es la rodadura.
 
 
-Ejemplo:
+- __Ejemplo__ :
 
 Se tiene el caso de un pedal de batería.
 
@@ -243,7 +246,7 @@ $$
 $$
 
 
-Ejemplo:
+- __Ejemplo__ :
 
 ![](attachments/Pasted%20image%2020230219190852.png)
 
@@ -462,7 +465,6 @@ Se le dice _circuito cruzado_ a la inversión en azul.
 
 
 Procedimiento:
-
 1. Realizar el diagrama cinemático
 2. Calcular la movilidad del mecanismo para identificar los eslabones de entrada
 3. Reubicar los eslabones de entrada en su nueva posición
@@ -470,8 +472,9 @@ Procedimiento:
 	1. Dibujar la trayectoria restringida de los elementos pivotados a la bancada
 	2. Dibujar las trayectorias posibles de los demás eslabones
 
+---
 
-Ejemplo:
+- __Ejemplo__ :
 
 ![](attachments/Pasted%20image%2020230220145023.png)
 
@@ -481,7 +484,6 @@ Se plantea el diagrama cinemático:
 ![](attachments/Pasted%20image%2020230220145554.png)
 
 ![](attachments/Pasted%20image%2020230220145604.png)
-
 
 Se plantea otra configuración donde el eslabón 4 está rotado $15°$ en sentido antihorario.
 
@@ -495,7 +497,6 @@ Se traza la trayectoria posible del punto B a partir de la nueva posición:
 
 ![](attachments/Pasted%20image%2020230220150414.png)
 
-
 En la intersección entre la trayectoria restringida y la trayectoria posible del punto B, se ubica el punto $B'$.
 
 ![](attachments/Pasted%20image%2020230220150543.png)
@@ -507,20 +508,18 @@ En la intersección entre la trayectoria restringida y la trayectoria posible de
 
 ## Análisis de posición (método analítico)
 
-
 Procedimiento:
-
 1. Plantear el diagrama cinemático
 2. Analizar la geometría de la configuración inicial
 3. Analizar la geometría de la configuración final
 
+---
 
-Ejemplo:
+- __Ejemplo__ :
 
 ![](attachments/Pasted%20image%2020230220170900.png)
 
 Se debe determinar el desplazamiento de $C$, para ello se hace analíticamente $L_{C} - L_{C}'$.
-
 
 
 ## Ecuaciones paramétricas
