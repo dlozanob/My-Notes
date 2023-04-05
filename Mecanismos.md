@@ -657,8 +657,8 @@ Para mecanismos conducidos por una velocidad angular constante: $\omega_{manivel
 
 1. Ubicar el eje del pin de la corredera
 2. Dibujar las posiciones extremas de la corredera $C_{1}$ y $C_{2}$, distanciadas por $|\Delta R_{4}|_{max}$
-3. Dibujar una línea arbitrara $M$ que pase por el punto $C_{1}$ y tenga un ángulo $\theta_{M}$
-4. Dibujar una línea $N$ que pase por el punto $C_{2}$, cruce la línea $M$ y tenga un ángulo de $\theta_{N} = \theta_{M} - \beta$
+3. Dibujar una línea arbitraria $M$ que pase por el punto $C_{1}$ y tenga un ángulo $\theta_{M}$
+4. Dibujar una línea $N$ que pase por el punto $C_{2}$, cruce la línea $M$ y tenga un ángulo $\theta_{N} = \theta_{M} - \beta$
 5. Dibujar el punto $A$ el cual es el pivote de la manivela y se encuentra en la intersección entre las líneas $M$ y $N$
 6. Calcular la longitud de la manivela: $L_{2} = \frac{\bar{AC_{2}} - \bar{AC_{1}}}{2}$
 7. Calcular la longitud de la biela: $L_{3} = \bar{AC_{1}} + L_{2}$
@@ -668,7 +668,7 @@ Para mecanismos conducidos por una velocidad angular constante: $\omega_{manivel
 
 ### Procedimiento analítico
 
-A partir de $|\Delta R_{4}|_{max}$, $\beta$ y un valor arbitrario de $\theta_{M}$:
+A partir de $|\Delta R_{4}|_{max}$, $\beta$ y un valor arbitrario $\theta_{M}$:
 
 $$
 \begin{align*}
@@ -691,14 +691,23 @@ $$
 ### Procedimiento gráfico
 
 1. Ubicar el pivote $D$ del balancín
-2. 
+2. Escoger una longitud factible de balancín $L_{4}$
+3. Dibujar las posiciones angulares límite del balancín $C_{1}$ y $C_{2}$, las cuales están separadas por $(\Delta \theta_{4})_{max}$
+4. Dibujar una línea arbitraria $M$ que pase por $C_{2}$ y tenga un ángulo $\theta_{M}$
+5. Dibujar una línea $N$ que pase por $C_{1}$, cruce la línea $M$ y tenga un ángulo $\theta_{N} = \theta_{M} - \beta$
+6. Dibujar el punto $A$ el cual es el pivote de la manivela y se encuentra en la intersección entre las líneas $M$ y $N$ 
+8. Calcular la longitud de la manivela: $L_{2} = \frac{\bar{AC_{2}} - \bar{AC_{1}}}{2}$
+9. Calcular la longitud de la biela: $L_{3} = \bar{AC_{1}} + L_{2}$
 
-![](attachments/Pasted%20image%2020230405125535.png)
+![](attachments/Pasted%20image%2020230405130840.png)
+
+>[!Note]
+>Si $Q = 1$ entonces $M$ y $N$ son colineales y el pivote A se puede ubicar en cualquier parte de las líneas
 
 
 ### Procedimiento analítico
 
-
+A partir de $|\Delta \theta_{4}|_{max}$, $L_{1}$, $\beta$ y un valor arbitrario $\theta_{M}$:
 
 
 
