@@ -129,3 +129,13 @@ $$
 $$
 
 
+## Diseño de mecanismos: Retorno rápido
+
+El mecanismo _retorno rápido_ (_quick return_) es el siguiente:
+
+![](attachments/Pasted%20image%2020230405142511.png)
+
+Es usado en máquinas de limador de manivela:
+
+![](attachments/Pasted%20image%2020230405142620.png)
+

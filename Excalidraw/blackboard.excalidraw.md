@@ -8,6 +8,10 @@ tags: [excalidraw]
 
 
 # Text Elements
+
+# Embedded files
+27e9eb44af908f496118f8f7428fb0148bd6511d: [[attachments/Pasted Image 20230405142619_790.png]]
+
 %%
 # Drawing
 ```json
@@ -16,6 +20,70 @@ tags: [excalidraw]
 	"version": 2,
 	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.8.21",
 	"elements": [
+		{
+			"id": "f_BcFFp8HdxJE_1O1yhyg",
+			"type": "image",
+			"x": -129.51683286388027,
+			"y": -185.6255605381166,
+			"width": 336.05306799336654,
+			"height": 340,
+			"angle": 0,
+			"strokeColor": "transparent",
+			"backgroundColor": "#b6b6b6",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 1301663934,
+			"version": 4,
+			"versionNonce": 643206626,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1680722777861,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "27e9eb44af908f496118f8f7428fb0148bd6511d",
+			"scale": [
+				1,
+				1
+			]
+		},
+		{
+			"id": "ZO_jwI6Qtjya8PadpEMaK",
+			"type": "image",
+			"x": -102.90876645069409,
+			"y": -202.6255605381166,
+			"width": 426.8369351669941,
+			"height": 340,
+			"angle": 0,
+			"strokeColor": "transparent",
+			"backgroundColor": "#b6b6b6",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 526343742,
+			"version": 79,
+			"versionNonce": 497892962,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1680722777447,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "1a3ce1a6b57d427f73bc994a03b4fd805969d7c8",
+			"scale": [
+				1,
+				1
+			]
+		},
 		{
 			"type": "image",
 			"version": 5,

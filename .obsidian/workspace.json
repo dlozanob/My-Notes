@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mecanismos.md",
-                "mode": "preview",
+                "file": "Síntesis de mecanismos.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mecanismos.md",
+                "file": "Síntesis de mecanismos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mecanismos.md",
+                "file": "Síntesis de mecanismos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mecanismos.md"
+                "file": "Síntesis de mecanismos.md"
               }
             }
           },
@@ -187,9 +187,14 @@
   },
   "active": "8d96b56d397bec1a",
   "lastOpenFiles": [
+    "attachments/Pasted image 20230405142620.png",
     "Excalidraw/blackboard.excalidraw.md",
-    "Mecanismos.md",
+    "Excalidraw/attachments/Pasted Image 20230405142619_790.png",
     "Síntesis de mecanismos.md",
+    "attachments/Pasted image 20230405142511.png",
+    "Excalidraw/attachments/Pasted Image 20230405142509_744.png",
+    "attachments/Pasted image 20230405142500.png",
+    "Mecanismos.md",
     "Fundamentos de cinemática de mecanismos.md",
     "Análisis de posición.md",
     "attachments/Pasted image 20230405130840.png",
@@ -198,10 +203,6 @@
     "Excalidraw/attachments/Pasted Image 20230405125531_986.png",
     "attachments/Pasted image 20230405125524.png",
     "attachments/Pasted image 20230405125325.png",
-    "Excalidraw/attachments/Pasted Image 20230405125324_426.png",
-    "attachments/Pasted image 20230405124641.png",
-    "attachments/Pasted image 20230405124557.png",
-    "attachments/Pasted image 20230405124537.png",
     "Linked note.md",
     "Obsidian Basics.md",
     "Estática de Fluidos.md",
@@ -222,7 +223,6 @@
     "Automatización%2C Control y Robótica.md",
     "Main.md",
     "Ingeniería Electrónica.md",
-    "Cinemática de Fluidos.md",
     "Excalidraw/attachments",
     "attachments",
     "New folder",
