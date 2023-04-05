@@ -41,7 +41,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -103,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mecanismos.md",
+                "file": "Linked note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mecanismos.md",
+                "file": "Linked note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mecanismos.md"
+                "file": "Linked note.md"
               }
             }
           },
@@ -197,11 +198,11 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "8d96b56d397bec1a",
+  "active": "bebfe3efda8b63b8",
   "lastOpenFiles": [
+    "Mecanismos.md",
     "Excalidraw/blackboard.excalidraw.md",
     "Linked note.md",
-    "Mecanismos.md",
     "Obsidian Basics.md",
     "Estática de Fluidos.md",
     "Excalidraw/whiteboard.excalidraw.md",
