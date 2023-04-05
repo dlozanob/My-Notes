@@ -159,9 +159,22 @@ Existen otras variantes del mecanismo de retorno rápido como:
 ### Procedimiento gráfico
 
 1. Dibujar las posiciones extremas de la corredera $D_{1}$ y $D_{2}$, distanciadas por $|\Delta R_{E}|_{max}$
-2. Dibujar una línea 
+2. Dibujar una línea que pase por $D_{1}$ y tenga un ángulo $\frac{\beta}{2}$ con respecto a la vertical
+3. Dibujar una línea que pase por $D_{2}$ y tenga un ángulo $\frac{\beta}{2}$ con respecto a la vertical
+4. Dibujar el punto $A$ el cual es el pivote de la biela y se encuentra en la intersección de las líneas dibujadas en los pasos $3.$ y $4.$
+5. Dibujar una línea $P$ que pase por $A$ y sea perpendicular a $\bar{D_{1}D_{2}}$
+6. Dibujar en cualquier posición de la línea P, un punto $C$ el cual es el pivote de la manivela
+7. Dibujar una línea perpendicular a $\bar{D_{1}A}$ y que pase por $C$. La intersección es $B_{1}$
+8. Dibujar una línea perpendicular a $\bar{D_{2}A}$ y que pase por $C$. La intersección es $B_{2}$
+9. Calcular la longitud de la manivela: $L_{2} = \bar{CB_{1}} = \bar{CB_{2}}$
+10. Determinar la longitud $L_{4}$ de tal manera que el mecanismo cumpla su función
 
 ![](attachments/Pasted%20image%2020230405144059.png)
+
+>[!Note]
+>- Aumentar $L_{4}$ reduce la aceleración, y por tanto, el mecanismo no retornará tan rápido
+>- Se recomienda: $$
+
 
 
 ### Procedimiento analítico
