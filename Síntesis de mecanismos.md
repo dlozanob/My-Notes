@@ -131,11 +131,38 @@ $$
 
 ## Diseño de mecanismos: Retorno rápido
 
-El mecanismo _retorno rápido_ (_quick return_) es el siguiente:
+El mecanismo de _retorno rápido_ (_quick return_) es el siguiente:
 
-![](attachments/Pasted%20image%2020230405142511.png)
+![](attachments/Pasted%20image%2020230405143922.png)
+
+Posee un $Q$ elevado.
+
 
 Es usado en máquinas de limador de manivela:
 
 ![](attachments/Pasted%20image%2020230405142620.png)
+
+Existen otras variantes del mecanismo de retorno rápido como:
+- Cuatro barras, manivela-balancín:
+
+![](attachments/Pasted%20image%2020230405143415.png)
+
+- Seis barras, eslabón de arrastre y salida del balancín:
+
+![](attachments/Pasted%20image%2020230405143441.png)
+
+- Seis barras, eslabón de arrastre y salida de corredera:
+
+![](attachments/Pasted%20image%2020230405143521.png)
+
+
+### Procedimiento gráfico
+
+1. Dibujar las posiciones extremas de la corredera $D_{1}$ y $D_{2}$, distanciadas por $|\Delta R_{E}|_{max}$
+2. Dibujar una línea 
+
+![](attachments/Pasted%20image%2020230405144059.png)
+
+
+### Procedimiento analítico
 
