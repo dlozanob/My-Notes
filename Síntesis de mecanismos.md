@@ -194,13 +194,13 @@ Conociendo más de una posición de un mismo eslabón, se puede sintetizar un me
 
 ### Síntesis de 2 posiciones
 
-Inicialmente se tienen estas dos posiciones:
+Inicialmente se proponen dos posiciones:
 
 ![](attachments/Pasted%20image%2020230405151531.png)
 
 #### Eslabón pivotado
 
-Descripción:
+Representación:
 
 ![](attachments/Pasted%20image%2020230405152020.png)
 
@@ -218,23 +218,23 @@ Procedimiento:
 
 #### Acoplador de un mecanismo de 4 barras
 
-Descripción:
+Representación:
+
 ![](attachments/Pasted%20image%2020230405174454.png)
 
 1. Conectar $A_{1}$ con $A_{2}$ y $B_{1}$ con $B_{2}$
 2. Dibujar las mediatrices de $\bar{A_{1}A_{2}}$ y $\bar{B_{1}B_{2}}$
 3. Ubicar los pivotes en cualquier punto sobre las mediatrices
 
-
-
-
-
-
-
-
+![](attachments/Pasted%20image%2020230405174548.png)
 
 
 ### Síntesis de 3 posiciones
+
+Inicialmente se proponen tres posiciones:
+
+
+
 
 #### Acoplador de un mecanismo de 4 barras
 
