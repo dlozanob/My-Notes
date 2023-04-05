@@ -194,22 +194,43 @@ Conociendo más de una posición de un mismo eslabón, se puede sintetizar un me
 
 ### Síntesis de 2 posiciones
 
-#### Eslabón pivotado
-
-Se tiene el mecanismo:
-
-![](attachments/Pasted%20image%2020230405152020.png)
-
-Incialmente se tiene:
+Inicialmente se tienen estas dos posiciones:
 
 ![](attachments/Pasted%20image%2020230405151531.png)
 
+#### Eslabón pivotado
+
+Descripción:
+
+![](attachments/Pasted%20image%2020230405152020.png)
+
 Procedimiento:
 1. Conectar $A_{1}$ con $A_{2}$ y $B_{1}$ con $B_{2}$
-2. 
+2. Dibujar las mediatrices de $\bar{A_{1}A_{2}}$ y $\bar{B_{1}B_{2}}$
+3. Dibujar el punto $C$ el cual es la intersección de las mediatrices
+4. Medir el ángulo de movimiento requerido $\Delta \theta$
+
+![](attachments/Pasted%20image%2020230405173413.png)
+
+>[!Note]
+>Se puede sintetizar un mecanismo de manivela-balancín a partir de este
 
 
 #### Acoplador de un mecanismo de 4 barras
+
+Descripción:
+![](attachments/Pasted%20image%2020230405174454.png)
+
+1. Conectar $A_{1}$ con $A_{2}$ y $B_{1}$ con $B_{2}$
+2. Dibujar las mediatrices de $\bar{A_{1}A_{2}}$ y $\bar{B_{1}B_{2}}$
+3. Ubicar los pivotes en cualquier punto sobre las mediatrices
+
+
+
+
+
+
+
 
 
 
