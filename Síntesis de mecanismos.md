@@ -196,7 +196,11 @@ Conociendo más de una posición de un mismo eslabón, se puede sintetizar un me
 
 #### Eslabón pivotado
 
-Las posiciones del eslabón son:
+Se tiene el mecanismo:
+
+![](attachments/Pasted%20image%2020230405152020.png)
+
+Incialmente se tiene:
 
 ![](attachments/Pasted%20image%2020230405151531.png)
 
