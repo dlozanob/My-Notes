@@ -672,16 +672,31 @@ A partir de $|\Delta R_{4}|_{max}$, $\beta$ y un valor arbitrario de $\theta_{M}
 
 $$
 \begin{align*}
-	L_{1} = |\Delta R_{4}|_{max}\left[\frac{\sin(\theta_{M})\sin(\theta_{M} - \beta)}{\sin} \right]
+	L_{1} &= |\Delta R_{4}|_{max}\left[\frac{\sin(\theta_{M})\sin(\theta_{M} - \beta)}{\sin(\beta)} \right] \\\\
+	L_{2} &= |\Delta R_{4}|_{max}\left[\frac{\sin(\theta_{M}) - \sin(\theta_{M} - \beta)}{2\sin(\beta)} \right] \\\\
+	L_{3} &= |\Delta R_{4}|_{max}\left[\frac{\sin(\theta_{M}) + \sin(\theta_{M} - \beta)}{2\sin(\beta)} \right]
 \end{align*}
 $$
 
-
-
-
+>[!Note]
+>La regla $L_{3} \geq 3L_{2}$ viene de:
+>![](attachments/Pasted%20image%2020230405124641.png)
 
 
 ## Diseño de mecanismos: Manivela-balancín
+
+![](attachments/Pasted%20image%2020230405125325.png)
+
+
+### Procedimiento gráfico
+
+1. Ubicar el pivote $D$ del balancín
+2. 
+
+![](attachments/Pasted%20image%2020230405125535.png)
+
+
+### Procedimiento analítico
 
 
 
