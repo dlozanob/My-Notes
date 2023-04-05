@@ -10,8 +10,7 @@ tags: [excalidraw]
 # Text Elements
 
 # Embedded files
-1111fdff8dd1292c9adc37550602ae4c2df7e3ec: [[attachments/Pasted Image 20230405120757_492.png]]
-97b650ccc2aa80a3cfb6dbe143420d5658f0f024: [[attachments/Pasted Image 20230405120916_076.png]]
+7bc7f8b036977ce8b88b57d49af43eccfb941494: [[attachments/Pasted Image 20230405122537_046.png]]
 
 %%
 # Drawing
@@ -22,10 +21,42 @@ tags: [excalidraw]
 	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.8.21",
 	"elements": [
 		{
+			"id": "aBaEaXjTBvY4TqlNnO4fH",
 			"type": "image",
-			"version": 46,
-			"versionNonce": 719338274,
+			"x": -253.73167817754177,
+			"y": -144.98292730927642,
+			"width": 464.0551724137931,
+			"height": 263.66771159874605,
+			"angle": 0,
+			"strokeColor": "transparent",
+			"backgroundColor": "#b6b6b6",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 1986101154,
+			"version": 93,
+			"versionNonce": 2079854462,
 			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1680715547750,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "7bc7f8b036977ce8b88b57d49af43eccfb941494",
+			"scale": [
+				1,
+				1
+			]
+		},
+		{
+			"type": "image",
+			"version": 47,
+			"versionNonce": 1357990882,
+			"isDeleted": true,
 			"id": "sd1g81Fs5xi3_kCRw-X0B",
 			"fillStyle": "solid",
 			"strokeWidth": 4,
@@ -43,7 +74,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1680714473982,
+			"updated": 1680715531148,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -55,9 +86,9 @@ tags: [excalidraw]
 		},
 		{
 			"type": "image",
-			"version": 462,
-			"versionNonce": 893353058,
-			"isDeleted": false,
+			"version": 463,
+			"versionNonce": 1786993470,
+			"isDeleted": true,
 			"id": "WXD6RAuhYiyq6qB-N8W8c",
 			"fillStyle": "solid",
 			"strokeWidth": 4,
@@ -75,7 +106,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1680714602008,
+			"updated": 1680715531148,
 			"link": null,
 			"locked": false,
 			"status": "pending",

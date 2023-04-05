@@ -573,6 +573,9 @@ $$
 | ![](attachments/Pasted%20image%2020230220175721.png) | $\gamma_{mín} = cos^{-1}(\frac{L_{1} + L_{2}}{L_{3}})$ | $\gamma_{máx} = cos^{-1}(\frac{L_{1} - L_{2}}{L_{3}})$ |
 | ![](attachments/Pasted%20image%2020230220180243.png) | $\gamma_{mín} = cos^{-1}(\frac{L_{3}^2 + L_{4}^2 - (L_{1} - L_{2})^2}{2L_{3}L_{4}})$ | $\gamma_{máx} = cos^{-1}(\frac{L_{3}^2 + L_{4}^2 - (L_{1} + L_{2})^2}{2L_{3}L_{4}})$ | 
 
+>[!Note]
+>Los ángulos de transmisión deben mantenerse en un rango recomendado: $45° < \gamma < 135°$
+>Esto es debido a que $V.M_{max}$ ocurre cuando $\gamma = 90°$, entonces se deben reducir las pérdidas de energía garantizando un $\gamma$ cercano a este ángulo
 
 ## Ecuaciones de clausura
 
@@ -633,19 +636,31 @@ Para mecanismos conducidos por una velocidad angular constante: $\omega_{manivel
 ## Diseño de mecanismos: Manivela-corredera
 
 - Mecanismo alineado:
+	- $Q = 1$
+	- $L_{2} = \frac{|\Delta R_{4}|_{max}}{2}$
+	- $L_{3} > L_{2}$
+	- $L_{3} \geq 3L_{2}$ (Regla práctica recomendada por fuerzas inerciales)
 
 ![](attachments/Pasted%20image%2020230405120759.png)
 
 
-
-
-
 - Mecanismo desplazado:
+	- $Q > 1$
+	- $L_{2} < \frac{|\Delta R|_{max}}{2}$
+	- $L_{3} > L_{1} + L_{2}$
+	- $L_{3} \geq 3L_{2}$ (Regla práctica recomendada por fuerzas inerciales)
 
 ![](attachments/Pasted%20image%2020230405121010.png)
 
 
+### Procedimiento gráfico
 
+1. Ubicar el eje del pin de la corredera
+2. Dibujar las posiciones extremas de la corredera $C_{1}$ y $C_{2}$
+
+![](attachments/Pasted%20image%2020230405122550.png)
+
+### Procedimiento analítico
 
 
 
