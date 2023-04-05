@@ -646,7 +646,7 @@ Para mecanismos conducidos por una velocidad angular constante: $\omega_{manivel
 
 - Mecanismo desplazado:
 	- $Q > 1$
-	- $L_{2} < \frac{|\Delta R|_{max}}{2}$
+	- $L_{2} < \frac{|\Delta R_{4}|_{max}}{2}$
 	- $L_{3} > L_{1} + L_{2}$
 	- $L_{3} \geq 3L_{2}$ (Regla práctica recomendada por fuerzas inerciales)
 
@@ -656,11 +656,28 @@ Para mecanismos conducidos por una velocidad angular constante: $\omega_{manivel
 ### Procedimiento gráfico
 
 1. Ubicar el eje del pin de la corredera
-2. Dibujar las posiciones extremas de la corredera $C_{1}$ y $C_{2}$
+2. Dibujar las posiciones extremas de la corredera $C_{1}$ y $C_{2}$, distanciadas por $|\Delta R_{4}|_{max}$
+3. Dibujar una línea arbitrara $M$ que pase por el punto $C_{1}$ y tenga un ángulo $\theta_{M}$
+4. Dibujar una línea $N$ que pase por el punto $C_{2}$, cruce la línea $M$ y tenga un ángulo de $\theta_{N} = \theta_{M} - \beta$
+5. Dibujar el punto $A$ el cual es el pivote de la manivela y se encuentra en la intersección entre las líneas $M$ y $N$
+6. Calcular la longitud de la manivela: $L_{2} = \frac{\bar{AC_{2}} - \bar{AC_{1}}}{2}$
+7. Calcular la longitud de la biela: $L_{3} = \bar{AC_{1}} + L_{2}$
 
 ![](attachments/Pasted%20image%2020230405122550.png)
 
+
 ### Procedimiento analítico
+
+A partir de $|\Delta R_{4}|_{max}$, $\beta$ y un valor arbitrario de $\theta_{M}$:
+
+$$
+\begin{align*}
+	L_{1} = |\Delta R_{4}|_{max}\left[\frac{\sin(\theta_{M})\sin(\theta_{M} - \beta)}{\sin} \right]
+\end{align*}
+$$
+
+
+
 
 
 
