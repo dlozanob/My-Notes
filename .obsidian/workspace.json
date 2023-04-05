@@ -25,7 +25,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md"
+                "file": "Excalidraw/whiteboard.excalidraw.md"
               }
             }
           }
@@ -187,10 +187,11 @@
   },
   "active": "8d96b56d397bec1a",
   "lastOpenFiles": [
-    "attachments/Pasted image 20230405182821.png",
+    "Excalidraw/whiteboard.excalidraw.md",
     "Excalidraw/blackboard.excalidraw.md",
-    "Excalidraw/attachments/Pasted Image 20230405182819_694.png",
     "Síntesis de mecanismos.md",
+    "attachments/Pasted image 20230405182821.png",
+    "Excalidraw/attachments/Pasted Image 20230405182819_694.png",
     "attachments/Pasted image 20230405182756.png",
     "Excalidraw/attachments/Pasted Image 20230405182748_700.png",
     "attachments/Pasted image 20230405182504.png",
@@ -199,14 +200,12 @@
     "Excalidraw/attachments/Pasted Image 20230405181508_141.png",
     "attachments/Pasted image 20230405181429.png",
     "Excalidraw/attachments/Pasted Image 20230405181424_292.png",
-    "attachments/Pasted image 20230405181315.png",
     "Mecanismos.md",
     "Fundamentos de cinemática de mecanismos.md",
     "Análisis de posición.md",
     "Linked note.md",
     "Obsidian Basics.md",
     "Estática de Fluidos.md",
-    "Excalidraw/whiteboard.excalidraw.md",
     "LaTeX.md",
     "Propiedades de los Fluidos.md",
     "Fundamentos de Mecánica de Fluidos.md",
