@@ -10,7 +10,7 @@ tags: [excalidraw]
 # Text Elements
 
 # Embedded files
-f53b3ffd0ac8f25b6ca2683d6a57e0821c62f0fc: [[attachments/Pasted Image 20230405181508_141.png]]
+2fe51e7903a24ca3f7aa4cc51b26996991fb208c: [[attachments/Pasted Image 20230405182819_694.png]]
 
 %%
 # Drawing
@@ -20,6 +20,102 @@ f53b3ffd0ac8f25b6ca2683d6a57e0821c62f0fc: [[attachments/Pasted Image 20230405181
 	"version": 2,
 	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.8.21",
 	"elements": [
+		{
+			"id": "lWquacdmpQDTwBN-jeapa",
+			"type": "image",
+			"x": -265.01084681240246,
+			"y": -186.6255605381166,
+			"width": 342.32876712328766,
+			"height": 238.00000000000003,
+			"angle": 0,
+			"strokeColor": "transparent",
+			"backgroundColor": "#ffffff",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 1310354146,
+			"version": 63,
+			"versionNonce": 425485026,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1680737297930,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "2fe51e7903a24ca3f7aa4cc51b26996991fb208c",
+			"scale": [
+				1,
+				1
+			]
+		},
+		{
+			"id": "MWwIpooCcbjPRzZRyPBTZ",
+			"type": "image",
+			"x": -142.47182921020493,
+			"y": -181.75499316223005,
+			"width": 404.96306068601587,
+			"height": 272.12943262411346,
+			"angle": 0,
+			"strokeColor": "transparent",
+			"backgroundColor": "#ffffff",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 1220778430,
+			"version": 78,
+			"versionNonce": 492821502,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1680737291312,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "a8a1a3ecb353e4b5bbdef761e4d95d432fa6acc9",
+			"scale": [
+				1,
+				1
+			]
+		},
+		{
+			"id": "wNByQAvYZ5cGpfrhfGiZY",
+			"type": "image",
+			"x": -160.53488485445814,
+			"y": -160.7125170598557,
+			"width": 378.08917197452223,
+			"height": 258.0869565217391,
+			"angle": 0,
+			"strokeColor": "transparent",
+			"backgroundColor": "#ffffff",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 2050183842,
+			"version": 72,
+			"versionNonce": 2046387554,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1680737263275,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "8b60dce63595c949cdb06fd94a676b8a06b17998",
+			"scale": [
+				1,
+				1
+			]
+		},
 		{
 			"id": "4LE7VG4b3UiaJ1Wgzgo0m",
 			"type": "image",
@@ -38,11 +134,11 @@ f53b3ffd0ac8f25b6ca2683d6a57e0821c62f0fc: [[attachments/Pasted Image 20230405181
 			"groupIds": [],
 			"roundness": null,
 			"seed": 1568716386,
-			"version": 58,
-			"versionNonce": 83462142,
-			"isDeleted": false,
+			"version": 59,
+			"versionNonce": 650369086,
+			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1680736507012,
+			"updated": 1680737096315,
 			"link": null,
 			"locked": false,
 			"status": "pending",

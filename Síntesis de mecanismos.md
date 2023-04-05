@@ -232,25 +232,34 @@ Procedimiento:
 
 ### Síntesis de 3 posiciones
 
+#### Acoplador de un mecanismo de 4 barras
+
 Inicialmente se proponen tres posiciones:
 
 ![](attachments/Pasted%20image%2020230405181315.png)
-
-#### Acoplador de un mecanismo de 4 barras
 
 Representación:
 
 ![](attachments/Pasted%20image%2020230405181429.png)
 
 Procedimiento:
-
-
+1. Conectar $A_{1}$ con $A_{2}$, $A_{2}$ con $A_{3}$, $B_{1}$ con $B_{2}$ y $B_{2}$ con $B_{3}$
+2. Dibujar las mediatrices de $\bar{A_{1}A_{2}}$, $\bar{A_{2}A_{3}}$, $\bar{B_{1}B_{2}}$ y $\bar{B_{2}B_{3}}$
+3. Ubicar el pivote $C$ el cual está en la intersección de las mediatrices $\bar{A_{1}A_{2}}$ y $\bar{A_{2}A_{3}}$
+4. Ubicar el pivote $C$ el cual está en la intersección de las mediatrices $\bar{B_{1}B_{2}}$ y $\bar{B_{2}B_{3}}$
 
 ![](attachments/Pasted%20image%2020230405181509.png)
 
 
-
-
-
 #### Mecanismo de 4 barras con pivotes fijos
 
+Procedimiento:
+1. Dibujar el problema inicial (3 posiciones requeridas y posición de los pivotes)
+
+![](attachments/Pasted%20image%2020230405182504.png)
+
+2. Dibujar los triángulos $C_{2}D_{2}O_{2}$ y $C_{2}D_{2}O_{4}$
+
+![](attachments/Pasted%20image%2020230405182821.png)
+
+3. 
