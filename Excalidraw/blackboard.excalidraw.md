@@ -8,10 +8,6 @@ tags: [excalidraw]
 
 
 # Text Elements
-
-# Embedded files
-40f0eb7bdde6a1da04bdf9614860979dd666d2d1: [[attachments/Pasted Image 20230405125531_986.png]]
-
 %%
 # Drawing
 ```json
@@ -22,9 +18,9 @@ tags: [excalidraw]
 	"elements": [
 		{
 			"type": "image",
-			"version": 4,
-			"versionNonce": 749726590,
-			"isDeleted": false,
+			"version": 5,
+			"versionNonce": 189173026,
+			"isDeleted": true,
 			"id": "yeKSudUHGb-N1o63NiFtn",
 			"fillStyle": "solid",
 			"strokeWidth": 4,
@@ -42,7 +38,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1680717329237,
+			"updated": 1680719665696,
 			"link": null,
 			"locked": false,
 			"status": "pending",
