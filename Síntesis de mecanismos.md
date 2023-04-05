@@ -172,10 +172,47 @@ Existen otras variantes del mecanismo de retorno rápido como:
 ![](attachments/Pasted%20image%2020230405144059.png)
 
 >[!Note]
->- Aumentar $L_{4}$ reduce la aceleración, y por tanto, el mecanismo no retornará tan rápido
->- Se recomienda: $$
-
+>- Aumentar $L_{4}$ reduce la aceleración máxima, por tanto, se reducen esfuerzos
+>- Se recomienda: $L_{1} = \frac{P}{2}$
 
 
 ### Procedimiento analítico
+
+A partir de $|\Delta R_{E}|_{max}$, $L_{1}$, $\beta$ y definiendo $L_{4}$ lo más largo posible como la aplicación lo permita:
+
+$$
+\begin{align*}
+	L_{2} &= L_{1}\sin\left( \frac{\beta}{2} \right) \\\\
+	L_{3} &= \frac{|\Delta R_{E}|_{max}}{2\sin\left( \frac{\beta}{2} \right)}
+\end{align*}
+$$
+
+
+## Síntesis en posiciones conocidas
+
+Conociendo más de una posición de un mismo eslabón, se puede sintetizar un mecanismo que cumpla con esta aplicación.
+
+### Síntesis de 2 posiciones
+
+#### Eslabón pivotado
+
+Las posiciones del eslabón son:
+
+![](attachments/Pasted%20image%2020230405151531.png)
+
+Procedimiento:
+1. Conectar $A_{1}$ con $A_{2}$ y $B_{1}$ con $B_{2}$
+2. 
+
+
+#### Acoplador de un mecanismo de 4 barras
+
+
+
+### Síntesis de 3 posiciones
+
+#### Acoplador de un mecanismo de 4 barras
+
+
+#### Mecanismo de 4 barras con pivotes fijos
 
