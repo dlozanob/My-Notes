@@ -592,8 +592,64 @@ En eszte caso $\theta_{1}$ y $\theta_{2}$ son valores conocidos y se quiere dete
 El sistema de ecuaciones obtenido es no lineal, se puede usar el método numérico de solución de sistemas no lineales de Newton-Raphson.
 
 
-##
+## Síntesis de mecanismos
 
+Se basa en diseñar el mecznismo más sencillo para un cierta aplicación.
+
+- _Relación de tiempo_ :
+
+$$
+\begin{align*}
+	Q = \frac{t_{s}}{t_{f}} \geq 1
+\end{align*}
+$$
+
+Donde:
+- $t_{s}$ : Tiempo de la carrera más lenta
+- $t_{f}$ : Tiempo de la carrera más rápida
+
+Para mecanismos de carrera reciprocante (balanceado o simétrico): $Q = 1$
+Para mecanismos con carreras de trabajo y de retorno: $Q > 1$
+
+- _Ángulo de desbalance_ :
+
+$$
+\begin{align*}
+	\beta = 180°\frac{Q - 1}{Q + 1}
+\end{align*}
+$$
+
+- _Tiempo de ciclo_ :
+
+$$
+\begin{align*}
+	\Delta t_{ciclo} = t_{s} + t_{f}
+\end{align*}
+$$
+
+Para mecanismos conducidos por una velocidad angular constante: $\omega_{manivela} = \frac{1rev}{\Delta t_{ciclo}}$
+
+
+## Diseño de mecanismos: Manivela-corredera
+
+- Mecanismo alineado:
+
+![](attachments/Pasted%20image%2020230405120759.png)
+
+
+
+
+
+- Mecanismo desplazado:
+
+![](attachments/Pasted%20image%2020230405121010.png)
+
+
+
+
+
+
+## Diseño de mecanismos: Manivela-balancín
 
 
 
