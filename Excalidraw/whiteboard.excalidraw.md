@@ -10,7 +10,7 @@ tags: [excalidraw]
 # Text Elements
 
 # Embedded files
-c4a212e6db8b1f7b59741243a1ea518c45e6184e: [[attachments/Pasted Image 20230405194247_424.png]]
+761e30c6e2a2439f1a190acab0a53d640e013a95: [[attachments/Pasted Image 20230405200812_137.png]]
 
 %%
 # Drawing
@@ -20,6 +20,70 @@ c4a212e6db8b1f7b59741243a1ea518c45e6184e: [[attachments/Pasted Image 20230405194
 	"version": 2,
 	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.8.21",
 	"elements": [
+		{
+			"id": "jQ0dCgZFO3-cWuHemqGLw",
+			"type": "image",
+			"x": -155.38961038961037,
+			"y": -189.28346456692913,
+			"width": 478.77922077922074,
+			"height": 290.2834645669291,
+			"angle": 0,
+			"strokeColor": "transparent",
+			"backgroundColor": "#c0c0c0",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 179460478,
+			"version": 63,
+			"versionNonce": 1326480738,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1680743289669,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "761e30c6e2a2439f1a190acab0a53d640e013a95",
+			"scale": [
+				1,
+				1
+			]
+		},
+		{
+			"id": "Z1OJHCNmpjhmvaZRHyQrI",
+			"type": "image",
+			"x": -140.9058441558442,
+			"y": -234,
+			"width": 555.8116883116884,
+			"height": 340,
+			"angle": 0,
+			"strokeColor": "transparent",
+			"backgroundColor": "#c0c0c0",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 503958114,
+			"version": 37,
+			"versionNonce": 63310242,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1680743284544,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "a705ca515bf6edec1d896d0695881b3a6d4a1f70",
+			"scale": [
+				1,
+				1
+			]
+		},
 		{
 			"id": "iSjFTOJy-FLWrfhZKjowA",
 			"type": "image",
@@ -38,11 +102,11 @@ c4a212e6db8b1f7b59741243a1ea518c45e6184e: [[attachments/Pasted Image 20230405194
 			"groupIds": [],
 			"roundness": null,
 			"seed": 885438434,
-			"version": 224,
-			"versionNonce": 100105278,
-			"isDeleted": false,
+			"version": 225,
+			"versionNonce": 1954104446,
+			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1680741769914,
+			"updated": 1680743250297,
 			"link": null,
 			"locked": false,
 			"status": "pending",

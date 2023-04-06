@@ -309,5 +309,11 @@ Ahora son 3 posiciones de bancada y una posición para el acoplador
 
 ### Procedimiento gráfico
 
+Representación:
 
+![](attachments/Pasted%20image%2020230405200820.png)
+
+Procedimiento:
+1. Sintetizar el mecanismo de 4 barras para las posiciones dadas
+2. 
 
