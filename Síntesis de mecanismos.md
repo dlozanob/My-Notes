@@ -254,7 +254,7 @@ Procedimiento:
 #### Mecanismo de 4 barras con pivotes fijos
 
 Procedimiento:
-1. Dibujar el problema inicial (3 posiciones requeridas y posición de los pivotes)
+1. Dibujar el problema inicial (3 posiciones del acoplador y posición de los pivotes)
 
 ![](attachments/Pasted%20image%2020230405182504.png)
 
@@ -266,4 +266,18 @@ Procedimiento:
 
 ![](attachments/Pasted%20image%2020230405185741.png)
 
-4. Repetir el mismo procedimiento para la tercera posici
+4. Hacer los pasos $2.$ y $3.$ para la tercera posición del acoplador
+
+![](attachments/Pasted%20image%2020230405190211.png)
+
+Hecho esto se obtiene:
+
+![](attachments/Pasted%20image%2020230405190339.png)
+
+Ahora son 3 posiciones de bancada y una posición para el acoplador
+
+5. Se hace la síntesis [Acoplador de un mecanismo de 4 barras](###Síntesis+de+3+posiciones) para los segmentos $\bar{E_{1}F_{1}}$, $\bar{E_{2}F_{2}}$ y $\bar{E_{3}F_{3}}$
+
+![](attachments/Pasted%20image%2020230405191314.png)
+
+6. 
