@@ -475,9 +475,21 @@ La alternativa es usar eslabones y juntas de pasador, pero estos mecanismos prod
 
 ### Mecanismos de detenimiento simple
 
-Se debe encontrar un mecanismo de 4 barras con una curva de acoplador adecuada y luego 
+Se debe encontrar un mecanismo de 4 barras con una curva de acoplador adecuada ([Curvas del acoplador](##Curvas+del+acoplador)) y luego hacer una [Síntesis de diadas](##Síntesis+de+diadas).
 
+---
+
+- __Ejemplo__ :
+
+![](attachments/Pasted%20image%2020230405221135.png)
+
+- __Ejemplo__ :
+
+![](attachments/Pasted%20image%2020230405221422.png)
+
+La salida es la trayectoria del pín de la corredera.
 
 
 ### Mecanismos de detenimiento doble
 
+![](attachments/Pasted%20image%2020230405221915.png)
