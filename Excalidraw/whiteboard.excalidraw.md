@@ -10,7 +10,7 @@ tags: [excalidraw]
 # Text Elements
 
 # Embedded files
-6effa48dc00ff5225ae6c53f06e14d084728b5a6: [[attachments/Pasted Image 20230405191310_964.png]]
+c4a212e6db8b1f7b59741243a1ea518c45e6184e: [[attachments/Pasted Image 20230405194247_424.png]]
 
 %%
 # Drawing
@@ -20,6 +20,70 @@ tags: [excalidraw]
 	"version": 2,
 	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.8.21",
 	"elements": [
+		{
+			"id": "iSjFTOJy-FLWrfhZKjowA",
+			"type": "image",
+			"x": -41.571428571428555,
+			"y": -217.1111111111111,
+			"width": 360.1428571428571,
+			"height": 280.1111111111111,
+			"angle": 0,
+			"strokeColor": "transparent",
+			"backgroundColor": "#c0c0c0",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 885438434,
+			"version": 224,
+			"versionNonce": 100105278,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1680741769914,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "c4a212e6db8b1f7b59741243a1ea518c45e6184e",
+			"scale": [
+				1,
+				1
+			]
+		},
+		{
+			"id": "-iovpo-v44AQz2xYNrhRr",
+			"type": "image",
+			"x": -17,
+			"y": -137.2799352750809,
+			"width": 364,
+			"height": 193.7799352750809,
+			"angle": 0,
+			"strokeColor": "transparent",
+			"backgroundColor": "#c0c0c0",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 1882559998,
+			"version": 193,
+			"versionNonce": 1712275198,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1680741755149,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "8ad00c481bd53a715e72a508180a63ba460d374f",
+			"scale": [
+				1,
+				1
+			]
+		},
 		{
 			"id": "gN66eKh9L1lI1j7ebWxy2",
 			"type": "image",
@@ -38,11 +102,11 @@ tags: [excalidraw]
 			"groupIds": [],
 			"roundness": null,
 			"seed": 750345698,
-			"version": 98,
-			"versionNonce": 1580253538,
-			"isDeleted": false,
+			"version": 99,
+			"versionNonce": 1729512738,
+			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1680739989510,
+			"updated": 1680741650765,
 			"link": null,
 			"locked": false,
 			"status": "pending",

@@ -280,4 +280,11 @@ Ahora son 3 posiciones de bancada y una posición para el acoplador
 
 ![](attachments/Pasted%20image%2020230405191314.png)
 
-6. 
+6. Invertir el mecanismo cuyo acoplador es $\bar{E_{1}F_{1}}$. Las juntas fijas son ahora las juntas móviles del acoplador, las juntas móviles son ahora juntas fijas
+
+![](attachments/Pasted%20image%2020230405194104.png)
+
+7. Reintroducir el segmento original $\bar{C_{1}D_{1}}$ y definir la forma mínima para el acoplador
+
+![](attachments/Pasted%20image%2020230405194330.png)
+
