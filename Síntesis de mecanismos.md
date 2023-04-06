@@ -366,9 +366,31 @@ Se genera una pseudo-elipse
 
 ![](attachments/Pasted%20image%2020230405211442.png)
 
+---
+
+Tomando como referencia la imagen del ejemplo anterior, se podrían obtener distintas trayectorias de acuerdo al ángulo de transmisión y las relaciones dimensionales entre eslabones.
+
+Para $\frac{L_{1}}{L_{2}} = 2$ :
+
+![](attachments/Pasted%20image%2020230405212319.png)
+
+Para $\frac{L_{3}}{L_{2}} = \frac{L_{4}}{L_{2}} = \frac{\bar{BP}}{L_{2}} = 2.5$ :
+
+![](attachments/Pasted%20image%2020230405212654.png)
 
 
+## Mecanismos de línea recta
 
+- _Mecanismo de Watt_ :
+	- $L_{1} = 4$
+	- $L_{2} = 2$
+	- $L_{3} = 1$
+	- $L_{4} = 2$
+	- $\bar{AP} = 0.5$
 
+![](attachments/Pasted%20image%2020230405213337.png)
+
+- _Mecanismo de Chebyschev_ : 
+	- $L_{1} =$
 
 
