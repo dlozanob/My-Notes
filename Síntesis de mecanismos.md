@@ -315,5 +315,9 @@ Representación:
 
 Procedimiento:
 1. Sintetizar el mecanismo de 4 barras para las posiciones dadas
-2. 
+2. Seleccionar convenientemente el punto $B_{1}$ donde se conectará el eslabón 5 de la diada con el eslabón de entrada
+3. Trazar el arco con centro en el pivote $O_{2}$ que pasa por los puntos $B_{1}$ y $B_{2}$
 
+![](attachments/Pasted%20image%2020230405202431.png)
+
+4. 
