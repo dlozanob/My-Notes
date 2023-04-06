@@ -10,7 +10,7 @@ tags: [excalidraw]
 # Text Elements
 
 # Embedded files
-755154dd8355d511379b6688af04ccf65a7f3f61: [[attachments/Pasted Image 20230405214817_877.png]]
+2d26cd0dc76c3311a4aa16bb9c5991f0fdc16f9a: [[attachments/Pasted Image 20230405215130_095.png]]
 
 %%
 # Drawing
@@ -20,6 +20,38 @@ tags: [excalidraw]
 	"version": 2,
 	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.8.21",
 	"elements": [
+		{
+			"id": "iFEfRMTqURJ0g0rLILXXu",
+			"type": "image",
+			"x": 158,
+			"y": -170.5,
+			"width": 272,
+			"height": 299,
+			"angle": 0,
+			"strokeColor": "transparent",
+			"backgroundColor": "#c0c0c0",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 1606782782,
+			"version": 4,
+			"versionNonce": 1811859298,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1680749488509,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "2d26cd0dc76c3311a4aa16bb9c5991f0fdc16f9a",
+			"scale": [
+				1,
+				1
+			]
+		},
 		{
 			"id": "bgTIBKZdHb1srNbubX3lI",
 			"type": "image",
@@ -38,11 +70,11 @@ tags: [excalidraw]
 			"groupIds": [],
 			"roundness": null,
 			"seed": 1939679230,
-			"version": 53,
-			"versionNonce": 668183586,
-			"isDeleted": false,
+			"version": 54,
+			"versionNonce": 982374370,
+			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1680749296444,
+			"updated": 1680749488122,
 			"link": null,
 			"locked": false,
 			"status": "pending",

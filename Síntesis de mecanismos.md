@@ -451,5 +451,33 @@ Para $\frac{L_{3}}{L_{2}} = \frac{L_{4}}{L_{2}} = \frac{\bar{BP}}{L_{2}} = 2.5$ 
 	- $\bar{AB} = \bar{CD}$
 	- $\bar{AD} = \bar{BC}$
 	- $\bar{O_{2}O_{4}} = \bar{O_{2}E}$
-	- $\frac{\bar{A_{4}O_{4}}}{\bar{AB}} = \frac{\bar{AE}}{\bar{AD}} = \frac{\bar{PC}}{}$
+	- $\frac{\bar{A_{4}O_{4}}}{\bar{AB}} = \frac{\bar{AE}}{\bar{AD}} = \frac{\bar{PC}}{\bar{BC}} = m$
+	- $0 < m < 1$
+
+![](attachments/Pasted%20image%2020230405215106.png)
+
+- _Mecanismo de Peaucellier_ :
+	- $L_{5} = L_{6} = L_{7} = L_{8}$
+	- $L_{1} = L_{2}$
+	- $L_{3} = L_{4}$
+
+![](attachments/Pasted%20image%2020230405215208.png)
+
+
+## Mecanismos de detenimiento
+
+- _Detenimiento_ : Es un movimiento de salida nulo a partir de uno en la entrada que no es nulo
+
+Este tipo de movimientos se realiza comúnmente con levas, sin embargo, esto supone un mayor desgaste y mayores costos.
+
+La alternativa es usar eslabones y juntas de pasador, pero estos mecanismos producen detenimientos aproximados y son más difíciles de diseñar.
+
+
+### Mecanismos de detenimiento simple
+
+
+
+
+
+### Mecanismos de detenimiento doble
 
