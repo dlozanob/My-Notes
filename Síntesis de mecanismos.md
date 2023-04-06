@@ -2,6 +2,13 @@
 
 Se basa en diseñar el mecanismo más sencillo para un cierta aplicación.
 
+La síntesis de mecanismos comprende dos perspectivas:
+- _Seguimiento de trayectoria_
+	- Uno de los eslabones debe producir una trayectoria especificada
+- _Generación de movimiento_
+	- Uno de los eslabones debe reproducir ciertas posiciones especificadas
+
+
 - _Relación de tiempo_ :
 
 $$
@@ -192,6 +199,8 @@ $$
 
 Conociendo más de una posición de un mismo eslabón, se puede sintetizar un mecanismo que cumpla con esta aplicación.
 
+Estos son problemas de _generación de movimiento_.
+
 ### Síntesis de 2 posiciones
 
 Inicialmente se proponen dos posiciones:
@@ -287,4 +296,18 @@ Ahora son 3 posiciones de bancada y una posición para el acoplador
 7. Reintroducir el segmento original $\bar{C_{1}D_{1}}$ y definir la forma mínima para el acoplador
 
 ![](attachments/Pasted%20image%2020230405194330.png)
+
+
+## Síntesis de diadas
+
+- _Diada_: Cadena de 2 eslabones
+
+- ¿Cómo mover un mecanismo de doble o triple balancín?
+	- Usar control de movimiento
+	- Agregar una diada, donde uno de estos 2 eslabones es la manivela accionada por el motor y el otro acopla la manivela con uno de los balancines
+
+
+### Procedimiento gráfico
+
+
 
