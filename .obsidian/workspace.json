@@ -4,29 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "3edc408f7ea58fba",
+        "id": "4a7cc0477c9c5079",
         "type": "tabs",
         "children": [
           {
-            "id": "8d96b56d397bec1a",
+            "id": "60816eb6b40a26f6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Síntesis de mecanismos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c6e3c399a05610a9",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/whiteboard.excalidraw.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -91,7 +77,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Síntesis de mecanismos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +93,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Síntesis de mecanismos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,9 +114,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Síntesis de mecanismos.md"
-              }
+              "state": {}
             }
           },
           {
@@ -185,12 +167,13 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "8d96b56d397bec1a",
+  "active": "60816eb6b40a26f6",
   "lastOpenFiles": [
-    "attachments/Pasted image 20230405222423.png",
+    "Mecanismos.md",
     "Excalidraw/whiteboard.excalidraw.md",
-    "Excalidraw/attachments/Pasted Image 20230405222414_348.png",
     "Síntesis de mecanismos.md",
+    "attachments/Pasted image 20230405222423.png",
+    "Excalidraw/attachments/Pasted Image 20230405222414_348.png",
     "attachments/Pasted image 20230405222044.png",
     "Excalidraw/attachments/Pasted Image 20230405222042_115.png",
     "Excalidraw/attachments/Pasted Image 20230405222020_704.png",
@@ -199,11 +182,9 @@
     "Excalidraw/attachments/Pasted Image 20230405221833_687.png",
     "attachments/Pasted image 20230405221422.png",
     "Excalidraw/attachments/Pasted Image 20230405221359_531.png",
-    "attachments/Pasted image 20230405221135.png",
     "LaTeX.md",
     "Main.md",
     "Excalidraw/blackboard.excalidraw.md",
-    "Mecanismos.md",
     "Fundamentos de cinemática de mecanismos.md",
     "Análisis de posición.md",
     "Linked note.md",

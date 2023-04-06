@@ -503,6 +503,8 @@ Un movimiento rotacional continuo se transforma en uno rotacional discreto.
 
 ![](attachments/Pasted%20image%2020230405222423.png)
 
+- Ecuaciones de diseño:
+
 Para que el rodillo entre tangencial a la ranura se debe cumplir:
 
 $$
@@ -517,7 +519,9 @@ $$
 
 Donde $n$ es el número de ranuras.
 
-Además, el ángulo de la rueda es:
+- Ecuaciones cinemáticas:
+
+El ángulo que rota la rueda de ginebra en función de $\Delta \gamma$ satisface:
 
 $$
 \begin{align*}
@@ -533,3 +537,22 @@ $$
 	\psi &= 180 - \gamma_{0} + \Delta \gamma
 \end{align*}
 $$
+
+Donde $\Delta \gamma$ es el ángulo que rota la manivela desde que entra a la ranura hasta un cierto punto determinado.
+
+La velocidad angular de la rueda está dada por:
+
+$$
+\begin{align*}
+	\omega_{rueda} = \left( \frac{a}{r}\omega_{entrada}\cos(\beta - \psi) \right)
+\end{align*}
+$$
+
+Su aceleración angular es:
+
+$$
+\begin{align*}
+	\alpha_{rueda} = \frac{a}{r}[\omega_{rueda}^{2}(\sin(2\beta - 2\psi) - \sin(\beta - \psi)) - \alpha_{entrada}\cos(\beta - \psi)]
+\end{align*}
+$$
+
