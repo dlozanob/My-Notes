@@ -10,7 +10,7 @@ tags: [excalidraw]
 # Text Elements
 
 # Embedded files
-8f918b9a016992e9a29744e5f88300b8c2bc939b: [[attachments/Pasted Image 20230405222020_704.png]]
+dd1a6d670ac3a9d808a7d418fd86bb744ca24801: [[attachments/Pasted Image 20230405222414_348.png]]
 
 %%
 # Drawing
@@ -20,6 +20,70 @@ tags: [excalidraw]
 	"version": 2,
 	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.8.21",
 	"elements": [
+		{
+			"id": "t_JkkyW5HLN0WfB-1qtQw",
+			"type": "image",
+			"x": -103.69106671143828,
+			"y": -249.08759842923826,
+			"width": 564.6563192904656,
+			"height": 340,
+			"angle": 0,
+			"strokeColor": "transparent",
+			"backgroundColor": "#c0c0c0",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 187628094,
+			"version": 11,
+			"versionNonce": 1358080866,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1680751452990,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "dd1a6d670ac3a9d808a7d418fd86bb744ca24801",
+			"scale": [
+				1,
+				1
+			]
+		},
+		{
+			"id": "PoFzI-YTMdK-PFt28PfI4",
+			"type": "image",
+			"x": -155.2292863765503,
+			"y": -299.99121288706954,
+			"width": 455.6637931034482,
+			"height": 363.9036144578313,
+			"angle": 0,
+			"strokeColor": "transparent",
+			"backgroundColor": "#c0c0c0",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 893073826,
+			"version": 67,
+			"versionNonce": 901332194,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1680751451544,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "df08270107aa43c0d75f18e1a8e6dcb1eea80b56",
+			"scale": [
+				1,
+				1
+			]
+		},
 		{
 			"id": "jw83fCPIgzPX9jUq9BpJB",
 			"type": "image",
@@ -38,11 +102,11 @@ tags: [excalidraw]
 			"groupIds": [],
 			"roundness": null,
 			"seed": 1700722274,
-			"version": 4,
-			"versionNonce": 2110116094,
-			"isDeleted": false,
+			"version": 5,
+			"versionNonce": 824115518,
+			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1680751218862,
+			"updated": 1680751237243,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -932,10 +996,10 @@ tags: [excalidraw]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": "bar",
 		"currentItemEndArrowhead": "bar",
-		"scrollX": -53.48010195138755,
-		"scrollY": 148.66197125306965,
+		"scrollX": 410.3629070662055,
+		"scrollY": 438.08759842923826,
 		"zoom": {
-			"value": 4.623649579500935
+			"value": 1
 		},
 		"currentItemRoundness": "sharp",
 		"gridSize": null,

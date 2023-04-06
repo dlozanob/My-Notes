@@ -29,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/whiteboard.excalidraw.md",
+                "file": "Síntesis de mecanismos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/whiteboard.excalidraw.md",
+                "file": "Síntesis de mecanismos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/whiteboard.excalidraw.md"
+                "file": "Síntesis de mecanismos.md"
               }
             }
           },
@@ -186,21 +185,21 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "c6e3c399a05610a9",
+  "active": "8d96b56d397bec1a",
   "lastOpenFiles": [
-    "Excalidraw/attachments/Pasted Image 20230405222020_704.png",
-    "Síntesis de mecanismos.md",
-    "attachments/Pasted image 20230405221915.png",
+    "attachments/Pasted image 20230405222423.png",
     "Excalidraw/whiteboard.excalidraw.md",
+    "Excalidraw/attachments/Pasted Image 20230405222414_348.png",
+    "Síntesis de mecanismos.md",
+    "attachments/Pasted image 20230405222044.png",
+    "Excalidraw/attachments/Pasted Image 20230405222042_115.png",
+    "Excalidraw/attachments/Pasted Image 20230405222020_704.png",
+    "attachments/Pasted image 20230405221915.png",
     "Excalidraw/attachments/Pasted Image 20230405221914_353.png",
     "Excalidraw/attachments/Pasted Image 20230405221833_687.png",
     "attachments/Pasted image 20230405221422.png",
     "Excalidraw/attachments/Pasted Image 20230405221359_531.png",
     "attachments/Pasted image 20230405221135.png",
-    "Excalidraw/attachments/Pasted Image 20230405221132_706.png",
-    "attachments/Pasted image 20230405215208.png",
-    "Excalidraw/attachments/Pasted Image 20230405215130_095.png",
-    "attachments/Pasted image 20230405215106.png",
     "LaTeX.md",
     "Main.md",
     "Excalidraw/blackboard.excalidraw.md",

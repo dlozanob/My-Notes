@@ -492,4 +492,44 @@ La salida es la trayectoria del pín de la corredera.
 
 ### Mecanismos de detenimiento doble
 
-![](attachments/Pasted%20image%2020230405221915.png)
+Como puede verse en la imagen hay dos posiciones de detenimiento.
+
+![](attachments/Pasted%20image%2020230405222044.png)
+
+
+## Ruedas de ginebra
+
+Un movimiento rotacional continuo se transforma en uno rotacional discreto.
+
+![](attachments/Pasted%20image%2020230405222423.png)
+
+Para que el rodillo entre tangencial a la ranura se debe cumplir:
+
+$$
+\begin{align*}
+	\beta_{0} &= \frac{360}{n} \\
+	\gamma_{0} &= 90 - \frac{\beta_{0}}{2} \\
+	a &= d\sin\left( \frac{\beta_{0}}{2} \right) \\
+	R &= d\cos\left( \frac{\beta_{0}}{2} \right) \\
+	S &< d - a
+\end{align*}
+$$
+
+Donde $n$ es el número de ranuras.
+
+Además, el ángulo de la rueda es:
+
+$$
+\begin{align*}
+	\beta = \sin ^{-1}\left[ \frac{a}{r}\sin(180 - \psi ) \right]
+\end{align*}
+$$
+
+Donde:
+
+$$
+\begin{align*}
+	r &= \sqrt{ a^{2} + d^{2} - 2ad\cos(180 - \psi) } \\
+	\psi &= 180 - \gamma_{0} + \Delta \gamma
+\end{align*}
+$$
