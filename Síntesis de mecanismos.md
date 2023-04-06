@@ -335,12 +335,37 @@ $$
 \end{align*}
 $$
 
+Estos son problemas de _seguimiento de trayectoria_.
+
 Tipos de curvas del acoplador para mecanismos de 4 barras:
 
 ![](attachments/Pasted%20image%2020230405205909.png)
 
 - _Cúspide_ : Forma puntiaguda donde la velocidad instantánea es $0$
 - _Crúnoda_ : Punto donde la curva se cruza a sí misma
+
+---
+
+- __Ejemplo__ :
+
+En las cámaras de cine se usa un mecanismo de 4 barras para desplazar en línea recta la cinta de película
+
+![](attachments/Pasted%20image%2020230405210718.png)
+
+El mecanismo genera una trayectoria de tipo sombrilla
+
+![](attachments/Pasted%20image%2020230405210757.png)
+
+
+- __Ejemplo__ : 
+	- $\bar{AB} = \bar{O_{4}B} = \bar{BP}$
+	- $\bar{AP} = 2(\bar{AB})\cos(\delta)$
+	- $\delta = \frac{180 - \gamma}{2}$
+
+Se genera una pseudo-elipse
+
+![](attachments/Pasted%20image%2020230405211442.png)
+
 
 
 
