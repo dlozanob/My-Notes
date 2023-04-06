@@ -475,7 +475,7 @@ La alternativa es usar eslabones y juntas de pasador, pero estos mecanismos prod
 
 ### Mecanismos de detenimiento simple
 
-
+Se debe encontrar un mecanismo de 4 barras con una curva de acoplador adecuada y luego 
 
 
 
