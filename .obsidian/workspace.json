@@ -28,18 +28,6 @@
                 "file": "Excalidraw/whiteboard.excalidraw.md"
               }
             }
-          },
-          {
-            "id": "6fcb442c75a824e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Main.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ]
       }
@@ -199,10 +187,12 @@
   },
   "active": "8d96b56d397bec1a",
   "lastOpenFiles": [
-    "Main.md",
-    "Síntesis de mecanismos.md",
-    "attachments/Pasted image 20230405204003.png",
+    "attachments/Pasted image 20230405205909.png",
     "Excalidraw/whiteboard.excalidraw.md",
+    "LaTeX.md",
+    "Síntesis de mecanismos.md",
+    "Main.md",
+    "attachments/Pasted image 20230405204003.png",
     "Excalidraw/attachments/Pasted Image 20230405203329_167.png",
     "attachments/Pasted image 20230405202431.png",
     "Excalidraw/attachments/Pasted Image 20230405202305_505.png",
@@ -219,7 +209,6 @@
     "Linked note.md",
     "Obsidian Basics.md",
     "Estática de Fluidos.md",
-    "LaTeX.md",
     "Propiedades de los Fluidos.md",
     "Fundamentos de Mecánica de Fluidos.md",
     "Tema 3. Introducción a los mercados de capitales.md",

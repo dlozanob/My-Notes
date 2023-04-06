@@ -43,7 +43,7 @@ $$
 Para mecanismos conducidos por una velocidad angular constante: $\omega_{manivela} = \frac{1rev}{\Delta t_{ciclo}}$
 
 
-## Diseño de mecanismos Manivela-corredera
+## Diseño de mecanismos: Manivela-corredera
 
 - Mecanismo alineado:
 	- $Q = 1$
@@ -320,6 +320,30 @@ Procedimiento:
 
 ![](attachments/Pasted%20image%2020230405202431.png)
 
-4. Con la manivela de la diada y el eslabón de entrada hacer [Síntesis de mecanismo manivela-balancín](##Diseño%20de%20mecanismos%20Manivela-balancín)
+4. Con la manivela de la diada y el eslabón de entrada hacer [Síntesis de mecanismo manivela-balancín](##Diseño+de+mecanismos+Manivela-balancín)
 
 ![](attachments/Pasted%20image%2020230405204003.png)
+
+
+## Curvas del acoplador
+
+Para $n$ barras conectadas por juntas revolutas, el grado más alto $m$ de una curva del acoplador es:
+
+$$
+\begin{align*}
+	m = 2\cdot 3^{\frac{n}{2} - 1}
+\end{align*}
+$$
+
+Tipos de curvas del acoplador para mecanismos de 4 barras:
+
+![](attachments/Pasted%20image%2020230405205909.png)
+
+- _Cúspide_ : Forma puntiaguda donde la velocidad instantánea es $0$
+- _Crúnoda_ : Punto donde la curva se cruza a sí misma
+
+
+
+
+
+
