@@ -262,4 +262,8 @@ Procedimiento:
 
 ![](attachments/Pasted%20image%2020230405182821.png)
 
-3. 
+3. El mismo  polígono formado por los dos triángulos cuya base superior es $\bar{C_{2}D_{2}}$ se dibuja tomando ahora como base superior a $\bar{C_{1}D_{1}}$
+
+![](attachments/Pasted%20image%2020230405185741.png)
+
+4. Repetir el mismo procedimiento para la tercera posici
