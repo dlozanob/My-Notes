@@ -391,6 +391,65 @@ Para $\frac{L_{3}}{L_{2}} = \frac{L_{4}}{L_{2}} = \frac{\bar{BP}}{L_{2}} = 2.5$ 
 ![](attachments/Pasted%20image%2020230405213337.png)
 
 - _Mecanismo de Chebyschev_ : 
-	- $L_{1} =$
+	- $L_{1} = 2$
+	- $L_{2} = 2.5$
+	- $L_{3} = 1$
+	- $L_{4} = 2.5$
+	- $\bar{AP} = 0.5$
 
+![](attachments/Pasted%20image%2020230405213613.png)
+
+- _Mecanismo de Hoeken_ :
+	- $L_{1} = 2$
+	- $L_{2} = 1$
+	- $L_{3} = 2.5$
+	- $L_{4} = 2.5$
+	- $\bar{AP} = 5$
+
+![](attachments/Pasted%20image%2020230405213752.png)
+
+- _Mecanismo de Roberts_ :
+	- $L_{1} = 2$
+	- $L_{2} = 1$
+	- $L_{3} = 1$
+	- $L_{4} = 1$
+	- $\bar{AP} =1.5$
+	- $\bar{BP} = 1.5$
+
+![](attachments/Pasted%20image%2020230405213926.png)
+
+- _Mecanismos de Evans_ :
+
+1. Parámetros:
+	- $L_{1} = 1.2$
+	- $L_{2} = 1$
+	- $L_{3} = 1.6$
+	- $L_{4} = 1.039$
+	- $\bar{AP} = 2.69$
+
+![](attachments/Pasted%20image%2020230405214231.png)
+
+2. Parámetros:
+	- $L_{1} = 2.305$
+	- $L_{2} = 1$
+	- $L_{4} = 1.167$
+	- $\bar{AB} = 1.2$
+	- $\bar{AP} = 1.5$
+
+![](attachments/Pasted%20image%2020230405214334.png)
+
+3. Parámetros:
+	- $L_{1} = 2$
+	- $L_{2} = 1$
+	- $L_{3} = 1$
+	- $L_{4} = 1$
+	- $\bar{AP} = 2$
+
+![](attachments/Pasted%20image%2020230405214630.png)
+
+- _Mecanismo de Hart_ : 
+	- $\bar{AB} = \bar{CD}$
+	- $\bar{AD} = \bar{BC}$
+	- $\bar{O_{2}O_{4}} = \bar{O_{2}E}$
+	- $\frac{\bar{A_{4}O_{4}}}{\bar{AB}} = \frac{\bar{AE}}{\bar{AD}} = \frac{\bar{PC}}{}$
 
