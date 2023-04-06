@@ -43,7 +43,7 @@ $$
 Para mecanismos conducidos por una velocidad angular constante: $\omega_{manivela} = \frac{1rev}{\Delta t_{ciclo}}$
 
 
-## Diseño de mecanismos: Manivela-corredera
+## Diseño de mecanismos Manivela-corredera
 
 - Mecanismo alineado:
 	- $Q = 1$
@@ -320,4 +320,6 @@ Procedimiento:
 
 ![](attachments/Pasted%20image%2020230405202431.png)
 
-4. 
+4. Con la manivela de la diada y el eslabón de entrada hacer [Síntesis de mecanismo manivela-balancín](##Diseño%20de%20mecanismos%20Manivela-balancín)
+
+![](attachments/Pasted%20image%2020230405204003.png)
