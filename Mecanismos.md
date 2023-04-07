@@ -12,7 +12,7 @@
 - [ ] Proyecto
 - [x] Síntesis de mecanismos: Manivela-corredera balancín
 - [x] Síntesis de mecanismos: Presentación
-- [ ] Optimización
+- [x] Optimización
 - [ ] Barnes problem
 
 ---
