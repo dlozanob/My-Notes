@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Síntesis de mecanismos.md",
+                "file": "Mecanismos.md",
                 "mode": "preview",
                 "source": false
               }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Síntesis de mecanismos.md",
+                "file": "Mecanismos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Síntesis de mecanismos.md",
+                "file": "Mecanismos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Síntesis de mecanismos.md"
+                "file": "Mecanismos.md"
               }
             }
           },
@@ -177,9 +177,9 @@
   },
   "active": "60816eb6b40a26f6",
   "lastOpenFiles": [
+    "Síntesis de mecanismos.md",
     "Mecanismos.md",
     "Excalidraw/whiteboard.excalidraw.md",
-    "Síntesis de mecanismos.md",
     "attachments/Pasted image 20230405222423.png",
     "Excalidraw/attachments/Pasted Image 20230405222414_348.png",
     "attachments/Pasted image 20230405222044.png",
