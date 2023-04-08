@@ -260,12 +260,11 @@ Es una arquitectura Von Neumann de 16 bits.
 	- El elemento de arriba usa la notación $R$ (return)
 
 - _Memoria de datos_
-	- Tiene 16 bits
+	- Es de $8k \times 16$ bits
 	- Su dirección debe ser dada en bytes
 	- Distribución de las direcciones:
 		- $0-16383 \to$ RAM
 		- $16384-32767 \to$ I/O
-
 
 - 
 
