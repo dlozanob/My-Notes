@@ -44,6 +44,40 @@ Los mercados donde se utilizan instrumentos financieros de corto plazo se llaman
 Los mercados donde se utilizan instrumentos financieros de largo plazo se llaman _mercados de capitales_.
 
 
+## Actores del mercado financiero
+
+- _Supervisores o reguladores_
+	- Lo ocupa la Superintendencia Financiera y el BRC
+- _Intermediarios financieros_
+	- Aquí se encuentran las casas comisionistas de bolsa
+- _Bancos e instituciones financieras_
+	- Ofrecen sus servicios bancarios
+- _Depósitos de valores_
+	- Llevan un registro de títulos digitales
+- _Fondos de pensiones_
+	- Las pensiones son ahorros a largo plazo de cada persona, sin embargo, parte de este dinero puede no verse consumido totalmente por la persona y quedarán excedentes que pueden ser convertidos en inversiones
+
+
+## Intermediación financiera
+
+Garantiza la comunicación entre prestamistas y prestatarios
+
+Tipos de transferencias:
+- Transferencias directas
+	- No hay intermediarios
+- Transferencias indirectas
+	- Mediante banco de inversión
+		- El intermediario es una entidad de banca de inversión
+	- Mediante un intermediario financiero
+		- Ahora están en juego los valores del intermediario, no los de la empresa
+
+Los elementos que definen las condiciones de un intercambio son:
+- La tasa de interés
+- El plazo
+- La garantía
+- Las condiciones de devolución de recursos
+
+
 ## Administradores de sistemas de compensación y liquidación
 
 - _Banco de Valores de Colombia (BVC)_
@@ -125,22 +159,3 @@ Tipos de acciones:
 >[!Note]
 >Las _bancas de inversión_ tienen como objetivo ayudar a las empresas a diseñar valores con características atractivas para los inversionistas
 
-## Intermediación financiera
-
-Garantiza la comunicación entre prestamistas y prestatarios
-
-Tipos de transferencias:
-- Transferencias directas
-	- No hay intermediarios
-- Transferencias indirectas
-	- Mediante banco de inversión
-		- El intermediario es una entidad de banca de inversión
-	- Mediante un intermediario financiero
-		- Ahora están en juego los valores del intermediario, no los de la empresa
-
-Los elementos que definen las condiciones de un intercambio son:
-- La tasa de interés
-- El plazo
-- La garantía
-- Las condiciones de devolución de recursos
-- Las condiciones de intercambio del valor
