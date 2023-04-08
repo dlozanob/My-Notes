@@ -147,7 +147,7 @@ Su datapath completo es:
 ![](attachments/Pasted%20image%2020230407205810.png)
 
 - Este es un procesador de 32 bits
-	- Sus instrucciones tienen un tamaño de 32 bits
+	- Sus instrucciones tienen un tamaño de 32 bits. Por tanto, puede haber un máximo de $2^{32}$ instrucciones
 
 - _PC_
 	- Program Counter. Almacena la dirección en memoria de la instrucción actual.
