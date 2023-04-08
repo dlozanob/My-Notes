@@ -1,5 +1,9 @@
 # Tema 2. Estructura del mercado
 
+
+Un _mercado financiero_ es un entorno donde se compran y venden instrumentos financieros (valores), los cuales sirven para financiar (obtención de recursos de capital para apalancar alguna actividad productiva).
+Siendo así, los mercados financieros son espacios donde los inversionistas invierten su capital en valores que compran a la empresas, para que estas financien sus proyectos.
+
 Se considera _valor_ a cualquier derecho de manera negociable que haga parte de una emisión (debe tener como objetivo la captación de recursos).
 
 Estos valores son:
@@ -25,10 +29,18 @@ Estos valores son:
 >[!Note]
 >Una titularización es dar un derecho sobre un bien
 
+Estos títulos o valores son comercializados por el poseedor de los mismos.
+
 Los _derivados financieros_ surgen de los anteriores ejemplos. Estos se consideran como valores cuando tienen la capacidad de ser transados y son estandarizados.
 
 >[!Note]
 >El _equity_ se refiere a las acciones de la empresa
+
+
+Los mercados donde se utilizan instrumentos financieros de corto plazo se llaman _mercados monetarios_ o _mercados de dinero_.
+Los mercados donde se utilizan instrumentos financieros de largo plazo se llaman _mercados de capitales_.
+
+
 
 
 ## Administradores de sistemas de compensación y liquidación
