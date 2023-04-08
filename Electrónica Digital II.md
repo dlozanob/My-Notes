@@ -158,13 +158,11 @@ Su datapath está representado de la forma:
 
 Para efectuar operaciones con dos registros, se deben de leer los dos al tiempo, por eso tiene dos entradas de lectura de registros.
 
-- La _ALU_ tiene como entradas los dos registros seleccionados y su señal de control de 4 bits indica la operación a realizar.
+- La _ALU_ tiene como entradas los dos registros seleccionados y su señal de control de 4 bits que indica la operación a realizar.
 
 ![](attachments/Pasted%20image%2020230329221242.png)
 
 La salidad de detección de Cero se utiliza para la implementación de los saltos condicionales.
-
-310, 38
 
 
 Los ciclos de ejecución de este procesador son:
