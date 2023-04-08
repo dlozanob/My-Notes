@@ -11,8 +11,11 @@ Estos valores son:
 	- Emisiones que hacen los gobiernos para financiar sus compromisos de corto plazo
 - _Acciones_
 	- Capital representado en patrimonio. Los tenedores de las acciones se vuelven socios de la empresa y pueden tomar desiciones sobre ellas
+	- Son de _renta variable_ porque el flujo de caja no se conoce con certeza. El valor de la acción (_market capitalization_) es volátil
 - _Bonos_
 	- Son préstamos que se le hacen a una empresa para que esta pueda financiarse. Normalmente se emiten varios bonos. Estos están representados en porcentaje. Pueden vencerse tras años
+	- Son de _renta fija_, ya que, el flujo de caja se conoce
+	- Los tenedores de estos pueden obtener su dinero incluso antes del plazo pactado
 - _Papeles comerciales_
 	- Es una forma de financiamiento a corto plazo. Se vencen en un tiempo inferior a 270 días
 - _Certificados de propósito de mercancías_
@@ -39,8 +42,6 @@ Los _derivados financieros_ surgen de los anteriores ejemplos. Estos se consider
 
 Los mercados donde se utilizan instrumentos financieros de corto plazo se llaman _mercados monetarios_ o _mercados de dinero_.
 Los mercados donde se utilizan instrumentos financieros de largo plazo se llaman _mercados de capitales_.
-
-
 
 
 ## Administradores de sistemas de compensación y liquidación
@@ -103,19 +104,12 @@ Sus objetivos son:
 		- S&P Global Market Intelligence
 
 
-
 >[!Info]
 >El _S&P (Standard & Pulse)_ 500 es un índice de la bolsa de valores de las 500 empresas más grandes de la economía
 >
 
-
-Los bonos son de _renta fija_, ya que, el flujo de caja se conoce.
-
-Por otro lado, las acciones son de _renta variable_ porque el flujo de caja no se conoce con certeza. El valor de la acción (_market capitalization_) es volátil.
-
 >[!Note]
 >Se conoce como empresa pública a aquella que está activa en el mercado de valores
-
 
 Tipos de acciones:
 - _Ordinarias_
@@ -128,3 +122,25 @@ Tipos de acciones:
 	- Comúnmente los accionistas preferentes no tienen derecho a votar en las juntas de accionistas
 - _Outstanding_
 
+>[!Note]
+>Las _bancas de inversión_ tienen como objetivo ayudar a las empresas a diseñar valores con características atractivas para los inversionistas
+
+## Intermediación financiera
+
+Garantiza la comunicación entre prestamistas y prestatarios
+
+Tipos de transferencias:
+- Transferencias directas
+	- No hay intermediarios
+- Transferencias indirectas
+	- Mediante banco de inversión
+		- El intermediario es una entidad de banca de inversión
+	- Mediante un intermediario financiero
+		- Ahora están en juego los valores del intermediario, no los de la empresa
+
+Los elementos que definen las condiciones de un intercambio son:
+- La tasa de interés
+- El plazo
+- La garantía
+- Las condiciones de devolución de recursos
+- Las condiciones de intercambio del valor
