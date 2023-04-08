@@ -29,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md",
+                "file": "Electrónica Digital II.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md",
+                "file": "Electrónica Digital II.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md"
+                "file": "Electrónica Digital II.md"
               }
             }
           },
@@ -186,10 +185,12 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "6e2db8e19a970449",
+  "active": "60816eb6b40a26f6",
   "lastOpenFiles": [
-    "Electrónica Digital II.md",
+    "attachments/Pasted image 20230407230428.png",
     "Excalidraw/blackboard.excalidraw.md",
+    "Electrónica Digital II.md",
+    "attachments/Pasted image 20230407230411.png",
     "attachments/Pasted image 20230407210829.png",
     "Excalidraw/attachments/Pasted Image 20230407210827_064.png",
     "attachments/Pasted image 20230407210610.png",
@@ -202,7 +203,6 @@
     "Excalidraw/attachments/Pasted Image 20230405222414_348.png",
     "attachments/Pasted image 20230405222044.png",
     "Excalidraw/attachments/Pasted Image 20230405222042_115.png",
-    "Excalidraw/attachments/Pasted Image 20230405222020_704.png",
     "LaTeX.md",
     "Main.md",
     "Fundamentos de cinemática de mecanismos.md",
