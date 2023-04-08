@@ -20,7 +20,7 @@ Estos valores son:
 	- Títulos sobre hipotecas
 
 >[!Note]
->Las pólizas de seguros y títulos de capitalización no son valores. Ni hay una completa certeza de que estos serán ejecutados (no se sabe si va a pasar la tragedia)
+>Las pólizas de seguros y títulos de capitalización no son valores. No hay una completa certeza de que estos serán ejecutados (no se sabe si va a pasar la tragedia)
 
 >[!Note]
 >Una titularización es dar un derecho sobre un bien
@@ -57,6 +57,9 @@ Los _derivados financieros_ surgen de los anteriores ejemplos. Estos se consider
 	- Es un sistema de pagos del BRC
 	- Liquida transacciones de títulos valores, divisas, préstamos interbancarios
 	- Compensa cheques
+
+>[!Note]
+>Liquidar una transacción significa dar por concluida una transacción o negocio, donde se asegura que ambas partes han cumplido
 
 
 ## Sistemas de negociación y registro
