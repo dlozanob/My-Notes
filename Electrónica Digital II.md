@@ -175,10 +175,7 @@ La salidad de detección de Cero se utiliza para la implementación de los salto
 ![](attachments/Pasted%20image%2020230407210610.png)
 
 - _Unidad extensión de signos_
-	- Sirve para trabajar con operaciones que involucren números negativos
-	- El número entrante (16 bits) se extiende a uno de 32 bits
-	- El bit más significativo denota el signo (1 si es negativo)
-	- Si el número que entra es negativo, se rellenan 16 bits en la parte alta con 1's para mantener el signo negativo del número
+	- Sirve para calcular la dirección de destino del salto
 
 ![](attachments/Pasted%20image%2020230407210829.png)
 
