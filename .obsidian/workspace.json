@@ -11,9 +11,11 @@
             "id": "6e2db8e19a970449",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md"
+                "file": "Finanzas.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
@@ -79,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md",
+                "file": "Finanzas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md",
+                "file": "Finanzas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md"
+                "file": "Finanzas.md"
               }
             }
           },
@@ -175,8 +177,8 @@
   },
   "active": "6e2db8e19a970449",
   "lastOpenFiles": [
-    "Electrónica Digital II.md",
     "Excalidraw/blackboard.excalidraw.md",
+    "Electrónica Digital II.md",
     "attachments/Pasted image 20230408140811.png",
     "Excalidraw/attachments/Pasted Image 20230408140809_433.png",
     "attachments/Pasted image 20230408134221.png",
