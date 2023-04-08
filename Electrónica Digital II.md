@@ -174,7 +174,7 @@ La salidad de detección de Cero se utiliza para la implementación de los salto
 
 ![](attachments/Pasted%20image%2020230407210610.png)
 
-- Las direcciones de memoria se representan usando el _sistema de complemento a 2_, donde el bit más significativo indica el signo (1 si es negativo)
+- Las direcciones de memoria se representan usando el _sistema de complemento a 2_, donde el bit más significativo indica el signo (1 si es negativo).
   Esto se hace porque se indica una distancia de salto relativa a donde estamos parados (posición 0), por tanto, si se indica un salto negativo, nos desplazamos hacia atrás.
   Hay $2^{32}$ instrucciones en total, para indicar qué tanto saltar usamos un número de 32 bits donde el bit más significativo es el signo, los 31 bits restantes representa el número de instrucciones que serán saltadas.
   
@@ -189,11 +189,7 @@ Por tanto, el máximo número de instrucciones que puede saltar hacia atrás es 
 
 Ahora bien, haciendo esta analogía para nuestro procesador de 32 bits, el PC puede saltar como máximo $2^{32} - 1$ instrucciones para adelante y $2^{32}$ instrucciones hacia atrás.
 
-
-  
-
-- _Unidad extensión de signos_
-	- Sirve para calcular la dirección de destino del salto
+- Los $16$ bits menos significativos que salen de la memoria de instrucciones (campo de desplazamiento), pasan a la _unidad de extensión de signo_, la cual tiene como salida al mismo número de $16$ bits pero extendido a $32$ bits con el sistema de complemento a dos.
 
 ![](attachments/Pasted%20image%2020230407210829.png)
 
