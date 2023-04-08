@@ -142,6 +142,10 @@ Su datapath está representado de la forma:
 
 ![](attachments/Pasted%20image%2020230328214422.png)
 
+Su datapath completo es:
+
+![](attachments/Pasted%20image%2020230407205810.png)
+
 - Este es un procesador de 32 bits
 	- Sus instrucciones tienen un tamaño de 32 bits
 
@@ -163,6 +167,18 @@ Para efectuar operaciones con dos registros, se deben de leer los dos al tiempo,
 ![](attachments/Pasted%20image%2020230329221242.png)
 
 La salidad de detección de Cero se utiliza para la implementación de los saltos condicionales.
+
+- _Memoria de Datos_
+	- Almacena datos
+	- Solo una de las dos opciones (lectura y escritura) puede estar habilitada
+
+![](attachments/Pasted%20image%2020230407210610.png)
+
+- _Unidad extensión de signos_
+	- 
+
+![](attachments/Pasted%20image%2020230407210829.png)
+
 
 
 Los ciclos de ejecución de este procesador son:
