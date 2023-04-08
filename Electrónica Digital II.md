@@ -320,6 +320,32 @@ Estos son archivos de texto, no están escritos en ningún lenguaje, pero tienen
 
 En Linux, se ejecuta el archivo _Makefile_ del mismo nombre usando el comando `make all`
 
+Ejemplo del uso de un archivo _Makefile_ para compilar un programa escrito en c:
+
+```makefile
+CC = gcc    # Guarda en la variable el compilador
+CFLAGS = -Wall -g    # Especifica las opciones de compilación
+
+# Se definen las reglas para compilar el archivo ejecutable 'programa' a partir de los archivos objeto 'archivo1.o' y 'archivo2.o'
+
+programa: archivo1.o archivo2.o
+	$(CC) $(CFLAGS) archivo1.o archivo2.o -o programa
+
+# Se definen las reglas para compilar el archivo 'archivo1.c' (utiliza la dependencia 'archivo1.h') y guardarlo en 'archivo1.o'
+
+archivo1.o: archivo1.c archivo1.h
+	$(CC) $(CFLAGS) -c archivo1.c -o archivo1.o
+
+# Se definen las reglas para compilar el archivo 'archivo2.c' (utiliza la dependencia 'archivo2.h') y guardarlo en 'archivo2.o'
+
+archivo2.o: archivo2.c archivo2.h
+	$(CC) $(CFLAGS) -c archivo2.c -o archivo2.o
+
+# Regla para borrar los archivos objeto y programa
+
+clean:
+	rm -f *.o programa
+```
 
 
 
