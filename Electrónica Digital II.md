@@ -273,7 +273,16 @@ Los ciclos _instruction fetch_ y _decode_ suceden en paralelo con _execute_ en l
 	- Almacena las instrucciones
 
 
+### Codificación de las instrucciones
 
+El procesador cuenta con 5 tipos de instrucciones, todas ellas cuentan con 16 bits.
+Los primeros números del opcode determinan el tipo de instrucción como se puede ver en la imagen.
+
+![](attachments/Pasted%20image%2020230408132502.png)
+
+El tipo de instrucción _ALU_ se divide en varios campos, estos significan:
+
+![](attachments/Pasted%20image%2020230408133755.png)
 
 
 

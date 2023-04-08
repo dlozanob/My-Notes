@@ -8,14 +8,9 @@ tags: [excalidraw]
 
 
 # Text Elements
-Instrucción actual ^3OMC3v1Z
-
 
 # Embedded files
-1a69ce279e4643b0d5f9975cdf550346b6dd45a3: $$10000000 = -128$$
-adfe884912ef78ba5a233f5b2832ff9ef2b96f22: $$01111111 = 127$$
-f95ad5e94ee62155ad3a5ef72708a7d57ea47891: $$2^{8}-1$$
-509bac2109667a248034dd46d9c4d517eb8fe4ca: $$2^{8}$$
+ce7f3a3567a3fcc9474d90ad6b7cb90bef63edb1: [[attachments/Pasted Image 20230408133753_429.png]]
 
 %%
 # Drawing
@@ -26,10 +21,74 @@ f95ad5e94ee62155ad3a5ef72708a7d57ea47891: $$2^{8}-1$$
 	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.8.21",
 	"elements": [
 		{
-			"type": "rectangle",
-			"version": 163,
-			"versionNonce": 1398422643,
+			"id": "bB6WIXw1Q9TJ1-kAJlzcG",
+			"type": "image",
+			"x": -536,
+			"y": -206.5,
+			"width": 555,
+			"height": 227,
+			"angle": 0,
+			"strokeColor": "transparent",
+			"backgroundColor": "#fa5252",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 991900575,
+			"version": 4,
+			"versionNonce": 518338481,
 			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1680979068476,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "ce7f3a3567a3fcc9474d90ad6b7cb90bef63edb1",
+			"scale": [
+				1,
+				1
+			]
+		},
+		{
+			"id": "7o0ggssblFpBvkwA7Qo5o",
+			"type": "image",
+			"x": -445.5,
+			"y": -198,
+			"width": 566,
+			"height": 226,
+			"angle": 0,
+			"strokeColor": "transparent",
+			"backgroundColor": "#fa5252",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 403919103,
+			"version": 39,
+			"versionNonce": 1943126001,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1680979067870,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "6bdb58acbb17b95121d27b4f7d9d930b4023920b",
+			"scale": [
+				1,
+				1
+			]
+		},
+		{
+			"type": "rectangle",
+			"version": 165,
+			"versionNonce": 647576721,
+			"isDeleted": true,
 			"id": "nUa7sg_dUSjg86l7scA85",
 			"fillStyle": "solid",
 			"strokeWidth": 4,
@@ -46,25 +105,16 @@ f95ad5e94ee62155ad3a5ef72708a7d57ea47891: $$2^{8}-1$$
 			"seed": 1079355805,
 			"groupIds": [],
 			"roundness": null,
-			"boundElements": [
-				{
-					"id": "3iK9jIiN6g1t0ijYaUWte",
-					"type": "arrow"
-				},
-				{
-					"id": "DNYlj91z1q66d4IQCeJOW",
-					"type": "arrow"
-				}
-			],
-			"updated": 1680926535838,
+			"boundElements": [],
+			"updated": 1680978994902,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 75,
-			"versionNonce": 1405892669,
-			"isDeleted": false,
+			"version": 76,
+			"versionNonce": 808388735,
+			"isDeleted": true,
 			"id": "3OMC3v1Z",
 			"fillStyle": "solid",
 			"strokeWidth": 4,
@@ -81,8 +131,8 @@ f95ad5e94ee62155ad3a5ef72708a7d57ea47891: $$2^{8}-1$$
 			"seed": 462285821,
 			"groupIds": [],
 			"roundness": null,
-			"boundElements": null,
-			"updated": 1680926535838,
+			"boundElements": [],
+			"updated": 1680978994901,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -97,9 +147,9 @@ f95ad5e94ee62155ad3a5ef72708a7d57ea47891: $$2^{8}-1$$
 		},
 		{
 			"type": "arrow",
-			"version": 62,
-			"versionNonce": 1557983379,
-			"isDeleted": false,
+			"version": 63,
+			"versionNonce": 1954743025,
+			"isDeleted": true,
 			"id": "3iK9jIiN6g1t0ijYaUWte",
 			"fillStyle": "solid",
 			"strokeWidth": 4,
@@ -116,8 +166,8 @@ f95ad5e94ee62155ad3a5ef72708a7d57ea47891: $$2^{8}-1$$
 			"seed": 2145872381,
 			"groupIds": [],
 			"roundness": null,
-			"boundElements": null,
-			"updated": 1680926650730,
+			"boundElements": [],
+			"updated": 1680978994901,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -142,9 +192,9 @@ f95ad5e94ee62155ad3a5ef72708a7d57ea47891: $$2^{8}-1$$
 		},
 		{
 			"type": "arrow",
-			"version": 38,
-			"versionNonce": 538334749,
-			"isDeleted": false,
+			"version": 39,
+			"versionNonce": 1264033951,
+			"isDeleted": true,
 			"id": "DNYlj91z1q66d4IQCeJOW",
 			"fillStyle": "solid",
 			"strokeWidth": 4,
@@ -161,8 +211,8 @@ f95ad5e94ee62155ad3a5ef72708a7d57ea47891: $$2^{8}-1$$
 			"seed": 521723155,
 			"groupIds": [],
 			"roundness": null,
-			"boundElements": null,
-			"updated": 1680926650731,
+			"boundElements": [],
+			"updated": 1680978994901,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -187,9 +237,9 @@ f95ad5e94ee62155ad3a5ef72708a7d57ea47891: $$2^{8}-1$$
 		},
 		{
 			"type": "image",
-			"version": 36,
-			"versionNonce": 1236663219,
-			"isDeleted": false,
+			"version": 37,
+			"versionNonce": 1877441745,
+			"isDeleted": true,
 			"id": "SfhPyzGE",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
@@ -207,7 +257,7 @@ f95ad5e94ee62155ad3a5ef72708a7d57ea47891: $$2^{8}-1$$
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1680926535838,
+			"updated": 1680978994901,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -219,9 +269,9 @@ f95ad5e94ee62155ad3a5ef72708a7d57ea47891: $$2^{8}-1$$
 		},
 		{
 			"type": "image",
-			"version": 54,
-			"versionNonce": 1367280893,
-			"isDeleted": false,
+			"version": 55,
+			"versionNonce": 33043647,
+			"isDeleted": true,
 			"id": "sGwk5XrI",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
@@ -239,7 +289,7 @@ f95ad5e94ee62155ad3a5ef72708a7d57ea47891: $$2^{8}-1$$
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1680926535838,
+			"updated": 1680978994901,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -251,9 +301,9 @@ f95ad5e94ee62155ad3a5ef72708a7d57ea47891: $$2^{8}-1$$
 		},
 		{
 			"type": "image",
-			"version": 150,
-			"versionNonce": 728054173,
-			"isDeleted": false,
+			"version": 151,
+			"versionNonce": 1617017521,
+			"isDeleted": true,
 			"id": "5MBviBAo",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
@@ -271,7 +321,7 @@ f95ad5e94ee62155ad3a5ef72708a7d57ea47891: $$2^{8}-1$$
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1680926636010,
+			"updated": 1680978994901,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -283,9 +333,9 @@ f95ad5e94ee62155ad3a5ef72708a7d57ea47891: $$2^{8}-1$$
 		},
 		{
 			"type": "image",
-			"version": 177,
-			"versionNonce": 1440672083,
-			"isDeleted": false,
+			"version": 178,
+			"versionNonce": 464602335,
+			"isDeleted": true,
 			"id": "Je7jZZTcY0pqiNpi7pjjk",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
@@ -297,13 +347,13 @@ f95ad5e94ee62155ad3a5ef72708a7d57ea47891: $$2^{8}-1$$
 			"y": 64.09252271188818,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 72.88928350933735,
+			"width": 72.88928350933736,
 			"height": 25.814954576223645,
 			"seed": 1553602941,
 			"groupIds": [],
 			"roundness": null,
-			"boundElements": null,
-			"updated": 1680926638290,
+			"boundElements": [],
+			"updated": 1680978994902,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -329,8 +379,8 @@ f95ad5e94ee62155ad3a5ef72708a7d57ea47891: $$2^{8}-1$$
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "triangle",
-		"scrollX": 619,
-		"scrollY": 410,
+		"scrollX": 757.5,
+		"scrollY": 363,
 		"zoom": {
 			"value": 1
 		},
