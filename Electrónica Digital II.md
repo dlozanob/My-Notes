@@ -23,7 +23,7 @@ Muestra el algoritmo del programa de manera secuencial con bloques que definen s
 
 ### Datapath
 
-Reperesenta un diseño digital por medio de bloques, los cuales representan los módulos del programa. Las flechas entrantes a cada bloque son las entradas, mientras que las salientes son salidas.
+Representa un diseño digital por medio de bloques, los cuales representan los módulos del programa. Las flechas entrantes a cada bloque son las entradas, mientras que las salientes son salidas.
 
 ![](attachments/Pasted%20image%2020230328071945.png)
 
