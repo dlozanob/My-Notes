@@ -247,24 +247,28 @@ Organización para R-type (instrucciones aritmético-lógicas):
 
 Es una arquitectura Von Neumann de 16 bits.
 
+Su datapath es el siguiente:
+
+![](attachments/Pasted%20image%2020230408125912.png)
+
+Los ciclos _instruction fetch_ y _decode_ suceden en paralelo con _execute_ en la ALU.
+
+
 - _PC_
 	- Tiene 13 bits
 
 - _Data Stack_
 	- Es una pila de $33 \times 16$ bits
-	- El elemento de arriba usa la notación $T$ (top)
-	- El segundo elemento usa la notación $N$ (next)
+	- El elemento de arriba de la pila usa la notación $T$ (top)
+	- El segundo elemento de la pila usa la notación $N$ (next)
 
 - _Return Stack_
 	- Es una pila de $32 \times 16$ bits
-	- El elemento de arriba usa la notación $R$ (return)
+	- El elemento de arriba de la pila usa la notación $R$ (return)
 
-- _Memoria de datos_
+- _Memoria RAM_
 	- Es de $8k \times 16$ bits
-	- Su dirección debe ser dada en bytes
-	- Distribución de las direcciones:
-		- $0-16383 \to$ RAM
-		- $16384-32767 \to$ I/O
+	- Almacena las instrucciones
 
 - 
 
@@ -320,7 +324,7 @@ El primero era secuencial, pero este es semiparalelo
 Varias ventanas de registros permiten tener procesos más rápidos
 
 >[!Info]
->La arquitectura spark tiene un grupo de 8 ventanas (8 BR)
+>La arquitectura Spark tiene un grupo de 8 ventanas (8 BR)
 
 - Carga inmediata de datos las instrucciones terminan en $i$
 
