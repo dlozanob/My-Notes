@@ -200,6 +200,9 @@ Siendo así, el número que sale de la unidad de extensión de signo hay que vol
 
 Esta cantidad de desplazamiento relativo se suma al valor actual del PC, lo que brinda la dirección de la instrucción del salto. Un multiplexor determinará si se escoge la siguiente instrucción o la del salto. La unidad de control la escoge de acuerdo al resultado de la comparación de los dos registros. La ALU resta los registros para determinar si estos son iguales, en caso de serlo, se activará la salida de detección Cero, lo que significa que el salto será producido.
 
+- En instrucciones de tipo R, la ALU toma los datos de los dos registros, no obstante, para instrucciones de salto, la seguna entrada de la ALU es el número proveniente de la extensión de signo para el cálculo de la 
+
+
 
 Los ciclos de ejecución de este procesador son:
 1. _Instruction Fetch_
@@ -211,7 +214,7 @@ Los ciclos de ejecución de este procesador son:
 		- Longitud de los campos
 		- Datos que se le van a pedir al banco de registros
 
-Organización para R-type:
+Organización para R-type (instrucciones aritmético-lógicas):
 
 ![](attachments/Pasted%20image%2020230329083753.png)
 
