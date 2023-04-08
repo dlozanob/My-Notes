@@ -134,6 +134,9 @@ Estos requieren de 0 a 3 operandos.
 >[!Info]
 >El compilador universal de C es _gcc_
 
+>[!Note]
+>La palabra _SoC (System on Chip)_ hace referencia a un procesador o sistema embebido en un chip, por ejemplo, un procesador o arquitectura programada en una FPGA
+
 
 ## Arquitectura MIPS
 
@@ -298,7 +301,17 @@ Lo mismo sucede con $rstack \pm$, sin embargo, aplica para la pila de retorno.
 El campo $N \to [T]$ indica si se escribirá el valor de $N$ en la dirección de $T$ ($[T]$) en la memoria RAM.
 
 
+>[!Info]
+>La _compilación cruzada_ es compilar un código que será ejecutado en un dispositivo o plataforma diferente a donde reside el compilador.
+>
+>Ejemplo: El compilador reside en una laptop, pero se ejecuta en una FPGA
 
+
+## Interfaz software-hardware
+
+El usuario manda instrucciones al procesador mediante un lenguaje de alto nivel, el compilador convierte el código a lenguaje de máquina (Assembler), luego se compila de nuevo con Assembly para conve
+
+![](attachments/Pasted%20image%2020230408140811.png)
 
 
 
@@ -354,4 +367,4 @@ Varias ventanas de registros permiten tener procesos más rápidos
 
 ## External links
 
-- [Verilog](Verilog.md)
+- [Verilog](Ve
