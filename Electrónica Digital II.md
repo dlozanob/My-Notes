@@ -253,6 +253,7 @@ Su datapath es el siguiente:
 
 Los ciclos _instruction fetch_ y _decode_ suceden en paralelo con _execute_ en la ALU.
 
+$T'$ es el nuevo valor para $T$, así como lo es $PC'$ y $R'$
 
 ### Componentes básicos
 
@@ -267,6 +268,7 @@ Los ciclos _instruction fetch_ y _decode_ suceden en paralelo con _execute_ en l
 - _Return Stack_
 	- Es una pila de $32 \times 16$ bits
 	- El elemento de arriba de la pila usa la notación $R$ (return)
+	- Sirve para almacenar la dirección de la instrucción actual en caso de saltos
 
 - _Memoria RAM_
 	- Es de $8k \times 16$ bits
@@ -276,7 +278,7 @@ Los ciclos _instruction fetch_ y _decode_ suceden en paralelo con _execute_ en l
 ### Codificación de las instrucciones
 
 El procesador cuenta con 5 tipos de instrucciones, todas ellas cuentan con 16 bits.
-Los primeros números del opcode determinan el tipo de instrucción como se puede ver en la imagen.
+Los primeros números del opcode (_aluop_ que sale del módulo _Decode_) determinan el tipo de instrucción como se puede ver en la imagen:
 
 ![](attachments/Pasted%20image%2020230408132502.png)
 
@@ -284,10 +286,16 @@ El tipo de instrucción _ALU_ se divide en varios campos, estos significan:
 
 ![](attachments/Pasted%20image%2020230408133755.png)
 
+El campo $T'$ indica la operación de la ALU a realizarse. Estas pueden ser:
 
+![](attachments/Pasted%20image%2020230408134221.png)
 
+Este código de operación de 4 bits se guarda en $T$.
 
+El campo $dstack \pm$ mueve el Stack Pointer de la pila de datos. Su primer bit es el signo, si es $1$, es negativo, por lo que el apuntador se desplazará hacia arriba, de lo contrario, el nuevo top será $N$. El segundo bit es la distancia de desplazamiento, así que solo se puede desplazar $1$.
+Lo mismo sucede con $rstack \pm$, sin embargo, aplica para la pila de retorno.
 
+El campo $N \to [T]$ indica si se escribirá el valor de $N$ en la dirección de $T$ ($[T]$) en la memoria RAM.
 
 
 
