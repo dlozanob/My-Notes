@@ -254,6 +254,8 @@ Su datapath es el siguiente:
 Los ciclos _instruction fetch_ y _decode_ suceden en paralelo con _execute_ en la ALU.
 
 
+### Componentes básicos
+
 - _PC_
 	- Tiene 13 bits
 
@@ -270,7 +272,6 @@ Los ciclos _instruction fetch_ y _decode_ suceden en paralelo con _execute_ en l
 	- Es de $8k \times 16$ bits
 	- Almacena las instrucciones
 
-- 
 
 
 
