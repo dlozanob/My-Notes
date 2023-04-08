@@ -2,7 +2,7 @@
 
 
 Un _mercado financiero_ es un entorno donde se compran y venden instrumentos financieros (valores), los cuales sirven para financiar (obtención de recursos de capital para apalancar alguna actividad productiva).
-Siendo así, los mercados financieros son espacios donde los inversionistas invierten su capital en valores que compran a la empresas, para que estas financien sus proyectos.
+Siendo así, los mercados financieros son espacios donde los inversionistas invierten su capital (claramente estos se ven beneficiados por tasas de interés y beneficios de la empresa) en valores que compran a las empresas, para que estas financien sus proyectos.
 
 Se considera _valor_ a cualquier derecho de manera negociable que haga parte de una emisión (debe tener como objetivo la captación de recursos).
 
