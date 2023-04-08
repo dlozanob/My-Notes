@@ -309,11 +309,11 @@ El campo $N \to [T]$ indica si se escribirá el valor de $N$ en la dirección de
 
 ## Interfaz software-hardware
 
-El usuario manda instrucciones al procesador mediante un lenguaje de alto nivel, el compilador convierte el código a lenguaje de máquina (Assembler), luego se compila de nuevo con Assembly para conve
+El usuario manda instrucciones al procesador mediante un lenguaje de alto nivel, el compilador convierte el código a lenguaje de máquina (Assembly), luego se compila de nuevo con Assembler para convertirlo a código binario.
 
 ![](attachments/Pasted%20image%2020230408140811.png)
 
-
+_Forth_ es un lenguaje de programación orientado en pilas creado por Chuck Moore y usado por primera vez en 1970. Este lenguaje es usado como herramienta de generación de instrucciones del procesador. Su compilador es _gforth_. Los archivos de código forth tienen extensión _.fs_.
 
 
 
@@ -367,4 +367,4 @@ Varias ventanas de registros permiten tener procesos más rápidos
 
 ## External links
 
-- [Verilog](Ve
+- [Verilog](Verilog.md)
