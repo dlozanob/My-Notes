@@ -149,6 +149,9 @@ Su datapath completo es:
 - Este es un procesador de 32 bits
 	- Sus instrucciones tienen un tamaño de 32 bits. Por tanto, puede haber un máximo de $2^{32}$ instrucciones
 
+
+### Componentes básicos
+
 - _PC_
 	- Program Counter. Almacena la dirección en memoria de la instrucción actual.
 	- El PC se incrementa en 4 al pasar de una instrucción consecutiva a otra, ya que, cada instrucción tiene 4 bytes
@@ -173,6 +176,10 @@ La salidad de detección de Cero se utiliza para la implementación de los salto
 	- Solo una de las dos opciones (lectura y escritura) puede estar habilitada
 
 ![](attachments/Pasted%20image%2020230407210610.png)
+
+- _Stack Pointer (SP)_
+	- Es un registro (se encuentra en el register bank) con la última dirección del último dato insertado en la pila (top of stack).
+
 
 - Las direcciones de memoria se representan usando el _sistema de complemento a 2_, donde el bit más significativo indica el signo (1 si es negativo).
   Esto se hace porque se indica una distancia de salto relativa a donde estamos parados (posición 0), por tanto, si se indica un salto negativo, nos desplazamos hacia atrás.
@@ -204,6 +211,7 @@ Esta cantidad de desplazamiento relativo se suma al valor actual del PC, lo que 
 
   En instrucciones tipo R se guarda el valor resultante de la ALU en el banco de registros. Pero si se quiere cargar un dato, el banco lo toma de la memoria.
 
+### Ciclos de ejecución
 
 Los ciclos de ejecución de este procesador son:
 1. _Instruction Fetch_
@@ -232,14 +240,33 @@ Organización para R-type (instrucciones aritmético-lógicas):
 	- Aplica para las instrucciones que escriben en registros
 
 
-- _Stack Pointer (SP)_
-	- Es un registro (se encuentra en el register bank) con la última dirección del último dato insertado en la pila (top of stack).
-
-
 ## Arquitectura J1
 
 Es una arquitectura Von Neumann de 16 bits.
 
+
+
+- _PC_
+	- Tiene 13 bits
+
+- _Data Stack_
+	- Es una pila de $33 \times 16$ bits
+	- El elemento de arriba usa la notación $T$ (top)
+	- El segundo elemento usa la notación $N$ (next)
+
+- _Return Stack_
+	- Es una pila de $32 \times 16$ bits
+	- El elemento de arriba usa la notación $R$ (return)
+
+- _Memoria de datos_
+	- Tiene 16 bits
+	- Su dirección debe ser dada en bytes
+	- Distribución de las direcciones:
+		- $0-16383 \to$ RAM
+		- $16384-32767 \to$ I/O
+
+
+- 
 
 
 
