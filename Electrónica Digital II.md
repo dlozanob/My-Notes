@@ -175,6 +175,15 @@ La salidad de detección de Cero se utiliza para la implementación de los salto
 ![](attachments/Pasted%20image%2020230407210610.png)
 
 - Las direcciones de memoria se representan usando el sistema de complemento a 2, donde el bit más significativo indica el signo (1 si es negativo)
+  Esto se hace porque se indica una distancia de salto relativa a donde estamos parados (posición 0), por tanto, si se indica un salto negativo, nos desplazamos hacia atrás.
+  Hay $2^{32}$ instrucciones en total, para indicar qué tanto saltar usamos un número de 32 bits donde el bit más significativo es el signo, los 31 bits restantes representa el número de instrucciones que serán saltadas.
+  Supongamos que el procesador fuese de 8 bits:
+
+
+
+
+
+  
 
 - _Unidad extensión de signos_
 	- Sirve para calcular la dirección de destino del salto

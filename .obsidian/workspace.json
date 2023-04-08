@@ -29,7 +29,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -91,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electrónica Digital II.md",
+                "file": "Excalidraw/blackboard.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electrónica Digital II.md",
+                "file": "Excalidraw/blackboard.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Electrónica Digital II.md"
+                "file": "Excalidraw/blackboard.excalidraw.md"
               }
             }
           },
@@ -185,12 +186,12 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "60816eb6b40a26f6",
+  "active": "6e2db8e19a970449",
   "lastOpenFiles": [
-    "attachments/Pasted image 20230407210829.png",
-    "Excalidraw/blackboard.excalidraw.md",
-    "Excalidraw/attachments/Pasted Image 20230407210827_064.png",
     "Electrónica Digital II.md",
+    "Excalidraw/blackboard.excalidraw.md",
+    "attachments/Pasted image 20230407210829.png",
+    "Excalidraw/attachments/Pasted Image 20230407210827_064.png",
     "attachments/Pasted image 20230407210610.png",
     "Excalidraw/attachments/Pasted Image 20230407210600_436.png",
     "attachments/Pasted image 20230407205810.png",
@@ -202,7 +203,6 @@
     "attachments/Pasted image 20230405222044.png",
     "Excalidraw/attachments/Pasted Image 20230405222042_115.png",
     "Excalidraw/attachments/Pasted Image 20230405222020_704.png",
-    "attachments/Pasted image 20230405221915.png",
     "LaTeX.md",
     "Main.md",
     "Fundamentos de cinemática de mecanismos.md",
