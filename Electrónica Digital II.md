@@ -315,8 +315,10 @@ El usuario manda instrucciones al procesador mediante un lenguaje de alto nivel,
 
 _Forth_ es un lenguaje de programación orientado en pilas creado por Chuck Moore y usado por primera vez en 1970. Este lenguaje es usado como herramienta de generación de instrucciones del procesador. Su compilador es _gforth_. Los archivos de código forth tienen extensión _.fs_.
 
+El archivo _Makefile_ de un proyecto automatiza los procesos de compilación, definiendo qué archivos compilar y qué compiladores usar. Así como también implementa rutinas de limpieza de archivos y documentación. Contiene instrucciones de compilación y enlazamiento de los archivos de código del proyecto. 
+Estos son archivos de texto, no están escritos en ningún lenguaje, pero tienen un formato estructurado en su escritura.
 
-
+En Linux, se ejecuta el archivo _Makefile_ del mismo nombre usando el comando `make all`
 
 
 
