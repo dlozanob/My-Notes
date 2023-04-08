@@ -181,11 +181,13 @@ La salidad de detección de Cero se utiliza para la implementación de los salto
 	- Es un registro (se encuentra en el register bank) con la última dirección del último dato insertado en la pila (top of stack).
 
 
-- Las direcciones de memoria se representan usando el _sistema de complemento a 2_, donde el bit más significativo indica el signo (1 si es negativo).
-  Esto se hace porque se indica una distancia de salto relativa a donde estamos parados (posición 0), por tanto, si se indica un salto negativo, nos desplazamos hacia atrás.
-  Hay $2^{32}$ instrucciones en total, para indicar qué tanto saltar usamos un número de 32 bits donde el bit más significativo es el signo, los 31 bits restantes representa el número de instrucciones que serán saltadas.
-  
-  Supongamos que el procesador fuese de 8 bits, el mínimo número que se puede obtener con este sistema es $-128$, el máximo que puede obtenerse es $127$.
+### Lógica de los saltos condicionales
+
+Las direcciones de memoria se representan usando el _sistema de complemento a 2_, donde el bit más significativo indica el signo (1 si es negativo).
+Esto se hace porque se indica una distancia de salto relativa a donde estamos parados (posición 0), por tanto, si se indica un salto negativo, nos desplazamos hacia atrás.
+Hay $2^{32}$ instrucciones en total, para indicar qué tanto saltar usamos un número de 32 bits donde el bit más significativo es el signo, los 31 bits restantes representa el número de instrucciones que serán saltadas.
+
+Supongamos que el procesador fuese de 8 bits, el mínimo número que se puede obtener con este sistema es $-128$, el máximo que puede obtenerse es $127$.
 
 ![](attachments/Pasted%20image%2020230407230428.png)
 
@@ -196,7 +198,7 @@ Por tanto, el máximo número de instrucciones que puede saltar hacia atrás es 
 
 Ahora bien, haciendo esta analogía para nuestro procesador de 32 bits, el PC puede saltar como máximo $2^{32} - 1$ instrucciones para adelante y $2^{32}$ instrucciones hacia atrás.
 
-- Los $16$ bits menos significativos que salen de la memoria de instrucciones (campo de desplazamiento), pasan a la _unidad de extensión de signo_, la cual tiene como salida al mismo número de $16$ bits que ya venía con el sistema de complemento a dos pero extendido a $32$ bits.
+Los $16$ bits menos significativos que salen de la memoria de instrucciones (campo de desplazamiento), pasan a la _unidad de extensión de signo_, la cual tiene como salida al mismo número de $16$ bits que ya venía con el sistema de complemento a dos pero extendido a $32$ bits.
 
 ![](attachments/Pasted%20image%2020230407210829.png)
 
@@ -207,9 +209,10 @@ Siendo así, el número que sale de la unidad de extensión de signo hay que vol
 
 Esta cantidad de desplazamiento relativo se suma al valor actual del PC, lo que brinda la dirección de la instrucción del salto. Un multiplexor determinará si se escoge la siguiente instrucción o la del salto. La unidad de control la escoge de acuerdo al resultado de la comparación de los dos registros. La ALU resta los registros para determinar si estos son iguales, en caso de serlo, se activará la salida de detección Cero, lo que significa que el salto será producido.
 
-- En instrucciones de tipo R (aritmético-lógicas), la ALU toma los datos de los dos registros, no obstante, para instrucciones de salto, la seguna entrada de la ALU es el número proveniente de la extensión de signo para el cálculo de la dirección.
+En instrucciones de tipo R (aritmético-lógicas), la ALU toma los datos de los dos registros, no obstante, para instrucciones de salto, la seguna entrada de la ALU es el número proveniente de la extensión de signo para el cálculo de la dirección.
 
-  En instrucciones tipo R se guarda el valor resultante de la ALU en el banco de registros. Pero si se quiere cargar un dato, el banco lo toma de la memoria.
+En instrucciones tipo R se guarda el valor resultante de la ALU en el banco de registros. Pero si se quiere cargar un dato, el banco lo toma de la memoria.
+
 
 ### Ciclos de ejecución
 
@@ -243,8 +246,6 @@ Organización para R-type (instrucciones aritmético-lógicas):
 ## Arquitectura J1
 
 Es una arquitectura Von Neumann de 16 bits.
-
-
 
 - _PC_
 	- Tiene 13 bits
