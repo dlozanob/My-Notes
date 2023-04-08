@@ -238,6 +238,30 @@ Organización para R-type (instrucciones aritmético-lógicas):
 
 ## Arquitectura J1
 
+Es una arquitectura Von Neumann de 16 bits.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
