@@ -189,10 +189,16 @@ Por tanto, el máximo número de instrucciones que puede saltar hacia atrás es 
 
 Ahora bien, haciendo esta analogía para nuestro procesador de 32 bits, el PC puede saltar como máximo $2^{32} - 1$ instrucciones para adelante y $2^{32}$ instrucciones hacia atrás.
 
-- Los $16$ bits menos significativos que salen de la memoria de instrucciones (campo de desplazamiento), pasan a la _unidad de extensión de signo_, la cual tiene como salida al mismo número de $16$ bits pero extendido a $32$ bits con el sistema de complemento a dos.
+- Los $16$ bits menos significativos que salen de la memoria de instrucciones (campo de desplazamiento), pasan a la _unidad de extensión de signo_, la cual tiene como salida al mismo número de $16$ bits que ya venía con el sistema de complemento a dos pero extendido a $32$ bits.
 
 ![](attachments/Pasted%20image%2020230407210829.png)
 
+Recordemos que el PC no almacena el número de la instrucción en la que se encuentra, sino que almacena un número de bytes múltiplo de 4.
+Siendo así, el número que sale de la unidad de extensión de signo hay que volverlo un número múltiplo de 4, para ello, el número se desplaza dos bits hacia la izquierda, sustituyendo los dos bits menos significativos por $0$'s (todo múltiplo de 4 en binario tiene 2 ceros como bits menos significativos).
+
+![](attachments/Pasted%20image%2020230407233634.png)
+
+Esta cantidad de desplazamiento relativo se suma al valor actual del PC, lo que brinda la dirección de la instrucción del salto. Un multiplexor determinará si se escoge la siguiente instrucción o la del salto. La unidad de control la escoge de acuerdo al resultado de la comparación de los dos registros. La ALU resta los registros para determinar si estos son iguales, en caso de serlo, se activará la salida de detección Cero, lo que significa que el salto será producido.
 
 
 Los ciclos de ejecución de este procesador son:
