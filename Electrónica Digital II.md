@@ -174,6 +174,8 @@ La salidad de detección de Cero se utiliza para la implementación de los salto
 
 ![](attachments/Pasted%20image%2020230407210610.png)
 
+- Las direcciones de memoria se representan usando el sistema de complemento a 2, donde el bit más significativo indica el signo (1 si es negativo)
+
 - _Unidad extensión de signos_
 	- Sirve para calcular la dirección de destino del salto
 
