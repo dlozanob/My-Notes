@@ -66,6 +66,7 @@ De esta manera se está cubriendo riesgos del bien.
 >-  Los _futuros_ y _forward_ son operaciones de compra y venta anticipada de un producto
 >- Un _contrato forward_ es un acuerdo para comprar o vender un activo a un precio y fecha acordada. El precio acordado se conoce como _precio forward_. Estos contratos son utilizados comúnmente para productos básicos, e.g: petróleo, oro, productos agrícolas
 >- Los _contratos swap_ son acuerdos para intercambiar flujos de efectivos futuros. Como por ejemplo, se puede acordar que una parte pague un interés fijo a cambio de que la otra parte pague un interés variable
+>- Los _contratos de futuros_ son altamente estandarizados en cuanto al bien que se cambia, el precio y las fechas futuras de posible negociación
 
 
 Los mercados de capitales son clasificados en:
@@ -75,3 +76,8 @@ Los mercados de capitales son clasificados en:
 	- Los instrumentos financieros ya emitidos se comercian entre inversionistas
 
 
+## Opciones del mercado de derivados
+
+Al comprar una _opción_ de venta (_call_) sobre un subyacente, el comprador debe dar la opción de pagar una prima (pago inicial) calculada con respecto al precio total para adquirir la opción (derecho) de comprar el bien a un precio y plazo determinados. A cambio, la empresa está en la obligación de vender este activo a su comprador.
+
+El segundo tipo de _opciones_ son las opciones de venta (_put_), que le dan al comprador (quien paga una prima) la opción o derecho de vender el bien a un precio y plazo determinados.
