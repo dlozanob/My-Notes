@@ -30,8 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c7b0838076dedaa3",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/blackboard.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -75,7 +86,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "8cf20f15e2d652f4",
@@ -92,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linked note.md",
+                "file": "Excalidraw/blackboard.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linked note.md",
+                "file": "Excalidraw/blackboard.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linked note.md"
+                "file": "Excalidraw/blackboard.excalidraw.md"
               }
             }
           },
@@ -171,7 +183,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249.5
+    "width": 249.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,10 +198,10 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "1ac5f32436086a69",
+  "active": "c7b0838076dedaa3",
   "lastOpenFiles": [
-    "Cap. 3. Solución de las ecuaciones de estado de sistemas LTI.md",
     "Linked note.md",
+    "Cap. 3. Solución de las ecuaciones de estado de sistemas LTI.md",
     "LaTeX.md",
     "Señales y Sistemas II.md",
     "Tema 4. Introducción a los mercados monetarios.md",
