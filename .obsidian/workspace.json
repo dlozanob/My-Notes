@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tema 3. Introducción a los mercados de capitales.md",
+                "file": "Tema 4. Introducción a los mercados monetarios.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tema 3. Introducción a los mercados de capitales.md",
+                "file": "Tema 4. Introducción a los mercados monetarios.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tema 3. Introducción a los mercados de capitales.md",
+                "file": "Tema 4. Introducción a los mercados monetarios.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tema 3. Introducción a los mercados de capitales.md"
+                "file": "Tema 4. Introducción a los mercados monetarios.md"
               }
             }
           },
@@ -176,9 +176,10 @@
   },
   "active": "6e2db8e19a970449",
   "lastOpenFiles": [
-    "Tema 2. Estructura del mercado.md",
-    "Tema 3. Introducción a los mercados de capitales.md",
     "Módulo 3. Introducción al mercado de capitales.md",
+    "Tema 3. Introducción a los mercados de capitales.md",
+    "Tema 4. Introducción a los mercados monetarios.md",
+    "Tema 2. Estructura del mercado.md",
     "Finanzas.md",
     "Tema 1. Infraestructura de los mercados financieros.md",
     "Módulo 2. Diagnóstico financiero.md",
@@ -211,7 +212,6 @@
     "Verilog.md",
     "Cap. 3. Solución de las ecuaciones de estado de sistemas LTI.md",
     "Señales y Sistemas II.md",
-    "Automatización, Control y Robótica.md",
     "Excalidraw/attachments",
     "attachments",
     "New folder",
