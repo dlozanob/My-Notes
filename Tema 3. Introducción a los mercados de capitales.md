@@ -31,7 +31,7 @@ Tipos de _mercados de capitales_ :
 		- Combustibles
 		- Alimentos
 - _Mercado de derivados_
-	- Son contratos que cubren el dinero en juego en caso de algún siniestro ocasionado por la variación de un activo (como los otros 4)
+	- Son contratos que cubren el dinero en juego en caso de algún siniestro ocasionado por la variación del precio de un activo en el mercado (como los otros 4)
 	- Los principales son:
 		- _Futuros_
 			- Se pacta la venta de un activo para el futuro, pero con el precio actual, para que no se generen pérdidas por el cambio de precio
@@ -48,10 +48,24 @@ Tipos de _mercados de capitales_ :
 			- El comprador de esta tiene el derecho de elegir si toma el beneficio dado por la opción o no
 
 
+Ejemplo de mercado de derivados:
+Al comprar una casa se firma una promesa de compraventa, en esta se especifica:
+- El bien comprado
+- La fecha de entrega
+- Los periodos de pago
+- La forma de pago
+- El precio
+- Las condiciones adicionales para la entrega
+
+En este caso el _subyacente_ es la casa, el _derivado_ es la promesa de compraventa (similar a un _contrato forward_).
+De esta manera se está cubriendo riesgos del bien.
+
 >[!Note]
 >- Un _subyacente_ es un instrumento, activo o indicador cuyo precio fluctúa. Este subyacente es protegido por los mercados de derivados
 >- Si existe un instrumento derivado, existe uno subyacente
 >-  Los _futuros_ y _forward_ son operaciones de compra y venta anticipada de un producto
+>- Un _contrato forward_ es un acuerdo para comprar o vender un activo a un precio y fecha acordada. El precio acordado se conoce como _precio forward_. Estos contratos son utilizados comúnmente para productos básicos, e.g: petróleo, oro, productos agrícolas
+>- Los _contratos swap_ son acuerdos para intercambiar flujos de efectivos futuros. Como por ejemplo, se puede acordar que una parte pague un interés fijo a cambio de que la otra parte pague un interés variable
 
 
 Los mercados de capitales son clasificados en:
@@ -61,12 +75,3 @@ Los mercados de capitales son clasificados en:
 	- Los instrumentos financieros ya emitidos se comercian entre inversionistas
 
 
-Al comprar una casa se firma una promesa de compraventa, en esta se especifica:
-- El bien comprado
-- La fecha de entrega
-- Los periodos de pago
-- La forma de pago
-- El precio
-- Las condiciones adicionales para la entrega
-
-En este caso el _subyacente_ es 
