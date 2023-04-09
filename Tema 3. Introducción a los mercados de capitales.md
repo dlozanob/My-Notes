@@ -2,12 +2,9 @@
 
 Son aquellos mercados financieros donde se transan valores de largo plazo.
 
-
-
-
 Tipos de _mercados de capitales_ :
 - _Renta fija_
-	- Un agente superavitario financia a un agente deficitario acambio de que este último se comprometa a pagar de manera periódica por el préstamo
+	- Un agente superavitario financia a un agente deficitario acambio de que este último se comprometa a pagar de manera periódica por el préstamo. A esto se le conoce como _mercados de deuda_
 	- El interés puede depender de algún indicador financiero y convertirse en una _tasa flotante_ (tasa que varía con el tiempo)
 	- El interés y el indicador del que este puede depender es fijado desde el inicio
 	- Principal instrumento financiero:
@@ -19,7 +16,7 @@ Tipos de _mercados de capitales_ :
 	- Brinda derechos políticos (capacidad de desición sobre la compañía). Como poder votar en las asambleas de accionistas
 	- El inversionista puede ver los libros de la empresa
 	- Principal instrumento financiero:
-		- Acciones
+		- Acciones (_equity_)
 			- En Colombia existen 3 tipos de acciones:
 				- Acciones comunes: Otorgan derechos económicos y políticos
 				- Acciones preferenciales: Otorgan derechos económicos altos
@@ -52,8 +49,24 @@ Tipos de _mercados de capitales_ :
 
 
 >[!Note]
->- Un _subyacente_ es un activo financiero en el que se basa el valor de un contrato de derivados
+>- Un _subyacente_ es un instrumento, activo o indicador cuyo precio fluctúa. Este subyacente es protegido por los mercados de derivados
+>- Si existe un instrumento derivado, existe uno subyacente
 >-  Los _futuros_ y _forward_ son operaciones de compra y venta anticipada de un producto
 
 
+Los mercados de capitales son clasificados en:
+- _Mercados primarios_
+	- La empresa o gobierno emite por primera vez las acciones o bonos, recibiendo los recursos por parte de los inversionistas
+- _Mercados secundarios_
+	- Los instrumentos financieros ya emitidos se comercian entre inversionistas
 
+
+Al comprar una casa se firma una promesa de compraventa, en esta se especifica:
+- El bien comprado
+- La fecha de entrega
+- Los periodos de pago
+- La forma de pago
+- El precio
+- Las condiciones adicionales para la entrega
+
+En este caso el _subyacente_ es 
