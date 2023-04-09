@@ -40,8 +40,8 @@ Los _derivados financieros_ surgen de los anteriores ejemplos. Estos se consider
 >El _equity_ se refiere a las acciones de la empresa
 
 
-Los mercados donde se utilizan instrumentos financieros de corto plazo se llaman _mercados monetarios_ o _mercados de dinero_.
-Los mercados donde se utilizan instrumentos financieros de largo plazo se llaman _mercados de capitales_.
+Los mercados donde se utilizan instrumentos financieros de corto plazo ($< 1$ año) se llaman _mercados monetarios_ o _mercados de dinero_.
+Los mercados donde se utilizan instrumentos financieros de largo plazo ($>1$ año) se llaman _mercados de capitales_.
 
 
 ## Actores del mercado financiero

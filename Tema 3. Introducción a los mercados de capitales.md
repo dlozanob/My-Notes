@@ -2,6 +2,9 @@
 
 Son aquellos mercados financieros donde se transan valores de largo plazo.
 
+
+
+
 Tipos de _mercados de capitales_ :
 - _Renta fija_
 	- Un agente superavitario financia a un agente deficitario acambio de que este último se comprometa a pagar de manera periódica por el préstamo
@@ -30,26 +33,27 @@ Tipos de _mercados de capitales_ :
 		- Metales
 		- Combustibles
 		- Alimentos
-- _Derivados_
+- _Mercado de derivados_
 	- Son contratos que cubren el dinero en juego en caso de algún siniestro ocasionado por la variación de un activo (como los otros 4)
 	- Los principales son:
 		- _Futuros_
+			- Se pacta la venta de un activo para el futuro, pero con el precio actual, para que no se generen pérdidas por el cambio de precio
+			-  Se transan en bolsa
+			- Cantidades estándar
+			- Fechas de vencimiento estándar
+			- Se debe aportar un dinero inicial para entrar en el contrato
+		- _Forwards_
+			- Funcionan igual que los futuros
+			- Se pueden transar en un mercado no formal
+			- Cantidades no estándar (cualquiera)
+			- Cualquier fecha de vencimiento
+		- _Opciones_
+			- El comprador de esta tiene el derecho de elegir si toma el beneficio dado por la opción o no
 
 
+>[!Note]
+>- Un _subyacente_ es un activo financiero en el que se basa el valor de un contrato de derivados
+>-  Los _futuros_ y _forward_ son operaciones de compra y venta anticipada de un producto
 
 
-
-
-Los _futuros_ y _forward_ son operaciones de compra y venta anticipada de un producto.
-
-Futuros:
-- Se transan en bolsa
-- Cantidades estándar
-- Fechas de vencimiento estándar
-- Se debe aportar un dinero inicial para entrar en el contrato
-
-Forward:
-- Se puede transar en mercado no formal
-- Cantidades no estándar (cuualquiera)
-- Cualquier fecha de vencimiento
 
