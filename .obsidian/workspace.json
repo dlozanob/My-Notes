@@ -147,7 +147,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"cámara de riesgo\"",
+                "query": "\"política\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -176,9 +176,10 @@
   },
   "active": "6e2db8e19a970449",
   "lastOpenFiles": [
+    "Tema 3. Indicadores macroeconómicos.md",
+    "Tema 4. Introducción a los mercados monetarios.md",
     "Módulo 3. Introducción al mercado de capitales.md",
     "Tema 3. Introducción a los mercados de capitales.md",
-    "Tema 4. Introducción a los mercados monetarios.md",
     "Tema 2. Estructura del mercado.md",
     "Finanzas.md",
     "Tema 1. Infraestructura de los mercados financieros.md",
@@ -207,7 +208,6 @@
     "Estática de Fluidos.md",
     "Propiedades de los Fluidos.md",
     "Fundamentos de Mecánica de Fluidos.md",
-    "Tema 3. Indicadores macroeconómicos.md",
     "Servomecanismos.md",
     "Verilog.md",
     "Cap. 3. Solución de las ecuaciones de estado de sistemas LTI.md",

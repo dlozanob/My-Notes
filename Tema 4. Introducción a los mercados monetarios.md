@@ -8,3 +8,4 @@ El nivel de riesgo es bajo.
 Objetivos de los mercados financieros:
 - Financiación en corto plazo y con costos razonables
 - Implementar la política monetaria del banco central
+- Formar los precios y la estructura de las tasa de interés
