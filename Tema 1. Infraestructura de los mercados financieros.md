@@ -8,7 +8,7 @@ El _mercado secundario_ se encarga de darle liquidez al mercado financiero. Los 
 
 
 - Los bonos públicos son los elementos menos riesgosos en una economía. Se prestan a una tasa muy baja.
-	- En Colombia los bonos emitidos por el gobierno se llaman _TES_ (Títulos de Tesorería), los transmite el MInisterio de Hacienda y Crédito Público.
+	- En Colombia los bonos emitidos por el gobierno se llaman _TES_ (Títulos de Endeudamiento Soberano), los transmite el MInisterio de Hacienda y Crédito Público.
 	- De esta manera el gobierno puede financiarse
 	- Pueden de corto plazo ($< 1$ año) hasta largo plazo ($> 10$ años)
 
