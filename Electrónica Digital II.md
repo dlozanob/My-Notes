@@ -387,9 +387,9 @@ Varias ventanas de registros permiten tener procesos más rápidos
 
 Pinout:
 
-- SD (Serial Data) [1]
-- SCK (Serial Clock) [1]
-- WS (Word Select) [2]
+- SD (Serial Data)
+- SCK (Serial Clock)
+- WS (Word Select)
 	- 1 -> Right audio channel
 	- 0 -> Left audio channel
 
