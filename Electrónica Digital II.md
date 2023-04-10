@@ -406,7 +406,7 @@ Configurations:
 
 $$
 \begin{align*}
-	SCK_{Freq} = SR*BPC*NC
+	1 \to
 \end{align*}
 $$
 
