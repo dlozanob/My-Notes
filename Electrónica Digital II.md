@@ -381,6 +381,31 @@ Varias ventanas de registros permiten tener procesos más rápidos
 - Carga inmediata de datos las instrucciones terminan en $i$
 
 
+---
+
+# I2S Protocol
+
+Pinout:
+
+- SD (Serial Data) [1]
+- SCK (Serial Clock) [1]
+- WS (Word Select) [2]
+	- 1 -> Right audio channel
+	- 0 -> Left audio channel
+
+Configurations:
+
+- Transmitter
+- Receiver
+- Controller
+
+
+[I2S](https://www.ourpcb.com/i2s-protocol.html)
+
+
+
+
+
 
 
 
