@@ -404,6 +404,11 @@ Configurations:
 
 
 
+$$
+\begin{align*}
+	SCK_{Freq} = SR*BPC*NC
+\end{align*}
+$$
 
 
 
