@@ -29,7 +29,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -91,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electrónica Digital II.md",
+                "file": "Excalidraw/whiteboard.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electrónica Digital II.md",
+                "file": "Excalidraw/whiteboard.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Electrónica Digital II.md"
+                "file": "Excalidraw/whiteboard.excalidraw.md"
               }
             }
           },
@@ -185,7 +186,7 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "de1b737335a4a0bc",
+  "active": "0a6e52fb7272ff7a",
   "lastOpenFiles": [
     "Excalidraw/whiteboard.excalidraw.md",
     "Electrónica Digital II.md",
