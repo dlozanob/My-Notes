@@ -23,3 +23,9 @@ yield es la tasa de rendimiento del mercado
 Si $yield < cupon$ el bono se valoriza ($principal + interes$)
 Si $yield = cupon$ no se gana nada
 Si $yield < cupon$ el bono se desvaloriza
+
+en los bonos se habla de puntos básicos (cada yield) (basis-point)
+
+![](attachments/Pasted%20image%2020230411173453.png)
+
+
