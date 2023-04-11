@@ -387,7 +387,15 @@ Varias ventanas de registros permiten tener procesos más rápidos
 
 
 ```verilog
-
+if(enable) {
+	
+	for(i in data) {
+		SD = i
+		if(i == data.length/2 - 1) {
+			WS = 0
+		}
+	}
+}
 
 ```
 
