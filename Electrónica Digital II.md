@@ -386,7 +386,10 @@ Varias ventanas de registros permiten tener procesos más rápidos
 # Proyecto
 
 
+```verilog
 
+
+```
 
 
 

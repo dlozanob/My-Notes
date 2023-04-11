@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "1614ac52246a4c4d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Verilog.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "0a6e52fb7272ff7a",
             "type": "leaf",
             "state": {
@@ -184,9 +196,10 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "abed2df76f33d216",
+  "active": "de1b737335a4a0bc",
   "lastOpenFiles": [
     "Excalidraw/whiteboard.excalidraw.md",
+    "Verilog.md",
     "Electrónica Digital II.md",
     "Tema 3. Introducción a los mercados de capitales.md",
     "Módulo 3. Introducción al mercado de capitales.md",
@@ -221,7 +234,6 @@
     "Propiedades de los Fluidos.md",
     "Fundamentos de Mecánica de Fluidos.md",
     "Servomecanismos.md",
-    "Verilog.md",
     "Excalidraw/attachments",
     "attachments",
     "New folder",
