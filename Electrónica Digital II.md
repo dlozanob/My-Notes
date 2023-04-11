@@ -404,7 +404,12 @@ if(enable) {
 
 
 $UART$
-``
+```verilog
+while(!done) {
+	busy = 1
+	data[i] = Rx
+}
+```
 
 
 
