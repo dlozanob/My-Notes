@@ -389,16 +389,16 @@ Varias ventanas de registros permiten tener procesos más rápidos
 
 $i^{2}S$
 ```verilog
-if(enable) {
-	bitCounter = 0
-	for(i in data) {
-		SD = i
-		if(bitCounter == BPCH - 1) {
-			WS = not WS
-			bitCounter = 0
-		}
-		bitCounter ++
+while(!enable){
+}
+bitCounter = 0
+for(i in data) {
+	SD = i
+	if(bitCounter == BPCH - 1) {
+		WS = not WS
+		bitCounter = 0
 	}
+	bitCounter ++
 }
 ```
 
@@ -414,12 +414,20 @@ while(!done) {
 $Decoder$
 ```verilog
 always @(posedge data) {
-	posX = arcLength*cos(th)
-	posY = arcLength*sin(th)
+	posX += arcLength*cos(th)
+	posY += arcLength*sin(th)
 }
 ```
 
-
+$Ultrasonido$
+```verilog
+trigger = 1
+counter = 0
+while(!echo) {
+	counter++
+}
+d = (counter*TClk)*3400/2 // cm
+```
 
 
 ## External links
