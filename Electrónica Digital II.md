@@ -386,18 +386,25 @@ Varias ventanas de registros permiten tener procesos más rápidos
 # Proyecto
 
 
+
+$i^{2}S$
 ```verilog
 if(enable) {
-	
+	bitCounter = 0
 	for(i in data) {
 		SD = i
-		if(i == data.length/2 - 1) {
-			WS = 0
+		if(bitCounter == BPCH - 1) {
+			WS = not WS
+			bitCounter = 0
 		}
+		bitCounter ++
 	}
 }
-
 ```
+
+
+$UART$
+``
 
 
 
