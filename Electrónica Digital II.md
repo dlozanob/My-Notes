@@ -411,7 +411,13 @@ while(!done) {
 }
 ```
 
-
+$Decoder$
+```verilog
+always @(posedge data) {
+	posX = arcLength*cos(th)
+	posY = arcLength*sin(th)
+}
+```
 
 
 
