@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Señales y Sistemas II.md",
+                "file": "Cap. 4. Análisis cualitativo de sistemas LTI.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Señales y Sistemas II.md",
+                "file": "Cap. 4. Análisis cualitativo de sistemas LTI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Señales y Sistemas II.md",
+                "file": "Cap. 4. Análisis cualitativo de sistemas LTI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Señales y Sistemas II.md"
+                "file": "Cap. 4. Análisis cualitativo de sistemas LTI.md"
               }
             }
           },
@@ -176,6 +176,11 @@
   },
   "active": "2c04bb6a04cde317",
   "lastOpenFiles": [
+    "Señales y Sistemas II.md",
+    "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
+    "Cap. 3. Solución de las ecuaciones de estado de sistemas LTI.md",
+    "Cap. 4. Análisis cualitativo de sistemas LTI.md",
+    "attachments/Pasted image 20230411183757.png",
     "Módulo 4.md",
     "attachments/Pasted image 20230411173453.png",
     "Finanzas.md",
@@ -186,10 +191,8 @@
     "Módulo 3. Introducción al mercado de capitales.md",
     "Tema 4. Introducción a los mercados monetarios.md",
     "Linked note.md",
-    "Cap. 3. Solución de las ecuaciones de estado de sistemas LTI.md",
     "Excalidraw/blackboard.excalidraw.md",
     "LaTeX.md",
-    "Señales y Sistemas II.md",
     "Tema 2. Estructura del mercado.md",
     "Tema 3. Indicadores macroeconómicos.md",
     "Tema 1. Infraestructura de los mercados financieros.md",
@@ -202,7 +205,6 @@
     "Excalidraw/attachments/Pasted Image 20230408133645_177.png",
     "attachments/Pasted image 20230408132502.png",
     "attachments/Pasted image 20230408125912.png",
-    "attachments/Pasted image 20230407233634.png",
     "Mecanismos.md",
     "Síntesis de mecanismos.md",
     "Main.md",
@@ -210,7 +212,6 @@
     "Análisis de posición.md",
     "Obsidian Basics.md",
     "Estática de Fluidos.md",
-    "Propiedades de los Fluidos.md",
     "Excalidraw/attachments",
     "attachments",
     "New folder",

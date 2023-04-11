@@ -635,7 +635,9 @@ Modelarlo supondría tener infinitas masas acopladas.
 >- Oleoductos
 
 
+## External Links
 
-
-
-
+- [The UCLA Differential Analyzer](https://youtu.be/i575RKy_RC4)
+- [The Mechanical Integrator](https://youtu.be/s-y_lnzWQjk)
+- [Future Computers](https://youtu.be/GVsUOuSjvcg)
+- [Making Money Flow](https://youtu.be/rAZavOcEnLg)
