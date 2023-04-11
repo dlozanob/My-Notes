@@ -28,4 +28,5 @@ en los bonos se habla de puntos básicos (cada yield) (basis-point)
 
 ![](attachments/Pasted%20image%2020230411173453.png)
 
-
+duration -> primera derivada
+convexidad -> segunda derivada
