@@ -29,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/whiteboard.excalidraw.md",
+                "file": "Electrónica Digital II.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/whiteboard.excalidraw.md",
+                "file": "Electrónica Digital II.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/whiteboard.excalidraw.md"
+                "file": "Electrónica Digital II.md"
               }
             }
           },
@@ -158,7 +157,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"TES\"",
+                "query": "\"\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -185,10 +184,10 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "0a6e52fb7272ff7a",
+  "active": "abed2df76f33d216",
   "lastOpenFiles": [
-    "Electrónica Digital II.md",
     "Excalidraw/whiteboard.excalidraw.md",
+    "Electrónica Digital II.md",
     "Tema 3. Introducción a los mercados de capitales.md",
     "Módulo 3. Introducción al mercado de capitales.md",
     "Tema 4. Introducción a los mercados monetarios.md",
