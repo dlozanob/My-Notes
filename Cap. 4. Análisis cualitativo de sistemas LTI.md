@@ -82,10 +82,38 @@ Se les llama _residuos_ a los $r_{i}$
 
 ## Influencia de los polos y ceros en la respuesta
 
-Para expresar $H(s)$ en fracciones parciales de acuerdo a la forma de los polos de $D(s)$:
+Para expresar $H(s)$ en fracciones parciales es útil considerar:
 
 | Tipo de polos | Fracción parcial | Transformada Inversa |
 |-|-|-|
 | Simples | $\frac{r_{i}}{s - p_{i}}$ |  $r_{i}e^{ p_{i}t }$ |
 | Complejos conjugados | $\frac{r_{1}s + r_{2}}{(s + \alpha)^{2} + \beta^{2}}$, donde $p_{1, 2} = \alpha \pm \beta$ | $r_{1}e^{ -\alpha t}\sin(\beta t + r_{2})$ |
-| Repetidos | $\frac{}{}$
+| Repetidos | $\frac{r_{1}s^{n - 1} + \dots + r_{n - 1}s + r_{n}}{(s - p)^{n}}$, donde $n$ es la multiplicidad | $e^{ pt }(r_{1} + \dots + r_{n - 1}t^{n - 2} + r_{n}t^{n - 1})$ |
+
+Al tomar 5 funciones de transferencia ($N(s)$ y $D(s)$ son coprimos), todas con los mismos polos pero distintos ceros, se hallaron sus respuestas al escalón:
+
+![](attachments/Pasted%20image%2020230411201237.png)
+
+Se concluye que la forma está determinada por los polos, así mismo, estos últimos determinan el tiempo de establecimiento.
+Por otra parte, las variaciones de sus respuestas están dadas por los ceros de las funciones, ya que, estos afectan los residuos.
+
+
+## Estabilidad de sistemas LTI
+
+¿Qué sucede si un sistema no es estable?
+- Sistema eléctrico o electrónico
+	- Recalentamiento de sus componentes
+	- Saturación de las señales
+- Sistema mecánico
+	- Fatiga
+	- Desintegración
+- Sistema informático
+	- Stack Overflow
+
+
+Algunos sistemas inestables encuentran aplicaciones en osciladores. Por ejemplo:
+
+
+
+
+
