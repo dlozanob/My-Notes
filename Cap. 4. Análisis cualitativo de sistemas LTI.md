@@ -30,6 +30,8 @@ Es útil hacer un diagrama de polos y ceros:
 
 Se puede hallar la respuesta a una señal de entrada a partir de la función de transferencia.
 
+---
+
 - __Ejemplo__ :
 
 $$
@@ -71,4 +73,19 @@ $$
 Se les llama _residuos_ a los $r_{i}$
 
 >[!Info]
->En matlab se puede usar la sentencia `[r, p, k] = residue(N, D)`
+>En matlab se puede usar la sentencia `[r, p, k] = residue(N, D)` para hallar los residuos de la función con respecto a una entrada
+
+>[!Note]
+>- Computacionalmente, las funciones de transferencia no se usan para hallar una respuesta del sistema, debido a que resulta imposible calcular transformadas inversas de Laplace de forma analítica para entradas con una forma compleja
+>- Las funciones de transferencia son usadas para determinar propiedades cualitativas
+
+
+## Influencia de los polos y ceros en la respuesta
+
+Para expresar $H(s)$ en fracciones parciales de acuerdo a la forma de los polos de $D(s)$:
+
+| Tipo de polos | Fracción parcial | Transformada Inversa |
+|-|-|-|
+| Simples | $\frac{r_{i}}{s - p_{i}}$ |  $r_{i}e^{ p_{i}t }$ |
+| Complejos conjugados | $\frac{r_{1}s + r_{2}}{(s + \alpha)^{2} + \beta^{2}}$, donde $p_{1, 2} = \alpha \pm \beta$ | $r_{1}e^{ -\alpha t}\sin(\beta t + r_{2})$ |
+| Repetidos | $\frac{}{}$
