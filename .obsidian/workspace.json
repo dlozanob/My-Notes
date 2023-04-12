@@ -11,8 +11,12 @@
             "id": "5c863120fa1112b3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Tema 2. Análisis de estados financieros e indicadores financieros.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -77,6 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Tema 2. Análisis de estados financieros e indicadores financieros.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,6 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Tema 2. Análisis de estados financieros e indicadores financieros.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +120,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Tema 2. Análisis de estados financieros e indicadores financieros.md"
+              }
             }
           },
           {
@@ -168,8 +176,26 @@
   },
   "active": "5c863120fa1112b3",
   "lastOpenFiles": [
-    "Excalidraw/whiteboard.excalidraw.md",
+    "Módulo 2. Diagnóstico financiero.md",
+    "Finanzas.md",
+    "Ciencias Económicas y Administrativas.md",
+    "Main.md",
+    "Síntesis de mecanismos.md",
+    "Mecanismos.md",
+    "Análisis de posición.md",
+    "Fundamentos de cinemática de mecanismos.md",
+    "Fundamentos de Mecánica de Fluidos.md",
+    "Estática de Fluidos.md",
+    "Propiedades de los Fluidos.md",
     "Cap. 4. Análisis cualitativo de sistemas LTI.md",
+    "Señales y Sistemas II.md",
+    "Verilog.md",
+    "Electrónica Digital II.md",
+    "Ingeniería Electrónica.md",
+    "Web Development.md",
+    "Javascript.md",
+    "Obsidian Basics.md",
+    "Excalidraw/whiteboard.excalidraw.md",
     "LaTeX.md",
     "attachments/Pasted image 20230411202148.png",
     "attachments/Pasted image 20230411202058.png",
@@ -182,27 +208,10 @@
     "attachments/Pasted image 20230411190626.png",
     "Excalidraw/attachments/Pasted Image 20230411190624_883.png",
     "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
-    "Señales y Sistemas II.md",
     "Señales y Sistemas I.md",
     "Cap. 3. Solución de las ecuaciones de estado de sistemas LTI.md",
     "Módulo 4.md",
-    "Finanzas.md",
-    "Verilog.md",
-    "Electrónica Digital II.md",
     "Tema 3. Introducción a los mercados de capitales.md",
-    "Módulo 3. Introducción al mercado de capitales.md",
-    "Tema 4. Introducción a los mercados monetarios.md",
-    "Linked note.md",
-    "Excalidraw/blackboard.excalidraw.md",
-    "Tema 2. Estructura del mercado.md",
-    "Tema 3. Indicadores macroeconómicos.md",
-    "Tema 1. Infraestructura de los mercados financieros.md",
-    "Módulo 2. Diagnóstico financiero.md",
-    "Mecanismos.md",
-    "Síntesis de mecanismos.md",
-    "Main.md",
-    "Fundamentos de cinemática de mecanismos.md",
-    "Análisis de posición.md",
     "Excalidraw/attachments",
     "attachments",
     "New folder",
