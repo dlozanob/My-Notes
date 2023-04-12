@@ -97,6 +97,7 @@ $$
 $$
 
 En circuitos eléctricos se pueden obtener impedancias tras aplicar la transformada de Laplace en cada componente:
+
 | | R | L | C |
 |-|-|-|-|
 | Tiempo | $v(t) = i(t)R$ | $v(t) = L\frac{di(t)}{dt}$ | $i(t) = C\frac{dv(t)}{dt}$ |
@@ -109,6 +110,7 @@ $$
 $$
 
 Donde $N(s)$ y $D(s)$ son polinomios con coeficientes reales, se tiene las siguientes definiciones para $H(s)$:
+
 | Designación | Condición |
 |-|-|
 | Estrictamente propia | Grado $N(s)$ $<$ Grado $D(s)$ |

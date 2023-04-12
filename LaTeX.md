@@ -225,7 +225,9 @@ As we saw in Equation \ref{eq:example}, the slope of the line is represented by 
 | Scientific notation | `\num{}` | `\num{3e-10}` |
 | For all | `\forall` | $\forall$ |
 | Exists | `\exists` | $\exists$ |
-| Don't exists | `\inexists` | $\nexists$ |
+| Doesn't exists | `\inexists` | $\nexists$ |
+| Belongs | `\in` | $\in$ |
+| Doesn't belongs | `\notin` | $\notin$ |
 | Right arrow | `\rightarrow` | $\rightarrow$ |
 | Left arrow | `\leftarrow` | $\leftarrow$ |
 | CW | `\circlearrowright` | $\circlearrowright$ |
