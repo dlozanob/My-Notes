@@ -25,3 +25,50 @@ Es útil hacer un diagrama de polos y ceros:
 >Tabla de transformadas de Laplace:
 >![](attachments/Pasted%20image%2020230411193120.png)
 
+
+## Inversión de transformadas
+
+Se puede hallar la respuesta a una señal de entrada a partir de la función de transferencia.
+
+- __Ejemplo__ :
+
+$$
+\begin{align*}
+	H(s) = \frac{s^{2} - 10}{2s^{2} - 4s - 6}
+\end{align*}
+$$
+
+Se quiere la respuesta al escalón:
+
+$$
+\begin{align*}
+	Y(s) &= H(s)*U(s) \\\\
+	&= \frac{s^{2} - 10}{2s^{2} - 4s - 6}* \frac{1}{s} \\\\
+	&= \frac{s^{2} - 10}{2(s - 3)(s + 1)s} \\\\
+	&= \frac{r_{1}}{s + 1} + \frac{r_{2}}{s - 3} + \frac{r_{3}}{s}
+\end{align*}
+$$
+
+Se halla que:
+
+$$
+\begin{align*}
+	r_{1} &= -1.25 \\
+	r_{2} &= -0.042 \\
+	r_{3} &= 1.667
+\end{align*}
+$$
+
+Entonces:
+
+$$
+\begin{align*}
+	y(t) &= r_{1}e^{ -t } + r_{2}e^{ 3t } + r_{3} \\
+	y(t) &= -1.25e^{ -t } - 0.042e^{ 3t } + 1.667
+\end{align*}
+$$
+
+Se les llama _residuos_ a los $r_{i}$
+
+>[!Info]
+>En matlab se puede usar la sentencia `[r, p, k] = residue(N, D)`
