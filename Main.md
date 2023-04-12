@@ -17,13 +17,3 @@
 
 - [myDrawings](myDrawings.md)
 - [README](README.md)
-
-
-
----
-
-Dibujito:
-
-![](attachments/Pasted%20image%2020230411225626.png)
-
-asdfghjk
