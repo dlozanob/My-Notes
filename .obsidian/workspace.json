@@ -8,12 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0807ce1ce25034d4",
+            "id": "496d6b6fcf3e290a",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/whiteboard.excalidraw.md"
+                "file": "Tema 2. Función de oferta y demanda.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
@@ -79,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/whiteboard.excalidraw.md",
+                "file": "Tema 2. Función de oferta y demanda.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/whiteboard.excalidraw.md",
+                "file": "Tema 2. Función de oferta y demanda.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/whiteboard.excalidraw.md"
+                "file": "Tema 2. Función de oferta y demanda.md"
               }
             }
           },
@@ -172,8 +174,13 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "0807ce1ce25034d4",
+  "active": "496d6b6fcf3e290a",
   "lastOpenFiles": [
+    "Excalidraw/blackboard.excalidraw.md",
+    "Tema 2. Función de oferta y demanda.md",
+    "Módulo 1. Economía y matemática financiera.md",
+    "Finanzas.md",
+    "Excalidraw/whiteboard.excalidraw.md",
     "Estática de Fluidos.md",
     "Tema 4. Introducción a los mercados monetarios.md",
     "Tema 4. Financiamiento a corto plazo.md",
@@ -189,17 +196,12 @@
     "CSS.md",
     "Tema 2. Análisis de estados financieros e indicadores financieros.md",
     "Módulo 2. Diagnóstico financiero.md",
-    "Finanzas.md",
     "Síntesis de mecanismos.md",
     "Mecanismos.md",
     "Análisis de posición.md",
     "Fundamentos de cinemática de mecanismos.md",
     "Fundamentos de Mecánica de Fluidos.md",
     "Propiedades de los Fluidos.md",
-    "Cap. 4. Análisis cualitativo de sistemas LTI.md",
-    "Señales y Sistemas II.md",
-    "Verilog.md",
-    "Electrónica Digital II.md",
     "attachments/Pasted image 20230411202148.png",
     "attachments/Pasted image 20230411202058.png",
     "attachments/Pasted image 20230411201237.png",
