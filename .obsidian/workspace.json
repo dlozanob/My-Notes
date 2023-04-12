@@ -13,9 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tema 2. Función de oferta y demanda.md",
-                "mode": "preview",
+                "file": "Main.md",
+                "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "4c8326267fa851d2",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/blackboard.excalidraw.md"
               }
             }
           }
@@ -81,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tema 2. Función de oferta y demanda.md",
+                "file": "Main.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tema 2. Función de oferta y demanda.md",
+                "file": "Main.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tema 2. Función de oferta y demanda.md"
+                "file": "Main.md"
               }
             }
           },
@@ -176,7 +186,10 @@
   },
   "active": "496d6b6fcf3e290a",
   "lastOpenFiles": [
+    "attachments/Pasted image 20230411225626.png",
     "Excalidraw/blackboard.excalidraw.md",
+    "Main.md",
+    "attachments/Pasted image 20230411225615.png",
     "Tema 2. Función de oferta y demanda.md",
     "Módulo 1. Economía y matemática financiera.md",
     "Finanzas.md",
@@ -191,7 +204,6 @@
     "Servomecanismos.md",
     "Microcontrollers.md",
     "Ingeniería Electrónica.md",
-    "Main.md",
     "Física.md",
     "CSS.md",
     "Tema 2. Análisis de estados financieros e indicadores financieros.md",
@@ -201,7 +213,6 @@
     "Análisis de posición.md",
     "Fundamentos de cinemática de mecanismos.md",
     "Fundamentos de Mecánica de Fluidos.md",
-    "Propiedades de los Fluidos.md",
     "attachments/Pasted image 20230411202148.png",
     "attachments/Pasted image 20230411202058.png",
     "attachments/Pasted image 20230411201237.png",
@@ -211,7 +222,6 @@
     "Excalidraw/attachments/Pasted Image 20230411193108_002.png",
     "attachments/Pasted image 20230411193052.png",
     "attachments/Pasted image 20230411190626.png",
-    "Excalidraw/attachments/Pasted Image 20230411190624_883.png",
     "Excalidraw/attachments",
     "attachments",
     "New folder",
