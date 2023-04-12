@@ -21,3 +21,7 @@ Es útil hacer un diagrama de polos y ceros:
 
 ![](attachments/Pasted%20image%2020230411190626.png)
 
+>[!Note]
+>Tabla de transformadas de Laplace:
+>![](attachments/Pasted%20image%2020230411193120.png)
+
