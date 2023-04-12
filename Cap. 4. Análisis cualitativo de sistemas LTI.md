@@ -113,6 +113,20 @@ Por otra parte, las variaciones de sus respuestas están dadas por los ceros de 
 
 Algunos sistemas inestables encuentran aplicaciones en osciladores. Por ejemplo:
 
+![](attachments/Pasted%20image%2020230411202148.png)
+
+El sistema se está alimentando con unos voltajes que acotan la respuesta, por tanto, a partir de cierto punto, se comienza a generar un tren de pulsos.
+
+Un sistema es _BIBO_ (Bounded Input Bounded Output) estable, o simplemente _estable_, si toda entrada acotada produce una salida acotada.
+Dicho de otra manera, el sistema debe cumplir:
+
+$$
+\begin{align*}
+	\int _{0}^{\infty}|h(t)| \, dt \leq M < \infty
+\end{align*}
+$$
+
+Donde $M > 0$.
 
 
 
