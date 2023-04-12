@@ -36,20 +36,26 @@ function emitirAudio(param)
     case param
         iniciar: Audio1
         obstaculo: Audio2
+        finalizar: Audio3
         .
         .
         default: return
     enviarAudioI2S()
 
 
+param = iniciar
 while(ex > data.e and ey > data.e) do
     emitirAudio(param)
-    obs = deteccionObstaculos(d)
+    bool obs = deteccionObstaculos(d)
     accionarMotores(obs)
+    if obs do
+        param = obstaculo    
+
     actualizarPosicion()
     recalcularError()
     
-     ^4VxIwyYh
+ emitirAudio(finalizar)
+ doPOSTReqHTTP(fin) ^4VxIwyYh
 
 Error % ^aFp4tad4
 
@@ -1425,10 +1431,10 @@ c0593c727850e71cac74aa0a31cccc093fd0d94d: $$y$$
 		{
 			"id": "4VxIwyYh",
 			"type": "text",
-			"x": 232.08832129343023,
-			"y": -178.01857585139356,
+			"x": 258.53062898573796,
+			"y": -260.80703738985517,
 			"width": 553.125,
-			"height": 537.6,
+			"height": 652.8,
 			"angle": 0,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -1440,21 +1446,21 @@ c0593c727850e71cac74aa0a31cccc093fd0d94d: $$y$$
 			"groupIds": [],
 			"roundness": null,
 			"seed": 535696498,
-			"version": 625,
-			"versionNonce": 172237678,
+			"version": 801,
+			"versionNonce": 668458290,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1681329379643,
+			"updated": 1681329950757,
 			"link": null,
 			"locked": false,
-			"text": "config perifericos\nimport Audio\n\ndata = ESPGetData()\npos.x, pos.y = data.posInit.X, data.posInit.Y\n\nfunction recalcularError()\n    ex = abs((data.posFinal.x - pos.x)/data.posFinal.x)*100\n    ey = abs((data.posFinal.y - pos.y)/data.posFinal.y)*100\n\nfunction emitirAudio(param)\n    case param\n        iniciar: Audio1\n        obstaculo: Audio2\n        .\n        .\n        default: return\n    enviarAudioI2S()\n\n\nwhile(ex > data.e and ey > data.e) do\n    emitirAudio(param)\n    obs = deteccionObstaculos(d)\n    accionarMotores(obs)\n    actualizarPosicion()\n    recalcularError()\n    \n    ",
-			"rawText": "config perifericos\nimport Audio\n\ndata = ESPGetData()\npos.x, pos.y = data.posInit.X, data.posInit.Y\n\nfunction recalcularError()\n    ex = abs((data.posFinal.x - pos.x)/data.posFinal.x)*100\n    ey = abs((data.posFinal.y - pos.y)/data.posFinal.y)*100\n\nfunction emitirAudio(param)\n    case param\n        iniciar: Audio1\n        obstaculo: Audio2\n        .\n        .\n        default: return\n    enviarAudioI2S()\n\n\nwhile(ex > data.e and ey > data.e) do\n    emitirAudio(param)\n    obs = deteccionObstaculos(d)\n    accionarMotores(obs)\n    actualizarPosicion()\n    recalcularError()\n    \n    ",
+			"text": "config perifericos\nimport Audio\n\ndata = ESPGetData()\npos.x, pos.y = data.posInit.X, data.posInit.Y\n\nfunction recalcularError()\n    ex = abs((data.posFinal.x - pos.x)/data.posFinal.x)*100\n    ey = abs((data.posFinal.y - pos.y)/data.posFinal.y)*100\n\nfunction emitirAudio(param)\n    case param\n        iniciar: Audio1\n        obstaculo: Audio2\n        finalizar: Audio3\n        .\n        .\n        default: return\n    enviarAudioI2S()\n\n\nparam = iniciar\nwhile(ex > data.e and ey > data.e) do\n    emitirAudio(param)\n    bool obs = deteccionObstaculos(d)\n    accionarMotores(obs)\n    if obs do\n        param = obstaculo    \n\n    actualizarPosicion()\n    recalcularError()\n    \n emitirAudio(finalizar)\n doPOSTReqHTTP(fin)",
+			"rawText": "config perifericos\nimport Audio\n\ndata = ESPGetData()\npos.x, pos.y = data.posInit.X, data.posInit.Y\n\nfunction recalcularError()\n    ex = abs((data.posFinal.x - pos.x)/data.posFinal.x)*100\n    ey = abs((data.posFinal.y - pos.y)/data.posFinal.y)*100\n\nfunction emitirAudio(param)\n    case param\n        iniciar: Audio1\n        obstaculo: Audio2\n        finalizar: Audio3\n        .\n        .\n        default: return\n    enviarAudioI2S()\n\n\nparam = iniciar\nwhile(ex > data.e and ey > data.e) do\n    emitirAudio(param)\n    bool obs = deteccionObstaculos(d)\n    accionarMotores(obs)\n    if obs do\n        param = obstaculo    \n\n    actualizarPosicion()\n    recalcularError()\n    \n emitirAudio(finalizar)\n doPOSTReqHTTP(fin)",
 			"fontSize": 16,
 			"fontFamily": 3,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "config perifericos\nimport Audio\n\ndata = ESPGetData()\npos.x, pos.y = data.posInit.X, data.posInit.Y\n\nfunction recalcularError()\n    ex = abs((data.posFinal.x - pos.x)/data.posFinal.x)*100\n    ey = abs((data.posFinal.y - pos.y)/data.posFinal.y)*100\n\nfunction emitirAudio(param)\n    case param\n        iniciar: Audio1\n        obstaculo: Audio2\n        .\n        .\n        default: return\n    enviarAudioI2S()\n\n\nwhile(ex > data.e and ey > data.e) do\n    emitirAudio(param)\n    obs = deteccionObstaculos(d)\n    accionarMotores(obs)\n    actualizarPosicion()\n    recalcularError()\n    \n    ",
+			"originalText": "config perifericos\nimport Audio\n\ndata = ESPGetData()\npos.x, pos.y = data.posInit.X, data.posInit.Y\n\nfunction recalcularError()\n    ex = abs((data.posFinal.x - pos.x)/data.posFinal.x)*100\n    ey = abs((data.posFinal.y - pos.y)/data.posFinal.y)*100\n\nfunction emitirAudio(param)\n    case param\n        iniciar: Audio1\n        obstaculo: Audio2\n        finalizar: Audio3\n        .\n        .\n        default: return\n    enviarAudioI2S()\n\n\nparam = iniciar\nwhile(ex > data.e and ey > data.e) do\n    emitirAudio(param)\n    bool obs = deteccionObstaculos(d)\n    accionarMotores(obs)\n    if obs do\n        param = obstaculo    \n\n    actualizarPosicion()\n    recalcularError()\n    \n emitirAudio(finalizar)\n doPOSTReqHTTP(fin)",
 			"lineHeight": 1.2
 		},
 		{
@@ -2696,10 +2702,10 @@ c0593c727850e71cac74aa0a31cccc093fd0d94d: $$y$$
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": "triangle",
 		"currentItemEndArrowhead": "triangle",
-		"scrollX": 212.91167870657,
-		"scrollY": 814.2685758513937,
+		"scrollX": 581.3232393681308,
+		"scrollY": 481.2114662942836,
 		"zoom": {
-			"value": 0.7999999999999998
+			"value": 0.6499999999999997
 		},
 		"currentItemRoundness": "sharp",
 		"gridSize": null,
