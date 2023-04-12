@@ -8,8 +8,6 @@ tags: [excalidraw]
 
 
 # Text Elements
-OLAAAAA DKJSDKSKJDSKJDSKJKDSJKKDSDDS ^Nh238yd8
-
 %%
 # Drawing
 ```json
@@ -2498,11 +2496,11 @@ OLAAAAA DKJSDKSKJDSKJDSKJKDSJKKDSDDS ^Nh238yd8
 			"groupIds": [],
 			"roundness": null,
 			"seed": 2055378750,
-			"version": 219,
-			"versionNonce": 283505470,
-			"isDeleted": false,
+			"version": 220,
+			"versionNonce": 456654562,
+			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1681271715139,
+			"updated": 1681271996788,
 			"link": null,
 			"locked": false
 		},
@@ -2524,11 +2522,11 @@ OLAAAAA DKJSDKSKJDSKJDSKJKDSJKKDSDDS ^Nh238yd8
 			"groupIds": [],
 			"roundness": null,
 			"seed": 679533438,
-			"version": 92,
-			"versionNonce": 37539582,
-			"isDeleted": false,
+			"version": 93,
+			"versionNonce": 1400199230,
+			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1681271725401,
+			"updated": 1681271996788,
 			"link": null,
 			"locked": false
 		},
@@ -2550,11 +2548,11 @@ OLAAAAA DKJSDKSKJDSKJDSKJKDSJKKDSDDS ^Nh238yd8
 			"groupIds": [],
 			"roundness": null,
 			"seed": 1744447458,
-			"version": 90,
-			"versionNonce": 642030142,
-			"isDeleted": false,
+			"version": 91,
+			"versionNonce": 1264177826,
+			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1681271730105,
+			"updated": 1681271996788,
 			"link": null,
 			"locked": false
 		},
@@ -2576,11 +2574,11 @@ OLAAAAA DKJSDKSKJDSKJDSKJKDSJKKDSDDS ^Nh238yd8
 			"groupIds": [],
 			"roundness": null,
 			"seed": 158507646,
-			"version": 119,
-			"versionNonce": 1575524514,
-			"isDeleted": false,
+			"version": 120,
+			"versionNonce": 232497278,
+			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1681271759665,
+			"updated": 1681271996788,
 			"link": null,
 			"locked": false,
 			"text": "OLAAAAA DKJSDKSKJDSKJDSKJKDSJKKDSDDS",
@@ -2609,10 +2607,10 @@ OLAAAAA DKJSDKSKJDSKJDSKJKDSJKKDSDDS ^Nh238yd8
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": "bar",
 		"currentItemEndArrowhead": "bar",
-		"scrollX": -88.45691429754704,
-		"scrollY": 801.4113509404478,
+		"scrollX": 809.1320220509796,
+		"scrollY": 827.9982658401614,
 		"zoom": {
-			"value": 0.5594057541757852
+			"value": 0.45940575417578516
 		},
 		"currentItemRoundness": "sharp",
 		"gridSize": null,
