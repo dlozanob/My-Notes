@@ -139,9 +139,17 @@ Descripción de los niveles:
 
 Se debe de tener en cuenta el conjunto de normas e informes técnicos _IEC 61131_ publicada por la _IEC_ (International Electrotechnical Commission), la cual busca estandarizar los autómatas programables. Este conjunto cuenta con 6 normas, y 2 informes técnicos (parte 4 y 8). [External Links](#External+Links)
 
+---
 
-## 
+# Clase
 
+![](attachments/Pasted%20image%2020230413095045.png)
+
+
+
+
+
+---
 
 
 ## Proyecto académico
