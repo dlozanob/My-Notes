@@ -393,8 +393,27 @@ configPeriféricos()
 while(!dataAvail()) {
 }
 data = ESP32GetData()
-calcularDistDir()
+Position pos = new Position()
+pos.x, pos.y = data.posInit.x, data,posInit.y
+dist, dir = calcularDistDir()
 
+while(Ex > error ) {
+	detected = detectarObstaculo()
+	accionarMotores(dir, detected)
+	actualizarPosicion()
+	recalcularError()
+}
+
+
+
+function accionarMotores(detected) {
+	direccionar()
+	if(detected) {
+		hacerCurva()
+		return
+	}
+	avanzar()
+}
 
 ```
 
