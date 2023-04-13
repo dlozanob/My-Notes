@@ -420,9 +420,9 @@ while(1) {
 
 function emitirAudio(audioSel) {
 	switch audioSel {
-		Iniciar: audio = Audio1
-		Obstaculo: audio = Audio2
-		Fin: audio = Audio3
+		case Iniciar: audio = Audio1
+		case Obstaculo: audio = Audio2
+		case Fin: audio = Audio3
 		default: return
 	}
 	enviarAudioI2S(audio)
@@ -434,9 +434,16 @@ function recalcularError() {
 }
 
 
-function actualizarPosicion() {
-	
-
+function actualizarPosicion(motionMode) {
+	if(!motionMode) {
+		return
+	}
+	if(motionMode) {
+		pos.x += 
+	} else {
+		pos.x += dDist*cos(dir)
+		pos.y += dDist*sin(dir)
+	}
 }
 
 
