@@ -408,7 +408,7 @@ while(1) {
 		detected = detectarObstaculo()
 		if detected {audioSel = Obstaculo}
 		
-		motionMode = accionarMotores(detected)
+		motionMode = accionarMotores(dir, detected)
 		actualizarPosicion(motionMode)
 		recalcularError()
 	}
@@ -439,7 +439,8 @@ function actualizarPosicion(motionMode) {
 		return
 	}
 	if(motionMode) {
-		pos.x += 
+		pos.x += curveDist(dir, x)
+		pos.y += curveDist(dir, y)
 	} else {
 		pos.x += dDist*cos(dir)
 		pos.y += dDist*sin(dir)
@@ -447,7 +448,7 @@ function actualizarPosicion(motionMode) {
 }
 
 
-function accionarMotores(detected) {
+function accionarMotores(dir, detected) {
 	if(dir != dirObj) {
 		rotar()
 		return 0
