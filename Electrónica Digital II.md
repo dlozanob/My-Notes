@@ -390,6 +390,10 @@ Varias ventanas de registros permiten tener procesos más rápidos
 import audios
 
 configPeriféricos()
+while(!dataAvail()) {
+}
+data = ESP32GetData()
+calcularDistDir()
 
 
 ```
