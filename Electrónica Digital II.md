@@ -390,26 +390,32 @@ Varias ventanas de registros permiten tener procesos más rápidos
 import audios
 
 configPeriféricos()
-while(!dataAvail()) {
-}
-data = ESP32GetData()
-Position pos = new Position()
-pos.x, pos.y = data.posInit.x, data,posInit.y
-distObj, dirObj = calcularDistDir()
-audioSel = Iniciar
 
-while(Ex > data.error and Ey > data.error) {
-	emitirAudio(audioSel)
-	audioSel = ''
+while(1) {
+	while(!dataAvail()) {
+	}
+	data = ESP32GetData()
+	Position pos = new Position()
+	pos.x, pos.y = data.posInit.x, data,posInit.y
+	distObj, dirObj = calcularDistDir()
+	dir = data.dir
+	audioSel = Iniciar
 	
-	detected = detectarObstaculo()
-	if detected {audioSel = Obstaculo}
-	
-	motionMode = accionarMotores(dir, detected)
-	actualizarPosicion(motionMode)
-	recalcularError()
+	while(Ex > data.error and Ey > data.error) {
+		emitirAudio(audioSel)
+		audioSel = ''
+		
+		detected = detectarObstaculo()
+		if detected {audioSel = Obstaculo}
+		
+		motionMode = accionarMotores(detected)
+		actualizarPosicion(motionMode)
+		recalcularError()
+	}
+	emitirAudio(Fin)
+	ESP32PostData(Done)
+	clean()
 }
-emitirAudio()
 
 
 function emitirAudio(audioSel) {
@@ -419,13 +425,17 @@ function emitirAudio(audioSel) {
 		Fin: audio = Audio3
 		default: return
 	}
-	reproducirAudio(audio)
+	enviarAudioI2S(audio)
+}
+
+function recalcularError() {
+    Ex = abs((data.posFinal.x - pos.x)/data.posFinal.x)*100
+    Ey = abs((data.posFinal.y - pos.y)/data.posFinal.y)*100
 }
 
 
-
 function actualizarPosicion() {
-
+	
 
 }
 
