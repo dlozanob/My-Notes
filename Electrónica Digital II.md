@@ -389,8 +389,7 @@ Varias ventanas de registros permiten tener procesos más rápidos
 ```c
 import audios
 
-configPeriféricos()
-
+configPerifericos()
 while(1) {
 	while(!dataAvail()) {
 	}
