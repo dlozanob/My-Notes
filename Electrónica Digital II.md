@@ -417,7 +417,6 @@ while(1) {
 	clean()
 }
 
-
 function emitirAudio(audioSel) {
 	switch audioSel {
 		case Iniciar: audio = Audio1
@@ -433,7 +432,6 @@ function recalcularError() {
     Ey = abs((data.posFinal.y - pos.y)/data.posFinal.y)*100
 }
 
-
 function actualizarPosicion(motionMode) {
 	if(!motionMode) {
 		return
@@ -447,7 +445,6 @@ function actualizarPosicion(motionMode) {
 	}
 }
 
-
 function accionarMotores(dir, detected) {
 	if(dir != dirObj) {
 		rotar()
@@ -460,7 +457,6 @@ function accionarMotores(dir, detected) {
 	avanzar()
 	return 2
 }
-
 ```
 
 
