@@ -146,6 +146,9 @@ Se debe de tener en cuenta el conjunto de normas e informes técnicos _IEC 61131
 ![](attachments/Pasted%20image%2020230413095045.png)
 
 
+Un perfil trapezoidal suave evita el problema de los jerks
+
+![](attachments/Pasted%20image%2020230413102650.png)
 
 
 
