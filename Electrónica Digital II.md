@@ -395,24 +395,52 @@ while(!dataAvail()) {
 data = ESP32GetData()
 Position pos = new Position()
 pos.x, pos.y = data.posInit.x, data,posInit.y
-dist, dir = calcularDistDir()
+distObj, dirObj = calcularDistDir()
+audioSel = Iniciar
 
-while(Ex > error ) {
+while(Ex > data.error and Ey > data.error) {
+	emitirAudio(audioSel)
+	audioSel = ''
+	
 	detected = detectarObstaculo()
-	accionarMotores(dir, detected)
-	actualizarPosicion()
+	if detected {audioSel = Obstaculo}
+	
+	motionMode = accionarMotores(dir, detected)
+	actualizarPosicion(motionMode)
 	recalcularError()
+}
+emitirAudio()
+
+
+function emitirAudio(audioSel) {
+	switch audioSel {
+		Iniciar: audio = Audio1
+		Obstaculo: audio = Audio2
+		Fin: audio = Audio3
+		default: return
+	}
+	reproducirAudio(audio)
 }
 
 
 
+function actualizarPosicion() {
+
+
+}
+
+
 function accionarMotores(detected) {
-	direccionar()
+	if(dir != dirObj) {
+		rotar()
+		return 0
+	}
 	if(detected) {
 		hacerCurva()
-		return
+		return 1
 	}
 	avanzar()
+	return 2
 }
 
 ```
