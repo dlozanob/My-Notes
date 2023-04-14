@@ -17,3 +17,5 @@
 
 ---
 
+>[!Note]
+>Se recomienda usar _Spyder_ para pyhon y matlab
