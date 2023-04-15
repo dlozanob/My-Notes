@@ -11,8 +11,12 @@
             "id": "35bb881759b22a42",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Estática de Fluidos.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -77,6 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Estática de Fluidos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,6 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Estática de Fluidos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +120,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Estática de Fluidos.md"
+              }
             }
           },
           {
@@ -169,6 +177,7 @@
   },
   "active": "35bb881759b22a42",
   "lastOpenFiles": [
+    "Fundamentos de Mecánica de Fluidos.md",
     "Servomecanismos.md",
     "Excalidraw/whiteboard.excalidraw.md",
     "attachments/Pasted image 20230413104034.png",
