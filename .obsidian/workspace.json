@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estática de Fluidos.md",
+                "file": "Propiedades de los Fluidos.md",
                 "mode": "preview",
                 "source": false
               }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estática de Fluidos.md",
+                "file": "Propiedades de los Fluidos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Estática de Fluidos.md",
+                "file": "Propiedades de los Fluidos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estática de Fluidos.md"
+                "file": "Propiedades de los Fluidos.md"
               }
             }
           },
@@ -178,6 +178,7 @@
   "active": "35bb881759b22a42",
   "lastOpenFiles": [
     "Fundamentos de Mecánica de Fluidos.md",
+    "Estática de Fluidos.md",
     "Servomecanismos.md",
     "Excalidraw/whiteboard.excalidraw.md",
     "attachments/Pasted image 20230413104034.png",
@@ -195,7 +196,6 @@
     "Tema 2. Función de oferta y demanda.md",
     "Módulo 1. Economía y matemática financiera.md",
     "Finanzas.md",
-    "Estática de Fluidos.md",
     "Tema 4. Introducción a los mercados monetarios.md",
     "Tema 4. Financiamiento a corto plazo.md",
     "mecanica de f.md",
