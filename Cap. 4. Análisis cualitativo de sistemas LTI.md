@@ -130,9 +130,13 @@ Donde $M > 0$.
 
 Esta propiedad pocas veces se usa en la práctica debido a que la respuesta al impulso está disponible pocas veces.
 
-Se puede usar como alternativa la siguiente propiedad. Si $H(s)$ tiene todos sus polos en el semiplano izquierdo, esta es estable.
+Se puede usar como alternativa la siguiente propiedad: si $H(s)$ tiene todos sus polos en el semiplano izquierdo, el sistema es estable.
 
 No obstante, esta última propiedad no es cierta para sistemas distribuidos.
+
+>[!Note]
+>- La respuesta al impulso en un sistema estable concentrado tiende a cero. La respuesta al paso tiende a un valor constante
+>- Si la razón $\frac{\mathrm{Im}}{\mathrm{Re}}$ (parte imaginaria y real de los polos) aumenta, la estabilidad del sistema tambipen lo hace
 
 ---
 
@@ -154,10 +158,41 @@ $$
 
 La función es irracional, por tanto, el sistema es distribuido.
 
-Si $t \to \infty$ entonces $h(t) \to 0$, 
+Si $t \to \infty$ entonces $h(t) \to 0$, el sistema converge a un valor. Sin embargo:
+
+$$
+\begin{align*}
+	\int _{0}^{\infty} |h(t)| \, dt = \int _{0}^{\infty} \frac{1}{t + 1} \, dt = \ln\left( t + 1 \right) \biggr\rvert_{0}^{\infty} = \infty
+\end{align*}
+$$
+
+Por tanto, el sistema es inestable.
 
 
+>[!Note]
+>En sistemas distribuidos una función de transferencia es el retardo: $H(s) = e^{ -Ts }$, donde $h(t) = \delta(t - T)$
 
 
+## Criterio de Routh
+
+Sea una función de transferencia racional $H(s) = \frac{N(s)}{D(s)}$, donde:
+
+$$
+\begin{align*}
+	D(s) = a_{0}s^{6} + a_{1}s^{5} + a_{2}s^{4} + a_{3}s^{3} + a_{4}s^{2} + a_{5}s + a_{6}
+\end{align*}
+$$
+
+Y sea el arreglo de Routh el siguiente:
+
+![](attachments/Pasted%20image%2020230416173831.png)
+
+Donde:
+
+$$
+\begin{align*}
+	
+\end{align*}
+$$
 
 

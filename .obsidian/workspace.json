@@ -30,6 +30,16 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5bc581e37585801c",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/whiteboard.excalidraw.md"
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -189,10 +199,14 @@
   },
   "active": "1259d3e6144b7e7f",
   "lastOpenFiles": [
+    "attachments/Pasted image 20230416173831.png",
+    "Excalidraw/whiteboard.excalidraw.md",
+    "Excalidraw/attachments/Pasted Image 20230416173825_372.png",
+    "Cap. 4. Análisis cualitativo de sistemas LTI.md",
+    "attachments/Pasted image 20230416173814.png",
     "Señales y Sistemas II.md",
     "Linked note.md",
     "Obsidian Basics.md",
-    "Excalidraw/whiteboard.excalidraw.md",
     "Verilog.md",
     "Assembly.md",
     "Main.md",
@@ -214,8 +228,6 @@
     "attachments/Pasted image 20230413095045.png",
     "Electrónica Digital II.md",
     "Excalidraw/attachments/Pasted Image 20230413001826_120.png",
-    "Excalidraw/attachments/Pasted Image 20230412235321_195.png",
-    "Excalidraw/attachments/Pasted Image 20230412235149_156.png",
     "Tema 2. Función de oferta y demanda.md",
     "Módulo 1. Economía y matemática financiera.md",
     "Finanzas.md",
@@ -223,8 +235,6 @@
     "Tema 4. Financiamiento a corto plazo.md",
     "mecanica de f.md",
     "Tema 3. Análisis de flujo de efectivo y análisis de capital de trabajo.md",
-    "Ciencias Económicas y Administrativas.md",
-    "Tema 1. Infraestructura de los mercados financieros.md",
     "Excalidraw/attachments",
     "attachments",
     "New folder",
