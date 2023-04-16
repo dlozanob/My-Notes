@@ -174,8 +174,18 @@ Por tanto, el sistema es inestable.
 
 
 >[!Info]
->- Los sistemas retroalimentados suponen comúnmente problemas de estabilidad
->- 
+>Los sistemas retroalimentados suponen comúnmente problemas de estabilidad
+---
+
+---
+
+El _Governor_ es un mecanismo que permite la retroalimentación de un motor de vapor.
+
+
+
+
+
+---
 
 
 ## Criterio de Routh

@@ -42,7 +42,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cap. 4. Análisis cualitativo de sistemas LTI.md",
+                "file": "Excalidraw/whiteboard.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cap. 4. Análisis cualitativo de sistemas LTI.md",
+                "file": "Excalidraw/whiteboard.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cap. 4. Análisis cualitativo de sistemas LTI.md"
+                "file": "Excalidraw/whiteboard.excalidraw.md"
               }
             }
           },
@@ -197,12 +197,12 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "1259d3e6144b7e7f",
+  "active": "5bc581e37585801c",
   "lastOpenFiles": [
+    "Cap. 4. Análisis cualitativo de sistemas LTI.md",
     "attachments/Pasted image 20230416173831.png",
     "Excalidraw/whiteboard.excalidraw.md",
     "Excalidraw/attachments/Pasted Image 20230416173825_372.png",
-    "Cap. 4. Análisis cualitativo de sistemas LTI.md",
     "attachments/Pasted image 20230416173814.png",
     "Señales y Sistemas II.md",
     "Linked note.md",
@@ -227,7 +227,6 @@
     "attachments/Pasted image 20230413102650.png",
     "attachments/Pasted image 20230413095045.png",
     "Electrónica Digital II.md",
-    "Excalidraw/attachments/Pasted Image 20230413001826_120.png",
     "Tema 2. Función de oferta y demanda.md",
     "Módulo 1. Economía y matemática financiera.md",
     "Finanzas.md",
