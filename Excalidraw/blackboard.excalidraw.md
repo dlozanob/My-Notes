@@ -8,11 +8,6 @@ tags: [excalidraw]
 
 
 # Text Elements
-
-# Embedded files
-d55abf80e5915d6db5b2bc18249f89494ee4f74e: $$\hat{s}$$
-89a1990947ff3fee743595984de68ec3ef34ccba: $$\hat{n}$$
-
 %%
 # Drawing
 ```json
@@ -2485,9 +2480,9 @@ d55abf80e5915d6db5b2bc18249f89494ee4f74e: $$\hat{s}$$
 		},
 		{
 			"type": "freedraw",
-			"version": 85,
-			"versionNonce": 1820327929,
-			"isDeleted": false,
+			"version": 86,
+			"versionNonce": 897720409,
+			"isDeleted": true,
 			"id": "pnESjcQG8v9AWOBYVDRUS",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
@@ -2505,7 +2500,7 @@ d55abf80e5915d6db5b2bc18249f89494ee4f74e: $$\hat{s}$$
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1681672974628,
+			"updated": 1681674542416,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -2852,9 +2847,9 @@ d55abf80e5915d6db5b2bc18249f89494ee4f74e: $$\hat{s}$$
 		},
 		{
 			"type": "arrow",
-			"version": 70,
-			"versionNonce": 121168823,
-			"isDeleted": false,
+			"version": 71,
+			"versionNonce": 1936813495,
+			"isDeleted": true,
 			"id": "HOZgiLtqT1JG-JKayvFo4",
 			"fillStyle": "solid",
 			"strokeWidth": 4,
@@ -2872,7 +2867,7 @@ d55abf80e5915d6db5b2bc18249f89494ee4f74e: $$\hat{s}$$
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1681672994029,
+			"updated": 1681674542416,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -2893,9 +2888,9 @@ d55abf80e5915d6db5b2bc18249f89494ee4f74e: $$\hat{s}$$
 		},
 		{
 			"type": "arrow",
-			"version": 120,
-			"versionNonce": 639501815,
-			"isDeleted": false,
+			"version": 121,
+			"versionNonce": 1223601465,
+			"isDeleted": true,
 			"id": "R9hv5OcQ6rj3zeOf78LnB",
 			"fillStyle": "solid",
 			"strokeWidth": 4,
@@ -2913,7 +2908,7 @@ d55abf80e5915d6db5b2bc18249f89494ee4f74e: $$\hat{s}$$
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1681673008966,
+			"updated": 1681674542416,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -2934,9 +2929,9 @@ d55abf80e5915d6db5b2bc18249f89494ee4f74e: $$\hat{s}$$
 		},
 		{
 			"type": "image",
-			"version": 191,
-			"versionNonce": 1619786647,
-			"isDeleted": false,
+			"version": 192,
+			"versionNonce": 76062423,
+			"isDeleted": true,
 			"id": "coWb9lNO",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
@@ -2954,7 +2949,7 @@ d55abf80e5915d6db5b2bc18249f89494ee4f74e: $$\hat{s}$$
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1681673031532,
+			"updated": 1681674542416,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -2966,9 +2961,9 @@ d55abf80e5915d6db5b2bc18249f89494ee4f74e: $$\hat{s}$$
 		},
 		{
 			"type": "image",
-			"version": 118,
-			"versionNonce": 577285335,
-			"isDeleted": false,
+			"version": 119,
+			"versionNonce": 1559666201,
+			"isDeleted": true,
 			"id": "683TJCEo",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
@@ -2986,7 +2981,7 @@ d55abf80e5915d6db5b2bc18249f89494ee4f74e: $$\hat{s}$$
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1681673033997,
+			"updated": 1681674542416,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -3012,10 +3007,10 @@ d55abf80e5915d6db5b2bc18249f89494ee4f74e: $$\hat{s}$$
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "triangle",
-		"scrollX": -784.9462287340006,
-		"scrollY": 985.7102596012088,
+		"scrollX": 279.19553451756974,
+		"scrollY": 378.2953393396226,
 		"zoom": {
-			"value": 0.6432560196868073
+			"value": 1
 		},
 		"currentItemRoundness": "sharp",
 		"gridSize": null,

@@ -49,7 +49,10 @@ $$
 $$
 
 >[!Note]
->Sea una función vectorial $F(x, y, z, t)$, se define la _derivada material_ como:
+
+Sea una función vectorial F(x,y,z,t), se define la _derivada material_ como:
+
+
 
 $$
 \begin{align*}
@@ -58,5 +61,19 @@ $$
 \end{align*}
 $$
 
-Donde a $\frac{\partial F}{\partial t}$ se le llama _derivada local_ y a $(\vec{v} \cdot  \vec{\nabla})F$ se le llama _derivada convectiva_
+Donde a $\frac{\partial F}{\partial t}$ se le llama _derivada local_ y a $(\vec{v} \cdot  \vec{\nabla})F$ se le llama _derivada convectiva_.
+
 >
+
+Sabiendo que $\vec{v} = v\hat{s}$ entonces:
+
+$$
+\begin{align*}
+	\vec{a} &= \frac{D\vec{v}}{Dt} = \frac{D(v\hat{s})}{Dt} \\
+	&= \frac{D\hat{s}}{Dt} + \frac{Dv}{Dt} \\
+	&= \left( v \frac{\partial v}{\partial s} \right)\hat{s} + v\left( \frac{\partial \hat{s}}{\partial s} \right) \\
+	&= a_{s}\hat{s} + \frac{V^{2}}{R}\hat{n}
+\end{align*}
+$$
+
+Tal que $a_{n} = \frac{V^{2}}{R}$. Donde $R$ es el radio de curvatura.

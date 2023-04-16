@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "35bb881759b22a42",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cinemática de Fluidos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "c2ea9ce6a8315608",
             "type": "leaf",
             "state": {
@@ -28,8 +16,21 @@
                 "file": "Excalidraw/blackboard.excalidraw.md"
               }
             }
+          },
+          {
+            "id": "4c3a7f181257422e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linked note.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -91,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cinemática de Fluidos.md",
+                "file": "Linked note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cinemática de Fluidos.md",
+                "file": "Linked note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cinemática de Fluidos.md"
+                "file": "Linked note.md"
               }
             }
           },
@@ -185,15 +186,15 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "35bb881759b22a42",
+  "active": "4c3a7f181257422e",
   "lastOpenFiles": [
-    "attachments/Pasted image 20230416142540.png",
     "Excalidraw/blackboard.excalidraw.md",
+    "Fundamentos de Mecánica de Fluidos.md",
     "Cinemática de Fluidos.md",
+    "attachments/Pasted image 20230416142540.png",
     "attachments/Pasted image 20230416142111.png",
     "attachments/Pasted image 20230416141532.png",
     "attachments/Pasted image 20230416140833.png",
-    "Fundamentos de Mecánica de Fluidos.md",
     "Estática de Fluidos.md",
     "Propiedades de los Fluidos.md",
     "Servomecanismos.md",
@@ -205,7 +206,6 @@
     "Excalidraw/attachments/Pasted Image 20230413001826_120.png",
     "Excalidraw/attachments/Pasted Image 20230412235321_195.png",
     "Excalidraw/attachments/Pasted Image 20230412235149_156.png",
-    "Excalidraw/attachments/Pasted Image 20230412234833_104.png",
     "Main.md",
     "Tema 2. Función de oferta y demanda.md",
     "Módulo 1. Economía y matemática financiera.md",
