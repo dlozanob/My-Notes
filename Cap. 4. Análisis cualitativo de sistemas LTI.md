@@ -191,8 +191,36 @@ Donde:
 
 $$
 \begin{align*}
-	
+\begin{matrix}
+	[b_{0} & b_{1} & b_{2} & b_{3}] = (1^{ra}fila) - k_{1}(2^{da}fila)
+\end{matrix}
 \end{align*}
 $$
 
+$$
+\begin{align}
+\begin{matrix}
+	[c_{0} & c_{1} & c_{2}] = (2^{da}fila) - k_{2}(3^{ra}fila) \\
+	[d_{0} & d_{1} & d_{2} ] = (3^{ra}fila) - k_{3}(4^{ta}fila) \\
+	[e_{0} & e_{1}] &= (4^{ta}fila) - k_{4}(5^{ta}fila) \\
+	[f_{0} & f_{1} ] &= (5^{ta}fila) - k_{5}(6^{ta}fila)
+\end{matrix}
+\end{align}
+$$
 
+Además:
+
+$$
+\begin{align*}
+	k_{1} = \frac{a_{0}}{a_{1}} \\\\
+	k_{2} = \frac{a_{1}}{b_{1}} \\\\
+	k_{3} = \frac{b_{1}}{c_{1}} \\\\
+	k_{4} = \frac{c_{1}}{d_{1}} \\\\
+	k_{5} = \frac{d_{1}}{e_{1}}
+\end{align*}
+$$
+
+Entonces el sistema es inestable si alguno de los coeficientes en el arreglo de Routh es menor igual a 0.
+
+>[!Note]
+>Si en la función $a_{0} < 0$ entonces aplicar el criterio de Routh con $-D(s)$
