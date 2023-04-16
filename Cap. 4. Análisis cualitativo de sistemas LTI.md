@@ -181,6 +181,17 @@ Por tanto, el sistema es inestable.
 
 El _Governor_ es un mecanismo que permite la retroalimentación de un motor de vapor.
 
+![](attachments/Pasted%20image%2020230416184636.png)
+
+El diagrama cinemático es el siguiente:
+
+![](attachments/Pasted%20image%2020230416184317.png)
+
+La entrada es suministrada por el motor de vapor, el cual hace rotar ambas esferas, la aceleración centrífuga produce que estas se alejen y suban la corredera (adentro de esta hay una junta cilíndrica). Al subir la corredera se mueve el eslabón de la derecha, provocando un movimiento en la revoluta $Y$, la cual está conectada a una válvula de mariposa, provocando que esta se abra y se cierre de acuerdo a $\omega_{in}$.
+
+![](attachments/Pasted%20image%2020230416185240.png)
+
+Si la válvula permite el paso de vapor ($0 \leq \omega_{in} < \omega_{in_{Max}}$), el motor 
 
 
 
