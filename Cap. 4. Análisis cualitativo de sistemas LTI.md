@@ -173,6 +173,11 @@ Por tanto, el sistema es inestable.
 >En sistemas distribuidos una función de transferencia es el retardo: $H(s) = e^{ -Ts }$, donde $h(t) = \delta(t - T)$
 
 
+>[!Info]
+>- Los sistemas retroalimentados suponen comúnmente problemas de estabilidad
+>- 
+
+
 ## Criterio de Routh
 
 Sea una función de transferencia racional $H(s) = \frac{N(s)}{D(s)}$, donde:
@@ -220,7 +225,7 @@ $$
 \end{align*}
 $$
 
-Entonces el sistema es inestable si alguno de los coeficientes en el arreglo de Routh es menor igual a 0.
+Entonces el sistema es estable si todos los coeficientes en el arreglo de Routh son mayores a 0.
 
 >[!Note]
 >Si en la función $a_{0} < 0$ entonces aplicar el criterio de Routh con $-D(s)$
