@@ -28,9 +28,17 @@
                 "file": "Excalidraw/whiteboard.excalidraw.md"
               }
             }
+          },
+          {
+            "id": "c1ea12d43eb7cbf3",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -92,7 +100,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/whiteboard.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +116,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/whiteboard.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,9 +137,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Excalidraw/whiteboard.excalidraw.md"
-              }
+              "state": {}
             }
           },
           {
@@ -186,11 +190,11 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "cc1fe83f2bbd9a78",
+  "active": "c1ea12d43eb7cbf3",
   "lastOpenFiles": [
-    "LaTeX.md",
-    "Excalidraw/whiteboard.excalidraw.md",
     "Linked note.md",
+    "Excalidraw/whiteboard.excalidraw.md",
+    "LaTeX.md",
     "Cinemática de Fluidos.md",
     "Mecanismos.md",
     "Servomecanismos.md",
