@@ -36,8 +36,27 @@ $$
 
 - _Campo de aceleración_ 
 
+Las _coordenadas de líneas de corriente_ toman un sistema de referencia relativo a cada posición de una partícula. Sus componentes son una normal ($\hat{n}$) y una tangencial ($\hat{s}$).
+
+![](attachments/Pasted%20image%2020230416142540.png)
+
+Se define el campo de aceleración usando este sistema coordenado.
+
 $$
 \begin{align*}
-	
+	\vec{a} = \frac{D\vec{v}}{Dt} = a_{s}\hat{s} + a_{n}\hat{n}
 \end{align*}
 $$
+
+>[!Note]
+>Sea una función vectorial $F(x, y, z, t)$, se define la _derivada material_ como:
+
+$$
+\begin{align*}
+	\frac{DF}{Dt} &= \frac{\partial F}{\partial t} + u \frac{\partial F}{\partial x} + v \frac{\partial F}{\partial y} + w \frac{\partial F}{\partial z} \\
+	&= \frac{\partial F}{\partial t} + (\vec{v} \cdot  \vec{\nabla})F
+\end{align*}
+$$
+
+Donde a $\frac{\partial F}{\partial t}$ se le llama _derivada local_ y a $(\vec{v} \cdot  \vec{\nabla})F$ se le llama _derivada convectiva_
+>
