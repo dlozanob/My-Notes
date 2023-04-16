@@ -128,6 +128,36 @@ $$
 
 Donde $M > 0$.
 
+Esta propiedad pocas veces se usa en la práctica debido a que la respuesta al impulso está disponible pocas veces.
+
+Se puede usar como alternativa la siguiente propiedad. Si $H(s)$ tiene todos sus polos en el semiplano izquierdo, esta es estable.
+
+No obstante, esta última propiedad no es cierta para sistemas distribuidos.
+
+---
+
+- __Ejemplo__ :
+
+$$
+\begin{align*}
+	h(t) = \frac{1}{t + 1},\, t>0
+\end{align*}
+$$
+
+Donde:
+
+$$
+\begin{align*}
+	H(s) = -e^{ s }E_{1}(-s)
+\end{align*}
+$$
+
+La función es irracional, por tanto, el sistema es distribuido.
+
+Si $t \to \infty$ entonces $h(t) \to 0$, 
+
+
+
 
 
 
