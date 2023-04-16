@@ -35,12 +35,22 @@ The `sleep()` command in the C language is used in a microcontroller for enterin
 ## Code blocks:
 
 ```Python
-	def factorial(n):
-		if(n == 0):
-			return 1
-		return n*factorial(n - 1)
+def factorial(n):
+	if(n == 0):
+		return 1
+	return n*factorial(n - 1)
+
+print(4)
 ```
 
+
+```run-python
+def hello(name):
+print("Hello", name)
+
+    if __name__ == "__main__":
+        hello("Eve")
+````
 
 ## Task lists:
 - [x] First task

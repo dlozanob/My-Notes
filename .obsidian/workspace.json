@@ -33,8 +33,12 @@
             "id": "c1ea12d43eb7cbf3",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian Basics.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -100,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Obsidian Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,6 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Obsidian Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +143,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Obsidian Basics.md"
+              }
             }
           },
           {
@@ -192,6 +200,11 @@
   },
   "active": "c1ea12d43eb7cbf3",
   "lastOpenFiles": [
+    "Verilog.md",
+    "Assembly.md",
+    "Obsidian Basics.md",
+    "Main.md",
+    "C.md",
     "Linked note.md",
     "Excalidraw/whiteboard.excalidraw.md",
     "LaTeX.md",
@@ -200,7 +213,6 @@
     "Servomecanismos.md",
     "Estática de Fluidos.md",
     "Excalidraw/blackboard.excalidraw.md",
-    "Obsidian Basics.md",
     "Fundamentos de Mecánica de Fluidos.md",
     "attachments/Pasted image 20230416142540.png",
     "attachments/Pasted image 20230416142111.png",
@@ -214,7 +226,6 @@
     "Excalidraw/attachments/Pasted Image 20230413001826_120.png",
     "Excalidraw/attachments/Pasted Image 20230412235321_195.png",
     "Excalidraw/attachments/Pasted Image 20230412235149_156.png",
-    "Main.md",
     "Tema 2. Función de oferta y demanda.md",
     "Módulo 1. Economía y matemática financiera.md",
     "Finanzas.md",
@@ -225,9 +236,6 @@
     "Ciencias Económicas y Administrativas.md",
     "Tema 1. Infraestructura de los mercados financieros.md",
     "Microcontrollers.md",
-    "Ingeniería Electrónica.md",
-    "Física.md",
-    "CSS.md",
     "Excalidraw/attachments",
     "attachments",
     "New folder",
