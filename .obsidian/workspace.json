@@ -4,6 +4,24 @@
     "type": "split",
     "children": [
       {
+        "id": "ee1bfb9aba49c285",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4c3a7f181257422e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linked note.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
         "id": "c52405135ee6c55a",
         "type": "tabs",
         "children": [
@@ -18,12 +36,12 @@
             }
           },
           {
-            "id": "4c3a7f181257422e",
+            "id": "508f27d515e78a4f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linked note.md",
+                "file": "Estática de Fluidos.md",
                 "mode": "preview",
                 "source": false
               }
@@ -31,6 +49,24 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "85b1ae411fd280e4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a0f1c2b5789f5e41",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Servomecanismos.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linked note.md",
+                "file": "Servomecanismos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linked note.md",
+                "file": "Servomecanismos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linked note.md"
+                "file": "Servomecanismos.md"
               }
             }
           },
@@ -186,17 +222,18 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "4c3a7f181257422e",
+  "active": "a0f1c2b5789f5e41",
   "lastOpenFiles": [
-    "Excalidraw/blackboard.excalidraw.md",
+    "Estática de Fluidos.md",
     "Linked note.md",
+    "Excalidraw/blackboard.excalidraw.md",
+    "Obsidian Basics.md",
     "Fundamentos de Mecánica de Fluidos.md",
     "Cinemática de Fluidos.md",
     "attachments/Pasted image 20230416142540.png",
     "attachments/Pasted image 20230416142111.png",
     "attachments/Pasted image 20230416141532.png",
     "attachments/Pasted image 20230416140833.png",
-    "Estática de Fluidos.md",
     "Propiedades de los Fluidos.md",
     "Servomecanismos.md",
     "Excalidraw/whiteboard.excalidraw.md",
@@ -223,7 +260,6 @@
     "CSS.md",
     "Tema 2. Análisis de estados financieros e indicadores financieros.md",
     "Módulo 2. Diagnóstico financiero.md",
-    "Síntesis de mecanismos.md",
     "Excalidraw/attachments",
     "attachments",
     "New folder",
