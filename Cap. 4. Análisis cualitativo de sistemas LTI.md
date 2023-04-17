@@ -1,7 +1,5 @@
 # Cap. 4. Análisis cualitativo de sistemas LTI
 
-
-
 Especificaciones en el tiempo:
 - Exactitud de la respuesta
 - Sobrepico
@@ -393,5 +391,31 @@ $$
 \end{align*}
 $$
 
-Al final se suman los términos debidos a los polos de $H(s)$.
+Al final se suman los términos debidos a los polos de $H(s)$. Se obtiene $k_{0}$ :
 
+$$
+\begin{align*}
+	k_{0} &= Y(s)(s - j\omega_{0})\biggr\rvert_{s - j\omega_{0} = 0} \\
+	&= aH(s)\biggr\rvert_{s = j\omega_{0}} \\
+	&= aH(j\omega_{0})
+\end{align*}
+$$
+
+La respuesta al estado estable es:
+
+$$
+\begin{align*}
+	y_{ee} &= \lim_{ t \to \infty } y(t) = aH(j\omega_{0})e^{ j\omega_{0} t}  \\\\
+	&= aA(\omega_{0})e^{ j\theta(\omega_{0}) }e^{ j\omega_{0}t } \\\\
+	&= aA(\omega_{0})[\cos(\omega_{0}t + \theta(\omega_{0})) + j\sin(\omega_{0}t + \theta(\omega_{0}))]
+\end{align*}
+$$
+
+Entonces:
+
+$$
+\begin{align*}
+	u(t) = a\sin(\omega_{0}t) \to y_{ee}(t) = aA(\omega_{0})\sin(\omega_{0}t + \theta(\omega_{0})) \\
+	u(t) = a\cos(\omega_{0}t) \to y_{ee}(t) = aA(\omega_{0})\cos(\omega_{0}t + \theta(\omega_{0})) 
+\end{align*}
+$$
