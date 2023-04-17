@@ -25,7 +25,8 @@ Por triángulos semejantes:
 $$
 \begin{align*}
 	\frac{y_{0}\,\,\,\cancel{ mm }}{2\,\,\,\cancel{ m/s }} &= \frac{(2.6 - y_{0})\,\,\,\cancel{ mm }}{0.3\,\,\,\cancel{ m/s }} \\\\
-	y_{0} &= \frac{52}{23}
+	y_{0} &= \frac{52}{23} = 2.2609\,\,\,mm \\\\
+	&= 2.2606\times 10^{-3}\,\,\,m \\\\
 \end{align*}
 $$
 
