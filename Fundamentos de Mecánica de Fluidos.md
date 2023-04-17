@@ -30,3 +30,30 @@ $$
 \end{align*}
 $$
 
+A una distancia de $2.2609  mm$ de la placa, la velocidad del aceite es $0$.
+
+b)
+
+Debido a que la placa intermedia se mueve dentro del fluido, este último se opone a su movimiento ofreciendo una resistencia. Por tanto, el aceite genera una fuerza sobre la placa en dirección opuesta a su vector de velocidad.
+Tanto las partículas de la parte superior como inferior de la placa intermedia intentan frenarla. Siendo así, la fuerza $F$ deberá contrarrestar las fuerzas que frenan el movimiento de la placa.
+
+![](attachments/Pasted%20image%2020230417151906.png)
+
+Las fuerzas $F_{1}$ y $F_{2}$ son:
+
+$$
+\begin{align*}
+	F_{1} = \mu A\left( \frac{du}{dy} \right)_{1} \\
+	F_{2} = \mu A\left( \frac{du}{dy} \right)_{2}
+\end{align*}
+$$
+
+Donde $\left( \frac{du}{dy} \right)_{1}$ y $\left( \frac{du}{dy} \right)_{2}$ son las pendientes para el perfil de velocidad superior e inferior respectivamente.
+
+$$
+\begin{align*}
+	\mu A &= (0.027\,\,\,Pa\cdot s)(0.4^{2}\,\,\,m^{2}) \\
+	&= 4.32\times 10^{-3}\,\,\,N\cdot s \\\\
+	\left( \frac{du}{dy} \right)_{1} = \frac{}{}
+\end{align*}
+$$
