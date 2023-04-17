@@ -5,3 +5,10 @@
 - [Cinemática de Fluidos](Cinemática%20de%20Fluidos.md)
 - [Dinámica de Fluidos](Dinámica%20de%20Fluidos.md)
 
+---
+
+# Parcial
+
+5. -
+
+

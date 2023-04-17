@@ -30,9 +30,31 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "28f0d09d07c23075",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fundamentos de Mecánica de Fluidos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6190974f30a51e7d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/whiteboard.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -94,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mecanismos.md",
+                "file": "Excalidraw/whiteboard.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mecanismos.md",
+                "file": "Excalidraw/whiteboard.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mecanismos.md"
+                "file": "Excalidraw/whiteboard.excalidraw.md"
               }
             }
           },
@@ -173,7 +195,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249.5
+    "width": 249.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,11 +210,13 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "de8bb94d2e7df8d5",
+  "active": "6190974f30a51e7d",
   "lastOpenFiles": [
-    "Linked note.md",
-    "Mecanismos.md",
+    "Excalidraw/attachments/Pasted Image 20230417142543_071.png",
+    "Fundamentos de Mecánica de Fluidos.md",
     "Excalidraw/whiteboard.excalidraw.md",
+    "Mecanismos.md",
+    "Linked note.md",
     "Cap. 4. Análisis cualitativo de sistemas LTI.md",
     "attachments/Pasted image 20230416185240.png",
     "attachments/Pasted image 20230416185232.png",
@@ -215,7 +240,6 @@
     "Servomecanismos.md",
     "Estática de Fluidos.md",
     "Excalidraw/blackboard.excalidraw.md",
-    "Fundamentos de Mecánica de Fluidos.md",
     "Propiedades de los Fluidos.md",
     "Electrónica Digital II.md",
     "Tema 2. Función de oferta y demanda.md",
