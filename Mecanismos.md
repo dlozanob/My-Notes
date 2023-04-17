@@ -14,8 +14,10 @@
 - [x] Síntesis de mecanismos: Presentación
 - [x] Optimización
 - [ ] Barnes problem
+- [ ] Análisis de velocidad gráfico + imagen
+- [ ] Matlab velocidad
 
 ---
 
 >[!Note]
->Se recomienda usar _Spyder_ para pyhon y matlab
+>Se recomienda usar _Spyder_ para python y matlab
