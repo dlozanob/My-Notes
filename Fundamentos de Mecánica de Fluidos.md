@@ -61,6 +61,91 @@ $$
 \end{align*}
 $$
 
+Se implementa un algoritmo de mínimos cuadrados en Matlab para determinar estos coeficientes.
+
+Se resuelve la ecuación:
+
+$$
+\begin{align*}
+	C = (F^{T}F)^{-1}F^{T}V
+\end{align*}
+$$
+
+Donde:
+
+$$
+\begin{align*}
+C = 
+\begin{pmatrix}
+	C_{1} \\
+C_{2}
+\end{pmatrix} \\\\
+\end{align*}
+$$
+
+$$
+\begin{align*}
+		F &=
+	\begin{pmatrix}
+f_{1}(y_{0}) & f_{2}(y_{0}) \\
+f_{1}(y_{1}) & f_{2}(y_{1}) \\
+f_{1}(y_{2}) & f_{2}(y_{2}) \\
+f_{1}(y_{3}) & f_{2}(y_{3}) \\
+f_{1}(y_{4}) & f_{2}(y_{4}) \\
+f_{1}(y_{5}) & f_{2}(y_{5})
+\end{pmatrix}
+\end{align*}
+$$
+
+$$
+\begin{align*}
+V = 
+ \begin{pmatrix}
+v_{0} \\
+v_{1} \\
+v_{2} \\
+v_{3} \\
+v_{4} \\
+v_{5}
+\end{pmatrix}
+\end{align*}
+$$
+
+Siendo $f_{1}(y) = y$ y $f_{2}(y) = y^{3}$. Cada punto del perfil de velocidad es $(y_{i}, v_{i})$.
+
+Ahora bien, los coeficientes hallados fueron:
+
+$$
+\begin{align*}
+C = 
+ \begin{pmatrix}
+C_{1} \\
+C_{2}
+\end{pmatrix} = 
+\begin{pmatrix}
+152.9924 \\
+4.6804\times 10^{4}
+\end{pmatrix}
+\end{align*}
+$$
+
+Se puede ver a continuación que la gráfica obtenida pasa aproximadamente por los puntos propuestos:
+
+![](attachments/Pasted%20image%2020230417160849.png)
+
+c)
+
+Usando la ecuaEl esfuerzo cortante sobre la superficie es:
+
+$$
+\begin{align*}
+	\tau = \mu \frac{dv}{dy} = \mu ()
+\end{align*}
+$$
+
+
+
+
 
 
 
