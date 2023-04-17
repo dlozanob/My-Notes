@@ -269,7 +269,7 @@ $$
 
 La respuesta al estado estacionario depende únicamente de los polos de la entrada.
 
-Ahora bien, en sistemas de primer orden, se tiene una función de transferencia:
+Ahora bien, en _sistemas de primer orden_, se tiene una función de transferencia:
 
 $$
 \begin{align*}
@@ -307,6 +307,62 @@ $$
 \end{align*}
 $$
 
-El término $e^{ -5 }$ es lo suficientemente pequeño como para llegar al estado estable.
+El término $e^{ -5 } \approx 0.007$ es lo suficientemente pequeño como para llegar al estado estable. Representa menos del $1\%$ de la respuesta transitoria.
+
+>[!Note]
+>Esta aproximación es válida siempre y cuando los polos no estén muy agrupados
+
+Para sistemas de cualquier oden se tiene:
+
+$$
+\begin{align*}
+	H(s) = \frac{N(s)}{D(s)}
+\end{align*}
+$$
+
+Donde los polos de $D(s)$ son complejos.
+
+Se define la constante de tiempo $\tau$ como:
+
+$$
+\begin{align*}
+	\tau = \frac{1}{|\alpha_{min}|}
+\end{align*}
+$$
+
+Donde $\alpha_{min}$ es la menor magnitud de la parte real de todos los polos de $H(s)$.
+
+---
+
+- __Ejemplo__ :
+¿Cuál es el tiempo de respuesta del sistema?
+
+$$
+\begin{align*}
+	H(s) = \frac{s + 100}{(s + 0.1 + j)(s + 0.1 - j)(s + 0.05)(s + 3)}
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	|\alpha_{min}| &= 0.05 \\
+	\tau &= \frac{1}{0.05} = 20 \\
+	5\tau &= 100\,\,\,s
+\end{align*}
+$$
+
+
+## Respuesta en frecuencia de sistemas
+
+Se denomina a $H(j\omega)$ como la respuesta en recuencia de $H(s)$.
+
+$$
+\begin{align*}
+	H(j\omega) = A(\omega)e^{ j\theta(\omega) }
+\end{align*}
+$$
+
+- $A(\omega)$ : Resuesta en magnitud
+- $\theta(\omega)$ : Respuesta en fase
 
 
