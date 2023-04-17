@@ -196,7 +196,7 @@ Si la válvula permite el paso de vapor ($0 \leq \omega_{in} < \omega_{in_{Max}}
 ---
 
 
-## Criterio de Routh
+## Criterio de Routh (Rooth Hurwitz)
 
 Sea una función de transferencia racional $H(s) = \frac{N(s)}{D(s)}$, donde:
 
@@ -247,3 +247,66 @@ Entonces el sistema es estable si todos los coeficientes en el arreglo de Routh 
 
 >[!Note]
 >Si en la función $a_{0} < 0$ entonces aplicar el criterio de Routh con $-D(s)$
+
+
+## Respuesta al estado estacionario y transitorio
+
+Se define la respuesta al estado estacionario como:
+
+$$
+\begin{align*}
+	y_{ee}(t) = \lim_{ t \to \infty } y(t)
+\end{align*}
+$$
+
+Así mismo, la respuesta transitoria es:
+
+$$
+\begin{align*}
+	y_{tr}(t) = y(t) - y_{ee}(t)
+\end{align*}
+$$
+
+La respuesta al estado estacionario depende únicamente de los polos de la entrada.
+
+Ahora bien, en sistemas de primer orden, se tiene una función de transferencia:
+
+$$
+\begin{align*}
+	H(s) = \frac{k}{s + p}
+\end{align*}
+$$
+
+Donde $k, p > 0$.
+
+La respuesta al paso es:
+
+$$
+\begin{align*}
+	Y(s) &= \frac{k}{s + p} \cdot \frac{1}{s} \\\\
+	&= \frac{k}{p}\left( \frac{1}{s} - \frac{1}{s + p} \right)
+\end{align*}
+$$
+
+Entonces:
+
+$$
+\begin{align*}
+	y(t) = \frac{k}{p}(1 - e^{ -pt }) \\\\
+	y(t) = \frac{k}{p}(1 - e^{ -p/\tau })
+\end{align*}
+$$
+
+Donde $\tau = \frac{1}{|p|}$
+
+Se puede decir que el tiempo de establecimiento toma lugar en $5\tau$, ya que:
+
+$$
+\begin{align*}
+	y(5\tau) = \frac{k}{p}(1 - e^{ -5 }) \approx \frac{k}{p}
+\end{align*}
+$$
+
+El término $e^{ -5 }$ es lo suficientemente pequeño como para llegar al estado estable.
+
+
