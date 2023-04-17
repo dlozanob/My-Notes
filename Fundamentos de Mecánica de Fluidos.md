@@ -135,22 +135,21 @@ Se puede ver a continuación que la gráfica obtenida pasa aproximadamente por l
 
 c)
 
-Usando la ecuaEl esfuerzo cortante sobre la superficie es:
+La viscosidad dinámica del aire es $\mu = 1.82\times 10^{-5}  Pa*s$.
+
+Usando la ecuación obtenida para la distribución de velocidades se determina el esfuerzo cortante que ejerce el aire sobre la superficie ($y = 0$) :
 
 $$
 \begin{align*}
-	\tau = \mu \frac{dv}{dy} = \mu ()
+	\tau = \mu \frac{dv}{dy} = \mu (\cancel{ 3C_{2}y^{2} } + C_{1}) = \mu C_{1}
 \end{align*}
 $$
 
-
-
-
-
-
-
-
-
+$$
+\begin{align*}
+	\boxed{\tau = 2.7845\times 10^{-3}\,\,\,Pa}
+\end{align*}
+$$
 
 
 6. -

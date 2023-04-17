@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fundamentos de Mecánica de Fluidos.md",
-                "mode": "source",
+                "file": "Cap. 4. Análisis cualitativo de sistemas LTI.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fundamentos de Mecánica de Fluidos.md",
+                "file": "Cap. 4. Análisis cualitativo de sistemas LTI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fundamentos de Mecánica de Fluidos.md",
+                "file": "Cap. 4. Análisis cualitativo de sistemas LTI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fundamentos de Mecánica de Fluidos.md"
+                "file": "Cap. 4. Análisis cualitativo de sistemas LTI.md"
               }
             }
           },
@@ -212,16 +212,17 @@
   },
   "active": "28f0d09d07c23075",
   "lastOpenFiles": [
-    "attachments/Pasted image 20230417160849.png",
-    "Excalidraw/whiteboard.excalidraw.md",
-    "LaTeX.md",
+    "Señales y Sistemas II.md",
     "Fundamentos de Mecánica de Fluidos.md",
+    "Mecanismos.md",
+    "Linked note.md",
+    "Excalidraw/whiteboard.excalidraw.md",
+    "attachments/Pasted image 20230417160849.png",
+    "LaTeX.md",
     "attachments/Pasted image 20230417151906.png",
     "attachments/Pasted image 20230417143802.png",
     "Excalidraw/attachments/Pasted Image 20230417142952_064.png",
     "Excalidraw/attachments/Pasted Image 20230417142543_071.png",
-    "Mecanismos.md",
-    "Linked note.md",
     "Cap. 4. Análisis cualitativo de sistemas LTI.md",
     "attachments/Pasted image 20230416185240.png",
     "attachments/Pasted image 20230416185232.png",
@@ -229,8 +230,6 @@
     "Fundamentos de cinemática de mecanismos.md",
     "Excalidraw/attachments/Pasted Image 20230416185144_030.png",
     "attachments/Pasted image 20230416185134.png",
-    "attachments/Pasted image 20230416184636.png",
-    "Señales y Sistemas II.md",
     "Obsidian Basics.md",
     "Verilog.md",
     "Assembly.md",
