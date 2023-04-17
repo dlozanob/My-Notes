@@ -54,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/whiteboard.excalidraw.md",
+                "file": "Fundamentos de Mecánica de Fluidos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/whiteboard.excalidraw.md",
+                "file": "Fundamentos de Mecánica de Fluidos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/whiteboard.excalidraw.md"
+                "file": "Fundamentos de Mecánica de Fluidos.md"
               }
             }
           },
@@ -210,11 +210,13 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "6190974f30a51e7d",
+  "active": "28f0d09d07c23075",
   "lastOpenFiles": [
+    "attachments/Pasted image 20230417143802.png",
+    "Excalidraw/whiteboard.excalidraw.md",
+    "Excalidraw/attachments/Pasted Image 20230417142952_064.png",
     "Excalidraw/attachments/Pasted Image 20230417142543_071.png",
     "Fundamentos de Mecánica de Fluidos.md",
-    "Excalidraw/whiteboard.excalidraw.md",
     "Mecanismos.md",
     "Linked note.md",
     "Cap. 4. Análisis cualitativo de sistemas LTI.md",
@@ -227,8 +229,6 @@
     "attachments/Pasted image 20230416184636.png",
     "Excalidraw/attachments/Pasted Image 20230416184427_857.png",
     "attachments/Pasted image 20230416184317.png",
-    "attachments/Pasted image 20230416173831.png",
-    "Excalidraw/attachments/Pasted Image 20230416173825_372.png",
     "Señales y Sistemas II.md",
     "Obsidian Basics.md",
     "Verilog.md",
