@@ -362,7 +362,36 @@ $$
 \end{align*}
 $$
 
-- $A(\omega)$ : Resuesta en magnitud
-- $\theta(\omega)$ : Respuesta en fase
+- $A(\omega)$ : Resuesta en magnitud (función par)
+- $\theta(\omega)$ : Respuesta en fase (función impar)
 
+>[!Note]
+>La respuesta en frecuencia de un sistema inestable no tiene sentido físico
+
+Supongamos que tenemos una entrada:
+
+$$
+\begin{align*}
+	u(t) = ae^{ j\omega_{0}t }
+\end{align*}
+$$
+
+Entonces:
+
+$$
+\begin{align*}
+	U(s) = \frac{a}{s - j\omega_{0}}
+\end{align*}
+$$
+
+En el dominio transformado la salida está dada por:
+
+$$
+\begin{align*}
+	Y(s) &= H(s)U(s) = H(s)\cdot \frac{a}{s - j\omega_{0}} \\
+	&= k_{0}\cdot \frac{1}{s - j\omega_{0}} + \dots
+\end{align*}
+$$
+
+Al final se suman los términos debidos a los polos de $H(s)$.
 
