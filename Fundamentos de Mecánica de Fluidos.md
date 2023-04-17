@@ -18,16 +18,49 @@ La distribución es:
 $$
 \begin{aligned}
 	&\begin{array}{cccc}
-		\hline \hline \text { Method 1 } & \text { Method 2 } \\
-		\hline 1 & 50 & 837 & 970 \\
-		2 & 47 & 877 & 230 \\
-		3 & 31 & 25 & 415 \\
-		4 & 35 & 144 & 23656 \\
-		5 & 45 & 300 & 556 \\
+		\hline \hline \text { y\,\,\,(ft) } & \text { v\,\,\,(ft/s) } \\
+		\hline
+		0.05 & 0.74 \\
+		0.01 & 1.51 \\
+		0.02 & 3.03 \\
+		0.04 & 6.37 \\
+		0.06 & 10.21  \\
+	    0.08 & 14.43 \\
 		\hline
 	\end{array}
 \end{aligned}
 $$
+
+a)
+
+Los datos en el sistema internacional ($SI$) son:
+
+$$
+\begin{aligned}
+	&\begin{array}{cccc}
+		\hline \hline \text { y\,\,\,(m) } & \text { v\,\,\,(m/s) } \\
+		\hline
+		1.524\times 10^{-3} & 22.548\times 10^{-2} \\
+		3.047\times 10^{-3} & 46.010\times 10^{-2} \\
+		6.094\times 10^{-3} & 92.324\times 10^{-2} \\
+		12.188\times 10^{-3} & 1.941 \\
+		18.282\times 10^{-3} & 3.111  \\
+	    24.376\times 10^{-3} & 4.397 \\
+		\hline
+	\end{array}
+\end{aligned}
+$$
+
+b)
+
+La ecuación del perfil de velocidad es de la forma:
+
+$$
+\begin{align*}
+	v = C_{1}y + C_{2}y^{3}
+\end{align*}
+$$
+
 
 
 
