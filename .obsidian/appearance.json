@@ -6,7 +6,7 @@
   "baseFontSizeAction": true,
   "translucency": true,
   "enabledCssSnippets": [
-    "obsidian-workspace-background(Shiba Uni Theme)",
-    "wholeTranslucity"
+    "wholeTranslucity",
+    "obsidian-workspace-background(Shiba Uni Theme)"
   ]
 }
