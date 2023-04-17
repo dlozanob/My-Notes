@@ -9,7 +9,33 @@
 
 # Parcial
 
+
 5. -
+
+
+La distribución es:
+
+$$
+\begin{aligned}
+	&\begin{array}{cccc}
+		\hline \hline \text { Method 1 } & \text { Method 2 } \\
+		\hline 1 & 50 & 837 & 970 \\
+		2 & 47 & 877 & 230 \\
+		3 & 31 & 25 & 415 \\
+		4 & 35 & 144 & 23656 \\
+		5 & 45 & 300 & 556 \\
+		\hline
+	\end{array}
+\end{aligned}
+$$
+
+
+
+
+
+
+
+6. -
 
 a) 
 
@@ -54,6 +80,27 @@ $$
 \begin{align*}
 	\mu A &= (0.027\,\,\,Pa\cdot s)(0.4^{2}\,\,\,m^{2}) \\
 	&= 4.32\times 10^{-3}\,\,\,N\cdot s \\\\
-	\left( \frac{du}{dy} \right)_{1} = \frac{}{}
+	\left( \frac{du}{dy} \right)_{1} &= \frac{2\,\,\,m/s}{1\times 10^{-3}\,\,\,m} = 2000\,\,\, s^{-1} \\
+	\left( \frac{du}{dy} \right)_{2} &= \frac{2\,\,\,m/s}{y_{0}\,\,\,m} = 884.6154\,\,\,s^{-1} \\\\
+	F_{1} &= 8.65\,\,\,N \\
+	F_{2} &= 3.8215\,\,\,N
 \end{align*}
 $$
+
+Para mantener tal velocidad constante de $2  m/s$ la fuerza neta que actúa sobre la placa debe ser nula. Entonces:
+
+$$
+\begin{align*}
+	\sum F_{x} &= F - F_{1} - F_{2} = 0 \\
+	F &= F_{1} + F_{2} \\
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	\boxed{F = 12.4615\,\,\,N}
+\end{align*}
+$$
+
+
+
