@@ -13,9 +13,19 @@
 
 a) 
 
-La lámina superior del líquido tiene velocidad $0$ ya que la pared con la que hace contacto se encuentra en reposo. No obstán
-El perfil de velocidad es el siguiente:
+La lámina superior del líquido tiene velocidad $0$ ya que la pared con la que hace contacto se encuentra en reposo. No obstante, la lámina inferior del fluido posee la misma velocidad que la pared móvil de $0.3\,m/s$  hacia la izquierda.
+Considerando que la velocidad varía a una tasa constante, el perfil de velocidad hallado es el siguiente:
 
 ![](attachments/Pasted%20image%2020230417143802.png)
 
 La velocidad del aceite es nula para una distancia $y_{0}$ a partir de la placa intermedia.
+
+Por triángulos semejantes:
+
+$$
+\begin{align*}
+	\frac{y_{0}\,\,\,\cancel{ mm }}{2\,\,\,\cancel{ m/s }} &= \frac{(2.6 - y_{0})\,\,\,\cancel{ mm }}{0.3\,\,\,\cancel{ m/s }} \\\\
+	y_{0} &= \frac{52}{23}
+\end{align*}
+$$
+
