@@ -191,10 +191,7 @@ La entrada es suministrada por el motor de vapor, el cual hace rotar ambas esfer
 
 ![](attachments/Pasted%20image%2020230416185240.png)
 
-Si la válvula permite el paso de vapor ($0 \leq \omega_{in} < \omega_{in_{Max}}$), el motor 
-
-
-
+Si la válvula permite el paso de vapor ($0 \leq \omega_{in} < \omega_{in_{Max}}$), el motor moverá el mecanismo hasta que $\omega_{in}$ alcance su valor máximo, en este instante la válvula estará completamente cerrada, bloqueando el paso de vapor y deteniendo el motor por un instante, por lo que la válvula se abrirá de nuevo. Se producirá un movimiento iterativo y retroalimentado.
 
 ---
 
