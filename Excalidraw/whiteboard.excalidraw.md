@@ -10,7 +10,7 @@ tags: [excalidraw]
 # Text Elements
 
 # Embedded files
-68da532327d964a712b89334cfdc6490409987b2: $$\begin{align*} 	\boxed{\tau = 2.7845\times 10^{-3}\,\,\,Pa} \end{align*}$$
+68da532327d964a712b89334cfdc6490409987b2: $$\begin{align*} 	\boxed{F = 12.4615\,\,\,N} \end{align*}$$
 
 %%
 # Drawing
@@ -32,12 +32,12 @@ tags: [excalidraw]
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -143.8159579341743,
-			"y": -6.583020896272981,
+			"x": -129.73003153136773,
+			"y": -8.883811212218191,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 277.19494410439205,
-			"height": 40.67534505879666,
+			"width": 249.02309129877895,
+			"height": 45.27692569068708,
 			"seed": 41446,
 			"groupIds": [],
 			"roundness": null,
@@ -68,10 +68,10 @@ tags: [excalidraw]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "triangle",
-		"scrollX": 809.8454762053758,
-		"scrollY": 521.2897939808348,
+		"scrollX": 717.0453284367289,
+		"scrollY": 515.3947112849573,
 		"zoom": {
-			"value": 0.7561389794384288
+			"value": 0.7769068418591895
 		},
 		"currentItemRoundness": "sharp",
 		"gridSize": null,

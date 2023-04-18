@@ -54,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fundamentos de Mecánica de Fluidos.md",
+                "file": "Excalidraw/whiteboard.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fundamentos de Mecánica de Fluidos.md",
+                "file": "Excalidraw/whiteboard.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fundamentos de Mecánica de Fluidos.md"
+                "file": "Excalidraw/whiteboard.excalidraw.md"
               }
             }
           },
@@ -210,10 +210,10 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "e9f0813cb6ca2218",
+  "active": "6190974f30a51e7d",
   "lastOpenFiles": [
-    "Excalidraw/whiteboard.excalidraw.md",
     "Fundamentos de Mecánica de Fluidos.md",
+    "Excalidraw/whiteboard.excalidraw.md",
     "LaTeX Template.md",
     "Mecanismos.md",
     "Linked note.md",
