@@ -419,3 +419,37 @@ $$
 	u(t) = a\cos(\omega_{0}t) \to y_{ee}(t) = aA(\omega_{0})\cos(\omega_{0}t + \theta(\omega_{0})) 
 \end{align*}
 $$
+
+---
+
+- __Ejemplo__ :
+
+$$
+\begin{align*}
+	G(s) = \frac{728.2}{s + 10}
+\end{align*}
+$$
+
+Hallar la respuesta al estado estable para:
+
+$$
+\begin{align*}
+	u(t) = 3 + \sin(2\pi t)
+\end{align*}
+$$
+
+Entonces:
+
+$$
+\begin{align*}
+	A(\omega) &= \biggr\rvert_{} \frac{728.2}{j2\pi + 10} \biggr\rvert_{} = 72.6 \\
+	\theta(\omega) &= -\arctan\left( \frac{2\pi}{10} \right) = -3.59° = 0.062\,\,\,Rad
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	y_{ee} = 72.6\sin(2\pi t - 0.062)
+\end{align*}
+$$
+
