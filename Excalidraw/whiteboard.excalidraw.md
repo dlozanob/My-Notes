@@ -10,7 +10,7 @@ tags: [excalidraw]
 # Text Elements
 
 # Embedded files
-b57cd038d6d7ac4edbd1a928db09a55707de4796: $$\begin{align*} 		F &= 	\begin{pmatrix} f_{1}(y_{0}) & f_{2}(y_{0}) \\ f_{1}(y_{1}) & f_{2}(y_{1}) \\ f_{1}(y_{2}) & f_{2}(y_{2}) \\ f_{1}(y_{3}) & f_{2}(y_{3}) \\ f_{1}(y_{4}) & f_{2}(y_{4}) \\ f_{1}(y_{5}) & f_{2}(y_{5}) \end{pmatrix} \end{align*}$$
+68da532327d964a712b89334cfdc6490409987b2: $$\begin{align*} 	\boxed{\tau = 2.7845\times 10^{-3}\,\,\,Pa} \end{align*}$$
 
 %%
 # Drawing
@@ -22,95 +22,31 @@ b57cd038d6d7ac4edbd1a928db09a55707de4796: $$\begin{align*} 		F &= 	\begin{pmatri
 	"elements": [
 		{
 			"type": "image",
-			"version": 51,
-			"versionNonce": 2092783584,
+			"version": 10,
+			"versionNonce": 459228704,
 			"isDeleted": false,
-			"id": "uvFkwoqk",
+			"id": "cfz1hyyW",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -264.02377772695223,
-			"y": -130.65849103807238,
+			"x": -143.8159579341743,
+			"y": -6.583020896272981,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 183,
-			"height": 145,
-			"seed": 588,
+			"width": 277.19494410439205,
+			"height": 40.67534505879666,
+			"seed": 41446,
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1681777129102,
+			"updated": 1681777636086,
 			"link": null,
 			"locked": false,
 			"status": "pending",
-			"fileId": "b57cd038d6d7ac4edbd1a928db09a55707de4796",
-			"scale": [
-				1,
-				1
-			]
-		},
-		{
-			"type": "image",
-			"version": 47,
-			"versionNonce": 1243490272,
-			"isDeleted": true,
-			"id": "55sm1uzU",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -175.96611968292916,
-			"y": -116.9716204975562,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 148.18906842274163,
-			"height": 17.288724649319857,
-			"seed": 86233,
-			"groupIds": [],
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1681777126827,
-			"link": null,
-			"locked": false,
-			"status": "pending",
-			"fileId": "d1ab4183b0de57e046103ffa5bea0b2d32853649",
-			"scale": [
-				1,
-				1
-			]
-		},
-		{
-			"type": "image",
-			"version": 2,
-			"versionNonce": 1473129440,
-			"isDeleted": true,
-			"id": "nboho96Y",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -341.270963914027,
-			"y": -29.28803429002363,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 86,
-			"height": 145,
-			"seed": 99047,
-			"groupIds": [],
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1681777128294,
-			"link": null,
-			"locked": false,
-			"status": "pending",
-			"fileId": "23e91716358220ea5f8b77e8e33b3a41bc1906c8",
+			"fileId": "68da532327d964a712b89334cfdc6490409987b2",
 			"scale": [
 				1,
 				1
@@ -132,10 +68,10 @@ b57cd038d6d7ac4edbd1a928db09a55707de4796: $$\begin{align*} 		F &= 	\begin{pmatri
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "triangle",
-		"scrollX": 483.7274881556565,
-		"scrollY": 249.72877830542515,
+		"scrollX": 809.8454762053758,
+		"scrollY": 521.2897939808348,
 		"zoom": {
-			"value": 1.670251997126048
+			"value": 0.7561389794384288
 		},
 		"currentItemRoundness": "sharp",
 		"gridSize": null,
