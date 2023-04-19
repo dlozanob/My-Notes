@@ -8,10 +8,6 @@ tags: [excalidraw]
 
 
 # Text Elements
-
-# Embedded files
-68da532327d964a712b89334cfdc6490409987b2: $$\begin{align*} 	\boxed{F = 12.4615\,\,\,N} \end{align*}$$
-
 %%
 # Drawing
 ```json
@@ -22,9 +18,9 @@ tags: [excalidraw]
 	"elements": [
 		{
 			"type": "image",
-			"version": 10,
-			"versionNonce": 459228704,
-			"isDeleted": false,
+			"version": 11,
+			"versionNonce": 1733155568,
+			"isDeleted": true,
 			"id": "cfz1hyyW",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
@@ -42,7 +38,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1681777636086,
+			"updated": 1681869484350,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -68,10 +64,10 @@ tags: [excalidraw]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "triangle",
-		"scrollX": 717.0453284367289,
-		"scrollY": 515.3947112849573,
+		"scrollX": 662.2184858819783,
+		"scrollY": 326.2453483668746,
 		"zoom": {
-			"value": 0.7769068418591895
+			"value": 1
 		},
 		"currentItemRoundness": "sharp",
 		"gridSize": null,
