@@ -8,29 +8,41 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4fcc1ece0d84c8d1",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/whiteboard.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "6c926f3ec8d739b2",
+            "id": "94e5f1a49cc665cb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Servomecanismos.md",
+                "file": "Señales y Sistemas II.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ad5e2c70c8eef3ed",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/blackboard.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "ba94451337513f74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linked note.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -92,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Servomecanismos.md",
+                "file": "Linked note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Servomecanismos.md",
+                "file": "Linked note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Servomecanismos.md"
+                "file": "Linked note.md"
               }
             }
           },
@@ -186,18 +198,19 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "6c926f3ec8d739b2",
+  "active": "ba94451337513f74",
   "lastOpenFiles": [
+    "Señales y Sistemas II.md",
+    "Excalidraw/blackboard.excalidraw.md",
     "Excalidraw/whiteboard.excalidraw.md",
-    "Electrónica Digital II.md",
     "Servomecanismos.md",
+    "Electrónica Digital II.md",
     "attachments/Pasted image 20230420081856.png",
     "Mecanismos.md",
     "Linked note.md",
     "Fundamentos de Mecánica de Fluidos.md",
     "LaTeX Template.md",
     "Cap. 4. Análisis cualitativo de sistemas LTI.md",
-    "Señales y Sistemas II.md",
     "attachments/Pasted image 20230417160849.png",
     "LaTeX.md",
     "attachments/Pasted image 20230417151906.png",
@@ -216,7 +229,6 @@
     "C.md",
     "Cinemática de Fluidos.md",
     "Estática de Fluidos.md",
-    "Excalidraw/blackboard.excalidraw.md",
     "Propiedades de los Fluidos.md",
     "Tema 2. Función de oferta y demanda.md",
     "Módulo 1. Economía y matemática financiera.md",

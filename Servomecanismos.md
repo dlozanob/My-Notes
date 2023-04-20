@@ -188,13 +188,11 @@ En algunos casos existen 2 controladores, el de bajo rendimiento controla las op
 Se recomienda evitar acoples flexibles -> Susceptibles a la resonancia
 
 
+# TO DO
 
-
-
-
-
-
-
+- [ ] Videos
+- [ ] Docs
+- [ ] Procesos de selección
 
 
 ---
