@@ -43,6 +43,20 @@
           }
         ],
         "currentTab": 2
+      },
+      {
+        "id": "0e74d991084e3391",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a91edebd90765396",
+            "type": "leaf",
+            "state": {
+              "type": "reveal-preview-view",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -200,14 +214,19 @@
   },
   "active": "ba94451337513f74",
   "lastOpenFiles": [
-    "Señales y Sistemas II.md",
+    "attachments/Pasted image 20230420145800.png",
     "Excalidraw/blackboard.excalidraw.md",
+    "Linked note.md",
+    "attachments/Pasted image 20230420145640 1.png",
+    "attachments/Pasted image 20230420145640.png",
+    "attachments/Pasted image 20230420145638.png",
+    "attachments/Pasted image 20230420145626.png",
+    "Señales y Sistemas II.md",
     "Excalidraw/whiteboard.excalidraw.md",
     "Servomecanismos.md",
     "Electrónica Digital II.md",
     "attachments/Pasted image 20230420081856.png",
     "Mecanismos.md",
-    "Linked note.md",
     "Fundamentos de Mecánica de Fluidos.md",
     "LaTeX Template.md",
     "Cap. 4. Análisis cualitativo de sistemas LTI.md",
@@ -217,11 +236,7 @@
     "attachments/Pasted image 20230417143802.png",
     "Excalidraw/attachments/Pasted Image 20230417142952_064.png",
     "Excalidraw/attachments/Pasted Image 20230417142543_071.png",
-    "attachments/Pasted image 20230416185240.png",
-    "attachments/Pasted image 20230416185232.png",
-    "attachments/Pasted image 20230416185149.png",
     "Fundamentos de cinemática de mecanismos.md",
-    "Excalidraw/attachments/Pasted Image 20230416185144_030.png",
     "Obsidian Basics.md",
     "Verilog.md",
     "Assembly.md",
