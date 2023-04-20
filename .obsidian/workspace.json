@@ -42,7 +42,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md",
+                "file": "Linked note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md",
+                "file": "Linked note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md"
+                "file": "Linked note.md"
               }
             }
           },
@@ -183,8 +183,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249.5,
-    "collapsed": true
+    "width": 249.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,14 +197,14 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "ad5e2c70c8eef3ed",
+  "active": "ba94451337513f74",
   "lastOpenFiles": [
+    "Excalidraw/blackboard.excalidraw.md",
     "Linked note.md",
     "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
     "Señales y Sistemas II.md",
     "Cap. 1. Modelos de sistemas lineales y no lineales.md",
     "Cap. 3. Solución de las ecuaciones de estado de sistemas LTI.md",
-    "Excalidraw/blackboard.excalidraw.md",
     "attachments/Pasted image 20230420145800.png",
     "attachments/Pasted image 20230420145640 1.png",
     "attachments/Pasted image 20230420145640.png",
