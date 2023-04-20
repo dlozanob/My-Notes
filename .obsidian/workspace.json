@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a2cac84ff72cedbf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Electrónica Digital II.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "4fcc1ece0d84c8d1",
             "type": "leaf",
             "state": {
@@ -42,7 +30,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -200,11 +188,11 @@
   },
   "active": "6c926f3ec8d739b2",
   "lastOpenFiles": [
-    "Electrónica Digital II.md",
-    "attachments/Pasted image 20230420081856.png",
     "Excalidraw/whiteboard.excalidraw.md",
-    "Mecanismos.md",
+    "Electrónica Digital II.md",
     "Servomecanismos.md",
+    "attachments/Pasted image 20230420081856.png",
+    "Mecanismos.md",
     "Linked note.md",
     "Fundamentos de Mecánica de Fluidos.md",
     "LaTeX Template.md",

@@ -163,7 +163,21 @@ Un perfil trapezoidal suave evita el problema de los jerks
 ---
 
 
-El momento de inercia del motor se refiere a su propio rotor
+El momento de inercia del motor se refiere a su propio rotor.
+
+- Enfoques de movimiento:
+	- Newtoniano
+	- Lagrangiano (enfoque energético)
+
+
+$$
+\begin{align*}
+	\underbrace{ \sum T }_{ T_{m} - T_{friccion} - T_{grav} - T_{Proceso} } = \underbrace{ \alpha(t)J }_{ Torque\,\,\,Inercial }
+\end{align*}
+$$
+
+>[!Note]
+>Dejando de lado $\eta$ se puede aplicar al final sobre el $T_{out}$ un $FS$ que recomendablemente $$
 
 
 
