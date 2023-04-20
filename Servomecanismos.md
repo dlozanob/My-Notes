@@ -163,6 +163,18 @@ Un perfil trapezoidal suave evita el problema de los jerks
 ---
 
 
+
+
+
+
+
+
+---
+
+
+
+
+
 ## Proyecto académico
 
 ![](attachments/Pasted%20image%2020230214095505.png)

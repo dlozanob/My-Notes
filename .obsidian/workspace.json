@@ -28,8 +28,21 @@
                 "file": "Excalidraw/whiteboard.excalidraw.md"
               }
             }
+          },
+          {
+            "id": "6c926f3ec8d739b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Servomecanismos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -91,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electrónica Digital II.md",
+                "file": "Servomecanismos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electrónica Digital II.md",
+                "file": "Servomecanismos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Electrónica Digital II.md"
+                "file": "Servomecanismos.md"
               }
             }
           },
@@ -185,11 +198,11 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "a2cac84ff72cedbf",
+  "active": "6c926f3ec8d739b2",
   "lastOpenFiles": [
+    "Electrónica Digital II.md",
     "attachments/Pasted image 20230420081856.png",
     "Excalidraw/whiteboard.excalidraw.md",
-    "Electrónica Digital II.md",
     "Mecanismos.md",
     "Servomecanismos.md",
     "Linked note.md",
@@ -208,7 +221,6 @@
     "attachments/Pasted image 20230416185149.png",
     "Fundamentos de cinemática de mecanismos.md",
     "Excalidraw/attachments/Pasted Image 20230416185144_030.png",
-    "attachments/Pasted image 20230416185134.png",
     "Obsidian Basics.md",
     "Verilog.md",
     "Assembly.md",
