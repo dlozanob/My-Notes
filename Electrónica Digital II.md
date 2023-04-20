@@ -399,7 +399,20 @@ Topologías:
 - Anillo
 	- Se busca conectar los componentes lo más cerca posible al maestro
 
+- Combinación topología anillo y topología por jerarquía
 
+- Wishbone
+	- 4 modelos de interconexión
+		- Maestro esclavo simple
+		- Topología de flujo (anillo)
+		- Bus compartido
+			- Inconvenientes: Si un maestro ocupa el bus, el otro no puede usarlo
+		- Crossbar switch
+			- Permite múltiples conexiones entre masters-slaves
+			- _ACK_ : Acknowledge bit)
+			- _STB_ : Se activa para indicar que se está usando el bus
+			- _CYC_ : Se activa cuando  se usa el bus, así se bloquea el bus para que otro maestro no lo use (en ese intervalo entre lecturas consecutivas, puede haber un maestro que pida el bus)
+			- _TAGN_ : Se usan en arquitectura de anillo. Es solo ponerle un nombre al periférico
 
 
 >[!Note]
