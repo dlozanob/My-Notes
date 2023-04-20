@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c6608131caf76d9c",
+        "id": "64a4cd2e1a799452",
         "type": "tabs",
         "children": [
           {
-            "id": "c112f5286df2260b",
+            "id": "6e2a0dff88ab98ab",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -174,8 +174,9 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "c112f5286df2260b",
+  "active": "6e2a0dff88ab98ab",
   "lastOpenFiles": [
+    "Módulo 4.md",
     "Finanzas.md",
     "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
     "Excalidraw/blackboard.excalidraw.md",
@@ -211,7 +212,6 @@
     "Estática de Fluidos.md",
     "Propiedades de los Fluidos.md",
     "Tema 2. Función de oferta y demanda.md",
-    "Módulo 1. Economía y matemática financiera.md",
     "Excalidraw/attachments",
     "attachments",
     "New folder",

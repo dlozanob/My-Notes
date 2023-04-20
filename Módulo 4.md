@@ -74,7 +74,12 @@ $$
 - _Duración modificada del bono_ ($MD$)
 	- Es el cociente entre $-P'$ y $P(y_{0})$
 
+Se tiene $P(y_{1}) = P(y_{0}) + m(y_{1} - y_{0})$, la recta es una aproximación de la curva. Se puede conocer el precio de un bono en un tiempo utilizando esto.
 
-Se tiene la recta $P(y_{1}) = $ sdsdsdskn
+Se llega a:
 
-
+$$
+\begin{align*}
+	P(y_{1}) = P(y_{0}) + \frac{\partial P}{\partial y}(y_{1} - y_{0}) = P(y_{0}) - MD\cdot P(y_{0})(y_{1} - y_{0})
+\end{align*}
+$$
