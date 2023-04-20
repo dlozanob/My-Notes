@@ -383,6 +383,24 @@ Varias ventanas de registros permiten tener procesos más rápidos
 
 ---
 
+La _latencia_ es el tiempo que se demora en transportar datos.
+Mucho _ancho de banda_ (bits) -> el procesador se demora más decodificando (son muchas direcciones)
+
+
+Topologías:
+- Bus compartido
+- Bus jerárquico (dos buses)
+	- No todos los protocolos tienen la misma velocidad
+	- Se usan buses de distinto ancho de banda, uno para protocolos rápidos y otro para lentos (Ej.: Memoria, UART)
+
+
+>[!Note]
+>El bus más usado es el bus anba de ad (fabricante de hypercores de procesadores)
+
+
+
+---
+
 # Proyecto
 
 
