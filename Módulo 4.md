@@ -2,7 +2,7 @@
 
 hay unas garantías (papeles comerciales) respaldadas en un titulo llamado pagaré
 
-en caso de no pagar eso, se puede demandar a lla persona
+en caso de no pagar eso, se puede demandar a la persona
 
 en los leasing se paga un arriendo del bien
 
@@ -83,3 +83,24 @@ $$
 	P(y_{1}) = P(y_{0}) + \frac{\partial P}{\partial y}(y_{1} - y_{0}) = P(y_{0}) - MD\cdot P(y_{0})(y_{1} - y_{0})
 \end{align*}
 $$
+
+Ahora bien:
+
+$$
+\begin{align*}
+	\frac{\Delta P}{P(y_{0})} = -MD\cdot \Delta y
+\end{align*}
+$$
+
+Esto permite visualizar riesgos.
+
+
+
+La duración de _Macaulay_ (_duration_) muestra el plazo promedio de los diferentes tiempos cuando van ocurriendo los distintos flujos de efectivo. Es un promedio ponderado de cuándo ocurren los flujos de efectivo. Es como un centro de masa.
+
+$$
+\begin{align*}
+	Duration = \frac{\sum_{t = 1}^{n} \frac{t\cdot FC_{t}}{(1 + y_{0})^{t}}}{P}
+\end{align*}
+$$
+
