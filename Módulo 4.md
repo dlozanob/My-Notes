@@ -39,3 +39,35 @@ En un cero cupón la duración es la misma maduración
 
 
 En bonos cero cupón hay más riesgo
+
+Precio de un bono:
+
+$$
+\begin{align*}
+	P = \frac{M}{(1 + y_{0})^{t}} + \sum_{t = 1}^{n} \frac{C_{t}}{(1 + y_{0})^{t}}
+\end{align*}
+$$
+
+Donde:
+- $P$  : Precio del bono
+- $n$ : Periodos de tiempo hasta el pago del valor de maduración
+- $y_{0}$ : Tasa de rendimiento (yield inicial)
+- $t$ : Vencimiento del flujo de caja
+- $M$ :  Valor de maduración
+- $C_{t}$ : Cupón en el tiempo $t$
+
+$$
+\begin{align*}
+	P(y_{0}) = \sum_{t = 1}^{n} \frac{FC_{t}}{(1 + y_{0})^{t}} = \sum_{t = 1}^{n} FC_{t}(1 + y_{0})^{-t}
+\end{align*}
+$$
+
+
+
+$$
+\begin{align*}
+	
+\end{align*}
+$$
+
+

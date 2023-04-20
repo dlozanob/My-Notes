@@ -4,45 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "3588df5aeee878a9",
+        "id": "c6608131caf76d9c",
         "type": "tabs",
         "children": [
           {
-            "id": "94e5f1a49cc665cb",
+            "id": "c112f5286df2260b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ad5e2c70c8eef3ed",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "ba94451337513f74",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linked note.md",
+                "file": "Módulo 4.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linked note.md",
+                "file": "Módulo 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linked note.md",
+                "file": "Módulo 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linked note.md"
+                "file": "Módulo 4.md"
               }
             }
           },
@@ -197,11 +174,12 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "ba94451337513f74",
+  "active": "c112f5286df2260b",
   "lastOpenFiles": [
+    "Finanzas.md",
+    "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
     "Excalidraw/blackboard.excalidraw.md",
     "Linked note.md",
-    "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
     "Señales y Sistemas II.md",
     "Cap. 1. Modelos de sistemas lineales y no lineales.md",
     "Cap. 3. Solución de las ecuaciones de estado de sistemas LTI.md",
@@ -234,7 +212,6 @@
     "Propiedades de los Fluidos.md",
     "Tema 2. Función de oferta y demanda.md",
     "Módulo 1. Economía y matemática financiera.md",
-    "Finanzas.md",
     "Excalidraw/attachments",
     "attachments",
     "New folder",
