@@ -163,7 +163,7 @@ Un perfil trapezoidal suave evita el problema de los jerks
 ---
 
 
-
+El momento de inercia del motor se refiere a su propio rotor
 
 
 
