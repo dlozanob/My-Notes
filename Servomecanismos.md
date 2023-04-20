@@ -177,7 +177,10 @@ $$
 $$
 
 >[!Note]
->Dejando de lado $\eta$ se puede aplicar al final sobre el $T_{out}$ un $FS$ que recomendablemente $$
+>
+Hay 2 enfoques de diseño:
+>- Incorporar $\eta$ en el cálculo
+>-  Dejar de lado $\eta$, se puede aplicar al final sobre el $T_{out}$ un $FS$ que recomendablemente $\geq 20\%$
 
 
 
