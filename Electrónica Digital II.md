@@ -418,6 +418,7 @@ Topologías:
 			- _SEL_ : Indica la granulidad
 				- Indica cuántos y cuáles
 				- Número de bytes = bytesProcesador/4
+				- Ej: 1100 retorna los dos primeros bytes
 
 
 >[!Note]
@@ -438,7 +439,9 @@ Topologías:
 >3B -> Int
 >(son con signo, para ponerlos con signo sería unsigned char..)
 
-
+¿Cómo se almacenan los datos?
+- _Big Endian_ : LSB almacenado a la izquierda (dir. 7)
+- _Little Endian_ : LSB almacenado a la derecha (dir. 0)
 
 
 
@@ -522,6 +525,10 @@ function accionarMotores(dir, detected) {
 	return 2
 }
 ```
+
+- [ ]  Actualizar el README
+- [ ] Diagrama de Gantt
+
 
 
 ## External links
