@@ -393,9 +393,22 @@ Topologías:
 	- No todos los protocolos tienen la misma velocidad
 	- Se usan buses de distinto ancho de banda, uno para protocolos rápidos y otro para lentos (Ej.: Memoria, UART)
 
+>[!Note]
+>El bus más usado es el bus de ARM (fabricante de hypercores de procesadores) que usa la tipología de conexión AMBA (Advanced Microcontroller Bus Architecture). Se divide en: alta y baja frecuencia
+
+- Anillo
+	- Se busca conectar los componentes lo más cerca posible al maestro
+
+
+
 
 >[!Note]
->El bus más usado es el bus anba de ad (fabricante de hypercores de procesadores)
+>Un bus con un reloj muy alto genera ruido y es susceptible al ruido
+
+
+
+
+
 
 
 
