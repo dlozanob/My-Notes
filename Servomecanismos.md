@@ -183,6 +183,17 @@ Hay 2 enfoques de diseño:
 >-  Dejar de lado $\eta$, se puede aplicar al final sobre el $T_{out}$ un $FS$ que recomendablemente $\geq 20\%$
 
 
+En algunos casos existen 2 controladores, el de bajo rendimiento controla las operaciones y se las envía al de alto rendimiento para que este ejecute el algoritmo de control
+
+Se recomienda evitar acoples flexibles -> Susceptibles a la resonancia
+
+
+
+
+
+
+
+
 
 
 
