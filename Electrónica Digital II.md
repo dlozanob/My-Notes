@@ -411,12 +411,33 @@ Topologías:
 			- Permite múltiples conexiones entre masters-slaves
 			- _ACK_ : Acknowledge bit)
 			- _STB_ : Se activa para indicar que se está usando el bus
+				- Solo se activa cuando el maestro escribe
 			- _CYC_ : Se activa cuando  se usa el bus, así se bloquea el bus para que otro maestro no lo use (en ese intervalo entre lecturas consecutivas, puede haber un maestro que pida el bus)
+				- Escribe durante todo el periodo que el maestro se comunica con un periférico
 			- _TAGN_ : Se usan en arquitectura de anillo. Es solo ponerle un nombre al periférico
+			- _SEL_ : Indica la granulidad
+				- Indica cuántos y cuáles
+				- Número de bytes = bytesProcesador/4
 
 
 >[!Note]
 >Un bus con un reloj muy alto genera ruido y es susceptible al ruido
+
+
+ - _Granulidad_
+	 - ¿Cuál es el dato más pequeño que se puede tomar?
+	 - Si el bus es de 32, se le puede pedir una palabra de 8 bits
+	 - Se puede escribir y leer solo en bytes
+
+![](attachments/Pasted%20image%2020230420081856.png)
+
+
+>[!Note]
+>1B -> Char
+>2B -> Short
+>3B -> Int
+>(son con signo, para ponerlos con signo sería unsigned char..)
+
 
 
 

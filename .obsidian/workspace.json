@@ -18,6 +18,16 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4fcc1ece0d84c8d1",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/whiteboard.excalidraw.md"
+              }
+            }
           }
         ]
       }
@@ -177,7 +187,9 @@
   },
   "active": "a2cac84ff72cedbf",
   "lastOpenFiles": [
+    "attachments/Pasted image 20230420081856.png",
     "Excalidraw/whiteboard.excalidraw.md",
+    "Electrónica Digital II.md",
     "Mecanismos.md",
     "Servomecanismos.md",
     "Linked note.md",
@@ -206,13 +218,11 @@
     "Estática de Fluidos.md",
     "Excalidraw/blackboard.excalidraw.md",
     "Propiedades de los Fluidos.md",
-    "Electrónica Digital II.md",
     "Tema 2. Función de oferta y demanda.md",
     "Módulo 1. Economía y matemática financiera.md",
     "Finanzas.md",
     "Tema 4. Introducción a los mercados monetarios.md",
     "Tema 4. Financiamiento a corto plazo.md",
-    "mecanica de f.md",
     "Excalidraw/attachments",
     "attachments",
     "New folder",
