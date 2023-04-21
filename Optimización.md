@@ -103,5 +103,24 @@ Matlab tiene dos paquetes de optimización:
 - Global Optimization Toolbox
 - Optimization Toolbox
 
+Se usa cuando la función no es derivable sobre la región de estudio.
+
+Clasificación de estas técnicas:
+- _Búsqueda directa_
+	- _Búsqueda patrón_
+	- _Búsqueda simplex_
+	- _Búsqueda adaptativa_
+- _Basados en modelos_
+	- _Región de confianza_
+	- _Plataforma modelos sustitutos (surrogate models)_
+		- Con ella se diseñan los álaves de los helicópteros
+		- Se sustituyen la función objetivo y las restricciones con modelos sustitutos. Esto se hace para que la optimización del diseño no tarde tanto tiempo. Por tanto, se llega a un óptimo aproximado
+- _Heurísticos_
+	- Debe ser el último recurso a utilizar, ya que, demanda más información y tiempo
+	- Buscan mínimos y máximos globales
+	- _Constructivos_
+		- Algoritmo de colonia de hormigas (ACO)
+		- Inteligencia colectiva (PS)
+	- _Poblacionales_
 
 
