@@ -121,6 +121,16 @@ Clasificación de estas técnicas:
 	- _Constructivos_
 		- Algoritmo de colonia de hormigas (ACO)
 		- Inteligencia colectiva (PS)
+		- Parten de un conjunto vacío
 	- _Poblacionales_
+		- Parten de una población inicial con condiciones iniciales
+		- Se basan en la evolución de organismos
+		- Algortimo de recocido simulado
+			- Parte del principio de aliviar esfuerzos al aplicar un tratamiento de recocido sobre un material
+		- Algoritmo de combinación de genes
+		- Algoritmo de mutación
+			- Se efectúan cambios bruscos en un gen
+
+
 
 
