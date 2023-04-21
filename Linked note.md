@@ -21,13 +21,12 @@ La función de transferencia de un sistema de segundo orden es:
 
 
 
-
-
-
-
-
-
 - [Expresiones](http://www3.fi.mdp.edu.ar/control4c7/APUNTES/Clase%208%20b%20-%20Especificaciones%20en%20el%20tiempo.pdf)
+
+
+---
+
+
 
 
 

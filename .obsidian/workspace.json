@@ -4,22 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "64a4cd2e1a799452",
+        "id": "d9f3a3a77618a61e",
         "type": "tabs",
         "children": [
           {
-            "id": "6e2a0dff88ab98ab",
+            "id": "ff0c9d9cfe1fcd44",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Módulo 4.md",
+                "file": "Linked note.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "abd803859b99f610",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/whiteboard.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Módulo 4.md",
+                "file": "Excalidraw/whiteboard.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Módulo 4.md",
+                "file": "Excalidraw/whiteboard.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Módulo 4.md"
+                "file": "Excalidraw/whiteboard.excalidraw.md"
               }
             }
           },
@@ -174,14 +185,15 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "abed2df76f33d216",
+  "active": "abd803859b99f610",
   "lastOpenFiles": [
-    "Tema 3. Indicadores macroeconómicos.md",
+    "Excalidraw/attachments/Pasted Image 20230420210820_732.png",
+    "Linked note.md",
     "Módulo 4.md",
+    "Tema 3. Indicadores macroeconómicos.md",
     "Finanzas.md",
     "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
     "Excalidraw/blackboard.excalidraw.md",
-    "Linked note.md",
     "Señales y Sistemas II.md",
     "Cap. 1. Modelos de sistemas lineales y no lineales.md",
     "Cap. 3. Solución de las ecuaciones de estado de sistemas LTI.md",
@@ -211,7 +223,6 @@
     "C.md",
     "Cinemática de Fluidos.md",
     "Estática de Fluidos.md",
-    "Propiedades de los Fluidos.md",
     "Excalidraw/attachments",
     "attachments",
     "New folder",
