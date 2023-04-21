@@ -378,6 +378,10 @@ Para $\frac{L_{3}}{L_{2}} = \frac{L_{4}}{L_{2}} = \frac{\bar{BP}}{L_{2}} = 2.5$ 
 
 ![](attachments/Pasted%20image%2020230405212654.png)
 
+>[!Note]
+>El mecanismo _Walking Beam_ propone un problema de generación de trayectoria.
+>![](attachments/Pasted%20image%2020230421104628.png)
+
 
 ## Mecanismos de línea recta
 
