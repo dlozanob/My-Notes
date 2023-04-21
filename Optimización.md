@@ -133,4 +133,6 @@ Clasificación de estas técnicas:
 
 
 
+En ingeniería se utilizan estos algoritmos para obtener optimizaciones topológicas de máquinas y elementos.
 
+Algunos softwares utilizan optimización basándose en los procesos de manufactura disponibles por el usuario. El máximo exponente es Autodesk Fusion.
