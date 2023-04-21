@@ -20,9 +20,9 @@ el cupon es la tasa de interes del bono (distinto a la tasa de interes del merca
 yield es la tasa de rendimiento del mercado
 
 
-Si $yield < cupon$ el bono se valoriza ($principal + interes$) (compra por prima)
+Si $yield < cupon$ el bono se valoriza ($principal + interes$) (compra por prima) (Precio sucio > 100%)
 Si $yield = cupon$ no se gana nada (compra a la par)
-Si $yield > cupon$ el bono se desvaloriza (compra por descuento)
+Si $yield > cupon$ el bono se desvaloriza (compra por descuento) (Precio sucio < 100%)
 
 en los bonos se habla de puntos básicos (cada yield) (basis-point)
 
@@ -73,6 +73,7 @@ $$
 
 - _Duración modificada del bono_ ($MD$)
 	- Es el cociente entre $-P'$ y $P(y_{0})$
+	- Sirve para aproximación con línea recta
 
 Se tiene $P(y_{1}) = P(y_{0}) + m(y_{1} - y_{0})$, la recta es una aproximación de la curva. Se puede conocer el precio de un bono en un tiempo utilizando esto.
 
@@ -96,11 +97,23 @@ Esto permite visualizar riesgos.
 
 
 
-La duración de _Macaulay_ (_duration_) muestra el plazo promedio de los diferentes tiempos cuando van ocurriendo los distintos flujos de efectivo. Es un promedio ponderado de cuándo ocurren los flujos de efectivo. Es como un centro de masa.
+La duración de _Macaulay_ (_duration_) muestra el plazo promedio de los diferentes tiempos cuando van ocurriendo los distintos flujos de efectivo. Es un promedio ponderado de cuándo ocurren los flujos de efectivo. Es como un centro de masa que indica en qué periodo se recupera el precio inicial del bono.
 
 $$
 \begin{align*}
 	Duration = \frac{\sum_{t = 1}^{n} \frac{t\cdot FC_{t}}{(1 + y_{0})^{t}}}{P}
 \end{align*}
 $$
+
+Viene de la duración modificada.
+
+$$
+\begin{align*}
+	MD = \frac{Duration}{1+y_{0}}
+\end{align*}
+$$
+
+>[!Note]
+>`SUMAPRODUCTO` es una función de Excel para efectuar un producto punto
+
 
