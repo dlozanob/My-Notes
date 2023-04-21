@@ -11,8 +11,42 @@
             "id": "d7268261b860a2db",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Análisis de velocidad.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c576a9bf1f95bb4e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mecanismos.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "4f17744e42878704",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8bd6de6901d3e062",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Análisis de posición.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -77,6 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Análisis de velocidad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,6 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Análisis de velocidad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +150,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Análisis de velocidad.md"
+              }
             }
           },
           {
@@ -152,7 +190,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249.5
+    "width": 249.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,13 +207,15 @@
   },
   "active": "d7268261b860a2db",
   "lastOpenFiles": [
+    "Análisis de posición.md",
+    "Mecanismos.md",
+    "Análisis de velocidad.md",
     "Optimización.md",
     "Síntesis de mecanismos.md",
     "Excalidraw/blackboard.excalidraw.md",
     "attachments/Pasted image 20230421104628.png",
     "Excalidraw/attachments/Pasted Image 20230421104623_557.png",
     "attachments/Pasted image 20230421104602.png",
-    "Mecanismos.md",
     "Ingeniería de Diseño.md",
     "Main.md",
     "Linked note.md",
@@ -202,7 +243,6 @@
     "Fundamentos de cinemática de mecanismos.md",
     "Obsidian Basics.md",
     "Verilog.md",
-    "Assembly.md",
     "Excalidraw/attachments",
     "attachments",
     "New folder",
