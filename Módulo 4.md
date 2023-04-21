@@ -148,8 +148,9 @@ Se obtiene:
 
 $$
 \begin{align*}
-	P(y_{1}) &= P(y_{0}) - MD\cdot P(y_{0})(@d) + Conv\cdot P(y_{0}) \frac{(y_{1} - y_{0})}{2} \\
-	P(y_{1}) = 
+	P(y_{1}) &= P(y_{0}) - MD\cdot P(y_{0})(\Delta y) + Conv\cdot P(y_{0}) \frac{(\Delta y^{2})}{2} \\
+	\frac{\Delta P}{P} &= -MD\cdot \Delta y + \frac{Conv\cdot (\Delta y)^{2}}{2}
 \end{align*}
 $$
 
+Algunos emisores emiten bonos con opcionalidades de recomprarlos
