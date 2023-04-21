@@ -22,3 +22,24 @@ $$
 	r_{2}\dot{\theta_{2}}\cos(\theta_{2}) + r_{3}\dot{\theta_{3}}\cos(\theta_{3}) - r_{4}\dot{\theta_{4}}\cos(\theta_{4}) = 0
 \end{align*}
 $$
+
+Siendo así:
+
+$$
+\begin{align*}
+\begin{pmatrix}
+-r_{3}\sin\theta_{3} & -r_{4}\sin\theta_{4} \\
+r_{3}\cos\theta_{3} & -r_{4}\cos\theta_{4}
+\end{pmatrix}
+\begin{pmatrix}
+\dot{\theta_{3}} \\
+\dot{\theta_{4}}
+\end{pmatrix}
+=
+\begin{pmatrix}
+r_{2}\dot{\theta_{2}}\sin\theta_{2} \\
+-r_{2}\dot{\theta_{2}}\cos\theta_{2}
+\end{pmatrix}
+\end{align*}
+$$
+

@@ -30,13 +30,7 @@
                 "source": false
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "4f17744e42878704",
-        "type": "tabs",
-        "children": [
+          },
           {
             "id": "8bd6de6901d3e062",
             "type": "leaf",
@@ -48,8 +42,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "525eed1881bfa8ea",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/whiteboard.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -111,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Análisis de velocidad.md",
+                "file": "Excalidraw/whiteboard.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Análisis de velocidad.md",
+                "file": "Excalidraw/whiteboard.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Análisis de velocidad.md"
+                "file": "Excalidraw/whiteboard.excalidraw.md"
               }
             }
           },
@@ -205,11 +210,11 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "d7268261b860a2db",
+  "active": "525eed1881bfa8ea",
   "lastOpenFiles": [
+    "Análisis de velocidad.md",
     "Análisis de posición.md",
     "Mecanismos.md",
-    "Análisis de velocidad.md",
     "Optimización.md",
     "Síntesis de mecanismos.md",
     "Excalidraw/blackboard.excalidraw.md",
