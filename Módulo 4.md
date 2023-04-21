@@ -117,3 +117,39 @@ $$
 >`SUMAPRODUCTO` es una función de Excel para efectuar un producto punto
 
 
+La _convexidad_ se usa para determinar el grado de curvatura de la función que modela el precio del bono con respecto al yield.
+
+$$
+\begin{align*}
+	\frac{\partial^{2}P}{\partial y} = \sum_{t = 1}^{n} \frac{(t^{2} + t)\cdot FC_{t}}{(1 + y_{0})^{t + 2}}
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	Convexidad = \frac{\frac{\partial^{2}P}{\partial y}}{P(y_{0})}
+\end{align*}
+$$
+
+Se usa para mejorar la aproximación lineal.
+
+Se parte de la serie de Taylor para obtener una aproximación de segundo orden:
+
+$$
+\begin{align*}
+	P(y_{1}) = P(y_{0}) + \frac{\partial P(y_{0})}{\partial y}(y_{1} - y_{0}) + \frac{1}{2}\frac{\partial^{2}P(y_{0})}{\partial y}(y_{1} - y_{0})^{2}
+\end{align*}
+$$
+
+>[!Note]
+>La _duración_ y la _convexidad_ de un bono se encuentra en sistemas de información
+
+Se obtiene:
+
+$$
+\begin{align*}
+	P(y_{1}) &= P(y_{0}) - MD\cdot P(y_{0})(@d) + Conv\cdot P(y_{0}) \frac{(y_{1} - y_{0})}{2} \\
+	P(y_{1}) = 
+\end{align*}
+$$
+
