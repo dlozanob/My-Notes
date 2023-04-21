@@ -4,28 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "d9f3a3a77618a61e",
+        "id": "3f54bbdc7a04bdf5",
         "type": "tabs",
         "children": [
           {
-            "id": "ff0c9d9cfe1fcd44",
+            "id": "54277de3fd239f02",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linked note.md",
+                "file": "Optimización.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "abd803859b99f610",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/whiteboard.excalidraw.md"
               }
             }
           }
@@ -91,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linked note.md",
+                "file": "Optimización.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linked note.md",
+                "file": "Optimización.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linked note.md"
+                "file": "Optimización.md"
               }
             }
           },
@@ -170,7 +160,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249.5
+    "width": 249.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,11 +175,14 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "ff0c9d9cfe1fcd44",
+  "active": "54277de3fd239f02",
   "lastOpenFiles": [
+    "Síntesis de mecanismos.md",
+    "Optimización.md",
+    "Mecanismos.md",
+    "Linked note.md",
     "Excalidraw/whiteboard.excalidraw.md",
     "Excalidraw/attachments/Pasted Image 20230420210820_732.png",
-    "Linked note.md",
     "Módulo 4.md",
     "Tema 3. Indicadores macroeconómicos.md",
     "Finanzas.md",
@@ -205,7 +199,6 @@
     "Servomecanismos.md",
     "Electrónica Digital II.md",
     "attachments/Pasted image 20230420081856.png",
-    "Mecanismos.md",
     "Fundamentos de Mecánica de Fluidos.md",
     "LaTeX Template.md",
     "Cap. 4. Análisis cualitativo de sistemas LTI.md",
@@ -220,7 +213,6 @@
     "Main.md",
     "C.md",
     "Cinemática de Fluidos.md",
-    "Estática de Fluidos.md",
     "Excalidraw/attachments",
     "attachments",
     "New folder",
