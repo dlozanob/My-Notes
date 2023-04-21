@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "3f54bbdc7a04bdf5",
+        "id": "6ae88172153802a4",
         "type": "tabs",
         "children": [
           {
-            "id": "54277de3fd239f02",
+            "id": "d7268261b860a2db",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Optimización.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "18106ad8737a95ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Síntesis de mecanismos.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +77,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Síntesis de mecanismos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +93,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Síntesis de mecanismos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +114,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Síntesis de mecanismos.md"
-              }
+              "state": {}
             }
           },
           {
@@ -187,17 +166,17 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "18106ad8737a95ce",
+  "active": "d7268261b860a2db",
   "lastOpenFiles": [
-    "Excalidraw/blackboard.excalidraw.md",
+    "Optimización.md",
     "Síntesis de mecanismos.md",
+    "Excalidraw/blackboard.excalidraw.md",
     "attachments/Pasted image 20230421104628.png",
     "Excalidraw/attachments/Pasted Image 20230421104623_557.png",
     "attachments/Pasted image 20230421104602.png",
     "Mecanismos.md",
     "Ingeniería de Diseño.md",
     "Main.md",
-    "Optimización.md",
     "Linked note.md",
     "Excalidraw/whiteboard.excalidraw.md",
     "Excalidraw/attachments/Pasted Image 20230420210820_732.png",
