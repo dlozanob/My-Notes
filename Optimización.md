@@ -62,15 +62,46 @@ Tipos de problemas de optimización:
 - Optimización irrestricta
 
 
+>[!Note]
+>Algortimo simplex permite resolver problemas con función objetivo lineal y restricciones lineales
 
 
+## Optimización con derivadas
+
+Pasos:
+1. Estimar un $x^{(0)}$ con $k = 0$
+2. Buscar la dirección de búsqueda $d^{(k)}$ (prebúsqueda lineal)
+3. Verificar la convergencia del algoritmo (¿$|\nabla f(x)| = 0$?)
+4. 
 
 
+>[!Note]
+>El algoritmo de Wolfe es el más eficiente para hallar la dirección de búsqueda
 
 
+### Determinación de la dirección de búsqueda
+
+- Método del máximo descenso
 
 
+- Método de Newton
+	- Hace una aproximación de $f(x)$ usando series de Taylor de orden 2
+	- Tiene convergencia cuadrática
 
+- Método de cuasi-Newton
+	- Tiene convergencia lineal
+
+
+### Algoritmos de direcciones viables (de punto interior)
+
+La dirección $d$ cumple con las restricciones pero al mismo tiempo es la dirección más óptima
+
+
+## Optimización sin derivadas
+
+Matlab tiene dos paquetes de optimización:
+- Global Optimization Toolbox
+- Optimization Toolbox
 
 
 
