@@ -4,53 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "6ae88172153802a4",
+        "id": "45226ea9c71fa70f",
         "type": "tabs",
         "children": [
           {
-            "id": "d7268261b860a2db",
+            "id": "8c869a83f5149cb0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Análisis de velocidad.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c576a9bf1f95bb4e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mecanismos.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8bd6de6901d3e062",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Análisis de posición.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "525eed1881bfa8ea",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/whiteboard.excalidraw.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -115,7 +77,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Análisis de velocidad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +93,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Análisis de velocidad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,9 +114,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Análisis de velocidad.md"
-              }
+              "state": {}
             }
           },
           {
@@ -209,14 +167,14 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "d7268261b860a2db",
+  "active": "8c869a83f5149cb0",
   "lastOpenFiles": [
-    "attachments/Pasted image 20230421141111.png",
     "Excalidraw/whiteboard.excalidraw.md",
-    "Análisis de velocidad.md",
-    "attachments/Pasted image 20230421141009.png",
     "Análisis de posición.md",
     "Mecanismos.md",
+    "Análisis de velocidad.md",
+    "attachments/Pasted image 20230421141111.png",
+    "attachments/Pasted image 20230421141009.png",
     "attachments/Pasted image 20230421140959.png",
     "Optimización.md",
     "Síntesis de mecanismos.md",
@@ -238,7 +196,6 @@
     "attachments/Pasted image 20230420145800.png",
     "attachments/Pasted image 20230420145640 1.png",
     "attachments/Pasted image 20230420145640.png",
-    "attachments/Pasted image 20230420145638.png",
     "Servomecanismos.md",
     "Electrónica Digital II.md",
     "Fundamentos de Mecánica de Fluidos.md",
