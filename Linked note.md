@@ -63,10 +63,13 @@ $$
 \begin{pmatrix}
 z_{1} \\
 z_{2}
-\end{pmatrix} = 
+\end{pmatrix} &= 
 \begin{pmatrix}
-
-\end{pmatrix}
+\dot{y} \\
+\omega_{n}y
+\end{pmatrix} \\\\
+\ddot{y} &= \omega_{n}\dot{y} - \omega_{n}^{2}y + \omega_{n}u(t) \\
+&\ddot{y} - \omega_{n}\dot{y} + \omega_{n}^{2}y = \omega_{n}u(t)
 \end{align*}
 $$
 
