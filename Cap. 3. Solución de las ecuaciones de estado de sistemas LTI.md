@@ -393,7 +393,7 @@ Sabiendo esto:
 
 $$
 \begin{align*}
-	y(t) = C[e^{At}x_{0} + \int _{0}^{t} e^{A(t - \tau)}Bu(\tau)] +Du \\\\
+	y(t) = C[e^{At}x_{0} + \int _{0}^{t} e^{A(t - \tau)}Bu(\tau)\,\,\,d\tau] +Du \\\\
 \end{align*}
 $$
 
