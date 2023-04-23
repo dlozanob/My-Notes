@@ -29,7 +29,7 @@ La función de transferencia de un sistema de segundo orden es:
 
 $$
 \begin{align*}
-	\frac{\omega_{n}}{s}
+	z_{1} = -\frac{1}{2}
 \end{align*}
 $$
 
@@ -38,15 +38,37 @@ $$
 $$
 \begin{align*}
 \begin{pmatrix}
-\dot{z_{2}} \\
-\dot{z_{1}}
+\dot{z_{1}} \\
+\dot{z_{2}}
 \end{pmatrix} =
+\begin{pmatrix}
+\omega_{n} & -\omega_{n} \\
+\omega_{n} & 0
+\end{pmatrix}
+\begin{pmatrix}
+z_{1} \\
+z_{2}
+\end{pmatrix} + 
+\begin{pmatrix}
+\omega_{n} \\
+0
+\end{pmatrix}u(t)
+\end{align*}
+$$
+
+
+
+$$
+\begin{align*}
+\begin{pmatrix}
+z_{1} \\
+z_{2}
+\end{pmatrix} = 
 \begin{pmatrix}
 
 \end{pmatrix}
 \end{align*}
 $$
-
 
 
 
