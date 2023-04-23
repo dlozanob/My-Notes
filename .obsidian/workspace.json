@@ -29,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linked note.md",
+                "file": "Excalidraw/blackboard.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linked note.md",
+                "file": "Excalidraw/blackboard.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linked note.md"
+                "file": "Excalidraw/blackboard.excalidraw.md"
               }
             }
           },
@@ -186,8 +185,9 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "51789c6f3aabdcbf",
+  "active": "8c869a83f5149cb0",
   "lastOpenFiles": [
+    "Linked note.md",
     "Excalidraw/blackboard.excalidraw.md",
     "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
     "Señales y Sistemas II.md",
@@ -205,7 +205,6 @@
     "attachments/Pasted image 20230421104602.png",
     "Ingeniería de Diseño.md",
     "Main.md",
-    "Linked note.md",
     "Excalidraw/attachments/Pasted Image 20230420210820_732.png",
     "Módulo 4.md",
     "Tema 3. Indicadores macroeconómicos.md",

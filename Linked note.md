@@ -26,6 +26,15 @@ La función de transferencia de un sistema de segundo orden es:
 
 
 
+
+$$
+\begin{align*}
+	\frac{\omega_{n}}{s}
+\end{align*}
+$$
+
+
+
 $$
 \begin{align*}
 \begin{pmatrix}
