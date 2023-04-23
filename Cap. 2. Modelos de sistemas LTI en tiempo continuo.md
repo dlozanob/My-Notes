@@ -478,6 +478,7 @@ Configuraciones comunes:
 - $R = 1$ M$\Omega$ ; $C = 1$ $\mu F$
 - $R = 100$ k$\Omega$ ; $C = 10$ $\mu F$
 
+---
 
 - __Ejemplo__ :
 
