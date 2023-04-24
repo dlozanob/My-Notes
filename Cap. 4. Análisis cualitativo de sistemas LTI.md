@@ -721,6 +721,43 @@ $$
 \end{align*}
 $$
 
+ De manera general:
+ 
+ ![](attachments/Pasted%20image%2020230424182503.png)
+
+
+## Pérdida de información en sistemas compuestos
+
+Un sistema _completamente caracterizado_ es aquel cuya función de transferencia describe correctamente el sistema sin pérdida de información del mismo.
+
+1. Un sistema en paralelo es completamente caracterizado si $H_{1}(s)$ y $H_{2}(s)$ no tienen polos en común
+2. Un sistema en cascada es completamente caracterizado si no hay cancelación de polos y ceros entre $H_{1}(s)$ y $H_{2}(s)$
+3. Un sistema realimentado es completamente caracterizado sí y solo sí, cada polo de $H_{2}(s)$ es distinto a cada cero de $H_{1}(s)$ (no sucede al contrario)
+
+Además, si $H_{1}(s)$ tiene grado $n_{1}$, $H_{2}(s)$ tiene grado $n_{2}$, y $H(s)$ tiene grado $n$, el sistema es completamente caracterizado si $n = n_{1} + n_{2}$
+
+---
+
+- __Ejemplo__ :
+
+Considerando un sistema retroalimentado (la realimentación se suma),
+
+$$
+\begin{align*}
+	H_{1}(s) &=  \frac{s - 1}{(s + 1)(s + 2)} \\\\
+	H_{2}(s) &= \frac{2}{s - 1} 
+\end{align*}
+$$
+
+Entonces:
+
+$$
+\begin{align*}
+	H(s) &= \frac{H_{1}(s)}{1 - H_{1}(s)H_{2}()} \\\\
+	&= \frac{\frac{s - 1}{(s + 1)}}{}
+\end{align*}
+$$
+
 
 
 
