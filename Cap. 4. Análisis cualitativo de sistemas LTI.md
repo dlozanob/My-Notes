@@ -642,7 +642,26 @@ $$
 >En vehículos aeroespaciales se esperan aceleraciones leves y con baja frecuencia, por tanto, estos acelerómetros funcionan
 
 
-## 
+## Sistemas compuestos
+
+Conexiones típicas:
+- Paralelo
+- Cascada
+- Realimentación
+
+### Conexión en paralelo
+
+
+
+
+$$
+\begin{align*}
+	Y_{2}(s)
+\end{align*}
+$$
+
+
+
 
 
 
