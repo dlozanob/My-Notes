@@ -219,6 +219,9 @@ As we saw in Equation \ref{eq:example}, the slope of the line is represented by 
 | Approximation | `\approx` | $\approx$ |
 | Not equal | `\neq` | $\neq$ |
 | Diameter | `\varnothing` | $\varnothing$ |
+| Angle 1 | `\angle` | $\angle$ |
+| Angle 2 | `\measuredangle` | $\measuredangle$ |
+| Angle 3 | `\sphericalangle` | $\sphericalangle$ |
 | Constant | `\propto` | $\propto$ |
 | Evaluate | `\biggr\rvert` | $\biggr\rvert_{X=0}$ |
 | Physic units | `\unit{<unit>}` | `\unit{km*h}` |

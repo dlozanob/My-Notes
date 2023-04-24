@@ -460,4 +460,17 @@ $$
 >- `Bode` : Retorna magnitud y fase
 >- `dcgain` : Retorna $H_{0}$
 
-Un diagrama de Bode 
+Un diagrama de Bode relaciona magnitud y fase entre la salida y la entrada del sistema.
+
+![](attachments/Pasted%20image%2020230423212753.png)
+
+Para obtener la magnitud en decibeles hacer:
+
+$$
+\begin{align*}
+	|H(j\omega)|_{db} = 20\log_{10}(|H(j\omega))
+\end{align*}
+$$
+
+>[!Note]
+>Un _F.R.A (Frequency Response Analyzer)_
