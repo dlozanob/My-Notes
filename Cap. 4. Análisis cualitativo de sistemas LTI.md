@@ -613,16 +613,33 @@ Se obtiene:
 
 $$
 \begin{align*}
-	&M \ddot{y}(t) + f \dot{y}(t) + ky(t)= M \ddot{U}(t) \\
+	&M \ddot{y}(t) + f \dot{y}(t) + ky(t)= M \ddot{u}(t) \\
 	&H(s) = \frac{s^{2}}{s^{2} + \bar{f}s + \bar{k}} 
 \end{align*}
 $$
 
 Donde $\bar{f} = \frac{f}{M}$ y $\bar{k} = \frac{k}{M}$
 
+Sustituyendo $H(S)$ por una versión simplificada:
 
+$$
+\begin{align*}
+	H(s) = \frac{s^{2}}{\bar{k}} \to Y(s) = \frac{s^{2}}{\bar{k}}U(s) \to y(t) = \frac{1}{\bar{k}} \ddot{u}(t)
+\end{align*}
+$$
 
+La salida es la aceleración del bloque multiplicada por una constante.
 
+Para que la simplificación hecha sea válida, se debe cumplir que:
+
+$$
+\begin{align*}
+	|(j\omega)^{2} + j\omega \bar{f} | \ll \bar{k} |
+\end{align*}
+$$
+
+>[!Note]
+>En vehículos aeroespaciales se esperan aceleraciones leves y con baja frecuencia, por tanto, estos acelerómetros funcionan
 
 
 
