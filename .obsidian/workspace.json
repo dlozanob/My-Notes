@@ -157,7 +157,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"pid\"",
+                "query": "\"realizaciones \"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -170,8 +170,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249.5,
-    "collapsed": true
+    "width": 249.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,9 +186,10 @@
   },
   "active": "ff0e7da473cde41e",
   "lastOpenFiles": [
-    "attachments/Pasted image 20230424182503.png",
     "Excalidraw/whiteboard.excalidraw.md",
+    "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
     "Cap. 4. Análisis cualitativo de sistemas LTI.md",
+    "attachments/Pasted image 20230424182503.png",
     "attachments/Pasted image 20230424182441.png",
     "attachments/Pasted image 20230424180432.png",
     "attachments/Pasted image 20230424175807.png",
@@ -200,12 +200,10 @@
     "Excalidraw/doubleDeg.png",
     "Excalidraw/whiteboard.excalidraw.png",
     "Servomecanismos.md",
-    "attachments/Pasted image 20230424173518.png",
     "Análisis de velocidad.md",
     "Mecanismos.md",
     "Señales y Sistemas II.md",
     "Excalidraw/blackboard.excalidraw.md",
-    "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
     "LaTeX.md",
     "balck.md",
     "Cap. 3. Solución de las ecuaciones de estado de sistemas LTI.md",

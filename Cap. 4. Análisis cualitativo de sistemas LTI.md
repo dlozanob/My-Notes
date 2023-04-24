@@ -744,8 +744,8 @@ Considerando un sistema retroalimentado (la realimentación se suma),
 
 $$
 \begin{align*}
-	H_{1}(s) &=  \frac{s - 1}{(s + 1)(s + 2)} \\\\
-	H_{2}(s) &= \frac{2}{s - 1} 
+	H_{1}(s) &=  \frac{s - 1}{(s + 1)(s + 2)};\,\,\,&n_{1} = 2 \\\\
+	H_{2}(s) &= \frac{2}{s - 1};\,\,\,&n_{2} = 1 
 \end{align*}
 $$
 
@@ -754,16 +754,63 @@ Entonces:
 $$
 \begin{align*}
 	H(s) &= \frac{H_{1}(s)}{1 - H_{1}(s)H_{2}()} \\\\
-	&= \frac{\frac{s - 1}{(s + 1)}}{}
+	&= \frac{\frac{s - 1}{(s + 1)(s + 2)}}{1 + \frac{\cancel{ s-1 }}{(s+1)(s+2)}\frac{2}{\cancel{ s - 1 }}} \\\\
+	&= \frac{s - 1}{s^{2} + 4s + 1}
 \end{align*}
 $$
 
+Al cancelar $(s - 1)$ se perdió información.
+Además:
+
+$$
+\begin{align*}
+	n &=  n_{1} + n_{2} \\
+	&= 2 + 1 \\
+	&= 3
+\end{align*}
+$$
+
+Pero se obtuvo un $n = 2$.
+
+Por tanto, el sistema no está completamentamente caracterizado.
 
 
+## Necesidad de la realimentación
 
+Aplicaciones:
+- Automatización
+- Contrarrestar variaciones paramétricas y ambientales -> Brindar robustez
+- Hacer estable un sistema inestable
 
+Para resolver el problema que propone la última aplicación, consideremos el siguiente ejemplo:
 
+$$
+\begin{align*}
+	H_{1}(s) = \frac{1}{s - 1}
+\end{align*}
+$$
 
+$H_{1}(s)$ es inestable.
 
+Usando un sistema en paralelo y hallando una función de transferencia $H_{2}(s)$ que estabilice el sistema:
 
+$$
+\begin{align*}
+	H_{p}(s) &=  \frac{1}{s - 1} - \frac{s}{s - 1} \\
+	&= -1
+\end{align*}
+$$
 
+El sistema es estable, pero:
+
+$$
+\begin{align*}
+	n &=  n_{1} + n_{2} \\
+	&= 1 + 1 \\
+	&= 2
+\end{align*}
+$$
+
+Sin embargo, $H_{p}(s)$ tiene grado $n = 0$. Entonces se ha perdido información.
+
+En la vida real, $H_{2}(s)$ pue

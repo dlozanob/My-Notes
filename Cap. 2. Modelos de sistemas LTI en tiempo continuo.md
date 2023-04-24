@@ -507,6 +507,8 @@ Dos polinomios son _coprimos_ si no tienen raices en común. El grado de una fun
 La _realización mínima_ de una función de transferencia, se logra al simplificar la misma, tal que, $N(s)$ y $D(s)$ sean coprimos. De este modo se halla la realización mínima de la función al transformarla en variables de estado.
 Por tanto, una realización mínima de $H(s)$ debe poseer una dimensión igual al mismo grado de $H(s)$.
 
+---
+
 - __Ejemplo__ :
 
 Se tiene la siguiente función de transferencia:
@@ -545,6 +547,7 @@ $$
 
 La realización es de dimensión 2, por tanto, es una realización mínima.
 
+---
 
 La descripción externa de un sistema no describe lo que realmente sucede en este.
 La descripción interna si lo hace.
@@ -584,6 +587,7 @@ Las variables internas no pueden ser controladas de ninguna manera.
 > [!Note]
 > - La realización mínima de una función de transferencia es aquella donde no existen elementos redundantes en el sistema
 > - Número de acumuladores de energía $=$ Grado de la función de transferencia $=$ Dimensión de la ecuación de estado
+> - En Matlab, el comando `minreal` halla la realización mínima de una función de transferencia
 
 
 ## Sistemas concentrados y distribuidos
