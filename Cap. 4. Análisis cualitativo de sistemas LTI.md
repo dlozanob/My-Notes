@@ -642,7 +642,7 @@ $$
 >En vehículos aeroespaciales se esperan aceleraciones leves y con baja frecuencia, por tanto, estos acelerómetros funcionan
 
 
-
+## 
 
 
 

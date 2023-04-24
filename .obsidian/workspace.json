@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Señales y Sistemas II.md",
-                "mode": "preview",
+                "file": "Cap. 4. Análisis cualitativo de sistemas LTI.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -28,8 +28,21 @@
                 "file": "Excalidraw/whiteboard.excalidraw.md"
               }
             }
+          },
+          {
+            "id": "582133054b8c5cbc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Servomecanismos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -91,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Señales y Sistemas II.md",
+                "file": "Servomecanismos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Señales y Sistemas II.md",
+                "file": "Servomecanismos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Señales y Sistemas II.md"
+                "file": "Servomecanismos.md"
               }
             }
           },
@@ -185,31 +198,32 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "ff0e7da473cde41e",
+  "active": "582133054b8c5cbc",
   "lastOpenFiles": [
+    "attachments/Pasted image 20230424173518.png",
+    "attachments/Pasted image 20230424173515.png",
+    "attachments/Pasted image 20230424173511.png",
+    "attachments/Pasted image 20230424173510.png",
+    "attachments/Pasted image 20230424173508.png",
+    "attachments/Pasted image 20230424173507.png",
+    "attachments/Pasted image 20230424173504.png",
+    "attachments/Pasted image 20230424173501.png",
+    "Análisis de velocidad.md",
+    "Excalidraw/whiteboard.excalidraw.md",
+    "Mecanismos.md",
+    "Cap. 4. Análisis cualitativo de sistemas LTI.md",
+    "Señales y Sistemas II.md",
     "Servomecanismos.md",
     "attachments/Pasted image 20230424171851.png",
-    "Excalidraw/whiteboard.excalidraw.md",
     "Excalidraw/blackboard.excalidraw.md",
-    "Cap. 4. Análisis cualitativo de sistemas LTI.md",
     "attachments/Pasted image 20230423223921.png",
     "attachments/Pasted image 20230423223821.png",
     "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
-    "attachments/Pasted image 20230423222528.png",
     "LaTeX.md",
-    "attachments/Pasted image 20230423215621.png",
-    "Excalidraw/attachments/Pasted Image 20230423215610_995.png",
-    "Excalidraw/attachments/Pasted Image 20230423215547_936.png",
-    "attachments/Pasted image 20230423214539.png",
-    "attachments/Pasted image 20230423213901.png",
-    "attachments/Pasted image 20230423212753.png",
     "balck.md",
-    "Señales y Sistemas II.md",
     "Cap. 3. Solución de las ecuaciones de estado de sistemas LTI.md",
     "Linked note.md",
     "Análisis de posición.md",
-    "Mecanismos.md",
-    "Análisis de velocidad.md",
     "Optimización.md",
     "Síntesis de mecanismos.md",
     "Ingeniería de Diseño.md",
