@@ -142,14 +142,9 @@ Se debe de tener en cuenta el conjunto de normas e informes técnicos _IEC 61131
 
 ## Teoría generalizada de sistemas
 
+![](attachments/Pasted%20image%2020230424171851.png)
 
 
-
-$$
-\begin{align*}
-	[N-m]
-\end{align*}
-$$
 
 
 

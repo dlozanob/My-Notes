@@ -29,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/whiteboard.excalidraw.md",
+                "file": "Servomecanismos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/whiteboard.excalidraw.md",
+                "file": "Servomecanismos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/whiteboard.excalidraw.md"
+                "file": "Servomecanismos.md"
               }
             }
           },
@@ -186,10 +185,11 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "8b59a785bae00e0a",
+  "active": "ff0e7da473cde41e",
   "lastOpenFiles": [
-    "Servomecanismos.md",
+    "attachments/Pasted image 20230424171851.png",
     "Excalidraw/whiteboard.excalidraw.md",
+    "Servomecanismos.md",
     "Excalidraw/blackboard.excalidraw.md",
     "Cap. 4. Análisis cualitativo de sistemas LTI.md",
     "attachments/Pasted image 20230423223921.png",
