@@ -118,6 +118,7 @@ Clasificación de estas técnicas:
 - _Heurísticos_
 	- Debe ser el último recurso a utilizar, ya que, demanda más información y tiempo
 	- Buscan mínimos y máximos globales
+	- _Pattern Search Algorithm_
 	- _Constructivos_
 		- Algoritmo de colonia de hormigas (ACO)
 		- Inteligencia colectiva (PS)
