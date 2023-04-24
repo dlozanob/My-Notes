@@ -291,7 +291,7 @@ Entonces:
 $$
 \begin{align*}
 	y(t) = \frac{k}{p}(1 - e^{ -pt }) \\\\
-	y(t) = \frac{k}{p}(1 - e^{ -p/\tau })
+	y(t) = \frac{k}{p}(1 - e^{ -t/\tau })
 \end{align*}
 $$
 
@@ -490,10 +490,59 @@ $$
 \end{align*}
 $$
 
+La función de transferencia en un operacional es:
 
+$$
+\begin{align*}
+	H(s) = \frac{A(s)}{1 + A(s)}
+\end{align*}
+$$
 
+Ahora bien, para un seguidor se cumple:
 
+$$
+\begin{align*}
+	V_{out} &= A(V_{in} - V_{out}) \\
+	V_{out} &= \cancel{ \frac{A}{1 + A}}^{1}V_{in} \approx V_{in}
+\end{align*}
+$$
 
+![](attachments/Pasted%20image%2020230423214539.png)
+
+No obstante, si el operacional tiene retroalimentación positiva, el sistema es inestable.
+
+En el modelo del operacional y en general, en los sistemas estables sucede los siguiente:
+
+![](attachments/Pasted%20image%2020230423215621.png)
+
+Las grandes frecuencias hacen que la señal de salida se atenúe con respecto a la señal de entrada. Así mismo, la señal de salida se desfasa con la entrada.
+
+Ahora bien, tomando como referencia los puntos marcados en el diagrama de fase, se puede obtener un estimado para $A(s)$:
+
+$$
+\begin{align*}
+	A(s) = \frac{10^{5}}{\underbrace{ \left( 1 + \frac{s}{16\pi} \right) }_{ Polo\,\,\,lento }\underbrace{ \left( 1 + \frac{s}{6\pi\cdot 10^{6}} \right)U }_{ Polo\,\,\,rápido }}
+\end{align*}
+$$
+
+Como el polo lento predomina: 
+
+$$
+\begin{align*}
+	A(s) = \frac{10^{5}}{1 + \frac{s}{16\pi}} \approx \frac{10^{7}}{s + 50.3}
+\end{align*}
+$$
+
+Expresándolo en su función de transferencia:
+
+$$
+\begin{align*}
+	H(s) &= \frac{A(s)}{1 + A(s)} = \frac{10^{7}}{s + 10^{7}} \approx 1 \\
+	Y(s) &\approx U(s)
+\end{align*}
+$$
+
+Estos sucede porque las gráficas fueron producidas por un seguidor.
 
 
 

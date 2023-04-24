@@ -29,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md",
+                "file": "Cap. 4. Análisis cualitativo de sistemas LTI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md",
+                "file": "Cap. 4. Análisis cualitativo de sistemas LTI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md"
+                "file": "Cap. 4. Análisis cualitativo de sistemas LTI.md"
               }
             }
           },
@@ -186,10 +185,14 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "d5ebf71b9892de07",
+  "active": "16c6923dfca91017",
   "lastOpenFiles": [
-    "Cap. 4. Análisis cualitativo de sistemas LTI.md",
     "Excalidraw/blackboard.excalidraw.md",
+    "Cap. 4. Análisis cualitativo de sistemas LTI.md",
+    "attachments/Pasted image 20230423215621.png",
+    "Excalidraw/attachments/Pasted Image 20230423215610_995.png",
+    "Excalidraw/attachments/Pasted Image 20230423215547_936.png",
+    "attachments/Pasted image 20230423214539.png",
     "LaTeX.md",
     "attachments/Pasted image 20230423213901.png",
     "attachments/Pasted image 20230423212753.png",
@@ -206,12 +209,8 @@
     "Mecanismos.md",
     "Análisis de velocidad.md",
     "attachments/Pasted image 20230421141111.png",
-    "attachments/Pasted image 20230421141009.png",
-    "attachments/Pasted image 20230421140959.png",
     "Optimización.md",
     "Síntesis de mecanismos.md",
-    "attachments/Pasted image 20230421104628.png",
-    "Excalidraw/attachments/Pasted Image 20230421104623_557.png",
     "Ingeniería de Diseño.md",
     "Main.md",
     "Módulo 4.md",
