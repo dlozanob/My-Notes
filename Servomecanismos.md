@@ -147,7 +147,7 @@ Se debe de tener en cuenta el conjunto de normas e informes técnicos _IEC 61131
 
 $$
 \begin{align*}
-	C = \frac{\int v \,dt}{i}
+	[kg-m^{2}]
 \end{align*}
 $$
 
