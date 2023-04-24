@@ -147,7 +147,7 @@ Se debe de tener en cuenta el conjunto de normas e informes técnicos _IEC 61131
 
 $$
 \begin{align*}
-	C = \frac{q}{V}
+	B = \frac{F}{v}
 \end{align*}
 $$
 
