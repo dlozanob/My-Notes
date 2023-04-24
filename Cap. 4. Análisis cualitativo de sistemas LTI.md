@@ -511,7 +511,7 @@ $$
 
 No obstante, si el operacional tiene retroalimentación positiva, el sistema es inestable.
 
-En el modelo del operacional y en general, en los sistemas estables sucede los siguiente:
+En el modelo del operacional y en general, en los sistemas estables sucede por ejemplo lo siguiente:
 
 ![](attachments/Pasted%20image%2020230423215621.png)
 
@@ -544,20 +544,51 @@ $$
 
 Estos sucede porque las gráficas fueron producidas por un seguidor.
 
+Ahora bien, si al operacional se le invierten los signos:
+
+$$
+\begin{align*}
+	V_{out} &= A(V_{out} - V_{in}) \\
+	V_{out} &= \frac{A}{A - 1}V_{in} \\\\
+	H(s) &= \frac{A}{A - 1}
+\end{align*}
+$$
+
+Aplicando el $A(s)$ obtenido en el ejemplo:
+
+$$
+\begin{align*}
+	H(s) = \frac{10^{7}}{10^{7} - s - 50.3} \approx -\frac{10^{7}}{s - 10^{7}}
+\end{align*}
+$$
+
+Hay un polo en el semiplano derecho, por tanto, el sistema es inestable.
 
 
+## Reducción de modelos en el rango operacional de frecuencia
 
+Sea una función de transferencia $H(s)$ y una función de transferencia simplificada $H(s)_{s}$, tal que, $H(s)$ es estable y su respuesta en frecuencia es igual a la de $H(s)_{s}$ en un rango de frecuencia $B$, entonces $H(s)$ puede simplificarse por $H(s)_{s}$ para señales dentro del rango de frecuencias ($\neq 0$) de $B$.
+$B$ se llama rango operacional de frecuencias de $H(s)$.
 
+---
 
+- __Ejemplo__ :
 
+![](attachments/Pasted%20image%2020230423222528.png)
 
+Donde $H(s) = \frac{10^{7}}{1 + 10^{7}}$, pero dentro de $B$ se puede simplificar a $H(s) = 1$
 
+- __Ejemplo__ :
 
+La función _PID_ usada en sistemas de control:
 
+$$
+\begin{align*}
+	H(s) = k_{p} + \frac{k_{i}}{s} + k_{d}\cdot s
+\end{align*}
+$$
 
-
-
-
+Sin embargo, el término $k_{d}\cdot s$ no es i
 
 
 

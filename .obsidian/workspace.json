@@ -157,7 +157,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"\"",
+                "query": "\"pid\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -170,8 +170,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249.5,
-    "collapsed": true
+    "width": 249.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,12 +187,14 @@
   "active": "16c6923dfca91017",
   "lastOpenFiles": [
     "Excalidraw/blackboard.excalidraw.md",
+    "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
     "Cap. 4. Análisis cualitativo de sistemas LTI.md",
+    "attachments/Pasted image 20230423222528.png",
+    "LaTeX.md",
     "attachments/Pasted image 20230423215621.png",
     "Excalidraw/attachments/Pasted Image 20230423215610_995.png",
     "Excalidraw/attachments/Pasted Image 20230423215547_936.png",
     "attachments/Pasted image 20230423214539.png",
-    "LaTeX.md",
     "attachments/Pasted image 20230423213901.png",
     "attachments/Pasted image 20230423212753.png",
     "attachments/Pasted image 20230423212519.png",
@@ -203,12 +204,10 @@
     "Señales y Sistemas II.md",
     "Cap. 3. Solución de las ecuaciones de estado de sistemas LTI.md",
     "Linked note.md",
-    "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
     "Excalidraw/whiteboard.excalidraw.md",
     "Análisis de posición.md",
     "Mecanismos.md",
     "Análisis de velocidad.md",
-    "attachments/Pasted image 20230421141111.png",
     "Optimización.md",
     "Síntesis de mecanismos.md",
     "Ingeniería de Diseño.md",
