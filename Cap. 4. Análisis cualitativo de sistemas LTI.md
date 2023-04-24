@@ -588,7 +588,44 @@ $$
 \end{align*}
 $$
 
-Sin embargo, el término $k_{d}\cdot s$ no es i
+Sin embargo, el término $k_{d}\cdot s$ no es impropio, por lo que puede aumentar el ruido.
+
+Para solucionar esto, se sustituye por la ecuación de transferencia:
+
+$$
+\begin{align*}
+	H(s) = k_{p} + \frac{k_{i}}{s} + \frac{k_{d}\cdot s}{1 + \frac{s}{N}}
+\end{align*}
+$$
+
+Donde $N$ es el _factor de selectividad_ del derivador. Además, el $3^{er}$ término ahora es impropio.
+
+Esta sustitución es válida para un cierto rango operacional.
+
+
+## Acelerómetros
+
+![](attachments/Pasted%20image%2020230423223921.png)
+
+Donde $u$ es el despazamiento de la caja y $z$ es el desplazamiento de la masa sísmica.
+
+Se obtiene:
+
+$$
+\begin{align*}
+	&M \ddot{y}(t) + f \dot{y}(t) + ky(t)= M \ddot{U}(t) \\
+	&H(s) = \frac{s^{2}}{s^{2} + \bar{f}s + \bar{k}} 
+\end{align*}
+$$
+
+Donde $\bar{f} = \frac{f}{M}$ y $\bar{k} = \frac{k}{M}$
+
+
+
+
+
+
+
 
 
 
