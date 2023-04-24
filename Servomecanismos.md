@@ -147,7 +147,7 @@ Se debe de tener en cuenta el conjunto de normas e informes técnicos _IEC 61131
 
 $$
 \begin{align*}
-	B = \frac{F}{v}
+	C = \frac{\int v \,dt}{i}
 \end{align*}
 $$
 
