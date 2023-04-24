@@ -563,4 +563,4 @@ $$
 
 ## External Links
 
-- [[Optimización]]
+- [Optimización](Optimización.md)

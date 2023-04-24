@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Servomecanismos.md",
-                "mode": "source",
+                "file": "Señales y Sistemas II.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Servomecanismos.md",
+                "file": "Señales y Sistemas II.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Servomecanismos.md",
+                "file": "Señales y Sistemas II.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Servomecanismos.md"
+                "file": "Señales y Sistemas II.md"
               }
             }
           },
@@ -187,9 +187,9 @@
   },
   "active": "ff0e7da473cde41e",
   "lastOpenFiles": [
+    "Servomecanismos.md",
     "attachments/Pasted image 20230424171851.png",
     "Excalidraw/whiteboard.excalidraw.md",
-    "Servomecanismos.md",
     "Excalidraw/blackboard.excalidraw.md",
     "Cap. 4. Análisis cualitativo de sistemas LTI.md",
     "attachments/Pasted image 20230423223921.png",
@@ -203,7 +203,6 @@
     "attachments/Pasted image 20230423214539.png",
     "attachments/Pasted image 20230423213901.png",
     "attachments/Pasted image 20230423212753.png",
-    "attachments/Pasted image 20230423212519.png",
     "balck.md",
     "Señales y Sistemas II.md",
     "Cap. 3. Solución de las ecuaciones de estado de sistemas LTI.md",
