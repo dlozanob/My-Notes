@@ -651,15 +651,48 @@ Conexiones típicas:
 
 ### Conexión en paralelo
 
-
-
+![](attachments/Pasted%20image%2020230424175248.png)
 
 $$
 \begin{align*}
-	Y_{2}(s)
+	U(s) &= U_{1}(s) = U_{2}(s) \\
+	Y(s) &= Y_{1}(s) + Y_{2}(s) \\
+	&= H_{1}(s)U(s) + H_{2}(s)U(s) \\
+	&= [H_{1}(s) + H_{2}(s)]U(s) \\
+	&= H_{p}U(s)
+	  
 \end{align*}
 $$
 
+
+### Conexión en cascada
+
+
+![](attachments/Pasted%20image%2020230424175807.png)
+
+$$
+\begin{align*}
+	U_{1}(s) &= U(s) \\
+	Y_{1}(s) &= U_{2}(s) = H_{1}(s)U(s) \\
+	Y_{2}(s) &= Y(s) \\\\
+	Y(s) &= H_{2}(s)U_{2}(s) \\
+	&= H_{2}(s)H_{1}(s)U(s) \\
+	&= H_{c}U(s)
+\end{align*}
+$$
+
+
+### Conexión en realimentación
+
+
+![](attachments/Pasted%20image%2020230424180432.png)
+
+$$
+\begin{align*}
+	U_{1}(s) &= U(s) - Y_{2}(s) \\
+	U_{2}(s) &= 
+\end{align*}
+$$
 
 
 
