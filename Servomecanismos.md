@@ -147,7 +147,7 @@ Se debe de tener en cuenta el conjunto de normas e informes técnicos _IEC 61131
 
 $$
 \begin{align*}
-	[kg-m^{2}]
+	[N-m]
 \end{align*}
 $$
 
