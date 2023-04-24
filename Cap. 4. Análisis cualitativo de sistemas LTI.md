@@ -453,3 +453,11 @@ $$
 \end{align*}
 $$
 
+---
+
+>[!Note]
+>Funciones en Matlab:
+>- `Bode` : Retorna magnitud y fase
+>- `dcgain` : Retorna $H_{0}$
+
+Un diagrama de Bode 
