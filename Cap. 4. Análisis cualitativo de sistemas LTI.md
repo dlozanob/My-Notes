@@ -460,7 +460,7 @@ $$
 >- `Bode` : Retorna magnitud y fase
 >- `dcgain` : Retorna $H_{0}$
 
-Un diagrama de Bode relaciona magnitud y fase entre la salida y la entrada del sistema.
+Un _diagrama de Bode_ relaciona magnitud y fase entre la salida y la entrada del sistema.
 
 ![](attachments/Pasted%20image%2020230423212753.png)
 
@@ -473,4 +473,47 @@ $$
 $$
 
 >[!Note]
->Un _F.R.A (Frequency Response Analyzer)_
+>Un _F.R.A (Frequency Response Analyzer)_ produce estos diagramas de Bode
+
+
+## Modelo estático de un amplificador operacional
+
+Este componente puede ser visto como sistema:
+
+![](attachments/Pasted%20image%2020230423213901.png)
+
+Donde $A$ es una ganancia muy grande ($10^{5}\sim10^{7}$). $A$ no depende de la frecuencia.
+
+$$
+\begin{align*}
+	V_{out} = A(V_{+} - V_{-})
+\end{align*}
+$$
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -217,6 +217,7 @@ As we saw in Equation \ref{eq:example}, the slope of the line is represented by 
 | Product dot | `\cdot` | $\cdot$ |
 | Variable cancelation | `\bcancel{}` | $\bcancel{x}$ |
 | Approximation | `\approx` | $\approx$ |
+| Similar | `\sim`  | $\sim$ |
 | Not equal | `\neq` | $\neq$ |
 | Diameter | `\varnothing` | $\varnothing$ |
 | Angle 1 | `\angle` | $\angle$ |
