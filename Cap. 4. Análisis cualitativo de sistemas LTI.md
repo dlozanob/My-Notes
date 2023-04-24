@@ -664,6 +664,12 @@ $$
 \end{align*}
 $$
 
+$$
+\begin{align*}
+	\boxed{H_{p} = H_{1}(s) + H_{2}(s)}
+\end{align*}
+$$
+
 
 ### Conexión en cascada
 
@@ -681,6 +687,12 @@ $$
 \end{align*}
 $$
 
+$$
+\begin{align*}
+	\boxed{H_{c} = H_{1}(s)H_{2}(s)}
+\end{align*}
+$$
+
 
 ### Conexión en realimentación
 
@@ -690,7 +702,22 @@ $$
 $$
 \begin{align*}
 	U_{1}(s) &= U(s) - Y_{2}(s) \\
-	U_{2}(s) &= 
+	U_{2}(s) &= Y_{1}(s) = Y(s)  \\\\
+	Y_{2}(s) &= H_{2}(s)U(s) = H_{2}(s)Y_{1}(s) = H_{2}(s)H_{1}(s)U_{1}(s) \\
+	U_{1}(s) &= U(s) - H_{1}(s)H_{2}(s)U_{1}(s) \\	
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	[1 + H_{1}(s)H_{2}(s)]U_{1}(s) = U(s) \\
+	[1 + H_{1}(s)H_{2}(s)] \frac{Y(s)}{H_{1}(s)} = U(s)
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	\boxed{H_{f}(s) = \frac{H_{1}(s)}{1 + H_{1}(s)H_{2}(s)}}
 \end{align*}
 $$
 

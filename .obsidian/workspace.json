@@ -29,7 +29,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -91,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cap. 4. Análisis cualitativo de sistemas LTI.md",
+                "file": "Excalidraw/whiteboard.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cap. 4. Análisis cualitativo de sistemas LTI.md",
+                "file": "Excalidraw/whiteboard.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cap. 4. Análisis cualitativo de sistemas LTI.md"
+                "file": "Excalidraw/whiteboard.excalidraw.md"
               }
             }
           },
@@ -185,11 +186,11 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "ff0e7da473cde41e",
+  "active": "a60a1aacd194018f",
   "lastOpenFiles": [
-    "attachments/Pasted image 20230424180432.png",
-    "Excalidraw/whiteboard.excalidraw.md",
     "Cap. 4. Análisis cualitativo de sistemas LTI.md",
+    "Excalidraw/whiteboard.excalidraw.md",
+    "attachments/Pasted image 20230424180432.png",
     "attachments/Pasted image 20230424175807.png",
     "attachments/Pasted image 20230424175743.png",
     "attachments/Pasted image 20230424175248.png",
@@ -200,7 +201,6 @@
     "Servomecanismos.md",
     "attachments/Pasted image 20230424173518.png",
     "attachments/Pasted image 20230424173515.png",
-    "attachments/Pasted image 20230424173511.png",
     "Análisis de velocidad.md",
     "Mecanismos.md",
     "Señales y Sistemas II.md",
