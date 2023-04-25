@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "616d61352f65130f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "a60a1aacd194018f",
             "type": "leaf",
             "state": {
@@ -29,7 +41,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -91,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Main.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Main.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Main.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -184,8 +197,10 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "e4e8d934e81e9177",
+  "active": "616d61352f65130f",
   "lastOpenFiles": [
+    "Main.md",
+    "conflict-files-obsidian-git.md",
     "Ingeniería de Diseño.md",
     "Principios de Estática.md",
     "Resistencia de Materiales.md",
@@ -215,13 +230,11 @@
     "Análisis de posición.md",
     "Optimización.md",
     "Síntesis de mecanismos.md",
-    "Main.md",
     "Módulo 4.md",
     "Tema 3. Indicadores macroeconómicos.md",
     "Finanzas.md",
     "Cap. 1. Modelos de sistemas lineales y no lineales.md",
     "Electrónica Digital II.md",
-    "LaTeX Template.md",
     "Excalidraw/attachments",
     "attachments",
     "New folder",

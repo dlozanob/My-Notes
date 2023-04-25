@@ -528,6 +528,14 @@ function accionarMotores(dir, detected) {
 
 - [ ]  Actualizar el README
 - [ ] Diagrama de Gantt
+- [ ] Driver $i^{2}S$
+
+- Periférico -> Caja negra 
+
+- [I2S Litex](https://github.com/enjoy-digital/litex/blob/master/litex/soc/cores/i2s.py)
+
+
+
 
 
 
