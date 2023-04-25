@@ -528,7 +528,7 @@ function accionarMotores(dir, detected) {
 
 - [ ]  Actualizar el README
 - [ ] Diagrama de Gantt
-
+- [ ] Driver $i^{2}S$
 
 
 ## External links
