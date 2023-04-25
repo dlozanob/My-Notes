@@ -813,4 +813,33 @@ $$
 
 Sin embargo, $H_{p}(s)$ tiene grado $n = 0$. Entonces se ha perdido información.
 
-En la vida real, $H_{2}(s)$ pue
+En la vida real, $H_{2}(s)$ varía, obteniendo realmente:
+
+$$
+\begin{align*}
+	H_{p}(s) &=  \frac{1}{s - 1} - \frac{s}{s - 0.99} \\\\
+	&= \frac{-(s - 1.1)(s - 0.9)}{(s - 1)(s - 0.99)}
+\end{align*}
+$$
+
+Tales ínfimas variaciones hacen que el sistema se vuelva inestable.
+
+Solución al problema: Usar un sistema realimentado (restando retroalimentación)
+
+Entonces con base en el ejemplo:
+
+$$
+\begin{align*}
+	H_{f}(s) &=  \frac{H_{1}(s)}{1 + H_{1}(s)H_{2}(s)} \\\\
+	&= \frac{1}{s + 1}
+\end{align*}
+$$
+
+No se pierde información y el sistema es estable (incluso ante pequeñas variaciones).
+
+>[!Note]
+>- En cascada o en paralelo ocurren estos problemas al estabilizar sistemas, la realimentación es la única forma de estabilizarlos
+>- Un sistema retroalimentado introduce nuevos polos inherentes a las funciones de transferencia presentes
+
+
+## Ventajas de la realimentación

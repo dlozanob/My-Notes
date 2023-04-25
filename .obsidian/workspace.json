@@ -157,7 +157,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"realizaciones \"",
+                "query": "\"\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -184,7 +184,7 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "ff0e7da473cde41e",
+  "active": "abed2df76f33d216",
   "lastOpenFiles": [
     "Excalidraw/whiteboard.excalidraw.md",
     "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
