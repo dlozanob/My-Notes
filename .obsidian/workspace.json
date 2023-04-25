@@ -28,18 +28,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "a0e80c56fab19e43",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linked note.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
         "currentTab": 1
@@ -201,8 +189,8 @@
   "active": "af1c9a1108ab62e7",
   "lastOpenFiles": [
     "Linked note.md",
-    "Main.md",
     "Electrónica Digital II.md",
+    "Main.md",
     "conflict-files-obsidian-git.md",
     "Principios de Estática.md",
     "Ingeniería Electrónica.md",
