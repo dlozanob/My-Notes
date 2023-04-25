@@ -48,7 +48,32 @@ Posibles casos:
 - $\omega_{d}^{2} = 0$ -> Caso amortiguado ($\zeta = 1$)
 - $\omega_{d}^{2} > 0$ -> Caso sobreamortiguado ($\zeta > 1$)
 
+Donde la solución del sistema está dada por:
 
+$$
+\begin{align*}
+	y(t) = 1 - \frac{e^{ -\zeta\omega_{n}t }}{\sqrt{ 1 - \zeta^{2} }}\sin\left( \omega_{n}\sqrt{ 1 - \zeta^{2} }t + \arctan\left( \frac{\sqrt{ 1 - \zeta^{2} }}{\zeta} \right) \right)
+\end{align*}
+$$
+
+Para un $t > 0$.
+
+Usando el criterio de la primera derivada sobre $y(t)$, se halla que su _sobrepico_ (punto global máximo) ocurre en:
+
+$$
+\begin{align*}
+	&t =  T_{p} = \frac{\pi}{\omega_{n}\sqrt{ 1 - \zeta^{2} }} \\\\
+	&y_{max} = 1 - e^{ \frac{-\zeta \pi}{\sqrt{ 1 - \zeta^{2} }} }
+\end{align*}
+$$
+
+Sindo así, la expresión porcentual de sobrepico es:
+
+$$
+\begin{align*}
+	SP = 100\cdot e^{ \frac{-\zeta \pi}{\sqrt{ 1 - \zeta^{2} }} }\%
+\end{align*}
+$$
 
 
 

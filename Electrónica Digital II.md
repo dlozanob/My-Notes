@@ -530,6 +530,14 @@ function accionarMotores(dir, detected) {
 - [ ] Diagrama de Gantt
 - [ ] Driver $i^{2}S$
 
+README rules:
+
+- Periférico -> Caja negra 
+
+
+
+
+
 
 ## External links
 

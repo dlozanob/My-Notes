@@ -42,7 +42,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linked note.md",
+                "file": "Electrónica Digital II.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linked note.md",
+                "file": "Electrónica Digital II.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linked note.md"
+                "file": "Electrónica Digital II.md"
               }
             }
           },
@@ -198,8 +198,9 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "a0e80c56fab19e43",
+  "active": "af1c9a1108ab62e7",
   "lastOpenFiles": [
+    "Linked note.md",
     "Main.md",
     "Electrónica Digital II.md",
     "conflict-files-obsidian-git.md",
@@ -226,7 +227,6 @@
     "LaTeX.md",
     "balck.md",
     "Cap. 3. Solución de las ecuaciones de estado de sistemas LTI.md",
-    "Linked note.md",
     "Análisis de posición.md",
     "Optimización.md",
     "Síntesis de mecanismos.md",
