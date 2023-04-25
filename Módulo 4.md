@@ -154,3 +154,9 @@ $$
 $$
 
 Algunos emisores emiten bonos con opcionalidades de recomprarlos
+
+
+La _duración_ es el tiempo de recuperación
+
+La _convexidad_ es el precio de los cambios
+
