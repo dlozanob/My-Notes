@@ -152,8 +152,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249.5,
-    "collapsed": true
+    "width": 249.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,7 +166,7 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "a9de30c39e059dfa",
+  "active": "abed2df76f33d216",
   "lastOpenFiles": [
     "Módulo 4.md",
     "conflict-files-obsidian-git.md",
