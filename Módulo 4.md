@@ -187,7 +187,12 @@ Davivienda:
 
 Bancolombia:
 - Administración de riesgo de mercado
+	- Efectúa un monitoreo constante de los clientes y de su vida crediticia
+	- Cumple con el estándar propuesto por la SFC, bajo la normatividad del Sistema de Administracipon de Riesgo de Crédito (SARC)
+	- Posee herramientas y protocolos para la recuperación de la cartera. Ejemplo de ello es la definición de límites de exposición, la cual delimita un umbral de inversión para prevenir siniestros
+	- Define políticas de calificación de cartera, las cuales se basan en el historial crediticio del prestatario, el monto de 
 - Administración de riesgo legal
+	- Aunque Bancolombia ha cumplido en todas las ocasiones con las deudas asociadas a valores emitidos, 
 
 
 
