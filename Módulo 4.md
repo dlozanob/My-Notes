@@ -191,7 +191,7 @@ Bancolombia:
 	- Ha desarrollado un Sistema de Administración de Riesgo del Mercado (SARM) ante las fluctuaciones de los índices que puedan afectar el valor de los instrumentos financieros
 - Administración de riesgo legal
 	- Aunque Bancolombia ha cumplido en todas las ocasiones con las deudas asociadas a valores emitidos, la empresa se encuentra sujeta periódicamente a supervisiones que regulan su operación en cada uno de los paises donde ejecuta su labor. Se encuentra también sometida a investigaciones e inspecciones a nivel nacional por parte de las entidades financieras en Colombia. Las autoridades reguladoras en cuestión, tienen la capacidad de imponer medidas contra el lavado de dinero o incumpliento de deuda por parte del emisor. En consecuencia, bajo estos siniestros se imponen deudas, sanciones, multas e incluso revocación de licencias para operar.
-	- En caso de que Bancolombia no pueda cumplir con sus deberes financieros, las entidades financieras nacionales toman el control de la compañía
+	- En caso de que Bancolombia no pueda cumplir con sus deberes financieros, las entidades financieras nacionales toman el control de la compañía para solventar estas problemáticas
 
 
 
