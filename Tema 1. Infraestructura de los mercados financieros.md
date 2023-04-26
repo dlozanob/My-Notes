@@ -22,7 +22,7 @@ El _mercado secundario_ se encarga de darle liquidez al mercado financiero. Los 
 	- Tienen la capacidad de pagar en caso de siniestros
 
 >[!Info]
->La _SFC (Securities and Future Comission)_ es una entidad de Hong Kong que supervisa y regula el mercado de valores.
+>La _SFC (Securities and Future Commission)_ es una entidad de Hong Kong que supervisa y regula el mercado de valores.
 >Protege los intereses de los inversores. Garantiza que los bancos cumplan con los estándares establecidos
 
 
