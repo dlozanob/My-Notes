@@ -160,3 +160,20 @@ La _duración_ es el tiempo de recuperación
 
 La _convexidad_ es el precio de los cambios
 
+
+Un _prospecto de colocación de emisores_ es un documento que contiene toda la información corporativa, legal, financiera y referente a valores de una empresa.
+
+
+---
+
+
+Davivienda:
+- Administración de riesgo de mercado
+- Administración de riesgo legal
+
+Bancolombia:
+- Administración de riesgo de mercado
+- Administración de riesgo legal
+
+
+
