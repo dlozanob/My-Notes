@@ -170,6 +170,9 @@ Un _prospecto de colocación de emisores_ es un documento que contiene toda la i
 - Administración de riesgo del mercado
 	- Busca mitigar el impacto producido por la devaluación de valores emitidos por la empresa, cuando las tasas de interés e índices relacionados fluctúan con respecto a un tiempo inicial
 
+- Administración de riesgo legal
+	- Propone alternativas para evadir los riesgos provocados por incumplimientos del agente emisor de valores cuando este no puede liquidar la transacción asociada. Derivado de este riesgo se desencadenan demandas, multas y sanciones.
+
 
 Davivienda:
 - Administración de riesgo de mercado
@@ -177,9 +180,10 @@ Davivienda:
 	- Adopta medidas de sensibilidad, posiciones direccionales y duración
 	- Usa un modelo estadístico para el cálculo del índice VaR (Value at Risk) desarrollado por JP Morgan. Este índice representa la pérdida de dinero que se puede presentar en el peor de los casos ante una inversión. Viene acmpañado de un porcentaje de confianza, el cual establece la probabilidad de que este riesgo no suceda
 	- Usa periódicamente pruebas de backtesting, las cuales se basan en analizar eventos financieros del pasado, y proponer soluciones que busquen solventar las pérdidas generadas. Así mismo, se modifican los factores asociados y se evalúan con la finalidad de atenuar los riesgos en inversiones futuras
-	- Utiliza herramientas para la evaluación de escenarios de stress. Estos son escenarios 
+	- Utiliza herramientas para la evaluación de escenarios de stress. Estas son situaciones extremas, donde las condiciones ponen a prueba la capacidad de un valor para resistir estos factores de alto riesgo
 - Administración de riesgo legal
-- 
+	- El banco cuenta con un gran repertorio de abogados expertos en el mercado de valores
+	- La entidad posee una vasta experiencia en la emisión de bonos
 
 Bancolombia:
 - Administración de riesgo de mercado
