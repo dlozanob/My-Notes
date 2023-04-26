@@ -174,8 +174,9 @@ Un _prospecto de colocación de emisores_ es un documento que contiene toda la i
 Davivienda:
 - Administración de riesgo de mercado
 	- Se rige bajo el modelo estándar de la SFC
-	- Adopta medidas de sensibilidad, posiciones direccionales y evaluación del índice VaR
-	- El 
+	- Adopta medidas de sensibilidad, posiciones direccionales y duración
+	- Usa un modelo estadístico para el cálculo del índice VaR (Value at Risk) desarrollado por JP Morgan. Este índice representa la pérdida de dinero que se puede presentar en el peor de los casos ante una inversión. Viene acmpañado de un porcentaje de confianza, el cual establece la probabilidad de que este riesgo no suceda
+	- 
 - Administración de riesgo legal
 
 Bancolombia:
