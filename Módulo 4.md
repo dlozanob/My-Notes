@@ -167,8 +167,15 @@ Un _prospecto de colocación de emisores_ es un documento que contiene toda la i
 ---
 
 
+- Administración de riesgo del mercado
+	- Busca mitigar el impacto producido por la devaluación de valores emitidos por la empresa, cuando las tasas de interés e índices relacionados fluctúan con respecto a un tiempo inicial
+
+
 Davivienda:
 - Administración de riesgo de mercado
+	- Se rige bajo el modelo estándar de la SFC
+	- Adopta medidas de sensibilidad, posiciones direccionales y evaluación del índice VaR
+	- El 
 - Administración de riesgo legal
 
 Bancolombia:
