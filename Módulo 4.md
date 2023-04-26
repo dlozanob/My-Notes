@@ -177,6 +177,7 @@ Davivienda:
 	- Adopta medidas de sensibilidad, posiciones direccionales y duración
 	- Usa un modelo estadístico para el cálculo del índice VaR (Value at Risk) desarrollado por JP Morgan. Este índice representa la pérdida de dinero que se puede presentar en el peor de los casos ante una inversión. Viene acmpañado de un porcentaje de confianza, el cual establece la probabilidad de que este riesgo no suceda
 	- Usa periódicamente pruebas de backtesting, las cuales se basan en analizar eventos financieros del pasado, y proponer soluciones que busquen solventar las pérdidas generadas. Así mismo, se modifican los factores asociados y se evalúan con la finalidad de atenuar los riesgos en inversiones futuras
+	- Utiliza herramientas para la evaluación de escenarios de stress. Estos son escenarios 
 - Administración de riesgo legal
 - 
 
