@@ -251,3 +251,29 @@ La _deuda pública_ son bonos emitidos por el gobierno para financiarse a si mis
 >En el caso de Estados Unidos, estos bonos se llaman _títulos del tesoro_. Sus tasas suelen servir de referencia para el mercado global de bonos
 
 
+Entre los títulos _TES_ más representativos se encuentran:
+- Tasa fija en pesos
+- Tasa fija en unidades de valor real (UVR)
+- Tasa variable indexada al índice de precios al consumidor (IPC)
+	- Su cupón tiene un componente fijo y uno variable (corresponde al cambio del IPC)
+
+
+Según la fase de negociación, los mercados de bonos se clasifican en:
+- Mercado primario de bonos
+	- Bonos negociados por primera vez
+	- Emitidos directamente por la empresa
+	- Usa mecanismos como
+		- Subasta holandesa
+			- El emisor define una tasa de corte, se adjudican los bonos a los participantes cuya tasa sea menor o igual a esta
+		- Oferta _underwriting_
+			- Una compañía estructuradora comparte una fracción del riesgo de venta de los bonos
+- Mercado secundario de bonos
+	- Los bonos ya emitidos en el mercado primario se negocian entre los _corredores de mercado_ y los inversionistas
+
+Estas transacciones toman lugar en casas de corredores de bolsa o creadores de mercado.
+
+>[!Note]
+>Se estima que de manera indirecta, todos los aportantes a los fondos de pensiones tienen una inversión en bonos. Ya que, los fondos de pensiones son compradores de bonos públicos y en algunos casos privados
+
+
+
