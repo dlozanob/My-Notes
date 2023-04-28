@@ -16,10 +16,7 @@ $$
 \end{align*}
 $$
 
-
-- _Tiempo de sobrepico_ ($T_{p}$)
-
-- _Sobrepico_ ($Sp$)
+- _Tiempo de sobrepico_ ($T_{p}$) y _Sobrepico_ ($Sp$)
 
 $$\begin{align*}Sp = \frac{y_{max} - y_{rp}}{y_{rp}}*100\%\end{align*}$$
 
@@ -74,7 +71,7 @@ $$
 \end{align*}
 $$
 
-Sindo así, la expresión porcentual de sobrepico es:
+Siendo así, la expresión porcentual de sobrepico es:
 
 $$
 \begin{align*}
@@ -96,7 +93,8 @@ $$
 
 $$
 \begin{align*}
-	\zeta = 0.1
+	\rightarrow T_{p} = 1.579\times 10^{-3}\,\,s \\
+	
 \end{align*}
 $$
 
