@@ -12,6 +12,8 @@ tags: [excalidraw]
 
 • Para ^H9lRQU5O
 
+DSO FNIRSI PRO ^slH6iyPR
+
 
 # Embedded files
 beb4bdd1f3dd12e2dc8865d9bb79141dd6c55ca8: $$u(t)$$
@@ -43,6 +45,7 @@ e9ff24df023ede5e6344a7f6e0b8013e5e1fdd7c: $$[Hz]$$
 72e8c5145384461810f0963b68de85e385ec751d: $$\boxed{C = 50\,\,nF}$$
 8e76de05a339d243c2460cfc59ef60848e7b0685: [[attachments/Pasted Image 20230427234830_175.png]]
 620aabf6a2d8dc9837ef205177eb53a0c97972a7: [[attachments/Pasted Image 20230427235951_473.png]]
+bb9558afc31c37bea034764ebebebbb0c56037d3: [[attachments/Pasted Image 20230428003655_154.png]]
 
 %%
 # Drawing
@@ -31098,6 +31101,137 @@ e9ff24df023ede5e6344a7f6e0b8013e5e1fdd7c: $$[Hz]$$
 			"endBinding": null,
 			"startArrowhead": null,
 			"endArrowhead": null
+		},
+		{
+			"id": "RhmuercXHSf_0HhUMriLN",
+			"type": "image",
+			"x": 4448.4071163297995,
+			"y": -993.8441248334046,
+			"width": 423.6494752665985,
+			"height": 386.88650427238946,
+			"angle": 0,
+			"strokeColor": "transparent",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 487582435,
+			"version": 31,
+			"versionNonce": 932261581,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1682660210077,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "bb9558afc31c37bea034764ebebebbb0c56037d3",
+			"scale": [
+				1,
+				1
+			]
+		},
+		{
+			"id": "slH6iyPR",
+			"type": "text",
+			"x": 4243.428832841096,
+			"y": -566.2881032171591,
+			"width": 164.0625,
+			"height": 24,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 371336685,
+			"version": 63,
+			"versionNonce": 1062613485,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1682660908890,
+			"link": null,
+			"locked": false,
+			"text": "DSO FNIRSI PRO",
+			"rawText": "DSO FNIRSI PRO",
+			"fontSize": 20,
+			"fontFamily": 3,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "DSO FNIRSI PRO",
+			"lineHeight": 1.2
+		},
+		{
+			"id": "8ifutZzMXhHJpQS1heZKl",
+			"type": "image",
+			"x": 4550.378889952485,
+			"y": -1179.7043000414585,
+			"width": 530,
+			"height": 480,
+			"angle": 0,
+			"strokeColor": "transparent",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 1062796867,
+			"version": 15,
+			"versionNonce": 874200685,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1682660203911,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "656d079d5025fc8470d055bfabcdb8f23e920e74",
+			"scale": [
+				1,
+				1
+			]
+		},
+		{
+			"id": "irxE9EI7C2g0hmMFuQG3j",
+			"type": "image",
+			"x": 4993.055948901585,
+			"y": -1150.6358998379287,
+			"width": 639.2857142857144,
+			"height": 600.2453653217013,
+			"angle": 0,
+			"strokeColor": "transparent",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 1894111501,
+			"version": 48,
+			"versionNonce": 1975841827,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1682660171310,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "4b94da99ea1089a4e6bfdbe3cb7e5b721f94a075",
+			"scale": [
+				1,
+				1
+			]
 		}
 	],
 	"appState": {
@@ -31115,13 +31249,13 @@ e9ff24df023ede5e6344a7f6e0b8013e5e1fdd7c: $$[Hz]$$
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "triangle",
-		"scrollX": -1932.5980244730708,
-		"scrollY": 1162.2177591550812,
+		"scrollX": -3888.403570097021,
+		"scrollY": 1130.6872388615861,
 		"zoom": {
-			"value": 0.8500000000000002
+			"value": 0.878810700930062
 		},
 		"currentItemRoundness": "sharp",
-		"gridSize": 20,
+		"gridSize": null,
 		"colorPalette": {},
 		"currentStrokeOptions": null,
 		"previousGridSize": null
