@@ -36,12 +36,13 @@
               "type": "markdown",
               "state": {
                 "file": "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -103,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linked note.md",
+                "file": "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linked note.md",
+                "file": "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linked note.md"
+                "file": "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md"
               }
             }
           },
@@ -182,7 +183,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249.5
+    "width": 249.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,12 +198,13 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "bb2e92f0eda007cd",
+  "active": "a89716face4dbbda",
   "lastOpenFiles": [
-    "Excalidraw/blackboard.excalidraw.md",
     "Linked note.md",
-    "Excalidraw/attachments/Pasted Image 20230427234830_175.png",
+    "Excalidraw/blackboard.excalidraw.md",
+    "Excalidraw/attachments/Pasted Image 20230427235951_473.png",
     "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
+    "Excalidraw/attachments/Pasted Image 20230427234830_175.png",
     "Señales y Sistemas II.md",
     "Señales y Sistemas I.md",
     "Módulo 4.md",
@@ -223,7 +226,6 @@
     "attachments/Pasted image 20230424175248.png",
     "attachments/Pasted image 20230424175240.png",
     "attachments/Pasted image 20230424175226.png",
-    "Excalidraw/doubleDeg.png",
     "Servomecanismos.md",
     "Análisis de velocidad.md",
     "Mecanismos.md",
