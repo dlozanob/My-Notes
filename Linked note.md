@@ -10,6 +10,13 @@ Hey! This is a linked note.
 	- Dicho de otra manera, $T_{e}:\forall$ $t > T_{e}$,  $0.8\cdot y_{rp} \leq y(t) \leq 1.02\cdot y_{rp}$
 	- Algunos autores toman este margen como el $5\%$
 
+$$
+\begin{align*}
+	T_{e} = 4\tau = \frac{4}{|\alpha_{min}|}
+\end{align*}
+$$
+
+
 - _Tiempo de sobrepico_ ($T_{p}$)
 
 - _Sobrepico_ ($Sp$)
