@@ -36,13 +36,13 @@
               "type": "markdown",
               "state": {
                 "file": "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
+                "file": "Excalidraw/blackboard.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
+                "file": "Excalidraw/blackboard.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md"
+                "file": "Excalidraw/blackboard.excalidraw.md"
               }
             }
           },
@@ -198,12 +198,12 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "a89716face4dbbda",
+  "active": "d1c46944e8c83bd9",
   "lastOpenFiles": [
     "Linked note.md",
     "Excalidraw/blackboard.excalidraw.md",
-    "Excalidraw/attachments/Pasted Image 20230427235951_473.png",
     "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
+    "Excalidraw/attachments/Pasted Image 20230427235951_473.png",
     "Excalidraw/attachments/Pasted Image 20230427234830_175.png",
     "Señales y Sistemas II.md",
     "Señales y Sistemas I.md",

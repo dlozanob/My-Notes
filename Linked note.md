@@ -89,8 +89,7 @@ $$
 
 $$
 \begin{align*}
-	\frac{R_{2}}{R_{1}} = \frac{R_{T}}{10\,\,k\Omega} = 2\zeta \\\\
-	0 < R_{T} < 20\,\,k\Omega
+	C = 
 \end{align*}
 $$
 
