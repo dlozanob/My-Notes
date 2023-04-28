@@ -147,7 +147,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"sfc\"",
+                "query": "\"mercado de \"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -174,7 +174,7 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "a9de30c39e059dfa",
+  "active": "abed2df76f33d216",
   "lastOpenFiles": [
     "Tema 1. Infraestructura de los mercados financieros.md",
     "Módulo 4.md",
