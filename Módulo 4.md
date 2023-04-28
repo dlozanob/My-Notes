@@ -210,4 +210,44 @@ En un bono se define:
 	- Es fija
 - Tasa de interés
 	- Es la adición de una porción fija o _spread_, y una porción flotante (varía)
-	- La porción flotante puede ser la variación de un indicador
+	- La porción flotante puede ser la variación de un indicador (como el IPC)
+- Tasa de negociación o tasa de rendimiento
+	- Es la tasa de valoración del mercado
+	- Difiere del cupón
+- Fecha de maduración
+	- Es fija
+	- En esta, se paga el último cupón pactado y se devuelve el principal
+	- Al pago final en esta fecha se le conoce como _valor nominal_ o de _maduración_ (_maturity_)
+
+>[!Note]
+>- La rentabilidad de los bonos suele ser menor que la de las acciones
+>- Los bonos se negocian en lotes con montos elevados
+
+
+Tipos de bonos:
+- Bonos con cupón
+	- Tienen pagos de cupones periódicos
+	- Son los más tradicionales
+
+![](attachments/Pasted%20image%2020230428172610.png)
+
+- Bonos sin cupón
+	- No pagan cupones
+	- Al final se obtiene el valor de _maduración_ el cual es normalmente mayor al _principal_
+
+![](attachments/Pasted%20image%2020230428172656.png)
+
+Según el tipo de emisor, los bonos se clasifican en:
+- Bonos públicos
+	- Emitidos por el gobierno o alguna institución pública
+	- Ejemplos de estos son los _TES_
+- Bonos privados
+	- Emitidos por empresas privadas
+
+
+La _deuda pública_ son bonos emitidos por el gobierno para financiarse a si mismo.
+
+>[!Note]
+>En el caso de Estados Unidos, estos bonos se llaman _títulos del tesoro_. Sus tasas suelen servir de referencia para el mercado global de bonos
+
+
