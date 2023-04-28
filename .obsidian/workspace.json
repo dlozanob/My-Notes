@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linked note.md",
+                "file": "Módulo 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linked note.md",
+                "file": "Módulo 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linked note.md"
+                "file": "Módulo 4.md"
               }
             }
           },
@@ -187,8 +186,9 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "bb2e92f0eda007cd",
+  "active": "a9de30c39e059dfa",
   "lastOpenFiles": [
+    "Linked note.md",
     "Módulo 4.md",
     "Tema 1. Infraestructura de los mercados financieros.md",
     "Tema 3. Introducción a los mercados de capitales.md",
@@ -196,7 +196,6 @@
     "conflict-files-obsidian-git.md",
     "Excalidraw/whiteboard.excalidraw.md",
     "Electrónica Digital II.md",
-    "Linked note.md",
     "Main.md",
     "Principios de Estática.md",
     "Ingeniería Electrónica.md",

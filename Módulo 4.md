@@ -163,6 +163,7 @@ La _convexidad_ es el precio de los cambios
 
 Un _prospecto de colocación de emisores_ es un documento que contiene toda la información corporativa, legal, financiera y referente a valores de una empresa.
 
+Entre mayor TIR tenga un bono, menor es su duración, ya que, se tardará menos en pagarse
 
 ---
 
