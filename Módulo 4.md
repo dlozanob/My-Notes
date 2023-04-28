@@ -276,4 +276,23 @@ Estas transacciones toman lugar en casas de corredores de bolsa o creadores de m
 >Se estima que de manera indirecta, todos los aportantes a los fondos de pensiones tienen una inversión en bonos. Ya que, los fondos de pensiones son compradores de bonos públicos y en algunos casos privados
 
 
+Cuando baja la tasa de rendimiento del mercado se obtienen ganancias en el precio del bono, ya que, este se valoriza.
+Del mismo modo, cuando la tasa de rendimiento sube, el bono se desvaloriza.
+
+Las empresas calificadoras de riesgo ajustan la tasa de rendimiento del bono. Estas utilizan sus ratings crediticios y sus escalas de medición.
+
+Riesgos de los bonos:
+- Riesgo crediticio
+	- El emisor no paga su parte
+- Riesgo de tasa de interés
+	- La tasa de rendimiento del mercado aumenta, y el bono se desvaloriza
+- Riesgo por inflación
+	- Un inversionista puede perder rendimientos ante la inflación (cupones bajos). Así como, en un buen caso, se emiten cupones altos debido a tasas de interés del mercado bajas
+- Riesgo por liquidez
+	- Sucede cuando no se puede negociar el bono fácilmente
+
+
+Algunas propiedades de los bonos:
+- Los bonos que se respaldan con ingresos (como en entidades públicas con impuestos), suelen tener menor riesgo
+- 
 
