@@ -89,7 +89,7 @@ $$
 
 $$
 \begin{align*}
-	C = 50\,\,nF
+	\zeta = 0.1
 \end{align*}
 $$
 

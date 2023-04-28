@@ -41,8 +41,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md",
+                "file": "Linked note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md",
+                "file": "Linked note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md"
+                "file": "Linked note.md"
               }
             }
           },
@@ -198,24 +197,23 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "d1c46944e8c83bd9",
+  "active": "bb2e92f0eda007cd",
   "lastOpenFiles": [
-    "Excalidraw/attachments/Pasted Image 20230428011842_173.jpg",
-    "Excalidraw/attachments/Pasted Image 20230428011827_357.jpg",
-    "Excalidraw/attachments/Pasted Image 20230428011827_145.jpg",
-    "Excalidraw/attachments/Pasted Image 20230428011255_793.png",
-    "Cap. 4. Análisis cualitativo de sistemas LTI.md",
-    "Excalidraw/attachments/Pasted Image 20230428011240_097.png",
     "Excalidraw/blackboard.excalidraw.md",
+    "Excalidraw/attachments/Pasted Image 20230428012839_670.jpg",
+    "Excalidraw/attachments/Pasted Image 20230428012825_165.jpg",
+    "Excalidraw/attachments/Pasted Image 20230428012755_163.jpg",
+    "Excalidraw/attachments/Pasted Image 20230428012724_141.jpg",
+    "Excalidraw/attachments/Pasted Image 20230428012709_140.jpg",
+    "Excalidraw/attachments/Pasted Image 20230428012650_637.jpg",
+    "Excalidraw/attachments/Pasted Image 20230428012606_538.jpg",
+    "Excalidraw/attachments/Pasted Image 20230428012551_513.jpg",
+    "Excalidraw/attachments/Pasted Image 20230428012536_493.jpg",
+    "Excalidraw/attachments/Pasted Image 20230428012504_603.jpg",
+    "Linked note.md",
+    "Cap. 4. Análisis cualitativo de sistemas LTI.md",
     "Señales y Sistemas II.md",
     "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
-    "Excalidraw/attachments/Pasted Image 20230428005322_176.jpg",
-    "Excalidraw/attachments/Pasted Image 20230428005307_154.jpg",
-    "Excalidraw/attachments/Pasted Image 20230428005237_109.jpg",
-    "Excalidraw/attachments/Pasted Image 20230428003655_154.png",
-    "Excalidraw/attachments/Pasted Image 20230428003640_150.png",
-    "Excalidraw/attachments/Pasted Image 20230428003609_564.png",
-    "Linked note.md",
     "Señales y Sistemas I.md",
     "Módulo 4.md",
     "Tema 1. Infraestructura de los mercados financieros.md",
