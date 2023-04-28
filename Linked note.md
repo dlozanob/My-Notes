@@ -89,7 +89,7 @@ $$
 
 $$
 \begin{align*}
-	C = 
+	C = 50\,\,nF
 \end{align*}
 $$
 
