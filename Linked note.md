@@ -93,8 +93,9 @@ $$
 
 $$
 \begin{align*}
-	\rightarrow T_{p} = 1.579\times 10^{-3}\,\,s \\
-	
+	\rightarrow T_{p} = 1.647\,\,ms \\
+	\to SP = 37.233\% \\
+	\to T_{e} = 3.333\,\,ms
 \end{align*}
 $$
 
