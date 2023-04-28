@@ -28,6 +28,7 @@ fbe0f9d19f1873b1539764485c337d9b78532d25: $$db$$
 b9fe71285d6c36fd91add390f416c6362b73ccc5: $$|H(j\omega)|$$
 56a40db1e272868328b98ef012a60b66f6b810d9: $$[Hz]$$
 e9ff24df023ede5e6344a7f6e0b8013e5e1fdd7c: $$[Hz]$$
+8e76de05a339d243c2460cfc59ef60848e7b0685: [[attachments/Pasted Image 20230427234830_175.png]]
 
 %%
 # Drawing
@@ -30581,6 +30582,38 @@ e9ff24df023ede5e6344a7f6e0b8013e5e1fdd7c: $$[Hz]$$
 			]
 		},
 		{
+			"id": "abOt7RrWnA0ibEeNsYleS",
+			"type": "image",
+			"x": 1797.8004983416822,
+			"y": -925.7489177489174,
+			"width": 487,
+			"height": 254,
+			"angle": 0,
+			"strokeColor": "transparent",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 215371437,
+			"version": 4,
+			"versionNonce": 2135634499,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1682657307002,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "8e76de05a339d243c2460cfc59ef60848e7b0685",
+			"scale": [
+				1,
+				1
+			]
+		},
+		{
 			"type": "line",
 			"version": 68,
 			"versionNonce": 1137194915,
@@ -32444,10 +32477,10 @@ e9ff24df023ede5e6344a7f6e0b8013e5e1fdd7c: $$[Hz]$$
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "triangle",
-		"scrollX": 1761.3661683249836,
-		"scrollY": 1567.7489177489183,
+		"scrollX": -1718.8347141258982,
+		"scrollY": 1199.2146464646466,
 		"zoom": {
-			"value": 0.15000000000000002
+			"value": 0.8000000000000002
 		},
 		"currentItemRoundness": "sharp",
 		"gridSize": null,

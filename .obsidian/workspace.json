@@ -28,6 +28,18 @@
                 "file": "Excalidraw/blackboard.excalidraw.md"
               }
             }
+          },
+          {
+            "id": "a89716face4dbbda",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -188,6 +200,10 @@
   "lastOpenFiles": [
     "Excalidraw/blackboard.excalidraw.md",
     "Linked note.md",
+    "Excalidraw/attachments/Pasted Image 20230427234830_175.png",
+    "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
+    "Señales y Sistemas II.md",
+    "Señales y Sistemas I.md",
     "Módulo 4.md",
     "Tema 1. Infraestructura de los mercados financieros.md",
     "Tema 3. Introducción a los mercados de capitales.md",
@@ -199,7 +215,6 @@
     "Principios de Estática.md",
     "Ingeniería Electrónica.md",
     "Cap. 4. Análisis cualitativo de sistemas LTI.md",
-    "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
     "attachments/Pasted image 20230424182503.png",
     "attachments/Pasted image 20230424182441.png",
     "attachments/Pasted image 20230424180432.png",
@@ -209,19 +224,15 @@
     "attachments/Pasted image 20230424175240.png",
     "attachments/Pasted image 20230424175226.png",
     "Excalidraw/doubleDeg.png",
-    "Excalidraw/whiteboard.excalidraw.png",
     "Servomecanismos.md",
     "Análisis de velocidad.md",
     "Mecanismos.md",
-    "Señales y Sistemas II.md",
     "LaTeX.md",
     "balck.md",
     "Cap. 3. Solución de las ecuaciones de estado de sistemas LTI.md",
     "Análisis de posición.md",
     "Optimización.md",
     "Síntesis de mecanismos.md",
-    "Ingeniería de Diseño.md",
-    "Tema 3. Indicadores macroeconómicos.md",
     "Excalidraw/attachments",
     "attachments",
     "New folder",
