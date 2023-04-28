@@ -41,7 +41,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -103,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linked note.md",
+                "file": "Excalidraw/blackboard.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linked note.md",
+                "file": "Excalidraw/blackboard.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linked note.md"
+                "file": "Excalidraw/blackboard.excalidraw.md"
               }
             }
           },
@@ -197,8 +198,10 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "bb2e92f0eda007cd",
+  "active": "d1c46944e8c83bd9",
   "lastOpenFiles": [
+    "Cap. 4. Análisis cualitativo de sistemas LTI.md",
+    "Linked note.md",
     "Excalidraw/blackboard.excalidraw.md",
     "Excalidraw/attachments/Pasted Image 20230428012839_670.jpg",
     "Excalidraw/attachments/Pasted Image 20230428012825_165.jpg",
@@ -210,8 +213,6 @@
     "Excalidraw/attachments/Pasted Image 20230428012551_513.jpg",
     "Excalidraw/attachments/Pasted Image 20230428012536_493.jpg",
     "Excalidraw/attachments/Pasted Image 20230428012504_603.jpg",
-    "Linked note.md",
-    "Cap. 4. Análisis cualitativo de sistemas LTI.md",
     "Señales y Sistemas II.md",
     "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
     "Señales y Sistemas I.md",
