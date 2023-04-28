@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a9de30c39e059dfa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Módulo 4.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "bb2e92f0eda007cd",
             "type": "leaf",
             "state": {
@@ -93,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Módulo 4.md",
+                "file": "Linked note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Módulo 4.md",
+                "file": "Linked note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Módulo 4.md"
+                "file": "Linked note.md"
               }
             }
           },
@@ -159,7 +147,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"mercado de \"",
+                "query": "\"\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -186,10 +174,10 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "a9de30c39e059dfa",
+  "active": "abed2df76f33d216",
   "lastOpenFiles": [
-    "Linked note.md",
     "Módulo 4.md",
+    "Linked note.md",
     "Tema 1. Infraestructura de los mercados financieros.md",
     "Tema 3. Introducción a los mercados de capitales.md",
     "Finanzas.md",
