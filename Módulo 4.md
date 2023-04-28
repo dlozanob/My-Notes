@@ -294,5 +294,11 @@ Riesgos de los bonos:
 
 Algunas propiedades de los bonos:
 - Los bonos que se respaldan con ingresos (como en entidades públicas con impuestos), suelen tener menor riesgo
-- 
+- Los bonos con mayor tasa de cupón suelen tener mayor rendimiento
+- Los bonos con vencimiento a largo plazo (10 años o más), suelen tener un rendimiento mayor a los que están próximos a vencerse. Ya que, hay incertidumbre sobre la tasa en un plazo mayor
+
+La relación entre el tiempo y la tasa de rendimiento se suele representar a través de lo que se conoce como la _estructura temporal de las tasas de interés_ o _curva de rendimientos_.
+Como por ejemplo:
+
+![](attachments/Pasted%20image%2020230428180454.png)
 
