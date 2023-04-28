@@ -194,5 +194,20 @@ Bancolombia:
 	- Aunque Bancolombia ha cumplido en todas las ocasiones con las deudas asociadas a valores emitidos, la empresa se encuentra sujeta periódicamente a supervisiones que regulan su operación en cada uno de los paises donde ejecuta su labor. Se encuentra también sometida a investigaciones e inspecciones a nivel nacional por parte de las entidades financieras en Colombia. Las autoridades reguladoras en cuestión, tienen la capacidad de imponer medidas contra el lavado de dinero o incumpliento de deuda por parte del emisor. En consecuencia, bajo estos siniestros se imponen deudas, sanciones, multas e incluso revocación de licencias para operar.
 	- En caso de que Bancolombia no pueda cumplir con sus deberes financieros, las entidades financieras nacionales toman el control de la compañía para solventar estas problemáticas
 
+---
 
+Los _bonos_ son valores de mediano a largo plazo.
 
+Existe el riesgo de que el emisor no pague los intereses pactados.
+
+En un bono se define:
+- Monto de emisión
+	- _Principal_ o _valor nominal del bono_
+	- Es común que la base del valor esté dada sobre un precio de 100 unidades
+- Cupón
+	- Es la tasa de interés sobre el principal del bono
+	- Comúnmente es anual o semestral
+	- Es fija
+- Tasa de interés
+	- Es la adición de una porción fija o _spread_, y una porción flotante (varía)
+	- La porción flotante puede ser la variación de un indicador

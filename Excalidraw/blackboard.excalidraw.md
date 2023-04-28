@@ -107,7 +107,7 @@ d46f739ea17910de81d4651acabf2c9f12109f14: $$\to T_{e} = 2\,\,ms$$
 15fcf162459fa8746143abc0cc6d5bcf18e9ac86: $$\rightarrow T_{p} = 1.647\,\,ms \\$$
 63c7d9ef9e0d9958edacdfe42252dfe8a1b31221: $$\rightarrow T_{p} = 2.200\,\,ms$$
 84a6ee7c198dd18bc0e626c0415d13acb7fbec92: $$\to SP = 4.599\%$$
-f21e0b171168ecdbd333332224beb3199a26340c: $$\to T_{e} = 10\,\,ms$$
+f21e0b171168ecdbd333332224beb3199a26340c: $$\to T_{e} = 1.429\,\,ms$$
 e193eedd55348fd328b32ceda7029649d2e23d3f: $$\to T_{e} = 3.333\,\,ms$$
 8530409934e58997d10a45a399f0d7a8fa42cec8: $$\to SP = 37.233\% \\$$
 9f3e2db16a6b1ee931f0ea493eb124167b54f9c8: $$\rightarrow T_{p} = 1.647\,\,ms \\$$
@@ -34619,8 +34619,8 @@ e718239768b37fc8c0f2848113edbdacfaba0d56: [[attachments/Pasted Image 20230428012
 		},
 		{
 			"type": "image",
-			"version": 42,
-			"versionNonce": 922912012,
+			"version": 44,
+			"versionNonce": 2106900404,
 			"isDeleted": false,
 			"id": "j_Reqgt8yhNmpem8wK-JH",
 			"fillStyle": "hachure",
@@ -34639,7 +34639,7 @@ e718239768b37fc8c0f2848113edbdacfaba0d56: [[attachments/Pasted Image 20230428012
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": null,
-			"updated": 1682719002481,
+			"updated": 1682719305014,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -34651,8 +34651,8 @@ e718239768b37fc8c0f2848113edbdacfaba0d56: [[attachments/Pasted Image 20230428012
 		},
 		{
 			"type": "image",
-			"version": 42,
-			"versionNonce": 337453492,
+			"version": 45,
+			"versionNonce": 1658799500,
 			"isDeleted": false,
 			"id": "7pEVbBazWIJt62z7po_gL",
 			"fillStyle": "hachure",
@@ -34661,17 +34661,17 @@ e718239768b37fc8c0f2848113edbdacfaba0d56: [[attachments/Pasted Image 20230428012
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 5120,
-			"y": 2360,
+			"x": 5125.370670848937,
+			"y": 2361.755912866672,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 303.99999999999875,
-			"height": 39.99999999999984,
+			"width": 333.25865830212484,
+			"height": 36.488174266656,
 			"seed": 1897522316,
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": null,
-			"updated": 1682719002481,
+			"updated": 1682719305014,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -35285,10 +35285,10 @@ e718239768b37fc8c0f2848113edbdacfaba0d56: [[attachments/Pasted Image 20230428012
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "triangle",
-		"scrollX": -3179.774114717406,
-		"scrollY": -1134.6742083304434,
+		"scrollX": -4967.402677039542,
+		"scrollY": -1353.248309250137,
 		"zoom": {
-			"value": 0.32883987680077553
+			"value": 0.3788398768007755
 		},
 		"currentItemRoundness": "sharp",
 		"gridSize": 20,

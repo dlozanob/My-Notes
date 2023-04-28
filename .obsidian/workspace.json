@@ -40,9 +40,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "027df942801c740f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Módulo 4.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -104,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md",
+                "file": "Módulo 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md",
+                "file": "Módulo 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md"
+                "file": "Módulo 4.md"
               }
             }
           },
@@ -170,7 +182,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"\"",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -198,8 +210,9 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "d1c46944e8c83bd9",
+  "active": "027df942801c740f",
   "lastOpenFiles": [
+    "Finanzas.md",
     "Linked note.md",
     "Cap. 4. Análisis cualitativo de sistemas LTI.md",
     "Excalidraw/blackboard.excalidraw.md",
@@ -219,7 +232,6 @@
     "Módulo 4.md",
     "Tema 1. Infraestructura de los mercados financieros.md",
     "Tema 3. Introducción a los mercados de capitales.md",
-    "Finanzas.md",
     "conflict-files-obsidian-git.md",
     "Excalidraw/whiteboard.excalidraw.md",
     "Electrónica Digital II.md",
