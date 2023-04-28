@@ -14,8 +14,18 @@
               "type": "markdown",
               "state": {
                 "file": "Linked note.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "d1c46944e8c83bd9",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/blackboard.excalidraw.md"
               }
             }
           }
@@ -174,10 +184,11 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "abed2df76f33d216",
+  "active": "bb2e92f0eda007cd",
   "lastOpenFiles": [
-    "Módulo 4.md",
+    "Excalidraw/blackboard.excalidraw.md",
     "Linked note.md",
+    "Módulo 4.md",
     "Tema 1. Infraestructura de los mercados financieros.md",
     "Tema 3. Introducción a los mercados de capitales.md",
     "Finanzas.md",
@@ -203,7 +214,6 @@
     "Análisis de velocidad.md",
     "Mecanismos.md",
     "Señales y Sistemas II.md",
-    "Excalidraw/blackboard.excalidraw.md",
     "LaTeX.md",
     "balck.md",
     "Cap. 3. Solución de las ecuaciones de estado de sistemas LTI.md",

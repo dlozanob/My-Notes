@@ -89,7 +89,7 @@ $$
 
 $$
 \begin{align*}
-	z_{1} = -\frac{1}{2}
+	
 \end{align*}
 $$
 
