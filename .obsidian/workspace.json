@@ -20,16 +20,6 @@
             }
           },
           {
-            "id": "d1c46944e8c83bd9",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md"
-              }
-            }
-          },
-          {
             "id": "a89716face4dbbda",
             "type": "leaf",
             "state": {
@@ -41,8 +31,23 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "5877ee5623b775d3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d1c46944e8c83bd9",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/blackboard.excalidraw.md"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -170,7 +175,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -200,10 +205,10 @@
   },
   "active": "d1c46944e8c83bd9",
   "lastOpenFiles": [
+    "Excalidraw/blackboard.excalidraw.md",
+    "Linked note.md",
     "Excalidraw/attachments/Pasted Image 20230428185830_756.png",
     "Cap. 4. Análisis cualitativo de sistemas LTI.md",
-    "Linked note.md",
-    "Excalidraw/blackboard.excalidraw.md",
     "Módulo 4.md",
     "attachments/Pasted image 20230428180454.png",
     "attachments/Pasted image 20230428172656.png",
@@ -215,7 +220,6 @@
     "Excalidraw/attachments/Pasted Image 20230428012724_141.jpg",
     "Excalidraw/attachments/Pasted Image 20230428012709_140.jpg",
     "Excalidraw/attachments/Pasted Image 20230428012650_637.jpg",
-    "Excalidraw/attachments/Pasted Image 20230428012606_538.jpg",
     "Señales y Sistemas II.md",
     "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
     "Señales y Sistemas I.md",

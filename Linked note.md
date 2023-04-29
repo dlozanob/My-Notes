@@ -135,7 +135,8 @@ z_{2}
 \omega_{n}y
 \end{pmatrix} \\\\
 \ddot{y} &= \omega_{n}\dot{y} - \omega_{n}^{2}y + \omega_{n}u(t) \\
-&\ddot{y} - \omega_{n}\dot{y} + \omega_{n}^{2}y = \omega_{n}u(t)
+&\ddot{y} - \omega_{n}\dot{y} + \omega_{n}^{2}y = \omega_{n}u(t) \\
+G(s) = \frac{\omega_{n}}{s^{2} + 2\zeta\omega_{n}s + \omega_{n}^{2}}
 \end{align*}
 $$
 
