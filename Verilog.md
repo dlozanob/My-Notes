@@ -401,9 +401,12 @@ if(<expression>) <statementIfTrue>;
 if(<expression>) <statementIfTrue>; <statementIfFalse>;
 
 // General form
-if(<expression1>) <statement1>;
-else if(<expression2>) <statement2>;
-else <statement3>;
+if(<expression1>) begin
+	<statement1>;
+end else if(<expression2>) begin
+	<statement2>;
+end else
+	<statement3>;
 ```
 
 - _Case statement_
@@ -474,10 +477,10 @@ Are circuit blocks that can be used to build up a more complex block.
 Basic module framework:
 
 ```verilog
-module <module_name>(<signals>);
-	input <inputs>;
-	output <outputs>;
-	
+module <module_name>(
+	input <inputs>,
+	output <outputs>
+	);
 	<...module_architecture description...>
 endmodule
 ```

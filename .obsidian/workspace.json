@@ -40,9 +40,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "79a4f0cf64d66461",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -104,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fórmulas Financieras Excel.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fórmulas Financieras Excel.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fórmulas Financieras Excel.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -198,8 +210,10 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "32112918905a4d0f",
+  "active": "79a4f0cf64d66461",
   "lastOpenFiles": [
+    "Fórmulas Financieras Excel.md",
+    "conflict-files-obsidian-git.md",
     "Excalidraw/blackboard.excalidraw.md",
     "Linked note.md",
     "Cap. 4. Análisis cualitativo de sistemas LTI.md",
@@ -221,7 +235,6 @@
     "Señales y Sistemas I.md",
     "Tema 1. Infraestructura de los mercados financieros.md",
     "Tema 3. Introducción a los mercados de capitales.md",
-    "conflict-files-obsidian-git.md",
     "Excalidraw/whiteboard.excalidraw.md",
     "Electrónica Digital II.md",
     "Main.md",
