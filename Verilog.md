@@ -474,10 +474,10 @@ Are circuit blocks that can be used to build up a more complex block.
 Basic module framework:
 
 ```verilog
-module <module_name>(<signals>);
-	input <inputs>;
-	output <outputs>;
-	
+module <module_name>(
+	input <inputs>,
+	output <outputs>
+	);
 	<...module_architecture description...>
 endmodule
 ```
