@@ -30,13 +30,7 @@
                 "source": false
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "5877ee5623b775d3",
-        "type": "tabs",
-        "children": [
+          },
           {
             "id": "d1c46944e8c83bd9",
             "type": "leaf",
@@ -47,7 +41,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -205,10 +200,11 @@
   },
   "active": "d1c46944e8c83bd9",
   "lastOpenFiles": [
+    "LaTeX.md",
     "Excalidraw/blackboard.excalidraw.md",
+    "Cap. 4. Análisis cualitativo de sistemas LTI.md",
     "Linked note.md",
     "Excalidraw/attachments/Pasted Image 20230428185830_756.png",
-    "Cap. 4. Análisis cualitativo de sistemas LTI.md",
     "Módulo 4.md",
     "attachments/Pasted image 20230428180454.png",
     "attachments/Pasted image 20230428172656.png",
@@ -234,7 +230,6 @@
     "Servomecanismos.md",
     "Análisis de velocidad.md",
     "Mecanismos.md",
-    "LaTeX.md",
     "balck.md",
     "Cap. 3. Solución de las ecuaciones de estado de sistemas LTI.md",
     "Análisis de posición.md",

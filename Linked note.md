@@ -125,19 +125,7 @@ $$
 
 
 $$
-\begin{align*}
-\begin{pmatrix}
-z_{1} \\
-z_{2}
-\end{pmatrix} &= 
-\begin{pmatrix}
-\dot{y} \\
-\omega_{n}y
-\end{pmatrix} \\\\
-\ddot{y} &= \omega_{n}\dot{y} - \omega_{n}^{2}y + \omega_{n}u(t) \\
-&\ddot{y} - \omega_{n}\dot{y} + \omega_{n}^{2}y = \omega_{n}u(t) \\
-G(s) = \frac{\omega_{n}}{s^{2} + 2\zeta\omega_{n}s + \omega_{n}^{2}}
-\end{align*}
+\begin{align*} \zeta = \left\{ \begin{array}{lcc} -0.1 \\\\ -0.5 \\\\ -1 \end{array} \right. \end{align*}
 $$
 
 
