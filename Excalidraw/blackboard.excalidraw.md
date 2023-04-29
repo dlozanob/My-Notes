@@ -116,8 +116,6 @@ dfbd9a69fc0435e82881b81fcbc635e98ab0d161: $$\rightarrow T_{p} \approx 50\,\,ms \
 11b7f7d124a78626d453ddc168388e28a195eaad: $$\to SP \approx 33\% \\$$
 aa68b44d3586c81df96acc71348cffe470d1f2f7: $$\rightarrow T_{p} \approx 2\,\,ms \\$$
 fd8fc6791a2c43adb0b505b8e09145709cf7da30: $$-$$
-3a653af659e844dc4b2b7cfda6ba8ee0f34726b5: $$2345y6u$$
-c5617850025fefca478d49ca56046d1fbedace6a: $$2345y6u$$
 8e76de05a339d243c2460cfc59ef60848e7b0685: [[attachments/Pasted Image 20230427234830_175.png]]
 620aabf6a2d8dc9837ef205177eb53a0c97972a7: [[attachments/Pasted Image 20230427235951_473.png]]
 bb9558afc31c37bea034764ebebebbb0c56037d3: [[attachments/Pasted Image 20230428003655_154.png]]
@@ -35471,9 +35469,9 @@ e718239768b37fc8c0f2848113edbdacfaba0d56: [[attachments/Pasted Image 20230428012
 		},
 		{
 			"type": "image",
-			"version": 60,
-			"versionNonce": 475984268,
-			"isDeleted": false,
+			"version": 61,
+			"versionNonce": 709329548,
+			"isDeleted": true,
 			"id": "NqFmdsa9",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
@@ -35491,7 +35489,7 @@ e718239768b37fc8c0f2848113edbdacfaba0d56: [[attachments/Pasted Image 20230428012
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1682734946257,
+			"updated": 1682744209009,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -35503,9 +35501,9 @@ e718239768b37fc8c0f2848113edbdacfaba0d56: [[attachments/Pasted Image 20230428012
 		},
 		{
 			"type": "image",
-			"version": 106,
-			"versionNonce": 309050676,
-			"isDeleted": false,
+			"version": 107,
+			"versionNonce": 567327796,
+			"isDeleted": true,
 			"id": "Ek1GBUY9pzZ_pgG_fmY3V",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
@@ -35523,7 +35521,7 @@ e718239768b37fc8c0f2848113edbdacfaba0d56: [[attachments/Pasted Image 20230428012
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": null,
-			"updated": 1682734946257,
+			"updated": 1682744209009,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -35584,10 +35582,10 @@ e718239768b37fc8c0f2848113edbdacfaba0d56: [[attachments/Pasted Image 20230428012
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "triangle",
-		"scrollX": -7182.065402741297,
-		"scrollY": -1475.4314574314549,
+		"scrollX": 3472.2203115444154,
+		"scrollY": 2567.3304473304493,
 		"zoom": {
-			"value": 0.35
+			"value": 0.1
 		},
 		"currentItemRoundness": "sharp",
 		"gridSize": null,
