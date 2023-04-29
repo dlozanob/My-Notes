@@ -28,9 +28,21 @@
                 "file": "Excalidraw/blackboard.excalidraw.md"
               }
             }
+          },
+          {
+            "id": "32112918905a4d0f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fórmulas Financieras Excel.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -92,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md",
+                "file": "Fórmulas Financieras Excel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md",
+                "file": "Fórmulas Financieras Excel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md"
+                "file": "Fórmulas Financieras Excel.md"
               }
             }
           },
@@ -186,10 +198,10 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "d1c46944e8c83bd9",
+  "active": "32112918905a4d0f",
   "lastOpenFiles": [
-    "Linked note.md",
     "Excalidraw/blackboard.excalidraw.md",
+    "Linked note.md",
     "Cap. 4. Análisis cualitativo de sistemas LTI.md",
     "Excalidraw/attachments/Pasted Image 20230428193319_960.png",
     "Excalidraw/attachments/Pasted Image 20230428193111_601.png",
