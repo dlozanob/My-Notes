@@ -122,11 +122,17 @@ z_{2}
 \end{align*}
 $$
 
+$$
+\begin{align*}
+	G(s) = \frac{\omega_{n}}{s^{2} - 0.2\omega_{n}s + \omega_{n}^{2}} \\\\
+	G(s) = \frac{\omega_{n}}{s^{2} -2\omega_{n}s + \omega_{n}^{2}} \\\\
+	s_{1,2} = 200 \pm j\sqrt{ 15.84\times 10^{6} } \\\\
+	s_{1,2} = 2000
+\end{align*}
+$$
 
 
-$$
-\begin{align*} \zeta = \left\{ \begin{array}{lcc} -0.1 \\\\ -0.5 \\\\ -1 \end{array} \right. \end{align*}
-$$
+
 
 
 
