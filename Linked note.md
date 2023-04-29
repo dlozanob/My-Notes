@@ -10,9 +10,13 @@ Hey! This is a linked note.
 	- Dicho de otra manera, $T_{e}:\forall$ $t > T_{e}$,  $0.8\cdot y_{rp} \leq y(t) \leq 1.02\cdot y_{rp}$
 	- Algunos autores toman este margen como el $5\%$
 
-- _Tiempo de sobrepico_ ($T_{p}$)
+$$
+\begin{align*}
+	T_{e} = 4\tau = \frac{4}{|\alpha_{min}|}
+\end{align*}
+$$
 
-- _Sobrepico_ ($Sp$)
+- _Tiempo de sobrepico_ ($T_{p}$) y _Sobrepico_ ($Sp$)
 
 $$\begin{align*}Sp = \frac{y_{max} - y_{rp}}{y_{rp}}*100\%\end{align*}$$
 
@@ -67,7 +71,7 @@ $$
 \end{align*}
 $$
 
-Sindo así, la expresión porcentual de sobrepico es:
+Siendo así, la expresión porcentual de sobrepico es:
 
 $$
 \begin{align*}
@@ -76,7 +80,7 @@ $$
 $$
 
 
-
+	
 
 
 
@@ -89,7 +93,9 @@ $$
 
 $$
 \begin{align*}
-	z_{1} = -\frac{1}{2}
+	\rightarrow T_{p} = 1.647\,\,ms \\
+	\to SP = 37.233\% \\
+	\to T_{e} = 3.333\,\,ms
 \end{align*}
 $$
 
@@ -116,22 +122,17 @@ z_{2}
 \end{align*}
 $$
 
-
-
 $$
 \begin{align*}
-\begin{pmatrix}
-z_{1} \\
-z_{2}
-\end{pmatrix} &= 
-\begin{pmatrix}
-\dot{y} \\
-\omega_{n}y
-\end{pmatrix} \\\\
-\ddot{y} &= \omega_{n}\dot{y} - \omega_{n}^{2}y + \omega_{n}u(t) \\
-&\ddot{y} - \omega_{n}\dot{y} + \omega_{n}^{2}y = \omega_{n}u(t)
+	G(s) = \frac{\omega_{n}}{s^{2} - 0.2\omega_{n}s + \omega_{n}^{2}} \\\\
+	G(s) = \frac{\omega_{n}}{s^{2} -2\omega_{n}s + \omega_{n}^{2}} \\\\
+	s_{1,2} = 200 \pm j\sqrt{ 15.84\times 10^{6} } \\\\
+	s_{1,2} = 2000
 \end{align*}
 $$
+
+
+
 
 
 
