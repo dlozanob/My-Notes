@@ -387,18 +387,65 @@ Se pueden clasificar en:
 	- Pueden transmitir cargas grandes
 	- Son llamados tornillos de potencia
 	- Su eficiencia está en el rango $35\sim 85\%$ 
+
+![](attachments/Pasted%20image%2020230430125645.png)
+
 - Ball screws
 	- Utiliza bolas que recirculan a medida que se mueve la tuerca
 	- Poseen un backlash y fricción bajos -> Utilizados en control
 	- Su eficiencia está en el rango $85\sim 95\%$ 
 
+![](attachments/Pasted%20image%2020230430125701.png)
 
 
 - _Pitch_ $(rev/in)$
-	- Revoluciones de la tuerca por pulgada recorrida (paso)
+	- Revoluciones de la tuerca por distancia recorrida (paso)
 - _Lead_ $(in/rev)$
-	- Pulgadas recorridas por revolución (avance)
+	- Distancia recorrida por revolución (avance)
 
+
+La definición de _pitch_ se puede escribir como:
+
+$$
+\begin{align*}
+	\Delta\theta = 2\pi p\Delta x
+\end{align*}
+$$
+
+Donde $\Delta \theta$ es la rotación del eje, $p$ es el paso y $\Delta x$ es la distancia recorrida.
+
+Ahora bien:
+
+$$
+\begin{align*}
+	2\pi p = \frac{\Delta\theta}{\Delta x}\cdot  \frac{\Delta t}{\Delta t} = \frac{\dot{\theta}}{\dot{x}} = \frac{input\,\,speed}{load\,\,speed}
+\end{align*}
+$$
+
+Entonces:
+
+$$
+\begin{align*}
+	N_{S} = 2\pi p
+\end{align*}
+$$
+
+Sabemos que $KE = \frac{1}{2}J\dot{\theta^{2}}$ para el caso rotacional, además, $KE = \frac{1}{2}m\dot{x}^{2}$ para el caso traslacional.
+
+$$
+\begin{align*}
+	KE &= \frac{1}{2}m\left( \frac{\dot{\theta}}{2\pi p} \right)^{2} \\
+	&=
+\end{align*}
+$$
+
+Entonces:
+
+$$
+\begin{align*}
+	J = J_{\mathrm{Re}f} = \frac{m}{2\pi p}
+\end{align*}
+$$
 
 
 
