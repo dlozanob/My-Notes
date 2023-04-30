@@ -157,13 +157,32 @@ $$
 
 Cuando se conecta el motor directamente al mecanismos, a esta configuración se le llama _direct drive_.
 
-En un sistema de tr
-
+En un sistema de transmisión de potencia mecánica se pueden tener distintos componentes mecánicos para la transmisión de potencia.
 
 ![](attachments/Pasted%20image%2020230429212555.png)
 
+- Cajas de engranajes
+- Polea y correa
+- Cadena
+- Tornillos de transmisión de movimiento
 
+Idealmente $P_{s} = P_{e}$, por lo que no hay pérdidas de energía. Sin embargo, realmente sucede que $P_{e} = P_{s} + pérdidas$. La _eficiencia_ es:
 
+$$
+\begin{align*}
+	\eta = \frac{P_{s}}{P_{e}}
+\end{align*}
+$$
+
+>[!Note]
+>- Los mecanismos que poseen una mayor eficiencia están en el orden $95\sim 97\%$ y aquellos con una baja eficiencia pueden estar en el orden $40\sim 50\%$
+>- Los tornillos de transmisión de potencia son bastante eficientes, sin embargo, los mecanismos de piñón y cremallera poseen una baja eficiencia
+
+Para el diseño de dimensionamiento se pueden tomar dos caminos:
+- Considerar condiciones ideales y al final ajustar el cálculo con un factor de seguridad
+- Considerar la eficiencia asociada ($\eta$)
+
+Partiendo de la condición ideal $P_{s} = P$
 
 
 

@@ -28,6 +28,18 @@
                 "file": "Excalidraw/whiteboard.excalidraw.md"
               }
             }
+          },
+          {
+            "id": "f27efd89c64c3b3e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LaTeX.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -187,9 +199,11 @@
   },
   "active": "6c178751232bf4d2",
   "lastOpenFiles": [
-    "attachments/Pasted image 20230429212555.png",
+    "LaTeX.md",
     "Excalidraw/whiteboard.excalidraw.md",
+    "syntax.md",
     "Servomecanismos.md",
+    "attachments/Pasted image 20230429212555.png",
     "Linked note.md",
     "Excalidraw/blackboard.excalidraw.md",
     "Fórmulas Financieras Excel.md",
@@ -197,7 +211,6 @@
     "Cap. 4. Análisis cualitativo de sistemas LTI.md",
     "Excalidraw/attachments/Pasted Image 20230428193319_960.png",
     "Excalidraw/attachments/Pasted Image 20230428193111_601.png",
-    "LaTeX.md",
     "Excalidraw/attachments/Pasted Image 20230428185830_756.png",
     "Módulo 4.md",
     "attachments/Pasted image 20230428180454.png",
@@ -207,7 +220,6 @@
     "Excalidraw/attachments/Pasted Image 20230428012839_670.jpg",
     "Excalidraw/attachments/Pasted Image 20230428012825_165.jpg",
     "Excalidraw/attachments/Pasted Image 20230428012755_163.jpg",
-    "Excalidraw/attachments/Pasted Image 20230428012724_141.jpg",
     "Señales y Sistemas II.md",
     "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
     "Señales y Sistemas I.md",
