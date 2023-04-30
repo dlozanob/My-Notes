@@ -479,7 +479,7 @@ Adicionalmente, el torque requerido por el motor es:
 
 $$
 \begin{align*}
-	T_{load\to in} = \frac{F_{ext}}{\eta N^{2}}
+	T_{load\to in} = \frac{F_{ext}}{\eta N_{S}}
 \end{align*}
 $$
 
@@ -524,16 +524,75 @@ Ahora bien, la inercia reflejada es:
 
 $$
 \begin{align*}
-	J_{\mathrm{Re}f}^{trans} = J_{pinion} + J_{load\to in} + J_{carriage}
+	J_{\mathrm{Re}f}^{trans} = J_{pinion} + J_{load\to in} + J_{carriage\to in}
+\end{align*}
+$$
+
+Entonces:
+
+$$
+\begin{align*}
+	J_{\mathrm{Re}f}^{trans} = J_{pinion} + \frac{1}{\eta N^{2}_{RP}}\left( \frac{W_{L} + W_{C}}{g} \right)
+\end{align*}
+$$
+
+- $W_{L}$ : Peso de la carga
+- $W_{C}$ : Peso del carrito
+
+Así mismo, el torque necesario del motor es:
+
+$$
+\begin{align*}
+	T_{load\to in} = \frac{F_{ext}}{\eta N_{RP}}
 \end{align*}
 $$
 
 
-
-
-
 ### Belt Drive
 
+Usando dos poleas del mismo radio y una correa, se puede generar movimiento traslacional (_drive-train_).
+Esta configuración es utilizada para aplicaciones que requieran una inercia baja y control de movimiento.
+
+De la misma forma que se obtiene la relación de transmisión para cremayera y piñón:
+
+$$
+\begin{align*}
+	N_{BD} = \frac{1}{r_{ip}}
+\end{align*}
+$$
+
+![](attachments/Pasted%20image%2020230430180817.png)
+
+
+Ahora bien, la inercia reflejada es:
+
+$$
+\begin{align*}
+	J_{\mathrm{Re}f}^{trans} = J_{ip} + J_{load\to in} + J_{carriage\to in} + J_{belt\to in} + J_{lp}
+\end{align*}
+$$
+
+![](attachments/Pasted%20image%2020230430181055.png)
+
+La expresión puede ser escrita como:
+
+$$
+\begin{align*}
+	J_{\mathrm{Re}f}^{trans} = 2J_{lp} + \frac{1}{\eta N_{BD}^{2}}\left( \frac{W_{L} + W_{C} + W_{belt}}{g} \right)
+\end{align*}
+$$
+
+- $W_{L}$ : Peso de la carga
+- $W_{C}$ : Peso del carrito
+- $W_{belt}$ : Peso de la correa
+
+Por otro lado, el torque requerido del motor es:
+
+$$
+\begin{align*}
+	T_{load\to in} = \frac{F_{ext}}{\eta N_{BD}}
+\end{align*}
+$$
 
 
 ### Conveyor
