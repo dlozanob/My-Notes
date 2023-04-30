@@ -200,6 +200,30 @@ Donde $N$ es la _relación de transmisión_ de potencia.
 >- Motores BLDC (usuales en motion control): $3000 \sim 5000\,\,rpm$
 
 
+La _inercia aparente_ o _inercia reflejada_ ($J_{Ap}$) es la inercia que siente el motor.
+
+![](attachments/Pasted%20image%2020230429222225.png)
+
+$$
+\begin{align*}
+	J_{Ap} &= \frac{T_{e}}{\alpha_{e}}  \\\\
+	&= \frac{\frac{1}{N}}{N}\cdot\frac{T_{s}}{\alpha_{s}}  \\\\
+	&= \frac{J_{L}}{N^{2}}
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	\boxed{J_{Ap} = \frac{J_{L}}{N^{2}}}
+\end{align*}
+$$
+
+
+
+
+
+
+
 ---
 
 # Clase
