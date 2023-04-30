@@ -434,8 +434,7 @@ Sabemos que $KE = \frac{1}{2}J\dot{\theta^{2}}$ para el caso rotacional, además
 
 $$
 \begin{align*}
-	KE &= \frac{1}{2}m\left( \frac{\dot{\theta}}{2\pi p} \right)^{2} \\
-	&=
+	KE &= \frac{1}{2}m\left( \frac{\dot{\theta}}{2\pi p} \right)^{2}
 \end{align*}
 $$
 
@@ -443,7 +442,7 @@ Entonces:
 
 $$
 \begin{align*}
-	J = J_{\mathrm{Re}f} = \frac{m}{2\pi p}
+	J = J_{\mathrm{Re}f} = \frac{m}{(2\pi p)^{2}} = \frac{m}{N_{S}^{2}}
 \end{align*}
 $$
 
