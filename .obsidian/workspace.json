@@ -41,7 +41,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -103,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Servomecanismos.md",
+                "file": "Excalidraw/whiteboard.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Servomecanismos.md",
+                "file": "Excalidraw/whiteboard.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Servomecanismos.md"
+                "file": "Excalidraw/whiteboard.excalidraw.md"
               }
             }
           },
@@ -197,11 +198,13 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "6c178751232bf4d2",
+  "active": "32e6e005467508de",
   "lastOpenFiles": [
-    "attachments/Pasted image 20230429222225.png",
-    "Excalidraw/whiteboard.excalidraw.md",
     "Servomecanismos.md",
+    "Excalidraw/whiteboard.excalidraw.md",
+    "attachments/Pasted image 20230429223602.png",
+    "attachments/Pasted image 20230429223524.png",
+    "attachments/Pasted image 20230429222225.png",
     "LaTeX.md",
     "syntax.md",
     "attachments/Pasted image 20230429212555.png",
@@ -218,9 +221,6 @@
     "attachments/Pasted image 20230428172656.png",
     "attachments/Pasted image 20230428172610.png",
     "Finanzas.md",
-    "Excalidraw/attachments/Pasted Image 20230428012839_670.jpg",
-    "Excalidraw/attachments/Pasted Image 20230428012825_165.jpg",
-    "Excalidraw/attachments/Pasted Image 20230428012755_163.jpg",
     "Señales y Sistemas II.md",
     "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
     "Señales y Sistemas I.md",

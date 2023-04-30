@@ -218,6 +218,17 @@ $$
 \end{align*}
 $$
 
+Así mismo, se tiene el _amortiguador aparente_ ($B_{Ap}$), el cual representa la fricciónque siente el motor.
+
+![](attachments/Pasted%20image%2020230429223602.png)
+
+$$
+\begin{align*}
+	B_{Ap} = \frac{B_{L}}{N^{2}}
+\end{align*}
+$$
+
+
 
 
 
