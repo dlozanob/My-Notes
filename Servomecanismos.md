@@ -155,7 +155,7 @@ $$
 \end{align*}
 $$
 
-Cuando se conecta el motor directamente al mecanismos, a esta configuración se le llama _direct drive_.
+Cuando se conecta el motor directamente al mecanismo, a esta configuración se le llama _direct drive_.
 
 En un sistema de transmisión de potencia mecánica se pueden tener distintos componentes mecánicos para la transmisión de potencia.
 
@@ -178,7 +178,7 @@ $$
 >- Los mecanismos que poseen una mayor eficiencia están en el orden $95\sim 97\%$ y aquellos con una baja eficiencia pueden estar en el orden $40\sim 50\%$
 >- Los tornillos de transmisión de potencia son bastante eficientes, sin embargo, los mecanismos de piñón y cremallera poseen una baja eficiencia
 
-Para el diseño de dimensionamiento se pueden tomar dos caminos:
+Para el diseño de dimensionamiento (_sizing_) se pueden tomar dos caminos:
 - Considerar condiciones ideales y al final ajustar el cálculo con un factor de seguridad
 - Considerar la eficiencia asociada ($\eta$)
 
@@ -193,7 +193,11 @@ $$
 
 Donde $N$ es la _relación de transmisión_ de potencia.
 
-
+>[!Info]
+>Rangos típicos:
+>- Motores PAP: $1000\,\,rpm$
+>- Motores AC: $1800\,\,rpm$
+>- Motores BLDC (usuales en motion control): $3000 \sim 5000\,\,rpm$
 
 
 ---
