@@ -259,10 +259,10 @@ Para mecanismos rígidos, los cuales no se deflectan significativamente, se pued
 
 Los STPM pueden componerse de los siguientes mecanismos:
 - Juego de engranajes (Gearbox)
-- Polea y correa (Pulley and Belt)
+- Polea y correa (Pulley-and-Belt)
 - Tornillo de avance y tornillo de bolas (Lead screw and ball screw)
-- Piñón y cremallera (Rack-and-Pinion)
-- Correa para movimiento lineal (Belt dirve for linear motion)
+- Piñón y cremallera (Rack-and-Pinion drive)
+- Correa para movimiento lineal (Belt drive for linear motion)
 - Banda transportadora (Conveyor)
 
 Cada uno de ellos tiene un $N$ asociado.
@@ -281,13 +281,70 @@ Donde:
 - $J_{total}$ : Inercia total
 - $J_{m}$ : Inercia del motor
 - $J_{C_{1}}$ : Inercia del acoplador
-- $J_{\mathrm{Re}f}^{trans}$ : Inercia 
-
-
+- $J_{\mathrm{Re}f}^{trans}$ : Inercia reflejada
 
 ![](attachments/Pasted%20image%2020230430094239.png)
 
 
+### Gearbox
+
+Su relación de transmisión es simplemente:
+
+$$
+\begin{align*}
+	N_{GB} = \frac{T_{s}}{T_{e}} = \frac{\omega_{e}}{\omega_{s}}	
+\end{align*}
+$$
+
+
+### Pulley and Belt
+
+Las correas dentadas (_timing belts_ o _sprockets_) permiten una mayor eficiencia que las que no lo son. Estas últimas, presentan pérdidas por fricción y ocurre deslizamiento.
+
+![](attachments/Pasted%20image%2020230430095715.png)
+
+Donde:
+
+$$
+\begin{align*}
+	V_{\tan} = \omega_{ip}\cdot r_{ip} = \omega_{lp}\cdot r_{lp}
+\end{align*}
+$$
+
+La correa más pequeña (input pulley) es la conductora, la otra (load pulley) es la correa de carga.
+
+Siendo así, la relación de transmisión es:
+
+$$
+\begin{align*}
+	N_{BP} = \frac{\omega_{ip}}{\omega_{lp}}
+\end{align*}
+$$
+
+
+
+
+
+
+
+
+### Lead Screw
+
+
+
+### Rack and Pinion
+
+
+
+### Belt Drive
+
+
+
+### Conveyor
+
+
+
+---
 
 - Enfoques de movimiento:
 	- Newtoniano
@@ -304,9 +361,6 @@ $$
 En algunos casos existen 2 controladores, el de bajo rendimiento controla las operaciones y se las envía al de alto rendimiento para que este ejecute el algoritmo de control
 
 Se recomienda evitar acoples flexibles -> Susceptibles a la resonancia
-
-
-
 
 ---
 
