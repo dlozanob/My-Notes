@@ -11,12 +11,8 @@
             "id": "6c178751232bf4d2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Servomecanismos.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -81,7 +77,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Servomecanismos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +93,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Servomecanismos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,9 +114,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Servomecanismos.md"
-              }
+              "state": {}
             }
           },
           {
@@ -177,6 +169,7 @@
   },
   "active": "6c178751232bf4d2",
   "lastOpenFiles": [
+    "Servomecanismos.md",
     "attachments/Pasted image 20230430182323.png",
     "attachments/Pasted image 20230430181559.png",
     "attachments/Pasted image 20230430181055.png",
@@ -187,9 +180,7 @@
     "attachments/Pasted image 20230430125701.png",
     "attachments/Pasted image 20230430125645.png",
     "attachments/Pasted image 20230430100102.png",
-    "attachments/Pasted image 20230430095715.png",
     "Excalidraw/whiteboard.excalidraw.md",
-    "Servomecanismos.md",
     "LaTeX.md",
     "syntax.md",
     "Linked note.md",

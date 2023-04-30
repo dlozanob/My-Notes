@@ -664,12 +664,17 @@ Donde:
 
 $$
 \begin{align*}
-	F_{ext} = F_{p} + (W_{L} + W_{belt})(\sin\beta + )
+	F_{ext} = F_{p} + (W_{L} + W_{belt})(\sin\beta + \mu \cos\beta)
 \end{align*}
 $$
 
+- $F_{p}$ : Fuerza aplicada sobre la carga
+- $W_{L}$ : Peso de la carga
+- $W_{belt}$ : Peso de la correa
+- $\mu$ : Coeficiente de fricción de la correa
+- $\beta$ : Ángulo de inclinación del conveyor
 
-
+Se considera el caso más general donde el conveyor se encuentra inclinado.
 
 
 ---
