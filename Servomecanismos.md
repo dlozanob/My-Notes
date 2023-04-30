@@ -381,6 +381,26 @@ Donde:
 
 ### Lead Screw
 
+Se pueden clasificar en:
+- ACME screws
+	- Es difícil que la carga mueva al motor
+	- Pueden transmitir cargas grandes
+	- Son llamados tornillos de potencia
+	- Su eficiencia está en el rango $35\sim 85\%$ 
+- Ball screws
+	- Utiliza bolas que recirculan a medida que se mueve la tuerca
+	- Poseen un backlash y fricción bajos -> Utilizados en control
+	- Su eficiencia está en el rango $85\sim 95\%$ 
+
+
+
+- _Pitch_ $(rev/in)$
+	- Revoluciones de la tuerca por pulgada recorrida (paso)
+- _Lead_ $(in/rev)$
+	- Pulgadas recorridas por revolución (avance)
+
+
+
 
 
 
