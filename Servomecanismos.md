@@ -220,7 +220,7 @@ $$
 
 Así mismo, se tiene el _amortiguador aparente_ ($B_{Ap}$), el cual representa la fricciónque siente el motor.
 
-![](attachments/Pasted%20image%2020230429223602.png)
+![](attachments/Pasted%20image%2020230429224515.png)
 
 $$
 \begin{align*}
@@ -228,10 +228,15 @@ $$
 \end{align*}
 $$
 
+De la misma forma, el _resorte aparente_ ($k_{Ap}$) es la elasticidad que siente el motor.
 
+![](attachments/Pasted%20image%2020230429224158.png)
 
-
-
+$$
+\begin{align*}
+	k_{Ap} = \frac{k_{L}}{N^{2}}
+\end{align*}
+$$
 
 
 
@@ -278,7 +283,7 @@ Se recomienda evitar acoples flexibles -> Susceptibles a la resonancia
 
 # TO DO
 
-- [ ] Videos
+- [x] Videos
 - [ ] Docs
 - [ ] Procesos de selección
 
