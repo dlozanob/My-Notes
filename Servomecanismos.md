@@ -553,7 +553,7 @@ $$
 Usando dos poleas del mismo radio y una correa, se puede generar movimiento traslacional (_drive-train_).
 Esta configuración es utilizada para aplicaciones que requieran una inercia baja y control de movimiento.
 
-De la misma forma que se obtiene la relación de transmisión para cremayera y piñón:
+De la misma forma que se obtiene la relación de transmisión para piñón y cremayera:
 
 $$
 \begin{align*}
@@ -596,6 +596,79 @@ $$
 
 
 ### Conveyor
+
+Un conveyor posee uno o múltiples rodillos (además del conductor), lo que permite correas más largas y cargas más pesadas.
+
+![](attachments/Pasted%20image%2020230430181559.png)
+
+Del mismo modo que se obtiene la relación de transmisión para piñón y cremayera:
+
+$$
+\begin{align*}
+	N_{CV} = \frac{1}{r_{DR}}
+\end{align*}
+$$
+
+Donde $r_{RD}$ es el radio del rodillo conductor (drive roller).
+
+
+Su inercia reflejada es:
+
+$$
+\begin{align*}
+	J_{\mathrm{Re}f}^{trans} = J_{DR} + J_{load\to in} + J_{belt\to in} + J_{IR\to in} + J_{BR\to in}
+\end{align*}
+$$
+
+- $J_{DR}$ : Inercia del rodillo conductor
+- $J_{load\to in}$ : Inercia de la carga
+- $J_{belt\to in}$ : Inercia de la correa
+- $J_{IR\to in}$ : Inercia del rodillo loco (idler roller)
+- $J_{BR}\to in$ : Inercia del rodillo trasero (back roller)
+
+![](attachments/Pasted%20image%2020230430182323.png)
+
+Se obtiene:
+
+$$
+\begin{align*}
+	J_{\mathrm{Re}f}^{trans} = J_{DR} + \frac{1}{\eta N^{2}_{CV}}\left( \frac{W_{L} + W_{belt}}{g} \right) + \frac{J_{IR}}{\eta\left( \frac{r_{IR}}{r_{DR}} \right)^{2}} + \frac{J_{BR}}{\eta\left( \frac{r_{BR}}{r_{DR}} \right)^{2}}
+\end{align*}
+$$
+
+Donde la relación de transmisión entre el idler roller y el drive roller es:
+
+$$
+\begin{align*}
+	N = \frac{r_{IR}}{r_{DR}}
+\end{align*}
+$$
+
+Análogamente, la relación de transmisión entre el back roller y el drive roller es:
+
+$$
+\begin{align*}
+	N = \frac{r_{BR}}{r_{DR}}
+\end{align*}
+$$
+
+Adicionalmente, el torque requerido del motor es:
+
+$$
+\begin{align*}
+	T_{load\to in} = \frac{F_{ext}}{\eta N_{CV}}
+\end{align*}
+$$
+
+Donde:
+
+$$
+\begin{align*}
+	F_{ext} = F_{p} + (W_{L} + W_{belt})(\sin\beta + )
+\end{align*}
+$$
+
+
 
 
 

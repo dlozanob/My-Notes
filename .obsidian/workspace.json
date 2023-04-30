@@ -147,7 +147,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"\"",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -177,6 +177,8 @@
   },
   "active": "6c178751232bf4d2",
   "lastOpenFiles": [
+    "attachments/Pasted image 20230430182323.png",
+    "attachments/Pasted image 20230430181559.png",
     "attachments/Pasted image 20230430181055.png",
     "attachments/Pasted image 20230430180817.png",
     "attachments/Pasted image 20230430175250.png",
@@ -186,10 +188,8 @@
     "attachments/Pasted image 20230430125645.png",
     "attachments/Pasted image 20230430100102.png",
     "attachments/Pasted image 20230430095715.png",
-    "attachments/Pasted image 20230430094239.png",
     "Excalidraw/whiteboard.excalidraw.md",
     "Servomecanismos.md",
-    "attachments/Pasted image 20230429224515.png",
     "LaTeX.md",
     "syntax.md",
     "Linked note.md",
