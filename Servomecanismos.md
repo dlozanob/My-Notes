@@ -273,14 +273,14 @@ La inercia total vista por el motor es:
 
 $$
 \begin{align*}
-	J_{total} = J_{m} + J_{C_{1}} + J_{\mathrm{Re}f}^{trans}
+	\boxed{J_{total} = J_{m} + J_{C} + J_{\mathrm{Re}f}^{trans}}
 \end{align*}
 $$
 
 Donde:
 - $J_{total}$ : Inercia total
 - $J_{m}$ : Inercia del motor
-- $J_{C_{1}}$ : Inercia del acoplador
+- $J_{C}$ : Inercia del acoplador
 - $J_{\mathrm{Re}f}^{trans}$ : Inercia reflejada
 
 ![](attachments/Pasted%20image%2020230430094239.png)
@@ -317,10 +317,33 @@ Siendo así, la relación de transmisión es:
 
 $$
 \begin{align*}
-	N_{BP} = \frac{\omega_{ip}}{\omega_{lp}}
+	N_{BP} = \frac{\omega_{ip}}{\omega_{lp}} = \frac{r_{lp}}{r_{ip}}
 \end{align*}
 $$
 
+![](attachments/Pasted%20image%2020230430100102.png)
+
+La inercia reflejada es:
+
+$$
+\begin{align*}
+	J_{\mathrm{Re}f}^{trans} &= J_{ip} + J_{belt \to in} + J_{lp \to in} + J_{load\to in} + J_{C_{2}\to in} \\\\
+	&= J_{ip} + \left( \frac{W_{belt}}{g\cdot \eta} \right)\cdot r_{p}^{2} + \frac{1}{\eta\cdot N^{2}_{BP}}(J_{lp} + J_{load} + J_{C_{2}})
+\end{align*}
+$$
+
+Donde:
+- $J_{ip}$ : Inercia de la polea de entrada
+- $J_{belt\to in}$ : Inercia de la correa
+- $J_{lp\to in}$ : Inercia de la polea de carga
+- $J_{}$
+
+
+Donde:
+- $J_{ip}$ : Inercia de la correa de entrada
+- $J_{load}$ : Inercia de carga
+- $J_{lp}$ : Inercia de la correa de carga
+- $J_{C}$ : Inercia del acoplador
 
 
 
