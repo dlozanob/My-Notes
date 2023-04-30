@@ -379,14 +379,9 @@ Donde:
 - $J_{C}$ : Inercia del acoplador
 
 
-
-
-
-
-
-
-
 ### Lead Screw
+
+
 
 
 
