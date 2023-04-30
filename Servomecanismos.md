@@ -285,6 +285,7 @@ Donde:
 
 ![](attachments/Pasted%20image%2020230430094239.png)
 
+Cada mecanismo tiene su respectivo factor de eficiencia $\eta$
 
 ### Gearbox
 
@@ -296,6 +297,13 @@ $$
 \end{align*}
 $$
 
+Donde la inercia aparente es:
+
+$$
+\begin{align*}
+	J_{\mathrm{Re}f}^{trans} = \frac{J_{L}}{\eta\cdot N^{2}}
+\end{align*}
+$$
 
 ### Pulley and Belt
 
@@ -327,23 +335,50 @@ La inercia reflejada es:
 
 $$
 \begin{align*}
-	J_{\mathrm{Re}f}^{trans} &= J_{ip} + J_{belt \to in} + J_{lp \to in} + J_{load\to in} + J_{C_{2}\to in} \\\\
-	&= J_{ip} + \left( \frac{W_{belt}}{g\cdot \eta} \right)\cdot r_{p}^{2} + \frac{1}{\eta\cdot N^{2}_{BP}}(J_{lp} + J_{load} + J_{C_{2}})
+	J_{\mathrm{Re}f}^{trans} = J_{ip} + J_{belt \to in} + J_{lp \to in} + J_{load\to in} + J_{C\to in}
 \end{align*}
 $$
 
 Donde:
 - $J_{ip}$ : Inercia de la polea de entrada
-- $J_{belt\to in}$ : Inercia de la correa
-- $J_{lp\to in}$ : Inercia de la polea de carga
-- $J_{}$
+- $J_{belt\to in}$ : Inercia de la correa vista por el motor
+- $J_{lp\to in}$ : Inercia de la polea de carga vista por el motor
+- $J_{load\to in}$ : Inercia de la carga vista por el motor
+- $J_{C\to in}$ : Inercia del acoplador vista por el motor
 
+La inercia de la correa se modela como una masa rotante de radio $r_{ip}$ :
+
+$$
+\begin{align*}
+	J_{belt\to in} &= \frac{m_{belt}\cdot r_{ip}^{2}}{2}\cdot \left( \frac{1}{\eta} \right) \\
+	&= \left( \frac{W_{belt}}{g\cdot \eta} \right)\cdot r_{ip}^{2}
+\end{align*}
+$$
+
+Además, la inercia aparente es $J_{Ap} = J_{lp\to in} + J_{load\to in} + J_{C\to in}$ :
+
+$$
+\begin{align*}
+	J_{Ap} &= \frac{J_{L}}{N^{2}}\cdot \left( \frac{1}{\eta} \right) \\\\
+	&= \frac{1}{\eta\cdot N_{BP}^{2}}(J_{lp} + J_{load} + J_{C})
+\end{align*}
+$$
+
+Entonces:
+
+$$
+\begin{align*}
+	J_{\mathrm{Re}f}^{trans} = J_{ip} + \left( \frac{W_{belt}}{g\cdot \eta} \right)\cdot r_{p}^{2} + \frac{1}{\eta\cdot N^{2}_{BP}}(J_{lp} + J_{load} + J_{C})
+\end{align*}
+$$
 
 Donde:
 - $J_{ip}$ : Inercia de la correa de entrada
-- $J_{load}$ : Inercia de carga
+- $J_{load}$ : Inercia de la carga
 - $J_{lp}$ : Inercia de la correa de carga
 - $J_{C}$ : Inercia del acoplador
+
+
 
 
 
