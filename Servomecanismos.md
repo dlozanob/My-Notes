@@ -255,6 +255,37 @@ Donde el momento de inercia del motor se refiere al de su propio rotor.
 Se requiere seleccionar el motor más pequeño posible que cumpla con las especificaciones de torque y velocidad angular.
 Para efectos prácticos, se sugiere: $IR \leq 5$
 
+Para mecanismos rígidos, los cuales no se deflectan significativamente, se puede considerar un $5 < IR < 10$. No obstante, para mecanismos con un STPM con poleas o correas, se recomienda mantener $IR$ con valores bajos debido a su flexibilidad.
+
+Los STPM pueden componerse de los siguientes mecanismos:
+- Juego de engranajes (Gearbox)
+- Polea y correa (Pulley and Belt)
+- Tornillo de avance y tornillo de bolas (Lead screw and ball screw)
+- Piñón y cremallera (Rack-and-Pinion)
+- Correa para movimiento lineal (Belt dirve for linear motion)
+- Banda transportadora (Conveyor)
+
+Cada uno de ellos tiene un $N$ asociado.
+
+### Inercia en los mecanismos de transmisión
+
+La inercia total vista por el motor es:
+
+$$
+\begin{align*}
+	J_{total} = J_{m} + J_{C_{1}} + J_{\mathrm{Re}f}^{trans}
+\end{align*}
+$$
+
+Donde:
+- $J_{total}$ : Inercia total
+- $J_{m}$ : Inercia del motor
+- $J_{C_{1}}$ : Inercia del acoplador
+- $J_{\mathrm{Re}f}^{trans}$ : Inercia 
+
+
+
+![](attachments/Pasted%20image%2020230430094239.png)
 
 
 
