@@ -475,8 +475,58 @@ $$
 
 ![](attachments/Pasted%20image%2020230430174036.png)
 
+Adicionalmente, el torque requerido por el motor es:
+
+$$
+\begin{align*}
+	T_{load\to in} = \frac{F_{ext}}{\eta N^{2}}
+\end{align*}
+$$
+
+Donde:
+
+$$
+\begin{align*}
+	F_{ext} &= F_{p} + F_{f} + F_{g} \\
+	&= F_{p} + (W_{L} + W_{C})(\sin\beta + \mu \cos\beta)
+\end{align*}
+$$
+
+- $F_{p}$ : Fuerza aplicada
+- $F_{f}$ : Fuerza de fricción
+- $F_{g}$ : Peso del carro
+
+![](attachments/Pasted%20image%2020230430175102.png)
+
+
+
 
 ### Rack and Pinion
+
+
+![](attachments/Pasted%20image%2020230430175250.png)
+
+$$
+\begin{align*}
+	V_{Rack} = r_{pinion}\cdot \omega_{pinion}
+\end{align*}
+$$
+
+Entonces:
+
+$$
+\begin{align*}
+	N_{RP} = \frac{1}{r_{pinion}}
+\end{align*}
+$$
+
+Ahora bien, la inercia reflejada es:
+
+$$
+\begin{align*}
+	J_{\mathrm{Re}f}^{trans} = J_{pinion} + J_{load\to in} + J_{carriage}
+\end{align*}
+$$
 
 
 
