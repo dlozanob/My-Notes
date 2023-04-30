@@ -145,6 +145,27 @@ Se debe de tener en cuenta el conjunto de normas e informes técnicos _IEC 61131
 ![](attachments/Pasted%20image%2020230424173518.png)
 
 
+## Cargas reflejadas
+
+El momento de inercia de un cuerpo es:
+
+$$
+\begin{align*}
+	J = \frac{m\cdot r^{2}}{2}
+\end{align*}
+$$
+
+Cuando se conecta el motor directamente al mecanismos, a esta configuración se le llama _direct drive_.
+
+En un sistema de tr
+
+
+![](attachments/Pasted%20image%2020230429212555.png)
+
+
+
+
+
 
 
 
