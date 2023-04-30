@@ -182,8 +182,16 @@ Para el diseño de dimensionamiento se pueden tomar dos caminos:
 - Considerar condiciones ideales y al final ajustar el cálculo con un factor de seguridad
 - Considerar la eficiencia asociada ($\eta$)
 
-Partiendo de la condición ideal $P_{s} = P$
+Partiendo de la condición ideal $P_{s} = P_{e}$, se obtiene:
 
+$$
+\begin{align*}
+	&\omega_{s}T_{s} = \omega_{e}T_{e} \\\\
+	&N = \frac{T_{s}}{T_{e}} = \frac{\omega_{e}}{\omega_{s}}
+\end{align*}
+$$
+
+Donde $N$ es la _relación de transmisión_ de potencia.
 
 
 
