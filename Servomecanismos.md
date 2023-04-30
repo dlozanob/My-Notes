@@ -178,9 +178,10 @@ $$
 >- Los mecanismos que poseen una mayor eficiencia están en el orden $95\sim 97\%$ y aquellos con una baja eficiencia pueden estar en el orden $40\sim 50\%$
 >- Los tornillos de transmisión de potencia son bastante eficientes, sin embargo, los mecanismos de piñón y cremallera poseen una baja eficiencia
 
-Para el diseño de dimensionamiento (_sizing_) se pueden tomar dos caminos:
-- Considerar condiciones ideales y al final ajustar el cálculo con un factor de seguridad
-- Considerar la eficiencia asociada ($\eta$)
+Hay 2 enfoques de diseño para el dimensionamiento (_sizing_):
+- Incorporar $\eta$ en el cálculo
+-  Dejar de lado $\eta$, se puede aplicar al final sobre el $T_{out}$ un $FS$ que recomendablemente $\geq 20\%$
+
 
 Partiendo de la condición ideal $P_{s} = P_{e}$, se obtiene:
 
@@ -218,7 +219,7 @@ $$
 \end{align*}
 $$
 
-Así mismo, se tiene el _amortiguador aparente_ ($B_{Ap}$), el cual representa la fricciónque siente el motor.
+Así mismo, se tiene el _amortiguador aparente_ ($B_{Ap}$), el cual representa la fricción que siente el motor.
 
 ![](attachments/Pasted%20image%2020230429224515.png)
 
@@ -239,24 +240,23 @@ $$
 $$
 
 
+## Mecanismos de transmisión
 
----
+La _relación de inercia_ ($IR$) es:
 
-# Clase
+$$
+\begin{align*}
+	IR = \frac{J_{Ap}}{J_{motor}}
+\end{align*}
+$$
 
-![](attachments/Pasted%20image%2020230413095045.png)
+Donde el momento de inercia del motor se refiere al de su propio rotor.
 
-
-Un perfil trapezoidal suave evita el problema de los jerks
-
-![](attachments/Pasted%20image%2020230413102650.png)
-
-![](attachments/Pasted%20image%2020230413104034.png)
-
----
+Se requiere seleccionar el motor más pequeño posible que cumpla con las especificaciones de torque y velocidad angular.
+Para efectos prácticos, se sugiere: $IR \leq 5$
 
 
-El momento de inercia del motor se refiere a su propio rotor.
+
 
 - Enfoques de movimiento:
 	- Newtoniano
@@ -269,16 +269,28 @@ $$
 \end{align*}
 $$
 
->[!Note]
->
-Hay 2 enfoques de diseño:
->- Incorporar $\eta$ en el cálculo
->-  Dejar de lado $\eta$, se puede aplicar al final sobre el $T_{out}$ un $FS$ que recomendablemente $\geq 20\%$
-
 
 En algunos casos existen 2 controladores, el de bajo rendimiento controla las operaciones y se las envía al de alto rendimiento para que este ejecute el algoritmo de control
 
 Se recomienda evitar acoples flexibles -> Susceptibles a la resonancia
+
+
+
+
+---
+
+## Perfiles de velocidad
+
+![](attachments/Pasted%20image%2020230413095045.png)
+
+
+Un perfil trapezoidal suave evita el problema de los jerks
+
+![](attachments/Pasted%20image%2020230413102650.png)
+
+![](attachments/Pasted%20image%2020230413104034.png)
+
+
 
 
 # TO DO
