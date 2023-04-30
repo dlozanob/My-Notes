@@ -446,12 +446,39 @@ $$
 \end{align*}
 $$
 
+Donde la masa $m$ es la masa total que se transporta:
 
+$$
+\begin{align*}
+	m = \frac{W_{L} + W_{C}}{g}
+\end{align*}
+$$
 
+- $W_{L}$ : Peso de la carga
+- $W_{C}$ : Peso del "carro" que transporta el tornillo
 
+Así mismo, la inercia reflejada es:
+
+$$
+\begin{align*}
+	J_{\mathrm{Re}f}^{trans} = J_{screw} + J_{load\to in} + J_{carriage\to in}
+\end{align*}
+$$
+
+Pero $J_{Ap} = J_{load\to in} + J_{carriage\to in}$, entonces:
+
+$$
+\begin{align*}
+	J_{\mathrm{Re}f}^{trans} = J_{screw} + \frac{1}{\eta\cdot N^{2}}\left( \frac{W_{L} + W_{C}}{g} \right)
+\end{align*}
+$$
+
+![](attachments/Pasted%20image%2020230430174036.png)
 
 
 ### Rack and Pinion
+
+
 
 
 
