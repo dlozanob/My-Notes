@@ -66,4 +66,29 @@ $$
 
 Tal que $\phi(\omega) = \sphericalangle H(j\omega)$ .
 
-Así mismo, el modelo del pasabandas toma la forma
+
+Así mismo, el modelo del pasabandas toma la forma:
+
+![](attachments/Pasted%20image%2020230501105449.png)
+
+El modelo del pasaaltas satisface:
+
+![](attachments/Pasted%20image%2020230501105602.png)
+
+
+
+## Filtro de Butterworth
+
+Reproduce la respuesta de la manera más plana posible hasta la frecuencia de corte. Después de esta, la respuesta se reduce con una razón de $20n\,\,dB$ por década ($n$: Número de polos del filtro).
+
+Su diagrama de Bode es el siguiente:
+
+![](attachments/Pasted%20image%2020230501110229.png)
+
+
+
+
+![](attachments/Pasted%20image%2020230501110614.png)
+
+
+
