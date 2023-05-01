@@ -1059,10 +1059,27 @@ $$
 \end{align*}
 $$
 
-Además:
+Además, la salida en estado estacionario es:
 
 $$
 \begin{align*}
-	y_{e} = aH_{f}(s)
+	y_{e} = aH_{f}(0)
+\end{align*}
+$$
+
+Por lo que $y_{e} = r(t) = a$.
+
+$$
+\begin{align*}
+	H_{f}(0) &= 1 \\
+	\frac{A(-2) (-8.5)}{6} &= 1
+\end{align*}
+$$
+
+Entonces la ganancia es:
+
+$$
+\begin{align*}
+	A = 
 \end{align*}
 $$
