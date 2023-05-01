@@ -120,6 +120,49 @@ quiver(X, Y, Vx, Vy); % Gráfica del campo vectorial
 
 ![](attachments/Pasted%20image%2020230416140833.png)
 
+Si la velocidad no cambiara en el tiempo, estas líneas serían la misma trayectoria.
+
+![](attachments/Pasted%20image%2020230501151041.png)
+
+Entonces:
+
+$$
+\begin{align*}
+	\frac{dy}{dx} = \frac{V_{y}}{V_{x}}
+\end{align*}
+$$
+
+---
+
+- __Ejemplo__ :
+
+Determinar una expresión para las líneas de corriente del campo de velocidades:
+
+$$
+\begin{align*}
+	\vec{v} = (0.5 + 0.8x)\hat{i} + (1.5 - 0.8y)\hat{j}
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	\frac{dy}{dx} = \frac{V_{y}}{V_{x}}\,\,\to\,\,\int \frac{dy}{1.5 - 0.8y} = \int  \, \frac{dx}{0.5 + 0.8x}
+\end{align*}
+$$
+
+Entonces:
+
+$$
+\begin{align*}
+	&-\ln(1.5 - 0.8y) = \ln(0.5 + 0.8x) + c \\
+	&\frac{1}{1.5 - 0.8y} = (0.5 + 0.8x)c \\\\
+	&y = \frac{0.75 + 1.2x + 1.5c}{0.64x + 0.4 + 0.8c} 
+\end{align*}
+$$
+
+
+
+
 
 
 

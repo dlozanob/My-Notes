@@ -13,6 +13,7 @@ tags: [excalidraw]
 8e3c42f2f229813bd162a32b7891da30a35729d0: [[attachments/Pasted Image 20230501140856_160.png]]
 b996fed8e07ec1bf915e2b1768c0b37455ac9bcc: [[attachments/Pasted Image 20230501141403_168.png]]
 95a7de7d0e88f3f2afcc35a4e2a56779d2f32465: [[attachments/Pasted Image 20230501141826_486.png]]
+1d64d4b94ea424e9c6de4ccc99b3045db57ba6de: [[attachments/Pasted Image 20230501151030_463.png]]
 
 %%
 # Drawing
@@ -113,6 +114,38 @@ b996fed8e07ec1bf915e2b1768c0b37455ac9bcc: [[attachments/Pasted Image 20230501141
 			"locked": false,
 			"status": "pending",
 			"fileId": "95a7de7d0e88f3f2afcc35a4e2a56779d2f32465",
+			"scale": [
+				1,
+				1
+			]
+		},
+		{
+			"id": "s4JDR03ITG2Yfl_hqmZPm",
+			"type": "image",
+			"x": 800.5,
+			"y": -111.17533718689793,
+			"width": 399.50000000000006,
+			"height": 260.17533718689793,
+			"angle": 0,
+			"strokeColor": "transparent",
+			"backgroundColor": "transparent",
+			"fillStyle": "cross-hatch",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 605836767,
+			"version": 13,
+			"versionNonce": 1974499007,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1682971838816,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "1d64d4b94ea424e9c6de4ccc99b3045db57ba6de",
 			"scale": [
 				1,
 				1
@@ -891,8 +924,8 @@ b996fed8e07ec1bf915e2b1768c0b37455ac9bcc: [[attachments/Pasted Image 20230501141
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": "bar",
 		"currentItemEndArrowhead": "bar",
-		"scrollX": 427.5314051990703,
-		"scrollY": 626.4916574047929,
+		"scrollX": 64.99345483245898,
+		"scrollY": 597.304280044769,
 		"zoom": {
 			"value": 0.6509663326593764
 		},
