@@ -212,6 +212,7 @@ $$
 \end{align*}
 $$
 
+
 ### Aproximación de Butterworth
 
 Una de las maneras de aproximar $F(\omega^{2})$ es hacer:
@@ -260,4 +261,27 @@ $$
 \end{align*}
 $$
 
+Estas raices se localizan en:
+
+$$
+\begin{align*}
+	s_{k} = e^{ j[(N+1)\pi + 2\pi k]\cdot \frac{1}{2N} }
+\end{align*}
+$$
+
+Y existen $2N - 1$ raices.
+
+Entonces:
+
+$$
+\begin{align*}
+	H(s) = \frac{1}{\prod_{k = 0}^{\frac{2N - 1}{2}} (s - s_{k})}
+\end{align*}
+$$
+
+---
+
+- __Ejemplo__ :
+	- $\alpha_{p} = 1  dB$
+	- $\alpha$
 
