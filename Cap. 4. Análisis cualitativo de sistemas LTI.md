@@ -943,7 +943,7 @@ $$
 >- Los cargadores AC->DC usan sistemas realimentados
 >- Un controlador proporcional usa una constante $k_{p}$
 
-Un problema típico en control es el de diseñar un controlador ($C(s)$) y una ganancia $A$, tal que, la salida de la _planta_ ($Y(s)$) siga a la _referencia_ $r(t)$.
+Un problema típico en control es el de diseñar un controlador $C(s)$ y una ganancia $A$, tal que, la salida de la _planta_ $y(t)$ siga a la _referencia_ $r(t)$.
 $P(s)$ es el proceso a controlar (velocidad, temperatura, etc).
 
 ---
@@ -960,5 +960,59 @@ $$
 
 El sistema es inestable.
 
-Se debe hallar un controlador $C(s)$
+Se debe hallar un controlador $C(s)$ y una ganancia $A$, tal que, la salida $y(t)$ siga una entrada del tipo paso:
 
+$$
+\begin{align*}
+	r(t) = a,\,\,t\geq 0
+\end{align*}
+$$
+
+Se comienza hallando un $C(s)$ que estabilice el sistema.
+
+En un primer instante, se propone un controlador proporcional:
+
+$$
+\begin{align*}
+	C(s) = k,\,\,k>0
+\end{align*}
+$$
+
+La función de transferencia del sistema es:
+
+$$
+\begin{align*}
+	H_{f}(s) &= A \frac{C(s)P(s)}{1 + C(s)P(s)} \\\\
+	&= A \frac{k \frac{s - 2}{(s + 0.5)(s - 1)}}{1 + k \frac{s - 2}{(s + 0.5)(s - 1)}} \\\\
+	&= A \frac{k(s - 2)}{s^{2} + (k - 0.5)s - 0.5 - 2k}
+\end{align*}
+$$
+
+Para que $H_{f}(s)$ sea estable:
+
+$$
+\begin{align*}
+	k - 0.5 &> 0\,\, \to\,\,k > 0.5 \\
+	0.5 + 2k &< 0\,\, \to\,\,k < -0.25
+\end{align*}
+$$
+
+Por tanto, $C(s)$ no puede ser un controlador proporcional.
+
+Ahora bien, se intenta con un controlador de la forma:
+
+$$
+\begin{align*}
+	C(s) = \frac{N_{1}s + N_{0}}{D_{1}s + D_{0}}
+\end{align*}
+$$
+
+Tal que, $N_{0}, N_{1}, D_{0}, D_{1} \in \mathrm{R}$.
+
+Entonces:
+
+$$
+\begin{align*}
+	H_{f}(s) = \frac{(N_{0}s + N_{1})(s - 2)}{(D_{1}s + D_{0})(s + 0.5)(s - 1) + (N_{1}s + N_{0})(s - 2)}
+\end{align*}
+$$
