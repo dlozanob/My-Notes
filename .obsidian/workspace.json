@@ -8,7 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f19a360f839f79d5",
+            "id": "6798b032742dc127",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/blackboard.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "d9f84344dc49b02e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,18 +28,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "6798b032742dc127",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md"
-              }
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -185,13 +186,13 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "f19a360f839f79d5",
+  "active": "d9f84344dc49b02e",
   "lastOpenFiles": [
     "Fundamentos de Mecánica de Fluidos.md",
-    "Estática de Fluidos.md",
-    "Cinemática de Fluidos.md",
-    "attachments/Pasted image 20230501141827.png",
     "Excalidraw/blackboard.excalidraw.md",
+    "Cinemática de Fluidos.md",
+    "Estática de Fluidos.md",
+    "attachments/Pasted image 20230501141827.png",
     "Excalidraw/attachments/Pasted Image 20230501141826_486.png",
     "attachments/Pasted image 20230501141411.png",
     "Excalidraw/attachments/Pasted Image 20230501141403_168.png",

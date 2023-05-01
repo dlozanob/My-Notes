@@ -74,9 +74,9 @@ $$
 $$
 
 
-Donde a $\frac{\partial \vec{v}}{\partial t}$ se le llama _derivada local_ y a $(\vec{v} \cdot  \vec{\nabla})\vec{v}$ se le llama _derivada convectiva_ o _derivada advectiva_.
+Donde a $\frac{\partial \vec{v}}{\partial t}$ se le llama _aceleración local_ y a $(\vec{v} \cdot  \vec{\nabla})\vec{v}$ se le llama _aceleración convectiva_ o _aceleración advectiva_.
 
-A la derivada total de una función vectorial:
+A la derivada total de una función:
 
 $$
 \begin{align*}
@@ -89,11 +89,36 @@ Se le conoce como _derivada material_.
 
 $$
 \begin{align*}
-	\frac{D}{Dt} = \frac{d}{dt} = \frac{\partial}{\partial t} + 
+	\frac{D}{Dt} = \frac{d}{dt} = \frac{\partial}{\partial t} + (\vec{v}\cdot \vec{\nabla})
+\end{align*}
+$$
+
+Análogamente, el campo de presión es:
+
+$$
+\begin{align*}
+	\frac{Dp}{Dt} = \underbrace{ \frac{\partial p}{\partial t} }_{ Derivada\,\,local } + \underbrace{ (\vec{v}\cdot \vec{\nabla})p }_{ Derivada\,\,convectiva }
 \end{align*}
 $$
 
 
+>[!Note]
+>- Un _fluido estacionario_ es aquel que su velocidad no cambia en el tiempo ($\frac{\partial \vec{v}}{\partial t} = 0$)
+>- Para graficar un campo vectorial en Matlab:
+```Matlab
+[X, Y] = meshgrid(<rangoX>, <rangoY>);
+Vx = ; % Definición del vector de velocidad en x
+Vy = ; % Definición del vector de velocidad en y
+quiver(X, Y, Vx, Vy); % Gráfica del campo vectorial
+ ```
+
+
+## Patrones de flujo y visualización del flujo
+
+- _Líneas de corriente_
+	- Son líneas tangentes al vector de velocidad en cada partícula para un solo instante de tiempo
+
+![](attachments/Pasted%20image%2020230416140833.png)
 
 
 
@@ -155,13 +180,6 @@ Tal que $a_{n} = \frac{V^{2}}{R}$. Donde $R$ es el radio de curvatura.
 
 
 
-- _Fluido estacionario_
-	- Su velocidad no cambia en el tiempo ($\frac{\partial \vec{v}}{\partial t} = 0$)
-
-- _Líneas de corriente_
-	- Son líneas tangentes al vector de velocidad en cada partícula. Se muestra la trayectoria que seguirían las partículas para distintos instantes de tiempo
-
-![](attachments/Pasted%20image%2020230416140833.png)
 
 - _Líneas de traza_
 	- Son líneas utilizadas en física para determinar la dirección y magnitud de un vector a lo largo del espacio vectorial
