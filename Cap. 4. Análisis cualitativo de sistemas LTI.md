@@ -4,9 +4,19 @@
 
 - Exactitud de la respuesta
 - _Tiempo de sobrepico_ ($T_{p}$) y _Sobrepico_ ($Sp$)
-- _Tiempo de establecimiento_ ($T$)
+- _Tiempo de establecimiento_ ($T_{e}$)
+
+![](attachments/Pasted%20image%2020230430190740.png)
+
+Donde $y_{rp}$ es el valor de establecimiento.
+
+
+### Tiempo de sobrepico y sobrepico
+
+El _sobrepico_ ($Sp$) se define como la diferencia porcentual entre el valor de establecimiento y el valor pico:
 
 $$\begin{align*}Sp = \frac{y_{max} - y_{rp}}{y_{rp}}*100\%\end{align*}$$
+
 
 La función de transferencia de un sistema de segundo orden es:
 
@@ -58,7 +68,7 @@ $$
 \end{align*}
 $$
 
-Siendo así, la expresión porcentual de sobrepico es:
+Siendo así, la expresión porcentual de sobrepico para un sistema de segundo orden es:
 
 $$
 \begin{align*}
@@ -67,12 +77,9 @@ $$
 $$
 
 
-
-
-
 - _Tiempo de establecimiento_ ($T_{e}$)
 	-   Es el tiempo que toma el sistema en llegar a su estado estacionario, donde su respuesta no difiere del 2% a su valor de estado estacionario
-	-   Dicho de otra manera, Te:∀ t>Te, 0.8⋅yrp≤y(t)≤1.02⋅yrp
+	-   Dicho de otra manera, $T_{e}:\forall$ $t > T_{e}$,  $0.98\cdot y_{rp} \leq y(t) \leq 1.02\cdot y_{rp}$
 	-   Algunos autores toman este margen como el $5\%$
 
 $$
@@ -80,10 +87,6 @@ $$
 	T_{e} = 4\tau = \frac{4}{|\alpha_{min}|}
 \end{align*}
 $$
-
-
-
-
 
 ## Polos y ceros
 

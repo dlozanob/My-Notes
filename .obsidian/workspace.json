@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cap. 4. Análisis cualitativo de sistemas LTI.md",
+                "file": "Linked note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cap. 4. Análisis cualitativo de sistemas LTI.md",
+                "file": "Linked note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cap. 4. Análisis cualitativo de sistemas LTI.md"
+                "file": "Linked note.md"
               }
             }
           },
@@ -187,10 +188,12 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "6c178751232bf4d2",
+  "active": "0815e764f22e3c74",
   "lastOpenFiles": [
-    "Linked note.md",
+    "Excalidraw/blackboard.excalidraw.md",
     "Cap. 4. Análisis cualitativo de sistemas LTI.md",
+    "Linked note.md",
+    "attachments/Pasted image 20230430190740.png",
     "Cap. 3. Solución de las ecuaciones de estado de sistemas LTI.md",
     "Señales y Sistemas II.md",
     "Servomecanismos.md",
@@ -203,11 +206,9 @@
     "attachments/Pasted image 20230430174036.png",
     "attachments/Pasted image 20230430125701.png",
     "attachments/Pasted image 20230430125645.png",
-    "attachments/Pasted image 20230430100102.png",
     "Excalidraw/whiteboard.excalidraw.md",
     "LaTeX.md",
     "syntax.md",
-    "Excalidraw/blackboard.excalidraw.md",
     "Fórmulas Financieras Excel.md",
     "conflict-files-obsidian-git.md",
     "Módulo 4.md",
