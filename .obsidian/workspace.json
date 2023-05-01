@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "32a6f87c93c059c9",
+            "id": "08f676fc295be617",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -28,8 +28,21 @@
                 "file": "Excalidraw/whiteboard.excalidraw.md"
               }
             }
+          },
+          {
+            "id": "9ad106e69eda82e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Señales y Sistemas II.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -91,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TO-DO.md",
+                "file": "Señales y Sistemas II.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TO-DO.md",
+                "file": "Señales y Sistemas II.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TO-DO.md"
+                "file": "Señales y Sistemas II.md"
               }
             }
           },
@@ -185,7 +198,7 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "6c178751232bf4d2",
+  "active": "9ad106e69eda82e5",
   "lastOpenFiles": [
     "Excalidraw/whiteboard.excalidraw.md",
     "TO-DO.md",
