@@ -11,8 +11,24 @@
             "id": "6c178751232bf4d2",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Cap. 4. Análisis cualitativo de sistemas LTI.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0815e764f22e3c74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linked note.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -77,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Cap. 4. Análisis cualitativo de sistemas LTI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Cap. 4. Análisis cualitativo de sistemas LTI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Cap. 4. Análisis cualitativo de sistemas LTI.md"
+              }
             }
           },
           {
@@ -169,6 +189,10 @@
   },
   "active": "6c178751232bf4d2",
   "lastOpenFiles": [
+    "Linked note.md",
+    "Cap. 4. Análisis cualitativo de sistemas LTI.md",
+    "Cap. 3. Solución de las ecuaciones de estado de sistemas LTI.md",
+    "Señales y Sistemas II.md",
     "Servomecanismos.md",
     "attachments/Pasted image 20230430182323.png",
     "attachments/Pasted image 20230430181559.png",
@@ -183,14 +207,11 @@
     "Excalidraw/whiteboard.excalidraw.md",
     "LaTeX.md",
     "syntax.md",
-    "Linked note.md",
     "Excalidraw/blackboard.excalidraw.md",
     "Fórmulas Financieras Excel.md",
     "conflict-files-obsidian-git.md",
-    "Cap. 4. Análisis cualitativo de sistemas LTI.md",
     "Módulo 4.md",
     "Finanzas.md",
-    "Señales y Sistemas II.md",
     "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
     "Señales y Sistemas I.md",
     "Tema 1. Infraestructura de los mercados financieros.md",
@@ -202,7 +223,6 @@
     "Análisis de velocidad.md",
     "Mecanismos.md",
     "balck.md",
-    "Cap. 3. Solución de las ecuaciones de estado de sistemas LTI.md",
     "Análisis de posición.md",
     "Excalidraw/attachments",
     "attachments",
