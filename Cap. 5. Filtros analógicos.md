@@ -19,6 +19,10 @@ Tipos de filtros:
 
 ![](attachments/Pasted%20image%2020230501103319.png)
 
+>[!Note]
+>- $\omega_{c}$ : Frecuencia de cruce
+>- Los filtros pasabandas se usan en equipos biomédicos, ya que, eliminan el ruido que se encuentra a ciertas frecuencias
+>- Los _State Variable Filters_ son chips que tienen varios computadores analógicos integrados (normalmente de $2^{nd}$ orden)
 
 ## Realización física de los filtros
 
@@ -326,4 +330,6 @@ $$
 \end{align*}
 $$
 
-Por tanto, un fi
+Por tanto, un filtro de Butterworth de orden $9$ cumple con las especificaciones requeridas.
+
+

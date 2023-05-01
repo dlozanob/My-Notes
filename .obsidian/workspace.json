@@ -4,28 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "8dfcc00626f0e7a8",
+        "id": "c05d30c6c093dddd",
         "type": "tabs",
         "children": [
           {
-            "id": "9ad106e69eda82e5",
+            "id": "ba3610f679e614ef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cap. 5. Filtros analógicos.md",
-                "mode": "source",
+                "file": "TO-DO.md",
+                "mode": "preview",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "08f676fc295be617",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md"
               }
             }
           }
@@ -91,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cap. 5. Filtros analógicos.md",
+                "file": "TO-DO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cap. 5. Filtros analógicos.md",
+                "file": "TO-DO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cap. 5. Filtros analógicos.md"
+                "file": "TO-DO.md"
               }
             }
           },
@@ -185,11 +175,13 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "9ad106e69eda82e5",
+  "active": "ba3610f679e614ef",
   "lastOpenFiles": [
-    "attachments/Pasted image 20230501121404.png",
     "Excalidraw/blackboard.excalidraw.md",
     "Cap. 5. Filtros analógicos.md",
+    "Señales y Sistemas II.md",
+    "Cap. 4. Análisis cualitativo de sistemas LTI.md",
+    "attachments/Pasted image 20230501121404.png",
     "attachments/Pasted image 20230501121359.png",
     "attachments/Pasted image 20230501121353.png",
     "Excalidraw/attachments/Pasted Image 20230501121351_888.png",
@@ -199,15 +191,12 @@
     "attachments/Pasted image 20230501110621.png",
     "attachments/Pasted image 20230501110614.png",
     "Excalidraw/attachments/Pasted Image 20230501110611_150.png",
-    "attachments/Pasted image 20230501110603.png",
     "LaTeX.md",
     "Excalidraw/whiteboard.excalidraw.md",
     "TO-DO.md",
-    "Señales y Sistemas II.md",
     "Cap. 1. Modelos de sistemas lineales y no lineales.md",
     "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
     "Cap. 3. Solución de las ecuaciones de estado de sistemas LTI.md",
-    "Cap. 4. Análisis cualitativo de sistemas LTI.md",
     "Main.md",
     "Tema 1. Infraestructura de los mercados financieros.md",
     "Linked note.md",

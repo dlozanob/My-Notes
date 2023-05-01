@@ -4,7 +4,7 @@
 ---
 
 - [ ] Señales
-	- [ ] Apuntes de filtros
+	- [x] Apuntes de filtros
 	- [ ] Ejercicios del parcial
 - [ ] Servos
 	- [ ] Repasar

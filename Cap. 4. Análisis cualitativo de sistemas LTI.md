@@ -942,6 +942,7 @@ $$
 >[!Info]
 >- Los cargadores AC->DC usan sistemas realimentados
 >- Un controlador proporcional usa una constante $k_{p}$
+>- En Matlab, `feedback` retorna el$H(S)$ del lazo cerrado. Acepta como entradas 2 parámetros: $H_{N}(s)$ total del numerador y $H_{D}(s)$ total del denominador
 
 Un problema típico en control es el de diseñar un controlador $C(s)$ y una ganancia $A$, tal que, la salida de la _planta_ $y(t)$ siga a la _referencia_ $r(t)$.
 $P(s)$ es el proceso a controlar (velocidad, temperatura, etc).
