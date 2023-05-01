@@ -555,7 +555,8 @@ En física, el concepto e estabilidad relaciona el estado de un cuerpo a lo larg
 ![](attachments/Pasted%20image%2020230501140011.png)
 
 En fluidos, se habla de:
-- _Estabilidad vertical_
+
+- _Estabilidad vertical_ : Se refiere a la traslación vertical de cuerpos en el fluido
 	- Estable
 		- Un cuerpo flotante
 	- Neutralmente estable
@@ -563,11 +564,28 @@ En fluidos, se habla de:
 		- Si se mueve dentro del fluido, este se quedará donde lo pongan
 	- Inestable
 		- Un cuerpo sumergido con una densidad promedio mayor a la del fluido
-		- Es inestable hasta que llega a la superficie y flot
-- _Estabilidad rotacional_
-	- 
+		- Es inestable hasta que llega a la superficie y flota
 
 
+El _centro de flotación_ se define como el punto donde actúa la fuerza de flotación. Este centro es el mismo centroide del volumen desplazado.
+
+- _Estabilidad rotacional_ : Se refiere a la rotación de los cuerpos en el fluido
+	- Neutralmente estable
+		- El centro de flotación es el mismo centro de masa
+ 
+	![](attachments/Pasted%20image%2020230501140905.png)
+	
+	 - Estable
+		 - El centro de flotación está por encima del centro de masa
+		 - Al rotarse el cuerpo, se genera un torque que reestituye esta posición
+
+	![](attachments/Pasted%20image%2020230501141411.png)
+
+	- Inestable
+		- El centro de flotación se encuentra por debajo del centro de masa
+		- Al aplicar una ínfima fuerza que rote el cuerpo, se generará un torque que haga rotar el objeto hasta estabilizarse
+
+	![](attachments/Pasted%20image%2020230501141827.png)
 
 
 ## Estática en cuerpos rígidos
@@ -679,6 +697,9 @@ $$
 	\boxed{z(r) = \frac{\omega^{2}r^{2}}{2g} + c}
 \end{align*}
 $$
+
+>[!Info]
+>En óptica, los espejos con menos aberraciones son los parabólicos. Así que, una aplicación de rotar un fluido es la de crear espejos de mercurio parabólicos al rotarlos
 
 ---
 
