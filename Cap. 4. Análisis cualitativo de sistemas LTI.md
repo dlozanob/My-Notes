@@ -927,3 +927,38 @@ No se pierde información y el sistema es estable (incluso ante pequeñas variac
 ## Ventajas de la realimentación
 
 
+Una configuración usada en sistemas de control es la realimentación unitaria.
+
+![](attachments/Pasted%20image%2020230430192830.png)
+
+Donde:
+
+$$
+\begin{align*}
+	\frac{Y(s)}{R(s)} = A\frac{C(s)P(s)}{1 + C(s)R(s)}
+\end{align*}
+$$
+
+>[!Info]
+>- Los cargadores AC->DC usan sistemas realimentados
+>- Un controlador proporcional usa una constante $k_{p}$
+
+Un problema típico en control es el de diseñar un controlador ($C(s)$) y una ganancia $A$, tal que, la salida de la _planta_ ($Y(s)$) siga a la _referencia_ $r(t)$.
+$P(s)$ es el proceso a controlar (velocidad, temperatura, etc).
+
+---
+
+- __Ejemplo__ :
+
+Consideremos una planta cuya función de transferencia es:
+
+$$
+\begin{align*}
+	P(s) = \frac{s - 2}{(s + 0.5)(s - 1)}
+\end{align*}
+$$
+
+El sistema es inestable.
+
+Se debe hallar un controlador $C(s)$
+
