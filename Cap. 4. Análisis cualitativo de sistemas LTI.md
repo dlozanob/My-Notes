@@ -1013,6 +1013,56 @@ Entonces:
 
 $$
 \begin{align*}
-	H_{f}(s) = \frac{(N_{0}s + N_{1})(s - 2)}{(D_{1}s + D_{0})(s + 0.5)(s - 1) + (N_{1}s + N_{0})(s - 2)}
+	H_{f}(s) &= \frac{(N_{0}s + N_{1})(s - 2)}{(D_{1}s + D_{0})(s + 0.5)(s - 1) + (N_{1}s + N_{0})(s - 2)} \\\\
+	&= \frac{(N_{0}s + N_{1})(s - 2)}{D_{1}s^{3} + (D_{0} - 0.5D_{1} + N_{1})s^{2} + (-0.5D_{1} - 0.5D_{0} - 2N_{1} + N_{0})s + (-0.5D_{0} - 2N_{0})} \\\\
+	&= \frac{N_{f}(s)}{D_{f}(s)}
+\end{align*}
+$$
+
+Estableciendo los polos en $s_{1} = -1, s_{2} = -2$ y $s_{3} = -3$ :
+
+$$
+\begin{align*}
+	D_{f}(s) &= (s + 1)(s + 2)(s + 3) \\
+	&= s^{3} + 6s^{2} + 11s + 6
+\end{align*}
+$$
+
+Entonces:
+
+$$
+\begin{align*}
+	D_{1} &= 1 \\
+	D_{0} - 0.5D_{1} + N_{1} &= 6 \\
+	-0.5D_{1} - 0.5D_{0} - 2N_{1} + N_{0} &= 11 \\
+	-0.5D_{0} - 2N_{0} &= 6
+\end{align*}
+$$
+
+Se halla:
+
+$$
+\begin{align*}
+	D_{0} = 22\\
+	D_{1} &= 1 \\
+	N_{0} &= -8.5 \\
+	N_{1} &= -15.5
+\end{align*}
+$$
+
+De tal manera que:
+
+$$
+\begin{align*}
+	C(s) &= \frac{-15.5s -8.5}{s + 22} \\\\
+	H_{f}(s) &= A\frac{(s - 2)(-15.5s - 8.5)}{s^{3} + 6s^{2} + 11s + 6}
+\end{align*}
+$$
+
+Además:
+
+$$
+\begin{align*}
+	y_{e} = aH_{f}(s)
 \end{align*}
 $$
