@@ -29,7 +29,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -91,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estática de Fluidos.md",
+                "file": "Excalidraw/blackboard.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Estática de Fluidos.md",
+                "file": "Excalidraw/blackboard.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estática de Fluidos.md"
+                "file": "Excalidraw/blackboard.excalidraw.md"
               }
             }
           },
@@ -185,11 +186,13 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "f19a360f839f79d5",
+  "active": "6798b032742dc127",
   "lastOpenFiles": [
-    "attachments/Pasted image 20230501133448.png",
-    "Excalidraw/blackboard.excalidraw.md",
     "Estática de Fluidos.md",
+    "Excalidraw/blackboard.excalidraw.md",
+    "attachments/Pasted image 20230501134624.png",
+    "attachments/Pasted image 20230501134031.png",
+    "attachments/Pasted image 20230501133448.png",
     "attachments/Pasted image 20230501133433.png",
     "attachments/Pasted image 20230501133414.png",
     "attachments/Pasted image 20230501133359.png",
@@ -202,9 +205,6 @@
     "Cap. 4. Análisis cualitativo de sistemas LTI.md",
     "attachments/Pasted image 20230501121404.png",
     "attachments/Pasted image 20230501121359.png",
-    "attachments/Pasted image 20230501121353.png",
-    "Excalidraw/attachments/Pasted Image 20230501121351_888.png",
-    "attachments/Pasted image 20230501121338.png",
     "LaTeX.md",
     "Excalidraw/whiteboard.excalidraw.md",
     "Cap. 1. Modelos de sistemas lineales y no lineales.md",

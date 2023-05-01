@@ -644,8 +644,9 @@ $$
 
 - __Ejemplo__ :
 
+Hallar $h_{c}$ .
 
-![](attachments/Pasted%20image%2020230501133448.png)
+![](attachments/Pasted%20image%2020230501134624.png)
 
 Se toma la sección:
 
@@ -655,6 +656,42 @@ Donde:
 
 $$
 \begin{align*}
-	dV = \pi(r + dr)^{2}z
+	dV &= \pi(r + dr)^{2}z - \pi r^{2}z \\
+	&= 2\pi r\cdot dr\cdot z + \cancel{ \pi\cdot dr^{2}z }^{0} \\
+	&= 2\pi rz\cdot dr
 \end{align*}
 $$
+
+$$
+\begin{align*}
+	V = \int _{0}^{R}2\pi rz \, dr
+\end{align*}
+$$
+
+Además:
+
+$$
+\begin{align*}
+	\int  \, dz &= \frac{\omega^{2}}{g}\int r \, dr \\\\
+	z_{2} &= \frac{\omega^{2}}{2g}(r_{2}^{2} - r_{1}^{2}) + z_{1}
+\end{align*}
+$$
+
+Entonces:
+
+$$
+\begin{align*}
+	V &= \int _{0}^{R} 2\pi r \left( \frac{\omega^{2}}{2g}r^{2} + h_{c} \right) \, dr \\\\
+	&= \frac{\pi\omega^{2}}{4g}R^{4} + \pi h_{c}R^{2}
+\end{align*}
+$$
+
+El volumen en cualquier momento debe ser igual al original:
+
+$$
+\begin{align*}
+	&\frac{\pi\omega^{2}}{4g}R^{4} + \pi h_{c}R^{2} = \pi R^{2}h_{0} \\\\
+	&h_{c} = h_{0} - \frac{\omega^{2}R^{2}}{4g}
+\end{align*}
+$$
+
