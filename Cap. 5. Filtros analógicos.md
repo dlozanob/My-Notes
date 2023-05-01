@@ -240,5 +240,24 @@ Magnitud de los filtros de Butterworth:
 
 ![](attachments/Pasted%20image%2020230501121404.png)
 
+A medida que el orden $N$ de $H(s)$ aumenta, la respuesta es más plana. 
+
+Los polos están en:
+
+$$
+\begin{align*}
+	&1 + F(\omega^{2}) = 1 + \omega^{2N} = 1 + (-s)^{2N} = 0 \\
+	&(-1)^{N}s^{2N} = -1
+\end{align*}
+$$
+
+Resolviendo:
+
+$$
+\begin{align*}
+	&s^{2N} = -(-1)^{N} = (-1)^{N+1} \\\\
+	&s^{2N} = e^{ j[(N + 1)\pi + 2\pi k] }
+\end{align*}
+$$
 
 
