@@ -40,7 +40,7 @@ Para ser realizado físicamente, el filtro debe aproximarse. El modelo tendrá l
 
 Al intervalo $\omega_{s} - \omega_{p}$ se le llama banda de transición.
 
-- _Rizado de la banda de paso_ :
+- _Rizado de la banda de paso_ ($\alpha_{p}$)
 
 $$
 \begin{align*}
@@ -48,7 +48,7 @@ $$
 \end{align*}
 $$
 
-- _Atenuación en la banda de rechazo_ 
+- _Atenuación en la banda de rechazo_  ($\alpha_{s}$)
 
 $$
 \begin{align*}
@@ -56,7 +56,7 @@ $$
 \end{align*}
 $$
 
-- _Retardo de grupo_ 
+- _Retardo de grupo_ ($T_{d}$)
 
 $$
 \begin{align*}
@@ -77,7 +77,7 @@ El modelo del pasaaltas satisface:
 
 
 
-## Filtro de Butterworth
+## Filtros de Butterworth
 
 Reproduce la respuesta de la manera más plana posible hasta la frecuencia de corte. Después de esta, la respuesta se reduce con una razón de $20n\,\,dB$ por década ($n$: Número de polos del filtro).
 
@@ -85,10 +85,50 @@ Su diagrama de Bode es el siguiente:
 
 ![](attachments/Pasted%20image%2020230501110229.png)
 
+Para el diseño de este pasabajos, se considera su función de transferencia:
+
+$$
+\begin{align*}
+	H(s) = \frac{1}{\prod_{k = 1}^{n} (s - s_{k}) \cdot\frac{1}{\omega_{c}}}
+\end{align*}
+$$
+
+Donde:
+
+$$
+\begin{align*}
+	s_{k} = \omega_{c}e^{ \frac{j(2kn - 1)\pi}{2n} }
+\end{align*}
+$$
+
+$\omega_{c}$ es la frecuencia de corte.
 
 
+Los filtros de Butterworth pueden ser también pasabandas:
 
-![](attachments/Pasted%20image%2020230501110614.png)
+![](attachments/Pasted%20image%2020230501110635.png)
 
+
+## Diseño de filtros
+
+Características ideales:
+- Rizado pequeño
+- Atenuación grande en la banda de rechazo
+- Banda de transición pequeña
+- Implementación simple (orden pequeño)
+
+>[!Note]
+>Estos objetivos son mutuamente conflictivos
+
+Procedimiento:
+1. Especificación
+	- Se especifican los parámetros: $\alpha_{s}, \alpha_{p}, \omega_{s}, \omega_{p}$ .
+2. Normalización
+	- Se multiplican los parámetros por un factor $k$, tal que, $k\cdot\omega_{s} = 1$
+	- Se hace con el objetivo de facilitar los cálculos
+1. Aproximación
+	- 
+1. Realización
+2. Desnormalización
 
 
