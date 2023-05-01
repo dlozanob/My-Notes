@@ -139,11 +139,15 @@ Procedimiento:
 
 - __Ejemplo__ :
 
+Se tiene el filtro ideal:
+
 $$
 \begin{align*}
 	H(s) = \frac{s + 2}{s^{3} + 2s^{2} + 2s + 3}
 \end{align*}
 $$
+
+Sse debe hallar un $H(s)$ que la aproxime.
 
 Se halla el $|H(j\omega)|$ que satisface las especificaciones:
 
@@ -183,6 +187,38 @@ Se debe cumplir:
 - Si $\lambda$ es raiz de $P(-s^{2})$ o $Q(-s^{2})$ entonces $-\lambda$ también lo es
 - Los polos y ceros de $M(-s^{2})$ son simétricos con respecto a los ejes
 
+>[!Note]
+>- $\bar{M}(\omega)$ debe ser propia y solo contener potencias pares de $\omega$
+
+Al final, se toman las raices de $\bar{M}(\omega)$ que se encuentran en el semiplano izquierdo, siendo así, la función formada por estos ceros y polos será la función de transferencia del filtro $H(s)$ .
 
 
+### Aproximación de un  pasabajas
+
+Se debe buscar un función tal que:
+
+$$
+\begin{align*}
+	M(\omega^{2}) = \frac{A_{0}}{1 + F(\omega^{2})}
+\end{align*}
+$$
+
+De tal manera que:
+
+$$
+\begin{align*}
+	&F(\omega^{2}) \ll 1\,\,\to\,\,0<\omega<\omega_{s} \\
+	&F(\omega^{2}) \gg 1\,\,\to\,\,\omega > \omega_{p}
+\end{align*}
+$$
+
+### Aproximación de Butterworth
+
+Una de las maneras de aproximar $F(\omega^{2})$ es hacer:
+
+$$
+\begin{align*}
+	F(\omega^{2}) = \omega^{2N}
+\end{align*}
+$$
 
