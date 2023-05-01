@@ -1043,7 +1043,7 @@ Se halla:
 
 $$
 \begin{align*}
-	D_{0} = 22\\
+	D_{0} &= 22\\
 	D_{1} &= 1 \\
 	N_{0} &= -8.5 \\
 	N_{1} &= -15.5
@@ -1080,6 +1080,9 @@ Entonces la ganancia es:
 
 $$
 \begin{align*}
-	A = 
+	A = 0.3529
 \end{align*}
 $$
+
+Siendo así, se completa el diseño del sistema de control.
+
