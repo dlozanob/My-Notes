@@ -58,7 +58,38 @@ Sustituyendo:
 
 $$
 \begin{align*}
-	\vec{a}_{part} (t) = \frac{\partial \vec{v}}{\partial t}
+	\vec{a}_{part} (t) &= \frac{\partial \vec{v}}{\partial t} + \frac{\partial \vec{v}}{\partial x_{part}}\cdot \frac{dx_{part}}{dt} + \frac{\partial \vec{v}}{\partial y_{part}}\cdot \frac{dy_{part}}{dt} + \frac{\partial \vec{v}}{\partial z_{part}}\cdot \frac{dz_{part}}{dt}  \\\\
+	&= \frac{\partial \vec{v}}{\partial t} + \frac{\partial \vec{v}}{\partial x_{part}}v_{x} + \frac{\partial \vec{v}}{\partial y_{part}}v_{y} + \frac{\partial \vec{v}}{\partial z_{part}}v_{z} \\\\
+	&= \frac{\partial \vec{v}}{\partial t} + (v_{x}, v_{y}, v_{z})\cdot (\partial_{x}, \partial_{y}, \partial z)\vec{v} \\\\
+	&= \frac{\partial \vec{v}}{\partial t} + (\vec{v}\cdot \vec{\nabla})\vec{v}
+\end{align*}
+$$
+
+Siendo así, el campo de aceleraciones se puede describir como:
+
+$$
+\begin{align*}
+	\boxed{\vec{a}(x, y, z, t) = \frac{\partial \vec{v}}{\partial t} + (\vec{v}\cdot \vec{\nabla})\vec{v}}
+\end{align*}
+$$
+
+
+Donde a $\frac{\partial \vec{v}}{\partial t}$ se le llama _derivada local_ y a $(\vec{v} \cdot  \vec{\nabla})\vec{v}$ se le llama _derivada convectiva_ o _derivada advectiva_.
+
+A la derivada total de una función vectorial:
+
+$$
+\begin{align*}
+	\vec{F}(x, y, z, t)
+\end{align*}
+$$
+
+Donde $x, y$ y $z$ dependen de $t$ .
+Se le conoce como _derivada material_.
+
+$$
+\begin{align*}
+	\frac{D}{Dt} = \frac{d}{dt} = \frac{\partial}{\partial t} + 
 \end{align*}
 $$
 
