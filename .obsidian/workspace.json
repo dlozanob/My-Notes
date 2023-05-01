@@ -8,14 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ba3610f679e614ef",
+            "id": "f19a360f839f79d5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TO-DO.md",
-                "mode": "preview",
+                "file": "Estática de Fluidos.md",
+                "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "6798b032742dc127",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/blackboard.excalidraw.md"
               }
             }
           }
@@ -81,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TO-DO.md",
+                "file": "Estática de Fluidos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TO-DO.md",
+                "file": "Estática de Fluidos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TO-DO.md"
+                "file": "Estática de Fluidos.md"
               }
             }
           },
@@ -175,9 +185,18 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "ba3610f679e614ef",
+  "active": "f19a360f839f79d5",
   "lastOpenFiles": [
+    "attachments/Pasted image 20230501133448.png",
     "Excalidraw/blackboard.excalidraw.md",
+    "Estática de Fluidos.md",
+    "attachments/Pasted image 20230501133433.png",
+    "attachments/Pasted image 20230501133414.png",
+    "attachments/Pasted image 20230501133359.png",
+    "attachments/Pasted image 20230501133336.png",
+    "attachments/Pasted image 20230501133321.png",
+    "Fundamentos de Mecánica de Fluidos.md",
+    "TO-DO.md",
     "Cap. 5. Filtros analógicos.md",
     "Señales y Sistemas II.md",
     "Cap. 4. Análisis cualitativo de sistemas LTI.md",
@@ -186,14 +205,8 @@
     "attachments/Pasted image 20230501121353.png",
     "Excalidraw/attachments/Pasted Image 20230501121351_888.png",
     "attachments/Pasted image 20230501121338.png",
-    "attachments/Pasted image 20230501110635.png",
-    "attachments/Pasted image 20230501110630.png",
-    "attachments/Pasted image 20230501110621.png",
-    "attachments/Pasted image 20230501110614.png",
-    "Excalidraw/attachments/Pasted Image 20230501110611_150.png",
     "LaTeX.md",
     "Excalidraw/whiteboard.excalidraw.md",
-    "TO-DO.md",
     "Cap. 1. Modelos de sistemas lineales y no lineales.md",
     "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
     "Cap. 3. Solución de las ecuaciones de estado de sistemas LTI.md",
@@ -210,8 +223,6 @@
     "Tema 3. Introducción a los mercados de capitales.md",
     "Electrónica Digital II.md",
     "Principios de Estática.md",
-    "Ingeniería Electrónica.md",
-    "Análisis de velocidad.md",
     "Excalidraw/attachments",
     "attachments",
     "New folder",

@@ -640,3 +640,21 @@ $$
 \end{align*}
 $$
 
+---
+
+- __Ejemplo__ :
+
+
+![](attachments/Pasted%20image%2020230501133448.png)
+
+Se toma la sección:
+
+![](attachments/Pasted%20image%2020230501133433.png)
+
+Donde:
+
+$$
+\begin{align*}
+	dV = \pi(r + dr)^{2}z
+\end{align*}
+$$
