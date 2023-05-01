@@ -9,8 +9,8 @@
 - [ ] Servos
 	- [ ] Repasar
 	- [ ] Servomotor sizing
-- [ ] Fluidos
-	- [ ] Apuntes
+- [x] Fluidos
+	- [x] Apuntes
 - [ ] Digital
 	- [ ] Apuntes
 	- [ ] Módulo i2s

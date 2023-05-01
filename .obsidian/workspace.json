@@ -4,33 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "c05d30c6c093dddd",
+        "id": "df01e234d8c94445",
         "type": "tabs",
         "children": [
           {
-            "id": "6798b032742dc127",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "d9f84344dc49b02e",
+            "id": "b910bc7cf2286187",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cinemática de Fluidos.md",
-                "mode": "source",
+                "file": "Mecanismos.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cinemática de Fluidos.md",
+                "file": "Mecanismos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cinemática de Fluidos.md",
+                "file": "Mecanismos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cinemática de Fluidos.md"
+                "file": "Mecanismos.md"
               }
             }
           },
@@ -186,24 +175,23 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "d9f84344dc49b02e",
+  "active": "b910bc7cf2286187",
   "lastOpenFiles": [
-    "attachments/Pasted image 20230501152946.png",
-    "Excalidraw/blackboard.excalidraw.md",
-    "Excalidraw/attachments/Pasted Image 20230501152930_728.png",
+    "TO-DO.md",
     "Cinemática de Fluidos.md",
-    "attachments/Pasted image 20230501151041.png",
-    "attachments/Pasted image 20230501151031.png",
-    "Excalidraw/attachments/Pasted Image 20230501151030_463.png",
+    "Excalidraw/blackboard.excalidraw.md",
+    "attachments/Pasted image 20230501154058.png",
+    "attachments/Pasted image 20230501154050.png",
+    "Excalidraw/attachments/Pasted Image 20230501154049_281.png",
+    "attachments/Pasted image 20230501153841.png",
+    "Excalidraw/attachments/Pasted Image 20230501153840_694.png",
+    "attachments/Pasted image 20230501153820.png",
+    "Excalidraw/attachments/Pasted Image 20230501153819_248.png",
+    "attachments/Pasted image 20230501153811.png",
+    "attachments/Pasted image 20230501152946.png",
+    "Excalidraw/attachments/Pasted Image 20230501152930_728.png",
     "Fundamentos de Mecánica de Fluidos.md",
     "Estática de Fluidos.md",
-    "attachments/Pasted image 20230501141827.png",
-    "Excalidraw/attachments/Pasted Image 20230501141826_486.png",
-    "attachments/Pasted image 20230501141411.png",
-    "Excalidraw/attachments/Pasted Image 20230501141403_168.png",
-    "attachments/Pasted image 20230501141332.png",
-    "Excalidraw/attachments/Pasted Image 20230501141311_909.png",
-    "TO-DO.md",
     "Cap. 5. Filtros analógicos.md",
     "Señales y Sistemas II.md",
     "Cap. 4. Análisis cualitativo de sistemas LTI.md",

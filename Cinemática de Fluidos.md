@@ -203,17 +203,25 @@ Si el fluido no es estacionario, se tendrían que considerar las velocidades en 
 	- Son líneas utilizadas en física para determinar la dirección y magnitud de un vector a lo largo del espacio vectorial
 	- El vector puede representar cualquier variable
 	- La línea de traza es tangente a la dirección de los vectores
+	- Son el lugar geométrico de las partículas del fluido que han pasado de manera secuencial por un punto
 
 ![](attachments/Pasted%20image%2020230416141532.png)
 
+![](attachments/Pasted%20image%2020230501153820.png)
+
+![](attachments/Pasted%20image%2020230501153841.png)
 
 
 >[!Note]
->Para fluidos estacionarios estas líneas son las mismas
+>Para fluidos estacionarios, las líneas de corriente, las líneas de trayectoria y las líneas de traza son las mismas
 
 
+- _Líneas fluidas_
+	- Una línea fluida es el conjunto de partículas adyacentes de fluido que se marcaron en el mismo instante
 
+![](attachments/Pasted%20image%2020230501154058.png)
 
+---
 
 Las _coordenadas de líneas de corriente_ toman un sistema de referencia relativo a cada posición de una partícula. Sus componentes son una normal ($\hat{n}$) y una tangencial ($\hat{s}$).
 
@@ -226,20 +234,6 @@ $$
 	\vec{a} = \frac{D\vec{v}}{Dt} = a_{s}\hat{s} + a_{n}\hat{n}
 \end{align*}
 $$
-
-
-Sea una función vectorial F(x,y,z,t), se define la _derivada material_ como:
-
-
-
-$$
-\begin{align*}
-	\frac{DF}{Dt} &= \frac{\partial F}{\partial t} + u \frac{\partial F}{\partial x} + v \frac{\partial F}{\partial y} + w \frac{\partial F}{\partial z} \\
-	&= \frac{\partial F}{\partial t} + (\vec{v} \cdot  \vec{\nabla})F
-\end{align*}
-$$
-
-Donde a $\frac{\partial F}{\partial t}$ se le llama _derivada local_ y a $(\vec{v} \cdot  \vec{\nabla})F$ se le llama _derivada convectiva_.
 
 
 Sabiendo que $\vec{v} = v\hat{s}$ entonces:
