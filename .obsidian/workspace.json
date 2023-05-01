@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "0815e764f22e3c74",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linked note.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linked note.md",
+                "file": "Cap. 4. Análisis cualitativo de sistemas LTI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linked note.md",
+                "file": "Cap. 4. Análisis cualitativo de sistemas LTI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linked note.md"
+                "file": "Cap. 4. Análisis cualitativo de sistemas LTI.md"
               }
             }
           },
@@ -188,11 +175,11 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "0815e764f22e3c74",
+  "active": "6c178751232bf4d2",
   "lastOpenFiles": [
+    "Linked note.md",
     "Excalidraw/blackboard.excalidraw.md",
     "Cap. 4. Análisis cualitativo de sistemas LTI.md",
-    "Linked note.md",
     "attachments/Pasted image 20230430190740.png",
     "Cap. 3. Solución de las ecuaciones de estado de sistemas LTI.md",
     "Señales y Sistemas II.md",

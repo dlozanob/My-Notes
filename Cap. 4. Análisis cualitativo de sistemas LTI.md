@@ -925,3 +925,5 @@ No se pierde información y el sistema es estable (incluso ante pequeñas variac
 
 
 ## Ventajas de la realimentación
+
+
