@@ -127,7 +127,8 @@ Procedimiento:
 	- Se multiplican los parámetros por un factor $k$, tal que, $k\cdot\omega_{s} = 1$
 	- Se hace con el objetivo de facilitar los cálculos
 3. Aproximación
-	- Encontrar un $|H(j\omega)|)$ que satisfaga las especificaciones propuestas
+	- Encontrar un $|H(j\omega)|$ que satisfaga las especificaciones propuestas
+	- Normalmente se trabaja con $|H(j\omega)|^{2}$ por facilidad en los cálculos
 	- Encontrar un $H(s)$, tal que, $|H(s)| = |H(j\omega)|$
 4. Realización (síntesis)
 	- Se diseña el circuito con operacionales que implemente $H(s)$
@@ -144,7 +145,7 @@ $$
 \end{align*}
 $$
 
-
+Se halla el $|H(j\omega)|$ que satisface las especificaciones:
 
 $$
 \begin{align*}
@@ -152,10 +153,9 @@ $$
 \end{align*}
 $$
 
-
 $$
 \begin{align*}
-	|H(j\omega)|^{2} = M(\omega) = \frac{\omega^{2} + 4}{\omega^{6} - 8\omega^{2} + 9}
+	|H(j\omega)|^{2} = \bar{M}(\omega) = \frac{\omega^{2} + 4}{\omega^{6} - 8\omega^{2} + 9}
 \end{align*}
 $$
 
@@ -163,9 +163,26 @@ Se debe encontrar un $H(s)$ tal que:
 
 $$
 \begin{align*}
-	M(\omega) = H(s)H(-s)
+	M(\omega) = |H(s)|^{2} = H(s)H(-s)\biggr\rvert_{s = j\omega} = \frac{N(s)}{D(s)}\cdot \frac{N(-s)}{D(-s)}\biggr\rvert_{s = j\omega}
 \end{align*}
 $$
+
+Para que $|H(s)|^{2}$ sea factorizable en $H(s)\cdot H(-s)$ , debe ser racional en $\omega^{2}$ :
+
+$$
+\begin{align*}
+	\bar{M}(\omega) = M(\omega^{2}) = \frac{P(\omega^{2})}{Q(\omega^{2})}
+\end{align*}
+$$
+
+>[!Note]
+>$M(\omega^{2}) = M(-s^{2})$ 
+
+Se debe cumplir:
+- $P(-s^{2})$ y $Q(-s^{2})$ son polinomios pares de $s$
+- Si $\lambda$ es raiz de $P(-s^{2})$ o $Q(-s^{2})$ entonces $-\lambda$ también lo es
+- Los polos y ceros de $M(-s^{2})$ son simétricos con respecto a los ejes
+
 
 
 
