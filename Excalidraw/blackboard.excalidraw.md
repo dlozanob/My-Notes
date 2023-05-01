@@ -10,10 +10,7 @@ tags: [excalidraw]
 # Text Elements
 
 # Embedded files
-8e3c42f2f229813bd162a32b7891da30a35729d0: [[attachments/Pasted Image 20230501140856_160.png]]
-b996fed8e07ec1bf915e2b1768c0b37455ac9bcc: [[attachments/Pasted Image 20230501141403_168.png]]
-95a7de7d0e88f3f2afcc35a4e2a56779d2f32465: [[attachments/Pasted Image 20230501141826_486.png]]
-1d64d4b94ea424e9c6de4ccc99b3045db57ba6de: [[attachments/Pasted Image 20230501151030_463.png]]
+6de57e3f682a2df17bca143eacb294486f898cf9: [[attachments/Pasted Image 20230501152930_728.png]]
 
 %%
 # Drawing
@@ -23,6 +20,38 @@ b996fed8e07ec1bf915e2b1768c0b37455ac9bcc: [[attachments/Pasted Image 20230501141
 	"version": 2,
 	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.8.21",
 	"elements": [
+		{
+			"id": "IbB7DJ2_2Ptn3X5SD-4bm",
+			"type": "image",
+			"x": 280,
+			"y": -140,
+			"width": 460,
+			"height": 285.703125,
+			"angle": 0,
+			"strokeColor": "transparent",
+			"backgroundColor": "transparent",
+			"fillStyle": "cross-hatch",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 895037503,
+			"version": 18,
+			"versionNonce": 1216855423,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1682972969396,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "6de57e3f682a2df17bca143eacb294486f898cf9",
+			"scale": [
+				1,
+				1
+			]
+		},
 		{
 			"id": "sPhF7vOTV-rqpfDx3iRN0",
 			"type": "image",
@@ -41,11 +70,11 @@ b996fed8e07ec1bf915e2b1768c0b37455ac9bcc: [[attachments/Pasted Image 20230501141
 			"groupIds": [],
 			"roundness": null,
 			"seed": 1370402481,
-			"version": 62,
-			"versionNonce": 1289100209,
-			"isDeleted": false,
+			"version": 63,
+			"versionNonce": 1689314303,
+			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1682968462436,
+			"updated": 1682972965529,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -73,11 +102,11 @@ b996fed8e07ec1bf915e2b1768c0b37455ac9bcc: [[attachments/Pasted Image 20230501141
 			"groupIds": [],
 			"roundness": null,
 			"seed": 2044147281,
-			"version": 108,
-			"versionNonce": 2102173393,
-			"isDeleted": false,
+			"version": 109,
+			"versionNonce": 641638257,
+			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1682968449233,
+			"updated": 1682972965529,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -105,11 +134,11 @@ b996fed8e07ec1bf915e2b1768c0b37455ac9bcc: [[attachments/Pasted Image 20230501141
 			"groupIds": [],
 			"roundness": null,
 			"seed": 2058592255,
-			"version": 27,
-			"versionNonce": 917595583,
-			"isDeleted": false,
+			"version": 28,
+			"versionNonce": 1511132191,
+			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1682968705221,
+			"updated": 1682972965529,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -137,11 +166,11 @@ b996fed8e07ec1bf915e2b1768c0b37455ac9bcc: [[attachments/Pasted Image 20230501141
 			"groupIds": [],
 			"roundness": null,
 			"seed": 605836767,
-			"version": 13,
-			"versionNonce": 1974499007,
-			"isDeleted": false,
+			"version": 14,
+			"versionNonce": 284920145,
+			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1682971838816,
+			"updated": 1682972965529,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -924,8 +953,8 @@ b996fed8e07ec1bf915e2b1768c0b37455ac9bcc: [[attachments/Pasted Image 20230501141
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": "bar",
 		"currentItemEndArrowhead": "bar",
-		"scrollX": 64.99345483245898,
-		"scrollY": 597.304280044769,
+		"scrollX": 390.66313906009293,
+		"scrollY": 592.6957467773968,
 		"zoom": {
 			"value": 0.6509663326593764
 		},

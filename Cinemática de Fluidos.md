@@ -115,7 +115,7 @@ quiver(X, Y, Vx, Vy); % Gráfica del campo vectorial
 
 ## Patrones de flujo y visualización del flujo
 
-- _Líneas de corriente_
+- _Líneas de corriente (streamlines)_
 	- Son líneas tangentes al vector de velocidad en cada partícula para un solo instante de tiempo
 
 ![](attachments/Pasted%20image%2020230416140833.png)
@@ -125,6 +125,14 @@ Si la velocidad no cambiara en el tiempo, estas líneas serían la misma trayect
 ![](attachments/Pasted%20image%2020230501151041.png)
 
 Entonces:
+
+$$
+\begin{align*}
+	\frac{dr}{V} = \frac{dx}{V_{x}} = \frac{dy}{V_{y}} = \frac{dz}{V_{z}}
+\end{align*}
+$$
+
+Para una línea de corriente en el plano:
 
 $$
 \begin{align*}
@@ -155,12 +163,53 @@ Entonces:
 $$
 \begin{align*}
 	&-\ln(1.5 - 0.8y) = \ln(0.5 + 0.8x) + c \\
-	&\frac{1}{1.5 - 0.8y} = (0.5 + 0.8x)c \\\\
-	&y = \frac{0.75 + 1.2x + 1.5c}{0.64x + 0.4 + 0.8c} 
+	&\frac{1}{1.5 - 0.8y} = (0.5 + 0.8x)e^{ c } \\\\
+	&y = \frac{0.75 + 1.2x + 1.5}{0.64x + 0.4 + 0.8}\cdot C 
 \end{align*}
 $$
 
+>[!Note]
+>En Matlab `streamslice(x, y, u, v)` genera las líneas de corriente
 
+---
+
+
+- _Tubos de corriente_
+	- Son superficies formadas por las líneas de corriente
+
+![](attachments/Pasted%20image%2020230501152946.png)
+
+
+- _Líneas de trayectoria_
+	- Son las líneas que describen la trayectoria de una partícula
+
+![](attachments/Pasted%20image%2020230416142111.png)
+
+Para hallar una línea de trayectoria:
+
+$$
+\begin{align*}
+	\vec{v} &= \frac{d\vec{r}}{dt} \\\\
+	\vec{r} &= \vec{r}_{0} + \int _{t_{0}}^{t}\vec{v} \, dt
+\end{align*}
+$$
+
+Donde $r_{0}$ es la posición donde se inyectan las partículas.
+
+Si el fluido no es estacionario, se tendrían que considerar las velocidades en cada instante.
+
+
+- _Líneas de traza_
+	- Son líneas utilizadas en física para determinar la dirección y magnitud de un vector a lo largo del espacio vectorial
+	- El vector puede representar cualquier variable
+	- La línea de traza es tangente a la dirección de los vectores
+
+![](attachments/Pasted%20image%2020230416141532.png)
+
+
+
+>[!Note]
+>Para fluidos estacionarios estas líneas son las mismas
 
 
 
@@ -207,36 +256,4 @@ $$
 Tal que $a_{n} = \frac{V^{2}}{R}$. Donde $R$ es el radio de curvatura.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-- _Líneas de traza_
-	- Son líneas utilizadas en física para determinar la dirección y magnitud de un vector a lo largo del espacio vectorial
-	- El vector puede representar cualquier variable
-	- La línea de traza es tangente a la dirección de los vectores
-
-![](attachments/Pasted%20image%2020230416141532.png)
-
-- _Líneas de trayectoria_
-	- Son las líneas que describen la trayectoria de una partícula
-
-![](attachments/Pasted%20image%2020230416142111.png)
-
-
->[!Note]
->Para fluidos estacionarios estas líneas son las mismas
 
