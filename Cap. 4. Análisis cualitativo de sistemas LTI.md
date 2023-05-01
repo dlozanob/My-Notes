@@ -1,4 +1,4 @@
-# Cap. 4. Análisis cualitativo de sistemas LTI
+# Análisis cualitativo de sistemas LTI
 
 ## Especificaciones en el tiempo
 

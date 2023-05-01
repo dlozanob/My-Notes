@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6c178751232bf4d2",
+            "id": "9ad106e69eda82e5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TO-DO.md",
-                "mode": "preview",
+                "file": "Cap. 5. Filtros analógicos.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -25,24 +25,11 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/whiteboard.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "9ad106e69eda82e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Señales y Sistemas II.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/blackboard.excalidraw.md"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Señales y Sistemas II.md",
+                "file": "Cap. 5. Filtros analógicos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Señales y Sistemas II.md",
+                "file": "Cap. 5. Filtros analógicos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Señales y Sistemas II.md"
+                "file": "Cap. 5. Filtros analógicos.md"
               }
             }
           },
@@ -200,18 +187,23 @@
   },
   "active": "9ad106e69eda82e5",
   "lastOpenFiles": [
+    "attachments/Pasted image 20230501101953.png",
+    "Excalidraw/blackboard.excalidraw.md",
+    "Cap. 5. Filtros analógicos.md",
+    "attachments/Pasted image 20230501101838.png",
     "Excalidraw/whiteboard.excalidraw.md",
     "TO-DO.md",
+    "Señales y Sistemas II.md",
+    "Cap. 1. Modelos de sistemas lineales y no lineales.md",
+    "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
+    "Cap. 3. Solución de las ecuaciones de estado de sistemas LTI.md",
+    "Cap. 4. Análisis cualitativo de sistemas LTI.md",
     "Main.md",
     "Tema 1. Infraestructura de los mercados financieros.md",
-    "Cap. 4. Análisis cualitativo de sistemas LTI.md",
     "LaTeX.md",
     "attachments/Pasted image 20230430192830.png",
     "Linked note.md",
-    "Excalidraw/blackboard.excalidraw.md",
     "attachments/Pasted image 20230430190740.png",
-    "Cap. 3. Solución de las ecuaciones de estado de sistemas LTI.md",
-    "Señales y Sistemas II.md",
     "Servomecanismos.md",
     "attachments/Pasted image 20230430182323.png",
     "attachments/Pasted image 20230430181559.png",
@@ -220,22 +212,17 @@
     "attachments/Pasted image 20230430175250.png",
     "attachments/Pasted image 20230430175102.png",
     "attachments/Pasted image 20230430174036.png",
-    "attachments/Pasted image 20230430125701.png",
     "syntax.md",
     "Fórmulas Financieras Excel.md",
     "conflict-files-obsidian-git.md",
     "Módulo 4.md",
     "Finanzas.md",
-    "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
     "Señales y Sistemas I.md",
     "Tema 3. Introducción a los mercados de capitales.md",
     "Electrónica Digital II.md",
     "Principios de Estática.md",
     "Ingeniería Electrónica.md",
     "Análisis de velocidad.md",
-    "Mecanismos.md",
-    "balck.md",
-    "Análisis de posición.md",
     "Excalidraw/attachments",
     "attachments",
     "New folder",

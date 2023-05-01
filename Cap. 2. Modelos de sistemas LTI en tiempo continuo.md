@@ -1,4 +1,4 @@
-# Cap. 2. Modelos de sistemas LTI en tiempo continuo
+# Modelos de sistemas LTI en tiempo continuo
 
 Un sistema LTI es definido como lineal e invariante en el tiempo.
 Su respuesta varía de acuerdo a sus condiciones iniciales:
