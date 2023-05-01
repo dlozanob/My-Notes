@@ -20,6 +20,8 @@ Tipos de filtros:
 ![](attachments/Pasted%20image%2020230501103319.png)
 
 
+## Realización física de los filtros
+
 La respuesta al impulso de un pasabajas está dada por:
 
 $$
@@ -32,7 +34,36 @@ $$
 
 Por tanto, un pasabajas ideal no es causal.
 
+Para ser realizado físicamente, el filtro debe aproximarse. El modelo tendrá la siguiente forma:
 
+![](attachments/Pasted%20image%2020230501104248.png)
 
+Al intervalo $\omega_{s} - \omega_{p}$ se le llama banda de transición.
 
+- _Rizado de la banda de paso_ :
 
+$$
+\begin{align*}
+	\alpha_{p} = 20\log\left( \frac{A_{0}}{A_{1}} \right)\,\,dB
+\end{align*}
+$$
+
+- _Atenuación en la banda de rechazo_ 
+
+$$
+\begin{align*}
+	\alpha_{s} = 20\log\left( \frac{A_{0}}{A_{2}} \right)\,\,dB
+\end{align*}
+$$
+
+- _Retardo de grupo_ 
+
+$$
+\begin{align*}
+	T_{d}(\omega) = -\frac{d}{d\omega} \phi(\omega)
+\end{align*}
+$$
+
+Tal que $\phi(\omega) = \sphericalangle H(j\omega)$ .
+
+Así mismo, el modelo del pasabandas toma la forma
