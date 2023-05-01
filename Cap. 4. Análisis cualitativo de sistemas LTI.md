@@ -1086,3 +1086,8 @@ $$
 
 Siendo así, se completa el diseño del sistema de control.
 
+
+>[!Info]
+>- En control se utilizan técnicas para seleccionar los polos en lazo cerrado
+>- Cuando hay ceros en el semiplano derecho se presentan subpicos
+
