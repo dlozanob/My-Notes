@@ -534,6 +534,42 @@ $$
 $$
 
 
+## Estabilidad
+
+En física, el concepto e estabilidad relaciona el estado de un cuerpo a lo largo del tiempo.
+
+- _Estable_
+	- Al aplicar una fuerza, el cuerpo retorna a su posición
+
+![](attachments/Pasted%20image%2020230501135958.png)
+
+- _Neutralmente estable_
+	- Al aplicar una fuerza, el cuerpo se desplaza pero no infinitamente
+
+
+![](attachments/Pasted%20image%2020230501140005.png)
+
+- _Inestable_
+	- Una ínfima fuerza o perturbación hará que el cuerpo se mueva infinitamente
+
+![](attachments/Pasted%20image%2020230501140011.png)
+
+En fluidos, se habla de:
+- _Estabilidad vertical_
+	- Estable
+		- Un cuerpo flotante
+	- Neutralmente estable
+		- Un cuerpo sumergido con la misma densidad promedio del fluido
+		- Si se mueve dentro del fluido, este se quedará donde lo pongan
+	- Inestable
+		- Un cuerpo sumergido con una densidad promedio mayor a la del fluido
+		- Es inestable hasta que llega a la superficie y flot
+- _Estabilidad rotacional_
+	- 
+
+
+
+
 ## Estática en cuerpos rígidos
 
 Partiendo de la expresión:
@@ -574,6 +610,10 @@ $$
 Al acelerarse el fluido, habrán algunas líneas cuya presión a lo largo de las mismas es igual.
 
 ![](attachments/Pasted%20image%2020230321205605.png)
+
+Nótese que al acelerarse el fluido adquiere la forma:
+
+![](attachments/Pasted%20image%2020230501135738.png)
 
 Con el fín de parametrizar estas líneas, se hace la derivada total $dP$ nula.
 

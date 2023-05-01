@@ -29,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md",
+                "file": "Estática de Fluidos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md",
+                "file": "Estática de Fluidos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md"
+                "file": "Estática de Fluidos.md"
               }
             }
           },
@@ -186,10 +185,16 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "6798b032742dc127",
+  "active": "f19a360f839f79d5",
   "lastOpenFiles": [
-    "Estática de Fluidos.md",
+    "attachments/Pasted image 20230501140011.png",
+    "attachments/Pasted image 20230501140005.png",
+    "attachments/Pasted image 20230501135958.png",
     "Excalidraw/blackboard.excalidraw.md",
+    "Fundamentos de Mecánica de Fluidos.md",
+    "Cinemática de Fluidos.md",
+    "Estática de Fluidos.md",
+    "attachments/Pasted image 20230501135738.png",
     "attachments/Pasted image 20230501134624.png",
     "attachments/Pasted image 20230501134031.png",
     "attachments/Pasted image 20230501133448.png",
@@ -197,14 +202,10 @@
     "attachments/Pasted image 20230501133414.png",
     "attachments/Pasted image 20230501133359.png",
     "attachments/Pasted image 20230501133336.png",
-    "attachments/Pasted image 20230501133321.png",
-    "Fundamentos de Mecánica de Fluidos.md",
     "TO-DO.md",
     "Cap. 5. Filtros analógicos.md",
     "Señales y Sistemas II.md",
     "Cap. 4. Análisis cualitativo de sistemas LTI.md",
-    "attachments/Pasted image 20230501121404.png",
-    "attachments/Pasted image 20230501121359.png",
     "LaTeX.md",
     "Excalidraw/whiteboard.excalidraw.md",
     "Cap. 1. Modelos de sistemas lineales y no lineales.md",
@@ -222,7 +223,6 @@
     "Señales y Sistemas I.md",
     "Tema 3. Introducción a los mercados de capitales.md",
     "Electrónica Digital II.md",
-    "Principios de Estática.md",
     "Excalidraw/attachments",
     "attachments",
     "New folder",
