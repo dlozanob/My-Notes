@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estática de Fluidos.md",
-                "mode": "preview",
+                "file": "Cinemática de Fluidos.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estática de Fluidos.md",
+                "file": "Cinemática de Fluidos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Estática de Fluidos.md",
+                "file": "Cinemática de Fluidos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estática de Fluidos.md"
+                "file": "Cinemática de Fluidos.md"
               }
             }
           },
@@ -188,8 +188,8 @@
   "active": "f19a360f839f79d5",
   "lastOpenFiles": [
     "Fundamentos de Mecánica de Fluidos.md",
-    "Cinemática de Fluidos.md",
     "Estática de Fluidos.md",
+    "Cinemática de Fluidos.md",
     "attachments/Pasted image 20230501141827.png",
     "Excalidraw/blackboard.excalidraw.md",
     "Excalidraw/attachments/Pasted Image 20230501141826_486.png",

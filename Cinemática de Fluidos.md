@@ -1,13 +1,128 @@
 # Cinemática de Fluidos
 
+## Variables de campo
+
+En cinemática se usa la perspectiva Euleriana, ya que, se estudian volúmenes de control en fluidos.
+
+- _Campo de presión_ 
+
+$$
+\begin{align*}
+	p(x, y, z, t)
+\end{align*}
+$$
 
 - _Campo de velocidad_ 
+
+$$
+\begin{align*}
+	\vec{v}(x, y, z, t) 
+\end{align*}
+$$
 
 $$
 \begin{align*}
 	\vec{v} = u(x, y, z, t)\hat{x} + v(x, y, z, t)\hat{y} + w(x, y, z, t)\hat{z}
 \end{align*}
 $$
+
+Un _punto de estancamiento_ es definido como un punto donde las partículas se estancan y no pueden salir de ahí. Esto sucede cuando la velocidad en ese punto es nula, siempre y cuando, las derivadas temporales de la misma sean cero.
+
+- _Campo de aceleración_ 
+
+$$
+\begin{align*}
+	\vec{a}(x, y, z, t)
+\end{align*}
+$$
+
+Se describe de manera Lagrangiana la aceleración:
+
+$$
+\begin{align*}
+	\vec{a}_{part}(t) = \frac{d\vec{v}_{part}(t)}{dt} 
+\end{align*}
+$$
+
+La velocidad de la partícula para ese momento es igual al campo de velocidades sobre ese punto.
+
+$$
+\begin{align*}
+	\vec{v}_{part}(t) = \vec{v}(x_{part}(t), y_{part}(t), z_{part}(t), t)
+\end{align*}
+$$
+
+Esta expresión transforma la descripción Lagrangiana a la Euleriana.
+
+Sustituyendo:
+
+$$
+\begin{align*}
+	\vec{a}_{part} (t) = \frac{\partial \vec{v}}{\partial t}
+\end{align*}
+$$
+
+
+
+
+
+
+Las _coordenadas de líneas de corriente_ toman un sistema de referencia relativo a cada posición de una partícula. Sus componentes son una normal ($\hat{n}$) y una tangencial ($\hat{s}$).
+
+![](attachments/Pasted%20image%2020230416142540.png)
+
+Se define el campo de aceleración usando este sistema coordenado.
+
+$$
+\begin{align*}
+	\vec{a} = \frac{D\vec{v}}{Dt} = a_{s}\hat{s} + a_{n}\hat{n}
+\end{align*}
+$$
+
+
+Sea una función vectorial F(x,y,z,t), se define la _derivada material_ como:
+
+
+
+$$
+\begin{align*}
+	\frac{DF}{Dt} &= \frac{\partial F}{\partial t} + u \frac{\partial F}{\partial x} + v \frac{\partial F}{\partial y} + w \frac{\partial F}{\partial z} \\
+	&= \frac{\partial F}{\partial t} + (\vec{v} \cdot  \vec{\nabla})F
+\end{align*}
+$$
+
+Donde a $\frac{\partial F}{\partial t}$ se le llama _derivada local_ y a $(\vec{v} \cdot  \vec{\nabla})F$ se le llama _derivada convectiva_.
+
+
+Sabiendo que $\vec{v} = v\hat{s}$ entonces:
+
+$$
+\begin{align*}
+	\vec{a} &= \frac{D\vec{v}}{Dt} = \frac{D(v\hat{s})}{Dt} \\
+	&= \frac{D\hat{s}}{Dt} + \frac{Dv}{Dt} \\
+	&= \left( v \frac{\partial v}{\partial s} \right)\hat{s} + v\left( \frac{\partial \hat{s}}{\partial s} \right) \\
+	&= a_{s}\hat{s} + \frac{V^{2}}{R}\hat{n}
+\end{align*}
+$$
+
+Tal que $a_{n} = \frac{V^{2}}{R}$. Donde $R$ es el radio de curvatura.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 - _Fluido estacionario_
 	- Su velocidad no cambia en el tiempo ($\frac{\partial \vec{v}}{\partial t} = 0$)
@@ -33,47 +148,3 @@ $$
 >[!Note]
 >Para fluidos estacionarios estas líneas son las mismas
 
-
-- _Campo de aceleración_ 
-
-Las _coordenadas de líneas de corriente_ toman un sistema de referencia relativo a cada posición de una partícula. Sus componentes son una normal ($\hat{n}$) y una tangencial ($\hat{s}$).
-
-![](attachments/Pasted%20image%2020230416142540.png)
-
-Se define el campo de aceleración usando este sistema coordenado.
-
-$$
-\begin{align*}
-	\vec{a} = \frac{D\vec{v}}{Dt} = a_{s}\hat{s} + a_{n}\hat{n}
-\end{align*}
-$$
-
->[!Note]
-
-Sea una función vectorial F(x,y,z,t), se define la _derivada material_ como:
-
-
-
-$$
-\begin{align*}
-	\frac{DF}{Dt} &= \frac{\partial F}{\partial t} + u \frac{\partial F}{\partial x} + v \frac{\partial F}{\partial y} + w \frac{\partial F}{\partial z} \\
-	&= \frac{\partial F}{\partial t} + (\vec{v} \cdot  \vec{\nabla})F
-\end{align*}
-$$
-
-Donde a $\frac{\partial F}{\partial t}$ se le llama _derivada local_ y a $(\vec{v} \cdot  \vec{\nabla})F$ se le llama _derivada convectiva_.
-
->
-
-Sabiendo que $\vec{v} = v\hat{s}$ entonces:
-
-$$
-\begin{align*}
-	\vec{a} &= \frac{D\vec{v}}{Dt} = \frac{D(v\hat{s})}{Dt} \\
-	&= \frac{D\hat{s}}{Dt} + \frac{Dv}{Dt} \\
-	&= \left( v \frac{\partial v}{\partial s} \right)\hat{s} + v\left( \frac{\partial \hat{s}}{\partial s} \right) \\
-	&= a_{s}\hat{s} + \frac{V^{2}}{R}\hat{n}
-\end{align*}
-$$
-
-Tal que $a_{n} = \frac{V^{2}}{R}$. Donde $R$ es el radio de curvatura.
