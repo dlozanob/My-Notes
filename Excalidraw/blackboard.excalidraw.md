@@ -17,7 +17,7 @@ d77ee5f98fda9812531b7ce34ea9de28c8909ade: $$\omega$$
 5842c3cf1239b35709e0dd0aab8fa1258e7fce68: $$A_{2}$$
 ebebcf50583dd84ea9159e807394973ea2906eb1: $$\omega_{S}$$
 199674f1ddd725c228936bfcb2325fb2450153b2: $$\omega_{P}$$
-a89713433281209d6bf9479d6115fd25b691a590: [[attachments/Pasted Image 20230501110611_150.png]]
+19874ce282dd1e8f6582515ee876d1dac3cdea59: [[attachments/Pasted Image 20230501121351_888.png]]
 
 %%
 # Drawing
@@ -2110,10 +2110,42 @@ a89713433281209d6bf9479d6115fd25b691a590: [[attachments/Pasted Image 20230501110
 			]
 		},
 		{
+			"id": "EUrElm5LxxiRqpUgU9mzt",
+			"type": "image",
+			"x": 451.8393186229581,
+			"y": -163.80348497443353,
+			"width": 431.1964828113566,
+			"height": 336.4892449845728,
+			"angle": 0,
+			"strokeColor": "transparent",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 0.5,
+			"strokeStyle": "dotted",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 1844213073,
+			"version": 73,
+			"versionNonce": 816565503,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1682961241768,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "19874ce282dd1e8f6582515ee876d1dac3cdea59",
+			"scale": [
+				1,
+				1
+			]
+		},
+		{
 			"id": "YhvTck0WORZWWDFMYkPi9",
 			"type": "image",
-			"x": 366.0068916792217,
-			"y": -250.31963230181714,
+			"x": 410.4951529717559,
+			"y": -221.77999298207823,
 			"width": 449.4564926962717,
 			"height": 355.2156151954404,
 			"angle": 0,
@@ -2127,11 +2159,11 @@ a89713433281209d6bf9479d6115fd25b691a590: [[attachments/Pasted Image 20230501110
 			"groupIds": [],
 			"roundness": null,
 			"seed": 1969598257,
-			"version": 125,
-			"versionNonce": 572456063,
-			"isDeleted": false,
+			"version": 180,
+			"versionNonce": 702352241,
+			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1682957193703,
+			"updated": 1682961225348,
 			"link": null,
 			"locked": false,
 			"status": "pending",

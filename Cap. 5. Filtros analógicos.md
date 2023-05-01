@@ -222,3 +222,23 @@ $$
 \end{align*}
 $$
 
+Tal que $N > 0$ .
+
+Entonces:
+
+$$
+\begin{align*}
+	&M(\omega^{2}) = H(j\omega)H(-j\omega) = \frac{1}{1 + \omega^{2N}} \\\\
+	&|H(j\omega)| = \frac{1}{\sqrt{ 1 + \omega^{2N} }}
+\end{align*}
+$$
+
+>[!Note]
+>$M(0)$ y $M(1)$ son $0$ y $-3$ $dB$ respectivamente
+
+Magnitud de los filtros de Butterworth:
+
+![](attachments/Pasted%20image%2020230501121404.png)
+
+
+
