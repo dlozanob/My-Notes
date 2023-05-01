@@ -5,6 +5,7 @@
 
 - [ ] Señales
 	- [ ] Apuntes de filtros
+	- [ ] Ejercicios del parcial
 - [ ] Servos
 	- [ ] Repasar
 	- [ ] Servomotor sizing
@@ -21,3 +22,6 @@
 	- [ ] Apuntes
 
 ---
+
+
+
