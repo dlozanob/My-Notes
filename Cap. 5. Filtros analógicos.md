@@ -126,9 +126,46 @@ Procedimiento:
 2. Normalización
 	- Se multiplican los parámetros por un factor $k$, tal que, $k\cdot\omega_{s} = 1$
 	- Se hace con el objetivo de facilitar los cálculos
-1. Aproximación
-	- 
-1. Realización
-2. Desnormalización
+3. Aproximación
+	- Encontrar un $|H(j\omega)|)$ que satisfaga las especificaciones propuestas
+	- Encontrar un $H(s)$, tal que, $|H(s)| = |H(j\omega)|$
+4. Realización (síntesis)
+	- Se diseña el circuito con operacionales que implemente $H(s)$
+5. Denormalización
+	- Se multiplican todos los parámeros por $\frac{1}{k}$ 
+
+---
+
+- __Ejemplo__ :
+
+$$
+\begin{align*}
+	H(s) = \frac{s + 2}{s^{3} + 2s^{2} + 2s + 3}
+\end{align*}
+$$
+
+
+
+$$
+\begin{align*}
+	H(s)H(-s) = \frac{s^{2} - 4}{s^{6} - 8s^{2} - 9}
+\end{align*}
+$$
+
+
+$$
+\begin{align*}
+	|H(j\omega)|^{2} = M(\omega) = \frac{\omega^{2} + 4}{\omega^{6} - 8\omega^{2} + 9}
+\end{align*}
+$$
+
+Se debe encontrar un $H(s)$ tal que:
+
+$$
+\begin{align*}
+	M(\omega) = H(s)H(-s)
+\end{align*}
+$$
+
 
 
