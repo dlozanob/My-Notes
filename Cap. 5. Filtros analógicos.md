@@ -283,5 +283,47 @@ $$
 
 - __Ejemplo__ :
 	- $\alpha_{p} = 1  dB$
-	- $\alpha$
+	- $\alpha_{s} = 25  dB$
+	- $\frac{\omega_{s}}{\omega_{p}} = 1.5$
 
+Halla el orden $N$ requerido del filtro de Butterworth.
+
+Se sabe que:
+
+$$
+\begin{align*}
+	\alpha_{s} = 20\log\left( \frac{A_{0}}{A_{2}} \right) \\\\
+	\alpha_{p} = 20\log\left( \frac{A_{0}}{A_{1}} \right)
+\end{align*}
+$$
+
+Además, $A_{0} = 1$, $A_{1} = \frac{1}{\sqrt{ 1 + \omega_{p}^{2N} }}$ y $A_{2} = \frac{1}{\sqrt{ 1 + \omega_{s}^{2N} }}$ .
+
+Entonces se obtiene:
+
+$$
+\begin{align*}
+	&\alpha_{s} = 10\log(1 + \omega_{s}^{2N}) \\
+	&\alpha_{p} = 10\log(1 + \omega_{p}^{2N})
+\end{align*}
+$$
+
+Por tanto:
+
+$$
+\begin{align*}
+	\omega_{p}^{2N} = 10^{0.1} - 1 = 0.25893\\
+	\omega_{s}^{2N} = 10^{2.5} - 1 = 315.228
+\end{align*}
+$$
+
+Ahora bien:
+
+$$
+\begin{align*}
+	&\left( \frac{\omega_{s}}{\omega_{p}} \right)^{2N} = 1.5^{2N} = \frac{315.228}{0.25893} = 1217.4 \\\\
+	&N = \frac{\ln(\sqrt{ 1217.4 })}{\ln(1.5)} = 8.76 \approx 9
+\end{align*}
+$$
+
+Por tanto, un fi
