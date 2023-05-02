@@ -145,26 +145,539 @@ Se debe de tener en cuenta el conjunto de normas e informes técnicos _IEC 61131
 ![](attachments/Pasted%20image%2020230424173518.png)
 
 
+## Cargas reflejadas
 
+El momento de inercia de un cuerpo es:
+
+$$
+\begin{align*}
+	J = \frac{m\cdot r^{2}}{2}
+\end{align*}
+$$
+
+Cuando se conecta el motor directamente al mecanismo, a esta configuración se le llama _direct drive_.
+
+En un sistema de transmisión de potencia mecánica se pueden tener distintos componentes mecánicos para la transmisión de potencia.
+
+![](attachments/Pasted%20image%2020230429212555.png)
+
+- Cajas de engranajes
+- Polea y correa
+- Cadena
+- Tornillos de transmisión de movimiento
+
+Idealmente $P_{s} = P_{e}$, por lo que no hay pérdidas de energía. Sin embargo, realmente sucede que $P_{e} = P_{s} + pérdidas$. La _eficiencia_ es:
+
+$$
+\begin{align*}
+	\eta = \frac{P_{s}}{P_{e}}
+\end{align*}
+$$
+
+>[!Note]
+>- Los mecanismos que poseen una mayor eficiencia están en el orden $95\sim 97\%$ y aquellos con una baja eficiencia pueden estar en el orden $40\sim 50\%$
+>- Los tornillos de transmisión de potencia son bastante eficientes, sin embargo, los mecanismos de piñón y cremallera poseen una baja eficiencia
+
+Hay 2 enfoques de diseño para el dimensionamiento (_sizing_):
+- Incorporar $\eta$ en el cálculo
+-  Dejar de lado $\eta$, se puede aplicar al final sobre el $T_{out}$ un $FS$ que recomendablemente $\geq 20\%$
+
+
+Partiendo de la condición ideal $P_{s} = P_{e}$, se obtiene:
+
+$$
+\begin{align*}
+	&\omega_{s}T_{s} = \omega_{e}T_{e} \\\\
+	&N = \frac{T_{s}}{T_{e}} = \frac{\omega_{e}}{\omega_{s}}
+\end{align*}
+$$
+
+Donde $N$ es la _relación de transmisión_ de potencia.
+
+>[!Info]
+>Rangos típicos:
+>- Motores PAP: $1000\,\,rpm$
+>- Motores AC: $1800\,\,rpm$
+>- Motores BLDC (usuales en motion control): $3000 \sim 5000\,\,rpm$
+
+
+La _inercia aparente_ o _inercia reflejada_ ($J_{Ap}$) es la inercia que siente el motor.
+
+![](attachments/Pasted%20image%2020230429222225.png)
+
+$$
+\begin{align*}
+	J_{Ap} &= \frac{T_{e}}{\alpha_{e}}  \\\\
+	&= \frac{\frac{1}{N}}{N}\cdot\frac{T_{s}}{\alpha_{s}}  \\\\
+	&= \frac{J_{L}}{N^{2}}
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	\boxed{J_{Ap} = \frac{J_{L}}{N^{2}}}
+\end{align*}
+$$
+
+Así mismo, se tiene el _amortiguador aparente_ ($B_{Ap}$), el cual representa la fricción que siente el motor.
+
+![](attachments/Pasted%20image%2020230429224515.png)
+
+$$
+\begin{align*}
+	B_{Ap} = \frac{B_{L}}{N^{2}}
+\end{align*}
+$$
+
+De la misma forma, el _resorte aparente_ ($k_{Ap}$) es la elasticidad que siente el motor.
+
+![](attachments/Pasted%20image%2020230429224158.png)
+
+$$
+\begin{align*}
+	k_{Ap} = \frac{k_{L}}{N^{2}}
+\end{align*}
+$$
+
+
+## Mecanismos de transmisión
+
+La _relación de inercia_ ($IR$) es:
+
+$$
+\begin{align*}
+	IR = \frac{J_{Ap}}{J_{motor}}
+\end{align*}
+$$
+
+Donde el momento de inercia del motor se refiere al de su propio rotor.
+
+Se requiere seleccionar el motor más pequeño posible que cumpla con las especificaciones de torque y velocidad angular.
+Para efectos prácticos, se sugiere: $IR \leq 5$
+
+Para mecanismos rígidos, los cuales no se deflectan significativamente, se puede considerar un $5 < IR < 10$. No obstante, para mecanismos con un STPM con poleas o correas, se recomienda mantener $IR$ con valores bajos debido a su flexibilidad.
+
+Los STPM pueden componerse de los siguientes mecanismos:
+- Juego de engranajes (Gearbox)
+- Polea y correa (Pulley-and-Belt)
+- Tornillo de avance y tornillo de bolas (Lead screw and ball screw)
+- Piñón y cremallera (Rack-and-Pinion drive)
+- Correa para movimiento lineal (Belt drive for linear motion)
+- Banda transportadora (Conveyor)
+
+Cada uno de ellos tiene un $N$ asociado.
+
+### Inercia en los mecanismos de transmisión
+
+La inercia total vista por el motor es:
+
+$$
+\begin{align*}
+	\boxed{J_{total} = J_{m} + J_{C} + J_{\mathrm{Re}f}^{trans}}
+\end{align*}
+$$
+
+Donde:
+- $J_{total}$ : Inercia total
+- $J_{m}$ : Inercia del motor
+- $J_{C}$ : Inercia del acoplador
+- $J_{\mathrm{Re}f}^{trans}$ : Inercia reflejada
+
+![](attachments/Pasted%20image%2020230430094239.png)
+
+Cada mecanismo tiene su respectivo factor de eficiencia $\eta$
+
+### Gearbox
+
+Su relación de transmisión es simplemente:
+
+$$
+\begin{align*}
+	N_{GB} = \frac{T_{s}}{T_{e}} = \frac{\omega_{e}}{\omega_{s}}	
+\end{align*}
+$$
+
+Donde la inercia aparente es:
+
+$$
+\begin{align*}
+	J_{\mathrm{Re}f}^{trans} = \frac{J_{L}}{\eta\cdot N^{2}}
+\end{align*}
+$$
+
+### Pulley and Belt
+
+Las correas dentadas (_timing belts_ o _sprockets_) permiten una mayor eficiencia que las que no lo son. Estas últimas, presentan pérdidas por fricción y ocurre deslizamiento.
+
+![](attachments/Pasted%20image%2020230430095715.png)
+
+Donde:
+
+$$
+\begin{align*}
+	V_{\tan} = \omega_{ip}\cdot r_{ip} = \omega_{lp}\cdot r_{lp}
+\end{align*}
+$$
+
+La correa más pequeña (input pulley) es la conductora, la otra (load pulley) es la correa de carga.
+
+Siendo así, la relación de transmisión es:
+
+$$
+\begin{align*}
+	N_{BP} = \frac{\omega_{ip}}{\omega_{lp}} = \frac{r_{lp}}{r_{ip}}
+\end{align*}
+$$
+
+![](attachments/Pasted%20image%2020230430100102.png)
+
+La inercia reflejada es:
+
+$$
+\begin{align*}
+	J_{\mathrm{Re}f}^{trans} = J_{ip} + J_{belt \to in} + J_{lp \to in} + J_{load\to in} + J_{C\to in}
+\end{align*}
+$$
+
+Donde:
+- $J_{ip}$ : Inercia de la polea de entrada
+- $J_{belt\to in}$ : Inercia de la correa vista por el motor
+- $J_{lp\to in}$ : Inercia de la polea de carga vista por el motor
+- $J_{load\to in}$ : Inercia de la carga vista por el motor
+- $J_{C\to in}$ : Inercia del acoplador vista por el motor
+
+La inercia de la correa se modela como una masa rotante de radio $r_{ip}$ :
+
+$$
+\begin{align*}
+	J_{belt\to in} &= \frac{m_{belt}\cdot r_{ip}^{2}}{2}\cdot \left( \frac{1}{\eta} \right) \\
+	&= \left( \frac{W_{belt}}{g\cdot \eta} \right)\cdot r_{ip}^{2}
+\end{align*}
+$$
+
+Además, la inercia aparente es $J_{Ap} = J_{lp\to in} + J_{load\to in} + J_{C\to in}$ :
+
+$$
+\begin{align*}
+	J_{Ap} &= \frac{J_{L}}{N^{2}}\cdot \left( \frac{1}{\eta} \right) \\\\
+	&= \frac{1}{\eta\cdot N_{BP}^{2}}(J_{lp} + J_{load} + J_{C})
+\end{align*}
+$$
+
+Entonces:
+
+$$
+\begin{align*}
+	J_{\mathrm{Re}f}^{trans} = J_{ip} + \left( \frac{W_{belt}}{g\cdot \eta} \right)\cdot r_{p}^{2} + \frac{1}{\eta\cdot N^{2}_{BP}}(J_{lp} + J_{load} + J_{C})
+\end{align*}
+$$
+
+Donde:
+- $J_{ip}$ : Inercia de la correa de entrada
+- $J_{load}$ : Inercia de la carga
+- $J_{lp}$ : Inercia de la correa de carga
+- $J_{C}$ : Inercia del acoplador
+
+
+### Lead Screw
+
+Se pueden clasificar en:
+- ACME screws
+	- Es difícil que la carga mueva al motor
+	- Pueden transmitir cargas grandes
+	- Son llamados tornillos de potencia
+	- Su eficiencia está en el rango $35\sim 85\%$ 
+
+![](attachments/Pasted%20image%2020230430125645.png)
+
+- Ball screws
+	- Utiliza bolas que recirculan a medida que se mueve la tuerca
+	- Poseen un backlash y fricción bajos -> Utilizados en control
+	- Su eficiencia está en el rango $85\sim 95\%$ 
+
+![](attachments/Pasted%20image%2020230430125701.png)
+
+
+- _Pitch_ $(rev/in)$
+	- Revoluciones de la tuerca por distancia recorrida (paso)
+- _Lead_ $(in/rev)$
+	- Distancia recorrida por revolución (avance)
+
+
+La definición de _pitch_ se puede escribir como:
+
+$$
+\begin{align*}
+	\Delta\theta = 2\pi p\Delta x
+\end{align*}
+$$
+
+Donde $\Delta \theta$ es la rotación del eje, $p$ es el paso y $\Delta x$ es la distancia recorrida.
+
+Ahora bien:
+
+$$
+\begin{align*}
+	2\pi p = \frac{\Delta\theta}{\Delta x}\cdot  \frac{\Delta t}{\Delta t} = \frac{\dot{\theta}}{\dot{x}} = \frac{input\,\,speed}{load\,\,speed}
+\end{align*}
+$$
+
+Entonces:
+
+$$
+\begin{align*}
+	N_{S} = 2\pi p
+\end{align*}
+$$
+
+Sabemos que $KE = \frac{1}{2}J\dot{\theta^{2}}$ para el caso rotacional, además, $KE = \frac{1}{2}m\dot{x}^{2}$ para el caso traslacional.
+
+$$
+\begin{align*}
+	KE &= \frac{1}{2}m\left( \frac{\dot{\theta}}{2\pi p} \right)^{2}
+\end{align*}
+$$
+
+Entonces:
+
+$$
+\begin{align*}
+	J = J_{\mathrm{Re}f} = \frac{m}{(2\pi p)^{2}} = \frac{m}{N_{S}^{2}}
+\end{align*}
+$$
+
+Donde la masa $m$ es la masa total que se transporta:
+
+$$
+\begin{align*}
+	m = \frac{W_{L} + W_{C}}{g}
+\end{align*}
+$$
+
+- $W_{L}$ : Peso de la carga
+- $W_{C}$ : Peso del "carro" que transporta el tornillo
+
+Así mismo, la inercia reflejada es:
+
+$$
+\begin{align*}
+	J_{\mathrm{Re}f}^{trans} = J_{screw} + J_{load\to in} + J_{carriage\to in}
+\end{align*}
+$$
+
+Pero $J_{Ap} = J_{load\to in} + J_{carriage\to in}$, entonces:
+
+$$
+\begin{align*}
+	J_{\mathrm{Re}f}^{trans} = J_{screw} + \frac{1}{\eta\cdot N^{2}}\left( \frac{W_{L} + W_{C}}{g} \right)
+\end{align*}
+$$
+
+![](attachments/Pasted%20image%2020230430174036.png)
+
+Adicionalmente, el torque requerido por el motor es:
+
+$$
+\begin{align*}
+	T_{load\to in} = \frac{F_{ext}}{\eta N_{S}}
+\end{align*}
+$$
+
+Donde:
+
+$$
+\begin{align*}
+	F_{ext} &= F_{p} + F_{f} + F_{g} \\
+	&= F_{p} + (W_{L} + W_{C})(\sin\beta + \mu \cos\beta)
+\end{align*}
+$$
+
+- $F_{p}$ : Fuerza aplicada
+- $F_{f}$ : Fuerza de fricción
+- $F_{g}$ : Peso del carro
+
+![](attachments/Pasted%20image%2020230430175102.png)
+
+
+
+
+### Rack and Pinion
+
+
+![](attachments/Pasted%20image%2020230430175250.png)
+
+$$
+\begin{align*}
+	V_{Rack} = r_{pinion}\cdot \omega_{pinion}
+\end{align*}
+$$
+
+Entonces:
+
+$$
+\begin{align*}
+	N_{RP} = \frac{1}{r_{pinion}}
+\end{align*}
+$$
+
+Ahora bien, la inercia reflejada es:
+
+$$
+\begin{align*}
+	J_{\mathrm{Re}f}^{trans} = J_{pinion} + J_{load\to in} + J_{carriage\to in}
+\end{align*}
+$$
+
+Entonces:
+
+$$
+\begin{align*}
+	J_{\mathrm{Re}f}^{trans} = J_{pinion} + \frac{1}{\eta N^{2}_{RP}}\left( \frac{W_{L} + W_{C}}{g} \right)
+\end{align*}
+$$
+
+- $W_{L}$ : Peso de la carga
+- $W_{C}$ : Peso del carrito
+
+Así mismo, el torque necesario del motor es:
+
+$$
+\begin{align*}
+	T_{load\to in} = \frac{F_{ext}}{\eta N_{RP}}
+\end{align*}
+$$
+
+
+### Belt Drive
+
+Usando dos poleas del mismo radio y una correa, se puede generar movimiento traslacional (_drive-train_).
+Esta configuración es utilizada para aplicaciones que requieran una inercia baja y control de movimiento.
+
+De la misma forma que se obtiene la relación de transmisión para piñón y cremayera:
+
+$$
+\begin{align*}
+	N_{BD} = \frac{1}{r_{ip}}
+\end{align*}
+$$
+
+![](attachments/Pasted%20image%2020230430180817.png)
+
+
+Ahora bien, la inercia reflejada es:
+
+$$
+\begin{align*}
+	J_{\mathrm{Re}f}^{trans} = J_{ip} + J_{load\to in} + J_{carriage\to in} + J_{belt\to in} + J_{lp}
+\end{align*}
+$$
+
+![](attachments/Pasted%20image%2020230430181055.png)
+
+La expresión puede ser escrita como:
+
+$$
+\begin{align*}
+	J_{\mathrm{Re}f}^{trans} = 2J_{lp} + \frac{1}{\eta N_{BD}^{2}}\left( \frac{W_{L} + W_{C} + W_{belt}}{g} \right)
+\end{align*}
+$$
+
+- $W_{L}$ : Peso de la carga
+- $W_{C}$ : Peso del carrito
+- $W_{belt}$ : Peso de la correa
+
+Por otro lado, el torque requerido del motor es:
+
+$$
+\begin{align*}
+	T_{load\to in} = \frac{F_{ext}}{\eta N_{BD}}
+\end{align*}
+$$
+
+
+### Conveyor
+
+Un conveyor posee uno o múltiples rodillos (además del conductor), lo que permite correas más largas y cargas más pesadas.
+
+![](attachments/Pasted%20image%2020230430181559.png)
+
+Del mismo modo que se obtiene la relación de transmisión para piñón y cremayera:
+
+$$
+\begin{align*}
+	N_{CV} = \frac{1}{r_{DR}}
+\end{align*}
+$$
+
+Donde $r_{RD}$ es el radio del rodillo conductor (drive roller).
+
+
+Su inercia reflejada es:
+
+$$
+\begin{align*}
+	J_{\mathrm{Re}f}^{trans} = J_{DR} + J_{load\to in} + J_{belt\to in} + J_{IR\to in} + J_{BR\to in}
+\end{align*}
+$$
+
+- $J_{DR}$ : Inercia del rodillo conductor
+- $J_{load\to in}$ : Inercia de la carga
+- $J_{belt\to in}$ : Inercia de la correa
+- $J_{IR\to in}$ : Inercia del rodillo loco (idler roller)
+- $J_{BR}\to in$ : Inercia del rodillo trasero (back roller)
+
+![](attachments/Pasted%20image%2020230430182323.png)
+
+Se obtiene:
+
+$$
+\begin{align*}
+	J_{\mathrm{Re}f}^{trans} = J_{DR} + \frac{1}{\eta N^{2}_{CV}}\left( \frac{W_{L} + W_{belt}}{g} \right) + \frac{J_{IR}}{\eta\left( \frac{r_{IR}}{r_{DR}} \right)^{2}} + \frac{J_{BR}}{\eta\left( \frac{r_{BR}}{r_{DR}} \right)^{2}}
+\end{align*}
+$$
+
+Donde la relación de transmisión entre el idler roller y el drive roller es:
+
+$$
+\begin{align*}
+	N = \frac{r_{IR}}{r_{DR}}
+\end{align*}
+$$
+
+Análogamente, la relación de transmisión entre el back roller y el drive roller es:
+
+$$
+\begin{align*}
+	N = \frac{r_{BR}}{r_{DR}}
+\end{align*}
+$$
+
+Adicionalmente, el torque requerido del motor es:
+
+$$
+\begin{align*}
+	T_{load\to in} = \frac{F_{ext}}{\eta N_{CV}}
+\end{align*}
+$$
+
+Donde:
+
+$$
+\begin{align*}
+	F_{ext} = F_{p} + (W_{L} + W_{belt})(\sin\beta + \mu \cos\beta)
+\end{align*}
+$$
+
+- $F_{p}$ : Fuerza aplicada sobre la carga
+- $W_{L}$ : Peso de la carga
+- $W_{belt}$ : Peso de la correa
+- $\mu$ : Coeficiente de fricción de la correa
+- $\beta$ : Ángulo de inclinación del conveyor
+
+Se considera el caso más general donde el conveyor se encuentra inclinado.
 
 
 ---
-
-# Clase
-
-![](attachments/Pasted%20image%2020230413095045.png)
-
-
-Un perfil trapezoidal suave evita el problema de los jerks
-
-![](attachments/Pasted%20image%2020230413102650.png)
-
-![](attachments/Pasted%20image%2020230413104034.png)
-
----
-
-
-El momento de inercia del motor se refiere a su propio rotor.
 
 - Enfoques de movimiento:
 	- Newtoniano
@@ -177,21 +690,30 @@ $$
 \end{align*}
 $$
 
->[!Note]
->
-Hay 2 enfoques de diseño:
->- Incorporar $\eta$ en el cálculo
->-  Dejar de lado $\eta$, se puede aplicar al final sobre el $T_{out}$ un $FS$ que recomendablemente $\geq 20\%$
-
 
 En algunos casos existen 2 controladores, el de bajo rendimiento controla las operaciones y se las envía al de alto rendimiento para que este ejecute el algoritmo de control
 
 Se recomienda evitar acoples flexibles -> Susceptibles a la resonancia
 
+---
+
+## Perfiles de velocidad
+
+![](attachments/Pasted%20image%2020230413095045.png)
+
+
+Un perfil trapezoidal suave evita el problema de los jerks
+
+![](attachments/Pasted%20image%2020230413102650.png)
+
+![](attachments/Pasted%20image%2020230413104034.png)
+
+
+
 
 # TO DO
 
-- [ ] Videos
+- [x] Videos
 - [ ] Docs
 - [ ] Procesos de selección
 

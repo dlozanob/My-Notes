@@ -1,4 +1,4 @@
-# Cap. 1. Modelos de sistemas lineales y no lineales
+# Modelos de sistemas lineales y no lineales
 
 ## Modelos de sistemas
 

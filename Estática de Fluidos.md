@@ -534,6 +534,60 @@ $$
 $$
 
 
+## Estabilidad
+
+En física, el concepto e estabilidad relaciona el estado de un cuerpo a lo largo del tiempo.
+
+- _Estable_
+	- Al aplicar una fuerza, el cuerpo retorna a su posición
+
+![](attachments/Pasted%20image%2020230501135958.png)
+
+- _Neutralmente estable_
+	- Al aplicar una fuerza, el cuerpo se desplaza pero no infinitamente
+
+
+![](attachments/Pasted%20image%2020230501140005.png)
+
+- _Inestable_
+	- Una ínfima fuerza o perturbación hará que el cuerpo se mueva infinitamente
+
+![](attachments/Pasted%20image%2020230501140011.png)
+
+En fluidos, se habla de:
+
+- _Estabilidad vertical_ : Se refiere a la traslación vertical de cuerpos en el fluido
+	- Estable
+		- Un cuerpo flotante
+	- Neutralmente estable
+		- Un cuerpo sumergido con la misma densidad promedio del fluido
+		- Si se mueve dentro del fluido, este se quedará donde lo pongan
+	- Inestable
+		- Un cuerpo sumergido con una densidad promedio mayor a la del fluido
+		- Es inestable hasta que llega a la superficie y flota
+
+
+El _centro de flotación_ se define como el punto donde actúa la fuerza de flotación. Este centro es el mismo centroide del volumen desplazado.
+
+- _Estabilidad rotacional_ : Se refiere a la rotación de los cuerpos en el fluido
+	- Neutralmente estable
+		- El centro de flotación es el mismo centro de masa
+ 
+	![](attachments/Pasted%20image%2020230501140905.png)
+	
+	 - Estable
+		 - El centro de flotación está por encima del centro de masa
+		 - Al rotarse el cuerpo, se genera un torque que reestituye esta posición
+
+	![](attachments/Pasted%20image%2020230501141411.png)
+
+	- Inestable
+		- El centro de flotación se encuentra por debajo del centro de masa
+		- Al aplicar una ínfima fuerza que rote el cuerpo, se generará un torque que haga rotar el objeto hasta estabilizarse
+
+	![](attachments/Pasted%20image%2020230501141827.png)
+
+
 ## Estática en cuerpos rígidos
 
 Partiendo de la expresión:
@@ -574,6 +628,10 @@ $$
 Al acelerarse el fluido, habrán algunas líneas cuya presión a lo largo de las mismas es igual.
 
 ![](attachments/Pasted%20image%2020230321205605.png)
+
+Nótese que al acelerarse el fluido adquiere la forma:
+
+![](attachments/Pasted%20image%2020230501135738.png)
 
 Con el fín de parametrizar estas líneas, se hace la derivada total $dP$ nula.
 
@@ -637,6 +695,64 @@ $$
 $$
 \begin{align*}
 	\boxed{z(r) = \frac{\omega^{2}r^{2}}{2g} + c}
+\end{align*}
+$$
+
+>[!Info]
+>En óptica, los espejos con menos aberraciones son los parabólicos. Así que, una aplicación de rotar un fluido es la de crear espejos de mercurio parabólicos al rotarlos
+
+---
+
+- __Ejemplo__ :
+
+Hallar $h_{c}$ .
+
+![](attachments/Pasted%20image%2020230501134624.png)
+
+Se toma la sección:
+
+![](attachments/Pasted%20image%2020230501133433.png)
+
+Donde:
+
+$$
+\begin{align*}
+	dV &= \pi(r + dr)^{2}z - \pi r^{2}z \\
+	&= 2\pi r\cdot dr\cdot z + \cancel{ \pi\cdot dr^{2}z }^{0} \\
+	&= 2\pi rz\cdot dr
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	V = \int _{0}^{R}2\pi rz \, dr
+\end{align*}
+$$
+
+Además:
+
+$$
+\begin{align*}
+	\int  \, dz &= \frac{\omega^{2}}{g}\int r \, dr \\\\
+	z_{2} &= \frac{\omega^{2}}{2g}(r_{2}^{2} - r_{1}^{2}) + z_{1}
+\end{align*}
+$$
+
+Entonces:
+
+$$
+\begin{align*}
+	V &= \int _{0}^{R} 2\pi r \left( \frac{\omega^{2}}{2g}r^{2} + h_{c} \right) \, dr \\\\
+	&= \frac{\pi\omega^{2}}{4g}R^{4} + \pi h_{c}R^{2}
+\end{align*}
+$$
+
+El volumen en cualquier momento debe ser igual al original:
+
+$$
+\begin{align*}
+	&\frac{\pi\omega^{2}}{4g}R^{4} + \pi h_{c}R^{2} = \pi R^{2}h_{0} \\\\
+	&h_{c} = h_{0} - \frac{\omega^{2}R^{2}}{4g}
 \end{align*}
 $$
 

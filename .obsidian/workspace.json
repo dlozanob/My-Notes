@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3f850e6c5d522b44",
+        "id": "df01e234d8c94445",
         "type": "tabs",
         "children": [
           {
-            "id": "e4e8d934e81e9177",
+            "id": "b910bc7cf2286187",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Verilog.md",
+                "file": "Mecanismos.md",
                 "mode": "preview",
                 "source": false
               }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Verilog.md",
+                "file": "Mecanismos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Verilog.md",
+                "file": "Mecanismos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Verilog.md"
+                "file": "Mecanismos.md"
               }
             }
           },
@@ -147,7 +147,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"\"",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -175,43 +175,44 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "e4e8d934e81e9177",
+  "active": "b910bc7cf2286187",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Verilog.md",
-    "attachments/Pasted image 20230428180454.png",
-    "attachments/Pasted image 20230428172656.png",
-    "attachments/Pasted image 20230428172610.png",
-    "Excalidraw/attachments/Pasted Image 20230428193319_960.png",
-    "Excalidraw/attachments/Pasted Image 20230428193111_601.png",
-    "Excalidraw/attachments/Pasted Image 20230428185830_756.png",
-    "Excalidraw/attachments/Pasted Image 20230428012839_670.jpg",
-    "Excalidraw/attachments/Pasted Image 20230428012825_165.jpg",
-    "Excalidraw/attachments/Pasted Image 20230428012755_163.jpg",
-    "Excalidraw/attachments/Pasted Image 20230428012724_141.jpg",
-    "Electrónica Digital II.md",
-    "Main.md",
-    "Ingeniería de Diseño.md",
-    "Principios de Estática.md",
-    "Resistencia de Materiales.md",
-    "Fundamentos de Mecánica de Fluidos.md",
-    "Señales y Sistemas II.md",
-    "Excalidraw/whiteboard.excalidraw.md",
-    "Cap. 4. Análisis cualitativo de sistemas LTI.md",
-    "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
-    "Servomecanismos.md",
-    "Análisis de velocidad.md",
+    "TO DO.md",
     "Mecanismos.md",
+    "Cinemática de Fluidos.md",
     "Excalidraw/blackboard.excalidraw.md",
+    "attachments/Pasted image 20230501154058.png",
+    "attachments/Pasted image 20230501154050.png",
+    "Excalidraw/attachments/Pasted Image 20230501154049_281.png",
+    "attachments/Pasted image 20230501153841.png",
+    "Excalidraw/attachments/Pasted Image 20230501153840_694.png",
+    "attachments/Pasted image 20230501153820.png",
+    "Excalidraw/attachments/Pasted Image 20230501153819_248.png",
+    "attachments/Pasted image 20230501153811.png",
+    "attachments/Pasted image 20230501152946.png",
+    "Excalidraw/attachments/Pasted Image 20230501152930_728.png",
+    "Fundamentos de Mecánica de Fluidos.md",
+    "Estática de Fluidos.md",
+    "Cap. 5. Filtros analógicos.md",
+    "Señales y Sistemas II.md",
+    "Cap. 4. Análisis cualitativo de sistemas LTI.md",
     "LaTeX.md",
-    "balck.md",
+    "Excalidraw/whiteboard.excalidraw.md",
+    "Cap. 1. Modelos de sistemas lineales y no lineales.md",
+    "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
     "Cap. 3. Solución de las ecuaciones de estado de sistemas LTI.md",
+    "Main.md",
+    "Tema 1. Infraestructura de los mercados financieros.md",
     "Linked note.md",
-    "Análisis de posición.md",
-    "Optimización.md",
-    "Síntesis de mecanismos.md",
+    "Servomecanismos.md",
+    "syntax.md",
+    "Fórmulas Financieras Excel.md",
+    "conflict-files-obsidian-git.md",
     "Módulo 4.md",
-    "Tema 3. Indicadores macroeconómicos.md",
+    "Finanzas.md",
+    "Señales y Sistemas I.md",
+    "Tema 3. Introducción a los mercados de capitales.md",
+    "Electrónica Digital II.md",
     "Excalidraw/attachments",
     "attachments",
     "New folder",

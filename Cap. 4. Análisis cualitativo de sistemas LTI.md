@@ -1,10 +1,92 @@
-# Cap. 4. Análisis cualitativo de sistemas LTI
+# Análisis cualitativo de sistemas LTI
 
-Especificaciones en el tiempo:
+## Especificaciones en el tiempo
+
 - Exactitud de la respuesta
-- Sobrepico
-- Tiempo de establecimiento
+- _Tiempo de sobrepico_ ($T_{p}$) y _Sobrepico_ ($Sp$)
+- _Tiempo de establecimiento_ ($T_{e}$)
 
+![](attachments/Pasted%20image%2020230430190740.png)
+
+Donde $y_{rp}$ es el valor de establecimiento.
+
+
+### Tiempo de sobrepico y sobrepico
+
+El _sobrepico_ ($Sp$) se define como la diferencia porcentual entre el valor de establecimiento y el valor pico:
+
+$$\begin{align*}Sp = \frac{y_{max} - y_{rp}}{y_{rp}}*100\%\end{align*}$$
+
+
+La función de transferencia de un sistema de segundo orden es:
+
+$$
+\begin{align*}
+	H(s) = \frac{\omega_{n}^{2}}{s^{2} + 2\zeta\omega_{n}s + \omega^{2}}
+\end{align*}
+$$
+
+Sus polos son:
+
+$$
+\begin{align*}
+	s = -\zeta\omega_{n} \pm \omega_{n}\sqrt{ \zeta^{2} - 1 }
+\end{align*}
+$$
+
+Donde:
+
+$$
+\begin{align*}
+	\omega_{d} = \sqrt{ \zeta^{2} - 1 }
+\end{align*}
+$$
+
+Es la frecuencia natural del sistema.
+
+Posibles casos:
+- $\omega_{d}^{2} < 0$ -> Caso subamortiguado ($\zeta > 1$)
+- $\omega_{d}^{2} = 0$ -> Caso amortiguado ($\zeta = 1$)
+- $\omega_{d}^{2} > 0$ -> Caso sobreamortiguado ($\zeta > 1$)
+
+Donde la solución del sistema está dada por:
+
+$$
+\begin{align*}
+	y(t) = 1 - \frac{e^{ -\zeta\omega_{n}t }}{\sqrt{ 1 - \zeta^{2} }}\sin\left( \omega_{n}\sqrt{ 1 - \zeta^{2} }t + \arctan\left( \frac{\sqrt{ 1 - \zeta^{2} }}{\zeta} \right) \right)
+\end{align*}
+$$
+
+Para un $t > 0$.
+
+Usando el criterio de la primera derivada sobre $y(t)$, se halla que su _sobrepico_ (punto global máximo) ocurre en:
+
+$$
+\begin{align*}
+	&t =  T_{p} = \frac{\pi}{\omega_{n}\sqrt{ 1 - \zeta^{2} }} \\\\
+	&y_{max} = 1 - e^{ \frac{-\zeta \pi}{\sqrt{ 1 - \zeta^{2} }} }
+\end{align*}
+$$
+
+Siendo así, la expresión porcentual de sobrepico para un sistema de segundo orden es:
+
+$$
+\begin{align*}
+	SP = 100\cdot e^{ \frac{-\zeta \pi}{\sqrt{ 1 - \zeta^{2} }} }\%
+\end{align*}
+$$
+
+
+- _Tiempo de establecimiento_ ($T_{e}$)
+	-   Es el tiempo que toma el sistema en llegar a su estado estacionario, donde su respuesta no difiere del 2% a su valor de estado estacionario
+	-   Dicho de otra manera, $T_{e}:\forall$ $t > T_{e}$,  $0.98\cdot y_{rp} \leq y(t) \leq 1.02\cdot y_{rp}$
+	-   Algunos autores toman este margen como el $5\%$
+
+$$
+\begin{align*}
+	T_{e} = 4\tau = \frac{4}{|\alpha_{min}|}
+\end{align*}
+$$
 
 ## Polos y ceros
 
@@ -843,3 +925,170 @@ No se pierde información y el sistema es estable (incluso ante pequeñas variac
 
 
 ## Ventajas de la realimentación
+
+
+Una configuración usada en sistemas de control es la realimentación unitaria.
+
+![](attachments/Pasted%20image%2020230430192830.png)
+
+Donde:
+
+$$
+\begin{align*}
+	\frac{Y(s)}{R(s)} = A\frac{C(s)P(s)}{1 + C(s)R(s)}
+\end{align*}
+$$
+
+>[!Info]
+>- Los cargadores AC->DC usan sistemas realimentados
+>- Un controlador proporcional usa una constante $k_{p}$
+>- En Matlab, `feedback` retorna el$H(S)$ del lazo cerrado. Acepta como entradas 2 parámetros: $H_{N}(s)$ total del numerador y $H_{D}(s)$ total del denominador
+
+Un problema típico en control es el de diseñar un controlador $C(s)$ y una ganancia $A$, tal que, la salida de la _planta_ $y(t)$ siga a la _referencia_ $r(t)$.
+$P(s)$ es el proceso a controlar (velocidad, temperatura, etc).
+
+---
+
+- __Ejemplo__ :
+
+Consideremos una planta cuya función de transferencia es:
+
+$$
+\begin{align*}
+	P(s) = \frac{s - 2}{(s + 0.5)(s - 1)}
+\end{align*}
+$$
+
+El sistema es inestable.
+
+Se debe hallar un controlador $C(s)$ y una ganancia $A$, tal que, la salida $y(t)$ siga una entrada del tipo paso:
+
+$$
+\begin{align*}
+	r(t) = a,\,\,t\geq 0
+\end{align*}
+$$
+
+Se comienza hallando un $C(s)$ que estabilice el sistema.
+
+En un primer instante, se propone un controlador proporcional:
+
+$$
+\begin{align*}
+	C(s) = k,\,\,k>0
+\end{align*}
+$$
+
+La función de transferencia del sistema es:
+
+$$
+\begin{align*}
+	H_{f}(s) &= A \frac{C(s)P(s)}{1 + C(s)P(s)} \\\\
+	&= A \frac{k \frac{s - 2}{(s + 0.5)(s - 1)}}{1 + k \frac{s - 2}{(s + 0.5)(s - 1)}} \\\\
+	&= A \frac{k(s - 2)}{s^{2} + (k - 0.5)s - 0.5 - 2k}
+\end{align*}
+$$
+
+Para que $H_{f}(s)$ sea estable:
+
+$$
+\begin{align*}
+	k - 0.5 &> 0\,\, \to\,\,k > 0.5 \\
+	0.5 + 2k &< 0\,\, \to\,\,k < -0.25
+\end{align*}
+$$
+
+Por tanto, $C(s)$ no puede ser un controlador proporcional.
+
+Ahora bien, se intenta con un controlador de la forma:
+
+$$
+\begin{align*}
+	C(s) = \frac{N_{1}s + N_{0}}{D_{1}s + D_{0}}
+\end{align*}
+$$
+
+Tal que, $N_{0}, N_{1}, D_{0}, D_{1} \in \mathrm{R}$.
+
+Entonces:
+
+$$
+\begin{align*}
+	H_{f}(s) &= \frac{(N_{0}s + N_{1})(s - 2)}{(D_{1}s + D_{0})(s + 0.5)(s - 1) + (N_{1}s + N_{0})(s - 2)} \\\\
+	&= \frac{(N_{0}s + N_{1})(s - 2)}{D_{1}s^{3} + (D_{0} - 0.5D_{1} + N_{1})s^{2} + (-0.5D_{1} - 0.5D_{0} - 2N_{1} + N_{0})s + (-0.5D_{0} - 2N_{0})} \\\\
+	&= \frac{N_{f}(s)}{D_{f}(s)}
+\end{align*}
+$$
+
+Estableciendo los polos en $s_{1} = -1, s_{2} = -2$ y $s_{3} = -3$ :
+
+$$
+\begin{align*}
+	D_{f}(s) &= (s + 1)(s + 2)(s + 3) \\
+	&= s^{3} + 6s^{2} + 11s + 6
+\end{align*}
+$$
+
+Entonces:
+
+$$
+\begin{align*}
+	D_{1} &= 1 \\
+	D_{0} - 0.5D_{1} + N_{1} &= 6 \\
+	-0.5D_{1} - 0.5D_{0} - 2N_{1} + N_{0} &= 11 \\
+	-0.5D_{0} - 2N_{0} &= 6
+\end{align*}
+$$
+
+Se halla:
+
+$$
+\begin{align*}
+	D_{0} &= 22\\
+	D_{1} &= 1 \\
+	N_{0} &= -8.5 \\
+	N_{1} &= -15.5
+\end{align*}
+$$
+
+De tal manera que:
+
+$$
+\begin{align*}
+	C(s) &= \frac{-15.5s -8.5}{s + 22} \\\\
+	H_{f}(s) &= A\frac{(s - 2)(-15.5s - 8.5)}{s^{3} + 6s^{2} + 11s + 6}
+\end{align*}
+$$
+
+Además, la salida en estado estacionario es:
+
+$$
+\begin{align*}
+	y_{e} = aH_{f}(0)
+\end{align*}
+$$
+
+Por lo que $y_{e} = r(t) = a$.
+
+$$
+\begin{align*}
+	H_{f}(0) &= 1 \\
+	\frac{A(-2) (-8.5)}{6} &= 1
+\end{align*}
+$$
+
+Entonces la ganancia es:
+
+$$
+\begin{align*}
+	A = 0.3529
+\end{align*}
+$$
+
+Siendo así, se completa el diseño del sistema de control.
+
+
+>[!Info]
+>- En control se utilizan técnicas para seleccionar los polos en lazo cerrado
+>- Cuando hay ceros en el semiplano derecho se presentan subpicos
+

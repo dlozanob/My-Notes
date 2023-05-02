@@ -1,4 +1,4 @@
-# Cap. 3. Solución de las ecuaciones de estado de sistemas LTI
+# Solución de las ecuaciones de estado de sistemas LTI
 
 La _respuesta completa_ de un sistema es la superposición de:
 
