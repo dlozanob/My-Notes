@@ -52,8 +52,27 @@ $$
 
 
 
-$$
-\begin{align*}
-	cov(X, Y) = \frac{1}{n}\sum_{i=1}^{n}(x_{i})
-\end{align*}
-$$
+	$$
+	\begin{align*}
+		cov(X, Y) = \frac{1}{n}\sum_{i=1}^{n}(x_{i} - E[X])(y_{i} - E[Y]) = E[(X_{i} - E[X])(Y_{i} - E[Y])]
+	\end{align*}
+	$$
+
+	- Si $XY > 0$
+		- Existe una relación lineal entre las variables
+	- Si $XY = 0$
+		- No hay relación lineal
+	- Si $XY < 0$
+		- Hay relación lineal negativa. Cuando una variable decrece, la otra crece.
+
+
+Una acción homogénea es aquel que es la misma para todas las personas.
+
+_risk premium_ es cuanto ganaría por encima de si voy a invertir en bonos de los estados unidos
+
+
+![](attachments/Pasted%20image%2020230502173429.png)
+
+Significa que entre más riesgo $\sigma$, más se invierte
+
+
