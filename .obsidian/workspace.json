@@ -4,33 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "df01e234d8c94445",
+        "id": "7e356c8e7e84416d",
         "type": "tabs",
         "children": [
           {
-            "id": "b910bc7cf2286187",
+            "id": "9105e64c8a5cdbe2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Servomecanismos.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fc6c5811d292ec4e",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/whiteboard.excalidraw.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,7 +77,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/whiteboard.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +93,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/whiteboard.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,9 +114,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Excalidraw/whiteboard.excalidraw.md"
-              }
+              "state": {}
             }
           },
           {
@@ -186,15 +167,15 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "fc6c5811d292ec4e",
+  "active": "9105e64c8a5cdbe2",
   "lastOpenFiles": [
+    "Servomecanismos.md",
+    "Excalidraw/whiteboard.excalidraw.md",
     "Excalidraw/attachments/Pasted Image 20230502123555_315.png",
     "conflict-files-obsidian-git.md",
-    "Excalidraw/whiteboard.excalidraw.md",
     "attachments/Pasted image 20230502073508.png",
     "Excalidraw/attachments/Pasted Image 20230502121641_315.png",
     "Excalidraw/attachments/Pasted Image 20230502120714_362.png",
-    "Servomecanismos.md",
     "Mecanismos.md",
     "TO DO.md",
     "Cinemática de Fluidos.md",
@@ -205,7 +186,6 @@
     "attachments/Pasted image 20230501153841.png",
     "Excalidraw/attachments/Pasted Image 20230501153840_694.png",
     "attachments/Pasted image 20230501153820.png",
-    "Excalidraw/attachments/Pasted Image 20230501153819_248.png",
     "Fundamentos de Mecánica de Fluidos.md",
     "Estática de Fluidos.md",
     "Cap. 5. Filtros analógicos.md",
