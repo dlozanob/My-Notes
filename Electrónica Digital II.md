@@ -459,12 +459,15 @@ El boot de arranque va en la ROM -> Es un programa que se ejecuta al inicio
 Al hacer `buildsocproject.py` se genera el boot de arranque y todo el programa 
 Compila y segundo sintetiza (aquí se guarda el boot de arranque)
 
-El segmento `data` son los datos, se guarda en la Main Ram
+El segmento `data` son los datos (variables globales), se guarda en la Main Ram
 
-Lo primero que hace el procesador es cargar el boot de arranque, luego este pregunta si hay algo nuevo para p
+Lo primero que hace el procesador es cargar el boot de arranque, luego este pregunta si hay algo nuevo para programar
 
+Cada procesador tiene su propio linker (porque las direcciones de memoria son distintas)
 
+Cada objeto tiene su `.text` y su `.data` . El linker ubica todos los `.text` en la primera dirección de Main Ram y todos los `.data` en la misma Main Ram pero después de los `.text` 
 
+El linker crea los punteros a memoria
 
 
 
