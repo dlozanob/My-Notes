@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fc6c5811d292ec4e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/whiteboard.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Servomecanismos.md",
+                "file": "Excalidraw/whiteboard.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Servomecanismos.md",
+                "file": "Excalidraw/whiteboard.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Servomecanismos.md"
+                "file": "Excalidraw/whiteboard.excalidraw.md"
               }
             }
           },
@@ -175,8 +186,11 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "b910bc7cf2286187",
+  "active": "fc6c5811d292ec4e",
   "lastOpenFiles": [
+    "Excalidraw/attachments/Pasted Image 20230502121641_315.png",
+    "Excalidraw/attachments/Pasted Image 20230502120714_362.png",
+    "Servomecanismos.md",
     "Mecanismos.md",
     "TO DO.md",
     "Cinemática de Fluidos.md",
@@ -190,7 +204,6 @@
     "Excalidraw/attachments/Pasted Image 20230501153819_248.png",
     "attachments/Pasted image 20230501153811.png",
     "attachments/Pasted image 20230501152946.png",
-    "Excalidraw/attachments/Pasted Image 20230501152930_728.png",
     "Fundamentos de Mecánica de Fluidos.md",
     "Estática de Fluidos.md",
     "Cap. 5. Filtros analógicos.md",
@@ -204,7 +217,6 @@
     "Main.md",
     "Tema 1. Infraestructura de los mercados financieros.md",
     "Linked note.md",
-    "Servomecanismos.md",
     "syntax.md",
     "Fórmulas Financieras Excel.md",
     "conflict-files-obsidian-git.md",
@@ -212,7 +224,6 @@
     "Finanzas.md",
     "Señales y Sistemas I.md",
     "Tema 3. Introducción a los mercados de capitales.md",
-    "Electrónica Digital II.md",
     "Excalidraw/attachments",
     "attachments",
     "New folder",
