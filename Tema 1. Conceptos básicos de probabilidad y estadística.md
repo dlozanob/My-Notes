@@ -17,7 +17,7 @@ $$
 $$
 
 - _Valor esperado_ ($E(X)$)
-	- Es el valor medio de un conjunto de datos
+	- Es igual a la suma de las probabilidades de que suceda un suceso aleatorio, multiplicada por el valor del suceso aleatorio
 	- Es un promedio ponderado
 	- Caso discreto: 
 
@@ -35,3 +35,25 @@ $$
 $$
 
 Donde $f$ es la frecuencia de aparición de los datos.
+
+- _Varianza_
+	- Nos sirve para cuantificar el riesgo
+	- Estima la divergencia o dispersión de una variable aleatoria $x$ con respecto a su valor esperado $E[x]$ 
+
+$$
+\begin{align*}
+	VAR(X) &= \sigma_{X}^{2} = \frac{1}{n - 1}\sum_{i = 1}^{n}(x_{i} - E[X])^{2} = E[X - E[X]]^{2} = \\
+	&= \sum_{i = 1}^{n} (x_{i} - E(X))^{2} = fX(x)
+\end{align*}
+$$
+
+- _Covarianza_
+	- Mide la relación entre dos variables aleatorias
+
+
+
+$$
+\begin{align*}
+	cov(X, Y) = \frac{1}{n}\sum_{i=1}^{n}(x_{i})
+\end{align*}
+$$
