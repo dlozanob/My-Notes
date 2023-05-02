@@ -471,6 +471,10 @@ El linker crea los punteros a memoria
 
 La BIOS inicializa todo, la boot es parte de la bios
 
+En Litex, `litex/litex/soc/software/bios` se encuentra el programa de la bios, boot de arranque
+
+Al crear los objetos, existen distintas opciones de compilación que se declaran en el archivo Makefile
+
 
 
 
