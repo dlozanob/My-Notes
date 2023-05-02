@@ -469,6 +469,9 @@ Cada objeto tiene su `.text` y su `.data` . El linker ubica todos los `.text` en
 
 El linker crea los punteros a memoria
 
+La BIOS inicializa todo, la boot es parte de la bios
+
+
 
 
 
