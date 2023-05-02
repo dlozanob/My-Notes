@@ -18,6 +18,16 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a7c38d4745b9d381",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/blackboard.excalidraw.md"
+              }
+            }
           }
         ]
       }
@@ -177,8 +187,10 @@
   },
   "active": "2458f5c4b0409997",
   "lastOpenFiles": [
-    "Verilog.md",
+    "Excalidraw/blackboard.excalidraw.md",
     "Electrónica Digital II.md",
+    "attachments/Pasted image 20230502073508.png",
+    "Verilog.md",
     "attachments/Pasted image 20230501154058.png",
     "attachments/Pasted image 20230501154050.png",
     "attachments/Pasted image 20230501153841.png",
@@ -188,7 +200,6 @@
     "attachments/Pasted image 20230501151041.png",
     "attachments/Pasted image 20230501151031.png",
     "attachments/Pasted image 20230501141827.png",
-    "attachments/Pasted image 20230501141411.png",
     "TO DO.md",
     "Cap. 5. Filtros analógicos.md",
     "conflict-files-obsidian-git.md",
@@ -204,7 +215,6 @@
     "Servomecanismos.md",
     "Análisis de velocidad.md",
     "Mecanismos.md",
-    "Excalidraw/blackboard.excalidraw.md",
     "LaTeX.md",
     "balck.md",
     "Cap. 3. Solución de las ecuaciones de estado de sistemas LTI.md",

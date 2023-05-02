@@ -450,6 +450,19 @@ El linker une `foo.o` y `bar.o` -> `foobar.o`
 EL linker define cómo se organiza la memoria -> Distribuye los objetos en las memorias que hay
 Los linker tienen extensión `.ld`
 
+![](attachments/Pasted%20image%2020230502073508.png)
+
+Todo lo que tenga la etiqueta `.text` es nuestro programa
+
+El boot de arranque va en la ROM -> Es un programa que se ejecuta al inicio
+
+Al hacer `buildsocproject.py` se genera el boot de arranque y todo el programa 
+Compila y segundo sintetiza (aquí se guarda el boot de arranque)
+
+EL segmento `data` son los datos 
+
+
+
 
 
 
