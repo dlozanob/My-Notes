@@ -12,6 +12,10 @@ sein ^VLd61090
 
 mein ^TRzjR2JK
 
+sein ^FRo24rdY
+
+ihre ^Ufwge3rb
+
 
 # Embedded files
 c6a42f0c8d3dd69c104d836f035d354a17728cab: [[attachments/Pasted Image 20230502121641_315.png]]
@@ -124,6 +128,76 @@ c6a42f0c8d3dd69c104d836f035d354a17728cab: [[attachments/Pasted Image 20230502121
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "mein",
+			"lineHeight": 1.25
+		},
+		{
+			"id": "FRo24rdY",
+			"type": "text",
+			"x": 460.3708752820274,
+			"y": -71.61631901867366,
+			"width": 28.415985107421875,
+			"height": 20,
+			"angle": 0,
+			"strokeColor": "#c92a2a",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 90,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 1128991569,
+			"version": 26,
+			"versionNonce": 873224113,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1683047881981,
+			"link": null,
+			"locked": false,
+			"text": "sein",
+			"rawText": "sein",
+			"fontSize": 16,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "sein",
+			"lineHeight": 1.25
+		},
+		{
+			"id": "Ufwge3rb",
+			"type": "text",
+			"x": 411.8708752820274,
+			"y": -37.116319018673664,
+			"width": 27.03997802734375,
+			"height": 20,
+			"angle": 0,
+			"strokeColor": "#c92a2a",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 90,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 1156069777,
+			"version": 5,
+			"versionNonce": 446810449,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1683047896611,
+			"link": null,
+			"locked": false,
+			"text": "ihre",
+			"rawText": "ihre",
+			"fontSize": 16,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "ihre",
 			"lineHeight": 1.25
 		},
 		{

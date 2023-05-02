@@ -443,7 +443,37 @@ Topologías:
 - _Big Endian_ : LSB almacenado a la izquierda (dir. 7)
 - _Little Endian_ : LSB almacenado a la derecha (dir. 0)
 
+---
 
+El compilador genera un objeto (`<objeto>.o`)
+El linker une `foo.o` y `bar.o` -> `foobar.o`
+EL linker define cómo se organiza la memoria -> Distribuye los objetos en las memorias que hay
+Los linker tienen extensión `.ld`
+
+![](attachments/Pasted%20image%2020230502073508.png)
+
+Todo lo que tenga la etiqueta `.text` es nuestro programa
+
+El boot de arranque va en la ROM -> Es un programa que se ejecuta al inicio
+
+Al hacer `buildsocproject.py` se genera el boot de arranque y todo el programa 
+Compila y segundo sintetiza (aquí se guarda el boot de arranque)
+
+El segmento `data` son los datos (variables globales), se guarda en la Main Ram
+
+Lo primero que hace el procesador es cargar el boot de arranque, luego este pregunta si hay algo nuevo para programar
+
+Cada procesador tiene su propio linker (porque las direcciones de memoria son distintas)
+
+Cada objeto tiene su `.text` y su `.data`. El linker ubica todos los `.text` en la primera dirección de Main Ram y todos los `.data` en la misma Main Ram pero después de los `.text` 
+
+El linker crea los punteros a memoria
+
+La BIOS inicializa todo, la boot es parte de la bios
+
+En Litex, `litex/litex/soc/software/bios` se encuentra el programa de la bios, boot de arranque
+
+Al crear los objetos, existen distintas opciones de compilación que se declaran en el archivo Makefile
 
 
 
@@ -452,6 +482,10 @@ Topologías:
 ---
 
 # Proyecto
+
+
+Añadir memoria dual port donde el i2s lee
+El procesador actualiza la dual port
 
 
 ```c
