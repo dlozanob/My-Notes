@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Módulo 5. Teoría de portafolio.md",
+                "file": "Tema 1. Conceptos básicos de probabilidad y estadística.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Módulo 5. Teoría de portafolio.md",
+                "file": "Tema 1. Conceptos básicos de probabilidad y estadística.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Módulo 5. Teoría de portafolio.md",
+                "file": "Tema 1. Conceptos básicos de probabilidad y estadística.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Módulo 5. Teoría de portafolio.md"
+                "file": "Tema 1. Conceptos básicos de probabilidad y estadística.md"
               }
             }
           },
@@ -177,8 +177,9 @@
   },
   "active": "9105e64c8a5cdbe2",
   "lastOpenFiles": [
-    "Conceptos básicos de probabilidad y estadística.md",
     "Módulo 5. Teoría de portafolio.md",
+    "Tema 1. Conceptos básicos de probabilidad y estadística.md",
+    "Conceptos básicos de probabilidad y estadística.md",
     "Finanzas.md",
     "Módulo 3. Introducción al mercado de capitales.md",
     "Módulo 1. Economía y matemática financiera.md",
@@ -212,7 +213,6 @@
     "Main.md",
     "Tema 1. Infraestructura de los mercados financieros.md",
     "Linked note.md",
-    "syntax.md",
     "Excalidraw/attachments",
     "attachments",
     "New folder",
