@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mecanismos.md",
+                "file": "Servomecanismos.md",
                 "mode": "preview",
                 "source": false
               }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mecanismos.md",
+                "file": "Servomecanismos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mecanismos.md",
+                "file": "Servomecanismos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mecanismos.md"
+                "file": "Servomecanismos.md"
               }
             }
           },
@@ -177,8 +177,8 @@
   },
   "active": "b910bc7cf2286187",
   "lastOpenFiles": [
-    "TO DO.md",
     "Mecanismos.md",
+    "TO DO.md",
     "Cinemática de Fluidos.md",
     "Excalidraw/blackboard.excalidraw.md",
     "attachments/Pasted image 20230501154058.png",
