@@ -443,7 +443,12 @@ Topologías:
 - _Big Endian_ : LSB almacenado a la izquierda (dir. 7)
 - _Little Endian_ : LSB almacenado a la derecha (dir. 0)
 
+---
 
+El compilador genera un objeto (`<objeto>.o`)
+El linker une `foo.o` y `bar.o` -> `foobar.o`
+EL linker define cómo se organiza la memoria -> Distribuye los objetos en las memorias que hay
+Los linker tienen extensión `.ld`
 
 
 

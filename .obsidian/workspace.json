@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e4e8d934e81e9177",
+            "id": "2458f5c4b0409997",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Verilog.md",
-                "mode": "preview",
+                "file": "Electrónica Digital II.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Verilog.md",
+                "file": "Electrónica Digital II.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Verilog.md",
+                "file": "Electrónica Digital II.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Verilog.md"
+                "file": "Electrónica Digital II.md"
               }
             }
           },
@@ -175,8 +175,10 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "e4e8d934e81e9177",
+  "active": "2458f5c4b0409997",
   "lastOpenFiles": [
+    "Verilog.md",
+    "Electrónica Digital II.md",
     "attachments/Pasted image 20230501154058.png",
     "attachments/Pasted image 20230501154050.png",
     "attachments/Pasted image 20230501153841.png",
@@ -187,12 +189,9 @@
     "attachments/Pasted image 20230501151031.png",
     "attachments/Pasted image 20230501141827.png",
     "attachments/Pasted image 20230501141411.png",
-    "attachments/Pasted image 20230501141332.png",
     "TO DO.md",
     "Cap. 5. Filtros analógicos.md",
     "conflict-files-obsidian-git.md",
-    "Verilog.md",
-    "Electrónica Digital II.md",
     "Main.md",
     "Ingeniería de Diseño.md",
     "Principios de Estática.md",
