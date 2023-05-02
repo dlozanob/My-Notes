@@ -465,7 +465,7 @@ Lo primero que hace el procesador es cargar el boot de arranque, luego este preg
 
 Cada procesador tiene su propio linker (porque las direcciones de memoria son distintas)
 
-Cada objeto tiene su `.text` y su `.data` . El linker ubica todos los `.text` en la primera dirección de Main Ram y todos los `.data` en la misma Main Ram pero después de los `.text` 
+Cada objeto tiene su `.text` y su `.data`. El linker ubica todos los `.text` en la primera dirección de Main Ram y todos los `.data` en la misma Main Ram pero después de los `.text` 
 
 El linker crea los punteros a memoria
 
@@ -482,6 +482,10 @@ Al crear los objetos, existen distintas opciones de compilación que se declaran
 ---
 
 # Proyecto
+
+
+Añadir memoria dual port donde el i2s lee
+El procesador actualiza la dual port
 
 
 ```c
