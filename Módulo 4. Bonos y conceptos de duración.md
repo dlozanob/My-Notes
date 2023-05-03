@@ -1,4 +1,4 @@
-# Módulo 4.
+# Módulo 4. Bonos y conceptos de duración
 
 hay unas garantías (papeles comerciales) respaldadas en un titulo llamado pagaré
 

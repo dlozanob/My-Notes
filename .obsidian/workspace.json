@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a5869a920dfbdb06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Verilog.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Verilog.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Verilog.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -175,10 +188,19 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "2458f5c4b0409997",
+  "active": "a5869a920dfbdb06",
   "lastOpenFiles": [
-    "Excalidraw/blackboard.excalidraw.md",
     "Verilog.md",
+    "conflict-files-obsidian-git.md",
+    "attachments/Pasted image 20230502173429.png",
+    "Tema 1. Conceptos básicos de probabilidad y estadística.md",
+    "Módulo 5. Teoría de portafolio.md",
+    "Módulo 4. Bonos y conceptos de duración.md",
+    "Excalidraw/attachments/Pasted Image 20230502123555_315.png",
+    "Excalidraw/attachments/Pasted Image 20230502121641_315.png",
+    "Excalidraw/attachments/Pasted Image 20230502120714_362.png",
+    "Conceptos básicos de probabilidad y estadística.md",
+    "Excalidraw/blackboard.excalidraw.md",
     "Electrónica Digital II.md",
     "attachments/Pasted image 20230502073508.png",
     "attachments/Pasted image 20230501154058.png",
@@ -186,13 +208,8 @@
     "attachments/Pasted image 20230501153841.png",
     "attachments/Pasted image 20230501153820.png",
     "attachments/Pasted image 20230501153811.png",
-    "attachments/Pasted image 20230501152946.png",
-    "attachments/Pasted image 20230501151041.png",
-    "attachments/Pasted image 20230501151031.png",
-    "attachments/Pasted image 20230501141827.png",
     "TO DO.md",
     "Cap. 5. Filtros analógicos.md",
-    "conflict-files-obsidian-git.md",
     "Main.md",
     "Ingeniería de Diseño.md",
     "Principios de Estática.md",
@@ -208,10 +225,6 @@
     "LaTeX.md",
     "balck.md",
     "Cap. 3. Solución de las ecuaciones de estado de sistemas LTI.md",
-    "Linked note.md",
-    "Análisis de posición.md",
-    "Optimización.md",
-    "Síntesis de mecanismos.md",
     "Excalidraw/attachments",
     "attachments",
     "New folder",
