@@ -280,6 +280,7 @@ always // Triggered at any clock change (no control)
 always @(posedge clk) // Triggered at clk's rising edge
 always @(negedge clk) // Triggered at clock's falling edge
 always @(A or B) // Triggered if (A or B) changes
+always @* // Triggered if any of the inputs change
 ```
 
 A deadlock condition will be created if an always statement has no control.
