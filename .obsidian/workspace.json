@@ -20,13 +20,11 @@
             }
           },
           {
-            "id": "a999a3d07ac5689a",
+            "id": "151b19e32c1aee8f",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.2.7"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -100,7 +98,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Verilog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +114,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Verilog.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,9 +135,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Verilog.md"
-              }
+              "state": {}
             }
           },
           {
@@ -194,10 +188,10 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "a999a3d07ac5689a",
+  "active": "151b19e32c1aee8f",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Verilog.md",
+    "conflict-files-obsidian-git.md",
     "attachments/Pasted image 20230502173429.png",
     "Tema 1. Conceptos básicos de probabilidad y estadística.md",
     "Módulo 5. Teoría de portafolio.md",
