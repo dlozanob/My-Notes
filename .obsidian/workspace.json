@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5e54973b0cc948b9",
+            "id": "a2a0b2f4b50b3392",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Módulo 4. Bonos y conceptos de duración.md",
+                "file": "Módulo 5. Teoría de portafolio.md",
                 "mode": "source",
                 "source": false
               }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Módulo 4. Bonos y conceptos de duración.md",
+                "file": "Módulo 5. Teoría de portafolio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Módulo 4. Bonos y conceptos de duración.md",
+                "file": "Módulo 5. Teoría de portafolio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Módulo 4. Bonos y conceptos de duración.md"
+                "file": "Módulo 5. Teoría de portafolio.md"
               }
             }
           },
@@ -183,11 +183,13 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "5e54973b0cc948b9",
+  "active": "a2a0b2f4b50b3392",
   "lastOpenFiles": [
+    "attachments/Pasted image 20230504181901.png",
+    "Finanzas.md",
+    "Módulo 4. Bonos y conceptos de duración.md",
     "Fórmulas Financieras Excel.md",
     "Excalidraw/blackboard.excalidraw.md",
-    "Módulo 4. Bonos y conceptos de duración.md",
     "attachments/Pasted image 20230503193004.png",
     "attachments/Pasted image 20230503192954.png",
     "Excalidraw/attachments/Pasted Image 20230503192950_000.png",
@@ -198,7 +200,6 @@
     "attachments/Pasted image 20230503192507.png",
     "attachments/Pasted image 20230503192459.png",
     "Excalidraw/attachments/Pasted Image 20230503192456_832.png",
-    "Finanzas.md",
     "attachments/Pasted image 20230428180454.png.md",
     "Verilog.md",
     "Electrónica Digital II.md",
@@ -220,7 +221,6 @@
     "Fundamentos de Mecánica de Fluidos.md",
     "Cap. 5. Filtros analógicos.md",
     "Señales y Sistemas II.md",
-    "Cap. 4. Análisis cualitativo de sistemas LTI.md",
     "Excalidraw/attachments",
     "attachments",
     "New folder",
