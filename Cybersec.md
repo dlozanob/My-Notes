@@ -1,3 +1,3 @@
 # Cybersecurity
 
-- [[Linux commands]]
+- [Linux commands](Linux%20commands.md)

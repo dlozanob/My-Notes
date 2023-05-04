@@ -10,7 +10,7 @@ en los bonos es comun de hablar del valor al maturity
 
 El maturity es la madurez del bono
 es el tiempo en el que madura (vence)
-costo de maduracion del bono (valor al maturity)
+costo de maduracion del bono (valor al maturity o _face value_)
 
 es costumbre que los bonos se trabajen capitalizados semestralmente
 
@@ -229,13 +229,13 @@ Tipos de bonos:
 	- Tienen pagos de cupones periódicos
 	- Son los más tradicionales
 
-![](attachments/Pasted%20image%2020230428172610.png)
+![](attachments/Pasted%20image%2020230503192634.png)
 
 - Bonos sin cupón
 	- No pagan cupones
 	- Al final se obtiene el valor de _maduración_ el cual es normalmente mayor al _principal_
 
-![](attachments/Pasted%20image%2020230428172656.png)
+![](attachments/Pasted%20image%2020230503192559.png)
 
 Según el tipo de emisor, los bonos se clasifican en:
 - Bonos públicos
@@ -300,5 +300,4 @@ Algunas propiedades de los bonos:
 La relación entre el tiempo y la tasa de rendimiento se suele representar a través de lo que se conoce como la _estructura temporal de las tasas de interés_ o _curva de rendimientos_.
 Como por ejemplo:
 
-![](attachments/Pasted%20image%2020230428180454.png)
-
+![](attachments/Pasted%20image%2020230503193004.png)
