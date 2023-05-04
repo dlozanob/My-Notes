@@ -300,5 +300,4 @@ Algunas propiedades de los bonos:
 La relación entre el tiempo y la tasa de rendimiento se suele representar a través de lo que se conoce como la _estructura temporal de las tasas de interés_ o _curva de rendimientos_.
 Como por ejemplo:
 
-![](attachments/Pasted%20image%2020230428180454.png)
-
+![](attachments/Pasted%20image%2020230503193004.png)

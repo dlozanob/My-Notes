@@ -10,9 +10,7 @@ tags: [excalidraw]
 # Text Elements
 
 # Embedded files
-ff242bcf8f9efaeaf0c13be0299e80fa535621ec: [[attachments/Pasted Image 20230503192456_832.png]]
-e89b9fdfd69d1dad60e6018fd1357cc889cd0a76: [[attachments/Pasted Image 20230503192550_166.png]]
-2215233f73a94131aa6802f71426b0f0369d1783: [[attachments/Pasted Image 20230503192631_434.png]]
+0632a261457921448c24a58936e5f96acf4b04c4: [[attachments/Pasted Image 20230503192950_000.png]]
 
 %%
 # Drawing
@@ -22,6 +20,38 @@ e89b9fdfd69d1dad60e6018fd1357cc889cd0a76: [[attachments/Pasted Image 20230503192
 	"version": 2,
 	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.8.21",
 	"elements": [
+		{
+			"id": "6HsWNzwARX-5AKnlts5yR",
+			"type": "image",
+			"x": -344,
+			"y": -74.53984063745025,
+			"width": 490.00000000000006,
+			"height": 325.03984063745025,
+			"angle": 0,
+			"strokeColor": "transparent",
+			"backgroundColor": "transparent",
+			"fillStyle": "cross-hatch",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 1540365989,
+			"version": 34,
+			"versionNonce": 651515595,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1683160201588,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "0632a261457921448c24a58936e5f96acf4b04c4",
+			"scale": [
+				1,
+				1
+			]
+		},
 		{
 			"id": "kAYr0FF6ei2djuOO5IAUz",
 			"type": "image",
@@ -40,11 +70,11 @@ e89b9fdfd69d1dad60e6018fd1357cc889cd0a76: [[attachments/Pasted Image 20230503192
 			"groupIds": [],
 			"roundness": null,
 			"seed": 871588203,
-			"version": 37,
-			"versionNonce": 253671845,
-			"isDeleted": false,
+			"version": 38,
+			"versionNonce": 1861358565,
+			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1683159904627,
+			"updated": 1683160001051,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -72,11 +102,11 @@ e89b9fdfd69d1dad60e6018fd1357cc889cd0a76: [[attachments/Pasted Image 20230503192
 			"groupIds": [],
 			"roundness": null,
 			"seed": 281165061,
-			"version": 131,
-			"versionNonce": 19634603,
-			"isDeleted": false,
+			"version": 132,
+			"versionNonce": 1070942443,
+			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1683159954366,
+			"updated": 1683160001051,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -104,11 +134,11 @@ e89b9fdfd69d1dad60e6018fd1357cc889cd0a76: [[attachments/Pasted Image 20230503192
 			"groupIds": [],
 			"roundness": null,
 			"seed": 796994635,
-			"version": 94,
-			"versionNonce": 1563946117,
-			"isDeleted": false,
+			"version": 95,
+			"versionNonce": 1236291397,
+			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1683159989339,
+			"updated": 1683160001051,
 			"link": null,
 			"locked": false,
 			"status": "pending",
