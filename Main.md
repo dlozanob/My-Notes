@@ -11,6 +11,7 @@
 - [Web Development](Web%20Development.md)
 - [Obsidian Basics](Obsidian%20Basics.md)
 - [LaTeX](LaTeX.md)
+- [[Cybersec]]
 
 
 ## Tools
