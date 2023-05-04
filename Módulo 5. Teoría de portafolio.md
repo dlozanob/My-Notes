@@ -16,6 +16,7 @@ Algunos nobel en enconomía son:
 	- Su teoría _MPT_ sienta las bases para el Modelo de Fijación de precios de activos de capital (_CAPM_)
 - Merton Howard Miller (1990)
 - William Sharpe (1990)
+	- Desarrola la relación _CAPM_ y _Sharpe_
 - Myron Scholes (1997)
 	- Modelo de valoración de opciones
 - Eugene Fama (2013)
@@ -24,7 +25,11 @@ Algunos nobel en enconomía son:
 - Robert J. Shiller (2013)
 	- Se encuentra entre los 100 economistas más influyentes del mundo
 - Robert C. Merton (1997)
+	- Matemático
+	- Introduce el cálculo estocástico en la economía financiera
+	- Aplicó la teoría del control óptimo
 - Franco Modigliani (1985)
+	- Economista neokeynesiano
 
 
 
