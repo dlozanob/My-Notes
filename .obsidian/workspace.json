@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "b5ccfa6408b0fd7c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Módulo 5. Teoría de portafolio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Módulo 5. Teoría de portafolio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Módulo 5. Teoría de portafolio.md"
               }
             }
           },
@@ -196,10 +183,10 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "b5ccfa6408b0fd7c",
+  "active": "a2a0b2f4b50b3392",
   "lastOpenFiles": [
-    "Módulo 5. Teoría de portafolio.md",
     "conflict-files-obsidian-git.md",
+    "Módulo 5. Teoría de portafolio.md",
     "Excalidraw/attachments/Pasted Image 20230504120945_531.png",
     "Excalidraw/attachments/Pasted Image 20230504114726_463.png",
     "Excalidraw/attachments/Pasted Image 20230504112938_371.png",
