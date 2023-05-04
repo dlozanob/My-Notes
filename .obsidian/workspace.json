@@ -18,16 +18,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "dec01145c38c437c",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md"
-              }
-            }
           }
         ]
       }
@@ -195,9 +185,10 @@
   },
   "active": "5e54973b0cc948b9",
   "lastOpenFiles": [
-    "attachments/Pasted image 20230503193004.png",
+    "Fórmulas Financieras Excel.md",
     "Excalidraw/blackboard.excalidraw.md",
     "Módulo 4. Bonos y conceptos de duración.md",
+    "attachments/Pasted image 20230503193004.png",
     "attachments/Pasted image 20230503192954.png",
     "Excalidraw/attachments/Pasted Image 20230503192950_000.png",
     "attachments/Pasted image 20230503192634.png",
@@ -207,7 +198,6 @@
     "attachments/Pasted image 20230503192507.png",
     "attachments/Pasted image 20230503192459.png",
     "Excalidraw/attachments/Pasted Image 20230503192456_832.png",
-    "attachments/Pasted image 20230503192442.png",
     "Finanzas.md",
     "attachments/Pasted image 20230428180454.png.md",
     "Verilog.md",
