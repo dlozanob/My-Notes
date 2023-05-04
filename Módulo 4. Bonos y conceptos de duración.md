@@ -229,13 +229,13 @@ Tipos de bonos:
 	- Tienen pagos de cupones periódicos
 	- Son los más tradicionales
 
-![](attachments/Pasted%20image%2020230428172610.png)
+![](attachments/Pasted%20image%2020230503192634.png)
 
 - Bonos sin cupón
 	- No pagan cupones
 	- Al final se obtiene el valor de _maduración_ el cual es normalmente mayor al _principal_
 
-![](attachments/Pasted%20image%2020230428172656.png)
+![](attachments/Pasted%20image%2020230503192559.png)
 
 Según el tipo de emisor, los bonos se clasifican en:
 - Bonos públicos
