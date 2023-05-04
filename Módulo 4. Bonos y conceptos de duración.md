@@ -10,7 +10,7 @@ en los bonos es comun de hablar del valor al maturity
 
 El maturity es la madurez del bono
 es el tiempo en el que madura (vence)
-costo de maduracion del bono (valor al maturity)
+costo de maduracion del bono (valor al maturity o _face value_)
 
 es costumbre que los bonos se trabajen capitalizados semestralmente
 

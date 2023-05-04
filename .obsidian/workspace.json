@@ -13,24 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tema 1. Conceptos básicos de probabilidad y estadística.md",
+                "file": "Módulo 4. Bonos y conceptos de duración.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "836c43450758ca27",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.2.7"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tema 1. Conceptos básicos de probabilidad y estadística.md",
+                "file": "Módulo 4. Bonos y conceptos de duración.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tema 1. Conceptos básicos de probabilidad y estadística.md",
+                "file": "Módulo 4. Bonos y conceptos de duración.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tema 1. Conceptos básicos de probabilidad y estadística.md"
+                "file": "Módulo 4. Bonos y conceptos de duración.md"
               }
             }
           },
@@ -194,13 +183,13 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "836c43450758ca27",
+  "active": "9105e64c8a5cdbe2",
   "lastOpenFiles": [
+    "Finanzas.md",
+    "Tema 1. Conceptos básicos de probabilidad y estadística.md",
     "attachments/Pasted image 20230502173429.png",
     "Módulo 5. Teoría de portafolio.md",
-    "Tema 1. Conceptos básicos de probabilidad y estadística.md",
     "Conceptos básicos de probabilidad y estadística.md",
-    "Finanzas.md",
     "Módulo 3. Introducción al mercado de capitales.md",
     "Módulo 1. Economía y matemática financiera.md",
     "Módulo 4. Bonos y conceptos de duración.md",
@@ -220,7 +209,6 @@
     "Excalidraw/attachments/Pasted Image 20230501154049_281.png",
     "attachments/Pasted image 20230501153841.png",
     "Excalidraw/attachments/Pasted Image 20230501153840_694.png",
-    "attachments/Pasted image 20230501153820.png",
     "Fundamentos de Mecánica de Fluidos.md",
     "Estática de Fluidos.md",
     "Cap. 5. Filtros analógicos.md",
