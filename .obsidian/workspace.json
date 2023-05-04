@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux commands.md",
+                "file": "Verilog.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux commands.md",
+                "file": "Verilog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux commands.md",
+                "file": "Verilog.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux commands.md"
+                "file": "Verilog.md"
               }
             }
           },
@@ -198,8 +198,8 @@
   },
   "active": "151b19e32c1aee8f",
   "lastOpenFiles": [
-    "Cybersec.md",
     "Linux commands.md",
+    "Cybersec.md",
     "Main.md",
     "Verilog.md",
     "conflict-files-obsidian-git.md",
