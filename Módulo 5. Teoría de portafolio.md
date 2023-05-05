@@ -33,4 +33,5 @@ Algunos nobel en enconomía son:
 
 
 
-
+>[!Info]
+>Índice de la información diaria de las acciones de Japón: _Nikkei_
