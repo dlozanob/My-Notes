@@ -310,3 +310,22 @@ $$
 	DiasInteres = DiasPeriodo\cdot 
 \end{align*}
 $$
+
+
+
+---
+
+Para un bono con cupón fijo y pago total de la maduración al vencimiento de la vida del bono
+- la Duración del precio negociándolo con descuento será mayor a la Duración del precio negociándolo con prima
+
+¿Cuál es la variación en dolares ($ USD) del precio de un bono por cada USD $100 de valor de maduración establecida mediante una aproximación de orden 2 tras un aumento de 50 puntos básicos en su TIR de compra (Yield)? El bono tiene cupones anuales periodicos, pago de todo el valor de maduración en el periodo de maduración, duración de 20 años, su precio de mercado inicial es USD $96 (por cada USD $100 de valor de maduración), su Convexidad es 525 y su TIR de compra inicial es 15%
+- -8,35
+
+¿Cuál es la variación porcentual (%) del precio de un bono establecida mediante una aproximación de orden 2 tras un aumento de 50 puntos básicos en su TIR de compra (Yield)? El bono tiene cupones anuales periodicos, pago de todo el valor de maduración en el periodo de maduración, duración de 20 años, su precio de mercado inicial es USD $96 (por cada USD $100 de valor de maduración o nominal), su Convexidad es 525 y su TIR de compra inicial es 15%.
+- -8,6957%
+
+Existiendo para un mismo emisor bonos Senior y Junior, con cupones fijos y pago total de sus maduraciones al final de sus vidas. Si el bono Junior es libre de opcionalidades, su convexidad:
+-   
+es más negativa que la del bono Senior.
+
+
