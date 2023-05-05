@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "47e73af524f07e88",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/whiteboard.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Módulo 4. Bonos y conceptos de duración.md",
+                "file": "Excalidraw/whiteboard.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Módulo 4. Bonos y conceptos de duración.md",
+                "file": "Excalidraw/whiteboard.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Módulo 4. Bonos y conceptos de duración.md"
+                "file": "Excalidraw/whiteboard.excalidraw.md"
               }
             }
           },
@@ -183,8 +194,10 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "a2a0b2f4b50b3392",
+  "active": "47e73af524f07e88",
   "lastOpenFiles": [
+    "Módulo 4. Bonos y conceptos de duración.md",
+    "Excalidraw/whiteboard.excalidraw.md",
     "Finanzas.md",
     "Módulo 5. Teoría de portafolio.md",
     "conflict-files-obsidian-git.md",
@@ -193,7 +206,6 @@
     "Excalidraw/attachments/Pasted Image 20230504112938_371.png",
     "Excalidraw/attachments/Pasted Image 20230504111445_288.png",
     "attachments/Pasted image 20230504181901.png",
-    "Módulo 4. Bonos y conceptos de duración.md",
     "Fórmulas Financieras Excel.md",
     "Excalidraw/blackboard.excalidraw.md",
     "attachments/Pasted image 20230503193004.png",
@@ -213,7 +225,6 @@
     "Módulo 3. Introducción al mercado de capitales.md",
     "Módulo 1. Economía y matemática financiera.md",
     "Servomecanismos.md",
-    "Excalidraw/whiteboard.excalidraw.md",
     "Mecanismos.md",
     "TO DO.md",
     "Cinemática de Fluidos.md",
