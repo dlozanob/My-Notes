@@ -29,7 +29,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/whiteboard.excalidraw.md",
+                "file": "Módulo 4. Bonos y conceptos de duración.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/whiteboard.excalidraw.md",
+                "file": "Módulo 4. Bonos y conceptos de duración.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/whiteboard.excalidraw.md"
+                "file": "Módulo 4. Bonos y conceptos de duración.md"
               }
             }
           },
@@ -193,10 +194,10 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "af0628e14eb295f8",
+  "active": "cec32a2983b81e7c",
   "lastOpenFiles": [
-    "Módulo 4. Bonos y conceptos de duración.md",
     "Excalidraw/whiteboard.excalidraw.md",
+    "Módulo 4. Bonos y conceptos de duración.md",
     "Finanzas.md",
     "Módulo 5. Teoría de portafolio.md",
     "conflict-files-obsidian-git.md",
