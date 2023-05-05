@@ -301,3 +301,12 @@ La relación entre el tiempo y la tasa de rendimiento se suele representar a tra
 Como por ejemplo:
 
 ![](attachments/Pasted%20image%2020230503193004.png)
+
+
+- _Días de interés_ 
+
+$$
+\begin{align*}
+	DiasInteres = DiasPeriodo\cdot 
+\end{align*}
+$$
