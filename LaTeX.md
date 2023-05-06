@@ -252,6 +252,7 @@ As we saw in Equation \ref{eq:example}, the slope of the line is represented by 
 | Cancel | `\cancel{}` | $\cancel{ x }$ |
 | Underbrace | `\underbrace{<var>}_{<desc>}` | $\underbrace{ Q }_{output}$ |
 | Space | `\,` | $15\,pT$ |
+| Checkmark | `\checkmark` | $\checkmark$ |
 
 ## Special characters
 
