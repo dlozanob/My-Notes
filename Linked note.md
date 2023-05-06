@@ -7,3 +7,10 @@ Hey! This is a linked note.
 
 
 
+
+$$
+\begin{align*}
+	95 + 15 &< 75 + 70 \\
+	110 &< 145 \checkmark
+\end{align*}
+$$
