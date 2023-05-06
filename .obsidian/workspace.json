@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fundamentos de cinemática de mecanismos.md",
+                "file": "Mecanismos.md",
                 "mode": "preview",
                 "source": false
               }
@@ -53,8 +53,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -124,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LaTeX Template.md",
+                "file": "Mecanismos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LaTeX Template.md",
+                "file": "Mecanismos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LaTeX Template.md"
+                "file": "Mecanismos.md"
               }
             }
           },
@@ -218,16 +217,19 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "7c85f02c74817e44",
+  "active": "af0628e14eb295f8",
   "lastOpenFiles": [
+    "Análisis de velocidad.md",
+    "Mecanismos.md",
+    "Análisis de posición.md",
+    "Fundamentos de cinemática de mecanismos.md",
+    "LaTeX Template.md",
     "LaTeX.md",
     "Linked note.md",
-    "Fundamentos de cinemática de mecanismos.md",
     "Excalidraw/whiteboard.excalidraw.md",
     "Excalidraw/attachments/Pasted Image 20230505190124_118.png",
     "Excalidraw/attachments/Pasted Image 20230505183804_900.png",
     "Excalidraw/blackboard.excalidraw.md",
-    "Mecanismos.md",
     "Módulo 4. Bonos y conceptos de duración.md",
     "Finanzas.md",
     "Módulo 5. Teoría de portafolio.md",
@@ -253,9 +255,6 @@
     "Módulo 3. Introducción al mercado de capitales.md",
     "Módulo 1. Economía y matemática financiera.md",
     "Servomecanismos.md",
-    "TO DO.md",
-    "Cinemática de Fluidos.md",
-    "Fundamentos de Mecánica de Fluidos.md",
     "Excalidraw/attachments",
     "attachments",
     "New folder",
