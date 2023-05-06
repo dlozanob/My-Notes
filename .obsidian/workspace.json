@@ -53,7 +53,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -123,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fundamentos de cinemática de mecanismos.md",
+                "file": "LaTeX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fundamentos de cinemática de mecanismos.md",
+                "file": "LaTeX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fundamentos de cinemática de mecanismos.md"
+                "file": "LaTeX.md"
               }
             }
           },
@@ -217,12 +218,12 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "af0628e14eb295f8",
+  "active": "7c85f02c74817e44",
   "lastOpenFiles": [
+    "Fundamentos de cinemática de mecanismos.md",
     "Linked note.md",
     "LaTeX.md",
     "Excalidraw/whiteboard.excalidraw.md",
-    "Fundamentos de cinemática de mecanismos.md",
     "Excalidraw/attachments/Pasted Image 20230505190124_118.png",
     "Excalidraw/attachments/Pasted Image 20230505183804_900.png",
     "Excalidraw/blackboard.excalidraw.md",
