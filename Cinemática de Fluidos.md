@@ -222,6 +222,7 @@ Si el fluido no es estacionario, se tendrían que considerar las velocidades en 
 
 ![](attachments/Pasted%20image%2020230501154058.png)
 
+
 ---
 
 Las _coordenadas de líneas de corriente_ toman un sistema de referencia relativo a cada posición de una partícula. Sus componentes son una normal ($\hat{n}$) y una tangencial ($\hat{s}$).
@@ -250,5 +251,19 @@ $$
 
 Tal que $a_{n} = \frac{V^{2}}{R}$. Donde $R$ es el radio de curvatura.
 
+
+## Teorema de transporte de Reynolds
+
+Se conecta un sistema con un volumen de control. Por tanto, se conecta la perspectiva Lagrangiana con la Euleriana.
+
+Se tiene:
+
+$$
+\begin{align*}
+	B = m\cdot b
+\end{align*}
+$$
+
+Donde $B$ es cualquier propiedad extensiva, $m$ es masa, y $b$ es cualquier propiedad intensiva.
 
 
