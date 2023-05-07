@@ -393,6 +393,9 @@ $$
 
 ![](attachments/Pasted%20image%2020230507104750.png)
 
+>[!Note]
+>$A_{1} = \frac{1}{\sqrt{ 1 + \varepsilon^{2} }}$
+
 Como se puede ver en la imagen, resulta para este caso:
 
 $$
@@ -426,3 +429,62 @@ $$
 \end{align*}
 $$
 
+---
+
+- __Ejemplo__ :
+	- $\alpha_{p} = 1\,\,dB$
+	- $\alpha_{s} = 25\,\,dB$
+	- $\omega_{p} = 1$
+	- $\omega_{s} = 1.5$
+
+Entonces para $\omega_{p} = 1 = A_{1}$ :
+
+$$
+\begin{align*}
+	|H(j)| = \frac{1}{\sqrt{ 1 + \varepsilon^{2} }}
+\end{align*}
+$$
+
+Se tiene que:
+
+$$
+\begin{align*}
+	\alpha_{p} &= 20\log\left( \frac{1}{\frac{1}{\sqrt{ 1 + \varepsilon^{2} }}} \right) \\\\
+	&= 10\log(1 + \varepsilon^{2}) = 1\,\,dB
+\end{align*}
+$$
+
+Entonces $\varepsilon^{2} = 0.2589$ .
+
+Se sabe que para ualquier frecuencia:
+
+$$
+\begin{align*}
+	|H(j\omega)| = \frac{1}{\sqrt{ 1 + \varepsilon^{2}V_{N}^{2}(\omega) }}
+\end{align*}
+$$
+
+Entonces:
+
+$$
+\begin{align*}
+	\alpha_{s} &= 20\log\left( \frac{A_{0}}{A_{2}} \right) \\\\
+	&= 10\log(1 + \varepsilon^{2}V_{N}^{2}(1.5)) = 25
+\end{align*}
+$$
+
+Despejando:
+
+$$
+\begin{align*}
+	V_{N}(1.5) = 34.89
+\end{align*}
+$$
+
+Ahora bien:
+
+$$
+\begin{align*}
+	N = \frac{\cosh ^{1}(V_{N}(\omega_{s}))}{\cosh ^{-1}(\omega_{s})}
+\end{align*}
+$$
