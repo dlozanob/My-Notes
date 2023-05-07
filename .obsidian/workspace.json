@@ -18,6 +18,16 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8ff87499ce90ed6b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/blackboard.excalidraw.md"
+              }
+            }
           }
         ]
       }
@@ -185,10 +195,15 @@
   },
   "active": "af0628e14eb295f8",
   "lastOpenFiles": [
+    "attachments/Pasted image 20230507114225.png",
+    "Excalidraw/blackboard.excalidraw.md",
+    "Excalidraw/attachments/Pasted Image 20230507114222_896.png",
+    "Cap. 5. Filtros analógicos.md",
+    "attachments/Pasted image 20230507114015.png",
+    "attachments/Pasted image 20230507113454.png",
     "attachments/Pasted image 20230507104750.png",
     "attachments/Pasted image 20230507103557.png",
     "conflict-files-obsidian-git.md",
-    "Cap. 5. Filtros analógicos.md",
     "Señales y Sistemas II.md",
     "Análisis de posición.md",
     "Excalidraw/whiteboard.excalidraw.md",
@@ -201,17 +216,12 @@
     "Fundamentos de cinemática de mecanismos.md",
     "Excalidraw/attachments/Pasted Image 20230505190124_118.png",
     "Excalidraw/attachments/Pasted Image 20230505183804_900.png",
-    "Excalidraw/blackboard.excalidraw.md",
     "Módulo 4. Bonos y conceptos de duración.md",
     "Finanzas.md",
     "Módulo 5. Teoría de portafolio.md",
     "Excalidraw/attachments/Pasted Image 20230504120945_531.png",
     "Excalidraw/attachments/Pasted Image 20230504114726_463.png",
-    "Excalidraw/attachments/Pasted Image 20230504112938_371.png",
-    "Excalidraw/attachments/Pasted Image 20230504111445_288.png",
-    "attachments/Pasted image 20230504181901.png",
     "Fórmulas Financieras Excel.md",
-    "attachments/Pasted image 20230503193004.png",
     "attachments/Pasted image 20230428180454.png.md",
     "Verilog.md",
     "Electrónica Digital II.md",

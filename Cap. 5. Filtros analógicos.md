@@ -505,3 +505,28 @@ De tal modo que se halla el $H(s)$ .
 
 
 ## Filtros de Chebyshev (tipo II)
+
+![](attachments/Pasted%20image%2020230507113454.png)
+
+El filtro de tipo I puede ser mejorado dejando los picos en la banda de rechazo.
+
+¿Cómo hallar la función de transferencia para los filtros de tipo II?
+
+Aplicando $M\left( \frac{1}{\omega^{2}} \right) = \frac{1}{1 + F\left( \frac{1}{\omega^{2}} \right)}$ :
+
+![](attachments/Pasted%20image%2020230507114015.png)
+
+Ahora bien, haciendo $1 - M\left( \frac{1}{\omega^{2}} \right)$ se llega a la expresión para los filtros de tipo II.
+
+$$
+\begin{align*}
+	M_{\omega^{2}} &= \frac{\varepsilon^{2}V_{N}^{2}\left( \frac{1}{\omega} \right)}{1 + \varepsilon^{2}V_{N}^{2}\left( \frac{1}{\omega} \right)} \\\\
+	|H(j\omega)| &= \frac{\varepsilon V_{N}\left( \frac{1}{\omega} \right)}{\sqrt{ 1 + \varepsilon^{2}V_{N}^{2}\left( \frac{1}{\omega} \right) }}
+\end{align*}
+$$
+
+
+
+![](attachments/Pasted%20image%2020230507114225.png)
+
+
