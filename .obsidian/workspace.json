@@ -29,7 +29,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Análisis de velocidad.md",
+                "file": "Excalidraw/blackboard.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Análisis de velocidad.md",
+                "file": "Excalidraw/blackboard.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Análisis de velocidad.md"
+                "file": "Excalidraw/blackboard.excalidraw.md"
               }
             }
           },
@@ -193,11 +194,13 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "af0628e14eb295f8",
+  "active": "8ff87499ce90ed6b",
   "lastOpenFiles": [
+    "Excalidraw/attachments/Pasted Image 20230507160508_083.png",
+    "Excalidraw/attachments/Pasted Image 20230507155103_095.png",
+    "Análisis de velocidad.md",
     "attachments/Pasted image 20230507154154.png",
     "Excalidraw/blackboard.excalidraw.md",
-    "Análisis de velocidad.md",
     "Excalidraw/attachments/Pasted Image 20230507153518_158.png",
     "attachments/Pasted image 20230507152942.png",
     "attachments/Pasted image 20230507152934.png",
@@ -210,9 +213,7 @@
     "attachments/Pasted image 20230507134123.png",
     "attachments/Pasted image 20230507134041.png",
     "attachments/Pasted image 20230507132338.png",
-    "attachments/Pasted image 20230507130605.png",
     "Cap. 5. Filtros analógicos.md",
-    "attachments/Pasted image 20230507122218.png",
     "conflict-files-obsidian-git.md",
     "Señales y Sistemas II.md",
     "Análisis de posición.md",
