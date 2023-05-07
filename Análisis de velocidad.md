@@ -112,7 +112,14 @@ $$
 \end{align*}
 $$
 
-Las velocidades relativas no se conocen.
+De las velocidades relativas solo se conoce su dirección pero no su magnitud.
+
+![](attachments/Pasted%20image%2020230507154154.png)
+
+Donde $\vec{V}_{C/A}$ es perpendicular a $\bar{AC}$ y $\vec{V}_{C/B}$ es perpendicular a $\bar{BC}$ .
+
+El punto de intersección determina las magnitudes de $\vec{V}_{C/A}$ y $\vec{V}_{C/B}$ . Por tanto, se halla $V_{C}$ .
+
 
 
 

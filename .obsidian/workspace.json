@@ -29,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md",
+                "file": "Análisis de velocidad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md",
+                "file": "Análisis de velocidad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md"
+                "file": "Análisis de velocidad.md"
               }
             }
           },
@@ -194,11 +193,12 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "8ff87499ce90ed6b",
+  "active": "af0628e14eb295f8",
   "lastOpenFiles": [
-    "Excalidraw/attachments/Pasted Image 20230507153518_158.png",
-    "Análisis de velocidad.md",
+    "attachments/Pasted image 20230507154154.png",
     "Excalidraw/blackboard.excalidraw.md",
+    "Análisis de velocidad.md",
+    "Excalidraw/attachments/Pasted Image 20230507153518_158.png",
     "attachments/Pasted image 20230507152942.png",
     "attachments/Pasted image 20230507152934.png",
     "Mecanismos.md",
@@ -213,7 +213,6 @@
     "attachments/Pasted image 20230507130605.png",
     "Cap. 5. Filtros analógicos.md",
     "attachments/Pasted image 20230507122218.png",
-    "attachments/Pasted image 20230507121650.png",
     "conflict-files-obsidian-git.md",
     "Señales y Sistemas II.md",
     "Análisis de posición.md",
