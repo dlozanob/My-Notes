@@ -44,6 +44,9 @@ Para ser realizado físicamente, el filtro debe aproximarse. El modelo tendrá l
 
 Al intervalo $\omega_{s} - \omega_{p}$ se le llama banda de transición.
 
+>[!Note]
+>Se busca que $A_{0} = 1$
+
 - _Rizado de la banda de paso_ ($\alpha_{p}$)
 
 $$
@@ -580,4 +583,19 @@ $$
 
 Se deben hallar los $\omega_{i},\,\, i=\{1, 2, \dots, N\}$, tal que, en la banda de paso y en la banda de rechazo se obtengan los mismos máximos y mínimos.
 
+>[!Note]
+>- Estos filtros también reciben el nombre de _filtros equirizados_, ya que, se busca que el rizado de la banda de paso sea igual al de la banda de rechazo
+>- El cálculo de las frecuencias $\omega_{i}$ implica rutinas de optimización y la resolución de integrales elípticas
+
+>[!Info]
+>Los osciloscopios en ocasiones traen implementada una onda _chirp_ :
+>![](attachments/Pasted%20image%2020230507121650.png)
+
+
+Si comparamos los filtros vistos hasta el momento:
+
+![](attachments/Pasted%20image%2020230507122218.png)
+
+- El filtro _elíptico_ presenta la convergencia más rápida al filtro ideal (requiere menos computadores analógicos). Le siguen el de _Chebyshev II_, _Chebyshev I_ y por último el de _Butterworth_
+- El filtro de _Butterworth_ es el que tiene una mayor banda de transición
 

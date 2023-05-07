@@ -11,12 +11,8 @@
             "id": "af0628e14eb295f8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cap. 5. Filtros analógicos.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -29,8 +25,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md"
-              }
+              "state": {}
             }
           },
           {
@@ -194,11 +185,13 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "8ff87499ce90ed6b",
+  "active": "af0628e14eb295f8",
   "lastOpenFiles": [
     "Cap. 5. Filtros analógicos.md",
-    "attachments/Pasted image 20230507115542.png",
+    "attachments/Pasted image 20230507122218.png",
+    "attachments/Pasted image 20230507121650.png",
     "Excalidraw/blackboard.excalidraw.md",
+    "attachments/Pasted image 20230507115542.png",
     "Excalidraw/attachments/Pasted Image 20230507115537_111.png",
     "attachments/Pasted image 20230507115528.png",
     "attachments/Pasted image 20230507114225.png",
@@ -206,7 +199,6 @@
     "attachments/Pasted image 20230507114015.png",
     "attachments/Pasted image 20230507113454.png",
     "attachments/Pasted image 20230507104750.png",
-    "attachments/Pasted image 20230507103557.png",
     "conflict-files-obsidian-git.md",
     "Señales y Sistemas II.md",
     "Análisis de posición.md",
@@ -214,7 +206,6 @@
     "Linked note.md",
     "LaTeX.md",
     "LaTeX Template.md",
-    "Excalidraw/attachments/Pasted Image 20230505223526_027.png",
     "Mecanismos.md",
     "Análisis de velocidad.md",
     "Fundamentos de cinemática de mecanismos.md",
