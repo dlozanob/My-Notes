@@ -390,3 +390,39 @@ $$
 	|H(j)| &= \frac{1}{\sqrt{ 1 + \varepsilon^{2} }}
 \end{align*}
 $$
+
+![](attachments/Pasted%20image%2020230507104750.png)
+
+Como se puede ver en la imagen, resulta para este caso:
+
+$$
+\begin{align*}
+	|H(j)| &= \frac{1}{\sqrt{ 1 + \varepsilon^{2} }} = 0.8912 \\\\
+	\varepsilon &= 0.509
+\end{align*}
+$$
+
+Los polinomios de Chebyshev pueden descritos alternativamente de la forma:
+
+$$
+\begin{align*}
+	V_{N}(\omega) = \cos(N\arccos(\omega))
+\end{align*}
+$$
+
+Además, para $\omega > 1$ se tiene:
+
+$$
+\begin{align*}
+	V_{N}(\omega) = \cosh(N\cosh ^{-1}(\omega))
+\end{align*}
+$$
+
+Para después de la frecuencia de corte:
+
+$$
+\begin{align*}
+	N = \frac{\cosh ^{-1}(V_{N}(\omega))}{\cosh ^{-1}(\omega)}
+\end{align*}
+$$
+
