@@ -456,7 +456,7 @@ $$
 
 Entonces $\varepsilon^{2} = 0.2589$ .
 
-Se sabe que para ualquier frecuencia:
+Se sabe que para cualquier frecuencia:
 
 $$
 \begin{align*}
@@ -485,6 +485,23 @@ Ahora bien:
 
 $$
 \begin{align*}
-	N = \frac{\cosh ^{1}(V_{N}(\omega_{s}))}{\cosh ^{-1}(\omega_{s})}
+	N &= \frac{\cosh ^{1}(V_{N}(\omega_{s}))}{\cosh ^{-1}(\omega_{s})} \\\\
+	&= 4.41 \approx 5
 \end{align*}
 $$
+
+Para terminar el diseño, se hallan los polos estables al hacer:
+
+$$
+\begin{align*}
+	1 + \varepsilon^{2}V_{N}^{2}(\omega^{2}) = 0
+\end{align*}
+$$
+
+De tal modo que se halla el $H(s)$ .
+
+>[!Note]
+>Los filtros de Chebyshev tienen una atenuación más rápida que los de Butterworth, por lo que el diseño de estos requieren menos computadores analógicos
+
+
+## Filtros de Chebyshev (tipo II)
