@@ -48,7 +48,7 @@ Las incógnitas aquí son las aceleraciones tangenciales de $B$, puesto que, su 
 
 Así mismo, las direcciones de $\vec{a}_{B}^{t}$ y $\vec{a}_{B/A}^{t}$ se conocen pero sus magnitudes no.
 
-
+![](attachments/Pasted%20image%2020230507180610.png)
 
 
 
