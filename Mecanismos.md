@@ -4,7 +4,7 @@
 - [Análisis de posición](Análisis%20de%20posición.md)
 - [Síntesis de mecanismos](Síntesis%20de%20mecanismos.md)
 - [Análisis de velocidad](Análisis%20de%20velocidad.md)
-- [Análisis de aceleración](Análisis%20de%20aceleración)
+- [Análisis de aceleración](Análisis%20de%20aceleración.md)
 
 
 ---
