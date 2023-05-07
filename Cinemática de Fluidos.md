@@ -346,7 +346,32 @@ Por tanto:
 $$
 \begin{align*}
 	\dot{B}_{out} - \dot{B}_{in} &= \int _{CSout} \rho bv\cos(\theta) \, dA + \int _{CSin} \rho bv\cos(\theta) \, dA \\\\
-	&= \int _{CS} \rho \, dx 
+	&= \int _{CS} \rho bv\cos(\theta) \, dA
 \end{align*}
 $$
 
+Se enuncia entonces, el _teorema de Reynolds_ :
+
+$$
+\begin{align*}
+	\boxed{\frac{DB_{SYS}}{Dt} = \frac{\partial}{\partial t}\left( \int _{CV}\rho b \, dV  \right) + \int _{CS} \rho bv\cos(\theta) \, dA }
+\end{align*}
+$$
+
+---
+
+- __Ejemplo__ :
+
+![](attachments/Pasted%20image%2020230507134256.png)
+
+¿Cuál es el flujo másico por $\bar{CD}$ ?
+
+Se halla que el segmento $\bar{CD} = \frac{0.5}{\cos(\theta)}$ .
+
+Entonces:
+
+$$
+\begin{align*}
+	\dot{B}_{out} = 
+\end{align*}
+$$
