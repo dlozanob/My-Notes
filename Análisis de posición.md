@@ -140,3 +140,9 @@ Obtenemos una ecuación vectorial (_ecuación de clausura_):
 En eszte caso $\theta_{1}$ y $\theta_{2}$ son valores conocidos y se quiere determinar los valores de $\theta_{3}$ y $\theta_{4}$.
 
 El sistema de ecuaciones obtenido es no lineal, se puede usar el método numérico de solución de sistemas no lineales de Newton-Raphson.
+
+>[!Note]
+>En las posiciones de agarrotamiento se obtiene una matriz jacobiana singular, por lo que al simular en varias posiciones, se recomienda usar un $\Delta t$ que no incluya estos casos
+
+
+
