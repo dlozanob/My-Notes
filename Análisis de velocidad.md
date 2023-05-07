@@ -75,3 +75,24 @@ r_{2}\dot{\theta_{2}}\sin\theta_{2} \\
 \end{pmatrix}
 \end{align*}
 $$
+
+
+## Método gráfico
+
+Se sabe que:
+
+$$
+\begin{align*}
+	\omega &= \frac{d\theta}{dt} \\\\
+	\vec{v} &= \omega \times \vec{r}
+\end{align*}
+$$
+
+La velocidad relativa de un punto $B$ en algún eslabón que se conecta con otro en un punto $A$ es:
+
+$$
+\begin{align*}
+	\vec{V}_{B/A} &= \vec{V}_{B} - \vec{V}_{A} \\\\
+	\vec{V}_{B/A} &= w \times \vec{r}_{B/A}
+\end{align*}
+$$
