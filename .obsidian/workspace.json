@@ -11,8 +11,12 @@
             "id": "af0628e14eb295f8",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Cinemática de Fluidos.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -95,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Cinemática de Fluidos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Cinemática de Fluidos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Cinemática de Fluidos.md"
+              }
             }
           },
           {
@@ -187,6 +195,8 @@
   },
   "active": "af0628e14eb295f8",
   "lastOpenFiles": [
+    "Fundamentos de Mecánica de Fluidos.md",
+    "Cinemática de Fluidos.md",
     "Cap. 5. Filtros analógicos.md",
     "attachments/Pasted image 20230507122218.png",
     "attachments/Pasted image 20230507121650.png",
@@ -221,7 +231,6 @@
     "Linux commands.md",
     "Cybersec.md",
     "Tema 1. Conceptos básicos de probabilidad y estadística.md",
-    "Conceptos básicos de probabilidad y estadística.md",
     "Excalidraw/attachments",
     "attachments",
     "New folder",

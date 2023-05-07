@@ -213,7 +213,8 @@ Si el fluido no es estacionario, se tendrían que considerar las velocidades en 
 
 
 >[!Note]
->Para fluidos estacionarios, las líneas de corriente, las líneas de trayectoria y las líneas de traza son las mismas
+>- Para fluidos estacionarios, las líneas de corriente, las líneas de trayectoria y las líneas de traza son las mismas
+>- Estas líneas de traza son comúnmente usadas en aerodinámica
 
 
 - _Líneas fluidas_
