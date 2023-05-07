@@ -5,6 +5,8 @@ Ultimate template with all the enough packages and features: [LaTeX Template](La
 
 ## The LaTeX Structure
 
+Every LaTeX file has a `.tex` extension.
+
 ```latex
 % Define the document type
 \documentclass{article}
@@ -252,6 +254,7 @@ As we saw in Equation \ref{eq:example}, the slope of the line is represented by 
 | Cancel | `\cancel{}` | $\cancel{ x }$ |
 | Underbrace | `\underbrace{<var>}_{<desc>}` | $\underbrace{ Q }_{output}$ |
 | Space | `\,` | $15\,pT$ |
+| Checkmark | `\checkmark` | $\checkmark$ |
 
 ## Special characters
 
@@ -298,6 +301,7 @@ As we saw in Equation \ref{eq:example}, the slope of the line is represented by 
 | Jump to a new page | `\newpage` |  |
 | Current date | `\today` |  |
 | Display table of contents | `\tableofcontents` |  |
+| Importing a `.tex` file within anoter | `\include{<file>}` | |
 
 
 To center text:
@@ -444,6 +448,36 @@ To change the marker of list items use: `\item[<marker>]`
 - `\todo[⟨options⟩]{⟨todotext⟩}` : Add a To-do item
 - `\todo[color=green!40]{todotext}` : Check box To-do item
 - `\listoftodos` : Add a To-do list
+
+
+## Code and other text formats
+
+```LaTeX
+\begin{lstlisting}
+#include <stdio.h>
+
+int main() {
+   
+   printf("Hello, World!");
+   return 0;
+}
+\end{lstlisting}
+```
+
+Display LaTeX syntax as plain text:
+
+```LaTeX
+\begin{verbatim}
+\documentclass{report}
+\usepackage[utf8]{inputenc}
+
+% Títulos automáticos en español
+\usepackage[spanish]{babel}
+
+% Soporte para buenas urls e hipervínculos entre secciones
+\usepackage{hyperref}
+\end{verbatim}
+```
 
 
 ## References

@@ -11,7 +11,7 @@
 # TO DO
 
 - [x] Actividad: Análisis de posición de mecanismos
-- [ ] Proyecto
+- [x] Proyecto
 - [x] Síntesis de mecanismos: Manivela-corredera balancín
 - [x] Síntesis de mecanismos: Presentación
 - [x] Optimización
