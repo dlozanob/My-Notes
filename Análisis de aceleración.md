@@ -21,4 +21,25 @@ $$
 \end{align*}
 $$
 
+Así mismo, la aceleración relativa de un punto $B$ con respecto a un punto $A$ es:
+
+$$
+\begin{align*}
+	a_{B/A}^{t} &= \frac{dv_{B/A}}{dt} = \alpha r_{AB} \\\\
+	a_{B/A}^{n} &= r_{AB} \omega^{2} = \frac{v_{B/A}^{2}}{r_{AB}}  \\\\
+	\vec{a}_{B/A} &= \vec{a}_{B/A}^{t} + \vec{a}_{B/A}^{n}
+\end{align*}
+$$
+
+La estrategia consiste en hallar la aceleración del punto deseado conociendo la aceleración de un punto perteneciente al mismo eslabón.
+
+Por tanto, se debe conocer la velocidad del punto deseado, así como su velocidad relativa con respecto al otro punto.
+
+$$
+\begin{align*}
+	\vec{a}_{ B } = \vec{a}_{B/A} + \vec{a}_{A}
+\end{align*}
+$$
+
+
 
