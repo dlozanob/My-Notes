@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fundamentos de Mecánica de Fluidos.md",
-                "mode": "preview",
+                "file": "Análisis de velocidad.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fundamentos de Mecánica de Fluidos.md",
+                "file": "Análisis de velocidad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fundamentos de Mecánica de Fluidos.md",
+                "file": "Análisis de velocidad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fundamentos de Mecánica de Fluidos.md"
+                "file": "Análisis de velocidad.md"
               }
             }
           },
@@ -195,8 +195,11 @@
   },
   "active": "af0628e14eb295f8",
   "lastOpenFiles": [
-    "Dinámica de Fluidos.md",
+    "attachments/Pasted image 20230507144559.png",
+    "Mecanismos.md",
+    "Análisis de velocidad.md",
     "Fundamentos de Mecánica de Fluidos.md",
+    "Dinámica de Fluidos.md",
     "Cinemática de Fluidos.md",
     "attachments/Pasted image 20230507134256.png",
     "Excalidraw/blackboard.excalidraw.md",
@@ -217,8 +220,6 @@
     "Linked note.md",
     "LaTeX.md",
     "LaTeX Template.md",
-    "Mecanismos.md",
-    "Análisis de velocidad.md",
     "Fundamentos de cinemática de mecanismos.md",
     "Módulo 4. Bonos y conceptos de duración.md",
     "Finanzas.md",
@@ -230,7 +231,6 @@
     "Estática de Fluidos.md",
     "attachments/Pasted image 20230428172656.png.md",
     "Linux commands.md",
-    "Cybersec.md",
     "Excalidraw/attachments",
     "attachments",
     "New folder",

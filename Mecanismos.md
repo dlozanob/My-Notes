@@ -17,7 +17,7 @@
 - [x] Optimización
 - [ ] Barnes problem
 - [ ] Análisis de velocidad gráfico + imagen
-- [ ] Matlab velocidad
+- [x] Matlab velocidad
 
 ---
 

@@ -14,6 +14,8 @@ $$
 \end{align*}
 $$
 
+![](attachments/Pasted%20image%2020230507144559.png)
+
 Ahora bien, al derivarlas se obtienen las de velocidad:
 
 $$
