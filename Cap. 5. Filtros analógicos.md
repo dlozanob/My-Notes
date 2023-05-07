@@ -333,3 +333,12 @@ $$
 Por tanto, un filtro de Butterworth de orden $9$ cumple con las especificaciones requeridas.
 
 
+## Filtros de Chebyshev
+
+Se define el _polinomio de Chebyshev_ de orden $n$ como:
+
+$$
+\begin{align*}
+	
+\end{align*}
+$$
