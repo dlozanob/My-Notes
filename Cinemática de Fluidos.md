@@ -303,13 +303,50 @@ Podemos determinar el flujo de salida mediante:
 
 $$
 \begin{align*}
-	\dot{B}_{out} = \int _{CSout} d\dot{B}_{out} = \int _{CSout} \rho b\cdot V\cos(\theta) \, dA
+	\dot{B}_{out} &= \int _{CSout} d\dot{B}_{out} = \dot{\bar{\left( \int _{CSout} \rho b\,\,dV \right)}} \\\\
+	&= \int _{CSout} \rho b \, d\dot{V}
 \end{align*}
 $$
 
 Donde $CS$ es la superficie del volumen de control (_control surface_)
 
+El flujo (tasa de cambio volumétrico) es descrito como:
 
+![](attachments/Pasted%20image%2020230507132338.png)
 
+Entonces:
 
+$$
+\begin{align*}
+	\frac{dV}{dt} &= d\vec{A} \cdot \vec{v} \\\\
+	&= v\cos(\theta)dA
+\end{align*}
+$$
+
+Sustituyendo:
+
+$$
+\begin{align*}
+	\dot{B}_{out} = \int _{CSout} \rho b\cdot v \cos(\theta) \, dA
+\end{align*}
+$$
+
+Donde $v$ es la velocidad del fluido que atraviesa ese punto de la superficie.
+
+Análogamente:
+
+$$
+\begin{align*}
+	\dot{B}_{in} = - \int _{CSin} \rho b\cdot v\cos(\theta) \, dA
+\end{align*}
+$$
+
+Por tanto:
+
+$$
+\begin{align*}
+	\dot{B}_{out} - \dot{B}_{in} &= \int _{CSout} \rho bv\cos(\theta) \, dA + \int _{CSin} \rho bv\cos(\theta) \, dA \\\\
+	&= \int _{CS} \rho \, dx 
+\end{align*}
+$$
 
