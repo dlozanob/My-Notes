@@ -339,6 +339,54 @@ Se define el _polinomio de Chebyshev_ de orden $n$ como:
 
 $$
 \begin{align*}
-	
+	V_{N}(x) = 2xV_{N-1}(x) - V_{N-2}(x)
+\end{align*}
+$$
+
+Para $N>2$ .
+
+Donde:
+
+$$
+\begin{align*}
+	V_{1} &= x \\
+	V_{2} &= 2x^{2} - 1
+\end{align*}
+$$
+
+![](attachments/Pasted%20image%2020230507103557.png)
+
+
+>[!Note]
+> - $V_{N}$ es un polinomio par si $N$ es par, es impar si $N$ es impar
+> - Si $-1 \leq x \leq 1$ -> $-1 \leq V_{N}(x) \leq 1$
+> - $V_{N}(1) = 1$
+> - $V_{N}(0) = 1$ o $-1$ si $N$ es par. $V_{N}(0) = 0$ si $N$ es impar
+
+
+### Aproximación de Chebyshev
+
+El filtro satisface:
+
+$$
+\begin{align*}
+	M(\omega^{2}) = \frac{1}{1 + F(\omega^{2})}
+\end{align*}
+$$
+
+De tal modo que:
+
+$$
+\begin{align*}
+	F(\omega^{2}) = \varepsilon^{2}V_{N}^{2}(\omega)
+\end{align*}
+$$
+
+Se sabe que:
+
+$$
+\begin{align*}
+	M(1) &= \frac{1}{1 + \varepsilon^{2}} \\\\
+	|H(j)| &= \frac{1}{\sqrt{ 1 + \varepsilon^{2} }}
 \end{align*}
 $$
