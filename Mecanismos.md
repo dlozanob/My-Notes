@@ -16,8 +16,8 @@
 - [x] Síntesis de mecanismos: Presentación
 - [x] Optimización
 - [ ] Barnes problem
-- [ ] Análisis de velocidad gráfico + imagen
-- [x] Matlab velocidad
+- [ ] Análisis de velocidad gráfico
+- [x] Matlab velocidad + imagen
 
 ---
 

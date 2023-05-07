@@ -1,8 +1,5 @@
 # Análisis de velocidad
 
-
-
-
 ## Ecuaciones de clausura
 
 Para un mecanismo de 4 barras se tenían las siguientes ecuaciones de clausura de posición:
