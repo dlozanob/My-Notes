@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Análisis de velocidad.md",
-                "mode": "source",
+                "file": "Mecanismos.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -29,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md",
+                "file": "Mecanismos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md",
+                "file": "Mecanismos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md"
+                "file": "Mecanismos.md"
               }
             }
           },
@@ -194,13 +193,13 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "8ff87499ce90ed6b",
+  "active": "af0628e14eb295f8",
   "lastOpenFiles": [
-    "Análisis de posición.md",
+    "Análisis de velocidad.md",
     "Excalidraw/blackboard.excalidraw.md",
+    "Análisis de posición.md",
     "Excalidraw/attachments/Pasted Image 20230507160508_083.png",
     "Excalidraw/attachments/Pasted Image 20230507155103_095.png",
-    "Análisis de velocidad.md",
     "attachments/Pasted image 20230507154154.png",
     "Excalidraw/attachments/Pasted Image 20230507153518_158.png",
     "attachments/Pasted image 20230507152942.png",
