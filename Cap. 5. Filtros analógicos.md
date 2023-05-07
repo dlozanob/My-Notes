@@ -394,7 +394,8 @@ $$
 ![](attachments/Pasted%20image%2020230507104750.png)
 
 >[!Note]
->$A_{1} = \frac{1}{\sqrt{ 1 + \varepsilon^{2} }}$
+>- $A_{1} = \frac{1}{\sqrt{ 1 + \varepsilon^{2} }}$
+>- $\omega_{p} = 1$
 
 Como se puede ver en la imagen, resulta para este caso:
 
@@ -525,8 +526,42 @@ $$
 \end{align*}
 $$
 
-
-
 ![](attachments/Pasted%20image%2020230507114225.png)
+
+>[!Note]
+>- Al ser $N(j\omega)$ y $D(j\omega)$ funciones pares de $\omega$, si $H(s)$ es de orden $N$, entonces tendrá $N$ ceros y $N$ polos
+>- $A_{2} = \frac{\varepsilon}{\sqrt{ 1 + \varepsilon^{2} }}$
+>- $\omega_{s} = 1$
+
+
+## Filtros elípticos
+
+La función de magnitud cuadrática es:
+
+$$
+\begin{align*}
+	M(\omega^{2}) = \frac{1}{1 + F(\omega^{2})}
+\end{align*}
+$$
+
+Donde:
+
+$$
+\begin{align*}
+	F(\omega^{2}) = \varepsilon^{2}R_{N}^{2}(\omega)
+\end{align*}
+$$
+
+Tal que:
+
+$$
+\begin{align*}
+	R_{N}(\omega) = \frac{(\omega_{1}^{2} - \omega^{2})(\omega_{2}^{2} - \omega^{2})\dots(\omega_{N}^{2} - \omega^{2})}{(1 - \omega_{1}^{2}\omega^{2})(1 - \omega_{2}^{2}\omega^{2})\dots(1 - \omega_{N}^{2}\omega^{2})}
+\end{align*}
+$$
+
+![](attachments/Pasted%20image%2020230507115542.png)
+
+Se deben hallar los $\omega_{i},\,\, i=\{1, 2, \dots, N\}$, tal que, en la banda de paso y en la banda de rechazo se obtengan los mismos máximos y mínimos.
 
 
