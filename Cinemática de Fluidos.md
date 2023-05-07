@@ -254,7 +254,7 @@ Tal que $a_{n} = \frac{V^{2}}{R}$. Donde $R$ es el radio de curvatura.
 
 ## Teorema de transporte de Reynolds
 
-Se conecta un sistema con un volumen de control. Por tanto, se conecta la perspectiva Lagrangiana con la Euleriana.
+Se conecta un sistema (perspectiva Euleriana) con un volumen de control (perspectiva Lagrangiana).
 
 Se tiene:
 
@@ -265,5 +265,51 @@ $$
 $$
 
 Donde $B$ es cualquier propiedad extensiva, $m$ es masa, y $b$ es cualquier propiedad intensiva.
+
+Se tiene un volumen de control y una masa de control cuyo volumen coincide con el primero para un instante $t$ .
+
+Para un instante posterior $t + \delta t$, la cantidad que sale es igual a la que entra en el volumen de control.
+
+![](attachments/Pasted%20image%2020230507130605.png)
+
+Se determina:
+
+$$
+\begin{align*}
+	B_{SYS} &= \lim_{ \partial V \to 0 } \sum_{i} (\partial V\cdot \rho_{i})b  \\\\
+	&= \int _{SYS} \rho b \, dV
+\end{align*}
+$$
+
+Así mismo,
+
+$$
+\begin{align*}
+	B_{CV} = \int _{CV} \rho b \, dV
+\end{align*}
+$$
+
+Donde $B_{CV}$ es la propiedad extensiva en cuestión del volumen de control (_control volume_).
+
+La tasa de cambio temporal de esta propiedad es su derivada material:
+
+$$
+\begin{align*}
+	\frac{DB_{SYS}}{Dt} = \frac{\partial B_{\omega}}{\partial t} + \dot{B}_{out} - \dot{B}_{in}
+\end{align*}
+$$
+
+Podemos determinar el flujo de salida mediante:
+
+$$
+\begin{align*}
+	\dot{B}_{out} = \int _{CSout} d\dot{B}_{out} = \int _{CSout} \rho b\cdot V\cos(\theta) \, dA
+\end{align*}
+$$
+
+Donde $CS$ es la superficie del volumen de control (_control surface_)
+
+
+
 
 
