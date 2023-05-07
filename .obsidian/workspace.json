@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Análisis de aceleración.md",
-                "mode": "source",
+                "file": "Módulo 4. Bonos y conceptos de duración.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Análisis de aceleración.md",
+                "file": "Módulo 4. Bonos y conceptos de duración.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Análisis de aceleración.md",
+                "file": "Módulo 4. Bonos y conceptos de duración.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Análisis de aceleración.md"
+                "file": "Módulo 4. Bonos y conceptos de duración.md"
               }
             }
           },
@@ -195,10 +195,16 @@
   },
   "active": "af0628e14eb295f8",
   "lastOpenFiles": [
+    "Finanzas.md",
+    "Módulo 3. Introducción al mercado de capitales.md",
+    "Tema 4. Introducción a los mercados monetarios.md",
+    "Módulo 4. Bonos y conceptos de duración.md",
+    "Tema 1. Infraestructura de los mercados financieros.md",
+    "Módulo 5. Teoría de portafolio.md",
+    "Mecanismos.md",
+    "Análisis de aceleración.md",
     "attachments/Pasted image 20230507180610.png",
     "Excalidraw/blackboard.excalidraw.md",
-    "Análisis de aceleración.md",
-    "Mecanismos.md",
     "Análisis de velocidad.md",
     "Análisis de posición.md",
     "Excalidraw/attachments/Pasted Image 20230507160508_083.png",
@@ -213,7 +219,6 @@
     "Cinemática de Fluidos.md",
     "attachments/Pasted image 20230507134256.png",
     "attachments/Pasted image 20230507134123.png",
-    "attachments/Pasted image 20230507134041.png",
     "Cap. 5. Filtros analógicos.md",
     "conflict-files-obsidian-git.md",
     "Señales y Sistemas II.md",
@@ -222,15 +227,10 @@
     "LaTeX.md",
     "LaTeX Template.md",
     "Fundamentos de cinemática de mecanismos.md",
-    "Módulo 4. Bonos y conceptos de duración.md",
-    "Finanzas.md",
-    "Módulo 5. Teoría de portafolio.md",
     "Fórmulas Financieras Excel.md",
     "attachments/Pasted image 20230428180454.png.md",
     "Verilog.md",
     "Electrónica Digital II.md",
-    "Estática de Fluidos.md",
-    "attachments/Pasted image 20230428172656.png.md",
     "Excalidraw/attachments",
     "attachments",
     "New folder",
