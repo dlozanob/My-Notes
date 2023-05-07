@@ -364,7 +364,12 @@ $$
 
 ![](attachments/Pasted%20image%2020230507134256.png)
 
-¿Cuál es el flujo másico por $\bar{CD}$ ?
+El fluido es agua a $4$° .
+
+
+- ¿Cuál es el flujo másico por la superficie delimitada por $\bar{CD}$ ?
+
+La propiedad $B$ es la masa, entonces, partiendo de $B = mb$, $b$ debe ser $1$ .
 
 Se halla que el segmento $\bar{CD} = \frac{0.5}{\cos(\theta)}$ .
 
@@ -372,6 +377,24 @@ Entonces:
 
 $$
 \begin{align*}
-	\dot{B}_{out} = 
+	\dot{B}_{out} &= \int _{CSout} \rho bv\cos(\theta) \, dA  \\\\
+	&= \rho v\cos(\theta)\int _{CSout}  \, dA  \\\\
+	&= \rho v\cos(\theta)\cdot (2\cdot \bar{CD}) \\\\
+	&= \rho v = \left( 1000\,\, \frac{kg}{m^{3}} \right)\left( 3\,\, \frac{m}{s} \right)\cdot m^{2} \\\\
+	&= 3000\,\, \frac{kg}{s}
 \end{align*}
 $$
+
+- ¿Cuál es el flujo volumétrico por la superficie delimitada por $\bar{CD}$ ?
+
+Ahora se toma $b = \frac{1}{\rho}$ .
+
+Análogamente al procedimiento anterior:
+
+$$
+\begin{align*}
+	\dot{B}_{out} = 1000\,\, \frac{m^{3}}{s}
+\end{align*}
+$$
+
+

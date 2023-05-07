@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cinemática de Fluidos.md",
-                "mode": "source",
+                "file": "Fundamentos de Mecánica de Fluidos.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cinemática de Fluidos.md",
+                "file": "Fundamentos de Mecánica de Fluidos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cinemática de Fluidos.md",
+                "file": "Fundamentos de Mecánica de Fluidos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cinemática de Fluidos.md"
+                "file": "Fundamentos de Mecánica de Fluidos.md"
               }
             }
           },
@@ -195,21 +195,21 @@
   },
   "active": "af0628e14eb295f8",
   "lastOpenFiles": [
+    "Dinámica de Fluidos.md",
+    "Fundamentos de Mecánica de Fluidos.md",
+    "Cinemática de Fluidos.md",
     "attachments/Pasted image 20230507134256.png",
     "Excalidraw/blackboard.excalidraw.md",
-    "Cinemática de Fluidos.md",
     "attachments/Pasted image 20230507134123.png",
     "attachments/Pasted image 20230507134041.png",
     "attachments/Pasted image 20230507132338.png",
     "attachments/Pasted image 20230507130605.png",
-    "Fundamentos de Mecánica de Fluidos.md",
     "Cap. 5. Filtros analógicos.md",
     "attachments/Pasted image 20230507122218.png",
     "attachments/Pasted image 20230507121650.png",
     "attachments/Pasted image 20230507115542.png",
     "Excalidraw/attachments/Pasted Image 20230507115537_111.png",
     "attachments/Pasted image 20230507115528.png",
-    "attachments/Pasted image 20230507114225.png",
     "conflict-files-obsidian-git.md",
     "Señales y Sistemas II.md",
     "Análisis de posición.md",
