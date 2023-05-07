@@ -216,6 +216,9 @@ $$
 \end{align*}
 $$
 
+>[!Note]
+>La forma de $F(\omega^{2})$ determina el tipo de filtro y la manera en la que se implementa
+
 
 ### Aproximación de Butterworth
 
@@ -332,6 +335,13 @@ $$
 
 Por tanto, un filtro de Butterworth de orden $9$ cumple con las especificaciones requeridas.
 
+>[!Note]
+>En Matlab:
+>- `poly(<polos>)` retorna el polinomio con los polos como raiz
+>- `bodemag(<H(s)>)` retorna el diagrama de Bode de la función
+>- `buttord()` retorna el orden necesario para un filtro de Butterworth
+>- `butter()` retorna el filtro de Butterworth diseñado
+
 
 ## Filtros de Chebyshev
 
@@ -430,6 +440,9 @@ $$
 \end{align*}
 $$
 
+>[!Note]
+> Computacionalmente, nos debemos asegurar que $y_{ee} = H(0)\cdot u(t)$, con $H(0) = 1$, entonces $N(s) = c$, donde $c$ es el coeficiente de orden $0$ en $D(s)$
+
 ---
 
 - __Ejemplo__ :
@@ -502,7 +515,10 @@ $$
 De tal modo que se halla el $H(s)$ .
 
 >[!Note]
->Los filtros de Chebyshev tienen una atenuación más rápida que los de Butterworth, por lo que el diseño de estos requieren menos computadores analógicos
+>- Los filtros de Chebyshev tienen una atenuación más rápida que los de Butterworth, por lo que el diseño de estos requieren menos computadores analógicos
+>- En Matlab:
+>	- `cheb1ord()` retorna el orden necesario para un filtro de Chebyshev de orden 1
+>	- `cheby1()` retorna el filtro de Chebyshev de orden 1 diseñado
 
 
 ## Filtros de Chebyshev (tipo II)

@@ -29,7 +29,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cap. 5. Filtros analógicos.md",
+                "file": "Excalidraw/blackboard.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cap. 5. Filtros analógicos.md",
+                "file": "Excalidraw/blackboard.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cap. 5. Filtros analógicos.md"
+                "file": "Excalidraw/blackboard.excalidraw.md"
               }
             }
           },
@@ -193,12 +194,12 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "af0628e14eb295f8",
+  "active": "8ff87499ce90ed6b",
   "lastOpenFiles": [
+    "Cap. 5. Filtros analógicos.md",
     "attachments/Pasted image 20230507115542.png",
     "Excalidraw/blackboard.excalidraw.md",
     "Excalidraw/attachments/Pasted Image 20230507115537_111.png",
-    "Cap. 5. Filtros analógicos.md",
     "attachments/Pasted image 20230507115528.png",
     "attachments/Pasted image 20230507114225.png",
     "Excalidraw/attachments/Pasted Image 20230507114222_896.png",
@@ -217,7 +218,6 @@
     "Mecanismos.md",
     "Análisis de velocidad.md",
     "Fundamentos de cinemática de mecanismos.md",
-    "Excalidraw/attachments/Pasted Image 20230505190124_118.png",
     "Módulo 4. Bonos y conceptos de duración.md",
     "Finanzas.md",
     "Módulo 5. Teoría de portafolio.md",
