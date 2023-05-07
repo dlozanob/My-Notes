@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mecanismos.md",
-                "mode": "preview",
+                "file": "Análisis de aceleración.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mecanismos.md",
+                "file": "Análisis de aceleración.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mecanismos.md",
+                "file": "Análisis de aceleración.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mecanismos.md"
+                "file": "Análisis de aceleración.md"
               }
             }
           },
@@ -195,6 +195,8 @@
   },
   "active": "af0628e14eb295f8",
   "lastOpenFiles": [
+    "Mecanismos.md",
+    "Análisis de aceleración.md",
     "Análisis de velocidad.md",
     "Excalidraw/blackboard.excalidraw.md",
     "Análisis de posición.md",
@@ -204,7 +206,6 @@
     "Excalidraw/attachments/Pasted Image 20230507153518_158.png",
     "attachments/Pasted image 20230507152942.png",
     "attachments/Pasted image 20230507152934.png",
-    "Mecanismos.md",
     "attachments/Pasted image 20230507144559.png",
     "Fundamentos de Mecánica de Fluidos.md",
     "Dinámica de Fluidos.md",
