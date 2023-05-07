@@ -96,3 +96,29 @@ $$
 	\vec{V}_{B/A} &= w \times \vec{r}_{B/A}
 \end{align*}
 $$
+
+>[!Note]
+>Dos puntos de un mismo eslabón solo pueden tener una velocidad relativa con dirección perpendicular a la línea que los conecta
+
+¿Cómo hallar la velocidad en el punto $C$?
+
+![](attachments/Pasted%20image%2020230507152942.png)
+
+Se tiene que:
+
+$$
+\begin{align*}
+	\vec{V}_{C} = \vec{V}_{A} + \vec{V}_{C/A} = \vec{V}_{B} + \vec{V}_{C/B}
+\end{align*}
+$$
+
+Las velocidades relativas no se conocen.
+
+
+
+
+
+
+
+
+

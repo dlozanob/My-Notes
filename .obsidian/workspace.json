@@ -29,7 +29,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Análisis de velocidad.md",
+                "file": "Excalidraw/blackboard.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Análisis de velocidad.md",
+                "file": "Excalidraw/blackboard.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Análisis de velocidad.md"
+                "file": "Excalidraw/blackboard.excalidraw.md"
               }
             }
           },
@@ -193,10 +194,13 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "af0628e14eb295f8",
+  "active": "8ff87499ce90ed6b",
   "lastOpenFiles": [
-    "Excalidraw/blackboard.excalidraw.md",
+    "Excalidraw/attachments/Pasted Image 20230507153518_158.png",
     "Análisis de velocidad.md",
+    "Excalidraw/blackboard.excalidraw.md",
+    "attachments/Pasted image 20230507152942.png",
+    "attachments/Pasted image 20230507152934.png",
     "Mecanismos.md",
     "attachments/Pasted image 20230507144559.png",
     "Fundamentos de Mecánica de Fluidos.md",
@@ -210,8 +214,6 @@
     "Cap. 5. Filtros analógicos.md",
     "attachments/Pasted image 20230507122218.png",
     "attachments/Pasted image 20230507121650.png",
-    "attachments/Pasted image 20230507115542.png",
-    "Excalidraw/attachments/Pasted Image 20230507115537_111.png",
     "conflict-files-obsidian-git.md",
     "Señales y Sistemas II.md",
     "Análisis de posición.md",
