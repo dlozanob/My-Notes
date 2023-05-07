@@ -37,9 +37,19 @@ Por tanto, se debe conocer la velocidad del punto deseado, así como su velocida
 
 $$
 \begin{align*}
-	\vec{a}_{ B } = \vec{a}_{B/A} + \vec{a}_{A}
+	\vec{a}_{ B } &= \vec{a}_{B/A} + \vec{a}_{A} \\\\
+	\vec{a}_{B}^{t} + \vec{a}_{B}^{n} &= \vec{a}_{B/A}^{t} + \vec{a}_{B/A}^{n} + \vec{a}_{A}^{t} + \vec{a}_{A}^{n}
 \end{align*}
 $$
+
+Si se conoce la velocidad de $B$ se puede saber su $\omega$, por tanto se conocen sus aceleraciones normales.
+
+Las incógnitas aquí son las aceleraciones tangenciales de $B$, puesto que, su $\alpha$ es desconocido.
+
+Así mismo, las direcciones de $\vec{a}_{B}^{t}$ y $\vec{a}_{B/A}^{t}$ se conocen pero sus magnitudes no.
+
+
+
 
 
 
