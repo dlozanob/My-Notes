@@ -132,8 +132,6 @@ $$
 
 Los bonos cero cupón tienen un mayor riesgo.
 
-El periodo de tenencia es el mismo periodo de maduración.
-
 
 ### Bonos a perpetuidad
 
@@ -193,8 +191,10 @@ $$
 - $y_{0}$ : Yield en el momento de emisión del bono
 - $n$ : Periodos hasta la maduración del bono
 
-Si la valoración se hace en días, entonces, $t = \frac{d}{Base}$ .
-Donde $d$ son los días totales transcurridos hasta el pago del último cupón, y la $Base$ son los días considerados en un año. Comúnmente se toma $Base = 365$ días (se le conoce como base 365/365).
+Supongamos que un inversionista desea revender su bono en el mercado secundario, siendo así, se abordarán unos nuevos conceptos a continuación.
+
+La valoración se hace en días, entonces, $t = \frac{d}{Base}$ .
+Donde $d$ son los días totales transcurridos desde que el inversionista vende el bono hasta el pago del último cupón, y la $Base$ son los días considerados en un año. Comúnmente se toma $Base = 365$ días (se le conoce como base 365/365).
 
 >[!Note]
 >Si un bono se revende en el día $n$ de su emisión, y se cobran cupones cada $x$ días, pues el cupón se pagará de todos modos transcurridos los $x-n$ días de su reventa
@@ -204,6 +204,7 @@ Donde $d$ son los días totales transcurridos hasta el pago del último cupón, 
 
 - _Interés acumulado_ ($\%$)
 	- Es el interés acumulado entre el día de pago del último cupón y la fecha en la que se realiza la transacción del bono
+	- También conocido como _cupón corrido_
 
 Se puede definir como el interés pagado en $d$ días:
 
@@ -220,6 +221,7 @@ Donde:
 
 - _Precio sucio_ ($\%$)
 	- Precio que representa al interés acumulado
+	- También se conoce como _precio total_ o _precio completo_
  
  Se puede definir como:
 
