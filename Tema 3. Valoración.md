@@ -38,7 +38,7 @@ Algunas propiedades de los bonos:
 - Los bonos que se respaldan con ingresos (como en entidades públicas con impuestos), suelen tener menor riesgo
 - Los bonos con mayor tasa de cupón suelen tener mayor rendimiento
 - Los bonos con vencimiento a largo plazo (10 años o más), suelen tener un rendimiento mayor a los que están próximos a vencerse. Ya que, hay incertidumbre sobre la tasa en un plazo mayor
-- Entre mayor TIR tenga un bono, menor es su duración, ya que, se tardará menos en pagarse
+- Entre mayor TIR (_yield_) tenga un bono, menor es su duración, ya que, se tardará menos en pagarse
 
 La relación entre el tiempo y la tasa de rendimiento se suele representar a través de lo que se conoce como la _estructura temporal de las tasas de interés_ o _curva de rendimientos_.
 Como por ejemplo:
@@ -111,6 +111,9 @@ Propiedades de los bonos:
 
 La tasa de rendimiento de un bono varía con el tiempo, por tanto, su precio de venta depende de la misma.
 
+>[!Note]
+>Entre menor sea el tiempo de maduración de un bono existirá menos riesgo, ya que, las tasas de rendimiento no variarán tanto
+
 
 ### Bonos cero cupón
 
@@ -156,4 +159,20 @@ Donde:
 	- El bono es vendido después del $20$° flujo de cupón
 	- Precio pagado por el comprador $= \$ 919.77$ (mismo pagado por el comprador en el mercado primario)
 	- ¿$yield$ considerada por el nuevo comprador?
+
+El precio pagado en el mercado secundario es:
+
+$$
+\begin{align*}
+	P = \frac{1000}{(1 + y)^{10}} + \sum_{t = 1}^{10} \frac{(1000\cdot 0.1)}{(1 + y)^{t}} = 919.77
+\end{align*}
+$$
+
+Se despeja $y$ haciendo uso de herramientas computacionales:
+
+$$
+\begin{align*}
+	y = 6.09\%
+\end{align*}
+$$
 
