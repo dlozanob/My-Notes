@@ -22,11 +22,11 @@
         ]
       },
       {
-        "id": "c6168b3053f3ece0",
+        "id": "61a3eee18daba208",
         "type": "tabs",
         "children": [
           {
-            "id": "34897edecd1bba47",
+            "id": "fc0c00b760a9f6f4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Módulo 4. Bonos y conceptos de duración.md",
+                "file": "Tema 3. Valoración.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Módulo 4. Bonos y conceptos de duración.md",
+                "file": "Tema 3. Valoración.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Módulo 4. Bonos y conceptos de duración.md"
+                "file": "Tema 3. Valoración.md"
               }
             }
           },
@@ -186,7 +186,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249.5
+    "width": 249.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,15 +201,16 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "34897edecd1bba47",
+  "active": "af0628e14eb295f8",
   "lastOpenFiles": [
-    "Tema 3. Valoración.md",
     "Módulo 4. Bonos y conceptos de duración.md",
+    "Tema 3. Valoración.md",
+    "Fórmulas Financieras Excel.md",
+    "Finanzas.md",
     "Tema 2. Tipos de bonos y sus características.md",
     "Tema 1. Definición y clase de los instrumentos de deuda.md",
     "Tema 5. Valoración de operaciones.md",
     "Tema 4. Análisis de sensibilidad.md",
-    "Finanzas.md",
     "Módulo 5. Teoría de portafolio.md",
     "Módulo 3. Introducción al mercado de capitales.md",
     "Módulo 2. Diagnóstico financiero.md",
@@ -227,7 +229,6 @@
     "Tema 1. Economía.md",
     "Excalidraw/blackboard.excalidraw.md",
     "Mecanismos.md",
-    "Análisis de aceleración.md",
     "attachments/Pasted image 20230507180610.png",
     "Excalidraw/attachments/Pasted Image 20230507160508_083.png",
     "Excalidraw/attachments/Pasted Image 20230507155103_095.png",

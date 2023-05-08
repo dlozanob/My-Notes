@@ -44,3 +44,43 @@ La relación entre el tiempo y la tasa de rendimiento se suele representar a tra
 Como por ejemplo:
 
 ![](attachments/Pasted%20image%2020230503193004.png)
+
+
+## Definiciones
+
+- _Precio_
+	- Cantidad por la que se vende el bono
+	- Es el valor presente de los flujos de caja que genera el bono
+- _Valor de maduración (principal)_
+	- Es su valor al _maturity_, su madurez (_face value_)
+	- Es el valor que se paga al finalizar la vida del bono (vencimiento)
+- _Cupón_
+	- Es el valor de interés pagado periódicamente por el emisor
+	- Se establece usualmente como una tasa de interés nominal anual (NASV)
+- _Tasa de rendimiento (yield)_
+	- Es la tasa que espera recibir la persona que adquiere el bono
+	- Es la tasa de interés del mercado
+- _Periodo de maduración_
+	- Es el periodo entre la fecha de emisión y la fecha de maduración del bono
+- _Periodo de tenencia_
+	- Es el periodo de posesión del bono de un inversionista particular
+	- El máximo periodo de tenencia es el periodo de maduración
+
+
+La _valoración_ es el proceso en el que el inversionista establece el precio que está dispuesto por el bono. Este precio de este elemento depende de los flujos de caja que sea capaz de generar a futuro.
+
+El precio de un bono es:
+
+$$
+\begin{align*}
+	P = \frac{M}{(1 + y_{0})^{t}} + \sum_{t = 1}^{n} \frac{C_{t}}{(1 + y_{0})^{t}}
+\end{align*}
+$$
+
+Donde:
+- $P$  : Precio del bono
+- $n$ : Periodos de tiempo hasta el pago del valor de maduración
+- $y_{0}$ : Tasa de rendimiento (yield inicial)
+- $t$ : Vencimiento del flujo de caja
+- $M$ :  Valor de maduración
+- $C_{t}$ : Cupón en el tiempo $t$

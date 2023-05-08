@@ -21,4 +21,6 @@
 | SLN() | SLN() | Sistema de línea recta |
 | SYD() | SYD() | Sistema suma de dígitos |
 | DB() | DB() | Sistema de saldo doble decreciente |
+| PRECIO() | PRICE() | Calcula el precio de un bono |
+
 

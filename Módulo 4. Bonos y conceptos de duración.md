@@ -8,19 +8,7 @@
 
 
 
-
-en los bonos es comun de hablar del valor al maturity
-
-El maturity es la madurez del bono
-es el tiempo en el que madura (vence)
-costo de maduracion del bono (valor al maturity o _face value_)
-
 es costumbre que los bonos se trabajen capitalizados semestralmente
-
-
-el cupon es la tasa de interes del bono (distinto a la tasa de interes del mercado)
-
-yield es la tasa de rendimiento del mercado
 
 
 Si $yield < cupon$ el bono se valoriza ($principal + interes$) (compra por prima) (Precio sucio > 100%)
@@ -35,29 +23,11 @@ duration -> primera derivada
 convexidad -> segunda derivada
 
 
-PRECIO -> Función Excel precio del bono
-
-
 En un cero cupón la duración es la misma maduración
 
 
 En bonos cero cupón hay más riesgo
 
-Precio de un bono:
-
-$$
-\begin{align*}
-	P = \frac{M}{(1 + y_{0})^{t}} + \sum_{t = 1}^{n} \frac{C_{t}}{(1 + y_{0})^{t}}
-\end{align*}
-$$
-
-Donde:
-- $P$  : Precio del bono
-- $n$ : Periodos de tiempo hasta el pago del valor de maduración
-- $y_{0}$ : Tasa de rendimiento (yield inicial)
-- $t$ : Vencimiento del flujo de caja
-- $M$ :  Valor de maduración
-- $C_{t}$ : Cupón en el tiempo $t$
 
 $$
 \begin{align*}
