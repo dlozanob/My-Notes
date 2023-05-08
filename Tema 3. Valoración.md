@@ -258,11 +258,20 @@ Si el tenedor del bono decide venderlo, entonce este va a querer que le responda
 
 ![](attachments/Pasted%20image%2020230507223624.png)
 
-El _precio sucio_ tiene en cuenta los intereses acumulados hasta el momento de venta del bono. El _precio limpio_ no tiene en cuenta estos intereses devengados.
+El _precio sucio_ ($\$$) tiene en cuenta los intereses acumulados hasta el momento de venta del bono. El _precio limpio_ no tiene en cuenta estos intereses devengados.
 
-Entonces, el comprador debe pagar $precio$ $limpio$ + $$
+El _precio limpio_ ($\$$) es el precio del bono en el mercado primario.
 
-El precio sucio para $d$ días transcurridos desde la emisión del bono hasta su venta, toma en cuenta el interés que será generado durante el periodo de tenencia del nuevo dueño, entonces:
+El _full price_ es el costo del bono en el mercado secundario, incluyendo gastos adicionales, impuestos, comisiones, etc. Sin embargo, este puede ser el mismo precio sucio.
+
+
+Entonces, el comprador debe pagar $precio$ $limpio$ + $intereses$ = $precio$ $sucio$.
+
+>[!Note]
+>Aquí se hablaba de precio sucio y limpio como moneda ($\$$)
+>Normalmente estos conceptos representan porcentaje
+
+El precio sucio ($\%$) para $d$ días transcurridos desde la emisión del bono hasta su venta, toma en cuenta el interés que será generado durante el periodo de tenencia del nuevo dueño, entonces:
 
 $$
 \begin{align*}
