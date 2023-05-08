@@ -229,7 +229,7 @@ Donde:
 	- Precio que representa al interés acumulado
 	- También se conoce como _precio total_ o _precio completo_
  
- Se puede definir como:
+ El precio sucio para todo el ciclo del bono es:
 
 $$
 \begin{align*}
@@ -238,7 +238,7 @@ $$
 $$
 
 
-- _Precio limpio_
+- _Precio limpio_ ($\%$)
 	- Es el precio sin los intereses generados desde el momento de pago del último cupón
 
 Se cumple que:
@@ -258,7 +258,18 @@ Si el tenedor del bono decide venderlo, entonce este va a querer que le responda
 
 ![](attachments/Pasted%20image%2020230507223624.png)
 
-El _precio sucio_ tiene en cuenta los intereses acumulados hasta el momento de venta del  
+El _precio sucio_ tiene en cuenta los intereses acumulados hasta el momento de venta del bono. El _precio limpio_ no tiene en cuenta estos intereses devengados.
+
+Entonces, el comprador debe pagar $precio$ $limpio$ + $$
+
+El precio sucio para $d$ días transcurridos desde la emisión del bono hasta su venta, toma en cuenta el interés que será generado durante el periodo de tenencia del nuevo dueño, entonces:
+
+$$
+\begin{align*}
+	PS = \frac{1}{(1 + y)^{\frac{Base - d}{Base}}}
+\end{align*}
+$$
+
 
 
 
