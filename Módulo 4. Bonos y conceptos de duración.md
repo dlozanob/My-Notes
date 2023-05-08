@@ -14,9 +14,6 @@ en los bonos se habla de puntos básicos (cada yield) (basis-point)
 duration -> primera derivada
 convexidad -> segunda derivada
 
-
-
-
 La derivada $\frac{\partial P}{\partial y}$ representa el cambio del precio del bono con respecto al cambio en la tasa de rendimiento
 
 $$

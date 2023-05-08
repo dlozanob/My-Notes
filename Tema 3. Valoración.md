@@ -194,7 +194,7 @@ $$
 - $n$ : Periodos hasta la maduración del bono
 
 Si la valoración se hace en días, entonces, $t = \frac{d}{Base}$ .
-Donde $d$ son los días totales transcurridos hasta el pago del último cupón, y la $Base$ son los días considerados en un año. Comúnmente se toma $Base = 365$ días.
+Donde $d$ son los días totales transcurridos hasta el pago del último cupón, y la $Base$ son los días considerados en un año. Comúnmente se toma $Base = 365$ días (se le conoce como base 365/365).
 
 >[!Note]
 >Si un bono se revende en el día $n$ de su emisión, y se cobran cupones cada $x$ días, pues el cupón se pagará de todos modos transcurridos los $x-n$ días de su reventa
@@ -205,7 +205,7 @@ Donde $d$ son los días totales transcurridos hasta el pago del último cupón, 
 - _Interés acumulado_ ($\%$)
 	- Es el interés acumulado entre el día de pago del último cupón y la fecha en la que se realiza la transacción del bono
 
-Se puede definir 
+Se puede definir como el interés pagado en $d$ días:
 
 $$
 \begin{align*}
@@ -220,6 +220,15 @@ Donde:
 
 - _Precio sucio_ ($\%$)
 	- Precio que representa al interés acumulado
+ 
+ Se puede definir como:
+
+$$
+\begin{align*}
+	Precio\,\,Sucio = \frac{P(y_{0})}{M}
+\end{align*}
+$$
+
 
 - _Precio limpio_
 	- Es el precio sin los intereses generados desde el momento de pago del último cupón
@@ -232,8 +241,8 @@ $$
 \end{align*}
 $$
 
->[!Note]
->Recién pagado un cupón, el precio limpio es igual al precio sucio
+
+
 
 
 
