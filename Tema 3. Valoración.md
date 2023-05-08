@@ -196,4 +196,44 @@ $$
 Si la valoración se hace en días, entonces, $t = \frac{d}{Base}$ .
 Donde $d$ son los días totales transcurridos hasta el pago del último cupón, y la $Base$ son los días considerados en un año. Comúnmente se toma $Base = 365$ días.
 
+>[!Note]
+>Si un bono se revende en el día $n$ de su emisión, y se cobran cupones cada $x$ días, pues el cupón se pagará de todos modos transcurridos los $x-n$ días de su reventa
+
+
+![](attachments/Pasted%20image%2020230507214223.png)
+
+- _Interés acumulado_ ($\%$)
+	- Es el interés acumulado entre el día de pago del último cupón y la fecha en la que se realiza la transacción del bono
+
+Se puede definir 
+
+$$
+\begin{align*}
+	Interés\,\,Acumulado = C\cdot \frac{d}{Base}
+\end{align*}
+$$
+
+Donde:
+- $d$ : Número de días desde la emisión del bono hasta su reventa
+- $C$ : Tasa de cupón 
+
+
+- _Precio sucio_ ($\%$)
+	- Precio que representa al interés acumulado
+
+- _Precio limpio_
+	- Es el precio sin los intereses generados desde el momento de pago del último cupón
+
+Se cumple que:
+
+$$
+\begin{align*}
+	Interés\,\,Acumulado = Precio\,\,Sucio - Precio\,\,Limpio
+\end{align*}
+$$
+
+>[!Note]
+>Recién pagado un cupón, el precio limpio es igual al precio sucio
+
+
 

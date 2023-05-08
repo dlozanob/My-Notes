@@ -17,12 +17,12 @@ tags: [excalidraw]
 	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.8.21",
 	"elements": [
 		{
-			"id": "uQErf5KhjSq61upemC8OH",
+			"id": "0xzlD9RuKZYFncLZ_3FUn",
 			"type": "image",
-			"x": -198,
-			"y": -57.66666666666666,
-			"width": 333,
-			"height": 197.45192307692307,
+			"x": -3791.125,
+			"y": 418,
+			"width": 8780.326530612243,
+			"height": 2109,
 			"angle": 0,
 			"strokeColor": "transparent",
 			"backgroundColor": "transparent",
@@ -33,16 +33,16 @@ tags: [excalidraw]
 			"opacity": 100,
 			"groupIds": [],
 			"roundness": null,
-			"seed": 435649372,
-			"version": 81,
-			"versionNonce": 1019902820,
+			"seed": 338521828,
+			"version": 47,
+			"versionNonce": 629015004,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1683510933791,
+			"updated": 1683513747721,
 			"link": null,
 			"locked": false,
 			"status": "pending",
-			"fileId": "f0fa8dd5c4d3501d13d799ee088507124878104a",
+			"fileId": "a18585ebf479943a79d2dbcf5ed2ea018883d53a",
 			"scale": [
 				1,
 				1
@@ -64,10 +64,10 @@ tags: [excalidraw]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "triangle",
-		"scrollX": 328,
-		"scrollY": 340,
+		"scrollX": 2519.4742063492063,
+		"scrollY": 2111.611111111111,
 		"zoom": {
-			"value": 1
+			"value": 0.1
 		},
 		"currentItemRoundness": "sharp",
 		"gridSize": null,
