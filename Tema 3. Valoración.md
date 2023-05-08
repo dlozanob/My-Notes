@@ -105,10 +105,11 @@ Propiedades de los bonos:
 	- Precio sucio $= 100\%$
 - Si $yield > cupon$ 
 	- El bono se desvaloriza
-	- Se compra por descuento
+	- Compra por descuento
 	- $P > M$
 	- Precio sucio < 100%
 
+La tasa de rendimiento de un bono varía con el tiempo, por tanto, su precio de venta depende de la misma.
 
 
 ### Bonos cero cupón
@@ -128,3 +129,31 @@ $$
 Los bonos cero cupón tienen un mayor riesgo.
 
 El periodo de tenencia es el mismo periodo de maduración.
+
+
+### Bonos a perpetuidad
+
+No existe un _Maturity_, no se devuelve el principal, ya que, se pagan cupones eternamente.
+
+$$
+\begin{align*}
+	P = \frac{C}{Y}
+\end{align*}
+$$
+
+Donde:
+- $C$ : Cupón
+- $Y$ : Tasa de rendimiento
+
+![](attachments/Pasted%20image%2020230507205529.png)
+
+---
+
+- __Ejemplo__ :
+	- $C = 10\%$
+	- Tiempo de maduración $= 40$ semestres
+	- $M = \$ 1000$
+	- El bono es vendido después del $20$° flujo de cupón
+	- Precio pagado por el comprador $= \$ 919.77$ (mismo pagado por el comprador en el mercado primario)
+	- ¿$yield$ considerada por el nuevo comprador?
+
