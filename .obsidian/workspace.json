@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Tema 3. Valoración.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tema 3. Valoración.md",
+                "file": "Módulo 4. Bonos y conceptos de duración.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tema 3. Valoración.md",
+                "file": "Módulo 4. Bonos y conceptos de duración.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tema 3. Valoración.md"
+                "file": "Módulo 4. Bonos y conceptos de duración.md"
               }
             }
           },
@@ -200,10 +200,10 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "af0628e14eb295f8",
+  "active": "34897edecd1bba47",
   "lastOpenFiles": [
-    "Módulo 4. Bonos y conceptos de duración.md",
     "Tema 3. Valoración.md",
+    "Módulo 4. Bonos y conceptos de duración.md",
     "Tema 2. Tipos de bonos y sus características.md",
     "Tema 1. Definición y clase de los instrumentos de deuda.md",
     "Tema 5. Valoración de operaciones.md",
