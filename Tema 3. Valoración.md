@@ -56,16 +56,19 @@ Como por ejemplo:
 	- Es el valor que se paga al finalizar la vida del bono (vencimiento)
 - _Cupón_
 	- Es el valor de interés pagado periódicamente por el emisor
-	- Se establece usualmente como una tasa de interés nominal anual (NASV)
+	- Se calcula como: $M\cdot C$, donde $M$ es el valor de maduración y $C$ es la tasa de cupón (tasa del bono)
+		- Esta tasa se establece usualmente como una tasa de interés nominal anual (NASV)
 - _Tasa de rendimiento (yield)_
 	- Es la tasa que espera recibir la persona que adquiere el bono
 	- Es la tasa de interés del mercado
+	- Esta comúnmente es efectiva anual
 - _Periodo de maduración_
 	- Es el periodo entre la fecha de emisión y la fecha de maduración del bono
 - _Periodo de tenencia_
 	- Es el periodo de posesión del bono de un inversionista particular
 	- El máximo periodo de tenencia es el periodo de maduración
 
+### Bonos con cupón
 
 La _valoración_ es el proceso en el que el inversionista establece el precio que está dispuesto por el bono. Este precio de este elemento depende de los flujos de caja que sea capaz de generar a futuro.
 
@@ -84,3 +87,44 @@ Donde:
 - $t$ : Vencimiento del flujo de caja
 - $M$ :  Valor de maduración
 - $C_{t}$ : Cupón en el tiempo $t$
+
+![](attachments/Pasted%20image%2020230507204633.png)
+
+Los pagos son generalmente semestrales o semianuales.
+
+Propiedades de los bonos:
+- Si $yield < cupon$
+	- El bono se valoriza ($principal + interes$) 
+	- Compra por prima
+	- $P < M$
+	- Precio sucio > 100%
+- Si $yield = cupon$
+	- No se gana nada
+	- Compra a la par
+	- $P = M$
+	- Precio sucio $= 100\%$
+- Si $yield > cupon$ 
+	- El bono se desvaloriza
+	- Se compra por descuento
+	- $P > M$
+	- Precio sucio < 100%
+
+
+
+### Bonos cero cupón
+
+En los _bonos cero cupón_ no existen cupones, por tanto, solo se paga el valor de maduración.
+Su precio es:
+
+$$
+\begin{align*}
+	P = \frac{M}{(1 + y)^{n}}
+\end{align*}
+$$
+
+![](attachments/Pasted%20image%2020230507204428.png)
+
+
+Los bonos cero cupón tienen un mayor riesgo.
+
+El periodo de tenencia es el mismo periodo de maduración.

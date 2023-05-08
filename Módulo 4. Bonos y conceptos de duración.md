@@ -7,14 +7,6 @@
 - [Tema 5. Valoración de operaciones](Tema%205.%20Valoración%20de%20operaciones)
 
 
-
-es costumbre que los bonos se trabajen capitalizados semestralmente
-
-
-Si $yield < cupon$ el bono se valoriza ($principal + interes$) (compra por prima) (Precio sucio > 100%)
-Si $yield = cupon$ no se gana nada (compra a la par)
-Si $yield > cupon$ el bono se desvaloriza (compra por descuento) (Precio sucio < 100%)
-
 en los bonos se habla de puntos básicos (cada yield) (basis-point)
 
 ![](attachments/Pasted%20image%2020230411173453.png)
@@ -23,10 +15,6 @@ duration -> primera derivada
 convexidad -> segunda derivada
 
 
-En un cero cupón la duración es la misma maduración
-
-
-En bonos cero cupón hay más riesgo
 
 
 $$
@@ -35,7 +23,7 @@ $$
 \end{align*}
 $$
 
-La derivada $\frac{\partial P}{\partial y}$ representa el cambio del precio del bono con respecto al cambio en la tasa de rendimiento 
+La derivada $\frac{\partial P}{\partial y}$ representa el cambio del precio del bono con respecto al cambio en la tasa de rendimiento
 
 $$
 \begin{align*}
