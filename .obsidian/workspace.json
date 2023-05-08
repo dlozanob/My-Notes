@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tema 1. Definición y clase de los instrumentos de deuda.md",
+                "file": "Módulo 4. Bonos y conceptos de duración.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tema 1. Definición y clase de los instrumentos de deuda.md",
+                "file": "Módulo 4. Bonos y conceptos de duración.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tema 1. Definición y clase de los instrumentos de deuda.md"
+                "file": "Módulo 4. Bonos y conceptos de duración.md"
               }
             }
           },
@@ -200,8 +200,9 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "abed2df76f33d216",
+  "active": "34897edecd1bba47",
   "lastOpenFiles": [
+    "Tema 1. Definición y clase de los instrumentos de deuda.md",
     "Módulo 4. Bonos y conceptos de duración.md",
     "Tema 5. Valoración de operaciones.md",
     "Tema 4. Análisis de sensibilidad.md",
@@ -209,7 +210,6 @@
     "Tema 2. Tipos de bonos y sus características.md",
     "Finanzas.md",
     "Módulo 5. Teoría de portafolio.md",
-    "Tema 1. Definición y clase de los instrumentos de deuda.md",
     "Módulo 3. Introducción al mercado de capitales.md",
     "Módulo 2. Diagnóstico financiero.md",
     "Módulo 1. Economía y matemática financiera.md",

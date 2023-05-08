@@ -7,11 +7,7 @@
 - [Tema 5. Valoración de operaciones](Tema%205.%20Valoración%20de%20operaciones)
 
 
-hay unas garantías (papeles comerciales) respaldadas en un titulo llamado pagaré
 
-en caso de no pagar eso, se puede demandar a la persona
-
-en los leasing se paga un arriendo del bien
 
 en los bonos es comun de hablar del valor al maturity
 

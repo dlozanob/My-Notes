@@ -18,10 +18,12 @@ Existen 4 tipos de instrumentos de deuda:
 - Préstamos bancarios
 - Papeles comerciales
 	- Son conocidos también como _pagarés de empresas_
-	- Son emitidos por sociedades anónimas, limitadas y entidades públicas
+	- Se respaldan en un titulo llamado _pagaré_
+	 - Son emitidos por sociedades anónimas, limitadas y entidades públicas
 	- No están bajo la supervisión de la Superintendencia Financiera
 	- Se encuentran respaldados por línas de crédito bancarias
 	- Permiten financiación a corto plazo
+	- En caso de no pagarse, se puede demandar a la persona
 - Leasing
 	- El propietario de un activo (arrendador), otorga el derecho de usar el activo a un arrendatario, a cambio de una serie de pagos.
 	  En el contrato se define:
@@ -61,6 +63,11 @@ Tasas presentes en el mercado:
 >[!Note]
 >El _IBR_ ha sustituido paulatinamente a la _DTF_
 
-
-
+Tipos de Leasing:
+- Leasing operativo
+	- Acuerdo usualmente de corto plazo
+	- Permite al arrendatario mantener el derecho de pagar el contrato y devolver el bien al arrendador
+- Leasing financiero
+	- Usualmente se extiende a la vida útil de los activos
+	- Se indica que el arrendatario no puede devolver el bien, de lo contrario será sancionado
 
