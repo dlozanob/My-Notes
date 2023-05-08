@@ -8,14 +8,6 @@ tags: [excalidraw]
 
 
 # Text Elements
-Intereses acumulados ^bwVIzOE1
-
-
-# Embedded files
-f19e1f67d3b31930877da1082fb28f8214771053: $$t$$
-f40207acfbcbcc2c0695479f8baf15b65327279b: $$\underbrace{ }$$
-27cbb7c15211697d454a6bc7f2bd7541078ca545: [[attachments/Pasted Image 20230507223330_546.png]]
-
 %%
 # Drawing
 ```json
@@ -26,9 +18,9 @@ f40207acfbcbcc2c0695479f8baf15b65327279b: $$\underbrace{ }$$
 	"elements": [
 		{
 			"type": "image",
-			"version": 12,
-			"versionNonce": 1851280486,
-			"isDeleted": false,
+			"version": 13,
+			"versionNonce": 2038962790,
+			"isDeleted": true,
 			"id": "AMxbhsonqV5ufu5MwtFQ3",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
@@ -46,7 +38,7 @@ f40207acfbcbcc2c0695479f8baf15b65327279b: $$\underbrace{ }$$
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1683516796970,
+			"updated": 1683518908840,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -58,9 +50,9 @@ f40207acfbcbcc2c0695479f8baf15b65327279b: $$\underbrace{ }$$
 		},
 		{
 			"type": "line",
-			"version": 52,
-			"versionNonce": 1875749562,
-			"isDeleted": false,
+			"version": 53,
+			"versionNonce": 1449764602,
+			"isDeleted": true,
 			"id": "AbpvknkFwUMs6vcToaZRH",
 			"fillStyle": "hachure",
 			"strokeWidth": 2,
@@ -80,7 +72,7 @@ f40207acfbcbcc2c0695479f8baf15b65327279b: $$\underbrace{ }$$
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1683516817107,
+			"updated": 1683518908840,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -101,9 +93,9 @@ f40207acfbcbcc2c0695479f8baf15b65327279b: $$\underbrace{ }$$
 		},
 		{
 			"type": "image",
-			"version": 77,
-			"versionNonce": 1291649594,
-			"isDeleted": false,
+			"version": 78,
+			"versionNonce": 1537465766,
+			"isDeleted": true,
 			"id": "SAtBEz61",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
@@ -121,7 +113,7 @@ f40207acfbcbcc2c0695479f8baf15b65327279b: $$\underbrace{ }$$
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1683516831892,
+			"updated": 1683518908840,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -133,9 +125,9 @@ f40207acfbcbcc2c0695479f8baf15b65327279b: $$\underbrace{ }$$
 		},
 		{
 			"type": "image",
-			"version": 94,
-			"versionNonce": 1166942138,
-			"isDeleted": false,
+			"version": 95,
+			"versionNonce": 122599354,
+			"isDeleted": true,
 			"id": "3jC1hQFu",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
@@ -153,7 +145,7 @@ f40207acfbcbcc2c0695479f8baf15b65327279b: $$\underbrace{ }$$
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1683516848401,
+			"updated": 1683518908840,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -181,11 +173,11 @@ f40207acfbcbcc2c0695479f8baf15b65327279b: $$\underbrace{ }$$
 			"groupIds": [],
 			"roundness": null,
 			"seed": 887494778,
-			"version": 55,
-			"versionNonce": 1804811642,
-			"isDeleted": false,
+			"version": 56,
+			"versionNonce": 1675966694,
+			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1683516863849,
+			"updated": 1683518908840,
 			"link": null,
 			"locked": false,
 			"text": "Intereses acumulados",
@@ -214,10 +206,10 @@ f40207acfbcbcc2c0695479f8baf15b65327279b: $$\underbrace{ }$$
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 863.4534743722054,
-		"scrollY": 314.033109735122,
+		"scrollX": 1016.9656125608133,
+		"scrollY": 225.17993513194716,
 		"zoom": {
-			"value": 1
+			"value": 0.8999999999999999
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
