@@ -112,7 +112,8 @@ Propiedades de los bonos:
 La tasa de rendimiento de un bono varía con el tiempo, por tanto, su precio de venta depende de la misma.
 
 >[!Note]
->Entre menor sea el tiempo de maduración de un bono existirá menos riesgo, ya que, las tasas de rendimiento no variarán tanto
+>- Entre menor sea el tiempo de maduración de un bono existirá menos riesgo, ya que, las tasas de rendimiento no variarán tanto
+>- Más pagos de cupón implican un riesgo mayor
 
 
 ### Bonos cero cupón
@@ -175,4 +176,24 @@ $$
 	y = 6.09\%
 \end{align*}
 $$
+
+
+## Valoración de un bono
+
+Como bien se sabe, el precio de un bono es:
+
+$$
+\begin{align*}
+	P(y_{0}) = \sum_{t = 1}^{n} \frac{FC_{t}}{(1 + y_{0})^{t}} = \sum_{t = 1}^{n} FC_{t}(1 + y_{0})^{-t}
+\end{align*}
+$$
+
+- $P(y_{0})$ : Precio de compra de bono
+- $FC_{t}$ : Flujo de caja para el periodo $t$
+- $y_{0}$ : Yield en el momento de emisión del bono
+- $n$ : Periodos hasta la maduración del bono
+
+Si la valoración se hace en días, entonces, $t = \frac{d}{Base}$ .
+Donde $d$ son los días totales transcurridos hasta el pago del último cupón, y la $Base$ son los días considerados en un año. Comúnmente se toma $Base = 365$ días.
+
 

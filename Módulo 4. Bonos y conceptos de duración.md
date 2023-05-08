@@ -17,12 +17,6 @@ convexidad -> segunda derivada
 
 
 
-$$
-\begin{align*}
-	P(y_{0}) = \sum_{t = 1}^{n} \frac{FC_{t}}{(1 + y_{0})^{t}} = \sum_{t = 1}^{n} FC_{t}(1 + y_{0})^{-t}
-\end{align*}
-$$
-
 La derivada $\frac{\partial P}{\partial y}$ representa el cambio del precio del bono con respecto al cambio en la tasa de rendimiento
 
 $$
