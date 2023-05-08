@@ -1,4 +1,4 @@
-# Tema 3. Indicadores macroeconómicos
+# Indicadores macroeconómicos
 
 La _medición_ en economía se define como el conjunto de instrumentos cualitativos y cuantitativos con la finalidad de intentar predecir factores económicos.
 

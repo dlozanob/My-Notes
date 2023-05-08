@@ -1,4 +1,4 @@
-# Tema 4. Matemáticas financieras
+# Matemáticas financieras
 
 $$
 	Interés = VF - VP

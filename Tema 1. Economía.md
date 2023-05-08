@@ -1,4 +1,4 @@
-# Tema 1. Economía
+# Economía
 
 Un _sistema económico_ se compone de:
 - Agentes: Familias, empresas, estado

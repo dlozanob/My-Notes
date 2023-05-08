@@ -1,4 +1,4 @@
-# Tema 2. Estructura del mercado
+# Estructura del mercado
 
 
 Un _mercado financiero_ es un entorno donde se compran y venden instrumentos financieros (valores), los cuales sirven para financiar (obtención de recursos de capital para apalancar alguna actividad productiva).
