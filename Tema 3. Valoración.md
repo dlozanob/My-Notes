@@ -196,6 +196,12 @@ Supongamos que un inversionista desea revender su bono en el mercado secundario,
 La valoración se hace en días, entonces, $t = \frac{d}{Base}$ .
 Donde $d$ son los días totales transcurridos desde que el inversionista vende el bono hasta el pago del último cupón, y la $Base$ son los días considerados en un año. Comúnmente se toma $Base = 365$ días (se le conoce como base 365/365).
 
+Algunas convenciones para tener en cuenta los días son:
+- Real/Real (Actual/Actual)
+	- Se consideran los días reales de cada mes y los años tienen 365 días
+- 30/360 -> Los meses tienen 30 días y el año 360
+- 30E/360 -> Versión europea de los términos anteriores
+
 >[!Note]
 >Si un bono se revende en el día $n$ de su emisión, y se cobran cupones cada $x$ días, pues el cupón se pagará de todos modos transcurridos los $x-n$ días de su reventa
 
@@ -204,7 +210,7 @@ Donde $d$ son los días totales transcurridos desde que el inversionista vende e
 
 - _Interés acumulado_ ($\%$)
 	- Es el interés acumulado entre el día de pago del último cupón y la fecha en la que se realiza la transacción del bono
-	- También conocido como _cupón corrido_
+	- También conocido como _cupón corrido_, _interés devengado_ o _interés corrido_
 
 Se puede definir como el interés pagado en $d$ días:
 
@@ -244,6 +250,15 @@ $$
 $$
 
 
+Entre cupón y cupón se devengan intereses hasta que se llega a la fecha de pago de cupón y se liquidan los mismos.
+
+![](attachments/Pasted%20image%2020230507222345.png)
+
+Si el tenedor del bono decide venderlo, entonce este va a querer que le respondan por los intereses generados hasta el momento.
+
+![](attachments/Pasted%20image%2020230507223624.png)
+
+El _precio sucio_ tiene en cuenta los intereses acumulados hasta el momento de venta del  
 
 
 
