@@ -9,6 +9,7 @@ En _renta variable_ no se conoce el flujo de caja.
 - _Media_ ($\bar{x}$)
 	- Es el promedio o valor central de los datos
 	- Se denomina también como centro de gravedad de una distribución 
+	- Es un promedio ponderado pero cada $k$ tiene un peso $\frac{1}{n}$
 
 $$
 \begin{align*}
