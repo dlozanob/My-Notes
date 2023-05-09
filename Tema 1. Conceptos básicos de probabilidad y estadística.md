@@ -38,7 +38,7 @@ Donde $f$ es la frecuencia de aparición de los datos.
 
 - _Varianza_
 	- Nos sirve para cuantificar el riesgo
-	- Estima la divergencia o dispersión de una variable aleatoria $x$ con respecto a su valor esperado $E[x]$ 
+	- Estima la divergencia o dispersión de una variable aleatoria $x$ con respecto a su valor esperado $E[x]$
 
 $$
 \begin{align*}
@@ -47,10 +47,24 @@ $$
 \end{align*}
 $$
 
+Puede ser definida también como:
+
+$$
+\begin{align*}
+	VAR(X) = \frac{\sum(X-\bar{X})^{2}}{N}
+\end{align*}
+$$
+
+- _Desviación estándar_ 
+
+$$
+\begin{align*}
+	S = \sqrt{ VAR(X) }
+\end{align*}
+$$
+
 - _Covarianza_
 	- Mide la relación entre dos variables aleatorias
-
-
 
 	$$
 	\begin{align*}

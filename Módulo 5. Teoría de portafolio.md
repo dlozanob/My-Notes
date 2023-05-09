@@ -14,6 +14,7 @@ Algunos nobel en enconomía son:
 	- Desarrolla _MPT_ -> Teoría de inversión que demuestra que el desempeño de una acción individual no es tan importante como toda una cartera
 	- Teoría de la elección de cartera
 	- Su teoría _MPT_ sienta las bases para el Modelo de Fijación de precios de activos de capital (_CAPM_)
+	- Hace un supuesto de que los datos tienden a un valor central
 - Merton Howard Miller (1990)
 - William Sharpe (1990)
 	- Desarrola la relación _CAPM_ y _Sharpe_
