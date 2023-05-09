@@ -181,7 +181,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249.5
+    "width": 249.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,9 +198,11 @@
   },
   "active": "dc8f9c58e42e0ef6",
   "lastOpenFiles": [
+    "Obsidian Basics.md",
+    "Tema 1. Conceptos básicos de probabilidad y estadística.md",
+    "attachments/Pasted image 20230509170153.png",
     "Módulo 5. Teoría de portafolio.md",
     "Finanzas.md",
-    "Tema 1. Conceptos básicos de probabilidad y estadística.md",
     "Fórmulas Financieras Excel.md",
     "formulas.md",
     "Tema 2. Estructura del mercado.md",
@@ -221,7 +224,6 @@
     "attachments/Pasted image 20230508200748.png",
     "attachments/Pasted image 20230508200431.png",
     "attachments/Pasted image 20230508200420.png",
-    "attachments/Pasted image 20230508195942.png",
     "Tema 3. Valoración.md",
     "Tema 4. Análisis de sensibilidad.md",
     "Estática de Fluidos.md",
@@ -232,7 +234,6 @@
     "Tema 1. Definición y clase de los instrumentos de deuda.md",
     "Tema 5. Valoración de operaciones.md",
     "Módulo 2. Diagnóstico financiero.md",
-    "Módulo 1. Economía y matemática financiera.md",
     "Excalidraw/attachments",
     "attachments",
     "New folder",

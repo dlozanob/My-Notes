@@ -98,9 +98,26 @@ $$
 $$
 
 
+Harry Markowitz y William Sharpe analizan el rendimiento de las acciones de dos empresas, y concluye que comprar en las dos hace que las pérdidas de una se compensen con las ganancias de la otra. Se espera que el coeficiente de correlación de las dos empresas en las que se invierte sea negativo para lograr esta compensación.
+
+Hacen una matriz de varianza - covarianza para comparar los rendimientos de las empresas $A$, $B$, $C$, $D$, $E$ . Donde $A$ con $A$ es la varianza, $A$ con $B$ es covarianza de las dos.
+Las covarianzas pueden ser negativas, notemos que al comprar en A, B y C hay 6 covarianzas y 3 varianzas (solo pueden ser positivas), si se compra en más acciones, hay incluso muchas más covarianzas que varianzas.
+Las covarianzas al restar, disminuyen el riesgo. 
+
+![](attachments/Pasted%20image%2020230509170153.png)
+
+Por tanto, al armar un portafolio más grande (invertir en varias compañías al tiempo), se reduce incluso mucho más el riesgo.
+
+>No meter todos los huevos en una sola canasta
+
+
+
+
+>[!Info]
+>Un _ADR_ de Telmex es un
+
 >[!Note]
->HarryMarkowitz analiza el rendimiento de las acciones de dos empresas, y concluye que comprar en las dos hace que las pérdidas de una se compensen con las ganancias de la otra. Se espera que el coeficiente de correlación de las dos empresas en las que se invierte sea negativo para lograr esta compensación
->
+>El _arbitraje_ es comprar bar
 
 
 
