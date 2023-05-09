@@ -240,6 +240,36 @@ $$
 $$
 
 
+### Inercias de interés
+
+- Cilindro:
+
+$$
+\begin{align*}
+	&J_{x} = \frac{1}{8}m\cdot D_{1}^{2} = \frac{\pi}{32}\rho\cdot L\cdot D_{1}^{4} \\\\
+	&J_{y} = \frac{1}{4}m\left( \frac{D_{1}^{2}}{4} + \frac{L^{2}}{3} \right)
+\end{align*}
+$$
+
+![](attachments/Pasted%20image%2020230508200431.png)
+
+- Cilindro hueco:
+
+$$
+\begin{align*}
+	&J_{x} = \frac{1}{8}m(D_{1}^{2} + D_{2}^{2}) = \frac{\pi}{32}\rho\cdot L(D_{1}^{4} - D_{2}^{4}) \\\\
+	&J_{y} = \frac{1}{4}m\left( \frac{D_{1}^{2} + D_{2}^{2}}{4} + \frac{L^{2}}{3}\right)
+\end{align*}
+$$
+
+![](attachments/Pasted%20image%2020230508200420.png)
+
+- 
+
+
+
+
+
 ## Mecanismos de transmisión
 
 La _relación de inercia_ ($IR$) es:
