@@ -11,6 +11,7 @@
 
 Algunos nobel en enconomía son:
 - Harry Markowitz (1990)
+	- Es el padre de la teoría de portafolio
 	- Desarrolla _MPT_ -> Teoría de inversión que demuestra que el desempeño de una acción individual no es tan importante como toda una cartera
 	- Teoría de la elección de cartera
 	- Su teoría _MPT_ sienta las bases para el Modelo de Fijación de precios de activos de capital (_CAPM_)

@@ -80,6 +80,30 @@ $$
 		- Hay relación lineal negativa. Cuando una variable decrece, la otra crece.
 
 
+Se puede representar como el promedio de la suma de las diferencias entre los rendimientos y la media.
+
+$$
+\begin{align*}
+	cov(X, Y) = \frac{\sum_{i=1}^{n}(\bar{X} - x_{i}) + \sum_{i=1}^{m}(\bar{Y} - y_{i})}{2}
+\end{align*}
+$$
+
+- _Coeficiente de correlación_
+	- Es la normalización de la covarianza 
+
+$$
+\begin{align*}
+	coefCor(X, Y) = \frac{cov(X, Y)}{S_{X}\cdot S_{Y}}
+\end{align*}
+$$
+
+
+>[!Note]
+>HarryMarkowitz analiza el rendimiento de las acciones de dos empresas, y concluye que comprar en las dos hace que las pérdidas de una se compensen con las ganancias de la otra. Se espera que el coeficiente de correlación de las dos empresas en las que se invierte sea negativo para lograr esta compensación
+>
+
+
+
 Una acción homogénea es aquel que es la misma para todas las personas.
 
 _risk premium_ es cuanto ganaría por encima de si voy a invertir en bonos de los estados unidos
