@@ -24,6 +24,7 @@ Algunos nobel en enconomía son:
 	- En su tesis de doctorado concluye que los precios de las acciones son impredecibles
 - Robert J. Shiller (2013)
 	- Se encuentra entre los 100 economistas más influyentes del mundo
+	- Dice que el comportamiento de las acciones si se puede predecir
 - Robert C. Merton (1997)
 	- Matemático
 	- Introduce el cálculo estocástico en la economía financiera

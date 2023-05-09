@@ -1,4 +1,4 @@
-# Tema 1. Conceptos básicos de probabilidad y estadística
+# Conceptos básicos de probabilidad y estadística
 
 Un experimento aleatorio es aquel que bajo las mismas condiciones iniciales, los resultados pueden ser distintos.
 
