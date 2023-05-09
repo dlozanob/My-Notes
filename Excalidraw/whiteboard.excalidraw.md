@@ -48,7 +48,7 @@ kommt ^F4ID9IEV
 
 an ^WiyAG5f5
 
-hört ^HTiLIzYY
+horen ^HTiLIzYY
 
 zu ^aQI1UFna
 
@@ -70,7 +70,7 @@ mit ^3r3Z6EDs
 
 leihen ^IyCHKEtn
 
-auf ^McCmdQO5
+aus ^McCmdQO5
 
 kaufe ^mWCrDPMZ
 
@@ -870,7 +870,7 @@ b7d646a57536a1c1cedd064c2ee9efbfd6c86981: [[attachments/Pasted Image 20230509115
 			"type": "text",
 			"x": 76.5473634586885,
 			"y": -141.90120379072798,
-			"width": 40.859954833984375,
+			"width": 49.83995056152344,
 			"height": 25,
 			"angle": 0,
 			"strokeColor": "#c92a2a",
@@ -883,21 +883,21 @@ b7d646a57536a1c1cedd064c2ee9efbfd6c86981: [[attachments/Pasted Image 20230509115
 			"groupIds": [],
 			"roundness": null,
 			"seed": 318292035,
-			"version": 18,
-			"versionNonce": 683574989,
+			"version": 23,
+			"versionNonce": 1282335043,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1683651189653,
+			"updated": 1683651908678,
 			"link": null,
 			"locked": false,
-			"text": "hört",
-			"rawText": "hört",
+			"text": "horen",
+			"rawText": "horen",
 			"fontSize": 20,
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "hört",
+			"originalText": "horen",
 			"lineHeight": 1.25
 		},
 		{
@@ -1255,7 +1255,7 @@ b7d646a57536a1c1cedd064c2ee9efbfd6c86981: [[attachments/Pasted Image 20230509115
 			"type": "text",
 			"x": 290.5473634586885,
 			"y": -8.567870457394633,
-			"width": 34.41996765136719,
+			"width": 35.559967041015625,
 			"height": 25,
 			"angle": 0,
 			"strokeColor": "#c92a2a",
@@ -1268,21 +1268,21 @@ b7d646a57536a1c1cedd064c2ee9efbfd6c86981: [[attachments/Pasted Image 20230509115
 			"groupIds": [],
 			"roundness": null,
 			"seed": 831117251,
-			"version": 21,
-			"versionNonce": 191010723,
+			"version": 24,
+			"versionNonce": 325133347,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1683651269602,
+			"updated": 1683652262121,
 			"link": null,
 			"locked": false,
-			"text": "auf",
-			"rawText": "auf",
+			"text": "aus",
+			"rawText": "aus",
 			"fontSize": 20,
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "auf",
+			"originalText": "aus",
 			"lineHeight": 1.25
 		},
 		{
@@ -2132,8 +2132,8 @@ b7d646a57536a1c1cedd064c2ee9efbfd6c86981: [[attachments/Pasted Image 20230509115
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 649.0919487598452,
-		"scrollY": 357.06911903260675,
+		"scrollX": 335.90882288036636,
+		"scrollY": 272.4250309570719,
 		"zoom": {
 			"value": 1.1814174181989157
 		},
