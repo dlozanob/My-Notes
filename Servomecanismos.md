@@ -758,16 +758,6 @@ Un perfil trapezoidal suave evita el problema de los jerks
 ![](attachments/Pasted%20image%2020230413104034.png)
 
 
-## Selección de servomotores
-
-
-
-
-
-
-
-
-
 
 
 
