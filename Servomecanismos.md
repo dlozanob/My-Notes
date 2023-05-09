@@ -767,7 +767,7 @@ Un perfil trapezoidal suave evita el problema de los jerks
 
 - [x] Videos
 - [x] Docs
-- [ ] Procesos de selección
+- [x] Procesos de selección
 
 ---
 
