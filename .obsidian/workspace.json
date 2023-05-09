@@ -4,27 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "578a573b171216dc",
+        "id": "d0d018950e899652",
         "type": "tabs",
         "children": [
           {
-            "id": "bd7c60dc5e7715a5",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/whiteboard.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "5654e6f78bfcba2b",
+            "id": "5502f64ca7a93aa4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fundamentos de cinemática de mecanismos.md",
-                "mode": "preview",
+                "file": "Módulo 5. Teoría de portafolio.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -99,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/whiteboard.excalidraw.md",
+                "file": "Módulo 5. Teoría de portafolio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/whiteboard.excalidraw.md",
+                "file": "Módulo 5. Teoría de portafolio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/whiteboard.excalidraw.md"
+                "file": "Módulo 5. Teoría de portafolio.md"
               }
             }
           },
@@ -193,15 +183,17 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "bd7c60dc5e7715a5",
+  "active": "5502f64ca7a93aa4",
   "lastOpenFiles": [
+    "Finanzas.md",
+    "Fundamentos de cinemática de mecanismos.md",
+    "Excalidraw/whiteboard.excalidraw.md",
     "Excalidraw/attachments/Pasted Image 20230509115037_081.png",
     "Excalidraw/attachments/Pasted Image 20230509115022_058.png",
     "Excalidraw/attachments/Pasted Image 20230509114836_041.png",
     "Excalidraw/attachments/Pasted Image 20230509114821_033.png",
     "Excalidraw/attachments/Pasted Image 20230509111555_066.png",
     "Servomecanismos.md",
-    "Fundamentos de cinemática de mecanismos.md",
     "Mecanismos.md",
     "Excalidraw/blackboard.excalidraw.md",
     "attachments/Pasted image 20230508214623.png",
@@ -209,12 +201,9 @@
     "attachments/Pasted image 20230508200431.png",
     "attachments/Pasted image 20230508200420.png",
     "attachments/Pasted image 20230508195942.png",
-    "Excalidraw/whiteboard.excalidraw.md",
     "Tema 3. Valoración.md",
-    "attachments/Pasted image 20230507223624.png",
     "Módulo 4. Bonos y conceptos de duración.md",
     "Tema 4. Análisis de sensibilidad.md",
-    "Finanzas.md",
     "Estática de Fluidos.md",
     "myDrawings.md",
     "Main.md",
