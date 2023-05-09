@@ -11,11 +11,9 @@
             "id": "bd7c60dc5e7715a5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Servomecanismos.md",
-                "mode": "preview",
-                "source": false
+                "file": "Excalidraw/whiteboard.excalidraw.md"
               }
             }
           },
@@ -101,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Servomecanismos.md",
+                "file": "Excalidraw/whiteboard.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Servomecanismos.md",
+                "file": "Excalidraw/whiteboard.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Servomecanismos.md"
+                "file": "Excalidraw/whiteboard.excalidraw.md"
               }
             }
           },
@@ -197,9 +195,10 @@
   },
   "active": "bd7c60dc5e7715a5",
   "lastOpenFiles": [
+    "Excalidraw/attachments/Pasted Image 20230509111555_066.png",
+    "Servomecanismos.md",
     "Fundamentos de cinemática de mecanismos.md",
     "Mecanismos.md",
-    "Servomecanismos.md",
     "Excalidraw/blackboard.excalidraw.md",
     "attachments/Pasted image 20230508214623.png",
     "attachments/Pasted image 20230508200748.png",
@@ -232,7 +231,6 @@
     "Tema 3. Introducción a los mercados de capitales.md",
     "Tema 2. Estructura del mercado.md",
     "Tema 1. Infraestructura de los mercados financieros.md",
-    "Tema 4. Financiamiento a corto plazo.md",
     "Excalidraw/attachments",
     "attachments",
     "New folder",
