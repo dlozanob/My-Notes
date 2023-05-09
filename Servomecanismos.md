@@ -469,7 +469,7 @@ Pero $J_{Ap} = J_{load\to in} + J_{carriage\to in}$, entonces:
 
 $$
 \begin{align*}
-	J_{\mathrm{Re}f}^{trans} = J_{screw} + \frac{1}{\eta\cdot N^{2}}\left( \frac{W_{L} + W_{C}}{g} \right)
+	\boxed{J_{\mathrm{Re}f}^{trans} = J_{screw} + \frac{1}{\eta\cdot N_{S}^{2}}\left( \frac{W_{L} + W_{C}}{g} \right)}
 \end{align*}
 $$
 
@@ -532,7 +532,7 @@ Entonces:
 
 $$
 \begin{align*}
-	J_{\mathrm{Re}f}^{trans} = J_{pinion} + \frac{1}{\eta N^{2}_{RP}}\left( \frac{W_{L} + W_{C}}{g} \right)
+	\boxed{J_{\mathrm{Re}f}^{trans} = J_{pinion} + \frac{1}{\eta N^{2}_{RP}}\left( \frac{W_{L} + W_{C}}{g} \right)}
 \end{align*}
 $$
 
@@ -578,7 +578,7 @@ La expresión puede ser escrita como:
 
 $$
 \begin{align*}
-	J_{\mathrm{Re}f}^{trans} = 2J_{lp} + \frac{1}{\eta N_{BD}^{2}}\left( \frac{W_{L} + W_{C} + W_{belt}}{g} \right)
+	\boxed{J_{\mathrm{Re}f}^{trans} = 2J_{lp} + \frac{1}{\eta N_{BD}^{2}}\left( \frac{W_{L} + W_{C} + W_{belt}}{g} \right)}
 \end{align*}
 $$
 
@@ -632,7 +632,7 @@ Se obtiene:
 
 $$
 \begin{align*}
-	J_{\mathrm{Re}f}^{trans} = J_{DR} + \frac{1}{\eta N^{2}_{CV}}\left( \frac{W_{L} + W_{belt}}{g} \right) + \frac{J_{IR}}{\eta\left( \frac{r_{IR}}{r_{DR}} \right)^{2}} + \frac{J_{BR}}{\eta\left( \frac{r_{BR}}{r_{DR}} \right)^{2}}
+	\boxed{J_{\mathrm{Re}f}^{trans} = J_{DR} + \frac{1}{\eta N^{2}_{CV}}\left( \frac{W_{L} + W_{belt}}{g} \right) + \frac{J_{IR}}{\eta\left( \frac{r_{IR}}{r_{DR}} \right)^{2}} + \frac{J_{BR}}{\eta\left( \frac{r_{BR}}{r_{DR}} \right)^{2}}}
 \end{align*}
 $$
 
@@ -680,7 +680,7 @@ Se considera el caso más general donde el conveyor se encuentra inclinado.
 ---
 
 - Enfoques de movimiento:
-	- Newtoniano
+	- Newtoniano-Euleriano
 	- Lagrangiano (enfoque energético)
 
 
@@ -709,14 +709,26 @@ Un perfil trapezoidal suave evita el problema de los jerks
 ![](attachments/Pasted%20image%2020230413104034.png)
 
 
+## Selección de servomotores
 
+
+
+
+
+
+
+
+
+
+
+
+---
 
 # TO DO
 
 - [x] Videos
-- [ ] Docs
+- [x] Docs
 - [ ] Procesos de selección
-
 
 ---
 
