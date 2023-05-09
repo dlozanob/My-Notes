@@ -534,7 +534,20 @@ $$
 
 ![](attachments/Pasted%20image%2020230430175102.png)
 
+En algunos casos se aplica una técnica de precarga en el tornillo de potencia para eliminar las holguras existentes entre las bolas y el tornillo. Esto reduce el _backlash_ y aumenta la rigidez del tornillo. Sin embargo, se genera una fuerza de precarga $F_{0}$ .
 
+![](attachments/Pasted%20image%2020230508214623.png)
+
+Bajo esta técnica, el nuevo torque de carga es:
+
+$$
+\begin{align*}
+	T_{load\to in} = \frac{F_{ext}}{\eta N_{S}} + \frac{\mu_{0}\cdot F_{0}}{N_{s}}
+\end{align*}
+$$
+
+Donde $\mu_{0}$ es el coeficiente de fricción interno.
+Se considera comúnmente un $F_{0} = \frac{1}{3}F_{ext}$ .
 
 
 ### Rack and Pinion
