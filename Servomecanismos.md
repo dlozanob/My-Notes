@@ -264,10 +264,16 @@ $$
 
 ![](attachments/Pasted%20image%2020230508200420.png)
 
-- 
+- Pilar rectangular:
 
+$$
+\begin{align*}
+	&J_{x} = \frac{1}{12}m(A^{2} + B^{2}) = \frac{1}{12}\rho\cdot A\cdot B\cdot C(A^{2} + B^{2}) \\\\
+	&J_{y} = \frac{1}{12}m(B^{2} + C^{2}) = \frac{1}{12}\rho\cdot A\cdot B\cdot C(B^{2} + C^{2})
+\end{align*}
+$$
 
-
+![](attachments/Pasted%20image%2020230508200748.png)
 
 
 ## Mecanismos de transmisión
