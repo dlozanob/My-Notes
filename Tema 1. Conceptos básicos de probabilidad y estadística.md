@@ -114,10 +114,10 @@ Por tanto, al armar un portafolio más grande (invertir en varias compañías al
 
 
 >[!Info]
->Un _ADR_ de Telmex es un
+>Un _ADR (American Depositary Receipt_  de Telmex es un instrumento financiero en los mercados de valores de Estados Unidos que representa la propiedad de una acción de la compañía
 
 >[!Note]
->El _arbitraje_ es comprar bar
+>El _arbitraje_ es comprar barato para vender caro
 
 
 
