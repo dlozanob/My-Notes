@@ -301,7 +301,7 @@ Donde la inercia aparente es:
 
 $$
 \begin{align*}
-	J_{\mathrm{Re}f}^{trans} = \frac{J_{L}}{\eta\cdot N^{2}}
+	\boxed{J_{\mathrm{Re}f}^{trans} = \frac{J_{L}}{\eta\cdot N^{2}}}
 \end{align*}
 $$
 
@@ -350,7 +350,7 @@ La inercia de la correa se modela como una masa rotante de radio $r_{ip}$ :
 
 $$
 \begin{align*}
-	J_{belt\to in} &= \frac{m_{belt}\cdot r_{ip}^{2}}{2}\cdot \left( \frac{1}{\eta} \right) \\
+	J_{belt\to in} &= m_{belt}\cdot r_{ip}^{2}\cdot \left( \frac{1}{\eta} \right) \\
 	&= \left( \frac{W_{belt}}{g\cdot \eta} \right)\cdot r_{ip}^{2}
 \end{align*}
 $$
@@ -368,7 +368,7 @@ Entonces:
 
 $$
 \begin{align*}
-	J_{\mathrm{Re}f}^{trans} = J_{ip} + \left( \frac{W_{belt}}{g\cdot \eta} \right)\cdot r_{p}^{2} + \frac{1}{\eta\cdot N^{2}_{BP}}(J_{lp} + J_{load} + J_{C})
+	\boxed{J_{\mathrm{Re}f}^{trans} = J_{ip} + \left( \frac{W_{belt}}{g\cdot \eta} \right)\cdot r_{p}^{2} + \frac{1}{\eta\cdot N^{2}_{BP}}(J_{lp} + J_{load} + J_{C})}
 \end{align*}
 $$
 
