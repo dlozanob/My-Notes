@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Verilog.md",
+                "file": "Linux commands.md",
                 "mode": "preview",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Verilog.md",
+                "file": "Linux commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Verilog.md",
+                "file": "Linux commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Verilog.md"
+                "file": "Linux commands.md"
               }
             }
           },
@@ -195,6 +195,7 @@
   },
   "active": "2458f5c4b0409997",
   "lastOpenFiles": [
+    "Verilog.md",
     "Excalidraw/whiteboard.excalidraw.md",
     "attachments/Pasted image 20230504181901.png",
     "Excalidraw/attachments/Pasted Image 20230505223526_027.png",
@@ -205,7 +206,6 @@
     "Excalidraw/attachments/Pasted Image 20230504112938_371.png",
     "Excalidraw/blackboard.excalidraw.md",
     "Excalidraw/attachments/Pasted Image 20230504111445_288.png",
-    "Verilog.md",
     "conflict-files-obsidian-git.md",
     "attachments/Pasted image 20230503193004.png",
     "attachments/Pasted image 20230503192954.png",
