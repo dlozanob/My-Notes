@@ -1,4 +1,4 @@
-# Tema 1. Infraestructura de los mercados financieros
+# Infraestructura de los mercados financieros
 
 ## Mercados financieros
 

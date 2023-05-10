@@ -240,6 +240,42 @@ $$
 $$
 
 
+### Inercias de interés
+
+- Cilindro:
+
+$$
+\begin{align*}
+	&J_{x} = \frac{1}{8}m\cdot D_{1}^{2} = \frac{\pi}{32}\rho\cdot L\cdot D_{1}^{4} \\\\
+	&J_{y} = \frac{1}{4}m\left( \frac{D_{1}^{2}}{4} + \frac{L^{2}}{3} \right)
+\end{align*}
+$$
+
+![](attachments/Pasted%20image%2020230508200431.png)
+
+- Cilindro hueco:
+
+$$
+\begin{align*}
+	&J_{x} = \frac{1}{8}m(D_{1}^{2} + D_{2}^{2}) = \frac{\pi}{32}\rho\cdot L(D_{1}^{4} - D_{2}^{4}) \\\\
+	&J_{y} = \frac{1}{4}m\left( \frac{D_{1}^{2} + D_{2}^{2}}{4} + \frac{L^{2}}{3}\right)
+\end{align*}
+$$
+
+![](attachments/Pasted%20image%2020230508200420.png)
+
+- Pilar rectangular:
+
+$$
+\begin{align*}
+	&J_{x} = \frac{1}{12}m(A^{2} + B^{2}) = \frac{1}{12}\rho\cdot A\cdot B\cdot C(A^{2} + B^{2}) \\\\
+	&J_{y} = \frac{1}{12}m(B^{2} + C^{2}) = \frac{1}{12}\rho\cdot A\cdot B\cdot C(B^{2} + C^{2})
+\end{align*}
+$$
+
+![](attachments/Pasted%20image%2020230508200748.png)
+
+
 ## Mecanismos de transmisión
 
 La _relación de inercia_ ($IR$) es:
@@ -301,7 +337,7 @@ Donde la inercia aparente es:
 
 $$
 \begin{align*}
-	J_{\mathrm{Re}f}^{trans} = \frac{J_{L}}{\eta\cdot N^{2}}
+	\boxed{J_{\mathrm{Re}f}^{trans} = \frac{J_{L}}{\eta\cdot N^{2}}}
 \end{align*}
 $$
 
@@ -350,7 +386,7 @@ La inercia de la correa se modela como una masa rotante de radio $r_{ip}$ :
 
 $$
 \begin{align*}
-	J_{belt\to in} &= \frac{m_{belt}\cdot r_{ip}^{2}}{2}\cdot \left( \frac{1}{\eta} \right) \\
+	J_{belt\to in} &= m_{belt}\cdot r_{ip}^{2}\cdot \left( \frac{1}{\eta} \right) \\
 	&= \left( \frac{W_{belt}}{g\cdot \eta} \right)\cdot r_{ip}^{2}
 \end{align*}
 $$
@@ -368,7 +404,7 @@ Entonces:
 
 $$
 \begin{align*}
-	J_{\mathrm{Re}f}^{trans} = J_{ip} + \left( \frac{W_{belt}}{g\cdot \eta} \right)\cdot r_{p}^{2} + \frac{1}{\eta\cdot N^{2}_{BP}}(J_{lp} + J_{load} + J_{C})
+	\boxed{J_{\mathrm{Re}f}^{trans} = J_{ip} + \left( \frac{W_{belt}}{g\cdot \eta} \right)\cdot r_{p}^{2} + \frac{1}{\eta\cdot N^{2}_{BP}}(J_{lp} + J_{load} + J_{C})}
 \end{align*}
 $$
 
@@ -469,7 +505,7 @@ Pero $J_{Ap} = J_{load\to in} + J_{carriage\to in}$, entonces:
 
 $$
 \begin{align*}
-	J_{\mathrm{Re}f}^{trans} = J_{screw} + \frac{1}{\eta\cdot N^{2}}\left( \frac{W_{L} + W_{C}}{g} \right)
+	\boxed{J_{\mathrm{Re}f}^{trans} = J_{screw} + \frac{1}{\eta\cdot N_{S}^{2}}\left( \frac{W_{L} + W_{C}}{g} \right)}
 \end{align*}
 $$
 
@@ -498,7 +534,20 @@ $$
 
 ![](attachments/Pasted%20image%2020230430175102.png)
 
+En algunos casos se aplica una técnica de precarga en el tornillo de potencia para eliminar las holguras existentes entre las bolas y el tornillo. Esto reduce el _backlash_ y aumenta la rigidez del tornillo. Sin embargo, se genera una fuerza de precarga $F_{0}$ .
 
+![](attachments/Pasted%20image%2020230508214623.png)
+
+Bajo esta técnica, el nuevo torque de carga es:
+
+$$
+\begin{align*}
+	T_{load\to in} = \frac{F_{ext}}{\eta N_{S}} + \frac{\mu_{0}\cdot F_{0}}{N_{s}}
+\end{align*}
+$$
+
+Donde $\mu_{0}$ es el coeficiente de fricción interno.
+Se considera comúnmente un $F_{0} = \frac{1}{3}F_{ext}$ .
 
 
 ### Rack and Pinion
@@ -532,7 +581,7 @@ Entonces:
 
 $$
 \begin{align*}
-	J_{\mathrm{Re}f}^{trans} = J_{pinion} + \frac{1}{\eta N^{2}_{RP}}\left( \frac{W_{L} + W_{C}}{g} \right)
+	\boxed{J_{\mathrm{Re}f}^{trans} = J_{pinion} + \frac{1}{\eta N^{2}_{RP}}\left( \frac{W_{L} + W_{C}}{g} \right)}
 \end{align*}
 $$
 
@@ -578,7 +627,7 @@ La expresión puede ser escrita como:
 
 $$
 \begin{align*}
-	J_{\mathrm{Re}f}^{trans} = 2J_{lp} + \frac{1}{\eta N_{BD}^{2}}\left( \frac{W_{L} + W_{C} + W_{belt}}{g} \right)
+	\boxed{J_{\mathrm{Re}f}^{trans} = 2J_{lp} + \frac{1}{\eta N_{BD}^{2}}\left( \frac{W_{L} + W_{C} + W_{belt}}{g} \right)}
 \end{align*}
 $$
 
@@ -632,7 +681,7 @@ Se obtiene:
 
 $$
 \begin{align*}
-	J_{\mathrm{Re}f}^{trans} = J_{DR} + \frac{1}{\eta N^{2}_{CV}}\left( \frac{W_{L} + W_{belt}}{g} \right) + \frac{J_{IR}}{\eta\left( \frac{r_{IR}}{r_{DR}} \right)^{2}} + \frac{J_{BR}}{\eta\left( \frac{r_{BR}}{r_{DR}} \right)^{2}}
+	\boxed{J_{\mathrm{Re}f}^{trans} = J_{DR} + \frac{1}{\eta N^{2}_{CV}}\left( \frac{W_{L} + W_{belt}}{g} \right) + \frac{J_{IR}}{\eta\left( \frac{r_{IR}}{r_{DR}} \right)^{2}} + \frac{J_{BR}}{\eta\left( \frac{r_{BR}}{r_{DR}} \right)^{2}}}
 \end{align*}
 $$
 
@@ -680,7 +729,7 @@ Se considera el caso más general donde el conveyor se encuentra inclinado.
 ---
 
 - Enfoques de movimiento:
-	- Newtoniano
+	- Newtoniano-Euleriano
 	- Lagrangiano (enfoque energético)
 
 
@@ -711,12 +760,14 @@ Un perfil trapezoidal suave evita el problema de los jerks
 
 
 
+
+---
+
 # TO DO
 
 - [x] Videos
-- [ ] Docs
-- [ ] Procesos de selección
-
+- [x] Docs
+- [x] Procesos de selección
 
 ---
 

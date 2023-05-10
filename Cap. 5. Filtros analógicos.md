@@ -44,6 +44,9 @@ Para ser realizado físicamente, el filtro debe aproximarse. El modelo tendrá l
 
 Al intervalo $\omega_{s} - \omega_{p}$ se le llama banda de transición.
 
+>[!Note]
+>Se busca que $A_{0} = 1$
+
 - _Rizado de la banda de paso_ ($\alpha_{p}$)
 
 $$
@@ -216,6 +219,9 @@ $$
 \end{align*}
 $$
 
+>[!Note]
+>La forma de $F(\omega^{2})$ determina el tipo de filtro y la manera en la que se implementa
+
 
 ### Aproximación de Butterworth
 
@@ -332,4 +338,264 @@ $$
 
 Por tanto, un filtro de Butterworth de orden $9$ cumple con las especificaciones requeridas.
 
+>[!Note]
+>En Matlab:
+>- `poly(<polos>)` retorna el polinomio con los polos como raiz
+>- `bodemag(<H(s)>)` retorna el diagrama de Bode de la función
+>- `buttord()` retorna el orden necesario para un filtro de Butterworth
+>- `butter()` retorna el filtro de Butterworth diseñado
+
+
+## Filtros de Chebyshev
+
+Se define el _polinomio de Chebyshev_ de orden $n$ como:
+
+$$
+\begin{align*}
+	V_{N}(x) = 2xV_{N-1}(x) - V_{N-2}(x)
+\end{align*}
+$$
+
+Para $N>2$ .
+
+Donde:
+
+$$
+\begin{align*}
+	V_{1} &= x \\
+	V_{2} &= 2x^{2} - 1
+\end{align*}
+$$
+
+![](attachments/Pasted%20image%2020230507103557.png)
+
+
+>[!Note]
+> - $V_{N}$ es un polinomio par si $N$ es par, es impar si $N$ es impar
+> - Si $-1 \leq x \leq 1$ -> $-1 \leq V_{N}(x) \leq 1$
+> - $V_{N}(1) = 1$
+> - $V_{N}(0) = 1$ o $-1$ si $N$ es par. $V_{N}(0) = 0$ si $N$ es impar
+
+
+### Aproximación de Chebyshev
+
+El filtro satisface:
+
+$$
+\begin{align*}
+	M(\omega^{2}) = \frac{1}{1 + F(\omega^{2})}
+\end{align*}
+$$
+
+De tal modo que:
+
+$$
+\begin{align*}
+	F(\omega^{2}) = \varepsilon^{2}V_{N}^{2}(\omega)
+\end{align*}
+$$
+
+Se sabe que:
+
+$$
+\begin{align*}
+	M(1) &= \frac{1}{1 + \varepsilon^{2}} \\\\
+	|H(j)| &= \frac{1}{\sqrt{ 1 + \varepsilon^{2} }}
+\end{align*}
+$$
+
+![](attachments/Pasted%20image%2020230507104750.png)
+
+>[!Note]
+>- $A_{1} = \frac{1}{\sqrt{ 1 + \varepsilon^{2} }}$
+>- $\omega_{p} = 1$
+
+Como se puede ver en la imagen, resulta para este caso:
+
+$$
+\begin{align*}
+	|H(j)| &= \frac{1}{\sqrt{ 1 + \varepsilon^{2} }} = 0.8912 \\\\
+	\varepsilon &= 0.509
+\end{align*}
+$$
+
+Los polinomios de Chebyshev pueden descritos alternativamente de la forma:
+
+$$
+\begin{align*}
+	V_{N}(\omega) = \cos(N\arccos(\omega))
+\end{align*}
+$$
+
+Además, para $\omega > 1$ se tiene:
+
+$$
+\begin{align*}
+	V_{N}(\omega) = \cosh(N\cosh ^{-1}(\omega))
+\end{align*}
+$$
+
+Para después de la frecuencia de corte:
+
+$$
+\begin{align*}
+	N = \frac{\cosh ^{-1}(V_{N}(\omega))}{\cosh ^{-1}(\omega)}
+\end{align*}
+$$
+
+>[!Note]
+> Computacionalmente, nos debemos asegurar que $y_{ee} = H(0)\cdot u(t)$, con $H(0) = 1$, entonces $N(s) = c$, donde $c$ es el coeficiente de orden $0$ en $D(s)$
+
+---
+
+- __Ejemplo__ :
+	- $\alpha_{p} = 1\,\,dB$
+	- $\alpha_{s} = 25\,\,dB$
+	- $\omega_{p} = 1$
+	- $\omega_{s} = 1.5$
+
+Entonces para $\omega_{p} = 1 = A_{1}$ :
+
+$$
+\begin{align*}
+	|H(j)| = \frac{1}{\sqrt{ 1 + \varepsilon^{2} }}
+\end{align*}
+$$
+
+Se tiene que:
+
+$$
+\begin{align*}
+	\alpha_{p} &= 20\log\left( \frac{1}{\frac{1}{\sqrt{ 1 + \varepsilon^{2} }}} \right) \\\\
+	&= 10\log(1 + \varepsilon^{2}) = 1\,\,dB
+\end{align*}
+$$
+
+Entonces $\varepsilon^{2} = 0.2589$ .
+
+Se sabe que para cualquier frecuencia:
+
+$$
+\begin{align*}
+	|H(j\omega)| = \frac{1}{\sqrt{ 1 + \varepsilon^{2}V_{N}^{2}(\omega) }}
+\end{align*}
+$$
+
+Entonces:
+
+$$
+\begin{align*}
+	\alpha_{s} &= 20\log\left( \frac{A_{0}}{A_{2}} \right) \\\\
+	&= 10\log(1 + \varepsilon^{2}V_{N}^{2}(1.5)) = 25
+\end{align*}
+$$
+
+Despejando:
+
+$$
+\begin{align*}
+	V_{N}(1.5) = 34.89
+\end{align*}
+$$
+
+Ahora bien:
+
+$$
+\begin{align*}
+	N &= \frac{\cosh ^{1}(V_{N}(\omega_{s}))}{\cosh ^{-1}(\omega_{s})} \\\\
+	&= 4.41 \approx 5
+\end{align*}
+$$
+
+Para terminar el diseño, se hallan los polos estables al hacer:
+
+$$
+\begin{align*}
+	1 + \varepsilon^{2}V_{N}^{2}(\omega^{2}) = 0
+\end{align*}
+$$
+
+De tal modo que se halla el $H(s)$ .
+
+>[!Note]
+>- Los filtros de Chebyshev tienen una atenuación más rápida que los de Butterworth, por lo que el diseño de estos requieren menos computadores analógicos
+>- En Matlab:
+>	- `cheb1ord()` retorna el orden necesario para un filtro de Chebyshev de orden 1
+>	- `cheby1()` retorna el filtro de Chebyshev de orden 1 diseñado
+
+
+## Filtros de Chebyshev (tipo II)
+
+![](attachments/Pasted%20image%2020230507113454.png)
+
+El filtro de tipo I puede ser mejorado dejando los picos en la banda de rechazo.
+
+¿Cómo hallar la función de transferencia para los filtros de tipo II?
+
+Aplicando $M\left( \frac{1}{\omega^{2}} \right) = \frac{1}{1 + F\left( \frac{1}{\omega^{2}} \right)}$ :
+
+![](attachments/Pasted%20image%2020230507114015.png)
+
+Ahora bien, haciendo $1 - M\left( \frac{1}{\omega^{2}} \right)$ se llega a la expresión para los filtros de tipo II.
+
+$$
+\begin{align*}
+	M_{\omega^{2}} &= \frac{\varepsilon^{2}V_{N}^{2}\left( \frac{1}{\omega} \right)}{1 + \varepsilon^{2}V_{N}^{2}\left( \frac{1}{\omega} \right)} \\\\
+	|H(j\omega)| &= \frac{\varepsilon V_{N}\left( \frac{1}{\omega} \right)}{\sqrt{ 1 + \varepsilon^{2}V_{N}^{2}\left( \frac{1}{\omega} \right) }}
+\end{align*}
+$$
+
+![](attachments/Pasted%20image%2020230507114225.png)
+
+>[!Note]
+>- Al ser $N(j\omega)$ y $D(j\omega)$ funciones pares de $\omega$, si $H(s)$ es de orden $N$, entonces tendrá $N$ ceros y $N$ polos
+>- $A_{2} = \frac{\varepsilon}{\sqrt{ 1 + \varepsilon^{2} }}$
+>- $\omega_{s} = 1$
+
+
+## Filtros elípticos
+
+La función de magnitud cuadrática es:
+
+$$
+\begin{align*}
+	M(\omega^{2}) = \frac{1}{1 + F(\omega^{2})}
+\end{align*}
+$$
+
+Donde:
+
+$$
+\begin{align*}
+	F(\omega^{2}) = \varepsilon^{2}R_{N}^{2}(\omega)
+\end{align*}
+$$
+
+Tal que:
+
+$$
+\begin{align*}
+	R_{N}(\omega) = \frac{(\omega_{1}^{2} - \omega^{2})(\omega_{2}^{2} - \omega^{2})\dots(\omega_{N}^{2} - \omega^{2})}{(1 - \omega_{1}^{2}\omega^{2})(1 - \omega_{2}^{2}\omega^{2})\dots(1 - \omega_{N}^{2}\omega^{2})}
+\end{align*}
+$$
+
+![](attachments/Pasted%20image%2020230507115542.png)
+
+Se deben hallar los $\omega_{i},\,\, i=\{1, 2, \dots, N\}$, tal que, en la banda de paso y en la banda de rechazo se obtengan los mismos máximos y mínimos.
+
+>[!Note]
+>- Estos filtros también reciben el nombre de _filtros equirizados_, ya que, se busca que el rizado de la banda de paso sea igual al de la banda de rechazo
+>- El cálculo de las frecuencias $\omega_{i}$ implica rutinas de optimización y la resolución de integrales elípticas
+
+>[!Info]
+>Los osciloscopios en ocasiones traen implementada una onda _chirp_ :
+>![](attachments/Pasted%20image%2020230507121650.png)
+
+
+Si comparamos los filtros vistos hasta el momento:
+
+![](attachments/Pasted%20image%2020230507122218.png)
+
+- El filtro _elíptico_ presenta la convergencia más rápida al filtro ideal (requiere menos computadores analógicos). Le siguen el de _Chebyshev II_, _Chebyshev I_ y por último el de _Butterworth_
+- El filtro de _Butterworth_ es el que tiene una mayor banda de transición
 

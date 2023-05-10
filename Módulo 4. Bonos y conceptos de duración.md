@@ -1,28 +1,11 @@
-# Módulo 4. Bonos y conceptos de duración
+# Bonos y conceptos de duración
 
-hay unas garantías (papeles comerciales) respaldadas en un titulo llamado pagaré
+- [Tema 1. Definición y clase de los instrumentos de deuda](Tema%201.%20Definición%20y%20clase%20de%20los%20instrumentos%20de%20deuda)
+- [Tema 2. Tipos de bonos y sus características](Tema%202.%20Tipos%20de%20bonos%20y%20sus%20características)
+- [Tema 3. Valoración](Tema%203.%20Valoración)
+- [Tema 4. Análisis de sensibilidad](Tema%204.%20Análisis%20de%20sensibilidad)
+- [Tema 5. Valoración de operaciones](Tema%205.%20Valoración%20de%20operaciones)
 
-en caso de no pagar eso, se puede demandar a la persona
-
-en los leasing se paga un arriendo del bien
-
-en los bonos es comun de hablar del valor al maturity
-
-El maturity es la madurez del bono
-es el tiempo en el que madura (vence)
-costo de maduracion del bono (valor al maturity o _face value_)
-
-es costumbre que los bonos se trabajen capitalizados semestralmente
-
-
-el cupon es la tasa de interes del bono (distinto a la tasa de interes del mercado)
-
-yield es la tasa de rendimiento del mercado
-
-
-Si $yield < cupon$ el bono se valoriza ($principal + interes$) (compra por prima) (Precio sucio > 100%)
-Si $yield = cupon$ no se gana nada (compra a la par)
-Si $yield > cupon$ el bono se desvaloriza (compra por descuento) (Precio sucio < 100%)
 
 en los bonos se habla de puntos básicos (cada yield) (basis-point)
 
@@ -31,38 +14,7 @@ en los bonos se habla de puntos básicos (cada yield) (basis-point)
 duration -> primera derivada
 convexidad -> segunda derivada
 
-
-PRECIO -> Función Excel precio del bono
-
-
-En un cero cupón la duración es la misma maduración
-
-
-En bonos cero cupón hay más riesgo
-
-Precio de un bono:
-
-$$
-\begin{align*}
-	P = \frac{M}{(1 + y_{0})^{t}} + \sum_{t = 1}^{n} \frac{C_{t}}{(1 + y_{0})^{t}}
-\end{align*}
-$$
-
-Donde:
-- $P$  : Precio del bono
-- $n$ : Periodos de tiempo hasta el pago del valor de maduración
-- $y_{0}$ : Tasa de rendimiento (yield inicial)
-- $t$ : Vencimiento del flujo de caja
-- $M$ :  Valor de maduración
-- $C_{t}$ : Cupón en el tiempo $t$
-
-$$
-\begin{align*}
-	P(y_{0}) = \sum_{t = 1}^{n} \frac{FC_{t}}{(1 + y_{0})^{t}} = \sum_{t = 1}^{n} FC_{t}(1 + y_{0})^{-t}
-\end{align*}
-$$
-
-La derivada $\frac{\partial P}{\partial y}$ representa el cambio del precio del bono con respecto al cambio en la tasa de rendimiento 
+La derivada $\frac{\partial P}{\partial y}$ representa el cambio del precio del bono con respecto al cambio en la tasa de rendimiento
 
 $$
 \begin{align*}
@@ -160,158 +112,9 @@ La _duración_ es el tiempo de recuperación
 
 La _convexidad_ es el precio de los cambios
 
-
-Un _prospecto de colocación de emisores_ es un documento que contiene toda la información corporativa, legal, financiera y referente a valores de una empresa.
-
-Entre mayor TIR tenga un bono, menor es su duración, ya que, se tardará menos en pagarse
-
 ---
 
-
-- Administración de riesgo del mercado
-	- Busca mitigar el impacto producido por la devaluación de valores emitidos por la empresa, cuando las tasas de interés e índices relacionados fluctúan con respecto a un tiempo inicial
-
-- Administración de riesgo legal
-	- Propone alternativas para evadir los riesgos provocados por incumplimientos del agente emisor de valores cuando este no puede liquidar la transacción asociada. Derivado de este riesgo se desencadenan demandas, multas y sanciones.
-
-
-Davivienda:
-- Administración de riesgo de mercado
-	- Se rige bajo el modelo estándar de la SFC
-	- Adopta medidas de sensibilidad, posiciones direccionales y duración
-	- Usa un modelo estadístico para el cálculo del índice VaR (Value at Risk) desarrollado por JP Morgan. Este índice representa la pérdida de dinero que se puede presentar en el peor de los casos ante una inversión. Viene acmpañado de un porcentaje de confianza, el cual establece la probabilidad de que este riesgo no suceda
-	- Usa periódicamente pruebas de backtesting, las cuales se basan en analizar eventos financieros del pasado, y proponer soluciones que busquen solventar las pérdidas generadas. Así mismo, se modifican los factores asociados y se evalúan con la finalidad de atenuar los riesgos en inversiones futuras
-	- Utiliza herramientas para la evaluación de escenarios de estrés. Estas son situaciones extremas, donde las condiciones ponen a prueba la capacidad de un valor para resistir estos factores de alto riesgo
-- Administración de riesgo legal
-	- El banco cuenta con un gran repertorio de abogados expertos en el mercado de valores
-	- La entidad posee una vasta experiencia en la emisión de bonos
-
-Bancolombia:
-- Administración de riesgo de mercado
-	- Cumple con el estándar propuesto por la SFC
-	- Ha desarrollado un Sistema de Administración de Riesgo del Mercado (SARM) ante las fluctuaciones de los índices que puedan afectar el valor de los instrumentos financieros. Posee 3 enfoques: riesgo de la tasa de interés, riesgo cambiario y el riesgo de precios. Se realizan pruebas de estrés periódicamente
-- Administración de riesgo legal
-	- Aunque Bancolombia ha cumplido en todas las ocasiones con las deudas asociadas a valores emitidos, la empresa se encuentra sujeta periódicamente a supervisiones que regulan su operación en cada uno de los paises donde ejecuta su labor. Se encuentra también sometida a investigaciones e inspecciones a nivel nacional por parte de las entidades financieras en Colombia. Las autoridades reguladoras en cuestión, tienen la capacidad de imponer medidas contra el lavado de dinero o incumpliento de deuda por parte del emisor. En consecuencia, bajo estos siniestros se imponen deudas, sanciones, multas e incluso revocación de licencias para operar.
-	- En caso de que Bancolombia no pueda cumplir con sus deberes financieros, las entidades financieras nacionales toman el control de la compañía para solventar estas problemáticas
-
 ---
-
-Los _bonos_ son valores de mediano a largo plazo.
-
-Existe el riesgo de que el emisor no pague los intereses pactados.
-
-En un bono se define:
-- Monto de emisión
-	- _Principal_ o _valor nominal del bono_
-	- Es común que la base del valor esté dada sobre un precio de 100 unidades
-- Cupón
-	- Es la tasa de interés sobre el principal del bono
-	- Comúnmente es anual o semestral
-	- Es fija
-- Tasa de interés
-	- Es la adición de una porción fija o _spread_, y una porción flotante (varía)
-	- La porción flotante puede ser la variación de un indicador (como el IPC)
-- Tasa de negociación o tasa de rendimiento
-	- Es la tasa de valoración del mercado
-	- Difiere del cupón
-- Fecha de maduración
-	- Es fija
-	- En esta, se paga el último cupón pactado y se devuelve el principal
-	- Al pago final en esta fecha se le conoce como _valor nominal_ o de _maduración_ (_maturity_)
-
->[!Note]
->- La rentabilidad de los bonos suele ser menor que la de las acciones
->- Los bonos se negocian en lotes con montos elevados
-
-
-Tipos de bonos:
-- Bonos con cupón
-	- Tienen pagos de cupones periódicos
-	- Son los más tradicionales
-
-![](attachments/Pasted%20image%2020230503192634.png)
-
-- Bonos sin cupón
-	- No pagan cupones
-	- Al final se obtiene el valor de _maduración_ el cual es normalmente mayor al _principal_
-
-![](attachments/Pasted%20image%2020230503192559.png)
-
-Según el tipo de emisor, los bonos se clasifican en:
-- Bonos públicos
-	- Emitidos por el gobierno o alguna institución pública
-	- Ejemplos de estos son los _TES_
-- Bonos privados
-	- Emitidos por empresas privadas
-
-
-La _deuda pública_ son bonos emitidos por el gobierno para financiarse a si mismo.
-
->[!Note]
->En el caso de Estados Unidos, estos bonos se llaman _títulos del tesoro_. Sus tasas suelen servir de referencia para el mercado global de bonos
-
-
-Entre los títulos _TES_ más representativos se encuentran:
-- Tasa fija en pesos
-- Tasa fija en unidades de valor real (UVR)
-- Tasa variable indexada al índice de precios al consumidor (IPC)
-	- Su cupón tiene un componente fijo y uno variable (corresponde al cambio del IPC)
-
-
-Según la fase de negociación, los mercados de bonos se clasifican en:
-- Mercado primario de bonos
-	- Bonos negociados por primera vez
-	- Emitidos directamente por la empresa
-	- Usa mecanismos como
-		- Subasta holandesa
-			- El emisor define una tasa de corte, se adjudican los bonos a los participantes cuya tasa sea menor o igual a esta
-		- Oferta _underwriting_
-			- Una compañía estructuradora comparte una fracción del riesgo de venta de los bonos
-- Mercado secundario de bonos
-	- Los bonos ya emitidos en el mercado primario se negocian entre los _corredores de mercado_ y los inversionistas
-
-Estas transacciones toman lugar en casas de corredores de bolsa o creadores de mercado.
-
->[!Note]
->Se estima que de manera indirecta, todos los aportantes a los fondos de pensiones tienen una inversión en bonos. Ya que, los fondos de pensiones son compradores de bonos públicos y en algunos casos privados
-
-
-Cuando baja la tasa de rendimiento del mercado se obtienen ganancias en el precio del bono, ya que, este se valoriza.
-Del mismo modo, cuando la tasa de rendimiento sube, el bono se desvaloriza.
-
-Las empresas calificadoras de riesgo ajustan la tasa de rendimiento del bono. Estas utilizan sus ratings crediticios y sus escalas de medición.
-
-Riesgos de los bonos:
-- Riesgo crediticio
-	- El emisor no paga su parte
-- Riesgo de tasa de interés
-	- La tasa de rendimiento del mercado aumenta, y el bono se desvaloriza
-- Riesgo por inflación
-	- Un inversionista puede perder rendimientos ante la inflación (cupones bajos). Así como, en un buen caso, se emiten cupones altos debido a tasas de interés del mercado bajas
-- Riesgo por liquidez
-	- Sucede cuando no se puede negociar el bono fácilmente
-
-
-Algunas propiedades de los bonos:
-- Los bonos que se respaldan con ingresos (como en entidades públicas con impuestos), suelen tener menor riesgo
-- Los bonos con mayor tasa de cupón suelen tener mayor rendimiento
-- Los bonos con vencimiento a largo plazo (10 años o más), suelen tener un rendimiento mayor a los que están próximos a vencerse. Ya que, hay incertidumbre sobre la tasa en un plazo mayor
-
-La relación entre el tiempo y la tasa de rendimiento se suele representar a través de lo que se conoce como la _estructura temporal de las tasas de interés_ o _curva de rendimientos_.
-Como por ejemplo:
-
-![](attachments/Pasted%20image%2020230503193004.png)
-
-
-- _Días de interés_ 
-
-$$
-\begin{align*}
-	DiasInteres = DiasPeriodo\cdot 
-\end{align*}
-$$
-
-
 
 ---
 

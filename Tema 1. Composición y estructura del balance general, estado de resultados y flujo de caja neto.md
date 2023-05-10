@@ -1,4 +1,4 @@
-# Tema 1. Composición y estructura del balance general, estado de resultados y flujo de caja neto
+# Composición y estructura del balance general, estado de resultados y flujo de caja neto
 
 
 ## Estado de resultados (PyG)

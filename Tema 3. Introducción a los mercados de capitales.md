@@ -1,4 +1,4 @@
-# Tema 3. Introducción a los mercados de capitales
+# Introducción a los mercados de capitales
 
 Son aquellos mercados financieros donde se transan valores de largo plazo.
 

@@ -1,5 +1,5 @@
 
-# Tema 2. Función de oferta y demanda
+# Función de oferta y demanda
 
 La oferta y la demanda determinan los precios y la cantidad que se vende de cada uno de los bienes.
 

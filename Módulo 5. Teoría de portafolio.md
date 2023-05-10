@@ -1,4 +1,4 @@
-# Módulo 5. Teoría de portafolio
+# Teoría de portafolio
 
 - [Tema 1. Conceptos básicos de probabilidad y estadística](Tema%201.%20Conceptos%20básicos%20de%20probabilidad%20y%20estadística.md)
 - [Tema 2. Introducción al riesgo](Tema%202.%20Introducción%20al%20riesgo)
@@ -11,9 +11,11 @@
 
 Algunos nobel en enconomía son:
 - Harry Markowitz (1990)
+	- Es el padre de la teoría de portafolio
 	- Desarrolla _MPT_ -> Teoría de inversión que demuestra que el desempeño de una acción individual no es tan importante como toda una cartera
 	- Teoría de la elección de cartera
 	- Su teoría _MPT_ sienta las bases para el Modelo de Fijación de precios de activos de capital (_CAPM_)
+	- Hace un supuesto de que los datos tienden a un valor central
 - Merton Howard Miller (1990)
 - William Sharpe (1990)
 	- Desarrola la relación _CAPM_ y _Sharpe_
@@ -24,6 +26,7 @@ Algunos nobel en enconomía son:
 	- En su tesis de doctorado concluye que los precios de las acciones son impredecibles
 - Robert J. Shiller (2013)
 	- Se encuentra entre los 100 economistas más influyentes del mundo
+	- Dice que el comportamiento de las acciones si se puede predecir
 - Robert C. Merton (1997)
 	- Matemático
 	- Introduce el cálculo estocástico en la economía financiera

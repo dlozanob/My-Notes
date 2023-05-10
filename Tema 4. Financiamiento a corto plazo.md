@@ -1,4 +1,4 @@
-# Tema 4. Financiamiento a corto plazo
+# Financiamiento a corto plazo
 
 ## Flujo de caja de tesorería (FCT)
 

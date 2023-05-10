@@ -1,4 +1,4 @@
-# Tema 4. Introducción a los mercados monetarios
+# Introducción a los mercados monetarios
 
 Son aquellos mercados financieros donde se transan valores de corto plazo.
 

@@ -1,4 +1,4 @@
-# Módulo 3. Introducción al mercado de capitales
+# Introducción al mercado de capitales
 
 - [Tema 1. Infraestructura de los mercados financieros](Tema%201.%20Infraestructura%20de%20los%20mercados%20financieros.md)
 - [Tema 2. Estructura del mercado](Tema%202.%20Estructura%20del%20mercado.md)

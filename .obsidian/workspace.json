@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "ce7c688ae4cd9e26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "97e03c2623b05460",
             "type": "leaf",
             "state": {
@@ -29,7 +41,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux commands.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux commands.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux commands.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -193,23 +206,30 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "2458f5c4b0409997",
+  "active": "ce7c688ae4cd9e26",
   "lastOpenFiles": [
+    "Linux commands.md",
+    "conflict-files-obsidian-git.md",
+    "attachments/Pasted image 20230509170153.png",
+    "attachments/Pasted image 20230508214623.png",
+    "attachments/Pasted image 20230508200748.png",
+    "attachments/Pasted image 20230508200431.png",
+    "attachments/Pasted image 20230508200420.png",
+    "attachments/Pasted image 20230508195942.png",
+    "attachments/Pasted image 20230507223624.png",
+    "attachments/Pasted image 20230507222345.png",
+    "attachments/Pasted image 20230507214223.png",
+    "attachments/Pasted image 20230507214210.png",
+    "Tema 5. Valoración de operaciones.md",
+    "Tema 4. Análisis de sensibilidad.md",
+    "Tema 3. Valoración.md",
+    "Tema 2. Tipos de bonos y sus características.md",
+    "Tema 2. Introducción al riesgo.md",
+    "Tema 1. Definición y clase de los instrumentos de deuda.md",
+    "Análisis de aceleración.md",
     "Verilog.md",
     "Excalidraw/whiteboard.excalidraw.md",
-    "attachments/Pasted image 20230504181901.png",
-    "Excalidraw/attachments/Pasted Image 20230505223526_027.png",
-    "Excalidraw/attachments/Pasted Image 20230505190124_118.png",
-    "Excalidraw/attachments/Pasted Image 20230505183804_900.png",
-    "Excalidraw/attachments/Pasted Image 20230504120945_531.png",
-    "Excalidraw/attachments/Pasted Image 20230504114726_463.png",
-    "Excalidraw/attachments/Pasted Image 20230504112938_371.png",
     "Excalidraw/blackboard.excalidraw.md",
-    "Excalidraw/attachments/Pasted Image 20230504111445_288.png",
-    "conflict-files-obsidian-git.md",
-    "attachments/Pasted image 20230503193004.png",
-    "attachments/Pasted image 20230503192954.png",
-    "Linux commands.md",
     "Cybersec.md",
     "Main.md",
     "Tema 1. Conceptos básicos de probabilidad y estadística.md",
@@ -223,13 +243,6 @@
     "Principios de Estática.md",
     "Resistencia de Materiales.md",
     "Fundamentos de Mecánica de Fluidos.md",
-    "Señales y Sistemas II.md",
-    "Cap. 4. Análisis cualitativo de sistemas LTI.md",
-    "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
-    "Servomecanismos.md",
-    "Análisis de velocidad.md",
-    "Mecanismos.md",
-    "LaTeX.md",
     "Excalidraw/attachments",
     "attachments",
     "New folder",

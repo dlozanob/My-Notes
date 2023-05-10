@@ -1,8 +1,5 @@
 # Análisis de velocidad
 
-
-
-
 ## Ecuaciones de clausura
 
 Para un mecanismo de 4 barras se tenían las siguientes ecuaciones de clausura de posición:
@@ -13,6 +10,8 @@ $$
 	r_{2}\sin(\theta_{2}) + r_{3}\sin(\theta_{3}) - r_{4}\sin(\theta_{4}) - r_{1}\sin(\theta_{1}) = 0
 \end{align*}
 $$
+
+![](attachments/Pasted%20image%2020230507144559.png)
 
 Ahora bien, al derivarlas se obtienen las de velocidad:
 
@@ -76,3 +75,57 @@ r_{2}\dot{\theta_{2}}\sin\theta_{2} \\
 \end{pmatrix}
 \end{align*}
 $$
+
+
+## Método gráfico
+
+Se sabe que:
+
+$$
+\begin{align*}
+	\omega &= \frac{d\theta}{dt} \\\\
+	\vec{v} &= \omega \times \vec{r}
+\end{align*}
+$$
+
+La velocidad relativa de un punto $B$ en algún eslabón que se conecta con otro en un punto $A$ es:
+
+$$
+\begin{align*}
+	\vec{V}_{B/A} &= \vec{V}_{B} - \vec{V}_{A} \\\\
+	\vec{V}_{B/A} &= w \times \vec{r}_{B/A}
+\end{align*}
+$$
+
+>[!Note]
+>Dos puntos de un mismo eslabón solo pueden tener una velocidad relativa con dirección perpendicular a la línea que los conecta
+
+¿Cómo hallar la velocidad en el punto $C$?
+
+![](attachments/Pasted%20image%2020230507152942.png)
+
+Se tiene que:
+
+$$
+\begin{align*}
+	\vec{V}_{C} = \vec{V}_{A} + \vec{V}_{C/A} = \vec{V}_{B} + \vec{V}_{C/B}
+\end{align*}
+$$
+
+De las velocidades relativas solo se conoce su dirección pero no su magnitud.
+
+![](attachments/Pasted%20image%2020230507154154.png)
+
+Donde $\vec{V}_{C/A}$ es perpendicular a $\bar{AC}$ y $\vec{V}_{C/B}$ es perpendicular a $\bar{BC}$ .
+
+El punto de intersección determina las magnitudes de $\vec{V}_{C/A}$ y $\vec{V}_{C/B}$ . Por tanto, se halla $V_{C}$ .
+
+
+
+
+
+
+
+
+
+
