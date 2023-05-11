@@ -762,15 +762,15 @@ Un perfil trapezoidal suave evita el problema de los jerks
 
 
 
-1. 
-2. 
-3. 
-4. 
-5. 
+1. ¿Qué tipo de motor es el más pertinente en control de movimiento?
+2. ¿Qué configuración es la más apropiada para la inversión de giro?
+3. ¿Qué tipo de motor otorga una mejor precisión?
+4. ¿Cómo generar las señales que controlarán al motor?
+5. ¿Qué normas de seguridad debe cumplir un motor eléctrico orientado a control de movimiento?
 
-
-
-
+1.  ¿Cómo controlar estos actuadores eléctricos a nivel de software y de hardware?
+2.  ¿Cómo seleccionar un actuador eléctrico de acuerdo a la aplicación?
+3.  ¿Qué opciones existen en el mercado, marcas recomendadas?
 
 
 ---
