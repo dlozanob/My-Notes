@@ -8,6 +8,7 @@ Algunos conceptos clave:
 - _MCC_ : Motor Control Center
 - _HMI_ : Human Machine Interface
 - _NEMA_ :  National Electrical Manufactures Association
+- _VFD_ : Variable Frequency Drivers
 
 >[!Info]
 >Comúnmente las válvulas hidráulicas manejan un rango de 3-15 psi.
@@ -777,6 +778,12 @@ Un perfil trapezoidal suave evita el problema de los jerks
 R/ Los más usados en motion control son los AC de inducción
 Control de velocidad -> AC
 Motion Control -> DC
+
+
+En control de velocidad se usan VFD's (variadores de frecuencias) -> Variación de velocidad
+
+![](attachments/Pasted%20image%2020230511104909.png)
+
 
 
 1.  ¿Qué opciones existen en el mercado, marcas recomendadas?
