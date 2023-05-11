@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "1f1070d3b927db36",
+        "id": "97d356ad26ebfac7",
         "type": "tabs",
         "children": [
           {
-            "id": "dd32855a173583af",
+            "id": "0a116a29e2ca816c",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/whiteboard.excalidraw.md"
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -87,7 +85,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/whiteboard.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/whiteboard.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,9 +122,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Excalidraw/whiteboard.excalidraw.md"
-              }
+              "state": {}
             }
           },
           {
@@ -181,8 +175,9 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "dd32855a173583af",
+  "active": "0a116a29e2ca816c",
   "lastOpenFiles": [
+    "Excalidraw/whiteboard.excalidraw.md",
     "Excalidraw/attachments/Pasted Image 20230511120639_288.png",
     "Excalidraw/attachments/Pasted Image 20230511120350_275.png",
     "Excalidraw/attachments/Pasted Image 20230511112020_947.png",
@@ -192,7 +187,6 @@
     "Servomecanismos.md",
     "attachments/Pasted image 20230511104909.png",
     "Verilog.md",
-    "Excalidraw/whiteboard.excalidraw.md",
     "Electrónica Digital II.md",
     "Linux commands.md",
     "conflict-files-obsidian-git.md",
@@ -200,7 +194,6 @@
     "attachments/Pasted image 20230508214623.png",
     "attachments/Pasted image 20230508200748.png",
     "attachments/Pasted image 20230508200431.png",
-    "attachments/Pasted image 20230508200420.png",
     "Tema 5. Valoración de operaciones.md",
     "Tema 4. Análisis de sensibilidad.md",
     "Tema 3. Valoración.md",
