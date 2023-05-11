@@ -26,7 +26,8 @@ Asynchronous
 Widely used in motion control,
 even more than AC motors ^yWATqfsU
 
-Synchronous ^4VF3uObf
+Synchronous
+(Perma-magnets) ^4VF3uObf
 
 Stepper ^bx1XxNPV
 
@@ -40,6 +41,10 @@ Can be fed using AC or DC ^Rl0qj5KW
 Phase offset ^tSJ6Bt7l
 
 Rotational magnetic field ^Arj46opT
+
+Magnetic field velocity = Rotor velocity ^RFQGB0Te
+
+Magnetic field velocity > Rotor velocity ^8oBw55eU
 
 
 # Embedded files
@@ -206,8 +211,8 @@ Rotational magnetic field ^Arj46opT
 		},
 		{
 			"type": "rectangle",
-			"version": 506,
-			"versionNonce": 2005715932,
+			"version": 508,
+			"versionNonce": 1846137060,
 			"isDeleted": false,
 			"id": "_zNLCM6F_TbLLyoIg2MvO",
 			"fillStyle": "solid",
@@ -235,22 +240,22 @@ Rotational magnetic field ^Arj46opT
 					"type": "arrow"
 				},
 				{
-					"id": "Vj6BCqMXZERkPJPraKvfY",
+					"id": "DAxwLqEnRASa5am1NYt-2",
 					"type": "arrow"
 				},
 				{
-					"id": "DAxwLqEnRASa5am1NYt-2",
+					"id": "Vj6BCqMXZERkPJPraKvfY",
 					"type": "arrow"
 				}
 			],
-			"updated": 1683820477138,
+			"updated": 1683820699921,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 433,
-			"versionNonce": 1724378724,
+			"version": 521,
+			"versionNonce": 664240612,
 			"isDeleted": false,
 			"id": "_pKiNvArHg4UhHPBYdpeZ",
 			"fillStyle": "solid",
@@ -259,11 +264,11 @@ Rotational magnetic field ^Arj46opT
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 1469.5256434697667,
-			"y": -976.9076896879942,
+			"x": 1548.6839485446144,
+			"y": -905.6652151206312,
 			"strokeColor": "#c92a2a",
 			"backgroundColor": "transparent",
-			"width": 167.3847882997084,
+			"width": 224.096914455958,
 			"height": 88.28625375113238,
 			"seed": 2084789084,
 			"groupIds": [],
@@ -276,16 +281,20 @@ Rotational magnetic field ^Arj46opT
 				{
 					"id": "aCak5_Vd81EMxMAJoy9Q4",
 					"type": "arrow"
+				},
+				{
+					"id": "n0_3gfi4NyjL5Cascp7jW",
+					"type": "arrow"
 				}
 			],
-			"updated": 1683820487332,
+			"updated": 1683820753415,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 573,
-			"versionNonce": 1510604252,
+			"version": 674,
+			"versionNonce": 515061476,
 			"isDeleted": false,
 			"id": "SGHNlt7tkUdo4AB8-V6h4",
 			"fillStyle": "solid",
@@ -294,8 +303,8 @@ Rotational magnetic field ^Arj46opT
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 2068.8643458514753,
-			"y": -1087.9769912887018,
+			"x": 2135.868032925672,
+			"y": -1094.1935874852074,
 			"strokeColor": "#c92a2a",
 			"backgroundColor": "transparent",
 			"width": 188.4874768884247,
@@ -311,16 +320,20 @@ Rotational magnetic field ^Arj46opT
 				{
 					"id": "Jw1XwVeRN0-rt1tZyu7HT",
 					"type": "arrow"
+				},
+				{
+					"id": "cdwPpe61HDXSHGUtYhK6D",
+					"type": "arrow"
 				}
 			],
-			"updated": 1683820477139,
+			"updated": 1683820769549,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 437,
-			"versionNonce": 2101674340,
+			"version": 497,
+			"versionNonce": 69402972,
 			"isDeleted": false,
 			"id": "gF0zW41MnVyFu4UlAW_NC",
 			"fillStyle": "solid",
@@ -329,8 +342,8 @@ Rotational magnetic field ^Arj46opT
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 1807.7279805924077,
-			"y": -958.9364514657514,
+			"x": 1886.8862856672554,
+			"y": -887.6939768983883,
 			"strokeColor": "#c92a2a",
 			"backgroundColor": "transparent",
 			"width": 255.31991762690063,
@@ -348,14 +361,14 @@ Rotational magnetic field ^Arj46opT
 					"type": "arrow"
 				}
 			],
-			"updated": 1683820477139,
+			"updated": 1683820697654,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 421,
-			"versionNonce": 647050972,
+			"version": 585,
+			"versionNonce": 76370532,
 			"isDeleted": false,
 			"id": "YUTZQoyZcLpkgZYPnofY6",
 			"fillStyle": "solid",
@@ -364,8 +377,8 @@ Rotational magnetic field ^Arj46opT
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 1741.7120429868223,
-			"y": -704.9281087581667,
+			"x": 1881.0306599185542,
+			"y": -603.6054782623615,
 			"strokeColor": "#c92a2a",
 			"backgroundColor": "transparent",
 			"width": 162.6352899952176,
@@ -383,7 +396,7 @@ Rotational magnetic field ^Arj46opT
 					"type": "arrow"
 				}
 			],
-			"updated": 1683820477139,
+			"updated": 1683820697654,
 			"link": null,
 			"locked": false
 		},
@@ -604,8 +617,8 @@ Rotational magnetic field ^Arj46opT
 		},
 		{
 			"type": "text",
-			"version": 505,
-			"versionNonce": 1165884252,
+			"version": 605,
+			"versionNonce": 251753052,
 			"isDeleted": false,
 			"id": "d5aFgZUr",
 			"fillStyle": "solid",
@@ -614,8 +627,8 @@ Rotational magnetic field ^Arj46opT
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 2075.5590598041626,
-			"y": -1072.2959180682965,
+			"x": 2142.5627468783596,
+			"y": -1078.5125142648021,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 163.5928192138672,
@@ -624,7 +637,7 @@ Rotational magnetic field ^Arj46opT
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1683820477139,
+			"updated": 1683820769549,
 			"link": null,
 			"locked": false,
 			"fontSize": 26.209563185586426,
@@ -736,8 +749,8 @@ Rotational magnetic field ^Arj46opT
 		},
 		{
 			"type": "text",
-			"version": 466,
-			"versionNonce": 1999535716,
+			"version": 542,
+			"versionNonce": 1400010204,
 			"isDeleted": false,
 			"id": "4VF3uObf",
 			"fillStyle": "solid",
@@ -746,12 +759,12 @@ Rotational magnetic field ^Arj46opT
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 1476.4115967439823,
-			"y": -966.035724505082,
+			"x": 1555.56990181883,
+			"y": -894.793249937719,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 148.1160430908203,
-			"height": 32.761953981983034,
+			"width": 210.15406799316406,
+			"height": 65.52390796396607,
 			"seed": 473848420,
 			"groupIds": [],
 			"roundness": null,
@@ -761,23 +774,23 @@ Rotational magnetic field ^Arj46opT
 					"type": "arrow"
 				}
 			],
-			"updated": 1683820484699,
+			"updated": 1683820697654,
 			"link": null,
 			"locked": false,
 			"fontSize": 26.209563185586426,
 			"fontFamily": 1,
-			"text": "Synchronous",
-			"rawText": "Synchronous",
+			"text": "Synchronous\n(Perma-magnets)",
+			"rawText": "Synchronous\n(Perma-magnets)",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "Synchronous",
+			"originalText": "Synchronous\n(Perma-magnets)",
 			"lineHeight": 1.25
 		},
 		{
 			"type": "text",
-			"version": 509,
-			"versionNonce": 750930916,
+			"version": 673,
+			"versionNonce": 840894820,
 			"isDeleted": false,
 			"id": "bx1XxNPV",
 			"fillStyle": "solid",
@@ -786,8 +799,8 @@ Rotational magnetic field ^Arj46opT
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 1771.6817148410041,
-			"y": -695.3677184945707,
+			"x": 1911.000331772736,
+			"y": -594.0450879987656,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 96.44828796386719,
@@ -805,7 +818,7 @@ Rotational magnetic field ^Arj46opT
 					"type": "arrow"
 				}
 			],
-			"updated": 1683820477139,
+			"updated": 1683820697654,
 			"link": null,
 			"locked": false,
 			"fontSize": 26.209563185586426,
@@ -820,8 +833,8 @@ Rotational magnetic field ^Arj46opT
 		},
 		{
 			"type": "text",
-			"version": 498,
-			"versionNonce": 167831772,
+			"version": 558,
+			"versionNonce": 2098819932,
 			"isDeleted": false,
 			"id": "TwStZzHY",
 			"fillStyle": "solid",
@@ -830,8 +843,8 @@ Rotational magnetic field ^Arj46opT
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 1818.0240286568453,
-			"y": -957.2455107180531,
+			"x": 1897.182333731693,
+			"y": -886.00303615069,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 236.9176025390625,
@@ -853,7 +866,7 @@ Rotational magnetic field ^Arj46opT
 					"type": "arrow"
 				}
 			],
-			"updated": 1683820477139,
+			"updated": 1683820697654,
 			"link": null,
 			"locked": false,
 			"fontSize": 26.209563185586426,
@@ -868,8 +881,8 @@ Rotational magnetic field ^Arj46opT
 		},
 		{
 			"type": "rectangle",
-			"version": 581,
-			"versionNonce": 2116316764,
+			"version": 765,
+			"versionNonce": 1633766492,
 			"isDeleted": false,
 			"id": "lp1iZE-Q6dkqILh7o6jlQ",
 			"fillStyle": "solid",
@@ -878,8 +891,8 @@ Rotational magnetic field ^Arj46opT
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 1471.2676891419208,
-			"y": -839.4824542915236,
+			"x": 1610.5863060736526,
+			"y": -681.1658441418281,
 			"strokeColor": "#c92a2a",
 			"backgroundColor": "transparent",
 			"width": 162.6352899952176,
@@ -901,14 +914,14 @@ Rotational magnetic field ^Arj46opT
 					"type": "arrow"
 				}
 			],
-			"updated": 1683820484699,
+			"updated": 1683820697654,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 485,
-			"versionNonce": 1253587932,
+			"version": 669,
+			"versionNonce": 1984357724,
 			"isDeleted": false,
 			"id": "plx1NP95",
 			"fillStyle": "solid",
@@ -917,8 +930,8 @@ Rotational magnetic field ^Arj46opT
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 1527.3833449752024,
-			"y": -827.5888467475572,
+			"x": 1666.7019619069342,
+			"y": -669.2722365978617,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 37.2908935546875,
@@ -927,7 +940,7 @@ Rotational magnetic field ^Arj46opT
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1683820484700,
+			"updated": 1683820697654,
 			"link": null,
 			"locked": false,
 			"fontSize": 26.209563185586426,
@@ -1138,8 +1151,8 @@ Rotational magnetic field ^Arj46opT
 		},
 		{
 			"type": "arrow",
-			"version": 992,
-			"versionNonce": 152637924,
+			"version": 1144,
+			"versionNonce": 1642027612,
 			"isDeleted": false,
 			"id": "4iaPIbOxPQ55BE8hj4lqZ",
 			"fillStyle": "hachure",
@@ -1148,17 +1161,17 @@ Rotational magnetic field ^Arj46opT
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 1775.1264976251373,
+			"x": 1841.9913123705649,
 			"y": -1003.8201298542424,
 			"strokeColor": "#c92a2a",
 			"backgroundColor": "#fad000",
-			"width": 184.18061559928628,
-			"height": 22.250392636789456,
+			"width": 256.82321262083246,
+			"height": 93.49286720415262,
 			"seed": 270916828,
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1683820484699,
+			"updated": 1683820697654,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1180,15 +1193,15 @@ Rotational magnetic field ^Arj46opT
 					0
 				],
 				[
-					-184.18061559928628,
-					22.250392636789456
+					-256.82321262083246,
+					93.49286720415262
 				]
 			]
 		},
 		{
 			"type": "arrow",
-			"version": 850,
-			"versionNonce": 1042033116,
+			"version": 995,
+			"versionNonce": 1404041308,
 			"isDeleted": false,
 			"id": "Vj6BCqMXZERkPJPraKvfY",
 			"fillStyle": "hachure",
@@ -1197,27 +1210,27 @@ Rotational magnetic field ^Arj46opT
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 1819.4379956513658,
-			"y": -1001.1969800156098,
+			"x": 1843.18548717382,
+			"y": -993.281149508125,
 			"strokeColor": "#c92a2a",
 			"backgroundColor": "#fad000",
-			"width": 81.3176449976088,
-			"height": 36.72409774085559,
+			"width": 136.7284585500022,
+			"height": 100.05074180073387,
 			"seed": 1062476636,
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1683820477374,
+			"updated": 1683820701598,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "_zNLCM6F_TbLLyoIg2MvO",
-				"focus": 0.4955010043719715,
-				"gap": 4.169223593937545
+				"focus": 0.2548136512244375,
+				"gap": 12.085054101422315
 			},
 			"endBinding": {
 				"elementId": "TwStZzHY",
-				"focus": 0.2765431307613741,
+				"focus": 0.11592080832674265,
 				"gap": 7.227371556701144
 			},
 			"lastCommittedPoint": null,
@@ -1229,15 +1242,15 @@ Rotational magnetic field ^Arj46opT
 					0
 				],
 				[
-					81.3176449976088,
-					36.72409774085559
+					136.7284585500022,
+					100.05074180073387
 				]
 			]
 		},
 		{
 			"type": "arrow",
-			"version": 1081,
-			"versionNonce": 604275172,
+			"version": 1581,
+			"versionNonce": 872418268,
 			"isDeleted": false,
 			"id": "aCak5_Vd81EMxMAJoy9Q4",
 			"fillStyle": "hachure",
@@ -1246,28 +1259,28 @@ Rotational magnetic field ^Arj46opT
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 1543.8074251290698,
-			"y": -882.2842146834716,
+			"x": 1655.739928139797,
+			"y": -811.0417401161086,
 			"strokeColor": "#c92a2a",
 			"backgroundColor": "#fad000",
-			"width": 0.20564152295969507,
-			"height": 31.15287968867392,
+			"width": 20.043589854087713,
+			"height": 118.22701527100651,
 			"seed": 2041847516,
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1683820487365,
+			"updated": 1683820697712,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "_pKiNvArHg4UhHPBYdpeZ",
-				"gap": 6.337221253390287,
-				"focus": 0.11607203312043825
+				"focus": 0.11336398009894189,
+				"gap": 6.337221253390226
 			},
 			"endBinding": {
 				"elementId": "lp1iZE-Q6dkqILh7o6jlQ",
-				"gap": 11.648880703274063,
-				"focus": -0.10165645563875453
+				"focus": -0.10165645563875655,
+				"gap": 11.648880703274017
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -1278,15 +1291,15 @@ Rotational magnetic field ^Arj46opT
 					0
 				],
 				[
-					0.20564152295969507,
-					31.15287968867392
+					20.043589854087713,
+					118.22701527100651
 				]
 			]
 		},
 		{
 			"type": "arrow",
-			"version": 988,
-			"versionNonce": 526444772,
+			"version": 1532,
+			"versionNonce": 1212821596,
 			"isDeleted": false,
 			"id": "v1MGKXUz35N3t6mQHTXL8",
 			"fillStyle": "hachure",
@@ -1295,28 +1308,28 @@ Rotational magnetic field ^Arj46opT
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 1566.1416713802203,
-			"y": -774.3408999654821,
+			"x": 1775.4049107223705,
+			"y": -618.1027753624234,
 			"strokeColor": "#c92a2a",
 			"backgroundColor": "#fad000",
-			"width": 244.23642406928548,
-			"height": 66.93670187671694,
+			"width": 127.89088229546383,
+			"height": 14.810151281236813,
 			"seed": 1294356836,
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1683820484700,
+			"updated": 1683820697712,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "lp1iZE-Q6dkqILh7o6jlQ",
-				"focus": 0.5583533173461225,
-				"gap": 2.185958198860476
+				"focus": 0.535904302918152,
+				"gap": 2.183314653500247
 			},
 			"endBinding": {
 				"elementId": "bx1XxNPV",
-				"focus": 0.871904613054093,
-				"gap": 12.036479594194418
+				"focus": 0.8719046130541052,
+				"gap": 9.24753608242105
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -1327,15 +1340,15 @@ Rotational magnetic field ^Arj46opT
 					0
 				],
 				[
-					244.23642406928548,
-					66.93670187671694
+					127.89088229546383,
+					14.810151281236813
 				]
 			]
 		},
 		{
 			"type": "arrow",
-			"version": 977,
-			"versionNonce": 77212772,
+			"version": 1415,
+			"versionNonce": 148620508,
 			"isDeleted": false,
 			"id": "sraUJ-sSAvly5GF5AvvEE",
 			"fillStyle": "hachure",
@@ -1344,28 +1357,28 @@ Rotational magnetic field ^Arj46opT
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 1890.6922851768218,
-			"y": -879.2205125191965,
+			"x": 2025.0694983866192,
+			"y": -807.9780379518335,
 			"strokeColor": "#c92a2a",
 			"backgroundColor": "#fad000",
-			"width": 250.23143144310188,
-			"height": 70.45632226482599,
+			"width": 245.29002772116883,
+			"height": 142.05465752642885,
 			"seed": 1606374372,
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1683820484700,
+			"updated": 1683820697712,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "TwStZzHY",
-				"focus": -0.4964151179944365,
-				"gap": 12.501090234890569
+				"focus": -0.5004027452573154,
+				"gap": 12.501090234890455
 			},
 			"endBinding": {
 				"elementId": "lp1iZE-Q6dkqILh7o6jlQ",
-				"focus": 0.44107693838957246,
-				"gap": 6.5578745965815415
+				"focus": 0.4410769383895643,
+				"gap": 6.557874596580177
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -1376,15 +1389,15 @@ Rotational magnetic field ^Arj46opT
 					0
 				],
 				[
-					-250.23143144310188,
-					70.45632226482599
+					-245.29002772116883,
+					142.05465752642885
 				]
 			]
 		},
 		{
 			"type": "arrow",
-			"version": 864,
-			"versionNonce": 117070812,
+			"version": 1260,
+			"versionNonce": 1531365724,
 			"isDeleted": false,
 			"id": "g435tslZxVNPo-G8USelv",
 			"fillStyle": "hachure",
@@ -1393,28 +1406,28 @@ Rotational magnetic field ^Arj46opT
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 1945.349187905728,
-			"y": -877.9089375998801,
+			"x": 2035.874561220907,
+			"y": -806.6664630325172,
 			"strokeColor": "#c92a2a",
 			"backgroundColor": "#fad000",
-			"width": 102.30284370666914,
-			"height": 166.57001475316642,
+			"width": 63.24374244693195,
+			"height": 196.65017068160864,
 			"seed": 359560924,
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1683820477375,
+			"updated": 1683820697712,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "TwStZzHY",
-				"focus": -0.27039368338892456,
-				"gap": 13.812665154206968
+				"focus": -0.2729719115501131,
+				"gap": 13.81266515420674
 			},
 			"endBinding": {
 				"elementId": "bx1XxNPV",
-				"focus": 0.05611473352727715,
-				"gap": 15.971204352142934
+				"focus": 0.056114733527238926,
+				"gap": 15.971204352143047
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -1425,8 +1438,8 @@ Rotational magnetic field ^Arj46opT
 					0
 				],
 				[
-					-102.30284370666914,
-					166.57001475316642
+					-63.24374244693195,
+					196.65017068160864
 				]
 			]
 		},
@@ -1596,8 +1609,8 @@ Rotational magnetic field ^Arj46opT
 		},
 		{
 			"type": "arrow",
-			"version": 263,
-			"versionNonce": 1736081500,
+			"version": 469,
+			"versionNonce": 1081260644,
 			"isDeleted": false,
 			"id": "DAxwLqEnRASa5am1NYt-2",
 			"fillStyle": "hachure",
@@ -1606,17 +1619,17 @@ Rotational magnetic field ^Arj46opT
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 1910.0156890134024,
-			"y": -1039.018552780779,
+			"x": 1910.0156890134026,
+			"y": -1040.2627980868563,
 			"strokeColor": "#c92a2a",
 			"backgroundColor": "#fad000",
-			"width": 141.65761125356767,
-			"height": 3.8883989455853225,
+			"width": 208.66129832776414,
+			"height": 0.8317088934270487,
 			"seed": 1594790884,
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1683820477375,
+			"updated": 1683820769549,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1638,8 +1651,8 @@ Rotational magnetic field ^Arj46opT
 					0
 				],
 				[
-					141.65761125356767,
-					3.8883989455853225
+					208.66129832776414,
+					0.8317088934270487
 				]
 			]
 		},
@@ -1694,8 +1707,8 @@ Rotational magnetic field ^Arj46opT
 		},
 		{
 			"type": "freedraw",
-			"version": 457,
-			"versionNonce": 1512393948,
+			"version": 557,
+			"versionNonce": 1909092708,
 			"isDeleted": false,
 			"id": "q8fPnQN9rW6GyRqqjUoyC",
 			"fillStyle": "hachure",
@@ -1704,8 +1717,8 @@ Rotational magnetic field ^Arj46opT
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 2191.5530001899942,
-			"y": -881.876367849902,
+			"x": 2258.556687264191,
+			"y": -888.0929640464076,
 			"strokeColor": "#000000",
 			"backgroundColor": "#fad000",
 			"width": 31.101480585089533,
@@ -1714,7 +1727,7 @@ Rotational magnetic field ^Arj46opT
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1683820477139,
+			"updated": 1683820769549,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -2409,8 +2422,8 @@ Rotational magnetic field ^Arj46opT
 		},
 		{
 			"type": "freedraw",
-			"version": 523,
-			"versionNonce": 1061650148,
+			"version": 623,
+			"versionNonce": 995804892,
 			"isDeleted": false,
 			"id": "3JLtRQzsOqcrqrtYVdzaM",
 			"fillStyle": "hachure",
@@ -2419,8 +2432,8 @@ Rotational magnetic field ^Arj46opT
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 2.263438170004205,
-			"x": 2162.259745220317,
-			"y": -933.2299753276083,
+			"x": 2229.263432294514,
+			"y": -939.4465715241139,
 			"strokeColor": "#000000",
 			"backgroundColor": "#fad000",
 			"width": 31.101480585089533,
@@ -2429,7 +2442,7 @@ Rotational magnetic field ^Arj46opT
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1683820477139,
+			"updated": 1683820769549,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -3124,8 +3137,8 @@ Rotational magnetic field ^Arj46opT
 		},
 		{
 			"type": "freedraw",
-			"version": 482,
-			"versionNonce": 1512001884,
+			"version": 582,
+			"versionNonce": 1371448548,
 			"isDeleted": false,
 			"id": "3OtezgzHsnZUXd20G4tOx",
 			"fillStyle": "hachure",
@@ -3134,8 +3147,8 @@ Rotational magnetic field ^Arj46opT
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 3.9506084719921937,
-			"x": 2222.2928356520015,
-			"y": -931.0601045891134,
+			"x": 2289.2965227261984,
+			"y": -937.276700785619,
 			"strokeColor": "#000000",
 			"backgroundColor": "#fad000",
 			"width": 31.101480585089533,
@@ -3144,7 +3157,7 @@ Rotational magnetic field ^Arj46opT
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1683820477139,
+			"updated": 1683820769549,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -3839,8 +3852,8 @@ Rotational magnetic field ^Arj46opT
 		},
 		{
 			"type": "image",
-			"version": 309,
-			"versionNonce": 1463681636,
+			"version": 409,
+			"versionNonce": 714443612,
 			"isDeleted": false,
 			"id": "d90MQnTC",
 			"fillStyle": "hachure",
@@ -3849,8 +3862,8 @@ Rotational magnetic field ^Arj46opT
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 2166.310170598841,
-			"y": -977.5073932303341,
+			"x": 2233.313857673038,
+			"y": -983.7239894268397,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 7.0882444124157615,
@@ -3859,7 +3872,7 @@ Rotational magnetic field ^Arj46opT
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1683820477139,
+			"updated": 1683820769549,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -3871,8 +3884,8 @@ Rotational magnetic field ^Arj46opT
 		},
 		{
 			"type": "image",
-			"version": 234,
-			"versionNonce": 1164232156,
+			"version": 334,
+			"versionNonce": 467691620,
 			"isDeleted": false,
 			"id": "iyYE5hOP",
 			"fillStyle": "hachure",
@@ -3881,8 +3894,8 @@ Rotational magnetic field ^Arj46opT
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 2203.921263399413,
-			"y": -905.8896040225753,
+			"x": 2270.92495047361,
+			"y": -912.106200219081,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 7.0882444124157615,
@@ -3891,7 +3904,7 @@ Rotational magnetic field ^Arj46opT
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1683820477139,
+			"updated": 1683820769550,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -3903,8 +3916,8 @@ Rotational magnetic field ^Arj46opT
 		},
 		{
 			"type": "image",
-			"version": 312,
-			"versionNonce": 1150817764,
+			"version": 412,
+			"versionNonce": 1594081244,
 			"isDeleted": false,
 			"id": "v0xdifXM",
 			"fillStyle": "hachure",
@@ -3913,8 +3926,8 @@ Rotational magnetic field ^Arj46opT
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 2253.1050001386247,
-			"y": -990.0444241638583,
+			"x": 2320.1086872128217,
+			"y": -996.2610203603639,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 7.0882444124157615,
@@ -3923,7 +3936,7 @@ Rotational magnetic field ^Arj46opT
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1683820477139,
+			"updated": 1683820769550,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -3935,8 +3948,8 @@ Rotational magnetic field ^Arj46opT
 		},
 		{
 			"type": "line",
-			"version": 70,
-			"versionNonce": 17279580,
+			"version": 170,
+			"versionNonce": 1409137636,
 			"isDeleted": false,
 			"id": "kV8xYd3VQPyfqhylttkHY",
 			"fillStyle": "hachure",
@@ -3945,8 +3958,8 @@ Rotational magnetic field ^Arj46opT
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 2284.9708703589467,
-			"y": -921.8923554473479,
+			"x": 2351.9745574331437,
+			"y": -928.1089516438535,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 160,
@@ -3955,7 +3968,7 @@ Rotational magnetic field ^Arj46opT
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1683820477139,
+			"updated": 1683820769550,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -3976,8 +3989,8 @@ Rotational magnetic field ^Arj46opT
 		},
 		{
 			"type": "line",
-			"version": 67,
-			"versionNonce": 878950756,
+			"version": 167,
+			"versionNonce": 1085760604,
 			"isDeleted": false,
 			"id": "H7Ymz8roNeKF7iBoNFori",
 			"fillStyle": "hachure",
@@ -3986,8 +3999,8 @@ Rotational magnetic field ^Arj46opT
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 2284.9708703589467,
-			"y": -981.8923554473479,
+			"x": 2351.9745574331437,
+			"y": -988.1089516438535,
 			"strokeColor": "#000000",
 			"backgroundColor": "#fad000",
 			"width": 0,
@@ -3996,7 +4009,7 @@ Rotational magnetic field ^Arj46opT
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1683820477139,
+			"updated": 1683820769550,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -4017,8 +4030,8 @@ Rotational magnetic field ^Arj46opT
 		},
 		{
 			"type": "freedraw",
-			"version": 186,
-			"versionNonce": 2144992988,
+			"version": 286,
+			"versionNonce": 1411686244,
 			"isDeleted": false,
 			"id": "A1eVvzyV1loxJFQywvw3g",
 			"fillStyle": "hachure",
@@ -4027,8 +4040,8 @@ Rotational magnetic field ^Arj46opT
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 2286.595396159948,
-			"y": -922.0240374907926,
+			"x": 2353.599083234145,
+			"y": -928.2406336872982,
 			"strokeColor": "#c92a2a",
 			"backgroundColor": "transparent",
 			"width": 117.14285714285688,
@@ -4037,7 +4050,7 @@ Rotational magnetic field ^Arj46opT
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1683820477139,
+			"updated": 1683820769550,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -4564,8 +4577,8 @@ Rotational magnetic field ^Arj46opT
 		},
 		{
 			"type": "freedraw",
-			"version": 144,
-			"versionNonce": 32435428,
+			"version": 244,
+			"versionNonce": 1703049436,
 			"isDeleted": false,
 			"id": "xfB0R3O8EE0QEtbF4r1gu",
 			"fillStyle": "hachure",
@@ -4574,8 +4587,8 @@ Rotational magnetic field ^Arj46opT
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 2309.45253901709,
-			"y": -923.9287993955546,
+			"x": 2376.456226091287,
+			"y": -930.1453955920603,
 			"strokeColor": "#1864ab",
 			"backgroundColor": "transparent",
 			"width": 115.23809523809496,
@@ -4584,7 +4597,7 @@ Rotational magnetic field ^Arj46opT
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1683820477139,
+			"updated": 1683820769550,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -4943,8 +4956,8 @@ Rotational magnetic field ^Arj46opT
 		},
 		{
 			"type": "freedraw",
-			"version": 140,
-			"versionNonce": 174965596,
+			"version": 240,
+			"versionNonce": 77796068,
 			"isDeleted": false,
 			"id": "XiMhIiWKRxArZENIUM8RT",
 			"fillStyle": "hachure",
@@ -4953,8 +4966,8 @@ Rotational magnetic field ^Arj46opT
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 2338.9763485408994,
-			"y": -920.1192755860309,
+			"x": 2405.9800356150963,
+			"y": -926.3358717825365,
 			"strokeColor": "#e67700",
 			"backgroundColor": "transparent",
 			"width": 101.90476190476238,
@@ -4963,7 +4976,7 @@ Rotational magnetic field ^Arj46opT
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1683820477139,
+			"updated": 1683820769550,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -5306,8 +5319,8 @@ Rotational magnetic field ^Arj46opT
 		},
 		{
 			"type": "image",
-			"version": 147,
-			"versionNonce": 1858580580,
+			"version": 247,
+			"versionNonce": 1492581724,
 			"isDeleted": false,
 			"id": "6ikyDyTo",
 			"fillStyle": "hachure",
@@ -5316,8 +5329,8 @@ Rotational magnetic field ^Arj46opT
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 2298.8096818742333,
-			"y": -988.9764184431739,
+			"x": 2365.8133689484303,
+			"y": -995.1930146396795,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 35.571428571428605,
@@ -5326,7 +5339,7 @@ Rotational magnetic field ^Arj46opT
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1683820477139,
+			"updated": 1683820769550,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -5338,8 +5351,8 @@ Rotational magnetic field ^Arj46opT
 		},
 		{
 			"type": "text",
-			"version": 124,
-			"versionNonce": 118814684,
+			"version": 224,
+			"versionNonce": 336008804,
 			"isDeleted": false,
 			"id": "tSJ6Bt7l",
 			"fillStyle": "hachure",
@@ -5348,8 +5361,8 @@ Rotational magnetic field ^Arj46opT
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 2342.7858723504232,
-			"y": -993.4526089193643,
+			"x": 2409.78955942462,
+			"y": -999.6692051158698,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 131.85983276367188,
@@ -5358,7 +5371,7 @@ Rotational magnetic field ^Arj46opT
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1683820477139,
+			"updated": 1683820769550,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -5373,8 +5386,8 @@ Rotational magnetic field ^Arj46opT
 		},
 		{
 			"type": "rectangle",
-			"version": 629,
-			"versionNonce": 1522271204,
+			"version": 729,
+			"versionNonce": 1684468188,
 			"isDeleted": false,
 			"id": "87oJMlrgV7zjD_y4Q-5mY",
 			"fillStyle": "hachure",
@@ -5383,8 +5396,8 @@ Rotational magnetic field ^Arj46opT
 			"roughness": 0,
 			"opacity": 60,
 			"angle": 0,
-			"x": 2319.2310191595034,
-			"y": -1065.180808879805,
+			"x": 2386.2347062337003,
+			"y": -1071.3974050763106,
 			"strokeColor": "#ffa70f",
 			"backgroundColor": "#fad000",
 			"width": 268.0620873342191,
@@ -5393,14 +5406,14 @@ Rotational magnetic field ^Arj46opT
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1683820477139,
+			"updated": 1683820769550,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 146,
-			"versionNonce": 1105304668,
+			"version": 246,
+			"versionNonce": 790538724,
 			"isDeleted": false,
 			"id": "Arj46opT",
 			"fillStyle": "hachure",
@@ -5409,8 +5422,8 @@ Rotational magnetic field ^Arj46opT
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 2328.5001580647086,
-			"y": -1061.0716565384123,
+			"x": 2395.5038451389055,
+			"y": -1067.288252734918,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 247.67970275878906,
@@ -5424,7 +5437,7 @@ Rotational magnetic field ^Arj46opT
 					"type": "arrow"
 				}
 			],
-			"updated": 1683820477139,
+			"updated": 1683820769550,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -5439,8 +5452,8 @@ Rotational magnetic field ^Arj46opT
 		},
 		{
 			"type": "arrow",
-			"version": 124,
-			"versionNonce": 2105677020,
+			"version": 434,
+			"versionNonce": 324573156,
 			"isDeleted": false,
 			"id": "Jw1XwVeRN0-rt1tZyu7HT",
 			"fillStyle": "hachure",
@@ -5449,8 +5462,8 @@ Rotational magnetic field ^Arj46opT
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 2261.8334913980416,
-			"y": -1042.976418443174,
+			"x": 2328.8371784722385,
+			"y": -1049.1930146396796,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 52.380952380952294,
@@ -5459,7 +5472,7 @@ Rotational magnetic field ^Arj46opT
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1683820477375,
+			"updated": 1683820769768,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -5487,341 +5500,160 @@ Rotational magnetic field ^Arj46opT
 			]
 		},
 		{
-			"type": "line",
-			"version": 12,
-			"versionNonce": 1127340516,
-			"isDeleted": true,
-			"id": "-ONYqIq4mYQPd2eI_c0WN",
+			"id": "RFQGB0Te",
+			"type": "text",
+			"x": 1045.0338203775248,
+			"y": -656.0885496330923,
+			"width": 389.99951171875,
+			"height": 25,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 100,
-			"angle": 0,
-			"x": 2560,
-			"y": -960,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 100,
-			"height": 0,
-			"seed": 1064908004,
 			"groupIds": [],
 			"roundness": null,
-			"boundElements": [],
-			"updated": 1683820212786,
+			"seed": 1980534116,
+			"version": 379,
+			"versionNonce": 273744740,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1683820759350,
 			"link": null,
 			"locked": false,
-			"startBinding": null,
-			"endBinding": null,
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": null,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					100,
-					0
-				]
-			]
+			"text": "Magnetic field velocity = Rotor velocity",
+			"rawText": "Magnetic field velocity = Rotor velocity",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "Magnetic field velocity = Rotor velocity",
+			"lineHeight": 1.25
 		},
 		{
-			"type": "line",
-			"version": 7,
-			"versionNonce": 618407516,
-			"isDeleted": true,
-			"id": "zdBmkVUfRmLt9hQ3kE0K_",
+			"type": "rectangle",
+			"version": 792,
+			"versionNonce": 465458396,
+			"isDeleted": false,
+			"id": "jNo6A9YNX5wjuxG4YLona",
 			"fillStyle": "hachure",
-			"strokeWidth": 0.5,
+			"strokeWidth": 2,
 			"strokeStyle": "solid",
 			"roughness": 0,
-			"opacity": 100,
+			"opacity": 60,
 			"angle": 0,
-			"x": 2660,
-			"y": -1000,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 0,
-			"height": 80,
-			"seed": 425157084,
+			"x": 1032.697603862454,
+			"y": -671.5985375818301,
+			"strokeColor": "#ffa70f",
+			"backgroundColor": "#fad000",
+			"width": 419.44577253371045,
+			"height": 68.46679221928454,
+			"seed": 406465380,
 			"groupIds": [],
 			"roundness": null,
-			"boundElements": [],
-			"updated": 1683820212786,
-			"link": null,
-			"locked": false,
-			"startBinding": null,
-			"endBinding": null,
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": null,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					80
-				]
-			]
-		},
-		{
-			"type": "line",
-			"version": 7,
-			"versionNonce": 1126497636,
-			"isDeleted": true,
-			"id": "1HOBM_uEDvFFNHfsGlGyP",
-			"fillStyle": "hachure",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"angle": 0,
-			"x": 2660,
-			"y": -1000,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 40,
-			"height": 40,
-			"seed": 362143580,
-			"groupIds": [],
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1683820212786,
-			"link": null,
-			"locked": false,
-			"startBinding": null,
-			"endBinding": null,
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": null,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					40,
-					40
-				]
-			]
-		},
-		{
-			"type": "line",
-			"version": 7,
-			"versionNonce": 733936348,
-			"isDeleted": true,
-			"id": "BfKbMDCQY89l1yFQ8MOtp",
-			"fillStyle": "hachure",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"angle": 0,
-			"x": 2700,
-			"y": -960,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 40,
-			"height": 40,
-			"seed": 821251292,
-			"groupIds": [],
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1683820212786,
-			"link": null,
-			"locked": false,
-			"startBinding": null,
-			"endBinding": null,
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": null,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					-40,
-					40
-				]
-			]
-		},
-		{
-			"type": "line",
-			"version": 6,
-			"versionNonce": 803713252,
-			"isDeleted": true,
-			"id": "vRporJS_ulaWbLQ8c2bcl",
-			"fillStyle": "hachure",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"angle": 0,
-			"x": 2700,
-			"y": -960,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 60,
-			"height": 0,
-			"seed": 1653975644,
-			"groupIds": [],
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1683820212786,
-			"link": null,
-			"locked": false,
-			"startBinding": null,
-			"endBinding": null,
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": null,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					60,
-					0
-				]
-			]
-		},
-		{
-			"type": "line",
-			"version": 5,
-			"versionNonce": 1750286172,
-			"isDeleted": true,
-			"id": "d8-yB1ceEPM4c7GH7BZYt",
-			"fillStyle": "hachure",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"angle": 0,
-			"x": 2760,
-			"y": -960,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 0,
-			"height": 40,
-			"seed": 1218031716,
-			"groupIds": [],
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1683820212786,
-			"link": null,
-			"locked": false,
-			"startBinding": null,
-			"endBinding": null,
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": null,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					40
-				]
-			]
-		},
-		{
-			"type": "ellipse",
-			"version": 76,
-			"versionNonce": 1762128996,
-			"isDeleted": true,
-			"id": "RIM04yO9j9RX_mvVyWsWB",
-			"fillStyle": "hachure",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"angle": 0,
-			"x": 2734.0054781819526,
-			"y": -920.1316820434437,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 54.285714285713766,
-			"height": 51.428571428571445,
-			"seed": 1851836124,
-			"groupIds": [],
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1683820212786,
+			"boundElements": [
+				{
+					"id": "n0_3gfi4NyjL5Cascp7jW",
+					"type": "arrow"
+				}
+			],
+			"updated": 1683820759350,
 			"link": null,
 			"locked": false
 		},
 		{
-			"type": "line",
-			"version": 15,
-			"versionNonce": 48952284,
-			"isDeleted": true,
-			"id": "3ezTDE7rBXrFtwg2FIefC",
+			"type": "text",
+			"version": 608,
+			"versionNonce": 1296116444,
+			"isDeleted": false,
+			"id": "8oBw55eU",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 2760,
-			"y": -869,
+			"x": 2036.4876099870921,
+			"y": -1200.7948956646223,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 0,
-			"height": 40,
-			"seed": 1657661020,
+			"width": 387.35955810546875,
+			"height": 25,
+			"seed": 3558364,
 			"groupIds": [],
 			"roundness": null,
-			"boundElements": [],
-			"updated": 1683820212786,
+			"boundElements": null,
+			"updated": 1683820769550,
 			"link": null,
 			"locked": false,
-			"startBinding": null,
-			"endBinding": null,
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": null,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					40
-				]
-			]
+			"fontSize": 20,
+			"fontFamily": 1,
+			"text": "Magnetic field velocity > Rotor velocity",
+			"rawText": "Magnetic field velocity > Rotor velocity",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "Magnetic field velocity > Rotor velocity",
+			"lineHeight": 1.25
 		},
 		{
-			"type": "freedraw",
-			"version": 32,
-			"versionNonce": 743688164,
-			"isDeleted": true,
-			"id": "0laMhsI8afsz-CQ9uVuZM",
+			"type": "rectangle",
+			"version": 901,
+			"versionNonce": 48267492,
+			"isDeleted": false,
+			"id": "X8_TJz_RJU5imxToaANs5",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 60,
+			"angle": 0,
+			"x": 2026.5139778841021,
+			"y": -1225.6946239772587,
+			"strokeColor": "#ffa70f",
+			"backgroundColor": "#fad000",
+			"width": 419.44577253371045,
+			"height": 68.46679221928454,
+			"seed": 761226972,
+			"groupIds": [],
+			"roundness": null,
+			"boundElements": [
+				{
+					"id": "cdwPpe61HDXSHGUtYhK6D",
+					"type": "arrow"
+				}
+			],
+			"updated": 1683820769550,
+			"link": null,
+			"locked": false
+		},
+		{
+			"id": "cdwPpe61HDXSHGUtYhK6D",
+			"type": "arrow",
+			"x": 2234.65369804946,
+			"y": -1107.5534244882776,
+			"width": 3.1663322029935443,
+			"height": 42.74548474041785,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 100,
-			"angle": 0,
-			"x": 2747.338811515285,
-			"y": -884.8935868053487,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 29.523809523809632,
-			"height": 12.380952380952408,
-			"seed": 1337969892,
 			"groupIds": [],
 			"roundness": null,
-			"boundElements": [],
-			"updated": 1683820212786,
+			"seed": 957164644,
+			"version": 215,
+			"versionNonce": 465828708,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1683820769768,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -5830,230 +5662,72 @@ Rotational magnetic field ^Arj46opT
 					0
 				],
 				[
-					0.9523809523807358,
-					-3.809523809523739
-				],
-				[
-					0.9523809523807358,
-					-5.714285714285666
-				],
-				[
-					1.9047619047619264,
-					-7.619047619047592
-				],
-				[
-					2.8571428571426623,
-					-7.619047619047592
-				],
-				[
-					3.809523809523853,
-					-7.619047619047592
-				],
-				[
-					4.761904761904589,
-					-7.619047619047592
-				],
-				[
-					6.666666666666515,
-					-8.571428571428555
-				],
-				[
-					8.571428571428442,
-					-8.571428571428555
-				],
-				[
-					9.523809523809632,
-					-7.619047619047592
-				],
-				[
-					10.476190476190368,
-					-6.666666666666629
-				],
-				[
-					12.380952380952294,
-					-5.714285714285666
-				],
-				[
-					14.28571428571422,
-					-4.761904761904702
-				],
-				[
-					16.190476190476147,
-					-2.857142857142776
-				],
-				[
-					17.142857142857338,
-					-2.857142857142776
-				],
-				[
-					18.095238095238074,
-					-1.9047619047618127
-				],
-				[
-					18.095238095238074,
-					-0.9523809523808495
-				],
-				[
-					19.04761904761881,
-					-0.9523809523808495
-				],
-				[
-					20,
-					-0.9523809523808495
-				],
-				[
-					22.857142857142662,
-					-1.9047619047618127
-				],
-				[
-					23.809523809523853,
-					-1.9047619047618127
-				],
-				[
-					25.71428571428578,
-					-1.9047619047618127
-				],
-				[
-					26.666666666666515,
-					-2.857142857142776
-				],
-				[
-					27.619047619047706,
-					-4.761904761904702
-				],
-				[
-					28.57142857142844,
-					-7.619047619047592
-				],
-				[
-					29.523809523809632,
-					-8.571428571428555
-				],
-				[
-					29.523809523809632,
-					-9.523809523809518
-				],
-				[
-					29.523809523809632,
-					-11.428571428571445
-				],
-				[
-					28.57142857142844,
-					-12.380952380952408
-				],
-				[
-					28.57142857142844,
-					-12.380952380952408
+					-3.1663322029935443,
+					-42.74548474041785
 				]
 			],
 			"lastCommittedPoint": null,
-			"simulatePressure": true,
-			"pressures": []
+			"startBinding": {
+				"elementId": "SGHNlt7tkUdo4AB8-V6h4",
+				"focus": 0.08867570023018843,
+				"gap": 13.35983700307031
+			},
+			"endBinding": {
+				"elementId": "X8_TJz_RJU5imxToaANs5",
+				"focus": 0.03674082234278762,
+				"gap": 6.928922529278566
+			},
+			"startArrowhead": null,
+			"endArrowhead": "triangle"
 		},
 		{
-			"type": "image",
-			"version": 24,
-			"versionNonce": 1234704476,
-			"isDeleted": true,
-			"id": "NSn06nLx",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
+			"id": "n0_3gfi4NyjL5Cascp7jW",
+			"type": "arrow",
+			"x": 1535.9667364779784,
+			"y": -863.1951840990616,
+			"width": 279.46002852519223,
+			"height": 183.0845578864562,
 			"angle": 0,
-			"x": 2665.195954372428,
-			"y": -969.0840629958249,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 13.809523809523922,
-			"height": 22.095238095238276,
-			"seed": 58145,
-			"groupIds": [],
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1683820212786,
-			"link": null,
-			"locked": false,
-			"status": "pending",
-			"fileId": "37af5de3680c23e4fd0726e8561d644b5dd7f826",
-			"scale": [
-				1,
-				1
-			]
-		},
-		{
-			"type": "arrow",
-			"version": 44,
-			"versionNonce": 1306078052,
-			"isDeleted": true,
-			"id": "otKie4nHK6Achu0zeQXgk",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 100,
-			"angle": 0,
-			"x": 2649.243573420047,
-			"y": -929.6554915672534,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 59.04761904761881,
-			"height": 67.6190476190477,
-			"seed": 1382830692,
 			"groupIds": [],
 			"roundness": null,
-			"boundElements": [],
-			"updated": 1683820212786,
+			"seed": 1254677476,
+			"version": 191,
+			"versionNonce": 324491612,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1683820759350,
 			"link": null,
 			"locked": false,
-			"startBinding": null,
-			"endBinding": null,
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": "triangle",
 			"points": [
 				[
 					0,
 					0
 				],
 				[
-					59.04761904761881,
-					-67.6190476190477
+					-279.46002852519223,
+					183.0845578864562
 				]
-			]
-		},
-		{
-			"type": "image",
-			"version": 43,
-			"versionNonce": 2016193756,
-			"isDeleted": true,
-			"id": "2GsAIXC4",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 2512.053097229572,
-			"y": -968.5364439482054,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 42,
-			"height": 13,
-			"seed": 61709,
-			"groupIds": [],
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1683820212786,
-			"link": null,
-			"locked": false,
-			"status": "pending",
-			"fileId": "b9ed313aa996c71bc6fffc13a0c7aec52e2582ba",
-			"scale": [
-				1,
-				1
-			]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": {
+				"elementId": "_pKiNvArHg4UhHPBYdpeZ",
+				"focus": 0.7112260538550553,
+				"gap": 12.717212066635966
+			},
+			"endBinding": {
+				"elementId": "jNo6A9YNX5wjuxG4YLona",
+				"focus": -0.19528620091086502,
+				"gap": 8.512088630775338
+			},
+			"startArrowhead": null,
+			"endArrowhead": "triangle"
 		}
 	],
 	"appState": {
@@ -6071,10 +5745,10 @@ Rotational magnetic field ^Arj46opT
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "triangle",
-		"scrollX": -669.7776473720239,
-		"scrollY": 1535.0884265887805,
+		"scrollX": -376.6987556739759,
+		"scrollY": 1699.3693349893265,
 		"zoom": {
-			"value": 0.6316456618509293
+			"value": 0.43164566185092923
 		},
 		"currentItemRoundness": "sharp",
 		"gridSize": null,

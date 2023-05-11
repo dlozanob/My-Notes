@@ -9,6 +9,7 @@ Algunos conceptos clave:
 - _HMI_ : Human Machine Interface
 - _NEMA_ :  National Electrical Manufactures Association
 - _VFD_ : Variable Frequency Drivers
+- _FOC_ : Field Oriented Control
 
 >[!Info]
 >Comúnmente las válvulas hidráulicas manejan un rango de 3-15 psi.
@@ -784,6 +785,7 @@ En control de velocidad se usan VFD's (variadores de frecuencias) -> Variación 
 
 ![](attachments/Pasted%20image%2020230511104909.png)
 
+Vel inferior a la del campo -> async
 
 
 1.  ¿Qué opciones existen en el mercado, marcas recomendadas?
@@ -857,16 +859,25 @@ Lazo de control anidado -> Incremento en el desempeño, menor tiempo de respuest
 
 ---
 
-
-
-
-
-
 # TO DO
 
 - [x] Videos
 - [x] Docs
 - [x] Procesos de selección
+- [ ] Ubicar algún catálogo de fabricante con 6 parámetros de modelado de un motor DC.
+
+- Parámetros:
+	- Naturaleza eléctrica
+		- $R_{a}$
+		- $L_{a}$
+	- Naturaleza mecánica
+		- $J_{motor}$
+		- $b_{motor}$
+	- E -> M
+		- $K_{T}$ Constante de torque
+	- M -> E
+		- $k_{b}$ (b -> BEMF: Back electric magnetic force)
+	
 
 ---
 
