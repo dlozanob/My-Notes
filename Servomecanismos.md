@@ -51,6 +51,8 @@ El controlador se comunica con el gemelo digital mediante el protocolo _OPC_ (Op
 - _Actuators_ : Being responsible of the mechanism motion, actuators move each component in the system according to their degrees of freedom. There are many actuator instances, some of them are hydraulic cylinders, motors, linear actuators, pneumatic cylinders, piezoelectric actuators, among others.  
 - _Mechanical Power Transmision System_ : The output produced by an actuator most of the times needs to be scaled by a factor or be moved to another point in the mechanism. Mechanical power transmision systems involve the implementation of gears, belts, pulleys, chains, sprockets, power screws, which are responsible of transform the corresponding forces to an output point.  
 - _Feedforward signal_ : Predicting possible results is important in advanced control systems, the feedforward signal looks for disturbances that may affect the system, the controller device must have a previous knowledge about the process in order to implement this routine. A more accurate output is guaranteed than having a case where this technique is not implemented.  
+  Takes over the control over the PID control -> + Velocity and precission
+
 - _Mechanism and load_ : The mechanism is responsible of modifying a set of income products in order to process them. According to the number of degrees of freedom in each joint, linkage types and quantity,  and relation between them, a mechanism will have an intrinsic motion nature, which is controlled by its actuators. The load force, is the mass or inertia that the mechanism must handle.
 ___
 
@@ -773,9 +775,75 @@ Un perfil trapezoidal suave evita el problema de los jerks
 3.  ¿Qué opciones existen en el mercado, marcas recomendadas?
 
 
+>[!Note]
+>Los motores PAP usan lazos abiertos, sin embargo, en aplicaciones de alta precisión usan lazo cerrado, ya que, la información enviada desde el driver puede perderse -> desfase
+
+>[!Info]
+>- Philips proviene de Paises Bajos
+>- ASML lidera el mercado de microprocesadores
+>- Algunas universidades líderes en aplicación tecnológica en Paises bajos son:
+>	- TU Delft
+>	- Tu/e
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ---
+
+
+
+
+
 
 # TO DO
 
