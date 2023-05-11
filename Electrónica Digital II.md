@@ -485,8 +485,9 @@ Una _interrupción_ es una excepción controlada.
 Se diseñan para mejorar la eficiencia.
 Son el principio básico de un sistema en tiempo real.
 
-Ahora existe un nuevo proceso -> verificar si h
+Ahora existe un nuevo proceso -> verificar si hay una interrupción
 
+Por lo general las direcciones 3 - 6 se reservan para las interrupciones
 
 
 
