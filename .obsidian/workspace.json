@@ -20,16 +20,6 @@
             }
           },
           {
-            "id": "df9e95978e06fece",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.2.8"
-              }
-            }
-          },
-          {
             "id": "97e03c2623b05460",
             "type": "leaf",
             "state": {
@@ -39,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -204,7 +193,7 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "df9e95978e06fece",
+  "active": "2458f5c4b0409997",
   "lastOpenFiles": [
     "Linux commands.md",
     "conflict-files-obsidian-git.md",
