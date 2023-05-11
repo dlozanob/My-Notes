@@ -775,6 +775,8 @@ Un perfil trapezoidal suave evita el problema de los jerks
 1.  ¿Cómo seleccionar un actuador eléctrico de acuerdo a la aplicación?
 
 R/ Los más usados en motion control son los AC de inducción
+Control de velocidad -> AC
+Motion Control -> DC
 
 
 1.  ¿Qué opciones existen en el mercado, marcas recomendadas?
