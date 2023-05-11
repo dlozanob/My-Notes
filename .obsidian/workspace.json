@@ -41,8 +41,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Verilog.md",
+                "file": "Electrónica Digital II.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Verilog.md",
+                "file": "Electrónica Digital II.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Verilog.md"
+                "file": "Electrónica Digital II.md"
               }
             }
           },
@@ -206,10 +205,10 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "3dd442ef38f2f182",
+  "active": "2458f5c4b0409997",
   "lastOpenFiles": [
-    "Electrónica Digital II.md",
     "Verilog.md",
+    "Electrónica Digital II.md",
     "Excalidraw/whiteboard.excalidraw.md",
     "Linux commands.md",
     "conflict-files-obsidian-git.md",

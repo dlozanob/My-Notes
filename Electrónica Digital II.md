@@ -489,7 +489,7 @@ Ahora existe un nuevo proceso -> verificar si hay una interrupción
 
 Por lo general las direcciones 3 - 6 se reservan para las interrupciones
 
-
+_PSW_ es el estado del procesador
 
 
 
