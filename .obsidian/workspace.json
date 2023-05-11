@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Verilog.md",
-                "mode": "preview",
+                "file": "Electrónica Digital II.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Verilog.md",
+                "file": "Electrónica Digital II.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Verilog.md",
+                "file": "Electrónica Digital II.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Verilog.md"
+                "file": "Electrónica Digital II.md"
               }
             }
           },
@@ -195,6 +195,8 @@
   },
   "active": "2458f5c4b0409997",
   "lastOpenFiles": [
+    "Verilog.md",
+    "Excalidraw/whiteboard.excalidraw.md",
     "Linux commands.md",
     "conflict-files-obsidian-git.md",
     "attachments/Pasted image 20230509170153.png",
@@ -214,8 +216,6 @@
     "Tema 2. Introducción al riesgo.md",
     "Tema 1. Definición y clase de los instrumentos de deuda.md",
     "Análisis de aceleración.md",
-    "Verilog.md",
-    "Excalidraw/whiteboard.excalidraw.md",
     "Excalidraw/blackboard.excalidraw.md",
     "Cybersec.md",
     "Main.md",
