@@ -7,6 +7,7 @@ Algunos conceptos clave:
 - _Set Point_ : Punto de referencia en control
 - _MCC_ : Motor Control Center
 - _HMI_ : Human Machine Interface
+- _NEMA_ :  National Electrical Manufactures Association
 
 >[!Info]
 >Comúnmente las válvulas hidráulicas manejan un rango de 3-15 psi.
@@ -771,8 +772,12 @@ Un perfil trapezoidal suave evita el problema de los jerks
 5. ¿Qué normas de seguridad debe cumplir un motor eléctrico orientado a control de movimiento?
 
 1.  ¿Cómo controlar estos actuadores eléctricos a nivel de software y de hardware?
-2.  ¿Cómo seleccionar un actuador eléctrico de acuerdo a la aplicación?
-3.  ¿Qué opciones existen en el mercado, marcas recomendadas?
+1.  ¿Cómo seleccionar un actuador eléctrico de acuerdo a la aplicación?
+
+R/ Los más usados en motion control son los AC de inducción
+
+
+1.  ¿Qué opciones existen en el mercado, marcas recomendadas?
 
 
 >[!Note]
@@ -784,6 +789,9 @@ Un perfil trapezoidal suave evita el problema de los jerks
 >- Algunas universidades líderes en aplicación tecnológica en Paises bajos son:
 >	- TU Delft
 >	- Tu/e
+
+Lazo de control anidado -> Incremento en el desempeño, menor tiempo de respuesta
+
 
 
 
