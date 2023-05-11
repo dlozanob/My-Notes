@@ -11,8 +11,12 @@
             "id": "0a116a29e2ca816c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Módulo 5. Teoría de portafolio.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -85,6 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Módulo 5. Teoría de portafolio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Módulo 5. Teoría de portafolio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +128,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Módulo 5. Teoría de portafolio.md"
+              }
             }
           },
           {
@@ -177,6 +185,7 @@
   },
   "active": "0a116a29e2ca816c",
   "lastOpenFiles": [
+    "Finanzas.md",
     "Excalidraw/whiteboard.excalidraw.md",
     "Excalidraw/attachments/Pasted Image 20230511120639_288.png",
     "Excalidraw/attachments/Pasted Image 20230511120350_275.png",
