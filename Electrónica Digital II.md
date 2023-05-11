@@ -491,6 +491,7 @@ Por lo general las direcciones 3 - 6 se reservan para las interrupciones
 
 _PSW_ es el estado del procesador
 
+Las interrupciones no pueden ser mandadas por el bus Wishbone. Son señales directas al registro IP
 
 
 
