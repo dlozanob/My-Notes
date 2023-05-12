@@ -14,78 +14,7 @@ en los bonos se habla de puntos básicos (cada yield) (basis-point)
 duration -> primera derivada
 convexidad -> segunda derivada
 
-- _Duración modificada del bono_ ($MD$)
-	- Es el cociente entre $-P'$ y $P(y_{0})$
-	- Sirve para aproximación con línea recta
 
-Se tiene $P(y_{1}) = P(y_{0}) + m(y_{1} - y_{0})$, la recta es una aproximación de la curva. Se puede conocer el precio de un bono en un tiempo utilizando esto.
-
-Se llega a:
-
-$$
-\begin{align*}
-	P(y_{1}) = P(y_{0}) + \frac{\partial P}{\partial y}(y_{1} - y_{0}) = P(y_{0}) - MD\cdot P(y_{0})(y_{1} - y_{0})
-\end{align*}
-$$
-
-Ahora bien:
-
-$$
-\begin{align*}
-	\frac{\Delta P}{P(y_{0})} = -MD\cdot \Delta y
-\end{align*}
-$$
-
-Esto permite visualizar riesgos.
-
-
-
-La duración de _Macaulay_ (_duration_) muestra el plazo promedio de los diferentes tiempos cuando van ocurriendo los distintos flujos de efectivo. Es un promedio ponderado de cuándo ocurren los flujos de efectivo. Es como un centro de masa que indica en qué periodo se recupera el precio inicial del bono.
-
-$$
-\begin{align*}
-	Duration = \frac{\sum_{t = 1}^{n} \frac{t\cdot FC_{t}}{(1 + y_{0})^{t}}}{P}
-\end{align*}
-$$
-
-Viene de la duración modificada.
-
-$$
-\begin{align*}
-	MD = \frac{Duration}{1+y_{0}}
-\end{align*}
-$$
-
->[!Note]
->`SUMAPRODUCTO` es una función de Excel para efectuar un producto punto
-
-
-La _convexidad_ se usa para determinar el grado de curvatura de la función que modela el precio del bono con respecto al yield.
-
-$$
-\begin{align*}
-	\frac{\partial^{2}P}{\partial y} = \sum_{t = 1}^{n} \frac{(t^{2} + t)\cdot FC_{t}}{(1 + y_{0})^{t + 2}}
-\end{align*}
-$$
-
-$$
-\begin{align*}
-	Convexidad = \frac{\frac{\partial^{2}P}{\partial y}}{P(y_{0})}
-\end{align*}
-$$
-
-Se usa para mejorar la aproximación lineal.
-
-Se parte de la serie de Taylor para obtener una aproximación de segundo orden:
-
-$$
-\begin{align*}
-	P(y_{1}) = P(y_{0}) + \frac{\partial P(y_{0})}{\partial y}(y_{1} - y_{0}) + \frac{1}{2}\frac{\partial^{2}P(y_{0})}{\partial y}(y_{1} - y_{0})^{2}
-\end{align*}
-$$
-
->[!Note]
->La _duración_ y la _convexidad_ de un bono se encuentra en sistemas de información
 
 Se obtiene:
 
