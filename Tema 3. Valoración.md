@@ -279,6 +279,25 @@ $$
 \end{align*}
 $$
 
+---
+
+- __Ejemplo__ :
+	- Duración: $10$ años
+	- Yield: $10\%$ EA
+	- Tasa de cupón: $10\%$ EA
+	- Valor de maduración (VM): $\$1000$
+	- Revendido al día $25$
+	- Convención: $365$/$365$
+
+La tabla de la que se relacionan los datos es la siguiente:
+
+![](attachments/Pasted%20image%2020230511225034.png)
+
+Notemos que el flujo de caja va hasta el año $9$ en vez de ir hasta el $10$.
+
+
+
+
 
 
 
