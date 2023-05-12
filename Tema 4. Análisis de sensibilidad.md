@@ -55,7 +55,7 @@ $$
 
 Esto permite visualizar riesgos.
 
-La duración de _Macaulay_ (_duration_) muestra el plazo promedio de los diferentes tiempos cuando van ocurriendo los distintos flujos de efectivo. Es un promedio ponderado de cuándo ocurren los flujos de efectivo. Es como un centro de masa que indica en qué periodo se recupera el precio inicial del bono.
+La duración de _Macaulay_ (_duration_) muestra el plazo promedio de los diferentes tiempos cuando van ocurriendo los distintos flujos de efectivo. Es un promedio ponderado de cuándo ocurren los flujos de efectivo. Es como un centro de masa que indica en qué periodo se recupera el precio inicial del bono. Es el tiempo de recuperación.
 
 $$
 \begin{align*}
@@ -93,7 +93,7 @@ $$
 \end{align*}
 $$
 
-Se usa para mejorar la aproximación lineal.
+Se usa para mejorar la aproximación lineal. Representa el precio de los cambios.
 
 Se parte de la serie de Taylor para obtener una aproximación de segundo orden:
 
@@ -103,5 +103,30 @@ $$
 \end{align*}
 $$
 
+Se obtiene:
+
+$$
+\begin{align*}
+	P(y_{1}) &= P(y_{0}) - MD\cdot P(y_{0})(\Delta y) + Conv\cdot P(y_{0}) \frac{(\Delta y^{2})}{2} \\
+\end{align*}
+$$
+
+Además:
+
+$$
+\begin{align*}
+	\frac{\Delta P}{P(y_{0})} &= -MD\cdot \Delta y + \frac{Conv\cdot (\Delta y)^{2}}{2}
+\end{align*}
+$$
+
+![](attachments/Pasted%20image%2020230511215300.png)
+
+
+
 >[!Note]
->La _duración_ y la _convexidad_ de un bono se encuentra en sistemas de información
+>- La _duración_ y la _convexidad_ de un bono se encuentra en sistemas de información
+>- Algunos emisores emiten bonos con opcionalidades de recomprarlos
+
+En los bonos se habla de puntos básicos (cada yield) (basis-point). Cada _basis point_ es un $0.01\%$ . Es decir, si el rendimiento inicial es del $11\%$, para un incremento de $100$ puntos básicos se tendrá un yield de $12\%$ .
+
+

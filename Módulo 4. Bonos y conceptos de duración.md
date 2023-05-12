@@ -7,36 +7,6 @@
 - [Tema 5. Valoración de operaciones](Tema%205.%20Valoración%20de%20operaciones)
 
 
-en los bonos se habla de puntos básicos (cada yield) (basis-point)
-
-![](attachments/Pasted%20image%2020230411173453.png)
-
-duration -> primera derivada
-convexidad -> segunda derivada
-
-
-
-Se obtiene:
-
-$$
-\begin{align*}
-	P(y_{1}) &= P(y_{0}) - MD\cdot P(y_{0})(\Delta y) + Conv\cdot P(y_{0}) \frac{(\Delta y^{2})}{2} \\
-	\frac{\Delta P}{P} &= -MD\cdot \Delta y + \frac{Conv\cdot (\Delta y)^{2}}{2}
-\end{align*}
-$$
-
-Algunos emisores emiten bonos con opcionalidades de recomprarlos
-
-
-La _duración_ es el tiempo de recuperación
-
-La _convexidad_ es el precio de los cambios
-
----
-
----
-
----
 
 Para un bono con cupón fijo y pago total de la maduración al vencimiento de la vida del bono
 - la Duración del precio negociándolo con descuento será mayor a la Duración del precio negociándolo con prima
