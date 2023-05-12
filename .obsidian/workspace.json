@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Finanzas.md",
+                "file": "Tema 1. Infraestructura de los mercados financieros.md",
                 "mode": "preview",
                 "source": false
               }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Finanzas.md",
+                "file": "Tema 1. Infraestructura de los mercados financieros.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Finanzas.md",
+                "file": "Tema 1. Infraestructura de los mercados financieros.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Finanzas.md"
+                "file": "Tema 1. Infraestructura de los mercados financieros.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"\"",
+                "query": "\"TES\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -182,9 +182,12 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "abed2df76f33d216",
+  "active": "d05daf4768d01e91",
   "lastOpenFiles": [
+    "Tema 3. Introducción a los mercados de capitales.md",
+    "Tema 2. Estructura del mercado.md",
     "Módulo 3. Introducción al mercado de capitales.md",
+    "Tema 1. Infraestructura de los mercados financieros.md",
     "Finanzas.md",
     "Tema 3. Valoración.md",
     "Tema 4. Análisis de sensibilidad.md",
@@ -209,8 +212,6 @@
     "Obsidian Basics.md",
     "Fórmulas Financieras Excel.md",
     "formulas.md",
-    "Tema 2. Estructura del mercado.md",
-    "Tema 1. Infraestructura de los mercados financieros.md",
     "Tema 2. Introducción al riesgo.md",
     "Fundamentos de cinemática de mecanismos.md",
     "Servomecanismos.md",
@@ -219,7 +220,6 @@
     "Estática de Fluidos.md",
     "myDrawings.md",
     "Main.md",
-    "Ciencias Económicas y Administrativas.md",
     "Excalidraw/attachments",
     "attachments",
     "New folder",
