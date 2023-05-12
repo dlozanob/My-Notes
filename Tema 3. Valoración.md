@@ -194,7 +194,7 @@ $$
 Supongamos que un inversionista desea revender su bono en el mercado secundario, siendo así, se abordarán unos nuevos conceptos a continuación con base en esta situación.
 
 La valoración se hace en días, entonces, $t = \frac{d}{Base}$ .
-Donde $d$ son los días totales transcurridos desde que el inversionista vende el bono hasta el pago del último cupón, y la $Base$ son los días considerados en un año. Comúnmente se toma $Base = 365$ días (se le conoce como base 365/365).
+Donde $d$ son los días desde que el nuevo tenedor del bono lo adquiere y el cobro de su primer cupón. La $Base$ son los días considerados en un año. Comúnmente se toma $Base = 365$ días (se le conoce como base 365/365).
 
 Algunas convenciones para tener en cuenta los días son:
 - Real/Real (Actual/Actual)
