@@ -168,8 +168,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249.5,
-    "collapsed": true
+    "width": 249.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,7 +182,7 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "d05daf4768d01e91",
+  "active": "abed2df76f33d216",
   "lastOpenFiles": [
     "Módulo 3. Introducción al mercado de capitales.md",
     "Finanzas.md",
