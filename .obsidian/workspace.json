@@ -11,22 +11,33 @@
             "id": "2d58a2bee5ce833f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "da817e7d2cad6400",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.2.8"
+                "file": "Tema 4. Análisis de sensibilidad.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "5ac06bba1fcc094f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "123396535bee5e7a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Módulo 4. Bonos y conceptos de duración.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,6 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Tema 4. Análisis de sensibilidad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,6 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Tema 4. Análisis de sensibilidad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Tema 4. Análisis de sensibilidad.md"
+              }
             }
           },
           {
@@ -158,7 +173,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"preferenciales\"",
+                "query": "\"\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -186,19 +201,20 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "da817e7d2cad6400",
+  "active": "2d58a2bee5ce833f",
   "lastOpenFiles": [
+    "Módulo 4. Bonos y conceptos de duración.md",
+    "Tema 3. Valoración.md",
+    "Finanzas.md",
+    "Módulo 5. Teoría de portafolio.md",
     "Tema 1. Conceptos básicos de probabilidad y estadística.md",
     "Obsidian Basics.md",
     "attachments/Pasted image 20230509170153.png",
-    "Módulo 5. Teoría de portafolio.md",
-    "Finanzas.md",
     "Fórmulas Financieras Excel.md",
     "formulas.md",
     "Tema 2. Estructura del mercado.md",
     "Módulo 3. Introducción al mercado de capitales.md",
     "Tema 1. Infraestructura de los mercados financieros.md",
-    "Módulo 4. Bonos y conceptos de duración.md",
     "Tema 2. Introducción al riesgo.md",
     "Fundamentos de cinemática de mecanismos.md",
     "Excalidraw/whiteboard.excalidraw.md",
@@ -214,7 +230,6 @@
     "attachments/Pasted image 20230508200748.png",
     "attachments/Pasted image 20230508200431.png",
     "attachments/Pasted image 20230508200420.png",
-    "Tema 3. Valoración.md",
     "Tema 4. Análisis de sensibilidad.md",
     "Estática de Fluidos.md",
     "myDrawings.md",
