@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tema 3. Valoración.md",
+                "file": "Tema 4. Análisis de sensibilidad.md",
                 "mode": "preview",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fórmulas Financieras Excel.md",
+                "file": "Tema 4. Análisis de sensibilidad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fórmulas Financieras Excel.md",
+                "file": "Tema 4. Análisis de sensibilidad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fórmulas Financieras Excel.md"
+                "file": "Tema 4. Análisis de sensibilidad.md"
               }
             }
           },
@@ -195,10 +194,11 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "a7e25aafc360eb73",
+  "active": "d05daf4768d01e91",
   "lastOpenFiles": [
-    "Tema 3. Valoración.md",
     "Módulo 4. Bonos y conceptos de duración.md",
+    "Tema 3. Valoración.md",
+    "Fórmulas Financieras Excel.md",
     "Finanzas.md",
     "Módulo 3. Introducción al mercado de capitales.md",
     "Tema 2. Estructura del mercado.md",
@@ -223,7 +223,6 @@
     "Módulo 5. Teoría de portafolio.md",
     "Tema 1. Conceptos básicos de probabilidad y estadística.md",
     "Obsidian Basics.md",
-    "Fórmulas Financieras Excel.md",
     "formulas.md",
     "Tema 2. Introducción al riesgo.md",
     "Fundamentos de cinemática de mecanismos.md",
