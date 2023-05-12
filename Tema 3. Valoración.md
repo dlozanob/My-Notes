@@ -179,7 +179,8 @@ $$
 ## Valoración de un bono
 
 >[!Warning]
->Si la duración del bono es $n$ se deben tomar $n - 1$ flujos de caja
+>Únicamente para valoración con reventa: si la duración del bono es $n$ se deben tomar $n - 1$ flujos de caja.
+>Si el bono no se revende, tomar los $n$ flujos común y corriente
 
 Como bien se sabe, el precio de un bono es:
 
