@@ -191,7 +191,7 @@ $$
 - $y_{0}$ : Yield en el momento de emisión del bono
 - $n$ : Periodos hasta la maduración del bono
 
-Supongamos que un inversionista desea revender su bono en el mercado secundario, siendo así, se abordarán unos nuevos conceptos a continuación.
+Supongamos que un inversionista desea revender su bono en el mercado secundario, siendo así, se abordarán unos nuevos conceptos a continuación con base en esta situación.
 
 La valoración se hace en días, entonces, $t = \frac{d}{Base}$ .
 Donde $d$ son los días totales transcurridos desde que el inversionista vende el bono hasta el pago del último cupón, y la $Base$ son los días considerados en un año. Comúnmente se toma $Base = 365$ días (se le conoce como base 365/365).
