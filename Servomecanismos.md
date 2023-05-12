@@ -7,6 +7,9 @@ Algunos conceptos clave:
 - _Set Point_ : Punto de referencia en control
 - _MCC_ : Motor Control Center
 - _HMI_ : Human Machine Interface
+- _NEMA_ :  National Electrical Manufactures Association
+- _VFD_ : Variable Frequency Drivers
+- _FOC_ : Field Oriented Control
 
 >[!Info]
 >Comúnmente las válvulas hidráulicas manejan un rango de 3-15 psi.
@@ -51,6 +54,8 @@ El controlador se comunica con el gemelo digital mediante el protocolo _OPC_ (Op
 - _Actuators_ : Being responsible of the mechanism motion, actuators move each component in the system according to their degrees of freedom. There are many actuator instances, some of them are hydraulic cylinders, motors, linear actuators, pneumatic cylinders, piezoelectric actuators, among others.  
 - _Mechanical Power Transmision System_ : The output produced by an actuator most of the times needs to be scaled by a factor or be moved to another point in the mechanism. Mechanical power transmision systems involve the implementation of gears, belts, pulleys, chains, sprockets, power screws, which are responsible of transform the corresponding forces to an output point.  
 - _Feedforward signal_ : Predicting possible results is important in advanced control systems, the feedforward signal looks for disturbances that may affect the system, the controller device must have a previous knowledge about the process in order to implement this routine. A more accurate output is guaranteed than having a case where this technique is not implemented.  
+  Takes over the control over the PID control -> + Velocity and precission
+
 - _Mechanism and load_ : The mechanism is responsible of modifying a set of income products in order to process them. According to the number of degrees of freedom in each joint, linkage types and quantity,  and relation between them, a mechanism will have an intrinsic motion nature, which is controlled by its actuators. The load force, is the mass or inertia that the mechanism must handle.
 ___
 
@@ -758,6 +763,97 @@ Un perfil trapezoidal suave evita el problema de los jerks
 ![](attachments/Pasted%20image%2020230413104034.png)
 
 
+## Actuadores eléctricos
+
+
+
+1. ¿Qué tipo de motor es el más pertinente en control de movimiento?
+2. ¿Qué configuración es la más apropiada para la inversión de giro?
+3. ¿Qué tipo de motor otorga una mejor precisión?
+4. ¿Cómo generar las señales que controlarán al motor?
+5. ¿Qué normas de seguridad debe cumplir un motor eléctrico orientado a control de movimiento?
+
+1.  ¿Cómo controlar estos actuadores eléctricos a nivel de software y de hardware?
+1.  ¿Cómo seleccionar un actuador eléctrico de acuerdo a la aplicación?
+
+R/ Los más usados en motion control son los AC de inducción
+Control de velocidad -> AC
+Motion Control -> DC
+
+
+En control de velocidad se usan VFD's (variadores de frecuencias) -> Variación de velocidad
+
+![](attachments/Pasted%20image%2020230511104909.png)
+
+Vel inferior a la del campo -> async
+
+
+1.  ¿Qué opciones existen en el mercado, marcas recomendadas?
+
+
+>[!Note]
+>Los motores PAP usan lazos abiertos, sin embargo, en aplicaciones de alta precisión usan lazo cerrado, ya que, la información enviada desde el driver puede perderse -> desfase
+
+>[!Info]
+>- Philips proviene de Paises Bajos
+>- ASML lidera el mercado de microprocesadores
+>- Algunas universidades líderes en aplicación tecnológica en Paises bajos son:
+>	- TU Delft
+>	- Tu/e
+
+Lazo de control anidado -> Incremento en el desempeño, menor tiempo de respuesta
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -768,6 +864,20 @@ Un perfil trapezoidal suave evita el problema de los jerks
 - [x] Videos
 - [x] Docs
 - [x] Procesos de selección
+- [ ] Ubicar algún catálogo de fabricante con 6 parámetros de modelado de un motor DC.
+
+- Parámetros:
+	- Naturaleza eléctrica
+		- $R_{a}$
+		- $L_{a}$
+	- Naturaleza mecánica
+		- $J_{motor}$
+		- $b_{motor}$
+	- E -> M
+		- $K_{T}$ Constante de torque
+	- M -> E
+		- $k_{b}$ (b -> BEMF: Back electric magnetic force)
+	
 
 ---
 
@@ -801,3 +911,4 @@ Se deben hacer hasta 10 ciclos de la segunda etapa.
 
 - [IEC 61131](https://webstore.iec.ch/webstore/webstore.nsf/mysearchajax?Openform&key=iec%2061131&sorting=&start=1&onglet=1)
 - [Stewart Platform](https://www.youtube.com/watch?v=j4OmVLc_oDw)
+- [The Mechatronics Academy](http://www.mechatronics-academy.nl/)

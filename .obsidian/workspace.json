@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2c14d18cce828dd9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "5ac06bba1fcc094f",
@@ -107,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tema 4. Análisis de sensibilidad.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tema 4. Análisis de sensibilidad.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tema 4. Análisis de sensibilidad.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -201,8 +214,16 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "2d58a2bee5ce833f",
+  "active": "2c14d18cce828dd9",
   "lastOpenFiles": [
+    "Tema 4. Análisis de sensibilidad.md",
+    "conflict-files-obsidian-git.md",
+    "attachments/Pasted image 20230511104909.png",
+    "Excalidraw/attachments/Pasted Image 20230511120639_288.png",
+    "Excalidraw/attachments/Pasted Image 20230511120350_275.png",
+    "Excalidraw/attachments/Pasted Image 20230511112020_947.png",
+    "Excalidraw/attachments/Pasted Image 20230511111950_946.png",
+    "Excalidraw/attachments/Pasted Image 20230511111935_924.png",
     "Módulo 4. Bonos y conceptos de duración.md",
     "Tema 3. Valoración.md",
     "Finanzas.md",
@@ -221,16 +242,9 @@
     "Excalidraw/attachments/Pasted Image 20230509115037_081.png",
     "Excalidraw/attachments/Pasted Image 20230509115022_058.png",
     "Excalidraw/attachments/Pasted Image 20230509114836_041.png",
-    "Excalidraw/attachments/Pasted Image 20230509114821_033.png",
-    "Excalidraw/attachments/Pasted Image 20230509111555_066.png",
     "Servomecanismos.md",
     "Mecanismos.md",
     "Excalidraw/blackboard.excalidraw.md",
-    "attachments/Pasted image 20230508214623.png",
-    "attachments/Pasted image 20230508200748.png",
-    "attachments/Pasted image 20230508200431.png",
-    "attachments/Pasted image 20230508200420.png",
-    "Tema 4. Análisis de sensibilidad.md",
     "Estática de Fluidos.md",
     "myDrawings.md",
     "Main.md",
@@ -238,7 +252,6 @@
     "Tema 2. Tipos de bonos y sus características.md",
     "Tema 1. Definición y clase de los instrumentos de deuda.md",
     "Tema 5. Valoración de operaciones.md",
-    "Módulo 2. Diagnóstico financiero.md",
     "Excalidraw/attachments",
     "attachments",
     "New folder",

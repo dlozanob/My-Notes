@@ -475,6 +475,23 @@ En Litex, `litex/litex/soc/software/bios` se encuentra el programa de la bios, b
 
 Al crear los objetos, existen distintas opciones de compilación que se declaran en el archivo Makefile
 
+---
+
+## Excepciones e interrupciones
+
+Una _excepción_ es algún evento que interrumpe la operación del programa.
+
+Una _interrupción_ es una excepción controlada.
+Se diseñan para mejorar la eficiencia.
+Son el principio básico de un sistema en tiempo real.
+
+Ahora existe un nuevo proceso -> verificar si hay una interrupción
+
+Por lo general las direcciones 3 - 6 se reservan para las interrupciones
+
+_PSW_ es el estado del procesador
+
+Las interrupciones no pueden ser mandadas por el bus Wishbone. Son señales directas al registro IP
 
 
 
