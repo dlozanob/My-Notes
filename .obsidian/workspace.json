@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Tema 3. Valoración.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -26,12 +26,13 @@
               "type": "markdown",
               "state": {
                 "file": "Tema 4. Análisis de sensibilidad.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -101,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tema 3. Valoración.md",
+                "file": "Tema 4. Análisis de sensibilidad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tema 3. Valoración.md",
+                "file": "Tema 4. Análisis de sensibilidad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tema 3. Valoración.md"
+                "file": "Tema 4. Análisis de sensibilidad.md"
               }
             }
           },
@@ -195,10 +196,10 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "2d58a2bee5ce833f",
+  "active": "80f6f2ba39beadb7",
   "lastOpenFiles": [
-    "Tema 4. Análisis de sensibilidad.md",
     "Tema 3. Valoración.md",
+    "Tema 4. Análisis de sensibilidad.md",
     "Módulo 4. Bonos y conceptos de duración.md",
     "attachments/Pasted image 20230511225034.png",
     "Tema 5. Valoración de operaciones.md",

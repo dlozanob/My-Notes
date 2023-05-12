@@ -76,7 +76,7 @@ $$
 
 
 >[!Note]
->`SUMAPRODUCTO` es una función de Excel para efectuar un producto punto
+>En Excel`SUMAPRODUCTO` efectúa un producto punto entre dos vectores de datos
 
 La _convexidad_ se usa para determinar el grado de curvatura de la función que modela el precio del bono con respecto al yield.
 
@@ -131,7 +131,7 @@ $$
 >- Algunos emisores emiten bonos con opcionalidades de recomprarlos
 >- La aproximación lineal arroja un valor por debajo del real, por otro lado, la de segundo orden arroja un valor por encima
 
-En los bonos se habla de puntos básicos (cada yield) (basis-point). Cada _basis point_ es un $0.01\%$ . Es decir, si el rendimiento inicial es del $11\%$, para un incremento de $100$ puntos básicos se tendrá un yield de $12\%$ .
+En los bonos se habla de _puntos básicos_ (basis-point). Cada _basis point_ es un $0.01\%$ . Es decir, si el rendimiento inicial es del $11\%$, para un incremento de $100$ puntos básicos se tendrá un yield de $12\%$ .
 
 
 
