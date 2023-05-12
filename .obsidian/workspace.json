@@ -14,8 +14,19 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "da817e7d2cad6400",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.8"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -175,7 +186,7 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "2d58a2bee5ce833f",
+  "active": "da817e7d2cad6400",
   "lastOpenFiles": [
     "Tema 1. Conceptos básicos de probabilidad y estadística.md",
     "Obsidian Basics.md",
