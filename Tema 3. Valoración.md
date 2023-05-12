@@ -178,6 +178,9 @@ $$
 
 ## Valoración de un bono
 
+>[!Warning]
+>Si la duración del bono es $n$ se deben tomar $n - 1$ flujos de caja
+
 Como bien se sabe, el precio de un bono es:
 
 $$
@@ -293,7 +296,8 @@ La tabla de la que se relacionan los datos es la siguiente:
 
 ![](attachments/Pasted%20image%2020230511225034.png)
 
-Notemos que el flujo de caja va hasta el año $9$ en vez de ir hasta el $10$.
+
+
 
 
 

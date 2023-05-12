@@ -1,5 +1,8 @@
 # Análisis de sensibilidad
 
+>[!Warning]
+>Para casos de reventa del bono, en TODOS los cálculos $t\leftarrow \frac{d}{Base}$ 
+
 La tasa del mercado varía en el tiempo, lo que hace que el precio del bono cambie. La relación entre estas dos variables adopta la siguiente forma:
 
 ![](attachments/Pasted%20image%2020230511212622.png)
@@ -129,5 +132,6 @@ $$
 >- La aproximación lineal arroja un valor por debajo del real, por otro lado, la de segundo orden arroja un valor por encima
 
 En los bonos se habla de puntos básicos (cada yield) (basis-point). Cada _basis point_ es un $0.01\%$ . Es decir, si el rendimiento inicial es del $11\%$, para un incremento de $100$ puntos básicos se tendrá un yield de $12\%$ .
+
 
 
