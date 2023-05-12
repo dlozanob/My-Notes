@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tema 2. Tipos de bonos y sus características.md",
+                "file": "Tema 3. Valoración.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tema 2. Tipos de bonos y sus características.md",
+                "file": "Tema 3. Valoración.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tema 2. Tipos de bonos y sus características.md",
+                "file": "Tema 3. Valoración.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tema 2. Tipos de bonos y sus características.md"
+                "file": "Tema 3. Valoración.md"
               }
             }
           },
@@ -167,7 +167,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"principal\"",
+                "query": "\"\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -180,7 +180,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249.5
+    "width": 249.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,8 +195,9 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "2d58a2bee5ce833f",
+  "active": "abed2df76f33d216",
   "lastOpenFiles": [
+    "Tema 2. Tipos de bonos y sus características.md",
     "Tema 3. Valoración.md",
     "Ingeniería Económica.md",
     "Tema 4. Análisis de sensibilidad.md",
@@ -231,7 +233,6 @@
     "myDrawings.md",
     "Main.md",
     "Ciencias Económicas y Administrativas.md",
-    "Tema 2. Tipos de bonos y sus características.md",
     "Excalidraw/attachments",
     "attachments",
     "New folder",

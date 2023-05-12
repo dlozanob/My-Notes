@@ -206,6 +206,14 @@ Algunas convenciones para tener en cuenta los días son:
 - 30/360 -> Los meses tienen 30 días y el año 360
 - 30E/360 -> Versión europea de los términos anteriores
 
+>[!Warning]
+>La base siempre es el número de días del periodo de capitalización del bono.
+>Por ejemplo, si la tasa de cupón es del $$
+
+
+
+
+
 >[!Note]
 >Si un bono se revende en el día $n$ de su emisión, y se cobran cupones cada $x$ días, pues el cupón se pagará de todos modos transcurridos los $x-n$ días de su reventa
 
