@@ -2,3 +2,4 @@
 
 
 
+Activo eficiente -> Minimiza el riesgo y maximiza la rentabilidad

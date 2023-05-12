@@ -134,4 +134,3 @@ _risk premium_ es cuanto ganaría por encima de si voy a invertir en bonos de lo
 
 Significa que entre más riesgo $\sigma$, más se invierte
 
-
