@@ -48,7 +48,7 @@ $$
 \end{align*}
 $$
 
-Ahora bien:
+Ahora bien, la variación porcentual es:
 
 $$
 \begin{align*}
@@ -74,9 +74,10 @@ $$
 \end{align*}
 $$
 
-
 >[!Note]
->En Excel`SUMAPRODUCTO` efectúa un producto punto entre dos vectores de datos
+>- En Excel`SUMAPRODUCTO` efectúa un producto punto entre dos vectores de datos
+>- Este _duration_ puede ser tomado como la duración del bono
+
 
 La _convexidad_ se usa para determinar el grado de curvatura de la función que modela el precio del bono con respecto al yield.
 
@@ -114,7 +115,7 @@ $$
 \end{align*}
 $$
 
-Además:
+Además, la variación porcentual:
 
 $$
 \begin{align*}
