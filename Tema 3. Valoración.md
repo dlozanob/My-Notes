@@ -208,11 +208,7 @@ Algunas convenciones para tener en cuenta los días son:
 
 >[!Warning]
 >La base siempre es el número de días del periodo de capitalización del bono.
->Por ejemplo, si la tasa de cupón es del $$
-
-
-
-
+>Por ejemplo, si la tasa de cupón es del $5\%$ SV entonces la base son los días que tiene el semestre de acuerdo a la convención
 
 >[!Note]
 >Si un bono se revende en el día $n$ de su emisión, y se cobran cupones cada $x$ días, pues el cupón se pagará de todos modos transcurridos los $x-n$ días de su reventa
