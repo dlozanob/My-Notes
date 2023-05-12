@@ -208,9 +208,9 @@ Algunas convenciones para tener en cuenta los días son:
 
 ![](attachments/Pasted%20image%2020230507214223.png)
 
-- _Interés acumulado_ ($\%$)
+- _Interés acumulado (accrued interest)_ ($\%$)
 	- Es el interés acumulado entre el día de pago del último cupón y la fecha en la que se realiza la transacción del bono
-	- También conocido como _cupón corrido_, _interés devengado_, _interés corrido_ o _accrued interest_
+	- También conocido como _cupón corrido_, _interés devengado_, _interés corrido_
 
 Se puede definir como el interés pagado en $d$ días:
 
@@ -225,7 +225,7 @@ Donde:
 - $C$ : Tasa de cupón 
 
 
-- _Precio sucio_ ($\%$)
+- _Precio sucio (full price)_ ($\%$)
 	- Precio que representa al interés acumulado
 	- También se conoce como _precio total_ o _precio completo_
  
@@ -238,7 +238,7 @@ $$
 $$
 
 
-- _Precio limpio_ ($\%$)
+- _Precio limpio (flat price)_ ($\%$)
 	- Es el precio sin los intereses generados desde el momento de pago del último cupón
 
 Se cumple que:

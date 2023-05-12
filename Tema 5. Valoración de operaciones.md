@@ -11,3 +11,19 @@ $$
 \end{align*}
 $$
 
+En los reales se toman los días reales del año incluyendo los días totales en años bisiestos.
+
+![](attachments/Pasted%20image%2020230511221829.png)
+
+Se cumple:
+
+$$
+\begin{align*}
+	Interés\,\,Acumulado = Precio\,\,Sucio - Precio\,\,Limpio
+\end{align*}
+$$
+
+>[!Note]
+>En las negociaciones tanto el precio sucio como el precio limpio se suelen redondear a $3$ decimales
+
+

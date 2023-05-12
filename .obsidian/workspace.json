@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tema 5. Valoración de operaciones.md",
-                "mode": "source",
+                "file": "Tema 3. Valoración.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tema 5. Valoración de operaciones.md",
+                "file": "Tema 3. Valoración.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tema 5. Valoración de operaciones.md",
+                "file": "Tema 3. Valoración.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tema 5. Valoración de operaciones.md"
+                "file": "Tema 3. Valoración.md"
               }
             }
           },
@@ -197,12 +197,13 @@
   },
   "active": "2d58a2bee5ce833f",
   "lastOpenFiles": [
-    "Tema 3. Valoración.md",
-    "Tema 5. Valoración de operaciones.md",
     "Módulo 4. Bonos y conceptos de duración.md",
+    "Tema 4. Análisis de sensibilidad.md",
+    "Tema 5. Valoración de operaciones.md",
+    "Tema 3. Valoración.md",
+    "attachments/Pasted image 20230511221829.png",
     "Finanzas.md",
     "Excalidraw/whiteboard.excalidraw.md",
-    "Tema 4. Análisis de sensibilidad.md",
     "attachments/Pasted image 20230511215300.png",
     "attachments/Pasted image 20230511213136.png",
     "attachments/Pasted image 20230511213123.png",
@@ -213,7 +214,6 @@
     "Excalidraw/attachments/Pasted Image 20230511120639_288.png",
     "Excalidraw/attachments/Pasted Image 20230511120350_275.png",
     "Excalidraw/attachments/Pasted Image 20230511112020_947.png",
-    "Excalidraw/attachments/Pasted Image 20230511111950_946.png",
     "Módulo 5. Teoría de portafolio.md",
     "Tema 1. Conceptos básicos de probabilidad y estadística.md",
     "Obsidian Basics.md",
@@ -232,7 +232,6 @@
     "Main.md",
     "Ciencias Económicas y Administrativas.md",
     "Tema 2. Tipos de bonos y sus características.md",
-    "Tema 1. Definición y clase de los instrumentos de deuda.md",
     "Excalidraw/attachments",
     "attachments",
     "New folder",
