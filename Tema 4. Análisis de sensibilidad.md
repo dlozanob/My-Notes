@@ -7,6 +7,10 @@ La tasa del mercado varía en el tiempo, lo que hace que el precio del bono camb
 
 ![](attachments/Pasted%20image%2020230511212622.png)
 
+
+>[!Note]
+>Un bono negociado con descuento es menos sensible a cambios (el precio es menor, se ubicaría más a la derecha de la imagen). Esto significa que el bono tendrá una menor duración con respecto a uno negociado con prima
+
 Esta curva será analizada usando aproximaciones con series de Taylor y la razón de cambio de la misma.
 
 Partiendo de la expresión que relaciona el precio del bono con su rendimiento:
@@ -134,5 +138,6 @@ $$
 
 En los bonos se habla de _puntos básicos_ (basis-point). Cada _basis point_ es un $0.01\%$ . Es decir, si el rendimiento inicial es del $11\%$, para un incremento de $100$ puntos básicos se tendrá un yield de $12\%$ .
 
-
+>[!Note]
+>Los bonos Junior pueden tener una convexidad menos positiva que la de los Senior, sin embargo, estos tipos de bonos siempre tienen una convexidad positiva
 
