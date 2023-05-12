@@ -126,6 +126,7 @@ $$
 >[!Note]
 >- La _duración_ y la _convexidad_ de un bono se encuentra en sistemas de información
 >- Algunos emisores emiten bonos con opcionalidades de recomprarlos
+>- La aproximación lineal arroja un valor por debajo del real, por otro lado, la de segundo orden arroja un valor por encima
 
 En los bonos se habla de puntos básicos (cada yield) (basis-point). Cada _basis point_ es un $0.01\%$ . Es decir, si el rendimiento inicial es del $11\%$, para un incremento de $100$ puntos básicos se tendrá un yield de $12\%$ .
 

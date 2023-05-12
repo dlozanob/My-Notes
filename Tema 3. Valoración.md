@@ -210,7 +210,7 @@ Algunas convenciones para tener en cuenta los días son:
 
 - _Interés acumulado_ ($\%$)
 	- Es el interés acumulado entre el día de pago del último cupón y la fecha en la que se realiza la transacción del bono
-	- También conocido como _cupón corrido_, _interés devengado_ o _interés corrido_
+	- También conocido como _cupón corrido_, _interés devengado_, _interés corrido_ o _accrued interest_
 
 Se puede definir como el interés pagado en $d$ días:
 

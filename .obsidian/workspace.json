@@ -13,25 +13,21 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tema 4. Análisis de sensibilidad.md",
+                "file": "Tema 5. Valoración de operaciones.md",
                 "mode": "source",
                 "source": false
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "5ac06bba1fcc094f",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "0a5d35671b90531b",
+            "id": "80f6f2ba39beadb7",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/whiteboard.excalidraw.md"
+                "file": "Tema 3. Valoración.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -105,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tema 4. Análisis de sensibilidad.md",
+                "file": "Tema 5. Valoración de operaciones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tema 4. Análisis de sensibilidad.md",
+                "file": "Tema 5. Valoración de operaciones.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tema 4. Análisis de sensibilidad.md"
+                "file": "Tema 5. Valoración de operaciones.md"
               }
             }
           },
@@ -201,16 +197,17 @@
   },
   "active": "2d58a2bee5ce833f",
   "lastOpenFiles": [
-    "Excalidraw/whiteboard.excalidraw.md",
+    "Tema 3. Valoración.md",
+    "Tema 5. Valoración de operaciones.md",
     "Módulo 4. Bonos y conceptos de duración.md",
+    "Finanzas.md",
+    "Excalidraw/whiteboard.excalidraw.md",
     "Tema 4. Análisis de sensibilidad.md",
     "attachments/Pasted image 20230511215300.png",
     "attachments/Pasted image 20230511213136.png",
     "attachments/Pasted image 20230511213123.png",
     "attachments/Pasted image 20230511213109.png",
     "attachments/Pasted image 20230511212622.png",
-    "Tema 3. Valoración.md",
-    "Finanzas.md",
     "conflict-files-obsidian-git.md",
     "attachments/Pasted image 20230511104909.png",
     "Excalidraw/attachments/Pasted Image 20230511120639_288.png",
