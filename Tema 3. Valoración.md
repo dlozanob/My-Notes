@@ -262,6 +262,10 @@ Si el tenedor del bono decide venderlo, entonce este va a querer que le responda
 
 ![](attachments/Pasted%20image%2020230507223624.png)
 
+
+>[!Note]
+>Cuando se aproxima el pago de un cupón, el precio sucio y el precio limpio se asemejan
+
 El _precio sucio_ ($\$$) tiene en cuenta los intereses acumulados hasta el momento de venta del bono. El _precio limpio_ no tiene en cuenta estos intereses devengados.
 
 El _precio limpio_ ($\$$) es el precio del bono en el mercado primario.
@@ -279,7 +283,8 @@ El precio sucio ($\%$) para $d$ días transcurridos desde la emisión del bono h
 
 $$
 \begin{align*}
-	PS = \frac{1}{(1 + y)^{\frac{Base - d}{Base}}}
+	PS &= \frac{1}{(1 + y)^{t}} \\\\
+	&= \frac{1}{(1 + y)^{\frac{Base - d}{Base}}}
 \end{align*}
 $$
 

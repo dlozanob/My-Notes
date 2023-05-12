@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tema 3. Valoración.md",
+                "file": "Tema 2. Tipos de bonos y sus características.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tema 3. Valoración.md",
+                "file": "Tema 2. Tipos de bonos y sus características.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tema 3. Valoración.md",
+                "file": "Tema 2. Tipos de bonos y sus características.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tema 3. Valoración.md"
+                "file": "Tema 2. Tipos de bonos y sus características.md"
               }
             }
           },
@@ -167,7 +167,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"\"",
+                "query": "\"principal\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -180,8 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249.5,
-    "collapsed": true
+    "width": 249.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,8 +196,9 @@
   },
   "active": "2d58a2bee5ce833f",
   "lastOpenFiles": [
-    "Tema 4. Análisis de sensibilidad.md",
     "Tema 3. Valoración.md",
+    "Ingeniería Económica.md",
+    "Tema 4. Análisis de sensibilidad.md",
     "Módulo 4. Bonos y conceptos de duración.md",
     "attachments/Pasted image 20230511225034.png",
     "Tema 5. Valoración de operaciones.md",
