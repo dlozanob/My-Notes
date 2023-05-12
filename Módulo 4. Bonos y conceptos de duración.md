@@ -14,15 +14,6 @@ en los bonos se habla de puntos básicos (cada yield) (basis-point)
 duration -> primera derivada
 convexidad -> segunda derivada
 
-La derivada $\frac{\partial P}{\partial y}$ representa el cambio del precio del bono con respecto al cambio en la tasa de rendimiento
-
-$$
-\begin{align*}
-	\frac{\partial P}{\partial y} = \sum_{t = 1}^{n} - t\times FC_{t}(1 + y_{0})^{-t-1} = \sum_{t = 1}^{n} \frac{-t\times FC_{t}}{(1 + y_{0})^{t + 1}}
-\end{align*}
-$$
-
-
 - _Duración modificada del bono_ ($MD$)
 	- Es el cociente entre $-P'$ y $P(y_{0})$
 	- Sirve para aproximación con línea recta
