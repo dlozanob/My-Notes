@@ -427,7 +427,7 @@ endcase
 - _For loop_
 
 ```verilog
-for(int <auxVar> = <initValue>; <auxVarStopCondition>; <auxVarReassignment>) begin
+for(<auxVar> = <initValue>; <auxVarStopCondition>; <auxVarReassignment>) begin
 	<statements>
 end
 ```
