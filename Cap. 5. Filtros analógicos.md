@@ -3,6 +3,7 @@
 Un filtro es aquel cuya salida es nula bajo ciertas frecuencias como entrada.
 
 Tipos de filtros:
+
 - _Filtro pasabajas_
 
 ![](attachments/Pasted%20image%2020230501101838.png)
@@ -602,4 +603,28 @@ Si comparamos los filtros vistos hasta el momento:
 
 ## Transformaciones de frecuencia
 
+![](attachments/Pasted%20image%2020230513184611.png)
 
+Se considera una transformación de la forma:
+
+$$
+\begin{align*}
+	s = f(\bar{s})
+\end{align*}
+$$
+
+Donde esta función puede ser generalizada como:
+
+$$
+\begin{align*}
+	f(\bar{s}) = \frac{k(\bar{s}^{2} + b_{1}^{2})(\bar{s}^{2} + b_{2}^{2})\cdot \cdot \cdot (\bar{s}^{2} + b_{n}^{2})}{\bar{s}(\bar{s}^{2} + a_{1}^{2})(\bar{s}^{2} + a_{2}^{2})\cdot \cdot \cdot (\bar{s}^{2} + a_{n}^{2})}
+\end{align*}
+$$
+
+Si $a_{i}$, $b_{i}$ y $k$ son reales, entonces $f(\bar{s})$ es una función compleja.
+
+A partir del filtro prototipo pasabajas con $\omega_{p} = 1$, se pueden obtener distintos tipos de filtros especificando sus frecuencias de corte.
+
+| Filtro | Parámetros | Transformación |
+|-|-|-|
+| Pasabajas | $\omega_{p}$ | $s = \frac{\bar{s}}{\bar{\omega}_{p}$ |
