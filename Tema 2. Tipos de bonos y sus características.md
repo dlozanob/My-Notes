@@ -21,7 +21,7 @@ En un bono se define:
 - Fecha de maduración
 	- Es fija
 	- En esta, se paga el último cupón pactado y se devuelve el principal
-	- Al pago final en esta fecha se le conoce como _valor nominal_ o de _maduración_ (_maturity_)
+	- Al pago final en esta fecha se le conoce como _valor nominal_ o de _maduración_ (_valor al maturity_)
 
 >[!Note]
 >- La rentabilidad de los bonos suele ser menor que la de las acciones

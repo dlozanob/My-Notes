@@ -178,6 +178,10 @@ $$
 
 ## Valoración de un bono
 
+>[!Warning]
+>Únicamente para valoración con reventa: si la duración del bono es $n$ se deben tomar $n - 1$ flujos de caja.
+>Si el bono no se revende, tomar los $n$ flujos común y corriente
+
 Como bien se sabe, el precio de un bono es:
 
 $$
@@ -191,10 +195,10 @@ $$
 - $y_{0}$ : Yield en el momento de emisión del bono
 - $n$ : Periodos hasta la maduración del bono
 
-Supongamos que un inversionista desea revender su bono en el mercado secundario, siendo así, se abordarán unos nuevos conceptos a continuación.
+Supongamos que un inversionista desea revender su bono en el mercado secundario, siendo así, se abordarán unos nuevos conceptos a continuación con base en esta situación.
 
 La valoración se hace en días, entonces, $t = \frac{d}{Base}$ .
-Donde $d$ son los días totales transcurridos desde que el inversionista vende el bono hasta el pago del último cupón, y la $Base$ son los días considerados en un año. Comúnmente se toma $Base = 365$ días (se le conoce como base 365/365).
+Donde $d$ son los días desde que el nuevo tenedor del bono lo adquiere y el cobro de su primer cupón. La $Base$ son los días considerados en un año. Comúnmente se toma $Base = 365$ días (se le conoce como base 365/365).
 
 Algunas convenciones para tener en cuenta los días son:
 - Real/Real (Actual/Actual)
@@ -202,15 +206,19 @@ Algunas convenciones para tener en cuenta los días son:
 - 30/360 -> Los meses tienen 30 días y el año 360
 - 30E/360 -> Versión europea de los términos anteriores
 
+>[!Warning]
+>La base siempre es el número de días del periodo de capitalización del bono.
+>Por ejemplo, si la tasa de cupón es del $5\%$ SV entonces la base son los días que tiene el semestre de acuerdo a la convención
+
 >[!Note]
 >Si un bono se revende en el día $n$ de su emisión, y se cobran cupones cada $x$ días, pues el cupón se pagará de todos modos transcurridos los $x-n$ días de su reventa
 
 
 ![](attachments/Pasted%20image%2020230507214223.png)
 
-- _Interés acumulado_ ($\%$)
+- _Interés acumulado (accrued interest)_ ($\%$)
 	- Es el interés acumulado entre el día de pago del último cupón y la fecha en la que se realiza la transacción del bono
-	- También conocido como _cupón corrido_, _interés devengado_ o _interés corrido_
+	- También conocido como _cupón corrido_, _interés devengado_, _interés corrido_
 
 Se puede definir como el interés pagado en $d$ días:
 
@@ -225,7 +233,7 @@ Donde:
 - $C$ : Tasa de cupón 
 
 
-- _Precio sucio_ ($\%$)
+- _Precio sucio (full price)_ ($\%$)
 	- Precio que representa al interés acumulado
 	- También se conoce como _precio total_ o _precio completo_
  
@@ -238,7 +246,7 @@ $$
 $$
 
 
-- _Precio limpio_ ($\%$)
+- _Precio limpio (flat price)_ ($\%$)
 	- Es el precio sin los intereses generados desde el momento de pago del último cupón
 
 Se cumple que:
@@ -258,6 +266,10 @@ Si el tenedor del bono decide venderlo, entonce este va a querer que le responda
 
 ![](attachments/Pasted%20image%2020230507223624.png)
 
+
+>[!Note]
+>Cuando se aproxima el pago de un cupón, el precio sucio y el precio limpio se asemejan
+
 El _precio sucio_ ($\$$) tiene en cuenta los intereses acumulados hasta el momento de venta del bono. El _precio limpio_ no tiene en cuenta estos intereses devengados.
 
 El _precio limpio_ ($\$$) es el precio del bono en el mercado primario.
@@ -275,9 +287,30 @@ El precio sucio ($\%$) para $d$ días transcurridos desde la emisión del bono h
 
 $$
 \begin{align*}
-	PS = \frac{1}{(1 + y)^{\frac{Base - d}{Base}}}
+	PS &= \frac{1}{(1 + y)^{t}} \\\\
+	&= \frac{1}{(1 + y)^{\frac{Base - d}{Base}}}
 \end{align*}
 $$
+
+---
+
+- __Ejemplo__ :
+	- Duración: $10$ años
+	- Yield: $10\%$ EA
+	- Tasa de cupón: $10\%$ EA
+	- Valor de maduración (VM): $\$1000$
+	- Revendido al día $25$
+	- Convención: $365$/$365$
+
+La tabla de la que se relacionan los datos es la siguiente:
+
+![](attachments/Pasted%20image%2020230511225034.png)
+
+
+
+
+
+
 
 
 
