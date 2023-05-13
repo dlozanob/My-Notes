@@ -14,8 +14,21 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "ee3bf5bb84ad1335",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tema 3. Introducción a los mercados de capitales.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tema 3. Introducción a los mercados de capitales.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tema 3. Introducción a los mercados de capitales.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -179,8 +192,9 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "abed2df76f33d216",
+  "active": "ee3bf5bb84ad1335",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "Módulo 3. Introducción al mercado de capitales.md",
     "Finanzas.md",
     "Módulo 4. Bonos y conceptos de duración.md",
@@ -201,7 +215,6 @@
     "attachments/Pasted image 20230511213123.png",
     "attachments/Pasted image 20230511213109.png",
     "attachments/Pasted image 20230511212622.png",
-    "conflict-files-obsidian-git.md",
     "attachments/Pasted image 20230511104909.png",
     "Excalidraw/attachments/Pasted Image 20230511120639_288.png",
     "Excalidraw/attachments/Pasted Image 20230511120350_275.png",
