@@ -11,11 +11,26 @@
             "id": "1d2ed4dc71007cb3",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Cap. 5. Filtros analógicos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1271b38102b3e3dc",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/blackboard.excalidraw.md"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,6 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Excalidraw/blackboard.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Excalidraw/blackboard.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +139,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Excalidraw/blackboard.excalidraw.md"
+              }
             }
           },
           {
@@ -175,8 +194,10 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "1d2ed4dc71007cb3",
+  "active": "1271b38102b3e3dc",
   "lastOpenFiles": [
+    "Cap. 5. Filtros analógicos.md",
+    "Señales y Sistemas II.md",
     "conflict-files-obsidian-git.md",
     "Módulo 3. Introducción al mercado de capitales.md",
     "Finanzas.md",
@@ -211,8 +232,6 @@
     "Mecanismos.md",
     "Excalidraw/blackboard.excalidraw.md",
     "Estática de Fluidos.md",
-    "myDrawings.md",
-    "Main.md",
     "Excalidraw/attachments",
     "attachments",
     "New folder",

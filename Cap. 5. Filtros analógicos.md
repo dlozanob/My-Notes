@@ -292,8 +292,8 @@ $$
 ---
 
 - __Ejemplo__ :
-	- $\alpha_{p} = 1  dB$
-	- $\alpha_{s} = 25  dB$
+	- $\alpha_{p} = 1\,\,dB$
+	- $\alpha_{s} = 25\,\,dB$
 	- $\frac{\omega_{s}}{\omega_{p}} = 1.5$
 
 Halla el orden $N$ requerido del filtro de Butterworth.
@@ -588,7 +588,7 @@ Se deben hallar los $\omega_{i},\,\, i=\{1, 2, \dots, N\}$, tal que, en la banda
 >- El cálculo de las frecuencias $\omega_{i}$ implica rutinas de optimización y la resolución de integrales elípticas
 
 >[!Info]
->Los osciloscopios en ocasiones traen implementada una onda _chirp_ :
+>Los osciloscopios la mayoría de las veces traen implementada una onda _chirp_ :
 >![](attachments/Pasted%20image%2020230507121650.png)
 
 
@@ -598,4 +598,8 @@ Si comparamos los filtros vistos hasta el momento:
 
 - El filtro _elíptico_ presenta la convergencia más rápida al filtro ideal (requiere menos computadores analógicos). Le siguen el de _Chebyshev II_, _Chebyshev I_ y por último el de _Butterworth_
 - El filtro de _Butterworth_ es el que tiene una mayor banda de transición
+
+
+## Transformaciones de frecuencia
+
 
