@@ -22,24 +22,24 @@ $$
 $$
 
 - _Valor esperado_ ($E(X)$)
-	- Es igual a la suma de las probabilidades de que suceda un suceso aleatorio, multiplicada por el valor del suceso aleatorio
+	- Es igual a la suma de las probabilidades de que suceda un suceso aleatorio, multiplicada por el peso del suceso aleatorio
 	- Es un promedio ponderado
 	- Caso discreto: 
 
 	$$
 	\begin{align*}
-		E[X] = \sum_{i = 1}^{n}x_{i}fX(x_{i})
+		E[x] = \sum_{i = 1}^{n}x_{i}\cdot f_{i}
 	\end{align*}
 	$$
 	- Caso continuo: 
 
 $$
 \begin{align*}
-	E(X) = \int _{-\infty}^{\infty} xfX(x) dx
+	E(x) = \int _{-\infty}^{\infty} x\cdot f\,\,dx
 \end{align*}
 $$
 
-Donde $f$ es la frecuencia de aparición de los datos.
+Donde $f_{i}$ es la frecuencia de aparición o el peso de $x_{i}$ .
 
 - _Varianza_
 	- Nos sirve para cuantificar el riesgo
