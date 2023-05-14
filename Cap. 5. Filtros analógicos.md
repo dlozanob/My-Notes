@@ -627,8 +627,21 @@ A partir del filtro prototipo pasabajas con $\omega_{p} = 1$, se pueden obtener 
 
 | Filtro | Parámetros | Transformación |
 |-|-|-|
-| Pasabajas | $\bar{\omega}_{p}$ | $s = \frac{\bar{s}}{\omega_{p}}$ |
-| Pasaaltas | $\bar{\omega}_{p}$ | $s = \frac{\omega_{p}}{\bar{s}}$ |
+| Pasabajas | $\bar{\omega}_{p}$ | $s = \frac{\bar{s}}{\bar{\omega}_{p}}$ |
+| Pasaaltas | $\bar{\omega}_{p}$ | $s = \frac{\bar{\omega}_{p}}{\bar{s}}$ |
 | Pasabandas | $\bar{\omega}_{PL}$, $\bar{\omega}_{PU}$ | $s = \frac{\bar{s}^{2} + \bar{\omega}_{PL}\bar{\omega}_{PU}}{\bar{s}(\bar{\omega}_{PU} - \bar{\omega}_{PL})}$ |
-| Rechazabandas | $\omega_{SL}$, $\omega_{SU}$ | $s = \frac{\bar{s}(\omega_{SU} - \omega_{SL})\omega_{s}}{\bar{s}^{2} + \omega_{SL}\omega_{SU}}$ |
-| Rechazabandas | $\omega_{PL}$, $\omega_{PU}$ | $s = \frac{\bar{s}(\omega_{PU} - \omega_{PL})}{\bar{s}^{2} + \omega_{PU}\omega_{PL}}$ |
+| Rechazabandas | $\omega_{SL}$, $\omega_{SU}$ | $s = \frac{\bar{s}(\bar{\omega}_{SU} - \bar{\omega}_{SL})\bar{\omega}_{s}}{\bar{s}^{2} + \bar{\omega}_{SL}\bar{\omega}_{SU}}$ |
+| Rechazabandas | $\omega_{PL}$, $\omega_{PU}$ | $s = \frac{\bar{s}(\bar{\omega}_{PU} - \bar{\omega}_{PL})}{\bar{s}^{2} + \bar{\omega}_{PU}\bar{\omega}_{PL}}$ |
+
+Para el caso del pasabajas, la transformación satisface:
+
+![](attachments/Pasted%20image%2020230513192104.png)
+
+ Para un $\bar{\omega}_{p}$ -> $\omega_{p} = 1$ . Entonces $k = \frac{1}{\bar{\omega}_{p}}$ .
+ De esta manera se halla que la transformación para este caso es $s = \frac{\bar{s}}{\bar{\omega}_{p}}$ .
+
+Análogamente, se deducen las otras transformaciones.
+
+
+
+

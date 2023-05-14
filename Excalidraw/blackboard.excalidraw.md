@@ -46,18 +46,20 @@ Magnetic field velocity = Rotor velocity ^RFQGB0Te
 
 Magnetic field velocity > Rotor velocity ^8oBw55eU
 
-- Filtro pasabajas
-- Frecuencia normalizada ^IULb7BIq
-
-Filtro prototipo analógico ^tYOugGde
-
 
 # Embedded files
 18b644fc146f18ca256d1427341bf66adb3b2225: $$A$$
 675b2a96e24ff3d38ff75bd00ac175ca9140205f: $$B$$
 50f5fd1c8696fd51dd5d8d35451e6091adaa1283: $$C$$
 50b9de88ab3aea5a4e24403714ff00f381ddae2f: $$120$$
-8af0b6e0e07b26551bc00a9103c31e93e8f7aca0: $$(\omega_{p} = 1)$$
+311acdc300855b5a44c524d3410ea1d7267d5249: $$H(s)$$
+ae83956fe81e32af14fe50033471e380f5d7d015: $$\bar{\omega}$$
+17b44c26c210e55aeaa6830cfb98a64308607a65: $$\omega_p = 1$$
+4962041bd6393b892651516b3c308d8db0dee08d: $$H(s)$$
+c2f60218d787d88b09a84fd7b677952d74cc8fec: $$\omega$$
+43a3dce66d3a896833268c9604d29a76c289dda7: $$\bar{\omega}_p$$
+9b2828dbc7f1756597c05325c34c584b18044873: $$s = k\bar{s}$$
+34b964713663cec1b28497c64198250ff0dfcb70: $$\omega = k\bar{\omega}$$
 
 %%
 # Drawing
@@ -68,404 +70,9 @@ Filtro prototipo analógico ^tYOugGde
 	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.8.21",
 	"elements": [
 		{
-			"type": "line",
-			"version": 3298,
-			"versionNonce": 790617422,
-			"isDeleted": false,
-			"id": "tYfGp1fXCFrekh1RbGIYS",
-			"fillStyle": "solid",
-			"strokeWidth": 4,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"angle": 0,
-			"x": 3051.6772331681886,
-			"y": -865.8837372684425,
-			"strokeColor": "transparent",
-			"backgroundColor": "#4c6ef5",
-			"width": 337.78284671160293,
-			"height": 172.73275570405647,
-			"seed": 2106957134,
-			"groupIds": [],
-			"roundness": {
-				"type": 2
-			},
-			"boundElements": [],
-			"updated": 1684020808624,
-			"link": null,
-			"locked": false,
-			"startBinding": null,
-			"endBinding": null,
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": null,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					-12.517212302729138,
-					7.8776452833888015
-				],
-				[
-					-29.099716659779805,
-					12.077663141069621
-				],
-				[
-					-47.97664950656737,
-					11.624306273491285
-				],
-				[
-					-63.53560340553226,
-					6.150124898343833
-				],
-				[
-					-77.65451517319083,
-					-4.96476512098992
-				],
-				[
-					-84.60595509493547,
-					-17.88649930417377
-				],
-				[
-					-87.4992256612915,
-					-14.93213418289001
-				],
-				[
-					-97.74741609482358,
-					-10.757446862848631
-				],
-				[
-					-109.20398636839019,
-					-10.579717844657743
-				],
-				[
-					-121.49989455313208,
-					-14.575876021568398
-				],
-				[
-					-127.98492571714154,
-					-19.301373401177838
-				],
-				[
-					-132.97642467746644,
-					-26.33849249977898
-				],
-				[
-					-134.03333078120832,
-					-30.41702303279588
-				],
-				[
-					-133.26138966464703,
-					-34.41213783060907
-				],
-				[
-					-136.94756040919168,
-					-30.004871277034827
-				],
-				[
-					-149.80846071699054,
-					-30.344055146275203
-				],
-				[
-					-164.2269404676654,
-					-36.787963862066256
-				],
-				[
-					-171.0485597995971,
-					-46.07920112228104
-				],
-				[
-					-172.88866243246588,
-					-55.73941626130269
-				],
-				[
-					-171.33655331007714,
-					-63.610810967130526
-				],
-				[
-					-165.63552441416655,
-					-70.07522871361154
-				],
-				[
-					-160.27604865367914,
-					-74.89188588830758
-				],
-				[
-					-151.59470898782095,
-					-78.3359666939039
-				],
-				[
-					-142.08690292800227,
-					-78.92921015642901
-				],
-				[
-					-136.88050182528758,
-					-76.66832292978414
-				],
-				[
-					-140.06793024678717,
-					-81.41670216589021
-				],
-				[
-					-138.2009004328992,
-					-92.52007490294217
-				],
-				[
-					-132.4964407972004,
-					-103.67903952733465
-				],
-				[
-					-123.59240957167894,
-					-114.13112485932595
-				],
-				[
-					-112.37521088597889,
-					-120.20987741413491
-				],
-				[
-					-100.73816510288194,
-					-122.91128815516275
-				],
-				[
-					-85.41006772894355,
-					-123.13236298923381
-				],
-				[
-					-74.15929259335617,
-					-120.78588467277866
-				],
-				[
-					-64.18930339978326,
-					-115.99267078729032
-				],
-				[
-					-60.006040859926614,
-					-110.97809479766632
-				],
-				[
-					-59.99578400901301,
-					-115.88203590362575
-				],
-				[
-					-55.32031052014139,
-					-124.42410361405845
-				],
-				[
-					-45.936565198441755,
-					-134.05077997302774
-				],
-				[
-					-36.629050679049776,
-					-141.65103277636663
-				],
-				[
-					-24.92963852660464,
-					-148.33858241577474
-				],
-				[
-					-12.179335366415518,
-					-152.78878045455266
-				],
-				[
-					6.851992135138929,
-					-155.74704141235085
-				],
-				[
-					25.267378055105695,
-					-153.68631473310305
-				],
-				[
-					43.193358923203796,
-					-148.62389801806268
-				],
-				[
-					58.91421116074683,
-					-139.66956698586088
-				],
-				[
-					66.66544308048168,
-					-133.2650245285779
-				],
-				[
-					73.56634669102715,
-					-126.15042228889169
-				],
-				[
-					75.29699575621555,
-					-119.61565928531931
-				],
-				[
-					79.03810549530897,
-					-122.66720606680383
-				],
-				[
-					90.12427585795864,
-					-124.96311972205059
-				],
-				[
-					103.496403552156,
-					-124.03661220554703
-				],
-				[
-					115.05427116199343,
-					-119.08779028180204
-				],
-				[
-					125.84440758620536,
-					-110.82195325786121
-				],
-				[
-					130.86146957895167,
-					-99.93349443795732
-				],
-				[
-					132.52731185164367,
-					-92.80403623206718
-				],
-				[
-					130.99184948039286,
-					-82.25959870409997
-				],
-				[
-					133.79199335877522,
-					-85.226452114726
-				],
-				[
-					141.16989948422253,
-					-84.71927681551176
-				],
-				[
-					152.281346500158,
-					-80.52598542155287
-				],
-				[
-					160.63740251824908,
-					-73.04665279615904
-				],
-				[
-					164.8941842791371,
-					-62.337204265138865
-				],
-				[
-					163.83567726485273,
-					-52.186383153848546
-				],
-				[
-					159.18071747780832,
-					-45.456466309720824
-				],
-				[
-					155.0929497568025,
-					-41.62160587933667
-				],
-				[
-					150.5937290508715,
-					-41.54482269490233
-				],
-				[
-					157.1391561456157,
-					-38.74673018763778
-				],
-				[
-					161.5825418562285,
-					-34.604972991355645
-				],
-				[
-					161.82724438216277,
-					-27.062276797406973
-				],
-				[
-					157.6187287679878,
-					-20.62090221397224
-				],
-				[
-					152.1336950049372,
-					-17.82512838651551
-				],
-				[
-					145.7438419385333,
-					-17.35510326245311
-				],
-				[
-					140.25411596092684,
-					-18.513889145550966
-				],
-				[
-					133.34484181687722,
-					-24.74978355556921
-				],
-				[
-					135.30349949892675,
-					-19.46591239958637
-				],
-				[
-					132.29063796418308,
-					-12.1416337916104
-				],
-				[
-					130.31883500768683,
-					-7.831710751386723
-				],
-				[
-					123.4451651047396,
-					1.3059396206691432
-				],
-				[
-					116.86906177312497,
-					7.0620212051350535
-				],
-				[
-					101.43212388466421,
-					15.012866603140601
-				],
-				[
-					86.83429071680682,
-					16.985714291705634
-				],
-				[
-					70.82094138596887,
-					15.138198428507813
-				],
-				[
-					55.332389137393385,
-					10.031665239246891
-				],
-				[
-					46.874354084356696,
-					1.5254344693845638
-				],
-				[
-					46.440288869486324,
-					5.609522200179725
-				],
-				[
-					36.93133922973814,
-					10.551234189823553
-				],
-				[
-					25.160742174055798,
-					12.286294082339325
-				],
-				[
-					14.051334738819115,
-					10.522845751644837
-				],
-				[
-					3.2319957632128755,
-					4.741699854034472
-				],
-				[
-					0,
-					0
-				]
-			]
-		},
-		{
 			"type": "rectangle",
-			"version": 322,
-			"versionNonce": 1295907154,
+			"version": 330,
+			"versionNonce": 361459026,
 			"isDeleted": false,
 			"id": "xmtk-uvQ2tSCq__faGhMs",
 			"fillStyle": "solid",
@@ -497,14 +104,14 @@ Filtro prototipo analógico ^tYOugGde
 					"type": "arrow"
 				}
 			],
-			"updated": 1684020436045,
+			"updated": 1684023490681,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 367,
-			"versionNonce": 683048142,
+			"version": 375,
+			"versionNonce": 1831487694,
 			"isDeleted": false,
 			"id": "NIlUq5c2wsFRVOJnnRTfB",
 			"fillStyle": "solid",
@@ -536,14 +143,14 @@ Filtro prototipo analógico ^tYOugGde
 					"type": "arrow"
 				}
 			],
-			"updated": 1684020436045,
+			"updated": 1684023490681,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 384,
-			"versionNonce": 1100414738,
+			"version": 392,
+			"versionNonce": 135656210,
 			"isDeleted": false,
 			"id": "6UCZBN7g_e_SK-b1bESkT",
 			"fillStyle": "solid",
@@ -571,14 +178,14 @@ Filtro prototipo analógico ^tYOugGde
 					"type": "arrow"
 				}
 			],
-			"updated": 1684020436045,
+			"updated": 1684023490681,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 334,
-			"versionNonce": 111784718,
+			"version": 342,
+			"versionNonce": 583270158,
 			"isDeleted": false,
 			"id": "PZbEvyaDbbe_pAtfO1fXD",
 			"fillStyle": "solid",
@@ -606,14 +213,14 @@ Filtro prototipo analógico ^tYOugGde
 					"type": "arrow"
 				}
 			],
-			"updated": 1684020436045,
+			"updated": 1684023490681,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 512,
-			"versionNonce": 1481198802,
+			"version": 520,
+			"versionNonce": 1523171538,
 			"isDeleted": false,
 			"id": "_zNLCM6F_TbLLyoIg2MvO",
 			"fillStyle": "solid",
@@ -649,14 +256,14 @@ Filtro prototipo analógico ^tYOugGde
 					"type": "arrow"
 				}
 			],
-			"updated": 1684020436045,
+			"updated": 1684023490681,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 525,
-			"versionNonce": 626794830,
+			"version": 533,
+			"versionNonce": 1615654222,
 			"isDeleted": false,
 			"id": "_pKiNvArHg4UhHPBYdpeZ",
 			"fillStyle": "solid",
@@ -688,14 +295,14 @@ Filtro prototipo analógico ^tYOugGde
 					"type": "arrow"
 				}
 			],
-			"updated": 1684020436045,
+			"updated": 1684023490681,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 678,
-			"versionNonce": 116122258,
+			"version": 686,
+			"versionNonce": 1228789394,
 			"isDeleted": false,
 			"id": "SGHNlt7tkUdo4AB8-V6h4",
 			"fillStyle": "solid",
@@ -727,14 +334,14 @@ Filtro prototipo analógico ^tYOugGde
 					"type": "arrow"
 				}
 			],
-			"updated": 1684020436045,
+			"updated": 1684023490681,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 501,
-			"versionNonce": 405194638,
+			"version": 509,
+			"versionNonce": 1394480014,
 			"isDeleted": false,
 			"id": "gF0zW41MnVyFu4UlAW_NC",
 			"fillStyle": "solid",
@@ -762,14 +369,14 @@ Filtro prototipo analógico ^tYOugGde
 					"type": "arrow"
 				}
 			],
-			"updated": 1684020436045,
+			"updated": 1684023490681,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 589,
-			"versionNonce": 2016788562,
+			"version": 597,
+			"versionNonce": 69809234,
 			"isDeleted": false,
 			"id": "YUTZQoyZcLpkgZYPnofY6",
 			"fillStyle": "solid",
@@ -797,14 +404,14 @@ Filtro prototipo analógico ^tYOugGde
 					"type": "arrow"
 				}
 			],
-			"updated": 1684020436045,
+			"updated": 1684023490681,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 239,
-			"versionNonce": 524461518,
+			"version": 247,
+			"versionNonce": 359690702,
 			"isDeleted": false,
 			"id": "YBUipfOC",
 			"fillStyle": "solid",
@@ -823,7 +430,7 @@ Filtro prototipo analógico ^tYOugGde
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1684020436045,
+			"updated": 1684023490681,
 			"link": null,
 			"locked": false,
 			"fontSize": 19.678389042452817,
@@ -838,8 +445,8 @@ Filtro prototipo analógico ^tYOugGde
 		},
 		{
 			"type": "text",
-			"version": 392,
-			"versionNonce": 1744692754,
+			"version": 400,
+			"versionNonce": 224582162,
 			"isDeleted": false,
 			"id": "1VlpRaqo",
 			"fillStyle": "solid",
@@ -858,7 +465,7 @@ Filtro prototipo analógico ^tYOugGde
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1684020436046,
+			"updated": 1684023490681,
 			"link": null,
 			"locked": false,
 			"fontSize": 18.8389810940904,
@@ -873,8 +480,8 @@ Filtro prototipo analógico ^tYOugGde
 		},
 		{
 			"type": "text",
-			"version": 382,
-			"versionNonce": 197704718,
+			"version": 390,
+			"versionNonce": 308086798,
 			"isDeleted": false,
 			"id": "TbRrWXqz",
 			"fillStyle": "solid",
@@ -893,7 +500,7 @@ Filtro prototipo analógico ^tYOugGde
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1684020436046,
+			"updated": 1684023490681,
 			"link": null,
 			"locked": false,
 			"fontSize": 18.838981094090403,
@@ -908,8 +515,8 @@ Filtro prototipo analógico ^tYOugGde
 		},
 		{
 			"type": "text",
-			"version": 290,
-			"versionNonce": 2134594514,
+			"version": 298,
+			"versionNonce": 333563858,
 			"isDeleted": false,
 			"id": "6eZlNhru",
 			"fillStyle": "solid",
@@ -933,7 +540,7 @@ Filtro prototipo analógico ^tYOugGde
 					"type": "arrow"
 				}
 			],
-			"updated": 1684020436046,
+			"updated": 1684023490681,
 			"link": null,
 			"locked": false,
 			"fontSize": 26.209563185586426,
@@ -948,8 +555,8 @@ Filtro prototipo analógico ^tYOugGde
 		},
 		{
 			"type": "text",
-			"version": 262,
-			"versionNonce": 598870606,
+			"version": 270,
+			"versionNonce": 1776080462,
 			"isDeleted": false,
 			"id": "eDdY68JL",
 			"fillStyle": "solid",
@@ -968,7 +575,7 @@ Filtro prototipo analógico ^tYOugGde
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1684020436046,
+			"updated": 1684023490681,
 			"link": null,
 			"locked": false,
 			"fontSize": 19.678389042452817,
@@ -983,8 +590,8 @@ Filtro prototipo analógico ^tYOugGde
 		},
 		{
 			"type": "text",
-			"version": 382,
-			"versionNonce": 805636498,
+			"version": 390,
+			"versionNonce": 1337785746,
 			"isDeleted": false,
 			"id": "rnn5KvO7",
 			"fillStyle": "solid",
@@ -1003,7 +610,7 @@ Filtro prototipo analógico ^tYOugGde
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1684020436046,
+			"updated": 1684023490681,
 			"link": null,
 			"locked": false,
 			"fontSize": 18.838981094090403,
@@ -1018,8 +625,8 @@ Filtro prototipo analógico ^tYOugGde
 		},
 		{
 			"type": "text",
-			"version": 609,
-			"versionNonce": 98013326,
+			"version": 617,
+			"versionNonce": 1422449806,
 			"isDeleted": false,
 			"id": "d5aFgZUr",
 			"fillStyle": "solid",
@@ -1038,7 +645,7 @@ Filtro prototipo analógico ^tYOugGde
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1684020436046,
+			"updated": 1684023490681,
 			"link": null,
 			"locked": false,
 			"fontSize": 26.209563185586426,
@@ -1053,8 +660,8 @@ Filtro prototipo analógico ^tYOugGde
 		},
 		{
 			"type": "text",
-			"version": 729,
-			"versionNonce": 294782802,
+			"version": 737,
+			"versionNonce": 1579907922,
 			"isDeleted": false,
 			"id": "yWATqfsU",
 			"fillStyle": "solid",
@@ -1073,7 +680,7 @@ Filtro prototipo analógico ^tYOugGde
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1684020436046,
+			"updated": 1684023490682,
 			"link": null,
 			"locked": false,
 			"fontSize": 21.173115495411928,
@@ -1088,8 +695,8 @@ Filtro prototipo analógico ^tYOugGde
 		},
 		{
 			"type": "rectangle",
-			"version": 466,
-			"versionNonce": 233983694,
+			"version": 474,
+			"versionNonce": 148511438,
 			"isDeleted": false,
 			"id": "8z-IcFKRkBBa4KLqhdI4c",
 			"fillStyle": "hachure",
@@ -1113,14 +720,14 @@ Filtro prototipo analógico ^tYOugGde
 					"type": "arrow"
 				}
 			],
-			"updated": 1684020436046,
+			"updated": 1684023490682,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 473,
-			"versionNonce": 1010388242,
+			"version": 481,
+			"versionNonce": 495206674,
 			"isDeleted": false,
 			"id": "exV-lvgnS5DPf5aF_hVRu",
 			"fillStyle": "hachure",
@@ -1144,14 +751,14 @@ Filtro prototipo analógico ^tYOugGde
 					"type": "arrow"
 				}
 			],
-			"updated": 1684020436046,
+			"updated": 1684023490682,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 546,
-			"versionNonce": 949699854,
+			"version": 554,
+			"versionNonce": 480874766,
 			"isDeleted": false,
 			"id": "4VF3uObf",
 			"fillStyle": "solid",
@@ -1175,7 +782,7 @@ Filtro prototipo analógico ^tYOugGde
 					"type": "arrow"
 				}
 			],
-			"updated": 1684020436046,
+			"updated": 1684023490682,
 			"link": null,
 			"locked": false,
 			"fontSize": 26.209563185586426,
@@ -1190,8 +797,8 @@ Filtro prototipo analógico ^tYOugGde
 		},
 		{
 			"type": "text",
-			"version": 677,
-			"versionNonce": 628218578,
+			"version": 685,
+			"versionNonce": 155078354,
 			"isDeleted": false,
 			"id": "bx1XxNPV",
 			"fillStyle": "solid",
@@ -1219,7 +826,7 @@ Filtro prototipo analógico ^tYOugGde
 					"type": "arrow"
 				}
 			],
-			"updated": 1684020436046,
+			"updated": 1684023490682,
 			"link": null,
 			"locked": false,
 			"fontSize": 26.209563185586426,
@@ -1234,8 +841,8 @@ Filtro prototipo analógico ^tYOugGde
 		},
 		{
 			"type": "text",
-			"version": 562,
-			"versionNonce": 122385230,
+			"version": 570,
+			"versionNonce": 1806712654,
 			"isDeleted": false,
 			"id": "TwStZzHY",
 			"fillStyle": "solid",
@@ -1267,7 +874,7 @@ Filtro prototipo analógico ^tYOugGde
 					"type": "arrow"
 				}
 			],
-			"updated": 1684020436046,
+			"updated": 1684023490682,
 			"link": null,
 			"locked": false,
 			"fontSize": 26.209563185586426,
@@ -1282,8 +889,8 @@ Filtro prototipo analógico ^tYOugGde
 		},
 		{
 			"type": "rectangle",
-			"version": 769,
-			"versionNonce": 2077405330,
+			"version": 777,
+			"versionNonce": 368092306,
 			"isDeleted": false,
 			"id": "lp1iZE-Q6dkqILh7o6jlQ",
 			"fillStyle": "solid",
@@ -1315,14 +922,14 @@ Filtro prototipo analógico ^tYOugGde
 					"type": "arrow"
 				}
 			],
-			"updated": 1684020436046,
+			"updated": 1684023490682,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 673,
-			"versionNonce": 1683741070,
+			"version": 681,
+			"versionNonce": 2051483022,
 			"isDeleted": false,
 			"id": "plx1NP95",
 			"fillStyle": "solid",
@@ -1341,7 +948,7 @@ Filtro prototipo analógico ^tYOugGde
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1684020436046,
+			"updated": 1684023490682,
 			"link": null,
 			"locked": false,
 			"fontSize": 26.209563185586426,
@@ -1356,8 +963,8 @@ Filtro prototipo analógico ^tYOugGde
 		},
 		{
 			"type": "arrow",
-			"version": 769,
-			"versionNonce": 51564114,
+			"version": 777,
+			"versionNonce": 223494738,
 			"isDeleted": false,
 			"id": "0-R4IiwKpGLx8u14MR1Xj",
 			"fillStyle": "hachure",
@@ -1376,7 +983,7 @@ Filtro prototipo analógico ^tYOugGde
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1684020436046,
+			"updated": 1684023490682,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1405,8 +1012,8 @@ Filtro prototipo analógico ^tYOugGde
 		},
 		{
 			"type": "arrow",
-			"version": 773,
-			"versionNonce": 117798862,
+			"version": 781,
+			"versionNonce": 1504134094,
 			"isDeleted": false,
 			"id": "iZviIRIxykgSdpbiU_W35",
 			"fillStyle": "hachure",
@@ -1425,7 +1032,7 @@ Filtro prototipo analógico ^tYOugGde
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1684020436046,
+			"updated": 1684023490682,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1454,8 +1061,8 @@ Filtro prototipo analógico ^tYOugGde
 		},
 		{
 			"type": "arrow",
-			"version": 848,
-			"versionNonce": 1879651346,
+			"version": 856,
+			"versionNonce": 1782196242,
 			"isDeleted": false,
 			"id": "sdNQLJKn6fQ5yyu8Hykhh",
 			"fillStyle": "hachure",
@@ -1474,7 +1081,7 @@ Filtro prototipo analógico ^tYOugGde
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1684020436046,
+			"updated": 1684023490682,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1503,8 +1110,8 @@ Filtro prototipo analógico ^tYOugGde
 		},
 		{
 			"type": "arrow",
-			"version": 767,
-			"versionNonce": 1465994766,
+			"version": 775,
+			"versionNonce": 199858702,
 			"isDeleted": false,
 			"id": "_ZmgHdPP1JaHFY02hRXvw",
 			"fillStyle": "hachure",
@@ -1523,7 +1130,7 @@ Filtro prototipo analógico ^tYOugGde
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1684020436046,
+			"updated": 1684023490682,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1552,8 +1159,8 @@ Filtro prototipo analógico ^tYOugGde
 		},
 		{
 			"type": "arrow",
-			"version": 1148,
-			"versionNonce": 1152180690,
+			"version": 1156,
+			"versionNonce": 882857426,
 			"isDeleted": false,
 			"id": "4iaPIbOxPQ55BE8hj4lqZ",
 			"fillStyle": "hachure",
@@ -1572,7 +1179,7 @@ Filtro prototipo analógico ^tYOugGde
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1684020436047,
+			"updated": 1684023490682,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1601,8 +1208,8 @@ Filtro prototipo analógico ^tYOugGde
 		},
 		{
 			"type": "arrow",
-			"version": 999,
-			"versionNonce": 1382571086,
+			"version": 1007,
+			"versionNonce": 1745299534,
 			"isDeleted": false,
 			"id": "Vj6BCqMXZERkPJPraKvfY",
 			"fillStyle": "hachure",
@@ -1621,7 +1228,7 @@ Filtro prototipo analógico ^tYOugGde
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1684020436047,
+			"updated": 1684023490682,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1650,8 +1257,8 @@ Filtro prototipo analógico ^tYOugGde
 		},
 		{
 			"type": "arrow",
-			"version": 1585,
-			"versionNonce": 739563410,
+			"version": 1593,
+			"versionNonce": 1570294674,
 			"isDeleted": false,
 			"id": "aCak5_Vd81EMxMAJoy9Q4",
 			"fillStyle": "hachure",
@@ -1670,7 +1277,7 @@ Filtro prototipo analógico ^tYOugGde
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1684020436047,
+			"updated": 1684023490682,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1699,8 +1306,8 @@ Filtro prototipo analógico ^tYOugGde
 		},
 		{
 			"type": "arrow",
-			"version": 1536,
-			"versionNonce": 1844683406,
+			"version": 1544,
+			"versionNonce": 2111368846,
 			"isDeleted": false,
 			"id": "v1MGKXUz35N3t6mQHTXL8",
 			"fillStyle": "hachure",
@@ -1719,7 +1326,7 @@ Filtro prototipo analógico ^tYOugGde
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1684020436047,
+			"updated": 1684023490682,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1748,8 +1355,8 @@ Filtro prototipo analógico ^tYOugGde
 		},
 		{
 			"type": "arrow",
-			"version": 1419,
-			"versionNonce": 1450710354,
+			"version": 1427,
+			"versionNonce": 459114834,
 			"isDeleted": false,
 			"id": "sraUJ-sSAvly5GF5AvvEE",
 			"fillStyle": "hachure",
@@ -1768,7 +1375,7 @@ Filtro prototipo analógico ^tYOugGde
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1684020436047,
+			"updated": 1684023490682,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1797,8 +1404,8 @@ Filtro prototipo analógico ^tYOugGde
 		},
 		{
 			"type": "arrow",
-			"version": 1264,
-			"versionNonce": 2092703950,
+			"version": 1272,
+			"versionNonce": 2048388302,
 			"isDeleted": false,
 			"id": "g435tslZxVNPo-G8USelv",
 			"fillStyle": "hachure",
@@ -1817,7 +1424,7 @@ Filtro prototipo analógico ^tYOugGde
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1684020436047,
+			"updated": 1684023490682,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1846,8 +1453,8 @@ Filtro prototipo analógico ^tYOugGde
 		},
 		{
 			"type": "text",
-			"version": 185,
-			"versionNonce": 1429052178,
+			"version": 193,
+			"versionNonce": 1162120978,
 			"isDeleted": false,
 			"id": "Rl0qj5KW",
 			"fillStyle": "hachure",
@@ -1866,7 +1473,7 @@ Filtro prototipo analógico ^tYOugGde
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1684020436047,
+			"updated": 1684023490683,
 			"link": null,
 			"locked": false,
 			"fontSize": 22.200583729995472,
@@ -1881,8 +1488,8 @@ Filtro prototipo analógico ^tYOugGde
 		},
 		{
 			"type": "rectangle",
-			"version": 606,
-			"versionNonce": 307943182,
+			"version": 614,
+			"versionNonce": 173875982,
 			"isDeleted": false,
 			"id": "7sy5JNxwB_PXxRM6MBkuA",
 			"fillStyle": "hachure",
@@ -1906,14 +1513,14 @@ Filtro prototipo analógico ^tYOugGde
 					"type": "arrow"
 				}
 			],
-			"updated": 1684020436047,
+			"updated": 1684023490683,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "arrow",
-			"version": 48,
-			"versionNonce": 1991010514,
+			"version": 56,
+			"versionNonce": 801430738,
 			"isDeleted": false,
 			"id": "ghS9ZIuQCw6OZxQ2WqbRJ",
 			"fillStyle": "hachure",
@@ -1932,7 +1539,7 @@ Filtro prototipo analógico ^tYOugGde
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1684020436047,
+			"updated": 1684023490683,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1961,8 +1568,8 @@ Filtro prototipo analógico ^tYOugGde
 		},
 		{
 			"type": "arrow",
-			"version": 246,
-			"versionNonce": 1732822350,
+			"version": 254,
+			"versionNonce": 1092718926,
 			"isDeleted": false,
 			"id": "M3CMV9wCMIAZdXBhHCa4L",
 			"fillStyle": "hachure",
@@ -1981,7 +1588,7 @@ Filtro prototipo analógico ^tYOugGde
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1684020436047,
+			"updated": 1684023490683,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -2010,8 +1617,8 @@ Filtro prototipo analógico ^tYOugGde
 		},
 		{
 			"type": "arrow",
-			"version": 473,
-			"versionNonce": 579567250,
+			"version": 481,
+			"versionNonce": 141914770,
 			"isDeleted": false,
 			"id": "DAxwLqEnRASa5am1NYt-2",
 			"fillStyle": "hachure",
@@ -2030,7 +1637,7 @@ Filtro prototipo analógico ^tYOugGde
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1684020436047,
+			"updated": 1684023490683,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -2059,8 +1666,8 @@ Filtro prototipo analógico ^tYOugGde
 		},
 		{
 			"type": "arrow",
-			"version": 149,
-			"versionNonce": 1021242254,
+			"version": 157,
+			"versionNonce": 2042509198,
 			"isDeleted": false,
 			"id": "anTk25u9zSfDLT7FWrqsr",
 			"fillStyle": "hachure",
@@ -2079,7 +1686,7 @@ Filtro prototipo analógico ^tYOugGde
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1684020436047,
+			"updated": 1684023490683,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -2108,8 +1715,8 @@ Filtro prototipo analógico ^tYOugGde
 		},
 		{
 			"type": "freedraw",
-			"version": 561,
-			"versionNonce": 897702994,
+			"version": 569,
+			"versionNonce": 839733330,
 			"isDeleted": false,
 			"id": "q8fPnQN9rW6GyRqqjUoyC",
 			"fillStyle": "hachure",
@@ -2128,7 +1735,7 @@ Filtro prototipo analógico ^tYOugGde
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1684020436047,
+			"updated": 1684023490683,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -2823,8 +2430,8 @@ Filtro prototipo analógico ^tYOugGde
 		},
 		{
 			"type": "freedraw",
-			"version": 627,
-			"versionNonce": 1096174030,
+			"version": 635,
+			"versionNonce": 1013716430,
 			"isDeleted": false,
 			"id": "3JLtRQzsOqcrqrtYVdzaM",
 			"fillStyle": "hachure",
@@ -2843,7 +2450,7 @@ Filtro prototipo analógico ^tYOugGde
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1684020436047,
+			"updated": 1684023490683,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -3538,8 +3145,8 @@ Filtro prototipo analógico ^tYOugGde
 		},
 		{
 			"type": "freedraw",
-			"version": 586,
-			"versionNonce": 1566999058,
+			"version": 594,
+			"versionNonce": 543389202,
 			"isDeleted": false,
 			"id": "3OtezgzHsnZUXd20G4tOx",
 			"fillStyle": "hachure",
@@ -3558,7 +3165,7 @@ Filtro prototipo analógico ^tYOugGde
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1684020436047,
+			"updated": 1684023490683,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -4253,8 +3860,8 @@ Filtro prototipo analógico ^tYOugGde
 		},
 		{
 			"type": "image",
-			"version": 413,
-			"versionNonce": 1942478862,
+			"version": 421,
+			"versionNonce": 574893070,
 			"isDeleted": false,
 			"id": "d90MQnTC",
 			"fillStyle": "hachure",
@@ -4273,7 +3880,7 @@ Filtro prototipo analógico ^tYOugGde
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1684020436047,
+			"updated": 1684023490683,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -4285,8 +3892,8 @@ Filtro prototipo analógico ^tYOugGde
 		},
 		{
 			"type": "image",
-			"version": 338,
-			"versionNonce": 1966108626,
+			"version": 346,
+			"versionNonce": 879682514,
 			"isDeleted": false,
 			"id": "iyYE5hOP",
 			"fillStyle": "hachure",
@@ -4305,7 +3912,7 @@ Filtro prototipo analógico ^tYOugGde
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1684020436047,
+			"updated": 1684023490683,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -4317,8 +3924,8 @@ Filtro prototipo analógico ^tYOugGde
 		},
 		{
 			"type": "image",
-			"version": 416,
-			"versionNonce": 137145934,
+			"version": 424,
+			"versionNonce": 960461390,
 			"isDeleted": false,
 			"id": "v0xdifXM",
 			"fillStyle": "hachure",
@@ -4337,7 +3944,7 @@ Filtro prototipo analógico ^tYOugGde
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1684020436047,
+			"updated": 1684023490683,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -4349,8 +3956,8 @@ Filtro prototipo analógico ^tYOugGde
 		},
 		{
 			"type": "line",
-			"version": 174,
-			"versionNonce": 1626776978,
+			"version": 182,
+			"versionNonce": 407280018,
 			"isDeleted": false,
 			"id": "kV8xYd3VQPyfqhylttkHY",
 			"fillStyle": "hachure",
@@ -4369,7 +3976,7 @@ Filtro prototipo analógico ^tYOugGde
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1684020436047,
+			"updated": 1684023490683,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -4390,8 +3997,8 @@ Filtro prototipo analógico ^tYOugGde
 		},
 		{
 			"type": "line",
-			"version": 171,
-			"versionNonce": 1264432270,
+			"version": 179,
+			"versionNonce": 1748435086,
 			"isDeleted": false,
 			"id": "H7Ymz8roNeKF7iBoNFori",
 			"fillStyle": "hachure",
@@ -4410,7 +4017,7 @@ Filtro prototipo analógico ^tYOugGde
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1684020436048,
+			"updated": 1684023490683,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -4431,8 +4038,8 @@ Filtro prototipo analógico ^tYOugGde
 		},
 		{
 			"type": "freedraw",
-			"version": 290,
-			"versionNonce": 1777345362,
+			"version": 298,
+			"versionNonce": 455186258,
 			"isDeleted": false,
 			"id": "A1eVvzyV1loxJFQywvw3g",
 			"fillStyle": "hachure",
@@ -4451,7 +4058,7 @@ Filtro prototipo analógico ^tYOugGde
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1684020436048,
+			"updated": 1684023490683,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -4978,8 +4585,8 @@ Filtro prototipo analógico ^tYOugGde
 		},
 		{
 			"type": "freedraw",
-			"version": 248,
-			"versionNonce": 118747854,
+			"version": 256,
+			"versionNonce": 1390657230,
 			"isDeleted": false,
 			"id": "xfB0R3O8EE0QEtbF4r1gu",
 			"fillStyle": "hachure",
@@ -4998,7 +4605,7 @@ Filtro prototipo analógico ^tYOugGde
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1684020436048,
+			"updated": 1684023490683,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -5357,8 +4964,8 @@ Filtro prototipo analógico ^tYOugGde
 		},
 		{
 			"type": "freedraw",
-			"version": 244,
-			"versionNonce": 443803922,
+			"version": 252,
+			"versionNonce": 223796498,
 			"isDeleted": false,
 			"id": "XiMhIiWKRxArZENIUM8RT",
 			"fillStyle": "hachure",
@@ -5377,7 +4984,7 @@ Filtro prototipo analógico ^tYOugGde
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1684020436048,
+			"updated": 1684023490683,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -5720,8 +5327,8 @@ Filtro prototipo analógico ^tYOugGde
 		},
 		{
 			"type": "image",
-			"version": 251,
-			"versionNonce": 1709730062,
+			"version": 259,
+			"versionNonce": 1038005518,
 			"isDeleted": false,
 			"id": "6ikyDyTo",
 			"fillStyle": "hachure",
@@ -5740,7 +5347,7 @@ Filtro prototipo analógico ^tYOugGde
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1684020436048,
+			"updated": 1684023490683,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -5752,8 +5359,8 @@ Filtro prototipo analógico ^tYOugGde
 		},
 		{
 			"type": "text",
-			"version": 228,
-			"versionNonce": 435746514,
+			"version": 236,
+			"versionNonce": 475884242,
 			"isDeleted": false,
 			"id": "tSJ6Bt7l",
 			"fillStyle": "hachure",
@@ -5772,7 +5379,7 @@ Filtro prototipo analógico ^tYOugGde
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1684020436048,
+			"updated": 1684023490683,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -5787,8 +5394,8 @@ Filtro prototipo analógico ^tYOugGde
 		},
 		{
 			"type": "rectangle",
-			"version": 733,
-			"versionNonce": 1465128782,
+			"version": 741,
+			"versionNonce": 1923146574,
 			"isDeleted": false,
 			"id": "87oJMlrgV7zjD_y4Q-5mY",
 			"fillStyle": "hachure",
@@ -5807,14 +5414,14 @@ Filtro prototipo analógico ^tYOugGde
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1684020436048,
+			"updated": 1684023490684,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 250,
-			"versionNonce": 152456338,
+			"version": 258,
+			"versionNonce": 785137810,
 			"isDeleted": false,
 			"id": "Arj46opT",
 			"fillStyle": "hachure",
@@ -5838,7 +5445,7 @@ Filtro prototipo analógico ^tYOugGde
 					"type": "arrow"
 				}
 			],
-			"updated": 1684020436048,
+			"updated": 1684023490684,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -5853,8 +5460,8 @@ Filtro prototipo analógico ^tYOugGde
 		},
 		{
 			"type": "arrow",
-			"version": 438,
-			"versionNonce": 1940913550,
+			"version": 446,
+			"versionNonce": 595806606,
 			"isDeleted": false,
 			"id": "Jw1XwVeRN0-rt1tZyu7HT",
 			"fillStyle": "hachure",
@@ -5873,7 +5480,7 @@ Filtro prototipo analógico ^tYOugGde
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1684020436048,
+			"updated": 1684023490684,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -5902,8 +5509,8 @@ Filtro prototipo analógico ^tYOugGde
 		},
 		{
 			"type": "text",
-			"version": 383,
-			"versionNonce": 1568860754,
+			"version": 391,
+			"versionNonce": 1079664210,
 			"isDeleted": false,
 			"id": "RFQGB0Te",
 			"fillStyle": "hachure",
@@ -5922,7 +5529,7 @@ Filtro prototipo analógico ^tYOugGde
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1684020436048,
+			"updated": 1684023490684,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -5937,8 +5544,8 @@ Filtro prototipo analógico ^tYOugGde
 		},
 		{
 			"type": "rectangle",
-			"version": 796,
-			"versionNonce": 1614093262,
+			"version": 804,
+			"versionNonce": 1337911246,
 			"isDeleted": false,
 			"id": "jNo6A9YNX5wjuxG4YLona",
 			"fillStyle": "hachure",
@@ -5962,14 +5569,14 @@ Filtro prototipo analógico ^tYOugGde
 					"type": "arrow"
 				}
 			],
-			"updated": 1684020436048,
+			"updated": 1684023490684,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 612,
-			"versionNonce": 1041616914,
+			"version": 620,
+			"versionNonce": 1038009362,
 			"isDeleted": false,
 			"id": "8oBw55eU",
 			"fillStyle": "hachure",
@@ -5988,7 +5595,7 @@ Filtro prototipo analógico ^tYOugGde
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1684020436048,
+			"updated": 1684023490684,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -6003,8 +5610,8 @@ Filtro prototipo analógico ^tYOugGde
 		},
 		{
 			"type": "rectangle",
-			"version": 905,
-			"versionNonce": 855405070,
+			"version": 913,
+			"versionNonce": 661437966,
 			"isDeleted": false,
 			"id": "X8_TJz_RJU5imxToaANs5",
 			"fillStyle": "hachure",
@@ -6028,14 +5635,14 @@ Filtro prototipo analógico ^tYOugGde
 					"type": "arrow"
 				}
 			],
-			"updated": 1684020436048,
+			"updated": 1684023490684,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "arrow",
-			"version": 219,
-			"versionNonce": 1590033874,
+			"version": 227,
+			"versionNonce": 1632661970,
 			"isDeleted": false,
 			"id": "cdwPpe61HDXSHGUtYhK6D",
 			"fillStyle": "hachure",
@@ -6054,7 +5661,7 @@ Filtro prototipo analógico ^tYOugGde
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1684020436048,
+			"updated": 1684023490684,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -6083,8 +5690,8 @@ Filtro prototipo analógico ^tYOugGde
 		},
 		{
 			"type": "arrow",
-			"version": 195,
-			"versionNonce": 1459552334,
+			"version": 203,
+			"versionNonce": 1871039566,
 			"isDeleted": false,
 			"id": "n0_3gfi4NyjL5Cascp7jW",
 			"fillStyle": "hachure",
@@ -6103,7 +5710,7 @@ Filtro prototipo analógico ^tYOugGde
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1684020436048,
+			"updated": 1684023490684,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -6131,79 +5738,1404 @@ Filtro prototipo analógico ^tYOugGde
 			]
 		},
 		{
-			"type": "text",
-			"version": 111,
-			"versionNonce": 2095977230,
+			"type": "arrow",
+			"version": 33,
+			"versionNonce": 231106450,
 			"isDeleted": false,
-			"id": "IULb7BIq",
+			"id": "pp5UlQCHyHPU0u5GTNv3d",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 2934.0888448761903,
-			"y": -967.045994258306,
+			"x": 3080,
+			"y": -840,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 242.83981323242188,
-			"height": 50,
-			"seed": 1645261842,
+			"width": 0,
+			"height": 220,
+			"seed": 1673713362,
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1684020817256,
+			"updated": 1684023490684,
 			"link": null,
 			"locked": false,
-			"fontSize": 20,
-			"fontFamily": 1,
-			"text": "- Filtro pasabajas\n- Frecuencia normalizada",
-			"rawText": "- Filtro pasabajas\n- Frecuencia normalizada",
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"containerId": null,
-			"originalText": "- Filtro pasabajas\n- Frecuencia normalizada",
-			"lineHeight": 1.25
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "triangle",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					-220
+				]
+			]
+		},
+		{
+			"type": "arrow",
+			"version": 27,
+			"versionNonce": 1709380238,
+			"isDeleted": false,
+			"id": "QXqMGJX5HJ0SW4wuQYkPA",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 3080,
+			"y": -840,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 300,
+			"height": 0,
+			"seed": 1744007758,
+			"groupIds": [],
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1684023490684,
+			"link": null,
+			"locked": false,
+			"startBinding": null,
+			"endBinding": {
+				"elementId": "vnKinmIP",
+				"focus": 0.5275768171386755,
+				"gap": 7.37686638594073
+			},
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "triangle",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					300,
+					0
+				]
+			]
 		},
 		{
 			"type": "image",
-			"version": 80,
-			"versionNonce": 1551869198,
+			"version": 78,
+			"versionNonce": 729261394,
 			"isDeleted": false,
-			"id": "i9NeHDrE",
+			"id": "qFJGQkv6",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 3022.906081977107,
-			"y": -912.53491381938,
+			"x": 3024.705882352941,
+			"y": -1043.5294117647059,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 69.41726172326152,
-			"height": 19.983757162757104,
-			"seed": 91079,
+			"width": 39,
+			"height": 18,
+			"seed": 23088,
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1684020819489,
+			"updated": 1684023490684,
 			"link": null,
 			"locked": false,
 			"status": "pending",
-			"fileId": "8af0b6e0e07b26551bc00a9103c31e93e8f7aca0",
+			"fileId": "4962041bd6393b892651516b3c308d8db0dee08d",
 			"scale": [
 				1,
 				1
 			]
 		},
 		{
-			"id": "tYOugGde",
-			"type": "text",
-			"x": 3339.727878934076,
-			"y": -934.8055344271461,
-			"width": 296.2356262207031,
-			"height": 29.803813086782064,
+			"type": "image",
+			"version": 49,
+			"versionNonce": 624791758,
+			"isDeleted": false,
+			"id": "vnKinmIP",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 3387.3768663859405,
+			"y": -842.7233807012007,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 15.852941176470708,
+			"height": 11.52941176470597,
+			"seed": 46692,
+			"groupIds": [],
+			"roundness": null,
+			"boundElements": [
+				{
+					"id": "QXqMGJX5HJ0SW4wuQYkPA",
+					"type": "arrow"
+				}
+			],
+			"updated": 1684023490684,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "c2f60218d787d88b09a84fd7b677952d74cc8fec",
+			"scale": [
+				1,
+				1
+			]
+		},
+		{
+			"type": "arrow",
+			"version": 129,
+			"versionNonce": 795632910,
+			"isDeleted": false,
+			"id": "wrJdm4qosVm8LjNAsiCRa",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 3446.181233731067,
+			"y": -843.9107099584426,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 0,
+			"height": 220,
+			"seed": 1659113294,
+			"groupIds": [],
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1684023535792,
+			"link": null,
+			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "triangle",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					-220
+				]
+			]
+		},
+		{
+			"type": "arrow",
+			"version": 178,
+			"versionNonce": 1166414866,
+			"isDeleted": false,
+			"id": "qb5jUN3NjSHzhm89F6QiJ",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 3446.181233731067,
+			"y": -843.9107099584426,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 300,
+			"height": 0,
+			"seed": 950129810,
+			"groupIds": [],
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1684023536116,
+			"link": null,
+			"locked": false,
+			"startBinding": null,
+			"endBinding": {
+				"elementId": "O3wS3hfjeQiEjXMruqXrG",
+				"focus": 0.41386530546293504,
+				"gap": 9.08530186597136
+			},
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "triangle",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					300,
+					0
+				]
+			]
+		},
+		{
+			"type": "image",
+			"version": 174,
+			"versionNonce": 1190695758,
+			"isDeleted": false,
+			"id": "_TpQNQyRCjQJRQNj5McQ7",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 3390.8871160840076,
+			"y": -1047.4401217231484,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 39,
+			"height": 18,
+			"seed": 2055271822,
+			"groupIds": [],
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1684023535792,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "311acdc300855b5a44c524d3410ea1d7267d5249",
+			"scale": [
+				1,
+				1
+			]
+		},
+		{
+			"type": "image",
+			"version": 151,
+			"versionNonce": 822579346,
+			"isDeleted": false,
+			"id": "O3wS3hfjeQiEjXMruqXrG",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 3755.2665355970385,
+			"y": -848.2179717233506,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 12.436070216409645,
+			"height": 14.69717389212049,
+			"seed": 576549458,
+			"groupIds": [],
+			"roundness": null,
+			"boundElements": [
+				{
+					"id": "qb5jUN3NjSHzhm89F6QiJ",
+					"type": "arrow"
+				}
+			],
+			"updated": 1684023535792,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "ae83956fe81e32af14fe50033471e380f5d7d015",
+			"scale": [
+				1,
+				1
+			]
+		},
+		{
+			"type": "freedraw",
+			"version": 103,
+			"versionNonce": 385158802,
+			"isDeleted": false,
+			"id": "DopN642oabzc7CgDWig_h",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 3081.1087416275873,
+			"y": -932.4626535871766,
+			"strokeColor": "#e67700",
+			"backgroundColor": "transparent",
+			"width": 133.94461979324524,
+			"height": 92.94116475449675,
+			"seed": 2094262798,
+			"groupIds": [],
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1684023490684,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					1.3667818346252716,
+					0
+				],
+				[
+					2.7335636692500884,
+					0
+				],
+				[
+					4.100345503874905,
+					0
+				],
+				[
+					8.20069100774981,
+					0
+				],
+				[
+					10.934254676999899,
+					0
+				],
+				[
+					13.667818346249533,
+					0
+				],
+				[
+					16.40138201549962,
+					0
+				],
+				[
+					17.768163850124438,
+					0
+				],
+				[
+					19.13494568474971,
+					0
+				],
+				[
+					21.868509353999343,
+					0
+				],
+				[
+					23.23529118862416,
+					0
+				],
+				[
+					25.96885485787425,
+					0
+				],
+				[
+					28.702418527124337,
+					0
+				],
+				[
+					30.069200361749154,
+					0
+				],
+				[
+					32.80276403099924,
+					0
+				],
+				[
+					35.536327700248876,
+					0
+				],
+				[
+					38.269891369498964,
+					0
+				],
+				[
+					39.63667320412378,
+					0
+				],
+				[
+					41.0034550387486,
+					0
+				],
+				[
+					42.37023687337387,
+					0
+				],
+				[
+					43.737018707998686,
+					0
+				],
+				[
+					45.1038005426235,
+					0
+				],
+				[
+					47.83736421187359,
+					0
+				],
+				[
+					49.20414604649841,
+					0
+				],
+				[
+					50.570927881123225,
+					0
+				],
+				[
+					51.9377097157485,
+					0
+				],
+				[
+					53.304491550373314,
+					0
+				],
+				[
+					54.67127338499813,
+					0
+				],
+				[
+					56.0380552196234,
+					0
+				],
+				[
+					57.40483705424822,
+					0
+				],
+				[
+					60.13840072349785,
+					0
+				],
+				[
+					61.505182558123124,
+					0
+				],
+				[
+					62.87196439274794,
+					0
+				],
+				[
+					64.23874622737276,
+					0
+				],
+				[
+					65.60552806199803,
+					0
+				],
+				[
+					66.97230989662285,
+					0
+				],
+				[
+					69.70587356587293,
+					2.7335636692499747
+				],
+				[
+					71.07265540049775,
+					2.7335636692499747
+				],
+				[
+					73.80621906974739,
+					4.100345503874905
+				],
+				[
+					75.17300090437266,
+					5.4671273384999495
+				],
+				[
+					77.90656457362229,
+					6.833909173124766
+				],
+				[
+					79.27334640824756,
+					8.20069100774981
+				],
+				[
+					80.64012824287238,
+					9.567472842374741
+				],
+				[
+					82.0069100774972,
+					9.567472842374741
+				],
+				[
+					82.0069100774972,
+					10.934254676999672
+				],
+				[
+					84.74047374674728,
+					10.934254676999672
+				],
+				[
+					86.1072555813721,
+					12.301036511624602
+				],
+				[
+					87.47403741599692,
+					12.301036511624602
+				],
+				[
+					88.84081925062219,
+					15.034600180874577
+				],
+				[
+					90.207601085247,
+					15.034600180874577
+				],
+				[
+					91.57438291987182,
+					16.401382015499507
+				],
+				[
+					91.57438291987182,
+					17.768163850124438
+				],
+				[
+					92.9411647544971,
+					20.5017275193743
+				],
+				[
+					92.9411647544971,
+					21.868509353999343
+				],
+				[
+					94.30794658912191,
+					24.602073023249204
+				],
+				[
+					95.67472842374673,
+					25.968854857874135
+				],
+				[
+					95.67472842374673,
+					30.069200361748926
+				],
+				[
+					97.04151025837155,
+					30.069200361748926
+				],
+				[
+					98.40829209299682,
+					32.8027640309989
+				],
+				[
+					99.77507392762163,
+					34.16954586562383
+				],
+				[
+					99.77507392762163,
+					35.536327700248876
+				],
+				[
+					99.77507392762163,
+					36.90310953487369
+				],
+				[
+					102.50863759687172,
+					38.26989136949874
+				],
+				[
+					102.50863759687172,
+					39.63667320412367
+				],
+				[
+					103.87541943149654,
+					42.37023687337353
+				],
+				[
+					105.24220126612136,
+					43.73701870799846
+				],
+				[
+					105.24220126612136,
+					45.1038005426235
+				],
+				[
+					107.97576493537144,
+					46.47058237724832
+				],
+				[
+					107.97576493537144,
+					47.837364211873364
+				],
+				[
+					107.97576493537144,
+					49.204146046498295
+				],
+				[
+					109.34254676999626,
+					51.93770971574827
+				],
+				[
+					110.70932860462108,
+					51.93770971574827
+				],
+				[
+					112.07611043924635,
+					53.304491550373086
+				],
+				[
+					113.44289227387117,
+					56.03805521962306
+				],
+				[
+					114.80967410849598,
+					57.40483705424799
+				],
+				[
+					116.17645594312125,
+					60.13840072349785
+				],
+				[
+					117.54323777774607,
+					61.5051825581229
+				],
+				[
+					118.91001961237089,
+					62.87196439274783
+				],
+				[
+					120.2768014469957,
+					64.23874622737276
+				],
+				[
+					120.2768014469957,
+					65.60552806199769
+				],
+				[
+					121.64358328162098,
+					66.97230989662262
+				],
+				[
+					121.64358328162098,
+					68.33909173124766
+				],
+				[
+					121.64358328162098,
+					69.7058735658726
+				],
+				[
+					123.0103651162458,
+					71.07265540049752
+				],
+				[
+					123.0103651162458,
+					72.43943723512245
+				],
+				[
+					124.37714695087061,
+					72.43943723512245
+				],
+				[
+					124.37714695087061,
+					73.80621906974739
+				],
+				[
+					125.74392878549588,
+					75.17300090437232
+				],
+				[
+					125.74392878549588,
+					76.53978273899736
+				],
+				[
+					127.1107106201207,
+					79.27334640824722
+				],
+				[
+					128.47749245474552,
+					82.00691007749708
+				],
+				[
+					129.8442742893708,
+					83.37369191212213
+				],
+				[
+					131.2110561239956,
+					86.10725558137199
+				],
+				[
+					132.57783795862042,
+					88.84081925062185
+				],
+				[
+					132.57783795862042,
+					90.20760108524678
+				],
+				[
+					133.94461979324524,
+					90.20760108524678
+				],
+				[
+					133.94461979324524,
+					91.57438291987182
+				],
+				[
+					133.94461979324524,
+					92.94116475449675
+				],
+				[
+					133.94461979324524,
+					92.94116475449675
+				]
+			],
+			"lastCommittedPoint": null,
+			"simulatePressure": true,
+			"pressures": []
+		},
+		{
+			"type": "freedraw",
+			"version": 167,
+			"versionNonce": 2125180498,
+			"isDeleted": false,
+			"id": "gOCT5Fttclxx0NJC6OZGH",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 3444.6727096378245,
+			"y": -939.2965627603014,
+			"strokeColor": "#1864ab",
+			"backgroundColor": "transparent",
+			"width": 247.38751206711595,
+			"height": 103.87541943149631,
+			"seed": 1494912338,
+			"groupIds": [],
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1684023535792,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					1.3667818346248168,
+					0
+				],
+				[
+					2.7335636692496337,
+					0
+				],
+				[
+					5.467127338499722,
+					0
+				],
+				[
+					8.20069100774981,
+					0
+				],
+				[
+					13.667818346249533,
+					0
+				],
+				[
+					19.134945684749255,
+					-1.3667818346248168
+				],
+				[
+					21.86850935399889,
+					-2.733563669249861
+				],
+				[
+					24.602073023248977,
+					-2.733563669249861
+				],
+				[
+					27.335636692499065,
+					-2.733563669249861
+				],
+				[
+					30.0692003617487,
+					-2.733563669249861
+				],
+				[
+					32.80276403099879,
+					-2.733563669249861
+				],
+				[
+					34.169545865623604,
+					-2.733563669249861
+				],
+				[
+					35.536327700248876,
+					-2.733563669249861
+				],
+				[
+					36.90310953487369,
+					-2.733563669249861
+				],
+				[
+					41.0034550387486,
+					-2.733563669249861
+				],
+				[
+					47.83736421187314,
+					-2.733563669249861
+				],
+				[
+					50.570927881123225,
+					-2.733563669249861
+				],
+				[
+					53.30449155037286,
+					-1.3667818346248168
+				],
+				[
+					56.03805521962295,
+					0
+				],
+				[
+					60.13840072349785,
+					1.3667818346250442
+				],
+				[
+					61.50518255812267,
+					1.3667818346250442
+				],
+				[
+					64.23874622737276,
+					1.3667818346250442
+				],
+				[
+					65.60552806199757,
+					1.3667818346250442
+				],
+				[
+					69.70587356587248,
+					1.3667818346250442
+				],
+				[
+					71.0726554004973,
+					1.3667818346250442
+				],
+				[
+					72.43943723512257,
+					1.3667818346250442
+				],
+				[
+					75.1730009043722,
+					1.3667818346250442
+				],
+				[
+					77.90656457362184,
+					1.3667818346250442
+				],
+				[
+					79.27334640824711,
+					1.3667818346250442
+				],
+				[
+					82.0069100774972,
+					1.3667818346250442
+				],
+				[
+					83.37369191212201,
+					1.3667818346250442
+				],
+				[
+					86.10725558137165,
+					1.3667818346250442
+				],
+				[
+					87.47403741599692,
+					1.3667818346250442
+				],
+				[
+					90.20760108524655,
+					1.3667818346250442
+				],
+				[
+					92.94116475449664,
+					0
+				],
+				[
+					97.04151025837155,
+					-1.3667818346248168
+				],
+				[
+					99.77507392762118,
+					-1.3667818346248168
+				],
+				[
+					101.14185576224645,
+					-1.3667818346248168
+				],
+				[
+					105.2422012661209,
+					-1.3667818346248168
+				],
+				[
+					109.34254676999626,
+					-1.3667818346248168
+				],
+				[
+					114.80967410849553,
+					-1.3667818346248168
+				],
+				[
+					117.54323777774562,
+					-1.3667818346248168
+				],
+				[
+					118.91001961237089,
+					-1.3667818346248168
+				],
+				[
+					121.64358328162052,
+					-1.3667818346248168
+				],
+				[
+					128.47749245474552,
+					-1.3667818346248168
+				],
+				[
+					132.57783795861997,
+					-1.3667818346248168
+				],
+				[
+					133.94461979324524,
+					-1.3667818346248168
+				],
+				[
+					135.31140162787005,
+					-1.3667818346248168
+				],
+				[
+					138.04496529712014,
+					-1.3667818346248168
+				],
+				[
+					140.77852896636978,
+					0
+				],
+				[
+					142.1453108009946,
+					1.3667818346250442
+				],
+				[
+					144.87887447024468,
+					2.7335636692499747
+				],
+				[
+					146.2456563048695,
+					4.100345503874905
+				],
+				[
+					148.9792199741196,
+					5.4671273384999495
+				],
+				[
+					150.3460018087444,
+					6.833909173124766
+				],
+				[
+					150.3460018087444,
+					8.20069100774981
+				],
+				[
+					151.71278364336922,
+					8.20069100774981
+				],
+				[
+					153.0795654779945,
+					9.567472842374741
+				],
+				[
+					154.4463473126193,
+					10.934254676999672
+				],
+				[
+					157.1799109818694,
+					13.667818346249533
+				],
+				[
+					159.91347465111903,
+					16.401382015499507
+				],
+				[
+					161.28025648574385,
+					19.13494568474937
+				],
+				[
+					164.01382015499394,
+					20.5017275193743
+				],
+				[
+					164.01382015499394,
+					21.868509353999343
+				],
+				[
+					165.3806019896192,
+					23.235291188624274
+				],
+				[
+					165.3806019896192,
+					24.602073023249204
+				],
+				[
+					168.11416565886884,
+					27.335636692499065
+				],
+				[
+					169.48094749349366,
+					28.70241852712411
+				],
+				[
+					170.84772932811893,
+					31.43598219637397
+				],
+				[
+					172.21451116274375,
+					32.8027640309989
+				],
+				[
+					173.58129299736856,
+					35.536327700248876
+				],
+				[
+					174.94807483199384,
+					36.90310953487369
+				],
+				[
+					174.94807483199384,
+					39.63667320412367
+				],
+				[
+					177.68163850124347,
+					41.0034550387486
+				],
+				[
+					179.0484203358683,
+					42.37023687337364
+				],
+				[
+					180.41520217049356,
+					43.73701870799846
+				],
+				[
+					181.78198400511837,
+					46.470582377248434
+				],
+				[
+					183.1487658397432,
+					47.837364211873364
+				],
+				[
+					184.51554767436846,
+					47.837364211873364
+				],
+				[
+					185.88232950899328,
+					51.93770971574827
+				],
+				[
+					189.98267501286819,
+					54.67127338499813
+				],
+				[
+					192.71623868211782,
+					56.03805521962306
+				],
+				[
+					194.0830205167431,
+					57.40483705424799
+				],
+				[
+					195.4498023513679,
+					58.771618888873036
+				],
+				[
+					196.81658418599272,
+					60.13840072349785
+				],
+				[
+					198.18336602061754,
+					60.13840072349785
+				],
+				[
+					198.18336602061754,
+					61.5051825581229
+				],
+				[
+					199.5501478552428,
+					61.5051825581229
+				],
+				[
+					202.2837115244929,
+					62.87196439274783
+				],
+				[
+					203.65049335911772,
+					64.23874622737276
+				],
+				[
+					205.01727519374253,
+					64.23874622737276
+				],
+				[
+					207.75083886299217,
+					65.60552806199769
+				],
+				[
+					209.11762069761744,
+					66.97230989662262
+				],
+				[
+					211.85118436686753,
+					68.33909173124766
+				],
+				[
+					214.58474803611716,
+					69.7058735658726
+				],
+				[
+					214.58474803611716,
+					71.07265540049752
+				],
+				[
+					215.95152987074198,
+					72.43943723512245
+				],
+				[
+					217.31831170536725,
+					73.80621906974739
+				],
+				[
+					220.05187537461688,
+					75.17300090437243
+				],
+				[
+					220.05187537461688,
+					76.53978273899736
+				],
+				[
+					221.41865720924216,
+					77.90656457362229
+				],
+				[
+					222.78543904386697,
+					79.27334640824722
+				],
+				[
+					224.1522208784918,
+					80.64012824287215
+				],
+				[
+					225.5190027131166,
+					82.00691007749708
+				],
+				[
+					226.88578454774188,
+					83.37369191212213
+				],
+				[
+					226.88578454774188,
+					86.10725558137199
+				],
+				[
+					229.6193482169915,
+					86.10725558137199
+				],
+				[
+					229.6193482169915,
+					87.47403741599692
+				],
+				[
+					230.98613005161678,
+					88.84081925062185
+				],
+				[
+					230.98613005161678,
+					90.20760108524689
+				],
+				[
+					233.71969372086642,
+					92.94116475449675
+				],
+				[
+					235.08647555549123,
+					92.94116475449675
+				],
+				[
+					235.08647555549123,
+					94.30794658912168
+				],
+				[
+					236.4532573901165,
+					95.67472842374661
+				],
+				[
+					237.82003922474132,
+					95.67472842374661
+				],
+				[
+					240.5536028939914,
+					95.67472842374661
+				],
+				[
+					240.5536028939914,
+					97.04151025837155
+				],
+				[
+					241.92038472861623,
+					97.04151025837155
+				],
+				[
+					244.65394839786586,
+					98.40829209299659
+				],
+				[
+					246.02073023249113,
+					98.40829209299659
+				],
+				[
+					247.38751206711595,
+					101.14185576224645
+				],
+				[
+					247.38751206711595,
+					101.14185576224645
+				]
+			],
+			"lastCommittedPoint": null,
+			"simulatePressure": true,
+			"pressures": []
+		},
+		{
+			"type": "image",
+			"version": 32,
+			"versionNonce": 104426578,
+			"isDeleted": false,
+			"id": "4FKcxeCU",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 3194.5204887593336,
+			"y": -824.786197644056,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 52,
+			"height": 17,
+			"seed": 13510,
+			"groupIds": [],
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1684023490685,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "17b44c26c210e55aeaa6830cfb98a64308607a65",
+			"scale": [
+				1,
+				1
+			]
+		},
+		{
+			"type": "image",
+			"version": 81,
+			"versionNonce": 1441437646,
+			"isDeleted": false,
+			"id": "rwJACSCh",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 3675.726312531817,
+			"y": -836.2204523210557,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 24.467127338500237,
+			"height": 23.179383794368647,
+			"seed": 19090,
+			"groupIds": [],
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1684023535792,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "43a3dce66d3a896833268c9604d29a76c289dda7",
+			"scale": [
+				1,
+				1
+			]
+		},
+		{
+			"type": "image",
+			"version": 172,
+			"versionNonce": 820370638,
+			"isDeleted": false,
+			"id": "L07efE9F",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 3271.51680589105,
+			"y": -1083.027381317476,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 66.3674834989749,
+			"height": 18.21852488207154,
+			"seed": 69999,
+			"groupIds": [],
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1684023592122,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "9b2828dbc7f1756597c05325c34c584b18044873",
+			"scale": [
+				1,
+				1
+			]
+		},
+		{
+			"type": "image",
+			"version": 257,
+			"versionNonce": 512597778,
+			"isDeleted": false,
+			"id": "MRDrQsez",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 3271.277652047513,
+			"y": -1055.9180791147658,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 72.87409952828617,
+			"height": 18.21852488207154,
+			"seed": 81851,
+			"groupIds": [],
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1684023592122,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "34b964713663cec1b28497c64198250ff0dfcb70",
+			"scale": [
+				1,
+				1
+			]
+		},
+		{
+			"id": "xJlOINnsYp6O4_dAOnzbB",
+			"type": "rectangle",
+			"x": 3255.0636170197035,
+			"y": -1101.697273480676,
+			"width": 106.07445375319776,
+			"height": 82.50235291915362,
 			"angle": 0,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -6214,47 +7146,38 @@ Filtro prototipo analógico ^tYOugGde
 			"opacity": 100,
 			"groupIds": [],
 			"roundness": null,
-			"seed": 289169294,
-			"version": 284,
-			"versionNonce": 1779958286,
+			"seed": 493612242,
+			"version": 38,
+			"versionNonce": 1813359054,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1684021738688,
+			"updated": 1684023598005,
 			"link": null,
-			"locked": false,
-			"text": "Filtro prototipo analógico",
-			"rawText": "Filtro prototipo analógico",
-			"fontSize": 23.843050469425652,
-			"fontFamily": 1,
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"containerId": null,
-			"originalText": "Filtro prototipo analógico",
-			"lineHeight": 1.25
+			"locked": false
 		},
 		{
 			"type": "line",
-			"version": 957,
-			"versionNonce": 2126591442,
-			"isDeleted": false,
-			"id": "N8a2vMr33s7BKuxdcZKI2",
-			"fillStyle": "hachure",
+			"version": 1314,
+			"versionNonce": 2098038610,
+			"isDeleted": true,
+			"id": "5tUuOFkg5W_JuLBIbD9VC",
+			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
-			"angle": 0,
-			"x": 3224.592790567925,
-			"y": -942.7022507536019,
+			"angle": 0.006034573466108029,
+			"x": 3321.111835430779,
+			"y": -949.0806996560472,
 			"strokeColor": "#000000",
-			"backgroundColor": "#868e96",
-			"width": 100,
-			"height": 80,
-			"seed": 1262942290,
+			"backgroundColor": "#ced4da",
+			"width": 102.64834780093372,
+			"height": 49.80052754127916,
+			"seed": 1335574542,
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": null,
-			"updated": 1684021552155,
+			"updated": 1684023642251,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -6268,65 +7191,33 @@ Filtro prototipo analógico ^tYOugGde
 					0
 				],
 				[
-					0,
-					40
+					51.61242398158661,
+					0.11340990956396269
 				],
 				[
-					60,
-					40
+					51.661142305156154,
+					-13.244999578936309
 				],
 				[
-					60.00000000000001,
-					60.00000000000001
+					102.64834780093372,
+					13.044535583861952
 				],
 				[
-					100,
-					19.999999999999993
+					50.96284633399279,
+					36.55552796234285
 				],
 				[
-					60,
-					-19.999999999999996
+					51.71682038923562,
+					24.476573932444605
 				],
 				[
-					60,
-					3.552713678800501e-15
+					0.3688673070265098,
+					24.495741804483586
 				],
 				[
 					0,
 					0
 				]
-			]
-		},
-		{
-			"type": "image",
-			"version": 246,
-			"versionNonce": 1806217998,
-			"isDeleted": true,
-			"id": "KJKm3Ag9",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 3.1484804595046008,
-			"x": 2961.3711090451525,
-			"y": -1093.7968822941707,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 220.3487103844982,
-			"height": 86.80403742419625,
-			"seed": 26481,
-			"groupIds": [],
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1684021501222,
-			"link": null,
-			"locked": false,
-			"status": "pending",
-			"fileId": "301aa52fd824f51c1094bc795b73454ec605f19e",
-			"scale": [
-				1,
-				1
 			]
 		}
 	],
@@ -6345,10 +7236,10 @@ Filtro prototipo analógico ^tYOugGde
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "triangle",
-		"scrollX": -139.42924048243276,
-		"scrollY": 1862.7788219919362,
+		"scrollX": -2890.4326822430867,
+		"scrollY": 1221.031033953023,
 		"zoom": {
-			"value": 0.35000000000000003
+			"value": 1.3575370403041942
 		},
 		"currentItemRoundness": "sharp",
 		"gridSize": null,
