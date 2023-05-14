@@ -720,8 +720,24 @@ $$
 
 ![](attachments/Pasted%20image%2020230514111037.png)
 
+Para este circuito:
 
+$$
+\begin{align*}
+	\omega_{0} &= \frac{1}{\sqrt{ R_{1}R_{2}C_{1}C_{2} }} \\\\
+	Q &= \frac{\frac{1}{\sqrt{ R_{1}R_{2}C_{1}C_{2} }}}{\frac{1}{R_{2}C_{2}} + \frac{1}{R_{2}C_{1}} + \frac{1 - \mu}{R_{1}C_{1}}} \\\\
+	G &= \mu = 1 + \frac{R_{b}}{R_{a}}
+\end{align*}
+$$
 
+Para el diseño se elije:
+
+$$
+\begin{align*}
+	&C_{1} = C_{2} = 1\,\,F  \\
+	
+\end{align*}
+$$
 
 
 
