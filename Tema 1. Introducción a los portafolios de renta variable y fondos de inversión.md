@@ -91,28 +91,35 @@ $$
 	- Si $XY < 0$
 		- Hay relación lineal negativa. Cuando una variable decrece, la otra crece.
 
-
-Se puede representar como el promedio de la suma de las diferencias entre los rendimientos y la media.
-
-$$
-\begin{align*}
-	cov(X, Y) = \frac{\sum_{i=1}^{n}(\bar{X} - x_{i}) + \sum_{i=1}^{m}(\bar{Y} - y_{i})}{2}
-\end{align*}
-$$
-
-- _Coeficiente de correlación_
+- _Coeficiente de correlación_ ($\rho_{XY}$)
 	- Es la normalización de la covarianza 
 
 $$
 \begin{align*}
-	coefCor(X, Y) = \frac{cov(X, Y)}{S_{X}\cdot S_{Y}}
+	\rho_{XY} = \frac{\sigma_{XY}}{\sigma_{X}\cdot \sigma_{Y}}
 \end{align*}
 $$
 
 
+## Introducción al riesgo y la rentabilidad
+
+Se define _portafolio de inversión_ como un conjunto de activos financieros.
+
+Un portafolio se expresa en términos de rentabilidad y riesgo.
+
+En un mundo con total certeza sobre los sucesos no habrían riesgos (_riskfree rate_). Sin embargo, en renta variable, los riesgos están siempre presentes, y aumentan a la par del rendimiento de los flujos de caja.
+
+![](attachments/Pasted%20image%2020230514181405.png)
+
+
+
+
+
+
+
 Harry Markowitz y William Sharpe analizan el rendimiento de las acciones de dos empresas, y concluye que comprar en las dos hace que las pérdidas de una se compensen con las ganancias de la otra. Se espera que el coeficiente de correlación de las dos empresas en las que se invierte sea negativo para lograr esta compensación.
 
-Hacen una matriz de varianza - covarianza para comparar los rendimientos de las empresas $A$, $B$, $C$, $D$, $E$ . Donde $A$ con $A$ es la varianza, $A$ con $B$ es covarianza de las dos.
+Hacen una matriz de varianza - covarianza para comparar los rendimientos de las empresas $A$, $B$, $C$, $D$, $E$ . Donde $A$ con $A$ es $\sigma_{AA}$ y $A$ con $B$ es $\sigma_{AB}$.
 Las covarianzas pueden ser negativas, las varianzas no. Notemos que al comprar en A, B y C hay 6 covarianzas y 3 varianzas, si se compra en más acciones, hay incluso muchas más covarianzas que varianzas.
 Las covarianzas al restar, disminuyen el riesgo. Las varianzas suman el riesgo.
 
