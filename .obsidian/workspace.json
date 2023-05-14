@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mecanismos.md",
-                "mode": "preview",
+                "file": "Análisis de aceleración.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -26,8 +26,19 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "0e225bea8bb89a9e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/blackboard.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mecanismos.md",
+                "file": "Excalidraw/blackboard.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mecanismos.md",
+                "file": "Excalidraw/blackboard.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mecanismos.md"
+                "file": "Excalidraw/blackboard.excalidraw.md"
               }
             }
           },
@@ -191,11 +202,11 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "1d2ed4dc71007cb3",
+  "active": "0e225bea8bb89a9e",
   "lastOpenFiles": [
-    "Análisis de velocidad.md",
-    "Mecanismos.md",
     "Análisis de aceleración.md",
+    "Mecanismos.md",
+    "Análisis de velocidad.md",
     "Síntesis de mecanismos.md",
     "Optimización.md",
     "Main.md",
