@@ -290,6 +290,13 @@ $$
 \end{align*}
 $$
 
+>[!Note]
+>
+>![](attachments/Pasted%20image%2020230513213814.png)
+
+
+
+
 ---
 
 - __Ejemplo__ :
@@ -663,5 +670,63 @@ Existen una infinidad de formas de implementar secciones de segundo orden. Las m
 - Sección cuadrática de Tow-Thomas
 - Sección de Fleisher-Tow
 
+La sección de Sallen y Key para un pasabajas satisface:
 
-![](attachments/Pasted%20image%2020230513213814.png)
+$$
+\begin{align*}
+	H(s) = \frac{G\omega_{0}}{s^{2} + \frac{\omega_{0}}{Q}s + \omega_{0}^{2}}
+\end{align*}
+$$
+
+![](attachments/Pasted%20image%2020230514102651.png)
+
+Para este circuito:
+
+$$
+\begin{align*}
+	G &= u \\
+	\omega_{0}^{2} &= \frac{1}{R_{1}R_{2}C_{1}C_{2}} \\
+	\frac{\omega_{0}}{Q} &= \frac{q}{R_{1}C_{1}} + \frac{1}{R_{2}C_{2}} + \frac{1 - \mu}{R_{2}C_{2}} \\
+	\mu &= 1 + \frac{R_{b}}{R_{a}}
+\end{align*}
+$$
+
+Para el diseño se elije:
+
+$$
+\begin{align*}
+	&C_{1} = C_{2} = 1\,\,F \\
+	&R_{1} = R_{2} = R
+\end{align*}
+$$
+
+A partir de esto:
+
+$$
+\begin{align*}
+	&R = \frac{1}{\omega_{0}} \\
+	&u = 3 - \frac{1}{Q}
+\end{align*}
+$$
+
+
+---
+
+- __Ejemplo__ :
+	- Diseñar un filtro pasabajos de Butterworth
+	- Orden 4
+	- Usar 2 secciones de Sallen y Key
+	- $\omega_{p} = 2\pi\cdot2000$
+	- Usar condensadores de $50\,\,nF$
+
+
+
+
+
+
+
+
+
+
+
+
