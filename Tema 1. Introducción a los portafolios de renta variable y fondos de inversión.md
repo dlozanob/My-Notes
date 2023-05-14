@@ -103,7 +103,7 @@ $$
 
 ## Introducción al riesgo y la rentabilidad
 
-Se define _portafolio de inversión_ como un conjunto de activos financieros.
+Se define _portafolio de inversión_ o _cartera de inversión_ como un conjunto de activos financieros.
 
 Un portafolio se expresa en términos de rentabilidad y riesgo.
 
@@ -111,6 +111,27 @@ En un mundo con total certeza sobre los sucesos no habrían riesgos (_riskfree r
 
 ![](attachments/Pasted%20image%2020230514181405.png)
 
+La _rentabilidad_ de un activo se aproxima a través del valor esperado.
+La _riesgo_ o _volatilidad_ de un activo se aproxima a través de la desviación estándar.
+
+La _tasa de descuento_ o _costo de oportunidad_ es ahora:
+
+$$
+\begin{align*}
+	CO = RF + RP
+\end{align*}
+$$
+
+Donde:
+- $CO$ : Costo de oportunidad
+- $RF$ : Riskfree rate
+- $RP$ : Risk premium
+
+Análisis de riesgo:
+1. Medir y estimar el riesgo de cada activo y grupo de activos
+2. Entender cómo se modifican los cirterios de desición de los inversionistas
+3. Entender cómo el riesgo afecta a los portafolios o carteras de inversión
+4. Estimar la prima por riesgo
 
 
 
