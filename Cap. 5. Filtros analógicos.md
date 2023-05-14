@@ -291,11 +291,8 @@ $$
 $$
 
 >[!Note]
->
+>Las funciones de transferencia de estas aproximaciones se encuentran en tablas. Por ejemplo, estas son las funciones de transferencia de Butterworth (prototipo $\omega_{p} = 1$) para un orden $N$ dado:
 >![](attachments/Pasted%20image%2020230513213814.png)
-
-
-
 
 ---
 
@@ -719,10 +716,36 @@ $$
 	- $\omega_{p} = 2\pi\cdot2000$
 	- Usar condensadores de $50\,\,nF$
 
+El filtro de Butterworth normalizado para $N = 4$ está dado por:
 
+$$
+\begin{align*}
+	H(s) = \frac{G_{1}}{s^{2} + \underbrace{ 0.76536 }_{ \frac{\omega_{0}}{Q_{1}} }s + \underbrace{ 1 }_{ \omega_{0}^{2} }}\cdot \frac{G_{2}}{s^{2} + \underbrace{ 1.84775 }_{ \frac{\omega_{0}}{Q_{2}} }s + \underbrace{ 1 }_{ \omega_{0} }}
+\end{align*}
+$$
 
+De tal manera que cada polinomio de $H(s)$ representa una sección de Sallen y Key.
 
+Para la primera sección:
 
+$$
+\begin{align*}
+	C_{1,1} &= C_{2,1} = 1\,\,F \\
+	 \\\\
+	R &= \frac{1}{\omega_{0}} = 1 \to R_{1,1} = R_{2,1} = 1\,\,\,\,\Omega \\
+	\mu_{1} &= 3 - \frac{1}{Q_{1}} \\
+	&= 3 - 0.76536 = 2.23463
+\end{align*}
+$$
+
+De tal manera que (con $R_{a,1} = 4\,\,\Omega$) :
+
+$$
+\begin{align*}
+	\mu_{1} &= 1 + \frac{R_{b,1}}{R_{a,1}} \\
+	R_{b,1} &= 4.9384\,\,\Omega
+\end{align*}
+$$
 
 
 
