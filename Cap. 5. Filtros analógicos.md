@@ -929,10 +929,37 @@ Pero estos valores de condensadores son absurdos, preferiblemente estaría bien 
 
 ### Secciones de Fleischer-Tow
 
-Para un pasabajas satisface:
+Se satisface para cualquier tipo de filtro:
 
 $$
 \begin{align*}
-	H(s) = -G \frac{b_{2}}{}
+	H(s) = -G \frac{b_{2}s^{2} + b_{1}s + b_{0}}{s^{2} + a_{1}s + a_{0}}
 \end{align*}
 $$
+
+![](attachments/Pasted%20image%2020230514122455.png)
+
+Para el diseño se toma:
+
+$$
+\begin{align*}
+	C_{1} &= C_{2} = 1\,\,F \\
+	R_{1} &= \frac{1}{a_{1}} \\
+	R_{2} &= R_{3} = \frac{1}{\sqrt{ a_{0} }}
+\end{align*}
+$$
+
+Se selecciona una $R$ arbitraria, preferiblemente de $10\,\,k\Omega$
+
+$R_{4}$, $R_{5}$ y $R_{6}$ se selecionan dependiendo del tipo de filtro (pasabajas, pasaaltas, etc).
+
+| Tipo de filtro | $R_{4}$ | $R_{5}$ | $R_{6}$ |
+|-|-|-|-|
+| Pasabajas | $\infty$ | $\infty$ | $\frac{R_{2}}{G}$ |
+| Pasaaltas | $\frac{R_{1}}{G}$ |$\infty$ | $\infty$ |
+| Pasabandas | $\frac{R_{1}}{G}$ | $\frac{R}{G}$ | $\infty$ |
+| Rechazabandas | $\frac{R_{5}R_{1}}{R}$ | $\triangle$ | $\triangle$ |
+
+$\triangle$ : Se seleccionan de tal manera que se logren distintos valores para $b_{1}$ y $b_{2}$ .
+
+
