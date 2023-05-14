@@ -20,14 +20,6 @@
             }
           },
           {
-            "id": "02e1c0dead3a808c",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
             "id": "0e225bea8bb89a9e",
             "type": "leaf",
             "state": {
@@ -37,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md",
+                "file": "Análisis de aceleración.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md",
+                "file": "Análisis de aceleración.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md"
+                "file": "Análisis de aceleración.md"
               }
             }
           },
@@ -202,16 +193,19 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "0e225bea8bb89a9e",
+  "active": "1d2ed4dc71007cb3",
   "lastOpenFiles": [
+    "attachments/Pasted image 20230514144338.png",
+    "Excalidraw/blackboard.excalidraw.md",
     "Análisis de aceleración.md",
+    "attachments/Pasted image 20230514143325.png",
+    "attachments/Pasted image 20230514143313.png",
     "Mecanismos.md",
     "Análisis de velocidad.md",
     "Síntesis de mecanismos.md",
     "Optimización.md",
     "Main.md",
     "Cap. 5. Filtros analógicos.md",
-    "Excalidraw/blackboard.excalidraw.md",
     "LaTeX.md",
     "attachments/Pasted image 20230514132213.png",
     "attachments/Pasted image 20230514132143.png",
@@ -221,8 +215,6 @@
     "Excalidraw/attachments/Pasted Image 20230514120044_361.png",
     "attachments/Pasted image 20230514115958.png",
     "attachments/Pasted image 20230514114620.png",
-    "attachments/Pasted image 20230514111037.png",
-    "attachments/Pasted image 20230514110607.png",
     "Señales y Sistemas II.md",
     "conflict-files-obsidian-git.md",
     "Módulo 3. Introducción al mercado de capitales.md",
@@ -239,7 +231,6 @@
     "Tema 5. Valoración de operaciones.md",
     "Excalidraw/whiteboard.excalidraw.md",
     "Módulo 5. Teoría de portafolio.md",
-    "Tema 1. Conceptos básicos de probabilidad y estadística.md",
     "Excalidraw/attachments",
     "attachments",
     "New folder",

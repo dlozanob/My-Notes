@@ -53,4 +53,39 @@ Así mismo, las direcciones de $\vec{a}_{B}^{t}$ y $\vec{a}_{B/A}^{t}$ se conoce
 
 ## Imagen de aceleraciones
 
+Consideremos un eslabón presente en un mecanismo.
+
+![](attachments/Pasted%20image%2020230514143325.png)
+
+Se tiene que la aceleración relativa de $B$ con respecto a $C$ es:
+
+$$
+\begin{align*}
+	\vec{A}_{B/C} = \vec{A}_{B/C}^{n} + \vec{A}_{B/C}^{t}
+\end{align*}
+$$
+
+Su magnitud es:
+
+$$
+\begin{align*}
+	A_{B/C} &= \sqrt{ (A_{B/C}^{n})^{2} + (A_{B/C}^{t})^{2} } \\
+	&= \sqrt{ (BC\omega^{2})^{2} + (BC\alpha)^{2} } \\
+	&= BC\sqrt{ \omega^{4} + \alpha^{2} }
+\end{align*}
+$$
+
+Por tanto, se concluye que la aceleración relativa de cualquier punto con respecto a otro en el mismo eslabón, es proporcional a su distancia. Ya que, dentro del eslabón $\omega$ y $\alpha$ son constantes.
+
+![](attachments/Pasted%20image%2020230514144338.png)
+
+$$
+\begin{align*}
+	\frac{\bar{AC}}{AC} = \frac{\bar{AB}}{AB} = \frac{\bar{BC}}{BC} = \sqrt{ \omega^{4} + \alpha^{2} }
+\end{align*}
+$$
+
+
+## Análisis de aceleración de coriolis
+
 
