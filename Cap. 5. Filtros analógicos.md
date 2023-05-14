@@ -849,7 +849,7 @@ $$
 \end{align*}
 $$
 
-Si $G = 1$ el filtro no amplifica.
+Si $G = 1$ el filtro no amplifica y entonces $R_{2} = R_{3} = R_{4}$ .
 
 >[!Note]
 >- Se recomienda un $R = 10\,\,k\Omega$ no reescalable
@@ -873,9 +873,36 @@ $$
 \end{align*}
 $$
 
-Dejándola e
+Dejándola expresada en secciones bicuadráticas, tal que, $H_{2}(0) = H_{3}(0) = 1$ (multiplica por $\frac{1}{0.635\cdot 1.195}$):
 
+$$
+\begin{align*}
+	H(s) = \frac{\frac{0.4095}{0.635\cdot\,\,1.195}}{s + 0.5389}\cdot \frac{0.635}{s^{2} + 0.872s + 0.635}\cdot \frac{1.195}{s^{2} + 0.3331s + 1.195}
+\end{align*}
+$$
 
+Para la primera sección, debido a que es de primer orden, se usa la realización:
+
+![](attachments/Pasted%20image%2020230514120137.png)
+
+Entonces:
+
+$$
+\begin{align*}
+	R_{1,1} &= \frac{1}{b_{0,1}} = \frac{1}{0.538} = 1.85 \\\\
+	R_{2,1} &= \frac{1}{a_{0,1}} = \frac{1}{0.538} = 1.85  \\\\
+	C_{1,1} &= 1\,\,F
+\end{align*}
+$$
+
+La segunda y tercera sección son bicuadráticas deTow-Thomas.
+Para la segunda:
+
+$$
+\begin{align*}
+	R_{1,2} &= \frac{1}{a_{1,2}} = \frac{1}{0.872}
+\end{align*}
+$$
 
 
 
