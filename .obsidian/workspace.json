@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tema 1. Introducción a los portafolios de renta variable y fondos de inversión.md",
+                "file": "Tema 2. Teoría de la eficiencia de los mercados.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tema 1. Introducción a los portafolios de renta variable y fondos de inversión.md",
+                "file": "Tema 2. Teoría de la eficiencia de los mercados.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tema 1. Introducción a los portafolios de renta variable y fondos de inversión.md",
+                "file": "Tema 2. Teoría de la eficiencia de los mercados.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tema 1. Introducción a los portafolios de renta variable y fondos de inversión.md"
+                "file": "Tema 2. Teoría de la eficiencia de los mercados.md"
               }
             }
           },
@@ -196,8 +196,11 @@
   "active": "53c258fc5fd7b663",
   "lastOpenFiles": [
     "Módulo 5. Teoría de portafolio.md",
-    "Tema 2. Teoría de la eficiencia de los mercados.md",
     "Tema 1. Introducción a los portafolios de renta variable y fondos de inversión.md",
+    "attachments/Pasted image 20230514184051.png",
+    "attachments/Pasted image 20230514183628.png",
+    "attachments/Pasted image 20230514183555.png",
+    "Tema 2. Teoría de la eficiencia de los mercados.md",
     "attachments/Pasted image 20230514181405.png",
     "Excalidraw/whiteboard.excalidraw.md",
     "Excalidraw/attachments/Pasted Image 20230514181404_497.png",
@@ -221,13 +224,10 @@
     "attachments/Pasted image 20230514150059.png",
     "LaTeX.md",
     "attachments/Pasted image 20230514144338.png",
-    "attachments/Pasted image 20230514143325.png",
-    "attachments/Pasted image 20230514143313.png",
     "Análisis de velocidad.md",
     "Síntesis de mecanismos.md",
     "Optimización.md",
     "Cap. 5. Filtros analógicos.md",
-    "attachments/Pasted image 20230514132213.png",
     "conflict-files-obsidian-git.md",
     "Módulo 3. Introducción al mercado de capitales.md",
     "Excalidraw/attachments",

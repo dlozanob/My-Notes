@@ -100,6 +100,7 @@ $$
 \end{align*}
 $$
 
+Donde $-1 \leq \rho_{XY} \leq 1$ .
 
 ## Introducción al riesgo y la rentabilidad
 
@@ -127,18 +128,40 @@ Donde:
 - $RF$ : Riskfree rate
 - $RP$ : Risk premium
 
+_Risk premium_ es cuanto ganaría por encima en comparación si invierto en bonos de los Estados Unidos (son casi libres de riesgo).
+
 Análisis de riesgo:
 1. Medir y estimar el riesgo de cada activo y grupo de activos
 2. Entender cómo se modifican los cirterios de desición de los inversionistas
 3. Entender cómo el riesgo afecta a los portafolios o carteras de inversión
-4. Estimar la prima por riesgo
+4. Estimar la prima por riesgo o risk premium, para calcular la _tasa de descuento apropiado_ (CO)
+
+Posturas frente al riesgo:
+
+- _Aversión_
+	- Entre más riesgo ($\sigma$), más se invierte
+
+![](attachments/Pasted%20image%2020230502173429.png)
+
+- _Indiferencia_
+	- Si invierte lo mismo independientemente del riesgo
+
+![](attachments/Pasted%20image%2020230514183555.png)
+
+- _Propensión_
+	- Se invierte menos conforme aumenta el riesgo
+
+![](attachments/Pasted%20image%2020230514183628.png)
+
+>[!Info]
+>Una acción homogénea es aquel que es la misma para todas las personas
 
 
+## El descubrimiento de H. Markowitz y W. Sharpe
 
+Harry Markowitz y William Sharpe analizan el rendimiento de las acciones de dos empresas, y concluyen que comprar en las dos hace que las pérdidas de una se compensen con las ganancias de la otra. Se espera que el coeficiente de correlación de las dos empresas en las que se invierte sea negativo para lograr esta compensación.
 
-
-
-Harry Markowitz y William Sharpe analizan el rendimiento de las acciones de dos empresas, y concluye que comprar en las dos hace que las pérdidas de una se compensen con las ganancias de la otra. Se espera que el coeficiente de correlación de las dos empresas en las que se invierte sea negativo para lograr esta compensación.
+![](attachments/Pasted%20image%2020230514184051.png)
 
 Hacen una matriz de varianza - covarianza para comparar los rendimientos de las empresas $A$, $B$, $C$, $D$, $E$ . Donde $A$ con $A$ es $\sigma_{AA}$ y $A$ con $B$ es $\sigma_{AB}$.
 Las covarianzas pueden ser negativas, las varianzas no. Notemos que al comprar en A, B y C hay 6 covarianzas y 3 varianzas, si se compra en más acciones, hay incluso muchas más covarianzas que varianzas.
@@ -146,30 +169,8 @@ Las covarianzas al restar, disminuyen el riesgo. Las varianzas suman el riesgo.
 
 ![](attachments/Pasted%20image%2020230509170153.png)
 
-Por tanto, al armar un portafolio más grande (invertir en varias compañías al tiempo), se reduce incluso mucho más el riesgo.
+Por tanto, al armar un portafolio más grande (invertir en varias compañías al tiempo), se reduce mucho más el riesgo.
 
->No meter todos los huevos en una sola canasta
+>_No meter todos los huevos en una sola canasta_
 
-
->[!Info]
->Un _ADR (American Depositary Receipt_  de Telmex es un instrumento financiero en los mercados de valores de Estados Unidos que representa la propiedad de una acción de la compañía
-
->[!Note]
->El _arbitraje_ es comprar barato para vender caro
-
-
-
-Excel -> Análisis de datos -> Covarianza
-
-
-
-
-Una acción homogénea es aquel que es la misma para todas las personas.
-
-_risk premium_ es cuanto ganaría por encima de si voy a invertir en bonos de los estados unidos
-
-
-![](attachments/Pasted%20image%2020230502173429.png)
-
-Significa que entre más riesgo $\sigma$, más se invierte
 
