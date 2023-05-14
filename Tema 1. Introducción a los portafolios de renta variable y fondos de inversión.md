@@ -41,37 +41,44 @@ $$
 
 Donde $f_{i}$ es la frecuencia de aparición o el peso de $x_{i}$ .
 
-- _Varianza_
+- _Varianza_ ($\sigma_{X}^{2}$)
 	- Nos sirve para cuantificar el riesgo
 	- Estima la divergencia o dispersión de una variable aleatoria $x$ con respecto a su valor esperado $E[x]$
 
-$$
-\begin{align*}
-	VAR(X) &= \sigma_{X}^{2} = \frac{1}{n - 1}\sum_{i = 1}^{n}(x_{i} - E[X])^{2} = E[X - E[X]]^{2} = \\
-	&= \sum_{i = 1}^{n} (x_{i} - E(X))^{2} = fX(x)
-\end{align*}
-$$
 
-Puede ser definida también como:
+Se define la _varianza poblacional_ (todos los datos) como:
 
 $$
 \begin{align*}
-	VAR(X) = \frac{\sum(X-\bar{X})^{2}}{N}
+	VAR(X) &= \sigma_{X}^{2} = \frac{1}{n}\sum_{i = 1}^{n}(x_{i} - E[X])^{2} = E[X - E[X]]^{2} 
 \end{align*}
 $$
 
-- _Desviación estándar_ 
+Ahora bien, si se toma una porción de los datos y se estima la varianza, esta debería ser mayor que la varianza poblacional (por eso $n \to n - 1$).
+A esta varianza se le llama _varianza muestral_ y se define como:
 
 $$
 \begin{align*}
-	S = \sqrt{ VAR(X) }
+	VAR(X) &= \sigma_{X}^{2} = \frac{1}{n - 1}\sum_{i = 1}^{n}(x_{i} - E[X])^{2}
 \end{align*}
 $$
 
-- _Covarianza_
+>[!Note]
+>- La varianza muestral se usa en el cálculo de valores del pasado
+>- Cuando en el cálculo intervienen retornos estimados sobre la ocurrencia de posibles escenarios, se usa la varianza poblacional
+
+- _Desviación estándar_ ($\sigma_{X}$)
+
+$$
+\begin{align*}
+	\sigma_{X} = \sqrt{ VAR(X) }
+\end{align*}
+$$
+
+- _Covarianza_ ($\sigma_{XY}$)
 	- Mide la relación entre dos variables aleatorias
 
-	$$
+ $$
 	\begin{align*}
 		cov(X, Y) = \frac{1}{n}\sum_{i=1}^{n}(x_{i} - E[X])(y_{i} - E[Y]) = E[(X_{i} - E[X])(Y_{i} - E[Y])]
 	\end{align*}
