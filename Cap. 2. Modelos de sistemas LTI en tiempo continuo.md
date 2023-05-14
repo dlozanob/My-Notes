@@ -594,7 +594,7 @@ Las variables internas no pueden ser controladas de ninguna manera.
 
 Se distinguen por sus magnitudes espaciales.
 
-- _Sistema concentrado_ : Sus elementos son discretizaciones. Son los modelos comunes y corrientes que se han venido trabajando.
+- _Sistema concentrado (lumped)_ : Sus elementos son discretizaciones. Son los modelos comunes y corrientes que se han venido trabajando.
 
 Características:
 	- Sus variables son función del tiempo
@@ -605,7 +605,7 @@ Características:
 	- Sus ecuaciones de estado tienen dimensión finita
 	- Tienen una respuesta infinita al impulso (IIR)
 
-- _Sistema distribuido_ : Existe continuidad, tiene infinitos elementos.
+- _Sistema distribuido (distributed)_ : Existe continuidad, tiene infinitos elementos.
 
 Características:
 	- Sus variables son función del tiempo y el espacio

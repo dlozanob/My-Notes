@@ -11,8 +11,12 @@
             "id": "53c258fc5fd7b663",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Señales y Sistemas II.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -85,6 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Señales y Sistemas II.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Señales y Sistemas II.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +128,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Señales y Sistemas II.md"
+              }
             }
           },
           {
@@ -177,6 +185,10 @@
   },
   "active": "53c258fc5fd7b663",
   "lastOpenFiles": [
+    "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
+    "Señales y Sistemas II.md",
+    "Cap. 4. Análisis cualitativo de sistemas LTI.md",
+    "Cap. 3. Solución de las ecuaciones de estado de sistemas LTI.md",
     "Linux commands.md",
     "Cybersec.md",
     "Main.md",
@@ -198,7 +210,6 @@
     "attachments/Pasted image 20230514122455.png",
     "attachments/Pasted image 20230514122035.png",
     "attachments/Pasted image 20230514120137.png",
-    "Señales y Sistemas II.md",
     "conflict-files-obsidian-git.md",
     "Módulo 3. Introducción al mercado de capitales.md",
     "Finanzas.md",
@@ -210,9 +221,6 @@
     "Tema 3. Introducción a los mercados de capitales.md",
     "Tema 1. Infraestructura de los mercados financieros.md",
     "Tema 2. Tipos de bonos y sus características.md",
-    "Ingeniería Económica.md",
-    "Tema 5. Valoración de operaciones.md",
-    "Excalidraw/whiteboard.excalidraw.md",
     "Excalidraw/attachments",
     "attachments",
     "New folder",
