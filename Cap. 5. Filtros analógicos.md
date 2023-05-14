@@ -594,12 +594,14 @@ Se deben hallar los $\omega_{i},\,\, i=\{1, 2, \dots, N\}$, tal que, en la banda
 >[!Note]
 >- Estos filtros también reciben el nombre de _filtros equirizados_, ya que, se busca que el rizado de la banda de paso sea igual al de la banda de rechazo
 >- El cálculo de las frecuencias $\omega_{i}$ implica rutinas de optimización y la resolución de integrales elípticas
+>- Estos filtros producen valores grandes de $\angle H(s)$
 >- En Matlab:
 >	- `ellipord` obtiene el orden de un filtro elíptico
 >	- `ellip` diseña un filtro elíptico
 >	- `poly2sim` transforma un polinomio a simbólico
 >	- `collect(<función>)` imprime la función con estética LaTeX
 >	- `subs(<función>, <valor a sustituir>, <sustitución>` sustituye un valor dentro de una función
+
 
 >[!Info]
 >Los osciloscopios la mayoría de las veces traen implementada una onda _chirp_ :
@@ -879,7 +881,9 @@ $$
 Si $G = 1$ el filtro no amplifica y entonces $R_{2} = R_{3} = R_{4}$ .
 
 >[!Note]
->- Se recomienda un $R = 10\,\,k\Omega$ no reescalable
+>- Se recomienda un $R = 10\,\,k\Omega$ no reescalable. Se elige este valor, ya que, es intermedio y los operacionales funcionan bien
+>	- Si se seleccionan resistencias muy grandes, la corriente de fuga crece y se generan errores
+>	![](attachments/Pasted%20image%2020230514132213.png)
 >- La sección de Sallen y Key es más recomendable para frecuencias superiores
 >- Las secciones de Tow-Thomas:
 >	- Tienen ecuaciones de diseño más sencillas (no dependen de muchas variables)

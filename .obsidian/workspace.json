@@ -18,16 +18,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "1271b38102b3e3dc",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md"
-              }
-            }
           }
         ]
       }
@@ -196,8 +186,10 @@
   "active": "1d2ed4dc71007cb3",
   "lastOpenFiles": [
     "Excalidraw/blackboard.excalidraw.md",
-    "LaTeX.md",
     "Cap. 5. Filtros analógicos.md",
+    "LaTeX.md",
+    "attachments/Pasted image 20230514132213.png",
+    "attachments/Pasted image 20230514132143.png",
     "attachments/Pasted image 20230514122455.png",
     "attachments/Pasted image 20230514122035.png",
     "attachments/Pasted image 20230514120137.png",
@@ -206,8 +198,6 @@
     "attachments/Pasted image 20230514114620.png",
     "attachments/Pasted image 20230514111037.png",
     "attachments/Pasted image 20230514110607.png",
-    "attachments/Pasted image 20230514110054.png",
-    "attachments/Pasted image 20230514105809.png",
     "Señales y Sistemas II.md",
     "conflict-files-obsidian-git.md",
     "Módulo 3. Introducción al mercado de capitales.md",
@@ -230,7 +220,6 @@
     "Tema 2. Introducción al riesgo.md",
     "Fundamentos de cinemática de mecanismos.md",
     "Servomecanismos.md",
-    "Mecanismos.md",
     "Excalidraw/attachments",
     "attachments",
     "New folder",
