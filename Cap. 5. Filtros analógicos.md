@@ -295,6 +295,7 @@ $$
 >[!Note]
 >Las funciones de transferencia de estas aproximaciones se encuentran en tablas. Por ejemplo, estas son las funciones de transferencia de Butterworth (prototipo $\omega_{p} = 1$) para un orden $N$ dado:
 >![](attachments/Pasted%20image%2020230513213814.png)
+>Notemos que están representadas en secciones cuadráticas
 
 ---
 
@@ -659,6 +660,9 @@ Se cumple para esta transformación $s = k\bar{s}$ .
 
 Análogamente, se deducen las otras transformaciones.
 
+>[!Note]
+>En Matlab `lp2lp` (lowpass to lowpass) convierte un filtro prototipo pasabajas a uno de cualquier frecuencia
+
 
 ## Realización de filtros
 
@@ -677,6 +681,10 @@ Existen una infinidad de formas de implementar secciones de segundo orden. Las s
 - Sección cuadrática de Sallen y Key
 - Sección cuadrática de Tow-Thomas
 - Sección de Fleischer-Tow
+
+>[!Note]
+>- Se recomienda dejar las funciones de transferencia expresadas en secciones cuadráticas, ya que, las secciones bicuadráticas usan estos polinomios para la implementación. De esta manera salen en tablas de acuerdo a la aproximación del filtro
+>- En Matlab `tf2sos` deja expresadas las funciones de transferencia en secciones de segundo orden
 
 
 ### Secciones de Sallen y Key
@@ -765,8 +773,9 @@ $$
 $$
 
 >[!Note]
-> Las secciones de Sallen y Key casi no se usan, ya que, el diseño se vuelve difícil porque se complican las ecuaciones de diseño al depender estas de varias variables.
-> Por tanto
+>Las secciones de Sallen y Key casi no se usan, ya que, el diseño se vuelve difícil porque se complican las ecuaciones de diseño al depender estas de varias variables.
+>Por tanto, se recomienda usarlas únicamente en pasabajas y pasaaltas
+
 
 ---
 
@@ -872,7 +881,9 @@ Si $G = 1$ el filtro no amplifica y entonces $R_{2} = R_{3} = R_{4}$ .
 >[!Note]
 >- Se recomienda un $R = 10\,\,k\Omega$ no reescalable
 >- La sección de Sallen y Key es más recomendable para frecuencias superiores
-
+>- Las secciones de Tow-Thomas:
+>	- Tienen ecuaciones de diseño más sencillas (no dependen de muchas variables)
+>	- Requieren más operacionales
 
 ---
 
