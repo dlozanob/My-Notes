@@ -100,7 +100,7 @@ $$
 
 Siendo así, un eslabón presentará aceleración de coriolis si se desplaza longitudinalmente sobre uno que rota.
 
-![](attachments/Pasted%20image%2020230514150059.png)
+![](attachments/Pasted%20image%2020230514150846.png)
 
 Entonces, el componente de coriolis de la aceleración relativa de $B$ con respecto $A$ es:
 
@@ -109,12 +109,6 @@ $$
 	\vec{a}_{B/A}^{c} = 2\omega \times \vec{v}_{B/A}
 \end{align*}
 $$
-
-
-
-
-
-
 
 
 >[!Info]
