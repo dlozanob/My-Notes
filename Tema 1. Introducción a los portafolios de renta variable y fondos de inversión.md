@@ -1,4 +1,8 @@
-# Conceptos básicos de probabilidad y estadística
+
+# Introducción a los portafolios de renta variable y fondos de inversión
+
+
+## Conceptos básicos de probabilidad y estadística
 
 Un experimento aleatorio es aquel que bajo las mismas condiciones iniciales, los resultados pueden ser distintos.
 

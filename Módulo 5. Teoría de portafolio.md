@@ -2,9 +2,10 @@
 
 ![](attachments/Pasted%20image%2020230504181901.png)
 
-- [Tema 1. Conceptos básicos de probabilidad y estadística](Tema%201.%20Conceptos%20básicos%20de%20probabilidad%20y%20estadística.md)
-- [Tema 2. Introducción al riesgo](Tema%202.%20Introducción%20al%20riesgo)
-
+- [Tema 1. Introducción a los portafolios de renta variable y fondos de inversión](Tema%201.%20Introducción%20a%20los%20portafolios%20de%20renta%20variable%20y%20fondos%20de%20inversión.md)
+- [Tema 2. Teoría de la eficiencia de los mercados](Tema%202.%20Teoría%20de%20la%20eficiencia%20de%20los%20mercados.md)
+- [[Tema 3. Medición del rendimiento y del riesgo]]
+- [[Tema 4. Modelo CAPM; SML; CML y APT]]
 
 
 Algunos nobel en enconomía son:
@@ -31,6 +32,8 @@ Algunos nobel en enconomía son:
 	- Aplicó la teoría del control óptimo
 - Franco Modigliani (1985)
 	- Economista neokeynesiano
+	- Desarrolló el terema de Modigliani-Miller
+	- Trabajó en la teoría del consumo y en las finanzas corporativas
 
 
 
