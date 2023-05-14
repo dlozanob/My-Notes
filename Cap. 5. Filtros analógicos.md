@@ -24,6 +24,8 @@ Tipos de filtros:
 >- $\omega_{c}$ : Frecuencia de cruce
 >- Los filtros pasabandas se usan en equipos biomédicos, ya que, eliminan el ruido que se encuentra a ciertas frecuencias
 >- Los _State Variable Filters_ son chips que tienen varios computadores analógicos integrados (normalmente de $2^{nd}$ orden)
+>- Los rechazabandas se usan para eliminar los $50$ o $60\,\,Hz$ provenientes de la red urbana
+>- En filtros se habla de la relación señal a ruido: $\frac{S}{N}$
 
 ## Realización física de los filtros
 
@@ -595,6 +597,7 @@ Se deben hallar los $\omega_{i},\,\, i=\{1, 2, \dots, N\}$, tal que, en la banda
 >	- `ellipord` obtiene el orden de un filtro elíptico
 >	- `ellip` diseña un filtro elíptico
 >	- `poly2sim` transforma un polinomio a simbólico
+>	- `collect(<función>)` imprime la función con estética LaTeX
 >	- `subs(<función>, <valor a sustituir>, <sustitución>` sustituye un valor dentro de una función
 
 >[!Info]
@@ -641,6 +644,9 @@ A partir del filtro prototipo pasabajas con $\omega_{p} = 1$, se pueden obtener 
 | Pasabandas | $\bar{\omega}_{PL}$, $\bar{\omega}_{PU}$ | $s = \frac{\bar{s}^{2} + \bar{\omega}_{PL}\bar{\omega}_{PU}}{\bar{s}(\bar{\omega}_{PU} - \bar{\omega}_{PL})}$ |
 | Rechazabandas | $\omega_{SL}$, $\omega_{SU}$ | $s = \frac{\bar{s}(\bar{\omega}_{SU} - \bar{\omega}_{SL})\omega_{s}}{\bar{s}^{2} + \bar{\omega}_{SL}\bar{\omega}_{SU}}$ |
 | Rechazabandas | $\omega_{PL}$, $\omega_{PU}$ | $s = \frac{\bar{s}(\bar{\omega}_{PU} - \bar{\omega}_{PL})}{\bar{s}^{2} + \bar{\omega}_{PU}\bar{\omega}_{PL}}$ |
+
+>[!Note]
+>En un pasabandas se duplica el orden (tiene un $s^{2}$). Tiene sentido, ya que, se puede interpretar como la suma de un pasabajas con un pasaaltas
 
 Para el caso del pasabajas, la transformación satisface:
 
@@ -714,6 +720,9 @@ $$
 \end{align*}
 $$
 
+>[!Note]
+>$Q$ (_quality factor_) : Es un factor que hace que $\frac{\omega_{0}}{Q} \to 0$ para que el filtro tenga polos complejos, lo que genera una mayor resonancia
+
 ---
 
 Ahora bien, la sección para un pasaaltas satisface:
@@ -755,6 +764,9 @@ $$
 \end{align*}
 $$
 
+>[!Note]
+> Las secciones de Sallen y Key casi no se usan, ya que, el diseño se vuelve difícil porque se complican las ecuaciones de diseño al depender estas de varias variables.
+> Por tanto
 
 ---
 
