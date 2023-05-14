@@ -662,7 +662,7 @@ Con _secciones de segundo orden_ (_bicuadráticas_) es posible construir filtros
 | Pasabandas | $H(s) = \pm \frac{Gb_{1}s}{s^{2} + a_{1}s + a_{0}}$ |
 | Rechazabandas | $H(s) = \pm \frac{b_{2}s^{2} + b_{0}}{s^{2} + a_{1}s + a_{0}}$ |
 
-Existen una infinidad de formas de implementar secciones de segundo orden. Las más significativas son:
+Existen una infinidad de formas de implementar secciones de segundo orden. Las secciones bicuadráticas más significativas son:
 - Sección cuadrática de Sallen y Key
 - Sección cuadrática de Tow-Thomas
 - Sección de Fleisher-Tow
@@ -704,7 +704,7 @@ A partir de esto:
 $$
 \begin{align*}
 	&R = \frac{1}{\omega_{0}} \\
-	&u = 3 - \frac{1}{Q}
+	&\mu = 3 - \frac{1}{Q}
 \end{align*}
 $$
 
@@ -734,11 +734,20 @@ Para el diseño se elije:
 
 $$
 \begin{align*}
-	&C_{1} = C_{2} = 1\,\,F  \\
-	
+	&C_{1} = C_{2} = 1\,\,F  \\\\
+	&a_{0} = \frac{1}{R_{1}R_{2}}  \\\\
+	&a_{1} = \frac{2}{R_{2}} + \frac{1 - \mu}{R_{1}}
 \end{align*}
 $$
 
+Donde:
+
+$$
+\begin{align*}
+	R_{2} &= \frac{\sqrt{ 8a_{0}(\mu - 1) + a_{1}^{2} } - a_{1}}{2(\mu - 1)a_{0}} \\\\
+	R_{1} &= \frac{1}{a_{0}R_{2}}
+\end{align*}
+$$
 
 
 ---
@@ -813,6 +822,58 @@ Por último, debe desnormalizarse. Sabiendo que $\omega_{0} = 2\pi\cdot2000$ , e
 No obstante, en el enunciado, uno de los requerimientos es que los condensadores sean de $50\,\,nF$ , por tanto, se multiplican todos los componentes por un factor $K_{z} = \frac{79.57747}{0.05} = 1591.54$ :
 
 ![](attachments/Pasted%20image%2020230514110607.png)
+
+
+### Secciones de Tow-Thomas
+
+Sabiendo que la función de transferencia de un pasabajas es:
+
+$$
+\begin{align*}
+	H(s) = \frac{Ga_{0}}{s^{2} + a_{1}s + a_{0}}
+\end{align*}
+$$
+
+Una realización que usa el mínimo número de operaciones fue propuesta por Tow-Thomas:
+
+![](attachments/Pasted%20image%2020230514114620.png)
+
+Para el diseño se toma:
+
+$$
+\begin{align*}
+	C_{1} &= C_{2} = 1\,\,F \\
+	R_{1} &= \frac{1}{a_{1}}  \\
+	R_{2} &= R_{3} = \frac{1}{\sqrt{ a_{0} }} \\
+	R_{4} &= \frac{R_{3}}{G} = \frac{1}{G\sqrt{ a_{0} }}
+\end{align*}
+$$
+
+Si $G = 1$ el filtro no amplifica.
+
+>[!Note]
+>- Se recomienda un $R = 10\,\,k\Omega$ no reescalable
+>- La sección de Sallen y Key es más recomendable para frecuencias superiores
+
+
+---
+
+- __Ejemplo__ :
+	- Diseñar filtro pasabajas de Chebyshev tipo 1
+	- Usar secciones de Tow-Thomas
+	- $f = 5000\,\,Hz$
+	- $\alpha_{p} = 0.1$
+	- $N = 5$
+
+Usando tablas, se halla una función de transferencia de Chebyschev tipo 1 de orden 5:
+
+$$
+\begin{align*}
+	H(s) = \frac{0.4095}{(s^{2} + 0.872s + 0.635)(s^{2} + 0.3331s + 1.195)(s + 0.5389)}
+\end{align*}
+$$
+
+Dejándola e
 
 
 
