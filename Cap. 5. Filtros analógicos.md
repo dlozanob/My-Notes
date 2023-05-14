@@ -541,7 +541,7 @@ Ahora bien, haciendo $1 - M\left( \frac{1}{\omega^{2}} \right)$ se llega a la ex
 
 $$
 \begin{align*}
-	M_{\omega^{2}} &= \frac{\varepsilon^{2}V_{N}^{2}\left( \frac{1}{\omega} \right)}{1 + \varepsilon^{2}V_{N}^{2}\left( \frac{1}{\omega} \right)} \\\\
+	M(\omega^{2}) &= \frac{\varepsilon^{2}V_{N}^{2}\left( \frac{1}{\omega} \right)}{1 + \varepsilon^{2}V_{N}^{2}\left( \frac{1}{\omega} \right)} \\\\
 	|H(j\omega)| &= \frac{\varepsilon V_{N}\left( \frac{1}{\omega} \right)}{\sqrt{ 1 + \varepsilon^{2}V_{N}^{2}\left( \frac{1}{\omega} \right) }}
 \end{align*}
 $$
