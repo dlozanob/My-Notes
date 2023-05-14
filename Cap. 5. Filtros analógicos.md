@@ -665,7 +665,8 @@ Con _secciones de segundo orden_ (_bicuadráticas_) es posible construir filtros
 Existen una infinidad de formas de implementar secciones de segundo orden. Las secciones bicuadráticas más significativas son:
 - Sección cuadrática de Sallen y Key
 - Sección cuadrática de Tow-Thomas
-- Sección de Fleisher-Tow
+- Sección de Fleischer-Tow
+
 
 ### Secciones de Sallen y Key
 
@@ -861,7 +862,7 @@ Si $G = 1$ el filtro no amplifica y entonces $R_{2} = R_{3} = R_{4}$ .
 - __Ejemplo__ :
 	- Diseñar filtro pasabajas de Chebyshev tipo 1
 	- Usar secciones de Tow-Thomas
-	- $f = 5000\,\,Hz$
+	- $f = 500\,\,Hz$
 	- $\alpha_{p} = 0.1$
 	- $N = 5$
 
@@ -880,6 +881,11 @@ $$
 	H(s) = \frac{\frac{0.4095}{0.635\cdot\,\,1.195}}{s + 0.5389}\cdot \frac{0.635}{s^{2} + 0.872s + 0.635}\cdot \frac{1.195}{s^{2} + 0.3331s + 1.195}
 \end{align*}
 $$
+
+Se corresponde a:
+
+![](attachments/Pasted%20image%2020230514122035.png)
+
 
 Para la primera sección, debido a que es de primer orden, se usa la realización:
 
@@ -900,9 +906,33 @@ Para la segunda:
 
 $$
 \begin{align*}
-	R_{1,2} &= \frac{1}{a_{1,2}} = \frac{1}{0.872}
+	R_{1,2} &= \frac{1}{a_{1,2}} = \frac{1}{0.872} = 1.14 \\\\
+	R_{2,2} &= R_{3,2} = R_{4,2} = \frac{1}{\sqrt{ a_{0,2} }} = \frac{1}{\sqrt{ 0.635 }} = 1.25 \\\\
+	C_{1,2} &= C_{2,2} = 1\,\,F
 \end{align*}
 $$
 
+Así mismo, para la tercera sección:
+
+$$
+\begin{align*}
+	R_{1,3} &= \frac{1}{a_{1,3}} = \frac{1}{0.331} = 3 \\\\
+	R_{2,3} &= R_{3,3} = R_{4,3} = \frac{1}{\sqrt{ a_{0,3} }} = \frac{1}{\sqrt{ 1.195 }} = 0.9148 \\\\
+	C_{1,3} &= C_{2,3} = 1\,\,F
+\end{align*}
+$$
+
+La frecuencia de corte es de $\omega_{p} = 2\pi\cdot 5000 = 1000\pi$ , se desnormaliza el filtro escalando los condensadores por un factor $K_{f} = \frac{1}{1000\pi}$ , entonces $C = 318.3  \mu F$ .
+
+Pero estos valores de condensadores son absurdos, preferiblemente estaría bien usar $C = 10  nF$ . Siendo así, se reescalan los componentes por un factor $K_{z} = \frac{318.3\,\,\mu F}{10\,\,NF} = 31830$ .
 
 
+### Secciones de Fleischer-Tow
+
+Para un pasabajas satisface:
+
+$$
+\begin{align*}
+	H(s) = -G \frac{b_{2}}{}
+\end{align*}
+$$
