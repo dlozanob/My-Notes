@@ -645,5 +645,23 @@ Se cumple para esta transformación $s = k\bar{s}$ .
 Análogamente, se deducen las otras transformaciones.
 
 
+## Realización de filtros
+
+Ahora bien, se busca implementar la teoría abordada para plantear los diseños de los circuitos eléctricos que hacen su rol de filtrado.
+
+Con _secciones de segundo orden_ (_bicuadráticas_) es posible construir filtros de cualquier orden.
+
+| Filtro | Función de transferencia |
+|-|-|
+| Pasabajas | $H(s) = \pm \frac{Gb_{0}}{s^{2} + b_{1}s + b_{0}}$ |
+| Pasaaltas | $H(s) = \pm \frac{Gs^{2}}{s^{2} + b_{1}s + b_{0}}$ |
+| Pasabandas | $H(s) = \pm \frac{Gb_{1}s}{s^{2} + a_{1}s + a_{0}}$ |
+| Rechazabandas | $H(s) = \pm \frac{b_{2}s^{2} + b_{0}}{s^{2} + a_{1}s + a_{0}}$ |
+
+Existen una infinidad de formas de implementar secciones de segundo orden. Las más significativas son:
+- Sección cuadrática de Sallen y Key
+- Sección cuadrática de Tow-Thomas
+- Sección de Fleisher-Tow
 
 
+![](attachments/Pasted%20image%2020230513213814.png)
