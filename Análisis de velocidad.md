@@ -121,6 +121,8 @@ Donde $\vec{V}_{C/A}$ es perpendicular a $\bar{AC}$ y $\vec{V}_{C/B}$ es perpend
 El punto de intersección determina las magnitudes de $\vec{V}_{C/A}$ y $\vec{V}_{C/B}$ . Por tanto, se halla $V_{C}$ .
 
 
+>[!Info]
+>Se recomienda usar _Spyder_ para python y matlab
 
 
 

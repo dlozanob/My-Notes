@@ -13,10 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Análisis de aceleración.md",
-                "mode": "source",
+                "file": "Mecanismos.md",
+                "mode": "preview",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "02e1c0dead3a808c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -89,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Análisis de aceleración.md",
+                "file": "Mecanismos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Análisis de aceleración.md",
+                "file": "Mecanismos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Análisis de aceleración.md"
+                "file": "Mecanismos.md"
               }
             }
           },
@@ -185,8 +193,12 @@
   },
   "active": "1d2ed4dc71007cb3",
   "lastOpenFiles": [
+    "Análisis de velocidad.md",
     "Mecanismos.md",
     "Análisis de aceleración.md",
+    "Síntesis de mecanismos.md",
+    "Optimización.md",
+    "Main.md",
     "Cap. 5. Filtros analógicos.md",
     "Excalidraw/blackboard.excalidraw.md",
     "LaTeX.md",
@@ -217,10 +229,6 @@
     "Excalidraw/whiteboard.excalidraw.md",
     "Módulo 5. Teoría de portafolio.md",
     "Tema 1. Conceptos básicos de probabilidad y estadística.md",
-    "Obsidian Basics.md",
-    "formulas.md",
-    "Tema 2. Introducción al riesgo.md",
-    "Fundamentos de cinemática de mecanismos.md",
     "Excalidraw/attachments",
     "attachments",
     "New folder",

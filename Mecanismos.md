@@ -25,6 +25,3 @@
 
 
 ---
-
->[!Note]
->Se recomienda usar _Spyder_ para python y matlab
