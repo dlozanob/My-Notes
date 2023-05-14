@@ -594,7 +594,7 @@ Se deben hallar los $\omega_{i},\,\, i=\{1, 2, \dots, N\}$, tal que, en la banda
 >[!Note]
 >- Estos filtros también reciben el nombre de _filtros equirizados_, ya que, se busca que el rizado de la banda de paso sea igual al de la banda de rechazo
 >- El cálculo de las frecuencias $\omega_{i}$ implica rutinas de optimización y la resolución de integrales elípticas
->- Estos filtros producen valores grandes de $\angle H(s)$
+>- Estos filtros producen valores grandes de $\angle H(s)$ -> desfase
 >- En Matlab:
 >	- `ellipord` obtiene el orden de un filtro elíptico
 >	- `ellip` diseña un filtro elíptico
@@ -604,8 +604,9 @@ Se deben hallar los $\omega_{i},\,\, i=\{1, 2, \dots, N\}$, tal que, en la banda
 
 
 >[!Info]
->Los osciloscopios la mayoría de las veces traen implementada una onda _chirp_ :
+>- Los osciloscopios la mayoría de las veces traen implementada una onda _chirp_ :
 >![](attachments/Pasted%20image%2020230507121650.png)
+>- Los filtros de Bessel son usados en producción musical para eliminar el desfase
 
 
 Si comparamos los filtros vistos hasta el momento:
