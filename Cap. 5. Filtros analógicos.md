@@ -623,7 +623,7 @@ $$
 
 Si $a_{i}$, $b_{i}$ y $k$ son reales, entonces $f(\bar{s})$ es una función compleja.
 
-A partir del filtro prototipo pasabajas con $\omega_{p} = 1$, se pueden obtener distintos tipos de filtros especificando sus frecuencias de corte.
+A partir del filtro prototipo pasabajas con $\omega_{p} = 1$, se pueden obtener distintos tipos de filtros para cualquier frecuencia de corte.
 
 | Filtro | Parámetros | Transformación |
 |-|-|-|
