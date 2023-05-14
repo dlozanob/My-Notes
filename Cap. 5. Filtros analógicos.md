@@ -708,6 +708,7 @@ $$
 \end{align*}
 $$
 
+---
 
 Ahora bien, la sección para un pasaaltas satisface:
 
@@ -716,6 +717,12 @@ $$
 	H(s) = \frac{Gs^{2}}{s^{2} + \frac{\omega_{0}}{Q}s + \omega_{0}^{2}}
 \end{align*}
 $$
+
+![](attachments/Pasted%20image%2020230514111037.png)
+
+
+
+
 
 
 ---
