@@ -43,7 +43,7 @@ Para ser realizado físicamente, el filtro debe aproximarse. El modelo tendrá l
 
 ![](attachments/Pasted%20image%2020230501104248.png)
 
-Al intervalo $\omega_{s} - \omega_{p}$ se le llama banda de transición.
+Al intervalo $\omega_{s} - \omega_{p}$ se le llama _banda de transición_.
 
 >[!Note]
 >Se busca que $A_{0} = 1$
@@ -155,7 +155,7 @@ $$
 \end{align*}
 $$
 
-Sse debe hallar un $H(s)$ que la aproxime.
+Se debe hallar un $H(s)$ que la aproxime.
 
 Se halla el $|H(j\omega)|$ que satisface las especificaciones:
 
