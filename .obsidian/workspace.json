@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cap. 5. Filtros analógicos.md",
+                "file": "Análisis de aceleración.md",
                 "mode": "source",
                 "source": false
               }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cap. 5. Filtros analógicos.md",
+                "file": "Análisis de aceleración.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cap. 5. Filtros analógicos.md",
+                "file": "Análisis de aceleración.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cap. 5. Filtros analógicos.md"
+                "file": "Análisis de aceleración.md"
               }
             }
           },
@@ -185,8 +185,10 @@
   },
   "active": "1d2ed4dc71007cb3",
   "lastOpenFiles": [
-    "Excalidraw/blackboard.excalidraw.md",
+    "Mecanismos.md",
+    "Análisis de aceleración.md",
     "Cap. 5. Filtros analógicos.md",
+    "Excalidraw/blackboard.excalidraw.md",
     "LaTeX.md",
     "attachments/Pasted image 20230514132213.png",
     "attachments/Pasted image 20230514132143.png",
@@ -219,7 +221,6 @@
     "formulas.md",
     "Tema 2. Introducción al riesgo.md",
     "Fundamentos de cinemática de mecanismos.md",
-    "Servomecanismos.md",
     "Excalidraw/attachments",
     "attachments",
     "New folder",

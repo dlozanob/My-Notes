@@ -51,5 +51,6 @@ Así mismo, las direcciones de $\vec{a}_{B}^{t}$ y $\vec{a}_{B/A}^{t}$ se conoce
 ![](attachments/Pasted%20image%2020230507180610.png)
 
 
+## Imagen de aceleraciones
 
 

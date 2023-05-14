@@ -20,6 +20,9 @@
 - [x] Análisis de velocidad gráfico
 - [x] Matlab velocidad + imagen
 - [ ] Tarea optimización 
+- [ ] Actividad: Análisis de velocidad de mecanismos
+
+
 
 ---
 
