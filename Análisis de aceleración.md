@@ -88,4 +88,34 @@ $$
 
 ## Análisis de aceleración de coriolis
 
+Está presente cuando el vector de velocidad relativa entre dos puntos cambia.
 
+La aceleración de coriolis de una partícula es:
+
+$$
+\begin{align*}
+	a^{c} = 2\dot{\theta}\dot{r}
+\end{align*}
+$$
+
+Siendo así, un eslabón presentará aceleración de coriolis si se desplaza longitudinalmente sobre uno que rota.
+
+![](attachments/Pasted%20image%2020230514150059.png)
+
+Entonces, el componente de coriolis de la aceleración relativa de $B$ con respecto $A$ es:
+
+$$
+\begin{align*}
+	\vec{a}_{B/A}^{c} = 2\omega \times \vec{v}_{B/A}
+\end{align*}
+$$
+
+
+
+
+
+
+
+
+>[!Info]
+>Se le llama _diseño de adaptación_ al proceso de diseñar sobre un diseño ya existente
