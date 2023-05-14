@@ -667,6 +667,8 @@ Existen una infinidad de formas de implementar secciones de segundo orden. Las m
 - Sección cuadrática de Tow-Thomas
 - Sección de Fleisher-Tow
 
+### Secciones de Sallen y Key
+
 La sección de Sallen y Key para un pasabajas satisface:
 
 $$
@@ -707,6 +709,15 @@ $$
 $$
 
 
+Ahora bien, la sección para un pasaaltas satisface:
+
+$$
+\begin{align*}
+	H(s) = \frac{Gs^{2}}{s^{2} + \frac{\omega_{0}}{Q}s + \omega_{0}^{2}}
+\end{align*}
+$$
+
+
 ---
 
 - __Ejemplo__ :
@@ -731,8 +742,8 @@ Para la primera sección:
 $$
 \begin{align*}
 	C_{1,1} &= C_{2,1} = 1\,\,F \\
-	 \\\\
-	R &= \frac{1}{\omega_{0}} = 1 \to R_{1,1} = R_{2,1} = 1\,\,\,\,\Omega \\
+	 \\
+	R = \frac{1}{\omega_{0}} = 1\,\,\Omega &\to R_{1,1} = R_{2,1} = 1\,\,\,\,\Omega \\\\
 	\mu_{1} &= 3 - \frac{1}{Q_{1}} \\
 	&= 3 - 0.76536 = 2.23463
 \end{align*}
@@ -747,7 +758,38 @@ $$
 \end{align*}
 $$
 
+Paa la segunda sección:
 
+$$
+\begin{align*}
+	C_{1,2} &= C_{2,2} = 1\,\,F \\
+	 \\
+	R = \frac{1}{\omega_{0}} = 1\,\,\Omega &\to R_{1,2} = R_{2,2} = 1\,\,\,\,\Omega \\\\
+	\mu_{1} &= 3 - \frac{1}{Q_{2}} \\
+	&= 3 - 1.84775 = 1.15224
+\end{align*}
+$$
+
+Así mismo (con $R_{a,2} = 4\,\,\Omega$) :
+
+$$
+\begin{align*}
+	\mu_{2} &= 1 + \frac{R_{b,2}}{R_{a,2}} \\
+	R_{b,2} &= 0.6089\,\,\Omega
+\end{align*}
+$$
+
+El filtro queda de la siguiente manera:
+
+![](attachments/Pasted%20image%2020230514105809.png)
+
+Por último, debe desnormalizarse. Sabiendo que $\omega_{0} = 2\pi\cdot2000$ , entonces se dividen los condensadores por un factor $K_{f} = 2\pi\cdot 2000$ :
+
+![](attachments/Pasted%20image%2020230514110054.png)
+
+No obstante, en el enunciado, uno de los requerimientos es que los condensadores sean de $50\,\,nF$ , por tanto, se multiplican todos los componentes por un factor $K_{z} = \frac{79.57747}{0.05} = 1591.54$ :
+
+![](attachments/Pasted%20image%2020230514110607.png)
 
 
 
