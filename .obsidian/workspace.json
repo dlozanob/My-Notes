@@ -11,11 +11,28 @@
             "id": "105d8115592bed4f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Síntesis de mecanismos.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "08423d317de445d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Optimización.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Optimización.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Optimización.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +141,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Optimización.md"
+              }
             }
           },
           {
@@ -147,7 +168,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"\"",
+                "query": "\"línea recta\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -174,8 +195,9 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "abed2df76f33d216",
+  "active": "08423d317de445d6",
   "lastOpenFiles": [
+    "Síntesis de mecanismos.md",
     "Cap. 1. Modelos de sistemas lineales y no lineales.md",
     "Señales y Sistemas II.md",
     "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
@@ -210,7 +232,6 @@
     "LaTeX.md",
     "attachments/Pasted image 20230514144338.png",
     "Análisis de velocidad.md",
-    "Síntesis de mecanismos.md",
     "Optimización.md",
     "Excalidraw/attachments",
     "attachments",
