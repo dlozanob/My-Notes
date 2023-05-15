@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cap. 1. Modelos de sistemas lineales y no lineales.md",
+                "file": "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
                 "mode": "preview",
                 "source": false
               }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cap. 1. Modelos de sistemas lineales y no lineales.md",
+                "file": "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cap. 1. Modelos de sistemas lineales y no lineales.md",
+                "file": "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cap. 1. Modelos de sistemas lineales y no lineales.md"
+                "file": "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md"
               }
             }
           },
@@ -183,14 +183,14 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "53c258fc5fd7b663",
+  "active": "abed2df76f33d216",
   "lastOpenFiles": [
     "Señales y Sistemas II.md",
+    "Cap. 3. Solución de las ecuaciones de estado de sistemas LTI.md",
+    "Cap. 1. Modelos de sistemas lineales y no lineales.md",
     "Cap. 5. Filtros analógicos.md",
     "Cap. 4. Análisis cualitativo de sistemas LTI.md",
-    "Cap. 3. Solución de las ecuaciones de estado de sistemas LTI.md",
     "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
-    "Cap. 1. Modelos de sistemas lineales y no lineales.md",
     "Módulo 5. Teoría de portafolio.md",
     "Tema 2. Teoría de la eficiencia de los mercados.md",
     "Tema 1. Introducción a los portafolios de renta variable y fondos de inversión.md",

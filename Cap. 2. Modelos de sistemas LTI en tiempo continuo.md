@@ -229,7 +229,7 @@ $$
 
 _Procedimiento_ :
 
-1. Hacer propia la función de transferencia en caso de que no lo sea ($G > g$)
+1. Hacer estricatamente propia la función de transferencia ($G > g$) en caso de que no lo sea
 	1. Dejarla en su forma mónica ($a_{1} = 1$)
 	2. Dejarla expresada como:
 	    $$
@@ -273,6 +273,7 @@ $$
 >-   La matriz identidad de la esquina inferior izquierda dentro de $A$ en $\dot{x}(t)$ tiene dimensiones $(G - 1)x(G - 1)$. La columna de la derecha desde la fila 2, siempre son ceros.
 >- La matriz $C$ en $y(t)$ debe ser de dimensión $1xG$. Se rellena con 0's a la izquierda en caso de ser necesario.
 
+---
 
 - __Ejemplo__ :
  
@@ -286,7 +287,7 @@ $$
 	H(s) = \frac{1.5s^{4} + 2.5s^{3} + 12s^{2} + 11.5s - 3}{s^{4} + 3s^{3} + 7.5s^{2} + 6s + 2.5}
 $$
 
-Al dividir el polinomio, se deja en su forma propia:
+Al dividir el polinomio, se deja en su forma estrictamente propia:
 
 $$
 	H(s) = \frac{-2s^{3} + 0.75s^{2} + 2.5s + -6.75}{s^{4} + 3s^{3} + 7.5s^{2} + 6s + 2.5} + 1.5
