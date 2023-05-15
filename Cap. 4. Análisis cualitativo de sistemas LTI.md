@@ -216,7 +216,7 @@ No obstante, esta última propiedad no es cierta para sistemas distribuidos.
 
 >[!Note]
 >- La respuesta al impulso en un sistema estable concentrado tiende a cero. La respuesta al paso tiende a un valor constante
->- Si la razón $\frac{\mathrm{Im}}{\mathrm{Re}}$ (parte imaginaria y real de los polos) aumenta, la estabilidad del sistema tambipen lo hace
+>- Si la razón $\frac{\mathrm{Im}}{\mathrm{Re}}$ (parte imaginaria y real de los polos) aumenta, la estabilidad del sistema también lo hace
 
 ---
 
@@ -326,7 +326,8 @@ $$
 Entonces el sistema es estable si todos los coeficientes en el arreglo de Routh son mayores a 0.
 
 >[!Note]
->Si en la función $a_{0} < 0$ entonces aplicar el criterio de Routh con $-D(s)$
+>- Si en la función $a_{0} < 0$ entonces aplicar el criterio de Routh con $-D(s)$
+>- Si el polinomio tiene un grado menor a $6$, tomar la tabla desde la fila que tenga su mismo grado pero tomando las fórmulas desde sus coeficientes
 
 
 ## Respuesta al estado estacionario y transitorio
