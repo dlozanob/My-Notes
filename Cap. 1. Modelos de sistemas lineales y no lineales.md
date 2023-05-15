@@ -313,7 +313,9 @@ $$
 }
 $$
 
-Ejemplo:
+---
+
+- __Ejemplo__ :
 
 ![](attachments/Pasted%20image%2020230214221704.png)
 
@@ -399,8 +401,9 @@ $$
 	\sum_{i} (\triangle \theta)_{i} = 0
 $$
 
+---
 
-Ejemplo:
+- __Ejemplo__ :
 
 ![](attachments/Pasted%20image%2020230220193902.png)
 
