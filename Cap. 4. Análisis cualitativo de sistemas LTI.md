@@ -167,8 +167,8 @@ Para expresar $H(s)$ en fracciones parciales es útil considerar:
 | Tipo de polos | Fracción parcial | Transformada Inversa |
 |-|-|-|
 | Simples | $\frac{r_{i}}{s - p_{i}}$ |  $r_{i}e^{ p_{i}t }$ |
-| Complejos conjugados | $\frac{r_{1}s + r_{2}}{(s + \alpha)^{2} + \beta^{2}}$, donde $p_{1, 2} = \alpha \pm \beta$ | $r_{1}e^{ -\alpha t}\sin(\beta t + r_{2})$ |
-| Repetidos | $\frac{r_{1}s^{n - 1} + \dots + r_{n - 1}s + r_{n}}{(s - p)^{n}}$, donde $n$ es la multiplicidad | $e^{ pt }(r_{1} + \dots + r_{n - 1}t^{n - 2} + r_{n}t^{n - 1})$ |
+| Complejos conjugados | $\frac{r_{1}s + r_{2}}{(s + \alpha)^{2} + \beta^{2}}$, donde $p_{1, 2} = \alpha \pm j\beta$ | $r_{1}e^{ -\alpha t}\sin(\beta t + r_{2})$ |
+| Repetidos | $\frac{r_{1}}{s + p} + \frac{r_{2}}{(s - p)^{2}} + \dots + \frac{r_{n}}{(s - p)^{n}}$, donde $n$ es la multiplicidad | $e^{ pt }(r_{1} + \dots + r_{n - 1}t^{n - 2} + r_{n}t^{n - 1})$ |
 
 Al tomar 5 funciones de transferencia ($N(s)$ y $D(s)$ son coprimos), todas con los mismos polos pero distintos ceros, se hallaron sus respuestas al escalón:
 
