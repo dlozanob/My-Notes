@@ -37,13 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LaTeX Template.md",
+                "file": "LaTeX.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -113,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Síntesis de mecanismos.md",
+                "file": "Optimización.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Síntesis de mecanismos.md",
+                "file": "Optimización.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Síntesis de mecanismos.md"
+                "file": "Optimización.md"
               }
             }
           },
@@ -206,11 +207,12 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "105d8115592bed4f",
+  "active": "08423d317de445d6",
   "lastOpenFiles": [
+    "LaTeX.md",
     "LaTeX Template.md",
-    "Optimización.md",
     "Síntesis de mecanismos.md",
+    "Optimización.md",
     "Cap. 1. Modelos de sistemas lineales y no lineales.md",
     "Señales y Sistemas II.md",
     "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
@@ -242,7 +244,6 @@
     "Análisis de aceleración.md",
     "attachments/Pasted image 20230514150846.png",
     "attachments/Pasted image 20230514150059.png",
-    "LaTeX.md",
     "attachments/Pasted image 20230514144338.png",
     "Excalidraw/attachments",
     "attachments",
