@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Optimización.md",
+                "file": "Síntesis de mecanismos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Optimización.md",
+                "file": "Síntesis de mecanismos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Optimización.md"
+                "file": "Síntesis de mecanismos.md"
               }
             }
           },
@@ -195,8 +194,9 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "08423d317de445d6",
+  "active": "105d8115592bed4f",
   "lastOpenFiles": [
+    "Optimización.md",
     "Síntesis de mecanismos.md",
     "Cap. 1. Modelos de sistemas lineales y no lineales.md",
     "Señales y Sistemas II.md",
@@ -232,7 +232,6 @@
     "LaTeX.md",
     "attachments/Pasted image 20230514144338.png",
     "Análisis de velocidad.md",
-    "Optimización.md",
     "Excalidraw/attachments",
     "attachments",
     "New folder",
