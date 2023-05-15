@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
+                "file": "Cap. 4. Análisis cualitativo de sistemas LTI.md",
                 "mode": "preview",
                 "source": false
               }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
+                "file": "Cap. 4. Análisis cualitativo de sistemas LTI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
+                "file": "Cap. 4. Análisis cualitativo de sistemas LTI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md"
+                "file": "Cap. 4. Análisis cualitativo de sistemas LTI.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"\"",
+                "query": "\"laplace\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -168,8 +168,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249.5,
-    "collapsed": true
+    "width": 249.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,14 +182,14 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "abed2df76f33d216",
+  "active": "53c258fc5fd7b663",
   "lastOpenFiles": [
+    "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
     "Señales y Sistemas II.md",
     "Cap. 3. Solución de las ecuaciones de estado de sistemas LTI.md",
     "Cap. 1. Modelos de sistemas lineales y no lineales.md",
     "Cap. 5. Filtros analógicos.md",
     "Cap. 4. Análisis cualitativo de sistemas LTI.md",
-    "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
     "Módulo 5. Teoría de portafolio.md",
     "Tema 2. Teoría de la eficiencia de los mercados.md",
     "Tema 1. Introducción a los portafolios de renta variable y fondos de inversión.md",
