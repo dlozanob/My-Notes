@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Módulo 5. Teoría de portafolio.md",
+                "file": "Cap. 1. Modelos de sistemas lineales y no lineales.md",
                 "mode": "preview",
                 "source": false
               }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Módulo 5. Teoría de portafolio.md",
+                "file": "Cap. 1. Modelos de sistemas lineales y no lineales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Módulo 5. Teoría de portafolio.md",
+                "file": "Cap. 1. Modelos de sistemas lineales y no lineales.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Módulo 5. Teoría de portafolio.md"
+                "file": "Cap. 1. Modelos de sistemas lineales y no lineales.md"
               }
             }
           },
@@ -168,8 +168,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249.5,
-    "collapsed": true
+    "width": 249.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,8 +184,14 @@
   },
   "active": "53c258fc5fd7b663",
   "lastOpenFiles": [
-    "Tema 2. Teoría de la eficiencia de los mercados.md",
+    "Señales y Sistemas II.md",
+    "Cap. 5. Filtros analógicos.md",
+    "Cap. 4. Análisis cualitativo de sistemas LTI.md",
+    "Cap. 3. Solución de las ecuaciones de estado de sistemas LTI.md",
+    "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
+    "Cap. 1. Modelos de sistemas lineales y no lineales.md",
     "Módulo 5. Teoría de portafolio.md",
+    "Tema 2. Teoría de la eficiencia de los mercados.md",
     "Tema 1. Introducción a los portafolios de renta variable y fondos de inversión.md",
     "Excalidraw/whiteboard.excalidraw.md",
     "Módulo 1. Economía y matemática financiera.md",
@@ -202,10 +207,6 @@
     "Nóbeles de economía.md",
     "attachments/Pasted image 20230514173006.png",
     "Tema 4. Modelo CAPM; SML; CML y APT.md",
-    "Señales y Sistemas II.md",
-    "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
-    "Cap. 4. Análisis cualitativo de sistemas LTI.md",
-    "Cap. 3. Solución de las ecuaciones de estado de sistemas LTI.md",
     "Linux commands.md",
     "Cybersec.md",
     "Main.md",
@@ -219,8 +220,6 @@
     "Análisis de velocidad.md",
     "Síntesis de mecanismos.md",
     "Optimización.md",
-    "Cap. 5. Filtros analógicos.md",
-    "conflict-files-obsidian-git.md",
     "Excalidraw/attachments",
     "attachments",
     "New folder",
