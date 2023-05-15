@@ -18,16 +18,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "5b57b4eb251bc604",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/whiteboard.excalidraw.md"
-              }
-            }
           }
         ]
       }
@@ -195,21 +185,23 @@
   },
   "active": "53c258fc5fd7b663",
   "lastOpenFiles": [
+    "Excalidraw/whiteboard.excalidraw.md",
+    "Módulo 1. Economía y matemática financiera.md",
+    "Tema 2. Función de oferta y demanda.md",
+    "Finanzas.md",
+    "Tema 2. Teoría de la eficiencia de los mercados.md",
     "Módulo 5. Teoría de portafolio.md",
     "Tema 3. Medición del rendimiento y del riesgo.md",
-    "Tema 2. Teoría de la eficiencia de los mercados.md",
     "Tema 1. Introducción a los portafolios de renta variable y fondos de inversión.md",
     "attachments/Pasted image 20230514184051.png",
     "attachments/Pasted image 20230514183628.png",
     "attachments/Pasted image 20230514183555.png",
     "attachments/Pasted image 20230514181405.png",
-    "Excalidraw/whiteboard.excalidraw.md",
     "Excalidraw/attachments/Pasted Image 20230514181404_497.png",
     "attachments/Pasted image 20230514181351.png",
     "Nóbeles de economía.md",
     "attachments/Pasted image 20230514173006.png",
     "Tema 4. Modelo CAPM; SML; CML y APT.md",
-    "Finanzas.md",
     "Señales y Sistemas II.md",
     "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
     "Cap. 4. Análisis cualitativo de sistemas LTI.md",
@@ -229,7 +221,6 @@
     "Optimización.md",
     "Cap. 5. Filtros analógicos.md",
     "conflict-files-obsidian-git.md",
-    "Módulo 3. Introducción al mercado de capitales.md",
     "Excalidraw/attachments",
     "attachments",
     "New folder",

@@ -44,18 +44,39 @@ El arbitraje consistirá en comprar acciones en México y venderlas en Estados U
 - _Análisis técnico_
 	- Se basa en el estudio de los precios históricos de las acciones
 	- Se asegura de que los precios presentes reflejen la información de los precios pasados, así como poder predecir precios futuros con los precios presentes
+	- Se basa en patrones
 - _Análisis fundamental_
 	- Se basa en el estudio del sector, la comáñía y su entorno para valorar sus acciones
-	- Se asegura de que los preci
-
+	- Se asegura de que los precios revelen toda la información relevante disponible
+	- Tiene presente la impredictibilidad de los precios
 
 
 ## Niveles de eficiencia de Eugene Fama
 
+La hipótesis de eficiencia de los mercados propuesta por Eugene Fama definió 3 niveles de eficiencia:
+- Débil
+	- El precio del título refleja el precio pasado y la historia de transacciones del mismo
+- Semifuerte
+	- El precio del título refleja toda la información pública disponible
+- Fuerte
+	- El precio del título refleja incluso la información privada
+
 
 ## Lecciones sobre la eficiencia de los mercados
 
-
+- Lección 1: Los mercados no tienen memoria
+	- Debido a que se presenta una eficiencia débil en los mercados
+- Lección 2: Hay que creerle a los precios del mercado
+	- No hay forma de que los inversionistas alcancen una rentabilidad superior a la del mercado, de ser así, este quebraría
+- Lección 3: Leer las entrañas
+	- Analizar la información disponible
+	- Se debe tener especial cuidado con los _outliers_
+		- Los _outliers_ son valores atípicos que se salen del rango de observación
+- Lección 4: No hay ilusiones financieras
+	- Se deben identificar aquellos sucesos que puedan cambiar el precio de un activo
+- Lección 5: Si se ha visto una acción se han visto todas
+	- Las acciones son sustitutos perfectos entre sí
+	- La demanda es muy elástica
 
 
 
