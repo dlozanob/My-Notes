@@ -102,6 +102,11 @@ $$
 
 Donde $-1 \leq \rho_{XY} \leq 1$ .
 
+>[!Note]
+>Para calcular la covarianza fácilmente en Excel: 
+>Análisis de datos -> Covarianza
+
+
 ## Introducción al riesgo y la rentabilidad
 
 Se define _portafolio de inversión_ o _cartera de inversión_ como un conjunto de activos financieros.

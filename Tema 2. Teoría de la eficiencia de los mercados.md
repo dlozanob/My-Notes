@@ -64,87 +64,22 @@ La hipótesis de eficiencia de los mercados propuesta por Eugene Fama definió 3
 
 ## Lecciones sobre la eficiencia de los mercados
 
-- Lección 1: Los mercados no tienen memoria
+- _Lección 1_: Los mercados no tienen memoria
 	- Debido a que se presenta una eficiencia débil en los mercados
-- Lección 2: Hay que creerle a los precios del mercado
+- _Lección 2_: Hay que creerle a los precios del mercado
 	- No hay forma de que los inversionistas alcancen una rentabilidad superior a la del mercado, de ser así, este quebraría
-- Lección 3: Leer las entrañas
+- _Lección 3_: Leer las entrañas
 	- Analizar la información disponible
 	- Se debe tener especial cuidado con los _outliers_
 		- Los _outliers_ son valores atípicos que se salen del rango de observación
-- Lección 4: No hay ilusiones financieras
+- _Lección 4_: No hay ilusiones financieras
+	- Los inversionistas no ven de forma romántica sus inversiones
 	- Se deben identificar aquellos sucesos que puedan cambiar el precio de un activo
-- Lección 5: Si se ha visto una acción se han visto todas
+- _Lección 5_: Si se ha visto una acción se han visto todas
 	- Las acciones son sustitutos perfectos entre sí
 	- La demanda es muy elástica
+	- La venta de una gran cantidad de acciones puede decir que no se cuenta con información privilegiada
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Excel -> Análisis de datos -> Covarianza
 
 >[!Info]
 >Índice de la información diaria de las acciones de Japón: _Nikkei_
