@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cap. 1. Modelos de sistemas lineales y no lineales.md",
+                "file": "Señales y Sistemas II.md",
                 "mode": "preview",
                 "source": false
               }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cap. 1. Modelos de sistemas lineales y no lineales.md",
+                "file": "Señales y Sistemas II.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cap. 1. Modelos de sistemas lineales y no lineales.md",
+                "file": "Señales y Sistemas II.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cap. 1. Modelos de sistemas lineales y no lineales.md"
+                "file": "Señales y Sistemas II.md"
               }
             }
           },
@@ -185,8 +185,8 @@
   },
   "active": "53c258fc5fd7b663",
   "lastOpenFiles": [
-    "Señales y Sistemas II.md",
     "Cap. 5. Filtros analógicos.md",
+    "Señales y Sistemas II.md",
     "Cap. 4. Análisis cualitativo de sistemas LTI.md",
     "Cap. 3. Solución de las ecuaciones de estado de sistemas LTI.md",
     "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
