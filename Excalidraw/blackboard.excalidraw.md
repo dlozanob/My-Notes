@@ -46,12 +46,34 @@ Magnetic field velocity = Rotor velocity ^RFQGB0Te
 
 Magnetic field velocity > Rotor velocity ^8oBw55eU
 
+firmware ^SWXGDzhJ
+
+compilar ^27LNR5fe
+
+linker ^meyL2PYz
+
+boot.bin ^volQgLSM
+
+firmware.bin ^LDdwY38S
+
+firmware ^pN1DZF7m
+
+compilar ^MNKQap68
+
+linker ^PdBHSIxP
+
+Firmware del SoC ^2Mz7sUs9
+
+Boot ^kcecsAPB
+
 
 # Embedded files
 18b644fc146f18ca256d1427341bf66adb3b2225: $$A$$
 675b2a96e24ff3d38ff75bd00ac175ca9140205f: $$B$$
 50f5fd1c8696fd51dd5d8d35451e6091adaa1283: $$C$$
 50b9de88ab3aea5a4e24403714ff00f381ddae2f: $$120$$
+58b256a154189c05e6992db121b789dc9dbdcff7: $$\underbrace{}$$
+39c13596547f13ce427c9da7f4a26efabbb77e47: $$\underbrace{}$$
 
 %%
 # Drawing
@@ -63,8 +85,13 @@ Magnetic field velocity > Rotor velocity ^8oBw55eU
 	"elements": [
 		{
 			"type": "rectangle",
+<<<<<<< HEAD
+			"version": 320,
+			"versionNonce": 1651998446,
+=======
 			"version": 344,
 			"versionNonce": 1221710757,
+>>>>>>> origin/main
 			"isDeleted": false,
 			"id": "xmtk-uvQ2tSCq__faGhMs",
 			"fillStyle": "solid",
@@ -96,14 +123,23 @@ Magnetic field velocity > Rotor velocity ^8oBw55eU
 					"type": "arrow"
 				}
 			],
+<<<<<<< HEAD
+			"updated": 1684241790080,
+=======
 			"updated": 1684094853138,
+>>>>>>> origin/main
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
+<<<<<<< HEAD
+			"version": 365,
+			"versionNonce": 1106685682,
+=======
 			"version": 389,
 			"versionNonce": 1151493419,
+>>>>>>> origin/main
 			"isDeleted": false,
 			"id": "NIlUq5c2wsFRVOJnnRTfB",
 			"fillStyle": "solid",
@@ -135,14 +171,23 @@ Magnetic field velocity > Rotor velocity ^8oBw55eU
 					"type": "arrow"
 				}
 			],
+<<<<<<< HEAD
+			"updated": 1684241790080,
+=======
 			"updated": 1684094853138,
+>>>>>>> origin/main
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
+<<<<<<< HEAD
+			"version": 382,
+			"versionNonce": 21328174,
+=======
 			"version": 406,
 			"versionNonce": 419567365,
+>>>>>>> origin/main
 			"isDeleted": false,
 			"id": "6UCZBN7g_e_SK-b1bESkT",
 			"fillStyle": "solid",
@@ -170,14 +215,23 @@ Magnetic field velocity > Rotor velocity ^8oBw55eU
 					"type": "arrow"
 				}
 			],
+<<<<<<< HEAD
+			"updated": 1684241790080,
+=======
 			"updated": 1684094853138,
+>>>>>>> origin/main
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
+<<<<<<< HEAD
+			"version": 332,
+			"versionNonce": 887619762,
+=======
 			"version": 356,
 			"versionNonce": 17991627,
+>>>>>>> origin/main
 			"isDeleted": false,
 			"id": "PZbEvyaDbbe_pAtfO1fXD",
 			"fillStyle": "solid",
@@ -205,14 +259,23 @@ Magnetic field velocity > Rotor velocity ^8oBw55eU
 					"type": "arrow"
 				}
 			],
+<<<<<<< HEAD
+			"updated": 1684241790080,
+=======
 			"updated": 1684094853138,
+>>>>>>> origin/main
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
+<<<<<<< HEAD
+			"version": 510,
+			"versionNonce": 1847270254,
+=======
 			"version": 534,
 			"versionNonce": 890433125,
+>>>>>>> origin/main
 			"isDeleted": false,
 			"id": "_zNLCM6F_TbLLyoIg2MvO",
 			"fillStyle": "solid",
@@ -248,14 +311,23 @@ Magnetic field velocity > Rotor velocity ^8oBw55eU
 					"type": "arrow"
 				}
 			],
+<<<<<<< HEAD
+			"updated": 1684241790080,
+=======
 			"updated": 1684094853138,
+>>>>>>> origin/main
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
+<<<<<<< HEAD
+			"version": 523,
+			"versionNonce": 1766398578,
+=======
 			"version": 547,
 			"versionNonce": 212162155,
+>>>>>>> origin/main
 			"isDeleted": false,
 			"id": "_pKiNvArHg4UhHPBYdpeZ",
 			"fillStyle": "solid",
@@ -287,14 +359,23 @@ Magnetic field velocity > Rotor velocity ^8oBw55eU
 					"type": "arrow"
 				}
 			],
+<<<<<<< HEAD
+			"updated": 1684241790080,
+=======
 			"updated": 1684094853138,
+>>>>>>> origin/main
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
+<<<<<<< HEAD
+			"version": 676,
+			"versionNonce": 2134998446,
+=======
 			"version": 700,
 			"versionNonce": 2077350341,
+>>>>>>> origin/main
 			"isDeleted": false,
 			"id": "SGHNlt7tkUdo4AB8-V6h4",
 			"fillStyle": "solid",
@@ -326,14 +407,23 @@ Magnetic field velocity > Rotor velocity ^8oBw55eU
 					"type": "arrow"
 				}
 			],
+<<<<<<< HEAD
+			"updated": 1684241790080,
+=======
 			"updated": 1684094853138,
+>>>>>>> origin/main
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
+<<<<<<< HEAD
+			"version": 499,
+			"versionNonce": 769719346,
+=======
 			"version": 523,
 			"versionNonce": 1176850699,
+>>>>>>> origin/main
 			"isDeleted": false,
 			"id": "gF0zW41MnVyFu4UlAW_NC",
 			"fillStyle": "solid",
@@ -361,14 +451,23 @@ Magnetic field velocity > Rotor velocity ^8oBw55eU
 					"type": "arrow"
 				}
 			],
+<<<<<<< HEAD
+			"updated": 1684241790080,
+=======
 			"updated": 1684094853138,
+>>>>>>> origin/main
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
+<<<<<<< HEAD
+			"version": 587,
+			"versionNonce": 1507956718,
+=======
 			"version": 611,
 			"versionNonce": 375150885,
+>>>>>>> origin/main
 			"isDeleted": false,
 			"id": "YUTZQoyZcLpkgZYPnofY6",
 			"fillStyle": "solid",
@@ -396,14 +495,23 @@ Magnetic field velocity > Rotor velocity ^8oBw55eU
 					"type": "arrow"
 				}
 			],
+<<<<<<< HEAD
+			"updated": 1684241790080,
+=======
 			"updated": 1684094853138,
+>>>>>>> origin/main
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
+<<<<<<< HEAD
+			"version": 237,
+			"versionNonce": 1620485618,
+=======
 			"version": 261,
 			"versionNonce": 1326249899,
+>>>>>>> origin/main
 			"isDeleted": false,
 			"id": "YBUipfOC",
 			"fillStyle": "solid",
@@ -422,7 +530,11 @@ Magnetic field velocity > Rotor velocity ^8oBw55eU
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
+<<<<<<< HEAD
+			"updated": 1684241790080,
+=======
 			"updated": 1684094853138,
+>>>>>>> origin/main
 			"link": null,
 			"locked": false,
 			"fontSize": 19.678389042452817,
@@ -437,8 +549,13 @@ Magnetic field velocity > Rotor velocity ^8oBw55eU
 		},
 		{
 			"type": "text",
+<<<<<<< HEAD
+			"version": 390,
+			"versionNonce": 369388078,
+=======
 			"version": 414,
 			"versionNonce": 773844101,
+>>>>>>> origin/main
 			"isDeleted": false,
 			"id": "1VlpRaqo",
 			"fillStyle": "solid",
@@ -457,7 +574,11 @@ Magnetic field velocity > Rotor velocity ^8oBw55eU
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
+<<<<<<< HEAD
+			"updated": 1684241790080,
+=======
 			"updated": 1684094853138,
+>>>>>>> origin/main
 			"link": null,
 			"locked": false,
 			"fontSize": 18.8389810940904,
@@ -472,8 +593,13 @@ Magnetic field velocity > Rotor velocity ^8oBw55eU
 		},
 		{
 			"type": "text",
+<<<<<<< HEAD
+			"version": 380,
+			"versionNonce": 175183794,
+=======
 			"version": 404,
 			"versionNonce": 898026059,
+>>>>>>> origin/main
 			"isDeleted": false,
 			"id": "TbRrWXqz",
 			"fillStyle": "solid",
@@ -492,7 +618,11 @@ Magnetic field velocity > Rotor velocity ^8oBw55eU
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
+<<<<<<< HEAD
+			"updated": 1684241790080,
+=======
 			"updated": 1684094853138,
+>>>>>>> origin/main
 			"link": null,
 			"locked": false,
 			"fontSize": 18.838981094090403,
@@ -507,8 +637,13 @@ Magnetic field velocity > Rotor velocity ^8oBw55eU
 		},
 		{
 			"type": "text",
+<<<<<<< HEAD
+			"version": 288,
+			"versionNonce": 1653797998,
+=======
 			"version": 312,
 			"versionNonce": 1658459109,
+>>>>>>> origin/main
 			"isDeleted": false,
 			"id": "6eZlNhru",
 			"fillStyle": "solid",
@@ -532,7 +667,11 @@ Magnetic field velocity > Rotor velocity ^8oBw55eU
 					"type": "arrow"
 				}
 			],
+<<<<<<< HEAD
+			"updated": 1684241790081,
+=======
 			"updated": 1684094853139,
+>>>>>>> origin/main
 			"link": null,
 			"locked": false,
 			"fontSize": 26.209563185586426,
@@ -547,8 +686,13 @@ Magnetic field velocity > Rotor velocity ^8oBw55eU
 		},
 		{
 			"type": "text",
+<<<<<<< HEAD
+			"version": 260,
+			"versionNonce": 2073514354,
+=======
 			"version": 284,
 			"versionNonce": 1584220395,
+>>>>>>> origin/main
 			"isDeleted": false,
 			"id": "eDdY68JL",
 			"fillStyle": "solid",
@@ -567,7 +711,11 @@ Magnetic field velocity > Rotor velocity ^8oBw55eU
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
+<<<<<<< HEAD
+			"updated": 1684241790081,
+=======
 			"updated": 1684094853139,
+>>>>>>> origin/main
 			"link": null,
 			"locked": false,
 			"fontSize": 19.678389042452817,
@@ -582,8 +730,13 @@ Magnetic field velocity > Rotor velocity ^8oBw55eU
 		},
 		{
 			"type": "text",
+<<<<<<< HEAD
+			"version": 380,
+			"versionNonce": 693515950,
+=======
 			"version": 404,
 			"versionNonce": 9981765,
+>>>>>>> origin/main
 			"isDeleted": false,
 			"id": "rnn5KvO7",
 			"fillStyle": "solid",
@@ -602,7 +755,11 @@ Magnetic field velocity > Rotor velocity ^8oBw55eU
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
+<<<<<<< HEAD
+			"updated": 1684241790081,
+=======
 			"updated": 1684094853139,
+>>>>>>> origin/main
 			"link": null,
 			"locked": false,
 			"fontSize": 18.838981094090403,
@@ -617,8 +774,13 @@ Magnetic field velocity > Rotor velocity ^8oBw55eU
 		},
 		{
 			"type": "text",
+<<<<<<< HEAD
+			"version": 607,
+			"versionNonce": 1733317426,
+=======
 			"version": 631,
 			"versionNonce": 793441163,
+>>>>>>> origin/main
 			"isDeleted": false,
 			"id": "d5aFgZUr",
 			"fillStyle": "solid",
@@ -637,7 +799,11 @@ Magnetic field velocity > Rotor velocity ^8oBw55eU
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
+<<<<<<< HEAD
+			"updated": 1684241790081,
+=======
 			"updated": 1684094853139,
+>>>>>>> origin/main
 			"link": null,
 			"locked": false,
 			"fontSize": 26.209563185586426,
@@ -652,8 +818,13 @@ Magnetic field velocity > Rotor velocity ^8oBw55eU
 		},
 		{
 			"type": "text",
+<<<<<<< HEAD
+			"version": 727,
+			"versionNonce": 855060718,
+=======
 			"version": 751,
 			"versionNonce": 1975000741,
+>>>>>>> origin/main
 			"isDeleted": false,
 			"id": "yWATqfsU",
 			"fillStyle": "solid",
@@ -672,7 +843,11 @@ Magnetic field velocity > Rotor velocity ^8oBw55eU
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
+<<<<<<< HEAD
+			"updated": 1684241790081,
+=======
 			"updated": 1684094853139,
+>>>>>>> origin/main
 			"link": null,
 			"locked": false,
 			"fontSize": 21.173115495411928,
@@ -687,8 +862,13 @@ Magnetic field velocity > Rotor velocity ^8oBw55eU
 		},
 		{
 			"type": "rectangle",
+<<<<<<< HEAD
+			"version": 464,
+			"versionNonce": 204018,
+=======
 			"version": 488,
 			"versionNonce": 2019183147,
+>>>>>>> origin/main
 			"isDeleted": false,
 			"id": "8z-IcFKRkBBa4KLqhdI4c",
 			"fillStyle": "hachure",
@@ -712,14 +892,23 @@ Magnetic field velocity > Rotor velocity ^8oBw55eU
 					"type": "arrow"
 				}
 			],
+<<<<<<< HEAD
+			"updated": 1684241790081,
+=======
 			"updated": 1684094853139,
+>>>>>>> origin/main
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
+<<<<<<< HEAD
+			"version": 471,
+			"versionNonce": 1258218286,
+=======
 			"version": 495,
 			"versionNonce": 149357061,
+>>>>>>> origin/main
 			"isDeleted": false,
 			"id": "exV-lvgnS5DPf5aF_hVRu",
 			"fillStyle": "hachure",
@@ -743,14 +932,23 @@ Magnetic field velocity > Rotor velocity ^8oBw55eU
 					"type": "arrow"
 				}
 			],
+<<<<<<< HEAD
+			"updated": 1684241790081,
+=======
 			"updated": 1684094853139,
+>>>>>>> origin/main
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
+<<<<<<< HEAD
+			"version": 544,
+			"versionNonce": 322350770,
+=======
 			"version": 568,
 			"versionNonce": 512085195,
+>>>>>>> origin/main
 			"isDeleted": false,
 			"id": "4VF3uObf",
 			"fillStyle": "solid",
@@ -774,7 +972,11 @@ Magnetic field velocity > Rotor velocity ^8oBw55eU
 					"type": "arrow"
 				}
 			],
+<<<<<<< HEAD
+			"updated": 1684241790081,
+=======
 			"updated": 1684094853139,
+>>>>>>> origin/main
 			"link": null,
 			"locked": false,
 			"fontSize": 26.209563185586426,
@@ -789,8 +991,13 @@ Magnetic field velocity > Rotor velocity ^8oBw55eU
 		},
 		{
 			"type": "text",
+<<<<<<< HEAD
+			"version": 675,
+			"versionNonce": 1674988910,
+=======
 			"version": 699,
 			"versionNonce": 1327659365,
+>>>>>>> origin/main
 			"isDeleted": false,
 			"id": "bx1XxNPV",
 			"fillStyle": "solid",
@@ -818,7 +1025,11 @@ Magnetic field velocity > Rotor velocity ^8oBw55eU
 					"type": "arrow"
 				}
 			],
+<<<<<<< HEAD
+			"updated": 1684241790081,
+=======
 			"updated": 1684094853139,
+>>>>>>> origin/main
 			"link": null,
 			"locked": false,
 			"fontSize": 26.209563185586426,
@@ -833,8 +1044,13 @@ Magnetic field velocity > Rotor velocity ^8oBw55eU
 		},
 		{
 			"type": "text",
+<<<<<<< HEAD
+			"version": 560,
+			"versionNonce": 630327410,
+=======
 			"version": 584,
 			"versionNonce": 90700651,
+>>>>>>> origin/main
 			"isDeleted": false,
 			"id": "TwStZzHY",
 			"fillStyle": "solid",
@@ -866,7 +1082,11 @@ Magnetic field velocity > Rotor velocity ^8oBw55eU
 					"type": "arrow"
 				}
 			],
+<<<<<<< HEAD
+			"updated": 1684241790081,
+=======
 			"updated": 1684094853139,
+>>>>>>> origin/main
 			"link": null,
 			"locked": false,
 			"fontSize": 26.209563185586426,
@@ -881,8 +1101,13 @@ Magnetic field velocity > Rotor velocity ^8oBw55eU
 		},
 		{
 			"type": "rectangle",
+<<<<<<< HEAD
+			"version": 767,
+			"versionNonce": 986083246,
+=======
 			"version": 791,
 			"versionNonce": 1639449797,
+>>>>>>> origin/main
 			"isDeleted": false,
 			"id": "lp1iZE-Q6dkqILh7o6jlQ",
 			"fillStyle": "solid",
@@ -914,14 +1139,23 @@ Magnetic field velocity > Rotor velocity ^8oBw55eU
 					"type": "arrow"
 				}
 			],
+<<<<<<< HEAD
+			"updated": 1684241790081,
+=======
 			"updated": 1684094853139,
+>>>>>>> origin/main
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
+<<<<<<< HEAD
+			"version": 671,
+			"versionNonce": 249309746,
+=======
 			"version": 695,
 			"versionNonce": 961238539,
+>>>>>>> origin/main
 			"isDeleted": false,
 			"id": "plx1NP95",
 			"fillStyle": "solid",
@@ -940,7 +1174,11 @@ Magnetic field velocity > Rotor velocity ^8oBw55eU
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
+<<<<<<< HEAD
+			"updated": 1684241790081,
+=======
 			"updated": 1684094853139,
+>>>>>>> origin/main
 			"link": null,
 			"locked": false,
 			"fontSize": 26.209563185586426,
@@ -955,8 +1193,13 @@ Magnetic field velocity > Rotor velocity ^8oBw55eU
 		},
 		{
 			"type": "arrow",
+<<<<<<< HEAD
+			"version": 767,
+			"versionNonce": 2079869422,
+=======
 			"version": 791,
 			"versionNonce": 1413817381,
+>>>>>>> origin/main
 			"isDeleted": false,
 			"id": "0-R4IiwKpGLx8u14MR1Xj",
 			"fillStyle": "hachure",
@@ -975,7 +1218,11 @@ Magnetic field velocity > Rotor velocity ^8oBw55eU
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
+<<<<<<< HEAD
+			"updated": 1684241790081,
+=======
 			"updated": 1684094853139,
+>>>>>>> origin/main
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1004,8 +1251,13 @@ Magnetic field velocity > Rotor velocity ^8oBw55eU
 		},
 		{
 			"type": "arrow",
+<<<<<<< HEAD
+			"version": 771,
+			"versionNonce": 368841714,
+=======
 			"version": 795,
 			"versionNonce": 1495948459,
+>>>>>>> origin/main
 			"isDeleted": false,
 			"id": "iZviIRIxykgSdpbiU_W35",
 			"fillStyle": "hachure",
@@ -1024,7 +1276,11 @@ Magnetic field velocity > Rotor velocity ^8oBw55eU
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
+<<<<<<< HEAD
+			"updated": 1684241790082,
+=======
 			"updated": 1684094853139,
+>>>>>>> origin/main
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1053,8 +1309,13 @@ Magnetic field velocity > Rotor velocity ^8oBw55eU
 		},
 		{
 			"type": "arrow",
+<<<<<<< HEAD
+			"version": 846,
+			"versionNonce": 1718934574,
+=======
 			"version": 870,
 			"versionNonce": 1790400389,
+>>>>>>> origin/main
 			"isDeleted": false,
 			"id": "sdNQLJKn6fQ5yyu8Hykhh",
 			"fillStyle": "hachure",
@@ -1073,7 +1334,11 @@ Magnetic field velocity > Rotor velocity ^8oBw55eU
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
+<<<<<<< HEAD
+			"updated": 1684241790082,
+=======
 			"updated": 1684094853139,
+>>>>>>> origin/main
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1102,8 +1367,13 @@ Magnetic field velocity > Rotor velocity ^8oBw55eU
 		},
 		{
 			"type": "arrow",
+<<<<<<< HEAD
+			"version": 765,
+			"versionNonce": 217630130,
+=======
 			"version": 789,
 			"versionNonce": 1085247307,
+>>>>>>> origin/main
 			"isDeleted": false,
 			"id": "_ZmgHdPP1JaHFY02hRXvw",
 			"fillStyle": "hachure",
@@ -1122,7 +1392,11 @@ Magnetic field velocity > Rotor velocity ^8oBw55eU
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
+<<<<<<< HEAD
+			"updated": 1684241790082,
+=======
 			"updated": 1684094853139,
+>>>>>>> origin/main
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1151,8 +1425,13 @@ Magnetic field velocity > Rotor velocity ^8oBw55eU
 		},
 		{
 			"type": "arrow",
+<<<<<<< HEAD
+			"version": 1146,
+			"versionNonce": 1881482862,
+=======
 			"version": 1170,
 			"versionNonce": 256646885,
+>>>>>>> origin/main
 			"isDeleted": false,
 			"id": "4iaPIbOxPQ55BE8hj4lqZ",
 			"fillStyle": "hachure",
@@ -1171,7 +1450,11 @@ Magnetic field velocity > Rotor velocity ^8oBw55eU
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
+<<<<<<< HEAD
+			"updated": 1684241790082,
+=======
 			"updated": 1684094853139,
+>>>>>>> origin/main
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1200,8 +1483,13 @@ Magnetic field velocity > Rotor velocity ^8oBw55eU
 		},
 		{
 			"type": "arrow",
+<<<<<<< HEAD
+			"version": 997,
+			"versionNonce": 1828274034,
+=======
 			"version": 1021,
 			"versionNonce": 1916104171,
+>>>>>>> origin/main
 			"isDeleted": false,
 			"id": "Vj6BCqMXZERkPJPraKvfY",
 			"fillStyle": "hachure",
@@ -1220,7 +1508,11 @@ Magnetic field velocity > Rotor velocity ^8oBw55eU
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
+<<<<<<< HEAD
+			"updated": 1684241790082,
+=======
 			"updated": 1684094853140,
+>>>>>>> origin/main
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1249,8 +1541,13 @@ Magnetic field velocity > Rotor velocity ^8oBw55eU
 		},
 		{
 			"type": "arrow",
+<<<<<<< HEAD
+			"version": 1583,
+			"versionNonce": 1775380654,
+=======
 			"version": 1607,
 			"versionNonce": 143718981,
+>>>>>>> origin/main
 			"isDeleted": false,
 			"id": "aCak5_Vd81EMxMAJoy9Q4",
 			"fillStyle": "hachure",
@@ -1269,7 +1566,11 @@ Magnetic field velocity > Rotor velocity ^8oBw55eU
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
+<<<<<<< HEAD
+			"updated": 1684241790082,
+=======
 			"updated": 1684094853140,
+>>>>>>> origin/main
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1298,8 +1599,13 @@ Magnetic field velocity > Rotor velocity ^8oBw55eU
 		},
 		{
 			"type": "arrow",
+<<<<<<< HEAD
+			"version": 1534,
+			"versionNonce": 1917092146,
+=======
 			"version": 1558,
 			"versionNonce": 1086748811,
+>>>>>>> origin/main
 			"isDeleted": false,
 			"id": "v1MGKXUz35N3t6mQHTXL8",
 			"fillStyle": "hachure",
@@ -1318,7 +1624,11 @@ Magnetic field velocity > Rotor velocity ^8oBw55eU
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
+<<<<<<< HEAD
+			"updated": 1684241790082,
+=======
 			"updated": 1684094853140,
+>>>>>>> origin/main
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1347,8 +1657,13 @@ Magnetic field velocity > Rotor velocity ^8oBw55eU
 		},
 		{
 			"type": "arrow",
+<<<<<<< HEAD
+			"version": 1417,
+			"versionNonce": 589619950,
+=======
 			"version": 1441,
 			"versionNonce": 1868786085,
+>>>>>>> origin/main
 			"isDeleted": false,
 			"id": "sraUJ-sSAvly5GF5AvvEE",
 			"fillStyle": "hachure",
@@ -1367,7 +1682,11 @@ Magnetic field velocity > Rotor velocity ^8oBw55eU
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
+<<<<<<< HEAD
+			"updated": 1684241790082,
+=======
 			"updated": 1684094853140,
+>>>>>>> origin/main
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1396,8 +1715,13 @@ Magnetic field velocity > Rotor velocity ^8oBw55eU
 		},
 		{
 			"type": "arrow",
+<<<<<<< HEAD
+			"version": 1262,
+			"versionNonce": 943819506,
+=======
 			"version": 1286,
 			"versionNonce": 974991147,
+>>>>>>> origin/main
 			"isDeleted": false,
 			"id": "g435tslZxVNPo-G8USelv",
 			"fillStyle": "hachure",
@@ -1416,7 +1740,11 @@ Magnetic field velocity > Rotor velocity ^8oBw55eU
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
+<<<<<<< HEAD
+			"updated": 1684241790082,
+=======
 			"updated": 1684094853140,
+>>>>>>> origin/main
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1445,8 +1773,13 @@ Magnetic field velocity > Rotor velocity ^8oBw55eU
 		},
 		{
 			"type": "text",
+<<<<<<< HEAD
+			"version": 183,
+			"versionNonce": 245781806,
+=======
 			"version": 207,
 			"versionNonce": 1693510917,
+>>>>>>> origin/main
 			"isDeleted": false,
 			"id": "Rl0qj5KW",
 			"fillStyle": "hachure",
@@ -1465,7 +1798,11 @@ Magnetic field velocity > Rotor velocity ^8oBw55eU
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
+<<<<<<< HEAD
+			"updated": 1684241790082,
+=======
 			"updated": 1684094853140,
+>>>>>>> origin/main
 			"link": null,
 			"locked": false,
 			"fontSize": 22.200583729995472,
@@ -1480,8 +1817,13 @@ Magnetic field velocity > Rotor velocity ^8oBw55eU
 		},
 		{
 			"type": "rectangle",
+<<<<<<< HEAD
+			"version": 604,
+			"versionNonce": 1433885874,
+=======
 			"version": 628,
 			"versionNonce": 1352929739,
+>>>>>>> origin/main
 			"isDeleted": false,
 			"id": "7sy5JNxwB_PXxRM6MBkuA",
 			"fillStyle": "hachure",
@@ -1505,14 +1847,23 @@ Magnetic field velocity > Rotor velocity ^8oBw55eU
 					"type": "arrow"
 				}
 			],
+<<<<<<< HEAD
+			"updated": 1684241790082,
+=======
 			"updated": 1684094853140,
+>>>>>>> origin/main
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "arrow",
+<<<<<<< HEAD
+			"version": 46,
+			"versionNonce": 1707048814,
+=======
 			"version": 70,
 			"versionNonce": 146211941,
+>>>>>>> origin/main
 			"isDeleted": false,
 			"id": "ghS9ZIuQCw6OZxQ2WqbRJ",
 			"fillStyle": "hachure",
@@ -1531,7 +1882,11 @@ Magnetic field velocity > Rotor velocity ^8oBw55eU
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
+<<<<<<< HEAD
+			"updated": 1684241790082,
+=======
 			"updated": 1684094853140,
+>>>>>>> origin/main
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1560,8 +1915,13 @@ Magnetic field velocity > Rotor velocity ^8oBw55eU
 		},
 		{
 			"type": "arrow",
+<<<<<<< HEAD
+			"version": 244,
+			"versionNonce": 2005726834,
+=======
 			"version": 268,
 			"versionNonce": 1165336683,
+>>>>>>> origin/main
 			"isDeleted": false,
 			"id": "M3CMV9wCMIAZdXBhHCa4L",
 			"fillStyle": "hachure",
@@ -1580,7 +1940,11 @@ Magnetic field velocity > Rotor velocity ^8oBw55eU
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
+<<<<<<< HEAD
+			"updated": 1684241790082,
+=======
 			"updated": 1684094853140,
+>>>>>>> origin/main
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1609,8 +1973,13 @@ Magnetic field velocity > Rotor velocity ^8oBw55eU
 		},
 		{
 			"type": "arrow",
+<<<<<<< HEAD
+			"version": 471,
+			"versionNonce": 1287217582,
+=======
 			"version": 495,
 			"versionNonce": 780349381,
+>>>>>>> origin/main
 			"isDeleted": false,
 			"id": "DAxwLqEnRASa5am1NYt-2",
 			"fillStyle": "hachure",
@@ -1629,7 +1998,11 @@ Magnetic field velocity > Rotor velocity ^8oBw55eU
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
+<<<<<<< HEAD
+			"updated": 1684241790082,
+=======
 			"updated": 1684094853140,
+>>>>>>> origin/main
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1658,8 +2031,13 @@ Magnetic field velocity > Rotor velocity ^8oBw55eU
 		},
 		{
 			"type": "arrow",
+<<<<<<< HEAD
+			"version": 147,
+			"versionNonce": 2135513138,
+=======
 			"version": 171,
 			"versionNonce": 1381784331,
+>>>>>>> origin/main
 			"isDeleted": false,
 			"id": "anTk25u9zSfDLT7FWrqsr",
 			"fillStyle": "hachure",
@@ -1678,7 +2056,11 @@ Magnetic field velocity > Rotor velocity ^8oBw55eU
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
+<<<<<<< HEAD
+			"updated": 1684241790082,
+=======
 			"updated": 1684094853140,
+>>>>>>> origin/main
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1707,8 +2089,13 @@ Magnetic field velocity > Rotor velocity ^8oBw55eU
 		},
 		{
 			"type": "freedraw",
+<<<<<<< HEAD
+			"version": 559,
+			"versionNonce": 1992096750,
+=======
 			"version": 583,
 			"versionNonce": 1416818469,
+>>>>>>> origin/main
 			"isDeleted": false,
 			"id": "q8fPnQN9rW6GyRqqjUoyC",
 			"fillStyle": "hachure",
@@ -1727,7 +2114,11 @@ Magnetic field velocity > Rotor velocity ^8oBw55eU
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
+<<<<<<< HEAD
+			"updated": 1684241790083,
+=======
 			"updated": 1684094853140,
+>>>>>>> origin/main
 			"link": null,
 			"locked": false,
 			"points": [
@@ -2422,8 +2813,13 @@ Magnetic field velocity > Rotor velocity ^8oBw55eU
 		},
 		{
 			"type": "freedraw",
+<<<<<<< HEAD
+			"version": 625,
+			"versionNonce": 479429106,
+=======
 			"version": 649,
 			"versionNonce": 332579243,
+>>>>>>> origin/main
 			"isDeleted": false,
 			"id": "3JLtRQzsOqcrqrtYVdzaM",
 			"fillStyle": "hachure",
@@ -2442,7 +2838,11 @@ Magnetic field velocity > Rotor velocity ^8oBw55eU
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
+<<<<<<< HEAD
+			"updated": 1684241790083,
+=======
 			"updated": 1684094853140,
+>>>>>>> origin/main
 			"link": null,
 			"locked": false,
 			"points": [
@@ -3137,8 +3537,13 @@ Magnetic field velocity > Rotor velocity ^8oBw55eU
 		},
 		{
 			"type": "freedraw",
+<<<<<<< HEAD
+			"version": 584,
+			"versionNonce": 1238584878,
+=======
 			"version": 608,
 			"versionNonce": 1492370053,
+>>>>>>> origin/main
 			"isDeleted": false,
 			"id": "3OtezgzHsnZUXd20G4tOx",
 			"fillStyle": "hachure",
@@ -3157,7 +3562,11 @@ Magnetic field velocity > Rotor velocity ^8oBw55eU
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
+<<<<<<< HEAD
+			"updated": 1684241790083,
+=======
 			"updated": 1684094853140,
+>>>>>>> origin/main
 			"link": null,
 			"locked": false,
 			"points": [
@@ -3852,8 +4261,13 @@ Magnetic field velocity > Rotor velocity ^8oBw55eU
 		},
 		{
 			"type": "image",
+<<<<<<< HEAD
+			"version": 411,
+			"versionNonce": 1785885618,
+=======
 			"version": 435,
 			"versionNonce": 855856203,
+>>>>>>> origin/main
 			"isDeleted": false,
 			"id": "d90MQnTC",
 			"fillStyle": "hachure",
@@ -3872,7 +4286,11 @@ Magnetic field velocity > Rotor velocity ^8oBw55eU
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
+<<<<<<< HEAD
+			"updated": 1684241790083,
+=======
 			"updated": 1684094853140,
+>>>>>>> origin/main
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -3884,8 +4302,13 @@ Magnetic field velocity > Rotor velocity ^8oBw55eU
 		},
 		{
 			"type": "image",
+<<<<<<< HEAD
+			"version": 336,
+			"versionNonce": 48584814,
+=======
 			"version": 360,
 			"versionNonce": 1891838437,
+>>>>>>> origin/main
 			"isDeleted": false,
 			"id": "iyYE5hOP",
 			"fillStyle": "hachure",
@@ -3904,7 +4327,11 @@ Magnetic field velocity > Rotor velocity ^8oBw55eU
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
+<<<<<<< HEAD
+			"updated": 1684241790083,
+=======
 			"updated": 1684094853140,
+>>>>>>> origin/main
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -3916,8 +4343,13 @@ Magnetic field velocity > Rotor velocity ^8oBw55eU
 		},
 		{
 			"type": "image",
+<<<<<<< HEAD
+			"version": 414,
+			"versionNonce": 185412978,
+=======
 			"version": 438,
 			"versionNonce": 1338544875,
+>>>>>>> origin/main
 			"isDeleted": false,
 			"id": "v0xdifXM",
 			"fillStyle": "hachure",
@@ -3936,7 +4368,11 @@ Magnetic field velocity > Rotor velocity ^8oBw55eU
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
+<<<<<<< HEAD
+			"updated": 1684241790083,
+=======
 			"updated": 1684094853140,
+>>>>>>> origin/main
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -3948,8 +4384,13 @@ Magnetic field velocity > Rotor velocity ^8oBw55eU
 		},
 		{
 			"type": "line",
+<<<<<<< HEAD
+			"version": 172,
+			"versionNonce": 1505499822,
+=======
 			"version": 196,
 			"versionNonce": 1559143749,
+>>>>>>> origin/main
 			"isDeleted": false,
 			"id": "kV8xYd3VQPyfqhylttkHY",
 			"fillStyle": "hachure",
@@ -3968,7 +4409,11 @@ Magnetic field velocity > Rotor velocity ^8oBw55eU
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
+<<<<<<< HEAD
+			"updated": 1684241790083,
+=======
 			"updated": 1684094853141,
+>>>>>>> origin/main
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -3989,8 +4434,13 @@ Magnetic field velocity > Rotor velocity ^8oBw55eU
 		},
 		{
 			"type": "line",
+<<<<<<< HEAD
+			"version": 169,
+			"versionNonce": 1135259442,
+=======
 			"version": 193,
 			"versionNonce": 715980171,
+>>>>>>> origin/main
 			"isDeleted": false,
 			"id": "H7Ymz8roNeKF7iBoNFori",
 			"fillStyle": "hachure",
@@ -4009,7 +4459,11 @@ Magnetic field velocity > Rotor velocity ^8oBw55eU
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
+<<<<<<< HEAD
+			"updated": 1684241790083,
+=======
 			"updated": 1684094853141,
+>>>>>>> origin/main
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -4030,8 +4484,13 @@ Magnetic field velocity > Rotor velocity ^8oBw55eU
 		},
 		{
 			"type": "freedraw",
+<<<<<<< HEAD
+			"version": 288,
+			"versionNonce": 620795118,
+=======
 			"version": 312,
 			"versionNonce": 1624487077,
+>>>>>>> origin/main
 			"isDeleted": false,
 			"id": "A1eVvzyV1loxJFQywvw3g",
 			"fillStyle": "hachure",
@@ -4050,7 +4509,11 @@ Magnetic field velocity > Rotor velocity ^8oBw55eU
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
+<<<<<<< HEAD
+			"updated": 1684241790083,
+=======
 			"updated": 1684094853141,
+>>>>>>> origin/main
 			"link": null,
 			"locked": false,
 			"points": [
@@ -4577,8 +5040,13 @@ Magnetic field velocity > Rotor velocity ^8oBw55eU
 		},
 		{
 			"type": "freedraw",
+<<<<<<< HEAD
+			"version": 246,
+			"versionNonce": 414316786,
+=======
 			"version": 270,
 			"versionNonce": 250287147,
+>>>>>>> origin/main
 			"isDeleted": false,
 			"id": "xfB0R3O8EE0QEtbF4r1gu",
 			"fillStyle": "hachure",
@@ -4597,7 +5065,11 @@ Magnetic field velocity > Rotor velocity ^8oBw55eU
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
+<<<<<<< HEAD
+			"updated": 1684241790083,
+=======
 			"updated": 1684094853141,
+>>>>>>> origin/main
 			"link": null,
 			"locked": false,
 			"points": [
@@ -4956,8 +5428,13 @@ Magnetic field velocity > Rotor velocity ^8oBw55eU
 		},
 		{
 			"type": "freedraw",
+<<<<<<< HEAD
+			"version": 242,
+			"versionNonce": 2117846830,
+=======
 			"version": 266,
 			"versionNonce": 2015352837,
+>>>>>>> origin/main
 			"isDeleted": false,
 			"id": "XiMhIiWKRxArZENIUM8RT",
 			"fillStyle": "hachure",
@@ -4976,7 +5453,11 @@ Magnetic field velocity > Rotor velocity ^8oBw55eU
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
+<<<<<<< HEAD
+			"updated": 1684241790083,
+=======
 			"updated": 1684094853141,
+>>>>>>> origin/main
 			"link": null,
 			"locked": false,
 			"points": [
@@ -5319,8 +5800,13 @@ Magnetic field velocity > Rotor velocity ^8oBw55eU
 		},
 		{
 			"type": "image",
+<<<<<<< HEAD
+			"version": 249,
+			"versionNonce": 1772751538,
+=======
 			"version": 273,
 			"versionNonce": 2087540427,
+>>>>>>> origin/main
 			"isDeleted": false,
 			"id": "6ikyDyTo",
 			"fillStyle": "hachure",
@@ -5339,7 +5825,11 @@ Magnetic field velocity > Rotor velocity ^8oBw55eU
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
+<<<<<<< HEAD
+			"updated": 1684241790083,
+=======
 			"updated": 1684094853141,
+>>>>>>> origin/main
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -5351,8 +5841,13 @@ Magnetic field velocity > Rotor velocity ^8oBw55eU
 		},
 		{
 			"type": "text",
+<<<<<<< HEAD
+			"version": 226,
+			"versionNonce": 1708568942,
+=======
 			"version": 250,
 			"versionNonce": 1288736613,
+>>>>>>> origin/main
 			"isDeleted": false,
 			"id": "tSJ6Bt7l",
 			"fillStyle": "hachure",
@@ -5371,7 +5866,11 @@ Magnetic field velocity > Rotor velocity ^8oBw55eU
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
+<<<<<<< HEAD
+			"updated": 1684241790083,
+=======
 			"updated": 1684094853141,
+>>>>>>> origin/main
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -5386,8 +5885,13 @@ Magnetic field velocity > Rotor velocity ^8oBw55eU
 		},
 		{
 			"type": "rectangle",
+<<<<<<< HEAD
+			"version": 731,
+			"versionNonce": 221897842,
+=======
 			"version": 755,
 			"versionNonce": 298730859,
+>>>>>>> origin/main
 			"isDeleted": false,
 			"id": "87oJMlrgV7zjD_y4Q-5mY",
 			"fillStyle": "hachure",
@@ -5406,14 +5910,23 @@ Magnetic field velocity > Rotor velocity ^8oBw55eU
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
+<<<<<<< HEAD
+			"updated": 1684241790083,
+=======
 			"updated": 1684094853141,
+>>>>>>> origin/main
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
+<<<<<<< HEAD
+			"version": 248,
+			"versionNonce": 1729778606,
+=======
 			"version": 272,
 			"versionNonce": 1832082117,
+>>>>>>> origin/main
 			"isDeleted": false,
 			"id": "Arj46opT",
 			"fillStyle": "hachure",
@@ -5437,7 +5950,11 @@ Magnetic field velocity > Rotor velocity ^8oBw55eU
 					"type": "arrow"
 				}
 			],
+<<<<<<< HEAD
+			"updated": 1684241790084,
+=======
 			"updated": 1684094853141,
+>>>>>>> origin/main
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -5452,8 +5969,13 @@ Magnetic field velocity > Rotor velocity ^8oBw55eU
 		},
 		{
 			"type": "arrow",
+<<<<<<< HEAD
+			"version": 436,
+			"versionNonce": 1831372338,
+=======
 			"version": 460,
 			"versionNonce": 911761419,
+>>>>>>> origin/main
 			"isDeleted": false,
 			"id": "Jw1XwVeRN0-rt1tZyu7HT",
 			"fillStyle": "hachure",
@@ -5472,7 +5994,11 @@ Magnetic field velocity > Rotor velocity ^8oBw55eU
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
+<<<<<<< HEAD
+			"updated": 1684241790084,
+=======
 			"updated": 1684094853141,
+>>>>>>> origin/main
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -5501,8 +6027,13 @@ Magnetic field velocity > Rotor velocity ^8oBw55eU
 		},
 		{
 			"type": "text",
+<<<<<<< HEAD
+			"version": 381,
+			"versionNonce": 1009757678,
+=======
 			"version": 405,
 			"versionNonce": 1105574437,
+>>>>>>> origin/main
 			"isDeleted": false,
 			"id": "RFQGB0Te",
 			"fillStyle": "hachure",
@@ -5515,13 +6046,21 @@ Magnetic field velocity > Rotor velocity ^8oBw55eU
 			"y": -656.0885496330923,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
+<<<<<<< HEAD
+			"width": 389.99951171875,
+=======
 			"width": 389.9996337890625,
+>>>>>>> origin/main
 			"height": 25,
 			"seed": 1980534116,
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
+<<<<<<< HEAD
+			"updated": 1684241790084,
+=======
 			"updated": 1684094853141,
+>>>>>>> origin/main
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -5536,8 +6075,13 @@ Magnetic field velocity > Rotor velocity ^8oBw55eU
 		},
 		{
 			"type": "rectangle",
+<<<<<<< HEAD
+			"version": 794,
+			"versionNonce": 576516082,
+=======
 			"version": 818,
 			"versionNonce": 67511979,
+>>>>>>> origin/main
 			"isDeleted": false,
 			"id": "jNo6A9YNX5wjuxG4YLona",
 			"fillStyle": "hachure",
@@ -5561,14 +6105,23 @@ Magnetic field velocity > Rotor velocity ^8oBw55eU
 					"type": "arrow"
 				}
 			],
+<<<<<<< HEAD
+			"updated": 1684241790084,
+=======
 			"updated": 1684094853141,
+>>>>>>> origin/main
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
+<<<<<<< HEAD
+			"version": 610,
+			"versionNonce": 1914683438,
+=======
 			"version": 634,
 			"versionNonce": 1138044293,
+>>>>>>> origin/main
 			"isDeleted": false,
 			"id": "8oBw55eU",
 			"fillStyle": "hachure",
@@ -5587,7 +6140,11 @@ Magnetic field velocity > Rotor velocity ^8oBw55eU
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
+<<<<<<< HEAD
+			"updated": 1684241790084,
+=======
 			"updated": 1684094853141,
+>>>>>>> origin/main
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -5602,8 +6159,13 @@ Magnetic field velocity > Rotor velocity ^8oBw55eU
 		},
 		{
 			"type": "rectangle",
+<<<<<<< HEAD
+			"version": 903,
+			"versionNonce": 282993074,
+=======
 			"version": 927,
 			"versionNonce": 1904351563,
+>>>>>>> origin/main
 			"isDeleted": false,
 			"id": "X8_TJz_RJU5imxToaANs5",
 			"fillStyle": "hachure",
@@ -5627,14 +6189,23 @@ Magnetic field velocity > Rotor velocity ^8oBw55eU
 					"type": "arrow"
 				}
 			],
+<<<<<<< HEAD
+			"updated": 1684241790084,
+=======
 			"updated": 1684094853141,
+>>>>>>> origin/main
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "arrow",
+<<<<<<< HEAD
+			"version": 217,
+			"versionNonce": 215190126,
+=======
 			"version": 241,
 			"versionNonce": 1916744933,
+>>>>>>> origin/main
 			"isDeleted": false,
 			"id": "cdwPpe61HDXSHGUtYhK6D",
 			"fillStyle": "hachure",
@@ -5653,7 +6224,11 @@ Magnetic field velocity > Rotor velocity ^8oBw55eU
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
+<<<<<<< HEAD
+			"updated": 1684241790084,
+=======
 			"updated": 1684094853141,
+>>>>>>> origin/main
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -5682,8 +6257,13 @@ Magnetic field velocity > Rotor velocity ^8oBw55eU
 		},
 		{
 			"type": "arrow",
+<<<<<<< HEAD
+			"version": 193,
+			"versionNonce": 64166770,
+=======
 			"version": 217,
 			"versionNonce": 1009170411,
+>>>>>>> origin/main
 			"isDeleted": false,
 			"id": "n0_3gfi4NyjL5Cascp7jW",
 			"fillStyle": "hachure",
@@ -5702,7 +6282,11 @@ Magnetic field velocity > Rotor velocity ^8oBw55eU
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
+<<<<<<< HEAD
+			"updated": 1684241790084,
+=======
 			"updated": 1684094853141,
+>>>>>>> origin/main
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -5730,6 +6314,643 @@ Magnetic field velocity > Rotor velocity ^8oBw55eU
 			]
 		},
 		{
+<<<<<<< HEAD
+			"type": "text",
+			"version": 95,
+			"versionNonce": 722734254,
+			"isDeleted": false,
+			"id": "SWXGDzhJ",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 2940.562464220533,
+			"y": -920,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 80.41990661621094,
+			"height": 25,
+			"seed": 1980348466,
+			"groupIds": [],
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1684241790084,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 1,
+			"text": "firmware",
+			"rawText": "firmware",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "firmware",
+			"lineHeight": 1.25
+		},
+		{
+			"type": "text",
+			"version": 99,
+			"versionNonce": 1233313074,
+			"isDeleted": false,
+			"id": "27LNR5fe",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 3080.562464220533,
+			"y": -920,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 75.21990966796875,
+			"height": 25,
+			"seed": 890524014,
+			"groupIds": [],
+			"roundness": null,
+			"boundElements": [
+				{
+					"id": "tVFy9zySPnPscP6Oz-5Jx",
+					"type": "arrow"
+				},
+				{
+					"id": "7UMVAR0jJ5W3Z4WTtv_I6",
+					"type": "arrow"
+				}
+			],
+			"updated": 1684241790084,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 1,
+			"text": "compilar",
+			"rawText": "compilar",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "compilar",
+			"lineHeight": 1.25
+		},
+		{
+			"type": "text",
+			"version": 106,
+			"versionNonce": 713705198,
+			"isDeleted": false,
+			"id": "meyL2PYz",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 3172.1255009125402,
+			"y": -894.6240697338541,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 48.25994873046875,
+			"height": 25,
+			"seed": 386918126,
+			"groupIds": [],
+			"roundness": null,
+			"boundElements": null,
+			"updated": 1684241790084,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 1,
+			"text": "linker",
+			"rawText": "linker",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "linker",
+			"lineHeight": 1.25
+		},
+		{
+			"type": "text",
+			"version": 179,
+			"versionNonce": 1330931442,
+			"isDeleted": false,
+			"id": "volQgLSM",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 3255.1865339543874,
+			"y": -829.8106036882408,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 72.97991943359375,
+			"height": 25,
+			"seed": 1448858158,
+			"groupIds": [],
+			"roundness": null,
+			"boundElements": [
+				{
+					"id": "sY8C4QHLfqNutnw8lD_vz",
+					"type": "arrow"
+				}
+			],
+			"updated": 1684241790084,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 1,
+			"text": "boot.bin",
+			"rawText": "boot.bin",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "boot.bin",
+			"lineHeight": 1.25
+		},
+		{
+			"type": "text",
+			"version": 206,
+			"versionNonce": 1270823214,
+			"isDeleted": false,
+			"id": "LDdwY38S",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 3251.5630366920072,
+			"y": -920.5624642205329,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 109.77987670898438,
+			"height": 25,
+			"seed": 2022487406,
+			"groupIds": [],
+			"roundness": null,
+			"boundElements": [
+				{
+					"id": "tVFy9zySPnPscP6Oz-5Jx",
+					"type": "arrow"
+				}
+			],
+			"updated": 1684241790084,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 1,
+			"text": "firmware.bin",
+			"rawText": "firmware.bin",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "firmware.bin",
+			"lineHeight": 1.25
+		},
+		{
+			"type": "text",
+			"version": 158,
+			"versionNonce": 1036957874,
+			"isDeleted": false,
+			"id": "pN1DZF7m",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 2935.1865339543874,
+			"y": -829.8106036882408,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 80.41990661621094,
+			"height": 25,
+			"seed": 874318322,
+			"groupIds": [],
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1684241790084,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 1,
+			"text": "firmware",
+			"rawText": "firmware",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "firmware",
+			"lineHeight": 1.25
+		},
+		{
+			"type": "text",
+			"version": 160,
+			"versionNonce": 1444668270,
+			"isDeleted": false,
+			"id": "MNKQap68",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 3075.1865339543874,
+			"y": -829.8106036882408,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 75.21990966796875,
+			"height": 25,
+			"seed": 1871070766,
+			"groupIds": [],
+			"roundness": null,
+			"boundElements": [
+				{
+					"id": "sY8C4QHLfqNutnw8lD_vz",
+					"type": "arrow"
+				},
+				{
+					"id": "_La5QbfxeU5P53utN6kaN",
+					"type": "arrow"
+				}
+			],
+			"updated": 1684241790085,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 1,
+			"text": "compilar",
+			"rawText": "compilar",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "compilar",
+			"lineHeight": 1.25
+		},
+		{
+			"type": "text",
+			"version": 179,
+			"versionNonce": 345559666,
+			"isDeleted": false,
+			"id": "PdBHSIxP",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 3175.1865339543874,
+			"y": -808.3719229658248,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 48.25994873046875,
+			"height": 25,
+			"seed": 1737161650,
+			"groupIds": [],
+			"roundness": null,
+			"boundElements": null,
+			"updated": 1684241790085,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 1,
+			"text": "linker",
+			"rawText": "linker",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "linker",
+			"lineHeight": 1.25
+		},
+		{
+			"type": "arrow",
+			"version": 97,
+			"versionNonce": 1005143470,
+			"isDeleted": false,
+			"id": "7UMVAR0jJ5W3Z4WTtv_I6",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 3020.562464220533,
+			"y": -900,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 60,
+			"height": 0,
+			"seed": 246967022,
+			"groupIds": [],
+			"roundness": null,
+			"boundElements": null,
+			"updated": 1684241790085,
+			"link": null,
+			"locked": false,
+			"startBinding": null,
+			"endBinding": {
+				"elementId": "27LNR5fe",
+				"focus": -0.6,
+				"gap": 1
+			},
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "triangle",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					60,
+					0
+				]
+			]
+		},
+		{
+			"type": "arrow",
+			"version": 514,
+			"versionNonce": 1182381106,
+			"isDeleted": false,
+			"id": "tVFy9zySPnPscP6Oz-5Jx",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 3160.562464220533,
+			"y": -900.0557823067355,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 90.0005724714747,
+			"height": 0.255007948989487,
+			"seed": 1075356334,
+			"groupIds": [],
+			"roundness": null,
+			"boundElements": null,
+			"updated": 1684241790085,
+			"link": null,
+			"locked": false,
+			"startBinding": {
+				"elementId": "27LNR5fe",
+				"focus": 0.6,
+				"gap": 4.78009033203125
+			},
+			"endBinding": {
+				"elementId": "LDdwY38S",
+				"focus": -0.6,
+				"gap": 1
+			},
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "triangle",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					90.0005724714747,
+					-0.255007948989487
+				]
+			]
+		},
+		{
+			"type": "arrow",
+			"version": 172,
+			"versionNonce": 1045454830,
+			"isDeleted": false,
+			"id": "_La5QbfxeU5P53utN6kaN",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 3015.1865339543874,
+			"y": -809.8106036882408,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 60,
+			"height": 0,
+			"seed": 1534478382,
+			"groupIds": [],
+			"roundness": null,
+			"boundElements": null,
+			"updated": 1684241790085,
+			"link": null,
+			"locked": false,
+			"startBinding": null,
+			"endBinding": {
+				"elementId": "MNKQap68",
+				"focus": -0.6,
+				"gap": 1
+			},
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "triangle",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					60,
+					0
+				]
+			]
+		},
+		{
+			"type": "arrow",
+			"version": 443,
+			"versionNonce": 1431854578,
+			"isDeleted": false,
+			"id": "sY8C4QHLfqNutnw8lD_vz",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 3155.1865339543874,
+			"y": -809.8106036882408,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 99.437535779467,
+			"height": 0,
+			"seed": 977842354,
+			"groupIds": [],
+			"roundness": null,
+			"boundElements": null,
+			"updated": 1684241790085,
+			"link": null,
+			"locked": false,
+			"startBinding": {
+				"elementId": "MNKQap68",
+				"focus": 0.6,
+				"gap": 4.78009033203125
+			},
+			"endBinding": {
+				"elementId": "volQgLSM",
+				"focus": -0.5999999999999999,
+				"gap": 1
+			},
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "triangle",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					99.437535779467,
+					0
+				]
+			]
+		},
+		{
+			"type": "image",
+			"version": 83,
+			"versionNonce": 1000980594,
+			"isDeleted": false,
+			"id": "Ms2fycKZ",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 4.728780954692695,
+			"x": 3322.689901400892,
+			"y": -828.4579810657774,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 61.97331932123942,
+			"height": 24.41373185382159,
+			"seed": 12640,
+			"groupIds": [],
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1684241791931,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "58b256a154189c05e6992db121b789dc9dbdcff7",
+			"scale": [
+				1,
+				1
+			]
+		},
+		{
+			"type": "image",
+			"version": 129,
+			"versionNonce": 990415474,
+			"isDeleted": false,
+			"id": "YsSRuDxMahZfroDSOnAyO",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 4.728780954692695,
+			"x": 3347.48561642529,
+			"y": -920.8783734294464,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 61.97331932123942,
+			"height": 24.41373185382159,
+			"seed": 2099656622,
+			"groupIds": [],
+			"roundness": null,
+			"boundElements": null,
+			"updated": 1684241794233,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "39c13596547f13ce427c9da7f4a26efabbb77e47",
+			"scale": [
+				1,
+				1
+			]
+		},
+		{
+			"id": "2Mz7sUs9",
+			"type": "text",
+			"x": 3402.5166058065392,
+			"y": -922.9478282741591,
+			"width": 165.87982177734375,
+			"height": 25,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 556173234,
+			"version": 47,
+			"versionNonce": 1401691762,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1684241822046,
+			"link": null,
+			"locked": false,
+			"text": "Firmware del SoC",
+			"rawText": "Firmware del SoC",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "Firmware del SoC",
+			"lineHeight": 1.25
+		},
+		{
+			"id": "kcecsAPB",
+			"type": "text",
+			"x": 3380.726431997219,
+			"y": -831.2788212142599,
+			"width": 47.99995422363281,
+			"height": 25,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 558332594,
+			"version": 38,
+			"versionNonce": 50560622,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1684241821121,
+			"link": null,
+			"locked": false,
+			"text": "Boot",
+			"rawText": "Boot",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "Boot",
+			"lineHeight": 1.25
+		},
+		{
+			"type": "image",
+			"version": 84,
+			"versionNonce": 462420526,
+			"isDeleted": true,
+			"id": "ztSU2doeSZUmrkU7Jklh7",
+=======
 			"type": "line",
 			"version": 186,
 			"versionNonce": 2020530123,
@@ -5854,11 +7075,30 @@ Magnetic field velocity > Rotor velocity ^8oBw55eU
 			"versionNonce": 783130891,
 			"isDeleted": true,
 			"id": "Ej8FbVGr",
+>>>>>>> origin/main
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+<<<<<<< HEAD
+			"angle": 4.728780954692695,
+			"x": 3327.198213223509,
+			"y": -803.6622660413783,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 61.97331932123942,
+			"height": 24.41373185382159,
+			"seed": 2100958706,
+			"groupIds": [],
+			"roundness": null,
+			"boundElements": null,
+			"updated": 1684241798432,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "355e615fa6ed1dba0584f29671898acf555e5d5b",
+=======
 			"angle": 0,
 			"x": 3400.7711724311102,
 			"y": -1114.2415616089695,
@@ -6147,6 +7387,7 @@ Magnetic field velocity > Rotor velocity ^8oBw55eU
 			"locked": false,
 			"status": "pending",
 			"fileId": "9adbfb218de2d39524a3f2ac97c9376fffafbbc1",
+>>>>>>> origin/main
 			"scale": [
 				1,
 				1
@@ -6168,10 +7409,17 @@ Magnetic field velocity > Rotor velocity ^8oBw55eU
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "triangle",
+<<<<<<< HEAD
+		"scrollX": -2223.4998010935287,
+		"scrollY": 1431.3502505633653,
+		"zoom": {
+			"value": 0.7000000000000002
+=======
 		"scrollX": -32.287608398659366,
 		"scrollY": 1779.237711928355,
 		"zoom": {
 			"value": 0.45479945673954675
+>>>>>>> origin/main
 		},
 		"currentItemRoundness": "sharp",
 		"gridSize": null,
