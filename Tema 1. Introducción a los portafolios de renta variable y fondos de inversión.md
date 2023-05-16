@@ -151,12 +151,12 @@ Posturas frente al riesgo:
 - _Indiferencia_
 	- Si invierte lo mismo independientemente del riesgo
 
-![](attachments/Pasted%20image%2020230514183555.png)
+	![](attachments/Pasted%20image%2020230514183555.png)
 
 - _Propensión_
 	- Se invierte menos conforme aumenta el riesgo
 
-![](attachments/Pasted%20image%2020230514183628.png)
+	![](attachments/Pasted%20image%2020230514183628.png)
 
 >[!Info]
 >Una acción homogénea es aquel que es la misma para todas las personas
