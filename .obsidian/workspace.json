@@ -42,9 +42,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0d1da8566e4d668c",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/whiteboard.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -114,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Optimización.md",
+                "file": "Excalidraw/whiteboard.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Optimización.md",
+                "file": "Excalidraw/whiteboard.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Optimización.md"
+                "file": "Excalidraw/whiteboard.excalidraw.md"
               }
             }
           },
@@ -193,7 +203,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249.5
+    "width": 249.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,10 +218,11 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "08423d317de445d6",
+  "active": "0d1da8566e4d668c",
   "lastOpenFiles": [
-    "LaTeX.md",
+    "Excalidraw/attachments/Pasted Image 20230515203018_276.png",
     "Optimización.md",
+    "LaTeX.md",
     "LaTeX Template.md",
     "Síntesis de mecanismos.md",
     "Cap. 1. Modelos de sistemas lineales y no lineales.md",
@@ -241,7 +253,6 @@
     "Main.md",
     "Mecanismos.md",
     "Excalidraw/blackboard.excalidraw.md",
-    "Análisis de aceleración.md",
     "attachments/Pasted image 20230514150846.png",
     "attachments/Pasted image 20230514150059.png",
     "attachments/Pasted image 20230514144338.png",
