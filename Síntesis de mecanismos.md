@@ -561,6 +561,10 @@ $$
 $$
 
 
+>[!Info]
+>Una herramienta para encontrar patentes es _Patentscope_
+
+
 ## External Links
 
 - [Optimización](Optimización.md)

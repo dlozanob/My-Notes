@@ -10,7 +10,7 @@ Un sistema se modela con un sistema de ecuaciones diferenciales. En los casos m�
 
 El vector de estados contiene las variables de estado presentes en el sistema, estos varían con el tiempo y son intrínsecos al sistema y ajenos a la entrada.
 
-De manera general, un sistema se puede modelar matemáticamente usando la ecuación de estado:
+De manera general, un sistema se puede modelar matemáticamente usando la ecuación de estado (_ss (state-space) model_):
 
 $$
 \begin{equation}
@@ -313,7 +313,9 @@ $$
 }
 $$
 
-Ejemplo:
+---
+
+- __Ejemplo__ :
 
 ![](attachments/Pasted%20image%2020230214221704.png)
 
@@ -399,8 +401,9 @@ $$
 	\sum_{i} (\triangle \theta)_{i} = 0
 $$
 
+---
 
-Ejemplo:
+- __Ejemplo__ :
 
 ![](attachments/Pasted%20image%2020230220193902.png)
 

@@ -3,6 +3,7 @@
 Un filtro es aquel cuya salida es nula bajo ciertas frecuencias como entrada.
 
 Tipos de filtros:
+
 - _Filtro pasabajas_
 
 ![](attachments/Pasted%20image%2020230501101838.png)
@@ -23,6 +24,8 @@ Tipos de filtros:
 >- $\omega_{c}$ : Frecuencia de cruce
 >- Los filtros pasabandas se usan en equipos biomédicos, ya que, eliminan el ruido que se encuentra a ciertas frecuencias
 >- Los _State Variable Filters_ son chips que tienen varios computadores analógicos integrados (normalmente de $2^{nd}$ orden)
+>- Los rechazabandas se usan para eliminar los $50$ o $60\,\,Hz$ provenientes de la red urbana
+>- En filtros se habla de la relación señal a ruido: $\frac{S}{N}$
 
 ## Realización física de los filtros
 
@@ -42,7 +45,7 @@ Para ser realizado físicamente, el filtro debe aproximarse. El modelo tendrá l
 
 ![](attachments/Pasted%20image%2020230501104248.png)
 
-Al intervalo $\omega_{s} - \omega_{p}$ se le llama banda de transición.
+Al intervalo $\omega_{s} - \omega_{p}$ se le llama _banda de transición_.
 
 >[!Note]
 >Se busca que $A_{0} = 1$
@@ -154,7 +157,7 @@ $$
 \end{align*}
 $$
 
-Sse debe hallar un $H(s)$ que la aproxime.
+Se debe hallar un $H(s)$ que la aproxime.
 
 Se halla el $|H(j\omega)|$ que satisface las especificaciones:
 
@@ -289,11 +292,16 @@ $$
 \end{align*}
 $$
 
+>[!Note]
+>Las funciones de transferencia de estas aproximaciones se encuentran en tablas. Por ejemplo, estas son las funciones de transferencia de Butterworth (prototipo $\omega_{p} = 1$) para un orden $N$ dado:
+>![](attachments/Pasted%20image%2020230513213814.png)
+>Notemos que están representadas en secciones cuadráticas
+
 ---
 
 - __Ejemplo__ :
-	- $\alpha_{p} = 1  dB$
-	- $\alpha_{s} = 25  dB$
+	- $\alpha_{p} = 1\,\,dB$
+	- $\alpha_{s} = 25\,\,dB$
 	- $\frac{\omega_{s}}{\omega_{p}} = 1.5$
 
 Halla el orden $N$ requerido del filtro de Butterworth.
@@ -540,7 +548,7 @@ Ahora bien, haciendo $1 - M\left( \frac{1}{\omega^{2}} \right)$ se llega a la ex
 
 $$
 \begin{align*}
-	M_{\omega^{2}} &= \frac{\varepsilon^{2}V_{N}^{2}\left( \frac{1}{\omega} \right)}{1 + \varepsilon^{2}V_{N}^{2}\left( \frac{1}{\omega} \right)} \\\\
+	M(\omega^{2}) &= \frac{\varepsilon^{2}V_{N}^{2}\left( \frac{1}{\omega} \right)}{1 + \varepsilon^{2}V_{N}^{2}\left( \frac{1}{\omega} \right)} \\\\
 	|H(j\omega)| &= \frac{\varepsilon V_{N}\left( \frac{1}{\omega} \right)}{\sqrt{ 1 + \varepsilon^{2}V_{N}^{2}\left( \frac{1}{\omega} \right) }}
 \end{align*}
 $$
@@ -586,10 +594,19 @@ Se deben hallar los $\omega_{i},\,\, i=\{1, 2, \dots, N\}$, tal que, en la banda
 >[!Note]
 >- Estos filtros también reciben el nombre de _filtros equirizados_, ya que, se busca que el rizado de la banda de paso sea igual al de la banda de rechazo
 >- El cálculo de las frecuencias $\omega_{i}$ implica rutinas de optimización y la resolución de integrales elípticas
+>- Estos filtros producen valores grandes de $\angle H(s)$ -> desfase
+>- En Matlab:
+>	- `ellipord` obtiene el orden de un filtro elíptico
+>	- `ellip` diseña un filtro elíptico
+>	- `poly2sim` transforma un polinomio a simbólico
+>	- `collect(<función>)` imprime la función con estética LaTeX
+>	- `subs(<función>, <valor a sustituir>, <sustitución>` sustituye un valor dentro de una función
+
 
 >[!Info]
->Los osciloscopios en ocasiones traen implementada una onda _chirp_ :
+>- Los osciloscopios la mayoría de las veces traen implementada una onda _chirp_ :
 >![](attachments/Pasted%20image%2020230507121650.png)
+>- Los filtros de Bessel son usados en producción musical para eliminar el desfase
 
 
 Si comparamos los filtros vistos hasta el momento:
@@ -598,4 +615,384 @@ Si comparamos los filtros vistos hasta el momento:
 
 - El filtro _elíptico_ presenta la convergencia más rápida al filtro ideal (requiere menos computadores analógicos). Le siguen el de _Chebyshev II_, _Chebyshev I_ y por último el de _Butterworth_
 - El filtro de _Butterworth_ es el que tiene una mayor banda de transición
+
+
+## Transformaciones de frecuencia
+
+![](attachments/Pasted%20image%2020230513184611.png)
+
+Se considera una transformación de la forma:
+
+$$
+\begin{align*}
+	s = f(\bar{s})
+\end{align*}
+$$
+
+Donde esta función puede ser generalizada como:
+
+$$
+\begin{align*}
+	f(\bar{s}) = \frac{k(\bar{s}^{2} + b_{1}^{2})(\bar{s}^{2} + b_{2}^{2})\cdot \cdot \cdot (\bar{s}^{2} + b_{n}^{2})}{\bar{s}(\bar{s}^{2} + a_{1}^{2})(\bar{s}^{2} + a_{2}^{2})\cdot \cdot \cdot (\bar{s}^{2} + a_{n}^{2})}
+\end{align*}
+$$
+
+Si $a_{i}$, $b_{i}$ y $k$ son reales, entonces $f(\bar{s})$ es una función compleja.
+
+A partir del filtro prototipo pasabajas con $\omega_{p} = 1$, se pueden obtener distintos tipos de filtros para cualquier frecuencia de corte.
+
+| Filtro | Parámetros | Transformación |
+|-|-|-|
+| Pasabajas | $\bar{\omega}_{p}$ | $s = \frac{\bar{s}}{\bar{\omega}_{p}}$ |
+| Pasaaltas | $\bar{\omega}_{p}$ | $s = \frac{\bar{\omega}_{p}}{\bar{s}}$ |
+| Pasabandas | $\bar{\omega}_{PL}$, $\bar{\omega}_{PU}$ | $s = \frac{\bar{s}^{2} + \bar{\omega}_{PL}\bar{\omega}_{PU}}{\bar{s}(\bar{\omega}_{PU} - \bar{\omega}_{PL})}$ |
+| Rechazabandas | $\omega_{SL}$, $\omega_{SU}$ | $s = \frac{\bar{s}(\bar{\omega}_{SU} - \bar{\omega}_{SL})\omega_{s}}{\bar{s}^{2} + \bar{\omega}_{SL}\bar{\omega}_{SU}}$ |
+| Rechazabandas | $\omega_{PL}$, $\omega_{PU}$ | $s = \frac{\bar{s}(\bar{\omega}_{PU} - \bar{\omega}_{PL})}{\bar{s}^{2} + \bar{\omega}_{PU}\bar{\omega}_{PL}}$ |
+
+>[!Note]
+>En un pasabandas se duplica el orden (tiene un $s^{2}$). Tiene sentido, ya que, se puede interpretar como la suma de un pasabajas con un pasaaltas
+
+Para el caso del pasabajas, la transformación satisface:
+
+![](attachments/Pasted%20image%2020230513192104.png)
+
+Se cumple para esta transformación $s = k\bar{s}$ .
+
+ Para un $\bar{\omega}_{p}$ -> $\omega_{p} = 1$ . Entonces $k = \frac{1}{\bar{\omega}_{p}}$ .
+ De esta manera se halla que la transformación para este caso es $s = \frac{\bar{s}}{\bar{\omega}_{p}}$ .
+
+Análogamente, se deducen las otras transformaciones.
+
+>[!Note]
+>En Matlab `lp2lp` (lowpass to lowpass) convierte un filtro prototipo pasabajas a uno de cualquier frecuencia
+
+
+## Realización de filtros
+
+Ahora bien, se busca implementar la teoría abordada para plantear los diseños de los circuitos eléctricos que hacen su rol de filtrado.
+
+Con _secciones de segundo orden_ (_bicuadráticas_) es posible construir filtros de cualquier orden.
+
+| Filtro | Función de transferencia |
+|-|-|
+| Pasabajas | $H(s) = \pm \frac{Gb_{0}}{s^{2} + b_{1}s + b_{0}}$ |
+| Pasaaltas | $H(s) = \pm \frac{Gs^{2}}{s^{2} + b_{1}s + b_{0}}$ |
+| Pasabandas | $H(s) = \pm \frac{Gb_{1}s}{s^{2} + a_{1}s + a_{0}}$ |
+| Rechazabandas | $H(s) = \pm \frac{b_{2}s^{2} + b_{0}}{s^{2} + a_{1}s + a_{0}}$ |
+
+Existen una infinidad de formas de implementar secciones de segundo orden. Las secciones bicuadráticas más significativas son:
+- Sección cuadrática de Sallen y Key
+- Sección cuadrática de Tow-Thomas
+- Sección de Fleischer-Tow
+
+>[!Note]
+>- Se recomienda dejar las funciones de transferencia expresadas en secciones cuadráticas, ya que, las secciones bicuadráticas usan estos polinomios para la implementación. De esta manera salen en tablas de acuerdo a la aproximación del filtro
+>- En Matlab `tf2sos` deja expresadas las funciones de transferencia en secciones de segundo orden
+
+
+### Secciones de Sallen y Key
+
+La sección de Sallen y Key para un pasabajas satisface:
+
+$$
+\begin{align*}
+	H(s) = \frac{G\omega_{0}}{s^{2} + \frac{\omega_{0}}{Q}s + \omega_{0}^{2}}
+\end{align*}
+$$
+
+![](attachments/Pasted%20image%2020230514102651.png)
+
+Para este circuito:
+
+$$
+\begin{align*}
+	G &= u \\
+	\omega_{0}^{2} &= \frac{1}{R_{1}R_{2}C_{1}C_{2}} \\
+	\frac{\omega_{0}}{Q} &= \frac{q}{R_{1}C_{1}} + \frac{1}{R_{2}C_{2}} + \frac{1 - \mu}{R_{2}C_{2}} \\
+	\mu &= 1 + \frac{R_{b}}{R_{a}}
+\end{align*}
+$$
+
+Para el diseño se elije:
+
+$$
+\begin{align*}
+	&C_{1} = C_{2} = 1\,\,F \\
+	&R_{1} = R_{2} = R
+\end{align*}
+$$
+
+A partir de esto:
+
+$$
+\begin{align*}
+	&R = \frac{1}{\omega_{0}} \\
+	&\mu = 3 - \frac{1}{Q}
+\end{align*}
+$$
+
+>[!Note]
+>$Q$ (_quality factor_) : Es un factor que hace que $\frac{\omega_{0}}{Q} \to 0$ para que el filtro tenga polos complejos, lo que genera una mayor resonancia
+
+---
+
+Ahora bien, la sección para un pasaaltas satisface:
+
+$$
+\begin{align*}
+	H(s) = \frac{Gs^{2}}{s^{2} + \frac{\omega_{0}}{Q}s + \omega_{0}^{2}}
+\end{align*}
+$$
+
+![](attachments/Pasted%20image%2020230514111037.png)
+
+Para este circuito:
+
+$$
+\begin{align*}
+	\omega_{0} &= \frac{1}{\sqrt{ R_{1}R_{2}C_{1}C_{2} }} \\\\
+	Q &= \frac{\frac{1}{\sqrt{ R_{1}R_{2}C_{1}C_{2} }}}{\frac{1}{R_{2}C_{2}} + \frac{1}{R_{2}C_{1}} + \frac{1 - \mu}{R_{1}C_{1}}} \\\\
+	G &= \mu = 1 + \frac{R_{b}}{R_{a}}
+\end{align*}
+$$
+
+Para el diseño se elije:
+
+$$
+\begin{align*}
+	&C_{1} = C_{2} = 1\,\,F  \\\\
+	&a_{0} = \frac{1}{R_{1}R_{2}}  \\\\
+	&a_{1} = \frac{2}{R_{2}} + \frac{1 - \mu}{R_{1}}
+\end{align*}
+$$
+
+Donde:
+
+$$
+\begin{align*}
+	R_{2} &= \frac{\sqrt{ 8a_{0}(\mu - 1) + a_{1}^{2} } - a_{1}}{2(\mu - 1)a_{0}} \\\\
+	R_{1} &= \frac{1}{a_{0}R_{2}}
+\end{align*}
+$$
+
+>[!Note]
+>Las secciones de Sallen y Key casi no se usan, ya que, el diseño se vuelve difícil porque se complican las ecuaciones de diseño al depender estas de varias variables.
+>Por tanto, se recomienda usarlas únicamente en pasabajas y pasaaltas
+
+
+---
+
+- __Ejemplo__ :
+	- Diseñar un filtro pasabajos de Butterworth
+	- Orden 4
+	- Usar 2 secciones de Sallen y Key
+	- $\omega_{p} = 2\pi\cdot2000$
+	- Usar condensadores de $50\,\,nF$
+
+El filtro de Butterworth normalizado para $N = 4$ está dado por:
+
+$$
+\begin{align*}
+	H(s) = \frac{G_{1}}{s^{2} + \underbrace{ 0.76536 }_{ \frac{\omega_{0}}{Q_{1}} }s + \underbrace{ 1 }_{ \omega_{0}^{2} }}\cdot \frac{G_{2}}{s^{2} + \underbrace{ 1.84775 }_{ \frac{\omega_{0}}{Q_{2}} }s + \underbrace{ 1 }_{ \omega_{0} }}
+\end{align*}
+$$
+
+De tal manera que cada polinomio de $H(s)$ representa una sección de Sallen y Key.
+
+Para la primera sección:
+
+$$
+\begin{align*}
+	C_{1,1} &= C_{2,1} = 1\,\,F \\
+	 \\
+	R = \frac{1}{\omega_{0}} = 1\,\,\Omega &\to R_{1,1} = R_{2,1} = 1\,\,\,\,\Omega \\\\
+	\mu_{1} &= 3 - \frac{1}{Q_{1}} \\
+	&= 3 - 0.76536 = 2.23463
+\end{align*}
+$$
+
+De tal manera que (con $R_{a,1} = 4\,\,\Omega$) :
+
+$$
+\begin{align*}
+	\mu_{1} &= 1 + \frac{R_{b,1}}{R_{a,1}} \\
+	R_{b,1} &= 4.9384\,\,\Omega
+\end{align*}
+$$
+
+Paa la segunda sección:
+
+$$
+\begin{align*}
+	C_{1,2} &= C_{2,2} = 1\,\,F \\
+	 \\
+	R = \frac{1}{\omega_{0}} = 1\,\,\Omega &\to R_{1,2} = R_{2,2} = 1\,\,\,\,\Omega \\\\
+	\mu_{1} &= 3 - \frac{1}{Q_{2}} \\
+	&= 3 - 1.84775 = 1.15224
+\end{align*}
+$$
+
+Así mismo (con $R_{a,2} = 4\,\,\Omega$) :
+
+$$
+\begin{align*}
+	\mu_{2} &= 1 + \frac{R_{b,2}}{R_{a,2}} \\
+	R_{b,2} &= 0.6089\,\,\Omega
+\end{align*}
+$$
+
+El filtro queda de la siguiente manera:
+
+![](attachments/Pasted%20image%2020230514105809.png)
+
+Por último, debe desnormalizarse. Sabiendo que $\omega_{0} = 2\pi\cdot2000$ , entonces se dividen los condensadores por un factor $K_{f} = 2\pi\cdot 2000$ :
+
+![](attachments/Pasted%20image%2020230514110054.png)
+
+No obstante, en el enunciado, uno de los requerimientos es que los condensadores sean de $50\,\,nF$ , por tanto, se multiplican todos los componentes por un factor $K_{z} = \frac{79.57747}{0.05} = 1591.54$ :
+
+![](attachments/Pasted%20image%2020230514110607.png)
+
+
+### Secciones de Tow-Thomas
+
+Sabiendo que la función de transferencia de un pasabajas es:
+
+$$
+\begin{align*}
+	H(s) = \frac{Ga_{0}}{s^{2} + a_{1}s + a_{0}}
+\end{align*}
+$$
+
+Una realización que usa el mínimo número de operaciones fue propuesta por Tow-Thomas:
+
+![](attachments/Pasted%20image%2020230514114620.png)
+
+Para el diseño se toma:
+
+$$
+\begin{align*}
+	C_{1} &= C_{2} = 1\,\,F \\
+	R_{1} &= \frac{1}{a_{1}}  \\
+	R_{2} &= R_{3} = \frac{1}{\sqrt{ a_{0} }} \\
+	R_{4} &= \frac{R_{3}}{G} = \frac{1}{G\sqrt{ a_{0} }}
+\end{align*}
+$$
+
+Si $G = 1$ el filtro no amplifica y entonces $R_{2} = R_{3} = R_{4}$ .
+
+>[!Note]
+>- Se recomienda un $R = 10\,\,k\Omega$ no reescalable. Se elige este valor, ya que, es intermedio y los operacionales funcionan bien
+>	- Si se seleccionan resistencias muy grandes, la corriente de fuga crece y se generan errores
+>	![](attachments/Pasted%20image%2020230514132213.png)
+>- La sección de Sallen y Key es más recomendable para frecuencias superiores
+>- Las secciones de Tow-Thomas:
+>	- Tienen ecuaciones de diseño más sencillas (no dependen de muchas variables)
+>	- Requieren más operacionales
+
+---
+
+- __Ejemplo__ :
+	- Diseñar filtro pasabajas de Chebyshev tipo 1
+	- Usar secciones de Tow-Thomas
+	- $f = 500\,\,Hz$
+	- $\alpha_{p} = 0.1$
+	- $N = 5$
+
+Usando tablas, se halla una función de transferencia de Chebyschev tipo 1 de orden 5:
+
+$$
+\begin{align*}
+	H(s) = \frac{0.4095}{(s^{2} + 0.872s + 0.635)(s^{2} + 0.3331s + 1.195)(s + 0.5389)}
+\end{align*}
+$$
+
+Dejándola expresada en secciones bicuadráticas, tal que, $H_{2}(0) = H_{3}(0) = 1$ (multiplica por $\frac{1}{0.635\cdot 1.195}$):
+
+$$
+\begin{align*}
+	H(s) = \frac{\frac{0.4095}{0.635\cdot\,\,1.195}}{s + 0.5389}\cdot \frac{0.635}{s^{2} + 0.872s + 0.635}\cdot \frac{1.195}{s^{2} + 0.3331s + 1.195}
+\end{align*}
+$$
+
+Se corresponde a:
+
+![](attachments/Pasted%20image%2020230514122035.png)
+
+
+Para la primera sección, debido a que es de primer orden, se usa la realización:
+
+![](attachments/Pasted%20image%2020230514120137.png)
+
+Entonces:
+
+$$
+\begin{align*}
+	R_{1,1} &= \frac{1}{b_{0,1}} = \frac{1}{0.538} = 1.85 \\\\
+	R_{2,1} &= \frac{1}{a_{0,1}} = \frac{1}{0.538} = 1.85  \\\\
+	C_{1,1} &= 1\,\,F
+\end{align*}
+$$
+
+La segunda y tercera sección son bicuadráticas deTow-Thomas.
+Para la segunda:
+
+$$
+\begin{align*}
+	R_{1,2} &= \frac{1}{a_{1,2}} = \frac{1}{0.872} = 1.14 \\\\
+	R_{2,2} &= R_{3,2} = R_{4,2} = \frac{1}{\sqrt{ a_{0,2} }} = \frac{1}{\sqrt{ 0.635 }} = 1.25 \\\\
+	C_{1,2} &= C_{2,2} = 1\,\,F
+\end{align*}
+$$
+
+Así mismo, para la tercera sección:
+
+$$
+\begin{align*}
+	R_{1,3} &= \frac{1}{a_{1,3}} = \frac{1}{0.331} = 3 \\\\
+	R_{2,3} &= R_{3,3} = R_{4,3} = \frac{1}{\sqrt{ a_{0,3} }} = \frac{1}{\sqrt{ 1.195 }} = 0.9148 \\\\
+	C_{1,3} &= C_{2,3} = 1\,\,F
+\end{align*}
+$$
+
+La frecuencia de corte es de $\omega_{p} = 2\pi\cdot 5000 = 1000\pi$ , se desnormaliza el filtro escalando los condensadores por un factor $K_{f} = \frac{1}{1000\pi}$ , entonces $C = 318.3  \mu F$ .
+
+Pero estos valores de condensadores son absurdos, preferiblemente estaría bien usar $C = 10  nF$ . Siendo así, se reescalan los componentes por un factor $K_{z} = \frac{318.3\,\,\mu F}{10\,\,NF} = 31830$ .
+
+
+### Secciones de Fleischer-Tow
+
+Se satisface para cualquier tipo de filtro:
+
+$$
+\begin{align*}
+	H(s) = -G \frac{b_{2}s^{2} + b_{1}s + b_{0}}{s^{2} + a_{1}s + a_{0}}
+\end{align*}
+$$
+
+![](attachments/Pasted%20image%2020230514122455.png)
+
+Para el diseño se toma:
+
+$$
+\begin{align*}
+	C_{1} &= C_{2} = 1\,\,F \\
+	R_{1} &= \frac{1}{a_{1}} \\
+	R_{2} &= R_{3} = \frac{1}{\sqrt{ a_{0} }}
+\end{align*}
+$$
+
+Se selecciona una $R$ arbitraria, preferiblemente de $10\,\,k\Omega$
+
+$R_{4}$, $R_{5}$ y $R_{6}$ se selecionan dependiendo del tipo de filtro (pasabajas, pasaaltas, etc).
+
+| Tipo de filtro | $R_{4}$ | $R_{5}$ | $R_{6}$ |
+|-|-|-|-|
+| Pasabajas | $\infty$ | $\infty$ | $\frac{R_{2}}{G}$ |
+| Pasaaltas | $\frac{R_{1}}{G}$ |$\infty$ | $\infty$ |
+| Pasabandas | $\frac{R_{1}}{G}$ | $\frac{R}{G}$ | $\infty$ |
+| Rechazabandas | $\frac{R_{5}R_{1}}{R}$ | $\triangle$ | $\triangle$ |
+
+$\triangle$ : Se seleccionan de tal manera que se logren distintos valores para $b_{1}$ y $b_{2}$ .
+
 

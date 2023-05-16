@@ -508,7 +508,7 @@ En sintetización se inicializa la ROM
 
 Litex hace: Configurar periféricos del SoC -> Compilar Boot -> Crear mapa de registros de control
 
-
+Recopila todos los archivos
 
 
 

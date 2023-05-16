@@ -1,6 +1,13 @@
 # Optimización
 
-See trata de encontrar el máximo o mínimo valor de una función objetivo dentro de unas fronteras definidas.
+---
+
+Por terminar...
+
+---
+
+
+Se trata de encontrar el máximo o mínimo valor de una función objetivo dentro de unas fronteras definidas.
 Con el gradiente se halla la dirección del valor máximo.
 
 Función Lagrangiana:
@@ -133,7 +140,41 @@ Clasificación de estas técnicas:
 			- Se efectúan cambios bruscos en un gen
 
 
-
 En ingeniería se utilizan estos algoritmos para obtener optimizaciones topológicas de máquinas y elementos.
 
 Algunos softwares utilizan optimización basándose en los procesos de manufactura disponibles por el usuario. El máximo exponente es Autodesk Fusion.
+
+Existen problemas de optimización multiobjetivo en los cuales se asignan pesos a cada una de estas funciones, de tal manera que:
+
+$$
+\begin{align*}
+	\sum_{i = 0}^{n} W_{i} = 1
+\end{align*}
+$$
+
+Para el mecanismo de Hoeken se pretende optimizar la rectitud y también la velocidad de tal manera que esta sea constante.
+
+Para este tipo de problemas se utiliza la estrategia de _programación por compromiso_.
+
+>[!Info]
+>La metodología de diseño _TRIZ (Theory of Inventive Problem Solving)_ fue desarrollada por un ingeniero ruso y se basa en la innovación 
+
+>[!Note]
+>Cuando se tienen funciones $max()$ y $min()$ dentro de la función objetivo, esta deja de ser continuamente diferenciable, por lo que se deben usar algoritmos que no usen derivadas
+
+>[!Note]
+>El _Global Optimization Toolbox_ de Matlab tiene una herramienta llamada _Pattern Search_ que permite optimización sin derivadas
+
+
+
+
+$$
+\begin{align*}
+	D &= k_{4} + k5\cdot cos(th_{2}) - k_{6} + cos(th_{2}) \\
+	E &= -2\cdot sin(th_{2}) \\
+	F &= k_{4} + k_{5}\cdot cos(th_{2}) + k_{6} - cos(th_{2}) \\\\
+	k4 &= \frac{-L_{1}^2 - L_{2}^2}{(2\cdot L_{2}\cdot L_{3})}  \\\\
+	k5 &= \frac{L_{1}}{L_{3}} \\\\
+	k6 &= \frac{L_{1}}{L_{2}} \\
+\end{align*}
+$$

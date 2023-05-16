@@ -6,7 +6,7 @@
 \documentclass[conference, hidelinks]{article}
 % ////////////////////////////////////////////////////////////%
 
-% /////////////////PAQUETES EXPORTADOS////////////////////////%
+% /////////////////PAQUETES IMPORTADOS////////////////////////%
 \usepackage{enumerate} % Enumerar
 \usepackage[spanish,es-tabla]{babel} % Configuración de idioma
 \usepackage[utf8]{inputenc} % Cargar caracteres
