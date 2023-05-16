@@ -506,9 +506,20 @@ El firmware es el software que se le programa al SoC
 
 En sintetización se inicializa la ROM
 
-Litex hace: Configurar periféricos del SoC -> Compilar Boot -> Crear mapa de registros de control
+Litex hace: Configurar periféricos del SoC -> Compilar Boot -> Crear mapa de registros de estatus y control (CSR)
 
-Recopila todos los archivos
+Recopila todos los archivos .py, .v, y genera una carpeta `gateware`
+
+
+`load.py` carga el procesador a la FPGA
+
+BIOS = Boot de arranque = Boot load (Basic Input Output Software) -> Inicializa periféricos
+
+
+
+
+
+
 
 
 
