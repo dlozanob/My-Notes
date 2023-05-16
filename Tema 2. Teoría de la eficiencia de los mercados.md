@@ -57,7 +57,7 @@ La hipótesis de eficiencia de los mercados propuesta por Eugene Fama definió 3
 - Débil
 	- El precio del título refleja el precio pasado y la historia de transacciones del mismo
 - Semifuerte
-	- El precio del título refleja toda la información pública disponible
+	- El precio del título refleja toda la información pública e histórica disponible
 - Fuerte
 	- El precio del título refleja incluso la información privada
 
