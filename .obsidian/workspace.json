@@ -13,9 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Verilog.md",
-                "mode": "preview",
+                "file": "Electrónica Digital II.md",
+                "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "69a7add74771e3ae",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/blackboard.excalidraw.md"
               }
             }
           }
@@ -89,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Verilog.md",
+                "file": "Electrónica Digital II.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Verilog.md",
+                "file": "Electrónica Digital II.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Verilog.md"
+                "file": "Electrónica Digital II.md"
               }
             }
           },
@@ -185,11 +195,14 @@
   },
   "active": "e5a2fd4f330ab1d1",
   "lastOpenFiles": [
+    "attachments/Pasted image 20230516075725.png",
+    "Excalidraw/blackboard.excalidraw.md",
+    "Electrónica Digital II.md",
+    "Verilog.md",
     "Tema 4. Análisis de sensibilidad.md",
     "Módulo 4. Bonos y conceptos de duración.md",
     "Tema 3. Valoración.md",
     "Finanzas.md",
-    "Verilog.md",
     "conflict-files-obsidian-git.md",
     "attachments/Pasted image 20230511225034.png",
     "attachments/Pasted image 20230511221829.png",
@@ -198,7 +211,6 @@
     "attachments/Pasted image 20230511213123.png",
     "attachments/Pasted image 20230511213109.png",
     "attachments/Pasted image 20230511212622.png",
-    "Excalidraw/blackboard.excalidraw.md",
     "Tema 2. Introducción al riesgo.md",
     "Módulo 5. Teoría de portafolio.md",
     "Tema 1. Conceptos básicos de probabilidad y estadística.md",
@@ -207,7 +219,6 @@
     "Excalidraw/attachments/Pasted Image 20230511120350_275.png",
     "Excalidraw/attachments/Pasted Image 20230511112020_947.png",
     "Servomecanismos.md",
-    "Electrónica Digital II.md",
     "Linux commands.md",
     "Tema 5. Valoración de operaciones.md",
     "Tema 2. Tipos de bonos y sus características.md",

@@ -494,6 +494,23 @@ _PSW_ es el estado del procesador
 Las interrupciones no pueden ser mandadas por el bus Wishbone. Son señales directas al registro IP
 
 
+---
+
+f332 -> Chip que implementa JTAG y UART
+
+JTAG -> Sirve para programar la tarjeta, es un protocolo
+
+El firmware es el software que se le programa al SoC
+
+![](attachments/Pasted%20image%2020230516075725.png)
+
+En sintetización se inicializa la ROM
+
+Litex hace: Configurar periféricos del SoC -> Compilar Boot -> Crear mapa de registros de control
+
+
+
+
 
 
 ---
