@@ -170,8 +170,6 @@ Para este tipo de problemas se utiliza la estrategia de _programación por compr
 
 $$
 \begin{align*}
-	L_{1} > 0  \\
-	L_{2} > 0  \\
-	L_{3} > 0
+	min(f) = min(\varepsilon_{s}) = \frac{max_{i=1}^{n}(C_{yi}) - min_{i=1}^{n}(C_{yi})}{\Delta x}
 \end{align*}
 $$
