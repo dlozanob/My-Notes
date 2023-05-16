@@ -167,14 +167,3 @@ Para este tipo de problemas se utiliza la estrategia de _programación por compr
 
 
 
-
-$$
-\begin{align*}
-	D &= k_{4} + k5\cdot cos(th_{2}) - k_{6} + cos(th_{2}) \\
-	E &= -2\cdot sin(th_{2}) \\
-	F &= k_{4} + k_{5}\cdot cos(th_{2}) + k_{6} - cos(th_{2}) \\\\
-	k4 &= \frac{-L_{1}^2 - L_{2}^2}{(2\cdot L_{2}\cdot L_{3})}  \\\\
-	k5 &= \frac{L_{1}}{L_{3}} \\\\
-	k6 &= \frac{L_{1}}{L_{2}} \\
-\end{align*}
-$$

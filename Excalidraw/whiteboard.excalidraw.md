@@ -8,12 +8,6 @@ tags: [excalidraw]
 
 
 # Text Elements
-
-# Embedded files
-e3f5935fa7a61c1a0239ef32c8ce33e9cad811e3: $$\theta_3$$
-8b73a32486b940f5a497a3849a873e1a4acb83a2: $$\theta_{2}$$
-ffda5b2b62e5dff765e500c5565f889a076513f7: [[attachments/Pasted Image 20230515231517_733.png]]
-
 %%
 # Drawing
 ```json
@@ -24,9 +18,9 @@ ffda5b2b62e5dff765e500c5565f889a076513f7: [[attachments/Pasted Image 20230515231
 	"elements": [
 		{
 			"type": "image",
-			"version": 26,
-			"versionNonce": 1478390905,
-			"isDeleted": false,
+			"version": 27,
+			"versionNonce": 1449132759,
+			"isDeleted": true,
 			"id": "8eKKVTUmIHuZ2OGxolpyr",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
@@ -44,7 +38,7 @@ ffda5b2b62e5dff765e500c5565f889a076513f7: [[attachments/Pasted Image 20230515231
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1684210548380,
+			"updated": 1684212812079,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -56,9 +50,9 @@ ffda5b2b62e5dff765e500c5565f889a076513f7: [[attachments/Pasted Image 20230515231
 		},
 		{
 			"type": "line",
-			"version": 6,
-			"versionNonce": 514997783,
-			"isDeleted": false,
+			"version": 7,
+			"versionNonce": 1102543385,
+			"isDeleted": true,
 			"id": "fHIngZPrzdgRxdnpyFxQ2",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
@@ -78,7 +72,7 @@ ffda5b2b62e5dff765e500c5565f889a076513f7: [[attachments/Pasted Image 20230515231
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1684210548383,
+			"updated": 1684212812079,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -99,9 +93,9 @@ ffda5b2b62e5dff765e500c5565f889a076513f7: [[attachments/Pasted Image 20230515231
 		},
 		{
 			"type": "freedraw",
-			"version": 81,
-			"versionNonce": 187273945,
-			"isDeleted": false,
+			"version": 82,
+			"versionNonce": 1931972599,
+			"isDeleted": true,
 			"id": "TimEtFwEF3uusCL4pGRKE",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
@@ -119,7 +113,7 @@ ffda5b2b62e5dff765e500c5565f889a076513f7: [[attachments/Pasted Image 20230515231
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1684210548383,
+			"updated": 1684212812079,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -446,9 +440,9 @@ ffda5b2b62e5dff765e500c5565f889a076513f7: [[attachments/Pasted Image 20230515231
 		},
 		{
 			"type": "freedraw",
-			"version": 36,
-			"versionNonce": 40825719,
-			"isDeleted": false,
+			"version": 37,
+			"versionNonce": 1624428281,
+			"isDeleted": true,
 			"id": "81FXr3juAZ0e7sL1LApiK",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
@@ -466,7 +460,7 @@ ffda5b2b62e5dff765e500c5565f889a076513f7: [[attachments/Pasted Image 20230515231
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1684210551099,
+			"updated": 1684212812079,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -617,9 +611,9 @@ ffda5b2b62e5dff765e500c5565f889a076513f7: [[attachments/Pasted Image 20230515231
 		},
 		{
 			"type": "image",
-			"version": 31,
-			"versionNonce": 706207383,
-			"isDeleted": false,
+			"version": 32,
+			"versionNonce": 1707112727,
+			"isDeleted": true,
 			"id": "9f7FIXdU",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
@@ -637,7 +631,7 @@ ffda5b2b62e5dff765e500c5565f889a076513f7: [[attachments/Pasted Image 20230515231
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1684210573163,
+			"updated": 1684212812079,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -649,9 +643,9 @@ ffda5b2b62e5dff765e500c5565f889a076513f7: [[attachments/Pasted Image 20230515231
 		},
 		{
 			"type": "image",
-			"version": 91,
-			"versionNonce": 1212784215,
-			"isDeleted": false,
+			"version": 92,
+			"versionNonce": 795903961,
+			"isDeleted": true,
 			"id": "uDivPEY9",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
@@ -669,7 +663,7 @@ ffda5b2b62e5dff765e500c5565f889a076513f7: [[attachments/Pasted Image 20230515231
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1684210588138,
+			"updated": 1684212812079,
 			"link": null,
 			"locked": false,
 			"status": "pending",
