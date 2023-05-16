@@ -166,3 +166,12 @@ Para este tipo de problemas se utiliza la estrategia de _programación por compr
 >El _Global Optimization Toolbox_ de Matlab tiene una herramienta llamada _Pattern Search_ que permite optimización sin derivadas
 
 
+
+
+$$
+\begin{align*}
+	L_{1} > 0  \\
+	L_{2} > 0  \\
+	L_{3} > 0
+\end{align*}
+$$

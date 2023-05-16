@@ -26,7 +26,7 @@
               "type": "markdown",
               "state": {
                 "file": "Optimización.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -54,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/whiteboard.excalidraw.md",
+                "file": "Optimización.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/whiteboard.excalidraw.md",
+                "file": "Optimización.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/whiteboard.excalidraw.md"
+                "file": "Optimización.md"
               }
             }
           },
@@ -218,8 +218,9 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "0d1da8566e4d668c",
+  "active": "08423d317de445d6",
   "lastOpenFiles": [
+    "Excalidraw/whiteboard.excalidraw.md",
     "Excalidraw/attachments/Pasted Image 20230515203018_276.png",
     "Optimización.md",
     "LaTeX.md",
@@ -234,7 +235,6 @@
     "Módulo 5. Teoría de portafolio.md",
     "Tema 2. Teoría de la eficiencia de los mercados.md",
     "Tema 1. Introducción a los portafolios de renta variable y fondos de inversión.md",
-    "Excalidraw/whiteboard.excalidraw.md",
     "Módulo 1. Economía y matemática financiera.md",
     "Tema 2. Función de oferta y demanda.md",
     "Finanzas.md",
@@ -255,7 +255,6 @@
     "Excalidraw/blackboard.excalidraw.md",
     "attachments/Pasted image 20230514150846.png",
     "attachments/Pasted image 20230514150059.png",
-    "attachments/Pasted image 20230514144338.png",
     "Excalidraw/attachments",
     "attachments",
     "New folder",
