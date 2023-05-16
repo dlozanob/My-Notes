@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Módulo 5. Teoría de portafolio.md",
-                "mode": "preview",
+                "file": "Tema 1. Introducción a los portafolios de renta variable y fondos de inversión.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Módulo 5. Teoría de portafolio.md",
+                "file": "Tema 1. Introducción a los portafolios de renta variable y fondos de inversión.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Módulo 5. Teoría de portafolio.md",
+                "file": "Tema 1. Introducción a los portafolios de renta variable y fondos de inversión.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Módulo 5. Teoría de portafolio.md"
+                "file": "Tema 1. Introducción a los portafolios de renta variable y fondos de inversión.md"
               }
             }
           },
@@ -185,10 +185,13 @@
   },
   "active": "ea48484824246f30",
   "lastOpenFiles": [
-    "Nóbeles de economía.md",
-    "Módulo 5. Teoría de portafolio.md",
-    "Tema 2. Teoría de la eficiencia de los mercados.md",
+    "attachments/Pasted image 20230516162423.png",
+    "attachments/Pasted image 20230516162307.png",
+    "attachments/Pasted image 20230509170153.png.md",
     "Tema 1. Introducción a los portafolios de renta variable y fondos de inversión.md",
+    "Módulo 5. Teoría de portafolio.md",
+    "Nóbeles de economía.md",
+    "Tema 2. Teoría de la eficiencia de los mercados.md",
     "Finanzas.md",
     "conflict-files-obsidian-git.md",
     "attachments/Pasted image 20230516075725.png",
@@ -214,13 +217,10 @@
     "attachments/Pasted image 20230514181405.png",
     "Excalidraw/attachments/Pasted Image 20230514181404_497.png",
     "attachments/Pasted image 20230514181351.png",
-    "attachments/Pasted image 20230514173006.png",
     "Tema 4. Modelo CAPM; SML; CML y APT.md",
     "Linux commands.md",
     "Cybersec.md",
     "Main.md",
-    "Mecanismos.md",
-    "Excalidraw/blackboard.excalidraw.md",
     "Excalidraw/attachments",
     "attachments",
     "New folder",

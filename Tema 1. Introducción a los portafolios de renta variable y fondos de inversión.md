@@ -78,12 +78,12 @@ $$
 - _Covarianza_ ($\sigma_{XY}$)
 	- Mide la relación entre dos variables aleatorias
 
- $$
+	 $$
 	\begin{align*}
 		cov(X, Y) = \frac{1}{n}\sum_{i=1}^{n}(x_{i} - E[X])(y_{i} - E[Y]) = E[(X_{i} - E[X])(Y_{i} - E[Y])]
 	\end{align*}
 	$$
-
+	
 	- Si $XY > 0$
 		- Existe una relación lineal entre las variables
 	- Si $XY = 0$
@@ -145,9 +145,9 @@ Posturas frente al riesgo:
 
 - _Aversión_
 	- Entre más riesgo ($\sigma$), más se invierte
-
-![](attachments/Pasted%20image%2020230502173429.png)
-
+	
+	![](attachments/Pasted%20image%2020230516162423.png)
+	
 - _Indiferencia_
 	- Si invierte lo mismo independientemente del riesgo
 
@@ -172,7 +172,7 @@ Hacen una matriz de varianza - covarianza para comparar los rendimientos de las 
 Las covarianzas pueden ser negativas, las varianzas no. Notemos que al comprar en A, B y C hay 6 covarianzas y 3 varianzas, si se compra en más acciones, hay incluso muchas más covarianzas que varianzas.
 Las covarianzas al restar, disminuyen el riesgo. Las varianzas suman el riesgo.
 
-![](attachments/Pasted%20image%2020230509170153.png)
+![](attachments/Pasted%20image%2020230516162307.png)
 
 Por tanto, al armar un portafolio más grande (invertir en varias compañías al tiempo), se reduce mucho más el riesgo.
 
