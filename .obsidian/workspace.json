@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "24098472dbed0a92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "69a7add74771e3ae",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -101,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electrónica Digital II.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electrónica Digital II.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Electrónica Digital II.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -195,20 +208,20 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "e5a2fd4f330ab1d1",
+  "active": "24098472dbed0a92",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Electrónica Digital II.md",
+    "conflict-files-obsidian-git.md",
+    "attachments/Pasted image 20230516165533.png",
+    "attachments/Pasted image 20230516165516.png",
+    "attachments/Pasted image 20230516162423.png",
+    "attachments/Pasted image 20230516162307.png",
     "attachments/Pasted image 20230514184051.png",
     "attachments/Pasted image 20230514183628.png",
     "attachments/Pasted image 20230514183555.png",
     "attachments/Pasted image 20230514181405.png",
     "attachments/Pasted image 20230514181351.png",
     "attachments/Pasted image 20230514173006.png",
-    "attachments/Pasted image 20230514150846.png",
-    "attachments/Pasted image 20230514150059.png",
-    "attachments/Pasted image 20230514144338.png",
-    "attachments/Pasted image 20230514143325.png",
     "Tema 4. Modelo CAPM; SML; CML y APT.md",
     "Tema 3. Medición del rendimiento y del riesgo.md",
     "Tema 2. Teoría de la eficiencia de los mercados.md",
