@@ -516,7 +516,7 @@ Recopila todos los archivos .py, .v, y genera una carpeta `gateware`
 BIOS = Boot de arranque = Boot load (Basic Input Output Software) -> Inicializa periféricos
 
 
-
+Litex_term carga el firmware.bin a la memoria
 
 
 

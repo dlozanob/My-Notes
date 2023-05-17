@@ -23,9 +23,11 @@
             "id": "69a7add74771e3ae",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md"
+                "file": "Excalidraw/blackboard.excalidraw.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
