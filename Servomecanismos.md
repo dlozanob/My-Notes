@@ -767,6 +767,11 @@ Un perfil trapezoidal suave evita el problema de los jerks
 
 
 
+![](attachments/Pasted%20image%2020230518093020.png)
+
+
+
+
 1. ¿Qué tipo de motor es el más pertinente en control de movimiento?
 2. ¿Qué configuración es la más apropiada para la inversión de giro?
 3. ¿Qué tipo de motor otorga una mejor precisión?

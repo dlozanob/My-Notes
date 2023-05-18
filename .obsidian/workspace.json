@@ -16,8 +16,21 @@
                 "file": "Excalidraw/blackboard.excalidraw.md"
               }
             }
+          },
+          {
+            "id": "fa715190f9655823",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Servomecanismos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md",
+                "file": "Servomecanismos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md",
+                "file": "Servomecanismos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md"
+                "file": "Servomecanismos.md"
               }
             }
           },
@@ -181,10 +194,11 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "e5a2fd4f330ab1d1",
+  "active": "fa715190f9655823",
   "lastOpenFiles": [
-    "Servomecanismos.md",
+    "attachments/Pasted image 20230518093020.png",
     "Excalidraw/blackboard.excalidraw.md",
+    "Servomecanismos.md",
     "Electrónica Digital II.md",
     "conflict-files-obsidian-git.md",
     "attachments/Pasted image 20230516165533.png",
