@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tema 3. Medición del rendimiento y del riesgo.md",
+                "file": "Tema 4. Modelo CAPM; SML; CML y APT.md",
                 "mode": "source",
                 "source": false
               }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tema 3. Medición del rendimiento y del riesgo.md",
+                "file": "Tema 4. Modelo CAPM; SML; CML y APT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tema 3. Medición del rendimiento y del riesgo.md",
+                "file": "Tema 4. Modelo CAPM; SML; CML y APT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tema 3. Medición del rendimiento y del riesgo.md"
+                "file": "Tema 4. Modelo CAPM; SML; CML y APT.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"línea recta\"",
+                "query": "\"mercados financieros\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -185,17 +185,25 @@
   },
   "active": "ea48484824246f30",
   "lastOpenFiles": [
-    "attachments/Pasted image 20230516165533.png",
-    "attachments/Pasted image 20230516165516.png",
+    "attachments/Pasted image 20230518183415.png",
+    "attachments/Pasted image 20230518183336.png",
+    "Obsidian Basics.md",
+    "Tema 4. Modelo CAPM; SML; CML y APT.md",
     "Módulo 5. Teoría de portafolio.md",
-    "Tema 1. Introducción a los portafolios de renta variable y fondos de inversión.md",
+    "Finanzas.md",
+    "Módulo 4. Bonos y conceptos de duración.md",
+    "Tema 1. Definición y clase de los instrumentos de deuda.md",
+    "Tema 1. Infraestructura de los mercados financieros.md",
     "Tema 3. Medición del rendimiento y del riesgo.md",
     "Tema 2. Teoría de la eficiencia de los mercados.md",
+    "attachments/Pasted image 20230516174349.png",
+    "Tema 1. Introducción a los portafolios de renta variable y fondos de inversión.md",
+    "attachments/Pasted image 20230516165533.png",
+    "attachments/Pasted image 20230516165516.png",
     "attachments/Pasted image 20230516162423.png",
     "attachments/Pasted image 20230516162307.png",
     "attachments/Pasted image 20230509170153.png.md",
     "Nóbeles de economía.md",
-    "Finanzas.md",
     "conflict-files-obsidian-git.md",
     "attachments/Pasted image 20230516075725.png",
     "Optimización.md",
@@ -212,15 +220,7 @@
     "Cap. 3. Solución de las ecuaciones de estado de sistemas LTI.md",
     "Cap. 5. Filtros analógicos.md",
     "Módulo 1. Economía y matemática financiera.md",
-    "Tema 2. Función de oferta y demanda.md",
     "attachments/Pasted image 20230514184051.png",
-    "attachments/Pasted image 20230514183628.png",
-    "attachments/Pasted image 20230514183555.png",
-    "attachments/Pasted image 20230514181405.png",
-    "Tema 4. Modelo CAPM; SML; CML y APT.md",
-    "Linux commands.md",
-    "Cybersec.md",
-    "Main.md",
     "Excalidraw/attachments",
     "attachments",
     "New folder",
