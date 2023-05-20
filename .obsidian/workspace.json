@@ -8,25 +8,28 @@
         "type": "tabs",
         "children": [
           {
-            "id": "de98126cf71061ec",
+            "id": "bdb8ce1a917520e0",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/whiteboard.excalidraw.md"
+                "file": "Cap. 6. Sistemas en tiempo discreto.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
           {
-            "id": "bdb8ce1a917520e0",
+            "id": "9ae584d247683d5a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/blackboard.excalidraw.md"
+              }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Cap. 6. Sistemas en tiempo discreto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,6 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Cap. 6. Sistemas en tiempo discreto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Cap. 6. Sistemas en tiempo discreto.md"
+              }
             }
           },
           {
@@ -188,6 +195,16 @@
   },
   "active": "bdb8ce1a917520e0",
   "lastOpenFiles": [
+    "Excalidraw/blackboard.excalidraw.md",
+    "Cap. 6. Sistemas en tiempo discreto.md",
+    "LaTeX.md",
+    "Servomecanismos.md",
+    "Señales y Sistemas II.md",
+    "Cap. 5. Filtros analógicos.md",
+    "Cap. 4. Análisis cualitativo de sistemas LTI.md",
+    "Cap. 3. Solución de las ecuaciones de estado de sistemas LTI.md",
+    "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
+    "Cap. 1. Modelos de sistemas lineales y no lineales.md",
     "Excalidraw/whiteboard.excalidraw.md",
     "Linked note.md",
     "Excalidraw/attachments/Pasted Image 20230519212511_168.png",
@@ -202,7 +219,6 @@
     "Excalidraw/attachments/Pasted Image 20230519122336_441.png",
     "Excalidraw/attachments/Pasted Image 20230519121425_534.png",
     "Excalidraw/attachments/Pasted Image 20230519113348_467.png",
-    "Excalidraw/blackboard.excalidraw.md",
     "Análisis de velocidad.md",
     "Mecanismos.md",
     "Síntesis de mecanismos.md",
@@ -215,14 +231,6 @@
     "Módulo 5. Teoría de portafolio.md",
     "Finanzas.md",
     "conflict-files-obsidian-git.md",
-    "Obsidian Basics.md",
-    "Módulo 4. Bonos y conceptos de duración.md",
-    "Tema 1. Definición y clase de los instrumentos de deuda.md",
-    "Tema 1. Infraestructura de los mercados financieros.md",
-    "Tema 3. Medición del rendimiento y del riesgo.md",
-    "Tema 2. Teoría de la eficiencia de los mercados.md",
-    "Tema 1. Introducción a los portafolios de renta variable y fondos de inversión.md",
-    "attachments/Pasted image 20230509170153.png.md",
     "Excalidraw/attachments",
     "attachments",
     "New folder",
