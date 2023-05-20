@@ -4,35 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "d8765b0eedf566e2",
+        "id": "3523d320ecd0e912",
         "type": "tabs",
         "children": [
           {
-            "id": "ea48484824246f30",
+            "id": "de98126cf71061ec",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Cinemática de Fluidos.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cf75ca41c0e49803",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Electrónica Digital II.md",
-                "mode": "preview",
-                "source": false
+                "file": "Excalidraw/whiteboard.excalidraw.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electrónica Digital II.md",
+                "file": "Excalidraw/whiteboard.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electrónica Digital II.md",
+                "file": "Excalidraw/whiteboard.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Electrónica Digital II.md"
+                "file": "Excalidraw/whiteboard.excalidraw.md"
               }
             }
           },
@@ -196,12 +181,15 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "cf75ca41c0e49803",
+  "active": "de98126cf71061ec",
   "lastOpenFiles": [
+    "Excalidraw/whiteboard.excalidraw.md",
+    "Linked note.md",
+    "Excalidraw/attachments/Pasted Image 20230519212511_168.png",
     "Cinemática de Fluidos.md",
+    "Electrónica Digital II.md",
     "Fundamentos de Mecánica de Fluidos.md",
     "Estática de Fluidos.md",
-    "Excalidraw/whiteboard.excalidraw.md",
     "Excalidraw/attachments/Pasted Image 20230519123221_742.png",
     "Excalidraw/attachments/Pasted Image 20230519123212_410.png",
     "Excalidraw/attachments/Pasted Image 20230519123156_406.png",
@@ -217,7 +205,6 @@
     "TO DO.md",
     "attachments/Pasted image 20230519020440.png",
     "Excalidraw/attachments/Pasted Image 20230519020413_057.png",
-    "Excalidraw/attachments/Pasted Image 20230519020401_206.png",
     "Tema 4. Modelo CAPM; SML; CML y APT.md",
     "Tema 2. Análisis de estados financieros e indicadores financieros.md",
     "Módulo 5. Teoría de portafolio.md",
@@ -231,9 +218,6 @@
     "Tema 2. Teoría de la eficiencia de los mercados.md",
     "Tema 1. Introducción a los portafolios de renta variable y fondos de inversión.md",
     "attachments/Pasted image 20230509170153.png.md",
-    "Nóbeles de economía.md",
-    "Optimización.md",
-    "LaTeX.md",
     "Excalidraw/attachments",
     "attachments",
     "New folder",
