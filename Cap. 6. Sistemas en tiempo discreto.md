@@ -64,5 +64,12 @@ Donde el orden de la ecuación es $max(N, M)$ .
 
 ## Bloques en sistemas DT
 
-- _Multiplicador
-- _
+- _Multiplicador_
+
+![](attachments/Pasted%20image%2020230520185742.png)
+
+- _Sumador_
+
+
+
+- _Retraso_
