@@ -20,16 +20,31 @@
             }
           },
           {
+            "id": "c1651a4dbc543d4f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "9ae584d247683d5a",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md"
+                "file": "Excalidraw/blackboard.excalidraw.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cap. 6. Sistemas en tiempo discreto.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cap. 6. Sistemas en tiempo discreto.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cap. 6. Sistemas en tiempo discreto.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -193,10 +208,21 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "bdb8ce1a917520e0",
+  "active": "c1651a4dbc543d4f",
   "lastOpenFiles": [
-    "Excalidraw/blackboard.excalidraw.md",
     "Cap. 6. Sistemas en tiempo discreto.md",
+    "conflict-files-obsidian-git.md",
+    "attachments/Pasted image 20230518110226.png",
+    "attachments/Pasted image 20230518105809.png",
+    "attachments/Pasted image 20230518105523.png",
+    "attachments/Pasted image 20230518105339.png",
+    "Excalidraw/attachments/Pasted Image 20230518123737_665.png",
+    "Excalidraw/attachments/Pasted Image 20230518123707_663.png",
+    "Excalidraw/attachments/Pasted Image 20230518123652_641.png",
+    "Excalidraw/attachments/Pasted Image 20230518112633_198.png",
+    "Excalidraw/attachments/Pasted Image 20230518112144_143.png",
+    "Excalidraw/attachments/Pasted Image 20230518112113_139.png",
+    "Excalidraw/blackboard.excalidraw.md",
     "LaTeX.md",
     "Servomecanismos.md",
     "Señales y Sistemas II.md",
@@ -207,30 +233,19 @@
     "Cap. 1. Modelos de sistemas lineales y no lineales.md",
     "Excalidraw/whiteboard.excalidraw.md",
     "Linked note.md",
-    "Excalidraw/attachments/Pasted Image 20230519212511_168.png",
     "Cinemática de Fluidos.md",
     "Electrónica Digital II.md",
     "Fundamentos de Mecánica de Fluidos.md",
     "Estática de Fluidos.md",
-    "Excalidraw/attachments/Pasted Image 20230519123221_742.png",
-    "Excalidraw/attachments/Pasted Image 20230519123212_410.png",
-    "Excalidraw/attachments/Pasted Image 20230519123156_406.png",
-    "Excalidraw/attachments/Pasted Image 20230519122649_475.png",
-    "Excalidraw/attachments/Pasted Image 20230519122336_441.png",
-    "Excalidraw/attachments/Pasted Image 20230519121425_534.png",
-    "Excalidraw/attachments/Pasted Image 20230519113348_467.png",
     "Análisis de velocidad.md",
     "Mecanismos.md",
     "Síntesis de mecanismos.md",
     "Análisis de posición.md",
     "TO DO.md",
-    "attachments/Pasted image 20230519020440.png",
-    "Excalidraw/attachments/Pasted Image 20230519020413_057.png",
     "Tema 4. Modelo CAPM; SML; CML y APT.md",
     "Tema 2. Análisis de estados financieros e indicadores financieros.md",
     "Módulo 5. Teoría de portafolio.md",
     "Finanzas.md",
-    "conflict-files-obsidian-git.md",
     "Excalidraw/attachments",
     "attachments",
     "New folder",

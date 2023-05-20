@@ -64,4 +64,5 @@ Donde el orden de la ecuación es $max(N, M)$ .
 
 ## Bloques en sistemas DT
 
-
+- _Multiplicador
+- _
