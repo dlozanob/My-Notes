@@ -808,6 +808,20 @@ Vel inferior a la del campo -> async
 
 Lazo de control anidado -> Incremento en el desempeño, menor tiempo de respuesta
 
+>[!Note]
+>Referencias de puentes H recomendados para motores DC:
+>- L293
+>- L298
+
+
+![](attachments/Pasted%20image%2020230518105523.png)
+
+
+En algunos casos se utilizan diodos de protección:
+
+![](attachments/Pasted%20image%2020230518110226.png)
+
+Se usan para que las bobinas del motor no dañen los transistores.
 
 
 

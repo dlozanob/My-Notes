@@ -4,33 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "973a142934fcbf5c",
+        "id": "abf41a57157aa97c",
         "type": "tabs",
         "children": [
           {
-            "id": "e5a2fd4f330ab1d1",
+            "id": "311dd65a30b82fce",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "fa715190f9655823",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Servomecanismos.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/whiteboard.excalidraw.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Servomecanismos.md",
+                "file": "Excalidraw/whiteboard.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Servomecanismos.md",
+                "file": "Excalidraw/whiteboard.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Servomecanismos.md"
+                "file": "Excalidraw/whiteboard.excalidraw.md"
               }
             }
           },
@@ -194,23 +181,23 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "fa715190f9655823",
+  "active": "311dd65a30b82fce",
   "lastOpenFiles": [
-    "attachments/Pasted image 20230518093020.png",
+    "Excalidraw/attachments/Pasted Image 20230518123737_665.png",
+    "Excalidraw/attachments/Pasted Image 20230518123707_663.png",
+    "Excalidraw/attachments/Pasted Image 20230518123652_641.png",
+    "Excalidraw/attachments/Pasted Image 20230518112633_198.png",
+    "Excalidraw/attachments/Pasted Image 20230518112144_143.png",
+    "Excalidraw/attachments/Pasted Image 20230518112113_139.png",
     "Excalidraw/blackboard.excalidraw.md",
     "Servomecanismos.md",
+    "attachments/Pasted image 20230518110226.png",
+    "attachments/Pasted image 20230518105809.png",
+    "attachments/Pasted image 20230518105523.png",
+    "attachments/Pasted image 20230518105339.png",
+    "attachments/Pasted image 20230518093020.png",
     "Electrónica Digital II.md",
     "conflict-files-obsidian-git.md",
-    "attachments/Pasted image 20230516165533.png",
-    "attachments/Pasted image 20230516165516.png",
-    "attachments/Pasted image 20230516162423.png",
-    "attachments/Pasted image 20230516162307.png",
-    "attachments/Pasted image 20230514184051.png",
-    "attachments/Pasted image 20230514183628.png",
-    "attachments/Pasted image 20230514183555.png",
-    "attachments/Pasted image 20230514181405.png",
-    "attachments/Pasted image 20230514181351.png",
-    "attachments/Pasted image 20230514173006.png",
     "Tema 4. Modelo CAPM; SML; CML y APT.md",
     "Tema 3. Medición del rendimiento y del riesgo.md",
     "Tema 2. Teoría de la eficiencia de los mercados.md",
