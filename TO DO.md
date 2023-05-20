@@ -4,22 +4,23 @@
 ---
 
 - [ ] Señales
-	- [x] Apuntes de filtros
-	- [ ] Ejercicios del parcial
-- [ ] Servos
-	- [ ] Repasar
-	- [ ] Servomotor sizing
-- [x] Fluidos
-	- [x] Apuntes
+	- [ ] Apuntes
+	- [x] Ejercicios del parcial
+	- [ ] Actividad 3
+- [x] Servos
+	- [ ] Apuntes
+	- [x] Servomotor sizing
+- [ ] Fluidos
+	- [ ] Apuntes
 - [ ] Digital
 	- [ ] Apuntes
-	- [ ] Módulo i2s
+	- [x] Módulo i2s
 - [ ] Finanzas
 	- [ ] Apuntes
 	- [ ] Taller
 - [ ] Mecanismos
-	- [ ] Proyecto
-	- [ ] Apuntes
+	- [x] Proyecto
+	- [x] Apuntes
 
 ---
 

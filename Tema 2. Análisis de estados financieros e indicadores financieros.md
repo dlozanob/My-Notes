@@ -54,7 +54,7 @@ Representación gráfica del balance general:
 	- _Impuestos acumulados_
 	- _Pagos recibidos por adelantado_
 - _Pasivos no corrientes_ : Son deudas que se deben pagar a largo plazo (mayor a un año)
-	- _Hipotecas_ : Deudas que están respaldadas por terrenos
+	- _Hipotecas (mortgage)_ : Deudas que están respaldadas por terrenos
 	- _Bancos_ :  Deudas a largo plazo con bancos nacionales y extranjeros
 	- _Tenedores de bonos_ : Deudas con inversionistas que compraron los bonos
 

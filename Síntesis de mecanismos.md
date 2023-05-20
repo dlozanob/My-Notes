@@ -32,6 +32,10 @@ $$
 \end{align*}
 $$
 
+Al relacionar el tiempo del recorrido con la geometría del mecanismo, este ángulo es gráficamente:
+
+![](attachments/Pasted%20image%2020230519020440.png)
+
 - _Tiempo de ciclo_ :
 
 $$

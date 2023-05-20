@@ -27,7 +27,7 @@ Siendo así:
 $$
 \begin{align*}
 \begin{pmatrix}
--r_{3}\sin\theta_{3} & -r_{4}\sin\theta_{4} \\
+-r_{3}\sin\theta_{3} & r_{4}\sin\theta_{4} \\
 r_{3}\cos\theta_{3} & -r_{4}\cos\theta_{4}
 \end{pmatrix}
 \begin{pmatrix}
