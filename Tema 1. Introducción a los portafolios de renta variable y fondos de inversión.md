@@ -1,4 +1,3 @@
-
 # Introducción a los portafolios de renta variable y fondos de inversión
 
 
@@ -164,7 +163,7 @@ Posturas frente al riesgo:
 
 ## El descubrimiento de H. Markowitz y W. Sharpe
 
-Harry Markowitz y William Sharpe analizan el rendimiento de las acciones de dos empresas, y concluyen que comprar en las dos hace que las pérdidas de una se compensen con las ganancias de la otra. Se espera que el coeficiente de correlación de las dos empresas en las que se invierte sea negativo para lograr esta compensación.
+En la década de 1950, Harry Markowitz y William Sharpe analizan el rendimiento de las acciones de dos empresas, y concluyen que comprar en las dos hace que las pérdidas de una se compensen con las ganancias de la otra. Se espera que el coeficiente de correlación de las dos empresas en las que se invierte sea negativo para lograr esta compensación.
 
 ![](attachments/Pasted%20image%2020230514184051.png)
 

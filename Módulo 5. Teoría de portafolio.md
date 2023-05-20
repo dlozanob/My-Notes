@@ -11,6 +11,9 @@
 ## External Links
 
 - [[Nóbeles de economía]]
+- [Quantiacs](https://quantiacs.com/)
+- [Investopedia](https://www.investopedia.com/)
+
 
 
 

@@ -2,6 +2,8 @@
 
 ## Mercados financieros
 
+Es aquel mercado donde se negocian activos financieros (_bond market_, _forex market_, _stock market_).
+
 El _mercado primario_ permite el financiamiento de las actividades públicas o privadas. Es cuando las empresas emiten valores para financiarse. Estableciendo el rendimiento de los mismos y ofreciéndolos en subastas.
 
 El _mercado secundario_ se encarga de darle liquidez al mercado financiero. Los valores comprados en el mercado primario se comercian entre inversionistas, por lo que la empresa ya no se ve involucrada en este tipo de transacciones.
