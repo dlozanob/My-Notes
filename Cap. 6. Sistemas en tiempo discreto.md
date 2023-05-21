@@ -70,6 +70,191 @@ Donde el orden de la ecuación es $max(N, M)$ .
 
 - _Sumador_
 
-
+![](attachments/Pasted%20image%2020230520185948.png)
 
 - _Retraso_
+
+![](attachments/Pasted%20image%2020230520190045.png)
+
+Es el análogo al integrador. Representa a una unidad de memoria (_flip-flop_).
+
+
+## Ecuaciones de estado
+
+Los sistemas DT pueden ser representados en ecuaciones de estado.
+
+$$
+\begin{align*}
+	\left\{
+	\begin{array}{lcc}
+		\vec{x}[n+1] = A\vec{x}[n] + Bu[n] \\
+	\vec{y}[n]=C\vec{x}[n] + Du[n]
+	\end{array}
+	\right.
+\end{align*}
+$$
+
+
+---
+
+- __Ejemplo__ :
+
+$$
+\begin{align*}
+
+	\left\{
+	\begin{array}{lcc}
+	x_{1}[n+1] = u[n] \\
+	x_{2}[n+1] = x_{1}[n] \\
+	x_{3}[n + 1] = x_{2}[n] \\\\
+	y[n] = -2x_{1}[n] + 5x_{3}[n] + 3u[n]
+	\end{array}
+	\right.
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	\begin{pmatrix}
+x_{1}[n + 1] \\
+	x_{2}[n+1] \\
+	x_{3}[n+1]
+\end{pmatrix}
+=
+\begin{pmatrix}
+0 & 0 & 0 \\
+1 & 0 & 0 \\
+0 & 1 & 0
+\end{pmatrix}
+\begin{pmatrix}
+x_{1}[n] \\
+x_{2}[n] \\
+x_{3}[n]
+\end{pmatrix} +
+\begin{pmatrix}
+1 \\
+0 \\
+0
+\end{pmatrix}u[n]
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	y[n]=\begin{pmatrix}
+-2 & 0 & 5
+\end{pmatrix}
+\begin{pmatrix}
+x_{1}[n] \\
+x_{2}[n] \\
+x_{3}[n]
+\end{pmatrix}+
+3u[n]
+\end{align*}
+$$
+
+---
+
+
+## Funciones de transferencia en DT
+
+Sea una señal $x[n]$ con $n\in(-\infty,\infty)$, su transformada $Z$ se define como:
+
+$$
+\begin{align*}
+	\boxed{X(z) = Z[x[n]] = \sum_{n=0}^{\infty} x[n]z^{-n}}
+\end{align*}
+$$
+
+Donde $z_{9}\in \mathbb{C}$.  
+
+La transformada es un operador lineal.
+
+Además, se cumple que:
+
+$$
+\begin{align*}
+	Y(z) = H(z)U(z)
+\end{align*}
+$$
+
+>[!Note]
+>Si $u[n] = 0$ y $y[n] = 0$ para $n<0$, entonces el sistema está en equilibrio
+
+Algunas transformadas Z:
+
+- _Delay_
+$$
+\begin{align*}
+	Z[x[n-k]] = z^{-k}X(z)
+\end{align*}
+$$
+
+- Transformada del impulso
+
+$$
+\begin{align*}
+	Z[\delta[n]] = 1
+\end{align*}
+$$
+
+- Transformada al escalón 
+
+$$
+\begin{align*}
+	Z[1] = \frac{z}{z-1}
+\end{align*}
+$$
+
+- Otras
+
+$$
+\begin{align*}
+	Z[b^{n}] = \frac{z}{z-b}
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	Z[(ae^{ J\omega_{0} })^{n}] = \frac{z}{z - ae^{ J\omega_{0} }}
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	Z[a^{n}\sin[\omega_{0}n]] = \frac{a(\sin\omega_{0})z}{z^{2} - 2a(\cos\omega_{0})z + a^{2}}
+\end{align*}
+$$
+
+![](attachments/Pasted%20image%2020230520194834.png)
+
+
+
+
+## Interconexión de sistemas
+
+- _Paralelo_
+
+![](attachments/Pasted%20image%2020230520193508.png)
+
+$$
+\begin{align*}
+	H(z) = H_{1}(z) + H_{2}(z)
+\end{align*}
+$$
+
+- _Cascada o serie_
+
+![](attachments/Pasted%20image%2020230520193644.png)
+
+$$
+\begin{align*}
+	H(z) = H_{1}(z)\cdot H_{2}(z)
+\end{align*}
+$$
+
+- _Realimentación_
+
+![](attachments/Pasted%20image%2020230520194114.png)
+
+

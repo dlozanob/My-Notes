@@ -29,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md",
+                "file": "Cap. 6. Sistemas en tiempo discreto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md",
+                "file": "Cap. 6. Sistemas en tiempo discreto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md"
+                "file": "Cap. 6. Sistemas en tiempo discreto.md"
               }
             }
           },
@@ -194,22 +193,23 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "9ae584d247683d5a",
+  "active": "bdb8ce1a917520e0",
   "lastOpenFiles": [
-    "Cap. 6. Sistemas en tiempo discreto.md",
+    "attachments/Pasted image 20230520194834.png",
+    "attachments/Pasted image 20230520194114.png",
     "Excalidraw/blackboard.excalidraw.md",
+    "Cap. 6. Sistemas en tiempo discreto.md",
+    "attachments/Pasted image 20230520193644.png",
+    "attachments/Pasted image 20230520193508.png",
+    "LaTeX.md",
+    "attachments/Pasted image 20230520190045.png",
+    "attachments/Pasted image 20230520185948.png",
     "attachments/Pasted image 20230520185742.png",
     "conflict-files-obsidian-git.md",
     "attachments/Pasted image 20230518110226.png",
     "attachments/Pasted image 20230518105809.png",
     "attachments/Pasted image 20230518105523.png",
     "attachments/Pasted image 20230518105339.png",
-    "Excalidraw/attachments/Pasted Image 20230518123737_665.png",
-    "Excalidraw/attachments/Pasted Image 20230518123707_663.png",
-    "Excalidraw/attachments/Pasted Image 20230518123652_641.png",
-    "Excalidraw/attachments/Pasted Image 20230518112633_198.png",
-    "Excalidraw/attachments/Pasted Image 20230518112144_143.png",
-    "LaTeX.md",
     "Servomecanismos.md",
     "Señales y Sistemas II.md",
     "Cap. 5. Filtros analógicos.md",
