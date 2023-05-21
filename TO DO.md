@@ -4,23 +4,34 @@
 ---
 
 - [ ] Señales
-	- [ ] Apuntes
+	- [x] Apuntes
 	- [x] Ejercicios del parcial
 	- [ ] Actividad 3
-- [x] Servos
+- [ ] Servos
 	- [ ] Apuntes
 	- [x] Servomotor sizing
+	- [ ] Proyecto
 - [ ] Fluidos
-	- [ ] Apuntes
+	- [ ] Terminar de pasar los apuntes de cinemática
+	- [ ] Apuntes de dinámica
+	- [ ] Código de Matlab
 - [ ] Digital
 	- [ ] Apuntes
-	- [x] Módulo i2s
+	- [ ] Módulo i2s
+	- [ ] Módulo de los motores
 - [ ] Finanzas
 	- [ ] Apuntes
 	- [ ] Taller
-- [ ] Mecanismos
+	- [ ] OVA 11
+- [x] Mecanismos
 	- [x] Proyecto
 	- [x] Apuntes
+
+- [ ] Deutsch
+	- [ ] Estudiar
+
+- [ ] Chem-e-car
+	- [ ] Investigación
 
 ---
 
