@@ -925,6 +925,8 @@ Por tanto, el mecanismo tiene dos etapas:
 
 Se deben hacer hasta 10 ciclos de la segunda etapa.
 
+![](attachments/Pasted%20image%2020230520201439.png)
+
 
 ## External Links
 

@@ -4,3 +4,11 @@
 - [Estática de Fluidos](Estática%20de%20Fluidos.md)
 - [Cinemática de Fluidos](Cinemática%20de%20Fluidos.md)
 - [Dinámica de Fluidos](Dinámica%20de%20Fluidos.md)
+
+---
+
+# TO DO
+
+ - [ ] Terminar de pasar los apuntes de cinemática
+ - [ ] Apuntes de dinámica
+ - [ ] Código de Matlab

@@ -61,6 +61,9 @@ $$
 
 Donde el orden de la ecuación es $max(N, M)$ .
 
+>[!Info]
+>Los osciloscopios comúnmente tienen una función de promediado para tener una media de un número de muestras y así eliminar el ruido
+
 
 ## Bloques en sistemas DT
 
@@ -198,11 +201,19 @@ $$
 \end{align*}
 $$
 
-- Transformada al escalón 
+- Transformada del escalón 
 
 $$
 \begin{align*}
 	Z[1] = \frac{z}{z-1}
+\end{align*}
+$$
+
+- Producto por $n$ en el tiempo
+
+$$
+\begin{align*}
+	Z[nx[n]] = -z \frac{dX(z)}{dz}
 \end{align*}
 $$
 
@@ -211,6 +222,19 @@ $$
 $$
 \begin{align*}
 	Z[b^{n}] = \frac{z}{z-b}
+\end{align*}
+$$
+
+
+$$
+\begin{align*}
+	Z[nb^{n}] = \frac{bz}{(1 - bz^{-1})^{2}}
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	Z[n^{2}b^{n}] = \frac{b(z+b)z}{(z-b)^{3}}
 \end{align*}
 $$
 
@@ -227,8 +251,6 @@ $$
 $$
 
 ![](attachments/Pasted%20image%2020230520194834.png)
-
-
 
 
 ## Interconexión de sistemas
@@ -256,5 +278,47 @@ $$
 - _Realimentación_
 
 ![](attachments/Pasted%20image%2020230520194114.png)
+
+
+## Sistemas concentrados y distribuidos en DT
+
+- _Concentrados_
+	- $H(z)$ es racional
+	- Todos los sistemas FIR son concentrados
+- _Distribuidos_
+	- $H(z)$ es irracional
+	- Los sistemas IIR pueden ser distribuidos o no
+
+
+## Propiedades cualitativas en DT
+
+El problema de los sistemas impropios ahora no es por la amplificación del ruido y la dificultad en la implementación de derivadores, el problema es la causalidad.
+
+Debido a que los retardos en el tiempo se expresan de la forma:
+
+$$
+\begin{align*}
+	Z[x[n-k]]\to z^{-k}X(z)
+\end{align*}
+$$
+
+Tener una función de transferencia impropia supone tener algo como:
+
+$$
+\begin{align*}
+	Z^{-1}[z^{k}X(z)] \to x[n+k]
+\end{align*}
+$$
+
+Lo que supone un avance en el tiempo. La salida requiere valores del futuro.
+
+Por tanto, un sistema impropio no puede ser implementado en la vida real.
+
+>[!Note]
+>En algunas aplicaciones se utilizan filtros digitales no causales, no obstante, estos son realmente causales, ya que, trabajan sobre datos que ya fueron grabados previamente
+
+Los polos influyen en la forma que toma la respuesta, mientras que los ceros cambian ligeramente la magnitud en cada punto.
+
+
 
 

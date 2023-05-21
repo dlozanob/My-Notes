@@ -2,7 +2,7 @@
 
 ## Variables de campo
 
-En cinemática se usa la perspectiva Euleriana, ya que, se estudian volúmenes de control en fluidos.
+En cinemática se usa la perspectiva Euleriana, ya que, se estudian volúmenes de control en fluidos. Dentro de estos volúmenes de control se definen campos.
 
 - _Campo de presión_ 
 
@@ -103,7 +103,7 @@ $$
 
 
 >[!Note]
->- Un _fluido estacionario_ es aquel que su velocidad no cambia en el tiempo ($\frac{\partial \vec{v}}{\partial t} = 0$)
+>- Un _fluido estacionario_ es aquel cuya velocidad no cambia en el tiempo ($\frac{\partial \vec{v}}{\partial t} = 0$)
 >- Para graficar un campo vectorial en Matlab:
 ```Matlab
 [X, Y] = meshgrid(<rangoX>, <rangoY>);
@@ -140,6 +140,14 @@ $$
 \end{align*}
 $$
 
+De manera general:
+
+$$
+\begin{align*}
+	\vec{V}\times d\vec{r} = 0
+\end{align*}
+$$
+
 ---
 
 - __Ejemplo__ :
@@ -162,9 +170,9 @@ Entonces:
 
 $$
 \begin{align*}
-	&-\ln(1.5 - 0.8y) = \ln(0.5 + 0.8x) + c \\
-	&\frac{1}{1.5 - 0.8y} = (0.5 + 0.8x)e^{ c } \\\\
-	&y = \frac{0.75 + 1.2x + 1.5}{0.64x + 0.4 + 0.8}\cdot C 
+	-\ln(1.5 - 0.8y) &= \ln(0.5 + 0.8x) + c \\
+	\frac{1}{1.5 - 0.8y} &= (0.5 + 0.8x)e^{ c } \\\\
+	y &= \frac{0.75 + 1.2x + 1.5}{0.64x + 0.4 + 0.8}\cdot C 
 \end{align*}
 $$
 
@@ -203,7 +211,7 @@ Si el fluido no es estacionario, se tendrían que considerar las velocidades en 
 	- Son líneas utilizadas en física para determinar la dirección y magnitud de un vector a lo largo del espacio vectorial
 	- El vector puede representar cualquier variable
 	- La línea de traza es tangente a la dirección de los vectores
-	- Son el lugar geométrico de las partículas del fluido que han pasado de manera secuencial por un punto
+	- Se inyectan partículas en un mismo punto en instantes distintos, la trayectoria trazada por estas partículas son las líneas de traza
 
 ![](attachments/Pasted%20image%2020230416141532.png)
 
@@ -221,6 +229,213 @@ Si el fluido no es estacionario, se tendrían que considerar las velocidades en 
 	- Una línea fluida es el conjunto de partículas adyacentes de fluido que se marcaron en el mismo instante
 
 ![](attachments/Pasted%20image%2020230501154058.png)
+
+
+## Movimiento y deformación
+
+Se considera un elemento de fluido el cual puede poseer un movimiento y una deformación, las cuales son una superposición de componentes más simples.
+
+![](attachments/Pasted%20image%2020230521133343.png)
+
+
+### Movimiento y deformación lineal
+
+![](attachments/Pasted%20image%2020230521133602.png)
+
+Si el fluido presenta un gradiente de velocidad a lo largo de $x$. La velocidad $v_{x}$ a una distancia $\delta x$ se puede obtener por Taylor:
+
+$$
+\begin{align*}
+	v_{x}(\delta x) = v_{x} + \frac{\partial v_{x}}{\partial x}\delta x
+\end{align*}
+$$
+
+Siendo así, la deformación será:
+
+$$
+\begin{align*}
+	d\delta x &= dv_{x}\cdot t  \\\\
+	&= (v_{x}(\delta x) - v_{x})\cdot t  \\\\
+	&= \frac{\partial v_{x}}{\partial x}\delta xdt
+\end{align*}
+$$
+
+![](attachments/Pasted%20image%2020230521134216.png)
+
+Así mismo, el diferencial de volumen es:
+
+$$
+\begin{align*}
+	d\delta V(t) = \delta V(t + dt) - \delta V(t) = \left( \frac{\partial v_{x}}{\partial x}\delta xdt \right)\delta y\delta z
+\end{align*}
+$$
+
+Por tanto:
+
+$$
+\begin{align*}
+	\frac{d\delta V(t)}{dt} &= \frac{\partial v_{x}}{\partial x}\delta x\delta y\delta z \\\\
+	\frac{1}{\delta V} \frac{d\delta V(t)}{dt} &= \frac{\partial v_{x}}{\partial x}
+\end{align*}
+$$
+
+De manera general, si el fluido tiene un desplazamiento en todas las direcciones:
+
+$$
+\begin{align*}
+	\frac{1}{\delta V} \frac{d\delta V(t)}{dt} = \frac{\partial v_{x}}{\partial x} + \frac{\partial v_{y}}{\partial y} + \frac{\partial v_{z}}{\partial z}
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	\boxed{\frac{1}{\delta V} \frac{d\delta V(t)}{dt} = \vec{\nabla}\cdot \vec{v}}
+\end{align*}
+$$
+
+
+La _razón de deformación lineal_ se define como la tasa de cambio de longitud por la longitud original:
+
+$$
+\begin{align*}
+	\varepsilon_{xx} = \frac{1}{\delta x} \frac{d\delta x}{dt}
+\end{align*}
+$$
+
+Se tiene que:
+
+$$
+\begin{align*}
+	\frac{d\delta x}{dt} = \frac{\partial v_{x}}{\partial x}\delta x
+\end{align*}
+$$
+
+Entonces:
+
+$$
+\begin{align*}
+	\varepsilon_{xx} = \frac{\partial v_{x}}{\partial x}
+\end{align*}
+$$
+
+Siendo así:
+
+$$
+\begin{align*}
+	\vec{\nabla}\cdot \vec{v} = \varepsilon_{xx} + \varepsilon_{yy} + \varepsilon_{zz}
+\end{align*}
+$$
+
+
+### Movimiento y deformación angular
+
+![](attachments/Pasted%20image%2020230521151334.png)
+
+Se considera un elemento de fluido con un gradiente de velocidad en $y$ y en $x$.
+
+De esta manera, la velocidad angular de $OA$ es:
+
+$$
+\begin{align*}
+	\omega_{OA} &= \lim_{ \delta t \to 0 } \frac{\delta \alpha}{\delta t} = \frac{d\alpha}{dt}  \\\\
+	&\approx  \frac{\left( \frac{1}{\delta x}\cdot\frac{\partial v_{y}}{\partial x}\delta x\delta t \right)}{\partial t} \\\\
+	&= \frac{\partial v_{y}}{\partial x}
+\end{align*}
+$$
+
+Análogamente:
+
+$$
+\begin{align*}
+	\omega_{OB} = - \frac{\partial v_{x}}{\partial y}
+\end{align*}
+$$
+
+De manera aproximada (para tiempos muy cortos), se puede decir que la velocidad angular del elemento es el promedio de las velocidades angulares:
+
+$$
+\begin{align*}
+	\omega_{z} = \frac{\omega_{OA} + \omega_{OB}}{2}
+\end{align*}
+$$
+
+Entonces:
+
+$$
+\begin{align*}
+	\omega_{z} = \frac{1}{2}\left( \frac{\partial v_{y}}{\partial x} - \frac{\partial v_{x}}{\partial y}\right)
+\end{align*}
+$$
+
+De manera general, cuando existe rotación en todas las direcciones:
+
+$$
+\begin{align*}
+	\boxed{\vec{\omega} = \frac{1}{2}\vec{\nabla}\times \vec{v}}
+\end{align*}
+$$
+
+La _razón de deformación por esfuerzo cortante_ se define como:
+
+$$
+\begin{align*}
+	-\frac{1}{2} \frac{d\gamma}{dt} = \frac{\omega_{OA} - \omega_{OB}}{2}
+\end{align*}
+$$
+
+![](attachments/Pasted%20image%2020230521153441.png)
+
+De los resultados anteriores se obtiene:
+
+$$
+\begin{align*}
+	\varepsilon_{xy} = -\frac{1}{2} \frac{d\gamma}{dt} = \frac{1}{2} \left( \frac{\partial v_{x}}{\partial y} + \frac{\partial v_{y}}{\partial x} \right)
+\end{align*}
+$$
+
+
+### Tensor de deformaciones
+
+Se define el tensor de deformaciones como:
+
+$$
+\begin{align*}
+	\bar{\bar{\varepsilon}} =
+	\begin{pmatrix}
+\varepsilon_{xx} & \varepsilon_{xy} & \varepsilon_{xz} \\
+\varepsilon_{yx} & \varepsilon_{yy} & \varepsilon_{yz} \\
+\varepsilon_{zx} & \varepsilon_{zy} & \varepsilon_{zz}
+\end{pmatrix}
+\end{align*}
+$$
+
+El cual es un tensor simétrico.
+
+Donde:
+
+$$
+\begin{align*}
+	\varepsilon_{xx} &= \frac{\partial v_{x}}{\partial x} \\\\
+	\varepsilon_{yy} &= \frac{\partial v_{y}}{\partial y} \\\\
+	\varepsilon_{zz} &= \frac{\partial v_{z}}{\partial z} \\\\
+	\varepsilon_{xy} &= \frac{1}{2}\left( \frac{\partial v_{x}}{\partial y} + \frac{\partial v_{y}}{\partial x} \right) \\\\
+	\varepsilon_{yz} &= \frac{1}{2}\left( \frac{\partial v_{y}}{\partial z} + \frac{\partial v_{z}}{\partial y} \right) \\\\
+	\varepsilon_{xz} &= \frac{1}{2}\left( \frac{\partial v_{z}}{\partial x} + \frac{\partial v_{x}}{\partial z} \right)
+\end{align*}
+$$
+
+
+## Vorticidad
+
+Se define la _vorticidad_ como:
+
+$$
+\begin{align*}
+	\boxed{\vec{\zeta} = \vec{\nabla}\times \vec{v}}
+\end{align*}
+$$
+
+Lo que define las propiedades rotacionales de los elementos que componen al fluido.
 
 
 ---
