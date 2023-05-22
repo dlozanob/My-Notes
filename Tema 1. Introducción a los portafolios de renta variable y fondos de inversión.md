@@ -143,7 +143,7 @@ En un mundo con total certeza sobre los sucesos no habrían riesgos (_riskfree r
 ![](attachments/Pasted%20image%2020230514181405.png)
 
 La _rentabilidad_ de un activo se aproxima a través del valor esperado.
-La _riesgo_ o _volatilidad_ de un activo se aproxima a través de la desviación estándar.
+El _riesgo_ o _volatilidad_ de un activo se aproxima a través de la desviación estándar.
 
 La _tasa de descuento_ o _costo de oportunidad_ es ahora:
 

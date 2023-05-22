@@ -1,14 +1,43 @@
 # Modelo CAPM; SML; CML y APT
 
 
+Los modelos _CAPM_ y _APT_ sirven para determinar la tasa de rentabilidad requerida para un activo que hace parte de un portafolio de inversiones.
 
-_CAPM (Capital Asset Pricing Model)_ 
+
+## CAPM (Capital Asset Pricing Model)
+
+En 1962 William Forsyth Sharpe establece el modelo de _valoración de activos de capital_ (en su artículo "_Capital Assets Prices: A theory of market equilibrium under conditions of risk_"), el cual reponde a la pregunta: 
+¿Qué tanta rentabilidad debe exigirse para un activo, teniendo en cuenta su riesgo particular?
+
+En el modelo _CAPM_ se asumen los siguientes supuestos:
+- No hay costos de transacción
+- Las acciones son infinitamente divisibles
+- No hay impuestos
+- La compra o venta de una acción no afecta su precio
+- Se puede prestar o pedir prestado a una tasa libre de riesgo
+- Los inversionistas tienen expectativas homogéneas
+- Los inversionistas toman desiciones teniendo en cuenta el valor esperado y la desviación estándar
+
+Premisas del modelo:
+- Cuando se invierte en una sola acción, existe el riesgo no sistemático de la misma. Cuando se invierte en un portafolio, el riesgo no sistemático desaparece y la cartera depende únicamente del riesgo del mercado
+- La _tasa libre de riesgo_ comúnmente utilizada corresponde a la de los bonos soberanos americanos. En Colombia, debe tenerse en cuenta la diferencia entre la tasa de crédito de los bonos colmbianos y los bonos del tesoro (_spread_ de tasa) más la devaluación esperada
+- El factor $\beta$ describe la sensibilidad del retorno de un activo a los cambios en la rentabilidad del mercado
+- La _prima de riesgo de mercado_ corresponde al retorno esperado del portafolio del mercado menos la _tasa libre de riesgo_
+	$$
+	\begin{align*}
+		R_{m} - R_{F}
+	\end{align*}
+	$$
+	
+- Al invertir en dos portafolios de activos básicos, los inversionistas necesitan: un activo libre de riesgo y el portafolio de mercado. Al combinarlos, se replica el $\beta$ y ,por tanto, la rentabilidad de cualquier activo ineficiente
+- El valor de una empresa no depende de sí misma, sino también del comportamiento del riesgo del mercado.
+
 
 Fórmula del modelo CAPM:
 
 $$
 \begin{align*}
-	R_{i} = R_{F} + \beta_{i}(R_{m} - R_{F})
+	\boxed{R_{i} = R_{F} + \beta_{i}(R_{m} - R_{F})}
 \end{align*}
 $$
 
@@ -17,7 +46,88 @@ $$
 - $\beta_{i}$ : Valor Beta del activo financiero $i$
 - $R_{m}$ : Rendimiento medio del mercado de capitales
 
+El $\beta$ del que se ha venido hablando representa al riesgo del mercado, no obstante, puede tenerse un $\beta$ de la industria que representa al riesgo no sistemático.
 
+---
+
+- __Ejemplo__ :
+	- $\beta$ del mercado: $1.5$
+	- $\beta$ de la industria: $1.2$
+	- $70\%$ atado al beta del mercado
+	- $30\%$ atado al beta de la industria
+	- ¿Cómo medir el riesgo cuando ahora se tiene en cuenta el $\beta$ de la industria?
+
+$$
+\begin{align*}
+	\beta_{total} &= 1.5\cdot 0.7 + 1.2\cdot 0.3 \\
+	&= 1.14
+\end{align*}
+$$
+
+
+## SML (Security Market Line)
+
+La _línea del mercado de valores_ es una línea dibujada en un gráfico que representa al _CAPM_ y muestra distintos niveles de riesgo sistemático en función del rendimiento esperado.
+
+![](attachments/Pasted%20image%2020230522175953.png)
+
+Ilustra el rendimiento requerido del activo $R_{i}$ en función de $\beta$ . 
+
+
+## CML (Capital Market Line)
+
+Representa carteras que combinan de manera óptima riesgo y rendimiento.
+
+Para un nivel de riesgo determinado, los inversionistas piden prestado a la tasa libre de riesgo para maximizar la rentabilidad.
+
+El cálculo de la _línea del mercado de capitales_ se realiza de la siguiente forma:
+
+$$
+\begin{align*}
+	\boxed{R_{i} = r_{F} + \frac{R_{T} - r_{F}}{\sigma_{T}}\sigma_{i}}
+\end{align*}
+$$
+
+Donde:
+- $R_{i}$ : Rendimiento esperado de la cartera
+- $r_{F}$ : Tasa libre de riesgo
+- $R_{T}$ : Retorno de mercado
+- $\sigma_{T}$ : Desviación estándar de los rendimientos del mercado
+- $\sigma_{i}$ : Desviación estándar de los rendimientos de la cartera
+
+En la gráfica que representa el modelo propuesto por Harry Markowitz, yace la _CML_:
+
+![](attachments/Pasted%20image%2020230522181121.png)
+
+Muestra el espectro de combinaciones dispponibles del portafolio de mercado, la tasa libre de riesgo y su correspondiente perfil de retorno esperado y volatilidad.
+
+
+## APT (Arbitrage Pricing Theory)
+
+Explica el retorno esperado de un activo por medio de una relación enre varios factores macroeconómicos en ciertas condiciones de equilibrio.
+
+Supuestos de _APT_:
+- Los retornos de un portafolio pueden ser explicados por un modelo de combinación lineal de factores
+- Existen activos suficientes tales que es posible construir un portafolio de activos diversificados que puedan eliminar el riesgo no sistemático.
+- No existen oportunidades de arbitraje.
+
+El _APT_ es un modelo de factores. Los modelos de factores hacen distinción del riesgo sistemático y el no sistemático al considerar dentro del modelo variables económicas llamadas _factores_.
+
+$$
+\begin{align*}
+	\boxed{R_{a} = R_{F} + \sum_{i=1}^{N} \beta_{i}\cdot P_{i}}
+\end{align*}
+$$
+
+Donde:
+- $R_{a}$ : Retorno esperado de un grupo de acciones
+- $R_{F}$ : Tasa de rendimiento libre de riesgo
+- $\beta_{i}$ : Beta de cada uno de los activos
+- $P_{i}$ : Prima de riesgo de cada uno de los activos
+- $N$ : Número de activos
+
+>[!Note]
+>Es un _CAPM_ pero para un grupo de acciones
 
 
 ---
@@ -45,11 +155,6 @@ $$
 \end{align*}
 $$
 
->[!Note]
->La _prima de riesgo_ se mide como: $R_{m} - R_{F}$
->Para este caso es: $14.1\% - 4\% = 10.1\%$
-
-
 - ¿Cuál será el rendimiento esperado y la desviación estándar de una cartera con el $45\%$ invertido en el título 1, $25\%$ en el título 2 y $30\%$ en el tercer título?
 
 Se halla que el rendimiento del portafolio es de $15.28\%$, el cual es mayor al rendimiento del mercado ($14.1\%$), por lo que se esperan buenas ganancias.
@@ -58,18 +163,8 @@ Se halla que el rendimiento del portafolio es de $15.28\%$, el cual es mayor al 
 
 Se obtuvo un $\beta = 1.11$. Lo que significa un mayor riesgo sistemático, existe una correlación fuerte entre el mercado y el portafolio. Sin embargo, para el activo 3, se obtuvo un $\beta = 0.58$, lo que significa que el mercado provocará una variación menor en este activo.
 
-
-
 ---
 
-
-
-
-
-
-La línea gris es la CML (Capital Market Line)
-
-![](attachments/Pasted%20image%2020230516174349.png)
 
 ## Algorithmic trading
 

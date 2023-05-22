@@ -182,7 +182,16 @@ Además, $\beta$ mide el aporte que hace el activo al riesgo total del mercado.
 
 Para calcularlo, se pueden tabular los retornos de un activo con respecto a los retornos del _S&P 500_ de la Bolsa de Valores. De esta manera, se halla la covarianza entre ambos y la varianza del mercado.
 
-Si $\beta > 1$, significa que una variación en el mercado provoca una variación grande en el activo; aumenta el riesgo sistemático.
+Si $\beta$ es grande, significa que una variación en el mercado provoca una variación grande en el activo; aumenta el riesgo sistemático.
+Caso contrario, se atenúan las variaciones del mercado.
+
+- $\beta > 1$
+	- El activo tiene mayor riesgo que el mercado
+- $\beta=1$
+	- El activo se mueve de la misma manera que el mercado
+- $\beta<1$
+	- El activo tiene menor riesgo que el mercado
+
 
 >[!Note]
 >En Excel `ALEATORIO()` -> Número aleatorio

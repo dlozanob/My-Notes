@@ -21,7 +21,7 @@
 	- [ ] Módulo de los motores
 - [ ] Finanzas
 	- [x] Apuntes: Video
-	- [ ] OVA 11
+	- [x] OVA 11
 	- [ ] Taller (MIÉRCOLES - 31)
 - [x] Mecanismos
 	- [x] Proyecto
