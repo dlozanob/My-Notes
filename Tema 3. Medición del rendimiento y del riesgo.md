@@ -149,7 +149,7 @@ Se puede evaluar el retorno y el riesgo de un portafolio, al considerar varios e
 
 ![](attachments/Pasted%20image%2020230522004401.png)
 
-En este ejemplo se ve que en el primer caso se invirtión todo en A. Eso quiere decir que el activo $A$ tiene una rentabilidad del $13.39\%$ . Cada uno de los retornos es obtenido mediante:
+En este ejemplo se ve que en el primer caso se invirtió todo en A. Eso quiere decir que el activo $A$ tiene una rentabilidad del $13.39\%$ . Cada uno de los retornos del portafolio es obtenido mediante:
 
 ![](attachments/Pasted%20image%2020230522004841.png)
 
@@ -172,15 +172,17 @@ Para cuantificar el riesgo de mercado de los activos, en otras palabras, saber q
 
 $$
 \begin{align*}
-	\beta = \frac{\sigma_{im}}{\sigma^{2}_{m}}
+	\boxed{\beta = \frac{\sigma_{im}}{\sigma^{2}_{m}}}
 \end{align*}
 $$
 
 Donde $\sigma_{im}$ es la covarianza entre la acción $i$ y el mercado. Y $\sigma_{m}$ es la varianza del mercado.
 
-Además, $\beta$ mite el aporte que hace el activo al riesgo total del mercado.
+Además, $\beta$ mide el aporte que hace el activo al riesgo total del mercado.
 
 Para calcularlo, se pueden tabular los retornos de un activo con respecto a los retornos del _S&P 500_ de la Bolsa de Valores. De esta manera, se halla la covarianza entre ambos y la varianza del mercado.
+
+Si $\beta > 1$, significa que una variación en el mercado provoca una variación grande en el activo; aumenta el riesgo sistemático.
 
 >[!Note]
 >En Excel `ALEATORIO()` -> Número aleatorio

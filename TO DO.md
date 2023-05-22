@@ -6,7 +6,7 @@
 - [ ] Señales
 	- [x] Apuntes
 	- [x] Ejercicios del parcial
-	- [ ] Actividad 3
+	- [ ] Actividad 3 (LUNES)
 - [ ] Servos
 	- [ ] Apuntes
 	- [x] Servomotor sizing
@@ -20,9 +20,9 @@
 	- [ ] Módulo i2s
 	- [ ] Módulo de los motores
 - [ ] Finanzas
-	- [ ] Apuntes: Video
+	- [x] Apuntes: Video
 	- [ ] OVA 11
-	- [ ] Taller
+	- [ ] Taller (MIÉRCOLES - 31)
 - [x] Mecanismos
 	- [x] Proyecto
 	- [x] Apuntes

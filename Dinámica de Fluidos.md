@@ -194,6 +194,7 @@ A cada uno de sus componentes se les asigna un nombre:
 >La ecuación de Bernoulli se puede ver como una ecuación de conservación de la energía, incluye un término cinético, potencial y de trabajo
 >Esta ecuación dice en pocas palabras que no se pierde energía a lo largo de la línea de corriente
 
+![](attachments/Pasted%20image%2020230522140608.png)
 
 Para una misma línea de corriente se debe de cumplir que entre dos puntos:
 

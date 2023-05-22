@@ -7835,6 +7835,38 @@ cb8041054e65aecf4919835367df9a362084c352: $$sin\theta = \frac{dz}{ds}$$
 			"updated": 1684779346783,
 			"link": null,
 			"locked": false
+		},
+		{
+			"id": "MRyK_oMb-KCAV2bCMgZmB",
+			"type": "image",
+			"x": 5602.664145157828,
+			"y": -898.9924454630335,
+			"width": 797,
+			"height": 177,
+			"angle": 0,
+			"strokeColor": "transparent",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 1135302222,
+			"version": 57,
+			"versionNonce": 1464230414,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1684782401458,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "d412e97f962aa06db121ca2c152cf5a7e7bd45e4",
+			"scale": [
+				1,
+				1
+			]
 		}
 	],
 	"appState": {
@@ -7852,8 +7884,8 @@ cb8041054e65aecf4919835367df9a362084c352: $$sin\theta = \frac{dz}{ds}$$
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "triangle",
-		"scrollX": -4792.928851040182,
-		"scrollY": 1085.7865631100924,
+		"scrollX": -5303.517086334298,
+		"scrollY": 1265.7865631100922,
 		"zoom": {
 			"value": 0.8500000000000002
 		},
