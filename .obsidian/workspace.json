@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d5c544fe7bd6ed95",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dinámica de Fluidos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "40ad394a6dce7184",
             "type": "leaf",
             "state": {
@@ -28,9 +16,33 @@
                 "file": "Excalidraw/blackboard.excalidraw.md"
               }
             }
+          },
+          {
+            "id": "22d4338077e18e74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dinámica de Fluidos.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "891a14827e29543a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TO DO.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -100,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md",
+                "file": "TO DO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md",
+                "file": "TO DO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md"
+                "file": "TO DO.md"
               }
             }
           },
@@ -194,15 +206,19 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "40ad394a6dce7184",
+  "active": "891a14827e29543a",
   "lastOpenFiles": [
     "Dinámica de Fluidos.md",
+    "attachments/Pasted image 20230522131554.png",
+    "Excalidraw/blackboard.excalidraw.md",
+    "LaTeX.md",
+    "attachments/Pasted image 20230522121109.png",
+    "attachments/Pasted image 20230522120656.png",
+    "attachments/Pasted image 20230522120629.png",
     "attachments/Pasted image 20230522115438.png",
     "Fundamentos de Mecánica de Fluidos.md",
     "Cinemática de Fluidos.md",
-    "LaTeX.md",
     "attachments/Pasted image 20230522114630.png",
-    "Excalidraw/blackboard.excalidraw.md",
     "attachments/Pasted image 20230522114617.png",
     "Excalidraw/whiteboard.excalidraw.md",
     "TO DO.md",
@@ -212,11 +228,7 @@
     "attachments/Pasted image 20230522011546.png",
     "attachments/Pasted image 20230522011535.png",
     "attachments/Pasted image 20230522011527.png",
-    "Excalidraw/attachments/Pasted Image 20230522011523_755.png",
     "Tema 1. Introducción a los portafolios de renta variable y fondos de inversión.md",
-    "attachments/Pasted image 20230522005456.png",
-    "attachments/Pasted image 20230522005036.png",
-    "attachments/Pasted image 20230522004841.png",
     "Obsidian Basics.md",
     "Finanzas.md",
     "Tema 2. Teoría de la eficiencia de los mercados.md",

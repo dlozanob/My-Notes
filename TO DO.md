@@ -13,7 +13,7 @@
 	- [ ] Proyecto
 - [ ] Fluidos
 	- [x] Terminar de pasar los apuntes de cinemática
-	- [ ] Apuntes de dinámica
+	- [x] Apuntes de dinámica
 	- [ ] Código de Matlab
 - [ ] Digital
 	- [ ] Apuntes
