@@ -293,6 +293,8 @@ $$
 \end{align*}
 $$
 
+Esto define la _compresibilidad_ de un fluido, por tanto, si esta divergencia es cero, el fluido es incompresible, ya que, el volumen no varía.
+
 
 La _razón de deformación lineal_ se define como la tasa de cambio de longitud por la longitud original:
 
@@ -424,6 +426,9 @@ $$
 \end{align*}
 $$
 
+>[!Note]
+>Una manera mnemotécnica de calcular un producto cruz es el uso del [Símbolo de Levi-Civita](#Símbolo+de+Levi-Civita)
+
 
 ## Vorticidad
 
@@ -438,178 +443,44 @@ $$
 Lo que define las propiedades rotacionales de los elementos que componen al fluido.
 
 
----
+## Símbolo de Levi-Civita
 
-Las _coordenadas de líneas de corriente_ toman un sistema de referencia relativo a cada posición de una partícula. Sus componentes son una normal ($\hat{n}$) y una tangencial ($\hat{s}$).
-
-![](attachments/Pasted%20image%2020230416142540.png)
-
-Se define el campo de aceleración usando este sistema coordenado.
+Se define el _símbolo de Levi-Civita_ como:
 
 $$
 \begin{align*}
-	\vec{a} = \frac{D\vec{v}}{Dt} = a_{s}\hat{s} + a_{n}\hat{n}
+	\epsilon_{ijk} =
+	\left\{
+	\begin{array}{lcc}
+		1,\,\,si\,\,(i,j,k)\,\,es\,\,una\,\,permutación\,\,par \\
+
+-1,\,\,si\,\,(i,j,k)\,\,es\,\,una\,\,permutación\,\,impar \\
+
+0,\,\,si\,\,al\,\,menos\,\,una\,\,componente\,\,es\,\,igual\,\,a\,\,otra
+	\end{array}
+	\right.
 \end{align*}
 $$
 
+Se toma como base la permutación: $(1,2,3)$.
+Una _permutación par_ es aquella a la que se puede llegar a partir de un número par de swaps desde la base.
+Una _permutación impar_ es aquella a la que se puede llegar a partir de un número ipar de swaps desde la base.
 
-Sabiendo que $\vec{v} = v\hat{s}$ entonces:
+![](attachments/Pasted%20image%2020230522114630.png)
+
+Haciendo uso de esto, se puede calcular un prodcuto cruz de la siguiente manera:
 
 $$
 \begin{align*}
-	\vec{a} &= \frac{D\vec{v}}{Dt} = \frac{D(v\hat{s})}{Dt} \\
-	&= \frac{D\hat{s}}{Dt} + \frac{Dv}{Dt} \\
-	&= \left( v \frac{\partial v}{\partial s} \right)\hat{s} + v\left( \frac{\partial \hat{s}}{\partial s} \right) \\
-	&= a_{s}\hat{s} + \frac{V^{2}}{R}\hat{n}
+	a\times b = 
+	\begin{bmatrix}
+\hat{e}_{1} & \hat{e}_{2} & \hat{e}_{3} \\
+a_{1} & a_{2} & a_{3} \\
+b_{1} & b_{2} & b_{3}
+\end{bmatrix} =
+\sum_{i=1}^{3}\left( \sum_{j,k=1}^{3} \epsilon_{i,j,k} a_{j} b_{k} \right)\,\,\hat{e}_{i}
 \end{align*}
 $$
 
-Tal que $a_{n} = \frac{V^{2}}{R}$. Donde $R$ es el radio de curvatura.
-
-
-## Teorema de transporte de Reynolds
-
-Se conecta un sistema (perspectiva Euleriana) con un volumen de control (perspectiva Lagrangiana).
-
-Se tiene:
-
-$$
-\begin{align*}
-	B = m\cdot b
-\end{align*}
-$$
-
-Donde $B$ es cualquier propiedad extensiva, $m$ es masa, y $b$ es cualquier propiedad intensiva.
-
-Se tiene un volumen de control y una masa de control cuyo volumen coincide con el primero para un instante $t$ .
-
-Para un instante posterior $t + \delta t$, la cantidad que sale es igual a la que entra en el volumen de control.
-
-![](attachments/Pasted%20image%2020230507130605.png)
-
-Se determina:
-
-$$
-\begin{align*}
-	B_{SYS} &= \lim_{ \partial V \to 0 } \sum_{i} (\partial V\cdot \rho_{i})b  \\\\
-	&= \int _{SYS} \rho b \, dV
-\end{align*}
-$$
-
-Así mismo,
-
-$$
-\begin{align*}
-	B_{CV} = \int _{CV} \rho b \, dV
-\end{align*}
-$$
-
-Donde $B_{CV}$ es la propiedad extensiva en cuestión del volumen de control (_control volume_).
-
-La tasa de cambio temporal de esta propiedad es su derivada material:
-
-$$
-\begin{align*}
-	\frac{DB_{SYS}}{Dt} = \frac{\partial B_{\omega}}{\partial t} + \dot{B}_{out} - \dot{B}_{in}
-\end{align*}
-$$
-
-Podemos determinar el flujo de salida mediante:
-
-$$
-\begin{align*}
-	\dot{B}_{out} &= \int _{CSout} d\dot{B}_{out} = \dot{\bar{\left( \int _{CSout} \rho b\,\,dV \right)}} \\\\
-	&= \int _{CSout} \rho b \, d\dot{V}
-\end{align*}
-$$
-
-Donde $CS$ es la superficie del volumen de control (_control surface_)
-
-El flujo (tasa de cambio volumétrico) es descrito como:
-
-![](attachments/Pasted%20image%2020230507132338.png)
-
-Entonces:
-
-$$
-\begin{align*}
-	\frac{dV}{dt} &= d\vec{A} \cdot \vec{v} \\\\
-	&= v\cos(\theta)dA
-\end{align*}
-$$
-
-Sustituyendo:
-
-$$
-\begin{align*}
-	\dot{B}_{out} = \int _{CSout} \rho b\cdot v \cos(\theta) \, dA
-\end{align*}
-$$
-
-Donde $v$ es la velocidad del fluido que atraviesa ese punto de la superficie.
-
-Análogamente:
-
-$$
-\begin{align*}
-	\dot{B}_{in} = - \int _{CSin} \rho b\cdot v\cos(\theta) \, dA
-\end{align*}
-$$
-
-Por tanto:
-
-$$
-\begin{align*}
-	\dot{B}_{out} - \dot{B}_{in} &= \int _{CSout} \rho bv\cos(\theta) \, dA + \int _{CSin} \rho bv\cos(\theta) \, dA \\\\
-	&= \int _{CS} \rho bv\cos(\theta) \, dA
-\end{align*}
-$$
-
-Se enuncia entonces, el _teorema de Reynolds_ :
-
-$$
-\begin{align*}
-	\boxed{\frac{DB_{SYS}}{Dt} = \frac{\partial}{\partial t}\left( \int _{CV}\rho b \, dV  \right) + \int _{CS} \rho bv\cos(\theta) \, dA }
-\end{align*}
-$$
-
----
-
-- __Ejemplo__ :
-
-![](attachments/Pasted%20image%2020230507134256.png)
-
-El fluido es agua a $4$° .
-
-
-- ¿Cuál es el flujo másico por la superficie delimitada por $\bar{CD}$ ?
-
-La propiedad $B$ es la masa, entonces, partiendo de $B = mb$, $b$ debe ser $1$ .
-
-Se halla que el segmento $\bar{CD} = \frac{0.5}{\cos(\theta)}$ .
-
-Entonces:
-
-$$
-\begin{align*}
-	\dot{B}_{out} &= \int _{CSout} \rho bv\cos(\theta) \, dA  \\\\
-	&= \rho v\cos(\theta)\int _{CSout}  \, dA  \\\\
-	&= \rho v\cos(\theta)\cdot (2\cdot \bar{CD}) \\\\
-	&= \rho v = \left( 1000\,\, \frac{kg}{m^{3}} \right)\left( 3\,\, \frac{m}{s} \right)\cdot m^{2} \\\\
-	&= 3000\,\, \frac{kg}{s}
-\end{align*}
-$$
-
-- ¿Cuál es el flujo volumétrico por la superficie delimitada por $\bar{CD}$ ?
-
-Ahora se toma $b = \frac{1}{\rho}$ .
-
-Análogamente al procedimiento anterior:
-
-$$
-\begin{align*}
-	\dot{B}_{out} = 1000\,\, \frac{m^{3}}{s}
-\end{align*}
-$$
-
+Esto se puede llevar a $n$ dimensiones, lo que facilita los cálculos.
 

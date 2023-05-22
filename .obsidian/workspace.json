@@ -8,31 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "070e7d01cc72dbeb",
+            "id": "d5c544fe7bd6ed95",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tema 3. Medición del rendimiento y del riesgo.md",
+                "file": "Dinámica de Fluidos.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "582d158eab5f6a11",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tema 1. Introducción a los portafolios de renta variable y fondos de inversión.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1121dc4ebeef18f5",
+            "id": "40ad394a6dce7184",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -41,7 +29,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -111,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tema 3. Medición del rendimiento y del riesgo.md",
+                "file": "Excalidraw/blackboard.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tema 3. Medición del rendimiento y del riesgo.md",
+                "file": "Excalidraw/blackboard.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tema 3. Medición del rendimiento y del riesgo.md"
+                "file": "Excalidraw/blackboard.excalidraw.md"
               }
             }
           },
@@ -177,7 +166,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"\"",
+                "query": "\"streamslice\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -205,35 +194,36 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "070e7d01cc72dbeb",
+  "active": "40ad394a6dce7184",
   "lastOpenFiles": [
-    "attachments/Pasted image 20230522004401.png",
-    "attachments/Pasted image 20230522003740.png",
-    "attachments/Pasted image 20230522003451.png",
+    "Dinámica de Fluidos.md",
+    "attachments/Pasted image 20230522115438.png",
+    "Fundamentos de Mecánica de Fluidos.md",
+    "Cinemática de Fluidos.md",
+    "LaTeX.md",
+    "attachments/Pasted image 20230522114630.png",
     "Excalidraw/blackboard.excalidraw.md",
-    "Tema 1. Introducción a los portafolios de renta variable y fondos de inversión.md",
-    "Tema 3. Medición del rendimiento y del riesgo.md",
-    "attachments/Pasted image 20230522002131.png",
+    "attachments/Pasted image 20230522114617.png",
     "Excalidraw/whiteboard.excalidraw.md",
-    "attachments/Pasted image 20230522001840.png",
-    "Excalidraw/attachments/Pasted Image 20230522001806_935.png",
-    "attachments/Pasted image 20230522001714.png",
-    "attachments/Pasted image 20230521233155.png",
-    "Excalidraw/attachments/Pasted Image 20230521233154_684.png",
-    "attachments/Pasted image 20230521233141.png",
-    "Obsidian Basics.md",
+    "TO DO.md",
+    "Tema 4. Modelo CAPM; SML; CML y APT.md",
     "Módulo 5. Teoría de portafolio.md",
+    "Tema 3. Medición del rendimiento y del riesgo.md",
+    "attachments/Pasted image 20230522011546.png",
+    "attachments/Pasted image 20230522011535.png",
+    "attachments/Pasted image 20230522011527.png",
+    "Excalidraw/attachments/Pasted Image 20230522011523_755.png",
+    "Tema 1. Introducción a los portafolios de renta variable y fondos de inversión.md",
+    "attachments/Pasted image 20230522005456.png",
+    "attachments/Pasted image 20230522005036.png",
+    "attachments/Pasted image 20230522004841.png",
+    "Obsidian Basics.md",
     "Finanzas.md",
     "Tema 2. Teoría de la eficiencia de los mercados.md",
-    "TO DO.md",
     "Servomecanismos.md",
     "Mecanismos.md",
-    "Fundamentos de Mecánica de Fluidos.md",
     "Señales y Sistemas II.md",
     "Cap. 6. Sistemas en tiempo discreto.md",
-    "Cinemática de Fluidos.md",
-    "attachments/Pasted image 20230521153441.png",
-    "LaTeX.md",
     "conflict-files-obsidian-git.md",
     "Cap. 5. Filtros analógicos.md",
     "Cap. 4. Análisis cualitativo de sistemas LTI.md",
@@ -241,8 +231,6 @@
     "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
     "Cap. 1. Modelos de sistemas lineales y no lineales.md",
     "Linked note.md",
-    "Electrónica Digital II.md",
-    "Estática de Fluidos.md",
     "Excalidraw/attachments",
     "attachments",
     "New folder",

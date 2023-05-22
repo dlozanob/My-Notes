@@ -116,7 +116,7 @@ Un inversionista tiene los siguientes criterios de desición para armar su porta
 
 Un activo es eficiente cuando: _Rentabilidad_ $\uparrow$ _Riesgo_ $\downarrow$
 
-En 1952, Harry Markowitz desarrolla en el artículo _"Portfolio Selection"_ una teoría donde señala que los inversionistas construyen su portafolio con base en el riesgo y en el rendimiento de los activos.
+En 1952, Harry Markowitz desarrolla en el artículo _"Portfolio Selection"_ una teoría (_análisis Riesgo/Rentabilidad_) donde señala que los inversionistas construyen su portafolio con base en el riesgo y en el rendimiento de los activos.
 Se busca mitigar el riesgo -> Diversificar la inversión para que los rendimientos tengan la menor variabilidad posible.
 
 ![](attachments/Pasted%20image%2020230522001714.png)
@@ -128,10 +128,10 @@ Diversificar la inversión en un alto número de activos atenúa las pérdidas, 
 
 ![](attachments/Pasted%20image%2020230522002131.png)
 
-Al _riesog de mercado_ se le conoce también como _riesgo no diversificable_, se debe a los factores macro externos a la compañía y que afectan a todas las empresas. Caso contrario, el _riesgo de la empresa_ o _diversificable_ es el que afecta a una sola empresa en particular.
+Al _riesgo de mercado_ se le conoce también como _riesgo no diversificable_, se debe a los factores macro externos a la compañía y que afectan a todas las empresas. Caso contrario, el _riesgo de la empresa_ o _diversificable_ es el que afecta a una sola empresa en particular.
 
 
-## Comportamiento de la correclación
+## Selección del portafolio óptimo
 
 El coeficiente de correlación determina en qué grado el comportamiento de dos activos sigue un mismo movimiento.
 
@@ -141,7 +141,7 @@ En la gráfica $P$ es el coeficiente de correación ($-1\leq P\leq 1$).
 
 Siendo así, cuando el coeficiente de correlación de ambos portafolios es $1$, significa que el incremento de una significa el incremento de la otra. Por otro lado, un coeficiente de correlación de $-1$ significa lo contrario.
 
-![](attachments/Pasted%20image%2020230522003740.png)
+![](attachments/Pasted%20image%2020230522011546.png)
 
 Un coeficiente de correlación de $-1$ es lo más apropiado, pues de esta manera, cuando los rendimientos de un activo sean bajos, los del otro activo serán altos y se compensarán pérdidas. Hay menos riesgo.
 
@@ -149,41 +149,44 @@ Se puede evaluar el retorno y el riesgo de un portafolio, al considerar varios e
 
 ![](attachments/Pasted%20image%2020230522004401.png)
 
-En este ejemplo se ve que en el primer caso se invirtión todo en A. Eso quiere decir que el activo $A$ tiene una rentabilidad del $13.39\%$ .
+En este ejemplo se ve que en el primer caso se invirtión todo en A. Eso quiere decir que el activo $A$ tiene una rentabilidad del $13.39\%$ . Cada uno de los retornos es obtenido mediante:
+
+![](attachments/Pasted%20image%2020230522004841.png)
+
+Donde los retornos de los activos son sus valores esperados.
+
+Para cada uno de los escenarios de desición de portafolio se obtiene una gráfica que evalúa el retorno del portafolio vs su desviación estándar o riesgo:
+
+![](attachments/Pasted%20image%2020230522005036.png)
+
+
+Para un determinado nivel de rentabilidad, se puede seleccionar un portafolio que minimice el riesgo, a esta cartera se le conoce como el _portafolio de mínima varianza_.
+
+Así mismo, para un nivel de riesgo determinado, existe un portafolio que maximiza la rentabilidad, a esta situación se le conoce como _frontera eficiente_.
+
+![](attachments/Pasted%20image%2020230522005456.png)
+
+Al minimizar el riesgo, se disminuye específicamente el _riesgo diversificable_, no obstante, el _riesgo de mercado_ se mantiene.
+
+Para cuantificar el riesgo de mercado de los activos, en otras palabras, saber qué tan sensibles son los retornos de una acción ante los retornos totales del mercado, se utiliza una estimación estadística conocida como _el beta del activo_ ($\beta$).
+
+$$
+\begin{align*}
+	\beta = \frac{\sigma_{im}}{\sigma^{2}_{m}}
+\end{align*}
+$$
+
+Donde $\sigma_{im}$ es la covarianza entre la acción $i$ y el mercado. Y $\sigma_{m}$ es la varianza del mercado.
+
+Además, $\beta$ mite el aporte que hace el activo al riesgo total del mercado.
+
+Para calcularlo, se pueden tabular los retornos de un activo con respecto a los retornos del _S&P 500_ de la Bolsa de Valores. De esta manera, se halla la covarianza entre ambos y la varianza del mercado.
+
+>[!Note]
+>En Excel `ALEATORIO()` -> Número aleatorio
 
 
 
-
-
-
-
-
-
-
-
-
-
-Activo eficiente -> Minimiza el riesgo y maximiza la rentabilidad
-
-Punto de mínima varianza -> Punto óptimo rentabilidad-riesgo
-
-
-Si se encuentran dos acciones con una correlación de $-1$, se obtiene algo por el estilo:
-
-![](attachments/Pasted%20image%2020230516165533.png)
-
-
-Si se invierte en un activo riesgoso y al mismo tiempo en uno libre de riesgo (bonos de los Estados Unidos) se obtiene:
-
-
-![](attachments/Pasted%20image%2020230516165516.png)
-
-En Excel `ALEATORIO()` -> Número aleatorio
-
-
-La línea gris es la CML (Capital Market Line)
-
-![](attachments/Pasted%20image%2020230516174349.png)
 
 
 

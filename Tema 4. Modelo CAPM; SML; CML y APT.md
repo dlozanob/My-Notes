@@ -2,7 +2,9 @@
 
 
 
+La línea gris es la CML (Capital Market Line)
 
+![](attachments/Pasted%20image%2020230516174349.png)
 
 ## Algorithmic trading
 

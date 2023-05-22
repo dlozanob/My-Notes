@@ -12,7 +12,7 @@
 	- [x] Servomotor sizing
 	- [ ] Proyecto
 - [ ] Fluidos
-	- [ ] Terminar de pasar los apuntes de cinemática
+	- [x] Terminar de pasar los apuntes de cinemática
 	- [ ] Apuntes de dinámica
 	- [ ] Código de Matlab
 - [ ] Digital
@@ -20,9 +20,9 @@
 	- [ ] Módulo i2s
 	- [ ] Módulo de los motores
 - [ ] Finanzas
-	- [ ] Apuntes
-	- [ ] Taller
+	- [ ] Apuntes: Video
 	- [ ] OVA 11
+	- [ ] Taller
 - [x] Mecanismos
 	- [x] Proyecto
 	- [x] Apuntes
