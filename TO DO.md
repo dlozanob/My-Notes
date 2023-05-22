@@ -26,6 +26,16 @@
 - [x] Mecanismos
 	- [x] Proyecto
 	- [x] Apuntes
+	- [x] Actividad: Análisis de posición de mecanismos
+	- [x] Proyecto
+	- [x] Síntesis de mecanismos: Manivela-corredera balancín
+	- [x] Síntesis de mecanismos: Presentación
+	- [x] Optimización
+	- [ ] Barnes problem
+	- [x] Análisis de velocidad gráfico
+	- [x] Matlab velocidad + imagen
+	- [x] Tarea optimización 
+	- [x] Actividad: Análisis de velocidad de mecanismos
 
 - [ ] Deutsch
 	- [ ] Estudiar
@@ -34,6 +44,3 @@
 	- [ ] Investigación
 
 ---
-
-
-
