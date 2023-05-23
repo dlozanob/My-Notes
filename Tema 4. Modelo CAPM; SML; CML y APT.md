@@ -18,11 +18,14 @@ En el modelo _CAPM_ se asumen los siguientes supuestos:
 - Los inversionistas tienen expectativas homogéneas
 - Los inversionistas toman desiciones teniendo en cuenta el valor esperado y la desviación estándar
 
+>[!Note]
+>Al _CAPM_ se le conoce también como el _costo del Equity_
+
 Premisas del modelo:
 - Cuando se invierte en una sola acción, existe el riesgo no sistemático de la misma. Cuando se invierte en un portafolio, el riesgo no sistemático desaparece y la cartera depende únicamente del riesgo del mercado
 - La _tasa libre de riesgo_ comúnmente utilizada corresponde a la de los bonos soberanos americanos. En Colombia, debe tenerse en cuenta la diferencia entre la tasa de crédito de los bonos colmbianos y los bonos del tesoro (_spread_ de tasa) más la devaluación esperada
 - El factor $\beta$ describe la sensibilidad del retorno de un activo a los cambios en la rentabilidad del mercado
-- La _prima de riesgo de mercado_ corresponde al retorno esperado del portafolio del mercado menos la _tasa libre de riesgo_
+- La _prima de riesgo de mercado (Market Risk Premium)_ corresponde al retorno esperado del portafolio del mercado menos la _tasa libre de riesgo_
 	$$
 	\begin{align*}
 		R_{m} - R_{F}

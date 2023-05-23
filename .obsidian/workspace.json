@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e132e4a74826b0b3",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/blackboard.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TO DO.md",
+                "file": "Excalidraw/blackboard.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TO DO.md",
+                "file": "Excalidraw/blackboard.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TO DO.md"
+                "file": "Excalidraw/blackboard.excalidraw.md"
               }
             }
           },
@@ -183,19 +194,19 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "2ec44b397539f8aa",
+  "active": "e132e4a74826b0b3",
   "lastOpenFiles": [
-    "Excalidraw/whiteboard.excalidraw.md",
     "TO DO.md",
-    "Tema 3. Medición del rendimiento y del riesgo.md",
     "Tema 4. Modelo CAPM; SML; CML y APT.md",
+    "Excalidraw/blackboard.excalidraw.md",
+    "Módulo 5. Teoría de portafolio.md",
+    "Finanzas.md",
+    "Excalidraw/whiteboard.excalidraw.md",
+    "Tema 3. Medición del rendimiento y del riesgo.md",
     "Tema 1. Introducción a los portafolios de renta variable y fondos de inversión.md",
     "attachments/Pasted image 20230522181121.png",
     "attachments/Pasted image 20230522175953.png",
     "attachments/Pasted image 20230522160319.png",
-    "Módulo 5. Teoría de portafolio.md",
-    "Finanzas.md",
-    "Excalidraw/blackboard.excalidraw.md",
     "Dinámica de Fluidos.md",
     "attachments/Pasted image 20230522140608.png",
     "Excalidraw/attachments/Pasted Image 20230522140556_149.png",
