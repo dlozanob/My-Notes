@@ -8,18 +8,55 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2ec44b397539f8aa",
+            "id": "279c7fa15e882b7f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TO DO.md",
+                "file": "Fórmulas Financieras Excel.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2da058a371e36c25",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tema 4. Modelo CAPM; SML; CML y APT.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c116f9278128f507",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tema 3. Medición del rendimiento y del riesgo.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "016cb851c0838300",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tema 1. Introducción a los portafolios de renta variable y fondos de inversión.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TO DO.md",
+                "file": "Tema 4. Modelo CAPM; SML; CML y APT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TO DO.md",
+                "file": "Tema 4. Modelo CAPM; SML; CML y APT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TO DO.md"
+                "file": "Tema 4. Modelo CAPM; SML; CML y APT.md"
               }
             }
           },
@@ -183,9 +220,19 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "2ec44b397539f8aa",
+  "active": "2da058a371e36c25",
   "lastOpenFiles": [
+    "Fórmulas Financieras Excel.md",
+    "Tema 4. Modelo CAPM; SML; CML y APT.md",
+    "Tema 3. Medición del rendimiento y del riesgo.md",
+    "Tema 1. Introducción a los portafolios de renta variable y fondos de inversión.md",
+    "Módulo 5. Teoría de portafolio.md",
+    "Tema 2. Teoría de la eficiencia de los mercados.md",
+    "Finanzas.md",
     "Excalidraw/blackboard.excalidraw.md",
+    "TO DO.md",
+    "attachments/Pasted image 20230524165747.png",
+    "attachments/Pasted image 20230524165655.png",
     "Excalidraw/attachments/Pasted Image 20230523194759_163.png",
     "Excalidraw/attachments/Pasted Image 20230523194728_149.png",
     "Excalidraw/attachments/Pasted Image 20230523194627_145.png",
@@ -194,21 +241,12 @@
     "Excalidraw/attachments/Pasted Image 20230523194304_177.png",
     "Excalidraw/attachments/Pasted Image 20230523193300_150.png",
     "Excalidraw/attachments/Pasted Image 20230523192948_187.png",
-    "Excalidraw/attachments/Pasted Image 20230523192743_170.png",
-    "TO DO.md",
-    "Tema 4. Modelo CAPM; SML; CML y APT.md",
-    "Módulo 5. Teoría de portafolio.md",
-    "Finanzas.md",
     "Excalidraw/whiteboard.excalidraw.md",
-    "Tema 3. Medición del rendimiento y del riesgo.md",
-    "Tema 1. Introducción a los portafolios de renta variable y fondos de inversión.md",
-    "attachments/Pasted image 20230522181121.png",
     "Dinámica de Fluidos.md",
     "LaTeX.md",
     "Fundamentos de Mecánica de Fluidos.md",
     "Cinemática de Fluidos.md",
     "Obsidian Basics.md",
-    "Tema 2. Teoría de la eficiencia de los mercados.md",
     "Servomecanismos.md",
     "Mecanismos.md",
     "Señales y Sistemas II.md",
@@ -219,7 +257,6 @@
     "Cap. 3. Solución de las ecuaciones de estado de sistemas LTI.md",
     "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
     "Cap. 1. Modelos de sistemas lineales y no lineales.md",
-    "Linked note.md",
     "Excalidraw/attachments",
     "attachments",
     "New folder",

@@ -129,7 +129,7 @@ Donde $-1 \leq \rho_{XY} \leq 1$ .
 
 >[!Note]
 >Para calcular la covarianza fácilmente en Excel: 
->Análisis de datos -> Covarianza
+>Home -> Análisis de datos -> Covarianza
 
 
 ## Introducción al riesgo y la rentabilidad

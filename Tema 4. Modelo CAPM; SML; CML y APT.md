@@ -45,9 +45,12 @@ $$
 $$
 
 - $R_{i}$ : Rendimiento requerido sobre el activo financiero $i$
-- $R_{F}$ : Tasa de rendimiento libre de riesgo
+- $R_{F}$ : Tasa de rendimiento libre de riesgo (_Risk Free_)
 - $\beta_{i}$ : Valor Beta del activo financiero $i$
 - $R_{m}$ : Rendimiento medio del mercado de capitales
+
+>[!Info]
+>El _Risk Free_ es el rendimiento de un portafolio libre de riesgo, como los bonos del tesoro de los EEUU (TES)
 
 El $\beta$ del que se ha venido hablando representa al riesgo del mercado, no obstante, puede tenerse un $\beta$ de la industria que representa al riesgo no sistemático.
 
@@ -104,6 +107,9 @@ En la gráfica que representa el modelo propuesto por Harry Markowitz, yace la _
 
 Muestra el espectro de combinaciones dispponibles del portafolio de mercado, la tasa libre de riesgo y su correspondiente perfil de retorno esperado y volatilidad.
 
+>[!Note]
+>A la pendiente de la línea se le conoce como el _precio del riesgo_
+
 
 ## APT (Arbitrage Pricing Theory)
 
@@ -142,6 +148,18 @@ Se tienen 3 activos:
 
 ![](attachments/Pasted%20image%2020230522160319.png)
 
+>[!Note]
+>El rendimiento de una acción es la variación porcentual del precio actual con respecto al anterior.
+>En la tabla se recopilan los rendimientos de las acciones y se organizan por probabilidad de ocurrencia
+
+Para este tipo de problemas se recomienda hacer una tabla de ocurrencias:
+
+![](attachments/Pasted%20image%2020230524165655.png)
+
+Además de una matriz de varianza-covarianza:
+
+![](attachments/Pasted%20image%2020230524165747.png)
+
 - ¿Cuál será el rendimiento requerido del título 2?
 
 Se obtuvo que el retorno esperado del mercado (valor esperado de los rendimientos del mercado) es: $R_{m} = 14.1\%$ .
@@ -158,6 +176,46 @@ $$
 \end{align*}
 $$
 
+Para hallar el riesgo del portafolio se debe efectuar la operación matricial:
+
+$$
+\begin{align*}
+\sigma_{P}^{2} = \begin{pmatrix}
+45\% & 25\% & 30\%
+\end{pmatrix}	
+\begin{pmatrix}
+\sigma_{1}^{2} & \sigma_{21}^{2} & \sigma_{31}^{2} \\
+\sigma_{12}^{2} & \sigma_{2}^{2} & \sigma_{32}^{2} \\
+\sigma_{13}^{2} & \sigma_{23}^{2} & \sigma_{3}^{2}
+\end{pmatrix}
+\begin{pmatrix}
+45\% \\
+25\% \\
+30\%
+\end{pmatrix}
+\end{align*}
+$$
+
+$$
+\begin{align*}
+\sigma_{P}^{2} = \begin{pmatrix}
+45\% & 25\% & 30\%
+\end{pmatrix}	
+\begin{pmatrix}
+0.002969 & 0.002317 & 0.000953 \\
+0.002317 & 0.002041 & 0.000229 \\
+0.000953 & 0.000229 & 0.004521
+\end{pmatrix}
+\begin{pmatrix}
+45\% \\
+25\% \\
+30\%
+\end{pmatrix}
+\end{align*}
+$$
+
+El riesgo es $\sigma_{P} = \sqrt{ \sigma_{P}^{2} }=4.41\%$ .
+
 - ¿Cuál será el rendimiento esperado y la desviación estándar de una cartera con el $45\%$ invertido en el título 1, $25\%$ en el título 2 y $30\%$ en el tercer título?
 
 Se halla que el rendimiento del portafolio es de $15.28\%$, el cual es mayor al rendimiento del mercado ($14.1\%$), por lo que se esperan buenas ganancias.
@@ -167,6 +225,44 @@ Se halla que el rendimiento del portafolio es de $15.28\%$, el cual es mayor al 
 Se obtuvo un $\beta = 1.11$. Lo que significa un mayor riesgo sistemático, existe una correlación fuerte entre el mercado y el portafolio. Sin embargo, para el activo 3, se obtuvo un $\beta = 0.58$, lo que significa que el mercado provocará una variación menor en este activo.
 
 ---
+
+
+## Stock analysis
+
+Para el análisis de acciones se pueden obtener los datos de _Yahoo Finance_. 
+
+El _precio de cierre ajustado (Adjustment Close)_ es el precio con el que cierra una acción para una determinada fecha, donde se establecen las porciones de los dividendos, _splits_ de acciones u otros ajustes corporativos.
+
+Comúnmente se utiliza la variación logarítmica (_LN_) para estimar el cambio porcentual entre dos precios de cierre.
+Para un tiempo $0$ :
+
+$$
+\begin{align*}
+	\%LN = \ln\left( \frac{P_{0}}{P_{1}} \right)\cdot 100\%
+\end{align*}
+$$
+
+Donde $P_{0}$ es el precio en un tiempo $0$ y $P_{1}$ es el siguiente precio.
+
+La variación porcentual para un tiempo $0$:
+
+$$
+\begin{align*}
+	Var\% = \frac{P_{0} - P_{1}}{P_{1}}
+\end{align*}
+$$
+
+También se usa.
+
+Los rendimientos de la acción serán sus variaciones logarítmicas o porcentuales, dependiendo del caso.
+
+A partir de estos rendimientos, y tomando como referencia del mercado al _S&P 500_, se puede hacer todo el respectivo análisis estadístico.
+
+
+
+
+
+
 
 
 ## Algorithmic trading

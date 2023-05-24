@@ -22,6 +22,14 @@
 | SYD() | SYD() | Sistema suma de dígitos |
 | DB() | DB() | Sistema de saldo doble decreciente |
 | PRECIO() | PRICE() | Calcula el precio de un bono |
+| SUMAPRODUCTO() | SUMPRODUCT() | Producto punto entre dos vectores |
+| TRANSPONER() | TRANSPOSE() | Transpuesta de una matriz |
+| PROMEDIO() | AVERAGE() | Media de un conjunto de valores |
+| VARP() | VARP() | Varianza poblacional de un conjunto de valores |
+|  | COVARIANCE.P() | Covarianza poblacional de un conjunto de valores |
+| | MMULT() | Multiplicación de matrices |
+
+
 
 
 
