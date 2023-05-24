@@ -37,10 +37,10 @@
 	- [x] Tarea optimización 
 	- [x] Actividad: Análisis de velocidad de mecanismos
 
-- [ ] Deutsch
-	- [ ] Estudiar
+- [x] Deutsch
+	- [x] Estudiar
 
-- [ ] Chem-e-car
-	- [ ] Investigación
+- [x] Chem-e-car
+	- [x] Investigación
 
 ---

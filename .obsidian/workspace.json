@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "e132e4a74826b0b3",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md",
+                "file": "TO DO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md",
+                "file": "TO DO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md"
+                "file": "TO DO.md"
               }
             }
           },
@@ -194,28 +183,28 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "e132e4a74826b0b3",
+  "active": "2ec44b397539f8aa",
   "lastOpenFiles": [
+    "Excalidraw/blackboard.excalidraw.md",
+    "Excalidraw/attachments/Pasted Image 20230523194759_163.png",
+    "Excalidraw/attachments/Pasted Image 20230523194728_149.png",
+    "Excalidraw/attachments/Pasted Image 20230523194627_145.png",
+    "Excalidraw/attachments/Pasted Image 20230523194556_146.png",
+    "Excalidraw/attachments/Pasted Image 20230523194509_155.png",
+    "Excalidraw/attachments/Pasted Image 20230523194304_177.png",
+    "Excalidraw/attachments/Pasted Image 20230523193300_150.png",
+    "Excalidraw/attachments/Pasted Image 20230523192948_187.png",
+    "Excalidraw/attachments/Pasted Image 20230523192743_170.png",
     "TO DO.md",
     "Tema 4. Modelo CAPM; SML; CML y APT.md",
-    "Excalidraw/blackboard.excalidraw.md",
     "Módulo 5. Teoría de portafolio.md",
     "Finanzas.md",
     "Excalidraw/whiteboard.excalidraw.md",
     "Tema 3. Medición del rendimiento y del riesgo.md",
     "Tema 1. Introducción a los portafolios de renta variable y fondos de inversión.md",
     "attachments/Pasted image 20230522181121.png",
-    "attachments/Pasted image 20230522175953.png",
-    "attachments/Pasted image 20230522160319.png",
     "Dinámica de Fluidos.md",
-    "attachments/Pasted image 20230522140608.png",
-    "Excalidraw/attachments/Pasted Image 20230522140556_149.png",
-    "attachments/Pasted image 20230522131554.png",
     "LaTeX.md",
-    "attachments/Pasted image 20230522121109.png",
-    "attachments/Pasted image 20230522120656.png",
-    "attachments/Pasted image 20230522120629.png",
-    "attachments/Pasted image 20230522115438.png",
     "Fundamentos de Mecánica de Fluidos.md",
     "Cinemática de Fluidos.md",
     "Obsidian Basics.md",
