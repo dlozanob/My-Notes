@@ -105,10 +105,29 @@ En la gráfica que representa el modelo propuesto por Harry Markowitz, yace la _
 
 ![](attachments/Pasted%20image%2020230522181121.png)
 
-Muestra el espectro de combinaciones dispponibles del portafolio de mercado, la tasa libre de riesgo y su correspondiente perfil de retorno esperado y volatilidad.
+Muestra el espectro de combinaciones disponibles del portafolio de mercado, la tasa libre de riesgo y su correspondiente perfil de retorno esperado y volatilidad.
 
 >[!Note]
 >A la pendiente de la línea se le conoce como el _precio del riesgo_
+
+Esta línea es la combinación de portafolios entre un activo riesgoso y un activo libre de riesgo (su rendimiento es el _risk free_ $\tau_{F}$, su riesgo es $0\%$).
+Cada uno de los rendimientos y riesgos de esta línea se obtiene tras hacer respectivamente:
+
+$$
+\begin{align*}
+	R_{i} &= X_{A}\cdot R_{A} + X_{LR}\cdot R_{LR}  \\\\
+	\sigma_{i} &= X_{A}\cdot \sigma_{A} + \cancel{ X_{LR}\cdot \sigma_{LR} }^{0}
+\end{align*}
+$$
+
+Donde:
+- $X_{R}$ : Es el porcentaje de dinero invertido en el activo riesgoso
+- $R_{A}$ : Es el rendimiento del activo riesgoso
+- $X_{LR}$ : Es el rendimiento del activo libre de riesgo
+- $\sigma_{LR}$ : Es el riesgo del activo libre de riesgo ($0\%$)
+
+>[!Note]
+>Estos activos libres de riesgo pueden ser los bonos de los EEUU (TES)
 
 
 ## APT (Arbitrage Pricing Theory)
@@ -184,9 +203,9 @@ $$
 45\% & 25\% & 30\%
 \end{pmatrix}	
 \begin{pmatrix}
-\sigma_{1}^{2} & \sigma_{21}^{2} & \sigma_{31}^{2} \\
-\sigma_{12}^{2} & \sigma_{2}^{2} & \sigma_{32}^{2} \\
-\sigma_{13}^{2} & \sigma_{23}^{2} & \sigma_{3}^{2}
+\sigma_{1}^{2} & \sigma_{12}^{2} & \sigma_{13}^{2} \\
+\sigma_{21}^{2} & \sigma_{2}^{2} & \sigma_{23}^{2} \\
+\sigma_{31}^{2} & \sigma_{32}^{2} & \sigma_{3}^{2}
 \end{pmatrix}
 \begin{pmatrix}
 45\% \\
@@ -258,7 +277,8 @@ Los rendimientos de la acción serán sus variaciones logarítmicas o porcentual
 
 A partir de estos rendimientos, y tomando como referencia del mercado al _S&P 500_, se puede hacer todo el respectivo análisis estadístico.
 
-
+>[!Note]
+>Es útil hacer matrices de varianza-covarianza y de coeficientes de correlación
 
 
 

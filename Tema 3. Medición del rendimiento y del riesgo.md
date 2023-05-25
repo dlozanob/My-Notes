@@ -59,11 +59,35 @@ Donde:
 - $\sigma_{A}$ : Varianza de los rendimientos del activo $A$
 - $\sigma_{B}$ : Varianza de los rendimientos del activo $B$
 
-Los _retornos_ de un activo están dados en porcentaje. Estos tienen una distribución de probabilidad  peso asociado.
+De manera general para $n$ activos:
 
+$$
+\begin{align*}
+\sigma_{P}^{2} =
+\begin{pmatrix}
+X_{1} & X_{2} & \dots & X_{n}
+\end{pmatrix}	
+\begin{pmatrix}
+\sigma_{1}^{2} & \sigma_{12}^{2} & \dots & \sigma_{1n}^{2} \\
+\sigma_{21}^{2} & \sigma_{2}^{2} & \dots & \sigma_{2n}^{2} \\
+. & . & \dots & . \\
+. & . & \dots & . \\
+\sigma_{n_{1}}^{2} & \sigma_{n_{2}}^{2} & \dots & \sigma_{n}^{2}
+\end{pmatrix}
+\begin{pmatrix}
+X_{1} \\
+X_{2} \\
+. \\
+. \\
+X_{n}
+\end{pmatrix}
+\end{align*}
+$$
+
+Donde $X_{i}$ es el porcentaje de dinero invertido en el activo $i$ . Cabe resaltar que el _riesgo del portafolio_ es $\sigma_{P}$ .
 
 >[!Note]
->Cada uno de los _rendimientos_ de un activo es equivalente a decir cada uno de los precios de una acción a lo largo del tiempo
+>Cada uno de los _rendimientos_ de un activo es equivalente a decir cada uno de los precios de una acción a lo largo del tiempo (variación porcentual)
 
 
 ## Comportamiento de los activos

@@ -2,6 +2,10 @@
 
 >[!Note]
 >- Referencia absoluta: F4
+>	- Ejemplo: 
+>		- `$D$26` -> Referencia absoluta
+>		- `$D26` -> Referencia absoluta únicamente con respecto a la fila
+>		- `D$26` -> Referencia absoluta únicamente con respecto a la columna
 >- Flujos de salida negativos
 >- Usar tasas de interés con '%'
 >- El valor de salvamento en depreciaciones es: $i_{salvamento}*ValorInicial$
@@ -28,7 +32,7 @@
 | VARP() | VARP() | Varianza poblacional de un conjunto de valores |
 |  | COVARIANCE.P() | Covarianza poblacional de un conjunto de valores |
 | | MMULT() | Multiplicación de matrices |
-
+| | RAND() | Genera un número aleatorio. Pulsar F9 o cambiar cualquier celda reactualiza el número |
 
 
 

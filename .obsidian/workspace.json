@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tema 4. Modelo CAPM; SML; CML y APT.md",
+                "file": "Tema 3. Medición del rendimiento y del riesgo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tema 4. Modelo CAPM; SML; CML y APT.md",
+                "file": "Tema 3. Medición del rendimiento y del riesgo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tema 4. Modelo CAPM; SML; CML y APT.md"
+                "file": "Tema 3. Medición del rendimiento y del riesgo.md"
               }
             }
           },
@@ -220,10 +220,10 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "2da058a371e36c25",
+  "active": "c116f9278128f507",
   "lastOpenFiles": [
-    "Fórmulas Financieras Excel.md",
     "Tema 4. Modelo CAPM; SML; CML y APT.md",
+    "Fórmulas Financieras Excel.md",
     "Tema 3. Medición del rendimiento y del riesgo.md",
     "Tema 1. Introducción a los portafolios de renta variable y fondos de inversión.md",
     "Módulo 5. Teoría de portafolio.md",
