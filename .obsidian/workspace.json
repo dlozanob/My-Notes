@@ -4,31 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "633ba848a7a7e1e0",
+        "id": "212c839267fea180",
         "type": "tabs",
         "children": [
           {
-            "id": "c5d948934eaa2652",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tema 4. Modelo CAPM; SML; CML y APT.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6c583a6335aca038",
+            "id": "31abda45507b07eb",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -188,9 +175,14 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "6c583a6335aca038",
+  "active": "31abda45507b07eb",
   "lastOpenFiles": [
+    "Excalidraw/blackboard.excalidraw.md",
     "Tema 4. Modelo CAPM; SML; CML y APT.md",
+    "Excalidraw/attachments/Pasted Image 20230525214912_114.png",
+    "Excalidraw/attachments/Pasted Image 20230525213908_084.png",
+    "LaTeX.md",
+    "Excalidraw/attachments/Pasted Image 20230525212950_084.png",
     "Módulo 6. Teoría de estructura de capital.md",
     "Tema 2. Beta apalancado y desapalancado, betas proxy y costo de capital.md",
     "Tema 1. Teoría sobre estructura de capital, inpuestos y ventaja tributaria.md",
@@ -200,7 +192,6 @@
     "Tema 1. Introducción a los portafolios de renta variable y fondos de inversión.md",
     "Fórmulas Financieras Excel.md",
     "Tema 2. Teoría de la eficiencia de los mercados.md",
-    "Excalidraw/blackboard.excalidraw.md",
     "TO DO.md",
     "attachments/Pasted image 20230524165747.png",
     "attachments/Pasted image 20230524165655.png",
@@ -209,12 +200,8 @@
     "Excalidraw/attachments/Pasted Image 20230523194627_145.png",
     "Excalidraw/attachments/Pasted Image 20230523194556_146.png",
     "Excalidraw/attachments/Pasted Image 20230523194509_155.png",
-    "Excalidraw/attachments/Pasted Image 20230523194304_177.png",
-    "Excalidraw/attachments/Pasted Image 20230523193300_150.png",
-    "Excalidraw/attachments/Pasted Image 20230523192948_187.png",
     "Excalidraw/whiteboard.excalidraw.md",
     "Dinámica de Fluidos.md",
-    "LaTeX.md",
     "Fundamentos de Mecánica de Fluidos.md",
     "Cinemática de Fluidos.md",
     "Obsidian Basics.md",
@@ -225,7 +212,6 @@
     "conflict-files-obsidian-git.md",
     "Cap. 5. Filtros analógicos.md",
     "Cap. 4. Análisis cualitativo de sistemas LTI.md",
-    "Cap. 3. Solución de las ecuaciones de estado de sistemas LTI.md",
     "Excalidraw/attachments",
     "attachments",
     "New folder",
