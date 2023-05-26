@@ -31,7 +31,9 @@ Premisas del modelo:
 		R_{m} - R_{F}
 	\end{align*}
 	$$
-	
+
+Es lo que uno se ganaría con el portafolio riesgoso frente a invertir totalmente en un activo libre de riesgo
+
 - Al invertir en dos portafolios de activos básicos, los inversionistas necesitan: un activo libre de riesgo y el portafolio de mercado. Al combinarlos, se replica el $\beta$ y ,por tanto, la rentabilidad de cualquier activo ineficiente
 - El valor de una empresa no depende de sí misma, sino también del comportamiento del riesgo del mercado.
 
@@ -106,6 +108,8 @@ En la gráfica que representa el modelo propuesto por Harry Markowitz, yace la _
 ![](attachments/Pasted%20image%2020230522181121.png)
 
 Muestra el espectro de combinaciones disponibles del portafolio de mercado, la tasa libre de riesgo y su correspondiente perfil de retorno esperado y volatilidad.
+
+William Sharpe halla una frontera eficiente lineal.
 
 >[!Note]
 >A la pendiente de la línea se le conoce como el _precio del riesgo_
@@ -279,6 +283,18 @@ A partir de estos rendimientos, y tomando como referencia del mercado al _S&P 50
 
 >[!Note]
 >Es útil hacer matrices de varianza-covarianza y de coeficientes de correlación
+
+Para hallar el portafolio de mínima varianza, es útil aplicar el criterio de la primera derivada sobre la función de riesgo-rendimiento de los portafolios
+
+¿Cómo hallar el portafolio de mínima varianza de una manera sencilla?
+
+En Excel Datos -> Solver, minimizar la varianza cambiando las ponderaciones, sus restricciones son: la sumatoria de contribuciones debe ser $1$ .
+
+Para el portafolo tangente:
+Tomar la pendiente de la CML y maximizarla cambiando los porcentajes, (sumatoria igual a $1$).
+
+>[!NOte]
+>La tasa de los bonos de EEUU es anual. Estos bonos aparecen como _TNX_
 
 
 
