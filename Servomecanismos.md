@@ -10,6 +10,7 @@ Algunos conceptos clave:
 - _NEMA_ :  National Electrical Manufactures Association
 - _VFD_ : Variable Frequency Drivers
 - _FOC_ : Field Oriented Control
+- _IDT_ : Industrial DIgital Transformation
 
 >[!Info]
 >Comúnmente las válvulas hidráulicas manejan un rango de 3-15 psi.
@@ -770,16 +771,15 @@ Un perfil trapezoidal suave evita el problema de los jerks
 ![](attachments/Pasted%20image%2020230518093020.png)
 
 
+Los motores _Switched_ también se les conoce como motores de _inductancia conmutada_.
+A los motores de imán permanente se les conoce como _PMSM (Permanent Magnet Synchronous Motor)_
+
+>[!Note]
+>Motores de baja velocidad -> $\omega<2000$ rpm
 
 
-1. ¿Qué tipo de motor es el más pertinente en control de movimiento?
-2. ¿Qué configuración es la más apropiada para la inversión de giro?
-3. ¿Qué tipo de motor otorga una mejor precisión?
-4. ¿Cómo generar las señales que controlarán al motor?
-5. ¿Qué normas de seguridad debe cumplir un motor eléctrico orientado a control de movimiento?
 
-1.  ¿Cómo controlar estos actuadores eléctricos a nivel de software y de hardware?
-1.  ¿Cómo seleccionar un actuador eléctrico de acuerdo a la aplicación?
+¿Cómo seleccionar un actuador eléctrico de acuerdo a la aplicación?
 
 R/ Los más usados en motion control son los AC de inducción
 Control de velocidad -> AC
@@ -823,14 +823,35 @@ En algunos casos se utilizan diodos de protección:
 
 Se usan para que las bobinas del motor no dañen los transistores.
 
+>[!Note]
+>- $1$ HP $= 746$ Watts 
+>- Los motores comúnmente tienen una potencia de $1$ HP
 
 
+Los transistores _IGBT (Isled Gate Bipolar Transistor)_  bipolares de compuerta aislada hibridan los transistores BJT y MOSFET
 
+![](attachments/Pasted%20image%2020230525094723.png)
 
+>[!Info]
+>_NIkola Tesla_ (1856 - 1943) desarrollá a sus 33 años 7 patentes (1888)
 
+La _densidad de torque_ relaciona al torque producido por el volumen del motor
 
+En motores DC es posible tener un rotor interno o también un rotor externo 
 
+TAREA:
 
+$$
+\begin{align*}
+	G(s) &= \frac{A}{s}\cdot \frac{k}{s(\tau s + 1)} \\\\
+	&= \frac{k_{1}}{s} + \frac{k_{2}}{s^{2}} + \frac{k_{3}}{\tau s + 1} \\\\
+	Ak = k_{1}\cdot s(ts+1) + k_{2}\cdot (ts+1) + k_{3}\cdot s^{2} \\\\
+	Ak = (k_{3}+k_{1}t)\cdot s^{2} + (k_{1}+k_{2}t)\cdot s + (k_{1}+k_{2}) \\\\
+	k_{3}+k_{1}t = 0 \\\\
+	k_{1} + k_{2}t = 0 \\\\
+	k_{1} + k_{2} = Ak
+\end{align*}
+$$
 
 
 
@@ -883,6 +904,7 @@ Se usan para que las bobinas del motor no dañen los transistores.
 - [x] Videos
 - [x] Docs
 - [x] Procesos de selección
+- [ ] Tarea
 - [ ] Ubicar algún catálogo de fabricante con 6 parámetros de modelado de un motor DC.
 
 - Parámetros:
@@ -925,9 +947,12 @@ Por tanto, el mecanismo tiene dos etapas:
 
 Se deben hacer hasta 10 ciclos de la segunda etapa.
 
+![](attachments/Pasted%20image%2020230520201439.png)
+
 
 ## External Links
 
 - [IEC 61131](https://webstore.iec.ch/webstore/webstore.nsf/mysearchajax?Openform&key=iec%2061131&sorting=&start=1&onglet=1)
 - [Stewart Platform](https://www.youtube.com/watch?v=j4OmVLc_oDw)
 - [The Mechatronics Academy](http://www.mechatronics-academy.nl/)
+- [Motor Handbook](https://drive.google.com/file/d/1ds2Rd_RzYx1qcQVtDW8I8s0z-BlPGMF2/view)

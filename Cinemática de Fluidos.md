@@ -2,7 +2,7 @@
 
 ## Variables de campo
 
-En cinemática se usa la perspectiva Euleriana, ya que, se estudian volúmenes de control en fluidos.
+En cinemática se usa la perspectiva Euleriana, ya que, se estudian volúmenes de control en fluidos. Dentro de estos volúmenes de control se definen campos.
 
 - _Campo de presión_ 
 
@@ -103,7 +103,7 @@ $$
 
 
 >[!Note]
->- Un _fluido estacionario_ es aquel que su velocidad no cambia en el tiempo ($\frac{\partial \vec{v}}{\partial t} = 0$)
+>- Un _fluido estacionario_ es aquel cuya velocidad no cambia en el tiempo ($\frac{\partial \vec{v}}{\partial t} = 0$)
 >- Para graficar un campo vectorial en Matlab:
 ```Matlab
 [X, Y] = meshgrid(<rangoX>, <rangoY>);
@@ -140,6 +140,14 @@ $$
 \end{align*}
 $$
 
+De manera general:
+
+$$
+\begin{align*}
+	\vec{V}\times d\vec{r} = 0
+\end{align*}
+$$
+
 ---
 
 - __Ejemplo__ :
@@ -162,9 +170,9 @@ Entonces:
 
 $$
 \begin{align*}
-	&-\ln(1.5 - 0.8y) = \ln(0.5 + 0.8x) + c \\
-	&\frac{1}{1.5 - 0.8y} = (0.5 + 0.8x)e^{ c } \\\\
-	&y = \frac{0.75 + 1.2x + 1.5}{0.64x + 0.4 + 0.8}\cdot C 
+	-\ln(1.5 - 0.8y) &= \ln(0.5 + 0.8x) + c \\
+	\frac{1}{1.5 - 0.8y} &= (0.5 + 0.8x)e^{ c } \\\\
+	y &= \frac{0.75 + 1.2x + 1.5}{0.64x + 0.4 + 0.8}\cdot C 
 \end{align*}
 $$
 
@@ -203,7 +211,7 @@ Si el fluido no es estacionario, se tendrían que considerar las velocidades en 
 	- Son líneas utilizadas en física para determinar la dirección y magnitud de un vector a lo largo del espacio vectorial
 	- El vector puede representar cualquier variable
 	- La línea de traza es tangente a la dirección de los vectores
-	- Son el lugar geométrico de las partículas del fluido que han pasado de manera secuencial por un punto
+	- Se inyectan partículas en un mismo punto en instantes distintos, la trayectoria trazada por estas partículas son las líneas de traza
 
 ![](attachments/Pasted%20image%2020230416141532.png)
 
@@ -223,121 +231,42 @@ Si el fluido no es estacionario, se tendrían que considerar las velocidades en 
 ![](attachments/Pasted%20image%2020230501154058.png)
 
 
----
+## Movimiento y deformación
 
-Las _coordenadas de líneas de corriente_ toman un sistema de referencia relativo a cada posición de una partícula. Sus componentes son una normal ($\hat{n}$) y una tangencial ($\hat{s}$).
+Se considera un elemento de fluido el cual puede poseer un movimiento y una deformación, las cuales son una superposición de componentes más simples.
 
-![](attachments/Pasted%20image%2020230416142540.png)
+![](attachments/Pasted%20image%2020230521133343.png)
 
-Se define el campo de aceleración usando este sistema coordenado.
+
+### Movimiento y deformación lineal
+
+![](attachments/Pasted%20image%2020230521133602.png)
+
+Si el fluido presenta un gradiente de velocidad a lo largo de $x$. La velocidad $v_{x}$ a una distancia $\delta x$ se puede obtener por Taylor:
 
 $$
 \begin{align*}
-	\vec{a} = \frac{D\vec{v}}{Dt} = a_{s}\hat{s} + a_{n}\hat{n}
+	v_{x}(\delta x) = v_{x} + \frac{\partial v_{x}}{\partial x}\delta x
 \end{align*}
 $$
 
-
-Sabiendo que $\vec{v} = v\hat{s}$ entonces:
+Siendo así, la deformación será:
 
 $$
 \begin{align*}
-	\vec{a} &= \frac{D\vec{v}}{Dt} = \frac{D(v\hat{s})}{Dt} \\
-	&= \frac{D\hat{s}}{Dt} + \frac{Dv}{Dt} \\
-	&= \left( v \frac{\partial v}{\partial s} \right)\hat{s} + v\left( \frac{\partial \hat{s}}{\partial s} \right) \\
-	&= a_{s}\hat{s} + \frac{V^{2}}{R}\hat{n}
+	d\delta x &= dv_{x}\cdot t  \\\\
+	&= (v_{x}(\delta x) - v_{x})\cdot t  \\\\
+	&= \frac{\partial v_{x}}{\partial x}\delta xdt
 \end{align*}
 $$
 
-Tal que $a_{n} = \frac{V^{2}}{R}$. Donde $R$ es el radio de curvatura.
+![](attachments/Pasted%20image%2020230521134216.png)
 
-
-## Teorema de transporte de Reynolds
-
-Se conecta un sistema (perspectiva Euleriana) con un volumen de control (perspectiva Lagrangiana).
-
-Se tiene:
+Así mismo, el diferencial de volumen es:
 
 $$
 \begin{align*}
-	B = m\cdot b
-\end{align*}
-$$
-
-Donde $B$ es cualquier propiedad extensiva, $m$ es masa, y $b$ es cualquier propiedad intensiva.
-
-Se tiene un volumen de control y una masa de control cuyo volumen coincide con el primero para un instante $t$ .
-
-Para un instante posterior $t + \delta t$, la cantidad que sale es igual a la que entra en el volumen de control.
-
-![](attachments/Pasted%20image%2020230507130605.png)
-
-Se determina:
-
-$$
-\begin{align*}
-	B_{SYS} &= \lim_{ \partial V \to 0 } \sum_{i} (\partial V\cdot \rho_{i})b  \\\\
-	&= \int _{SYS} \rho b \, dV
-\end{align*}
-$$
-
-Así mismo,
-
-$$
-\begin{align*}
-	B_{CV} = \int _{CV} \rho b \, dV
-\end{align*}
-$$
-
-Donde $B_{CV}$ es la propiedad extensiva en cuestión del volumen de control (_control volume_).
-
-La tasa de cambio temporal de esta propiedad es su derivada material:
-
-$$
-\begin{align*}
-	\frac{DB_{SYS}}{Dt} = \frac{\partial B_{\omega}}{\partial t} + \dot{B}_{out} - \dot{B}_{in}
-\end{align*}
-$$
-
-Podemos determinar el flujo de salida mediante:
-
-$$
-\begin{align*}
-	\dot{B}_{out} &= \int _{CSout} d\dot{B}_{out} = \dot{\bar{\left( \int _{CSout} \rho b\,\,dV \right)}} \\\\
-	&= \int _{CSout} \rho b \, d\dot{V}
-\end{align*}
-$$
-
-Donde $CS$ es la superficie del volumen de control (_control surface_)
-
-El flujo (tasa de cambio volumétrico) es descrito como:
-
-![](attachments/Pasted%20image%2020230507132338.png)
-
-Entonces:
-
-$$
-\begin{align*}
-	\frac{dV}{dt} &= d\vec{A} \cdot \vec{v} \\\\
-	&= v\cos(\theta)dA
-\end{align*}
-$$
-
-Sustituyendo:
-
-$$
-\begin{align*}
-	\dot{B}_{out} = \int _{CSout} \rho b\cdot v \cos(\theta) \, dA
-\end{align*}
-$$
-
-Donde $v$ es la velocidad del fluido que atraviesa ese punto de la superficie.
-
-Análogamente:
-
-$$
-\begin{align*}
-	\dot{B}_{in} = - \int _{CSin} \rho b\cdot v\cos(\theta) \, dA
+	d\delta V(t) = \delta V(t + dt) - \delta V(t) = \left( \frac{\partial v_{x}}{\partial x}\delta xdt \right)\delta y\delta z
 \end{align*}
 $$
 
@@ -345,56 +274,213 @@ Por tanto:
 
 $$
 \begin{align*}
-	\dot{B}_{out} - \dot{B}_{in} &= \int _{CSout} \rho bv\cos(\theta) \, dA + \int _{CSin} \rho bv\cos(\theta) \, dA \\\\
-	&= \int _{CS} \rho bv\cos(\theta) \, dA
+	\frac{d\delta V(t)}{dt} &= \frac{\partial v_{x}}{\partial x}\delta x\delta y\delta z \\\\
+	\frac{1}{\delta V} \frac{d\delta V(t)}{dt} &= \frac{\partial v_{x}}{\partial x}
 \end{align*}
 $$
 
-Se enuncia entonces, el _teorema de Reynolds_ :
+De manera general, si el fluido tiene un desplazamiento en todas las direcciones:
 
 $$
 \begin{align*}
-	\boxed{\frac{DB_{SYS}}{Dt} = \frac{\partial}{\partial t}\left( \int _{CV}\rho b \, dV  \right) + \int _{CS} \rho bv\cos(\theta) \, dA }
+	\frac{1}{\delta V} \frac{d\delta V(t)}{dt} = \frac{\partial v_{x}}{\partial x} + \frac{\partial v_{y}}{\partial y} + \frac{\partial v_{z}}{\partial z}
 \end{align*}
 $$
 
----
+$$
+\begin{align*}
+	\boxed{\frac{1}{\delta V} \frac{d\delta V(t)}{dt} = \vec{\nabla}\cdot \vec{v}}
+\end{align*}
+$$
 
-- __Ejemplo__ :
-
-![](attachments/Pasted%20image%2020230507134256.png)
-
-El fluido es agua a $4$° .
+Esto define la _compresibilidad_ de un fluido, por tanto, si esta divergencia es cero, el fluido es incompresible, ya que, el volumen no varía.
 
 
-- ¿Cuál es el flujo másico por la superficie delimitada por $\bar{CD}$ ?
+La _razón de deformación lineal_ se define como la tasa de cambio de longitud por la longitud original:
 
-La propiedad $B$ es la masa, entonces, partiendo de $B = mb$, $b$ debe ser $1$ .
+$$
+\begin{align*}
+	\varepsilon_{xx} = \frac{1}{\delta x} \frac{d\delta x}{dt}
+\end{align*}
+$$
 
-Se halla que el segmento $\bar{CD} = \frac{0.5}{\cos(\theta)}$ .
+Se tiene que:
+
+$$
+\begin{align*}
+	\frac{d\delta x}{dt} = \frac{\partial v_{x}}{\partial x}\delta x
+\end{align*}
+$$
 
 Entonces:
 
 $$
 \begin{align*}
-	\dot{B}_{out} &= \int _{CSout} \rho bv\cos(\theta) \, dA  \\\\
-	&= \rho v\cos(\theta)\int _{CSout}  \, dA  \\\\
-	&= \rho v\cos(\theta)\cdot (2\cdot \bar{CD}) \\\\
-	&= \rho v = \left( 1000\,\, \frac{kg}{m^{3}} \right)\left( 3\,\, \frac{m}{s} \right)\cdot m^{2} \\\\
-	&= 3000\,\, \frac{kg}{s}
+	\varepsilon_{xx} = \frac{\partial v_{x}}{\partial x}
 \end{align*}
 $$
 
-- ¿Cuál es el flujo volumétrico por la superficie delimitada por $\bar{CD}$ ?
-
-Ahora se toma $b = \frac{1}{\rho}$ .
-
-Análogamente al procedimiento anterior:
+Siendo así:
 
 $$
 \begin{align*}
-	\dot{B}_{out} = 1000\,\, \frac{m^{3}}{s}
+	\vec{\nabla}\cdot \vec{v} = \varepsilon_{xx} + \varepsilon_{yy} + \varepsilon_{zz}
 \end{align*}
 $$
 
+
+### Movimiento y deformación angular
+
+![](attachments/Pasted%20image%2020230521151334.png)
+
+Se considera un elemento de fluido con un gradiente de velocidad en $y$ y en $x$.
+
+De esta manera, la velocidad angular de $OA$ es:
+
+$$
+\begin{align*}
+	\omega_{OA} &= \lim_{ \delta t \to 0 } \frac{\delta \alpha}{\delta t} = \frac{d\alpha}{dt}  \\\\
+	&\approx  \frac{\left( \frac{1}{\delta x}\cdot\frac{\partial v_{y}}{\partial x}\delta x\delta t \right)}{\partial t} \\\\
+	&= \frac{\partial v_{y}}{\partial x}
+\end{align*}
+$$
+
+Análogamente:
+
+$$
+\begin{align*}
+	\omega_{OB} = - \frac{\partial v_{x}}{\partial y}
+\end{align*}
+$$
+
+De manera aproximada (para tiempos muy cortos), se puede decir que la velocidad angular del elemento es el promedio de las velocidades angulares:
+
+$$
+\begin{align*}
+	\omega_{z} = \frac{\omega_{OA} + \omega_{OB}}{2}
+\end{align*}
+$$
+
+Entonces:
+
+$$
+\begin{align*}
+	\omega_{z} = \frac{1}{2}\left( \frac{\partial v_{y}}{\partial x} - \frac{\partial v_{x}}{\partial y}\right)
+\end{align*}
+$$
+
+De manera general, cuando existe rotación en todas las direcciones:
+
+$$
+\begin{align*}
+	\boxed{\vec{\omega} = \frac{1}{2}\vec{\nabla}\times \vec{v}}
+\end{align*}
+$$
+
+La _razón de deformación por esfuerzo cortante_ se define como:
+
+$$
+\begin{align*}
+	-\frac{1}{2} \frac{d\gamma}{dt} = \frac{\omega_{OA} - \omega_{OB}}{2}
+\end{align*}
+$$
+
+![](attachments/Pasted%20image%2020230521153441.png)
+
+De los resultados anteriores se obtiene:
+
+$$
+\begin{align*}
+	\varepsilon_{xy} = -\frac{1}{2} \frac{d\gamma}{dt} = \frac{1}{2} \left( \frac{\partial v_{x}}{\partial y} + \frac{\partial v_{y}}{\partial x} \right)
+\end{align*}
+$$
+
+
+### Tensor de deformaciones
+
+Se define el tensor de deformaciones como:
+
+$$
+\begin{align*}
+	\bar{\bar{\varepsilon}} =
+	\begin{pmatrix}
+\varepsilon_{xx} & \varepsilon_{xy} & \varepsilon_{xz} \\
+\varepsilon_{yx} & \varepsilon_{yy} & \varepsilon_{yz} \\
+\varepsilon_{zx} & \varepsilon_{zy} & \varepsilon_{zz}
+\end{pmatrix}
+\end{align*}
+$$
+
+El cual es un tensor simétrico.
+
+Donde:
+
+$$
+\begin{align*}
+	\varepsilon_{xx} &= \frac{\partial v_{x}}{\partial x} \\\\
+	\varepsilon_{yy} &= \frac{\partial v_{y}}{\partial y} \\\\
+	\varepsilon_{zz} &= \frac{\partial v_{z}}{\partial z} \\\\
+	\varepsilon_{xy} &= \frac{1}{2}\left( \frac{\partial v_{x}}{\partial y} + \frac{\partial v_{y}}{\partial x} \right) \\\\
+	\varepsilon_{yz} &= \frac{1}{2}\left( \frac{\partial v_{y}}{\partial z} + \frac{\partial v_{z}}{\partial y} \right) \\\\
+	\varepsilon_{xz} &= \frac{1}{2}\left( \frac{\partial v_{z}}{\partial x} + \frac{\partial v_{x}}{\partial z} \right)
+\end{align*}
+$$
+
+>[!Note]
+>Una manera mnemotécnica de calcular un producto cruz es el uso del [Símbolo de Levi-Civita](#Símbolo+de+Levi-Civita)
+
+
+## Vorticidad
+
+Se define la _vorticidad_ como:
+
+$$
+\begin{align*}
+	\boxed{\vec{\zeta} = \vec{\nabla}\times \vec{v}}
+\end{align*}
+$$
+
+Lo que define las propiedades rotacionales de los elementos que componen al fluido.
+
+
+## Símbolo de Levi-Civita
+
+Se define el _símbolo de Levi-Civita_ como:
+
+$$
+\begin{align*}
+	\epsilon_{ijk} =
+	\left\{
+	\begin{array}{lcc}
+		1,\,\,si\,\,(i,j,k)\,\,es\,\,una\,\,permutación\,\,par \\
+
+-1,\,\,si\,\,(i,j,k)\,\,es\,\,una\,\,permutación\,\,impar \\
+
+0,\,\,si\,\,al\,\,menos\,\,una\,\,componente\,\,es\,\,igual\,\,a\,\,otra
+	\end{array}
+	\right.
+\end{align*}
+$$
+
+Se toma como base la permutación: $(1,2,3)$.
+Una _permutación par_ es aquella a la que se puede llegar a partir de un número par de swaps desde la base.
+Una _permutación impar_ es aquella a la que se puede llegar a partir de un número ipar de swaps desde la base.
+
+![](attachments/Pasted%20image%2020230522114630.png)
+
+Haciendo uso de esto, se puede calcular un prodcuto cruz de la siguiente manera:
+
+$$
+\begin{align*}
+	a\times b = 
+	\begin{bmatrix}
+\hat{e}_{1} & \hat{e}_{2} & \hat{e}_{3} \\
+a_{1} & a_{2} & a_{3} \\
+b_{1} & b_{2} & b_{3}
+\end{bmatrix} =
+\sum_{i=1}^{3}\left( \sum_{j,k=1}^{3} \epsilon_{i,j,k} a_{j} b_{k} \right)\,\,\hat{e}_{i}
+\end{align*}
+$$
+
+Esto se puede llevar a $n$ dimensiones, lo que facilita los cálculos.
 

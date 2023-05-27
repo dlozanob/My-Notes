@@ -2,6 +2,10 @@
 
 >[!Note]
 >- Referencia absoluta: F4
+>	- Ejemplo: 
+>		- `$D$26` -> Referencia absoluta
+>		- `$D26` -> Referencia absoluta únicamente con respecto a la fila
+>		- `D$26` -> Referencia absoluta únicamente con respecto a la columna
 >- Flujos de salida negativos
 >- Usar tasas de interés con '%'
 >- El valor de salvamento en depreciaciones es: $i_{salvamento}*ValorInicial$
@@ -22,6 +26,14 @@
 | SYD() | SYD() | Sistema suma de dígitos |
 | DB() | DB() | Sistema de saldo doble decreciente |
 | PRECIO() | PRICE() | Calcula el precio de un bono |
+| SUMAPRODUCTO() | SUMPRODUCT() | Producto punto entre dos vectores |
+| TRANSPONER() | TRANSPOSE() | Transpuesta de una matriz |
+| PROMEDIO() | AVERAGE() | Media de un conjunto de valores |
+| VARP() | VARP() | Varianza poblacional de un conjunto de valores |
+|  | COVARIANCE.P() | Covarianza poblacional de un conjunto de valores |
+| | MMULT() | Multiplicación de matrices |
+| | RAND() | Genera un número aleatorio. Pulsar F9 o cambiar cualquier celda reactualiza el número |
+
 
 
 

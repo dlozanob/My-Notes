@@ -16,7 +16,7 @@ En _renta variable_ no se conoce el flujo de caja.
 
 $$
 \begin{align*}
-	\bar{x} = \frac{\sum_{i = 1}^{n}k_{i}}{n}
+	\boxed{\bar{x} = \frac{\sum_{i = 1}^{n}x_{i}}{n}}
 \end{align*}
 $$
 
@@ -27,7 +27,7 @@ $$
 
 	$$
 	\begin{align*}
-		E[x] = \sum_{i = 1}^{n}x_{i}\cdot f_{i}
+		\boxed{E[x] = \sum_{i = 1}^{n}x_{i}\cdot f_{i}}
 	\end{align*}
 	$$
 	- Caso continuo: 
@@ -66,11 +66,23 @@ $$
 >- La varianza muestral se usa en el cálculo de valores del pasado
 >- Cuando en el cálculo intervienen retornos estimados sobre la ocurrencia de posibles escenarios, se usa la varianza poblacional
 
+Notemos que en la fórmula de la varianza, esta se ha dividido por $n$, esto significa que la varianza es la media del cuadrado de las diferencias con respecto al valor esperado.
+
+No obstante, la varianza puede ser descrita de manera general como el valor esperado del cuadrado de estas diferencias. Siendo así:
+
+$$
+\begin{align*}
+	\boxed{\sigma_{X}^{2} = \sum_{i=1}^{n}(x_{i} - E[X])\cdot f_{i}}
+\end{align*}
+$$
+
+Donde $f_{i}$ es el peso de $x_{i}$ .
+
 - _Desviación estándar_ ($\sigma_{X}$)
 
 $$
 \begin{align*}
-	\sigma_{X} = \sqrt{ VAR(X) }
+	\boxed{\sigma_{X} = \sqrt{ \sigma_{X}^{2} }}
 \end{align*}
 $$
 
@@ -82,7 +94,17 @@ $$
 		cov(X, Y) = \frac{1}{n}\sum_{i=1}^{n}(x_{i} - E[X])(y_{i} - E[Y]) = E[(X_{i} - E[X])(Y_{i} - E[Y])]
 	\end{align*}
 	$$
+
+	Siendo así, se define de manera general la covarianza:
+
+	$$
+	\begin{align*}
+		\boxed{\sigma_{XY} = \sum_{i=1}^{n}(x_{i} - E[X])(y_{i} - E[Y])\cdot f_{i}}
+	\end{align*}
+	$$
 	
+	Donde $f_{i}$ es el peso o frecuencia de aparición de los datos. Para una mejor explicación: [External links](#external+links)
+
 	- Si $XY > 0$
 		- Existe una relación lineal entre las variables
 	- Si $XY = 0$
@@ -95,15 +117,19 @@ $$
 
 $$
 \begin{align*}
-	\rho_{XY} = \frac{\sigma_{XY}}{\sigma_{X}\cdot \sigma_{Y}}
+	\boxed{\rho_{XY} = \frac{\sigma_{XY}}{\sigma_{X}\cdot \sigma_{Y}}}
 \end{align*}
 $$
 
 Donde $-1 \leq \rho_{XY} \leq 1$ .
 
+- _Coeficiente de determinación_ ($\rho_{XY}^{2}$)
+	- Es simplemente el cuadrado del coeficiente de correlación 
+
+
 >[!Note]
 >Para calcular la covarianza fácilmente en Excel: 
->Análisis de datos -> Covarianza
+>Home -> Análisis de datos -> Covarianza
 
 
 ## Introducción al riesgo y la rentabilidad
@@ -117,7 +143,7 @@ En un mundo con total certeza sobre los sucesos no habrían riesgos (_riskfree r
 ![](attachments/Pasted%20image%2020230514181405.png)
 
 La _rentabilidad_ de un activo se aproxima a través del valor esperado.
-La _riesgo_ o _volatilidad_ de un activo se aproxima a través de la desviación estándar.
+El _riesgo_ o _volatilidad_ de un activo se aproxima a través de la desviación estándar.
 
 La _tasa de descuento_ o _costo de oportunidad_ es ahora:
 
@@ -178,3 +204,6 @@ Por tanto, al armar un portafolio más grande (invertir en varias compañías al
 >_No meter todos los huevos en una sola canasta_
 
 
+## External Links
+
+- [Covarianza](https://www.rankia.com/diccionario/economia/covarianza)
