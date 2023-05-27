@@ -11,11 +11,38 @@
             "id": "31abda45507b07eb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Servomecanismos.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3a08d1c2ff4cbe84",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/blackboard.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "a3761a4f8d3f8b43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Finanzas.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,6 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Finanzas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Finanzas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +151,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Finanzas.md"
+              }
             }
           },
           {
@@ -175,46 +206,51 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "31abda45507b07eb",
+  "active": "a3761a4f8d3f8b43",
   "lastOpenFiles": [
-    "Excalidraw/blackboard.excalidraw.md",
-    "Tema 4. Modelo CAPM; SML; CML y APT.md",
-    "Excalidraw/attachments/Pasted Image 20230525214912_114.png",
-    "Excalidraw/attachments/Pasted Image 20230525213908_084.png",
-    "LaTeX.md",
-    "Excalidraw/attachments/Pasted Image 20230525212950_084.png",
-    "Módulo 6. Teoría de estructura de capital.md",
-    "Tema 2. Beta apalancado y desapalancado, betas proxy y costo de capital.md",
-    "Tema 1. Teoría sobre estructura de capital, inpuestos y ventaja tributaria.md",
-    "Finanzas.md",
-    "Módulo 5. Teoría de portafolio.md",
-    "Tema 3. Medición del rendimiento y del riesgo.md",
-    "Tema 1. Introducción a los portafolios de renta variable y fondos de inversión.md",
-    "Fórmulas Financieras Excel.md",
-    "Tema 2. Teoría de la eficiencia de los mercados.md",
-    "TO DO.md",
-    "attachments/Pasted image 20230524165747.png",
-    "attachments/Pasted image 20230524165655.png",
-    "Excalidraw/attachments/Pasted Image 20230523194759_163.png",
-    "Excalidraw/attachments/Pasted Image 20230523194728_149.png",
-    "Excalidraw/attachments/Pasted Image 20230523194627_145.png",
-    "Excalidraw/attachments/Pasted Image 20230523194556_146.png",
-    "Excalidraw/attachments/Pasted Image 20230523194509_155.png",
-    "Excalidraw/whiteboard.excalidraw.md",
-    "Dinámica de Fluidos.md",
-    "Fundamentos de Mecánica de Fluidos.md",
-    "Cinemática de Fluidos.md",
-    "Obsidian Basics.md",
-    "Servomecanismos.md",
-    "Mecanismos.md",
-    "Señales y Sistemas II.md",
-    "Cap. 6. Sistemas en tiempo discreto.md",
-    "conflict-files-obsidian-git.md",
-    "Cap. 5. Filtros analógicos.md",
-    "Cap. 4. Análisis cualitativo de sistemas LTI.md",
+    "Local Backup/Web Development.md",
+    "Local Backup/Verilog.md",
+    "Local Backup/Using JS for Web Applications.md",
+    "Local Backup/TO DO.md",
+    "Local Backup/Tema 5. Valoración de operaciones.md",
+    "Local Backup/Tema 4. Modelo CAPM; SML; CML y APT.md",
+    "Local Backup/Tema 4. Matemáticas financieras.md",
+    "Local Backup/Tema 4. Introducción a los mercados monetarios.md",
+    "Local Backup/Tema 4. Financiamiento a corto plazo.md",
+    "Local Backup/Tema 4. Análisis de sensibilidad.md",
+    "Local Backup/Tema 3. Valoración.md",
+    "Local Backup/Tema 3. Medición del rendimiento y del riesgo.md",
+    "Local Backup/Tema 3. Introducción a los mercados de capitales.md",
+    "Local Backup/Tema 3. Indicadores macroeconómicos.md",
+    "Local Backup/Tema 3. Análisis de flujo de efectivo y análisis de capital de trabajo.md",
+    "Local Backup/Tema 2. Tipos de bonos y sus características.md",
+    "Local Backup/Tema 2. Teoría de la eficiencia de los mercados.md",
+    "Local Backup/Tema 2. Función de oferta y demanda.md",
+    "Local Backup/Tema 2. Estructura del mercado.md",
+    "Local Backup/Tema 2. Beta apalancado y desapalancado, betas proxy y costo de capital.md",
+    "Local Backup/Tema 2. Beta apalancado y desapalancado%2C betas proxy y costo de capital.md",
+    "Local Backup/Tema 2. Análisis de estados financieros e indicadores financieros.md",
+    "Local Backup/Tema 1. Teoría sobre estructura de capital, inpuestos y ventaja tributaria.md",
+    "Local Backup/Tema 1. Teoría sobre estructura de capital%2C inpuestos y ventaja tributaria.md",
+    "Local Backup/Tema 1. Introducción a los portafolios de renta variable y fondos de inversión.md",
+    "Local Backup/Tema 1. Infraestructura de los mercados financieros.md",
+    "Local Backup/Excalidraw/attachments/Pasted Image 20230525214912_114.png",
+    "Local Backup/Excalidraw/attachments/Pasted Image 20230525213908_084.png",
+    "Local Backup/Excalidraw/attachments/Pasted Image 20230525212950_084.png",
+    "Local Backup/Excalidraw/attachments/Pasted Image 20230523194759_163.png",
+    "Local Backup/Excalidraw/attachments/Pasted Image 20230523194728_149.png",
+    "Local Backup/Excalidraw/attachments/Pasted Image 20230523194627_145.png",
+    "Local Backup/Excalidraw/attachments/Pasted Image 20230523194556_146.png",
+    "Local Backup/Excalidraw/attachments/Pasted Image 20230523194509_155.png",
+    "Local Backup/Excalidraw/attachments/Pasted Image 20230523194304_177.png",
+    "Local Backup/Excalidraw/attachments/Pasted Image 20230523193300_150.png",
+    "Local Backup/Excalidraw/attachments",
+    "Local Backup/Excalidraw",
+    "Local Backup/attachments",
+    "Local Backup",
+    "New folder",
     "Excalidraw/attachments",
     "attachments",
-    "New folder",
     "Untitled.canvas"
   ]
 }
