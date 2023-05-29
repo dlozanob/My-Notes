@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "212c839267fea180",
+        "id": "ed6ad761090fa19a",
         "type": "tabs",
         "children": [
           {
-            "id": "a3761a4f8d3f8b43",
+            "id": "04afafab00d47788",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cap. 5. Filtros analógicos.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0289b4af59afb4ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linked note.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +85,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linked note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linked note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,9 +122,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Linked note.md"
-              }
+              "state": {}
             }
           },
           {
@@ -196,11 +175,11 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "0289b4af59afb4ff",
+  "active": "04afafab00d47788",
   "lastOpenFiles": [
     "Cap. 5. Filtros analógicos.md",
-    "Excalidraw/blackboard.excalidraw.md",
     "Linked note.md",
+    "Excalidraw/blackboard.excalidraw.md",
     "LaTeX.md",
     "Excalidraw/attachments/Pasted Image 20230528225342_762.png",
     "Excalidraw/attachments/Pasted Image 20230528225327_739.png",
