@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "7e1ec8181a10aeb3",
+            "id": "0289b4af59afb4ff",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,43 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "8cb9ff0bc2a1bd56",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "cc4aca2c75230be9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LaTeX.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ca4f824c510fe0b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cap. 4. Análisis cualitativo de sistemas LTI.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -136,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md",
+                "file": "Linked note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md",
+                "file": "Linked note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md"
+                "file": "Linked note.md"
               }
             }
           },
@@ -230,15 +196,17 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "8cb9ff0bc2a1bd56",
+  "active": "0289b4af59afb4ff",
   "lastOpenFiles": [
-    "Cap. 4. Análisis cualitativo de sistemas LTI.md",
     "Cap. 5. Filtros analógicos.md",
-    "LaTeX.md",
     "Excalidraw/blackboard.excalidraw.md",
+    "Linked note.md",
+    "LaTeX.md",
+    "Excalidraw/attachments/Pasted Image 20230528225342_762.png",
+    "Excalidraw/attachments/Pasted Image 20230528225327_739.png",
+    "Cap. 4. Análisis cualitativo de sistemas LTI.md",
     "Excalidraw/attachments/Pasted Image 20230528223311_777.png",
     "Excalidraw/attachments/Pasted Image 20230528223256_747.png",
-    "Linked note.md",
     "Señales y Sistemas II.md",
     "Excalidraw/attachments/Pasted Image 20230528133336_275.png",
     "Excalidraw/attachments/Pasted Image 20230528133017_345.png",
@@ -257,8 +225,6 @@
     "attachments/Pasted image 20230525094723.png",
     "Excalidraw/attachments/Pasted Image 20230525123340_645.png",
     "Excalidraw/attachments/Pasted Image 20230525120151_156.png",
-    "Excalidraw/attachments/Pasted Image 20230525120136_155.png",
-    "Excalidraw/attachments/Pasted Image 20230525115448_077.png",
     "Local Backup/Web Development.md",
     "Local Backup/Verilog.md",
     "Local Backup/Using JS for Web Applications.md",
