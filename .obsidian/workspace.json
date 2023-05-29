@@ -8,19 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "31abda45507b07eb",
+            "id": "a3761a4f8d3f8b43",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Servomecanismos.md",
+                "file": "Cap. 5. Filtros analógicos.md",
                 "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "3a08d1c2ff4cbe84",
+            "id": "7e1ec8181a10aeb3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linked note.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8cb9ff0bc2a1bd56",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -30,12 +42,24 @@
             }
           },
           {
-            "id": "a3761a4f8d3f8b43",
+            "id": "cc4aca2c75230be9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Finanzas.md",
+                "file": "LaTeX.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ca4f824c510fe0b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cap. 4. Análisis cualitativo de sistemas LTI.md",
                 "mode": "preview",
                 "source": false
               }
@@ -112,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Finanzas.md",
+                "file": "Excalidraw/blackboard.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Finanzas.md",
+                "file": "Excalidraw/blackboard.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Finanzas.md"
+                "file": "Excalidraw/blackboard.excalidraw.md"
               }
             }
           },
@@ -206,18 +230,35 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "a3761a4f8d3f8b43",
+  "active": "8cb9ff0bc2a1bd56",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Cap. 4. Análisis cualitativo de sistemas LTI.md",
+    "Cap. 5. Filtros analógicos.md",
+    "LaTeX.md",
+    "Excalidraw/blackboard.excalidraw.md",
+    "Excalidraw/attachments/Pasted Image 20230528223311_777.png",
+    "Excalidraw/attachments/Pasted Image 20230528223256_747.png",
+    "Linked note.md",
+    "Señales y Sistemas II.md",
+    "Excalidraw/attachments/Pasted Image 20230528133336_275.png",
+    "Excalidraw/attachments/Pasted Image 20230528133017_345.png",
+    "Excalidraw/attachments/Pasted Image 20230528130432_002.png",
+    "LaTeX Template.md",
+    "Local Backup.rar",
+    "Local Backup/Señales y Sistemas II.md",
+    "Cap. 6. Sistemas en tiempo discreto.md",
+    "Servomecanismos.md",
+    "Tema 4. Modelo CAPM; SML; CML y APT.md",
+    "Módulo 5. Teoría de portafolio.md",
     "Finanzas.md",
+    "Módulo 6. Teoría de estructura de capital.md",
+    "Tema 1. Teoría sobre estructura de capital%2C inpuestos y ventaja tributaria.md",
+    "conflict-files-obsidian-git.md",
     "attachments/Pasted image 20230525094723.png",
     "Excalidraw/attachments/Pasted Image 20230525123340_645.png",
     "Excalidraw/attachments/Pasted Image 20230525120151_156.png",
     "Excalidraw/attachments/Pasted Image 20230525120136_155.png",
     "Excalidraw/attachments/Pasted Image 20230525115448_077.png",
-    "Excalidraw/attachments/Pasted Image 20230525113215_126.png",
-    "Excalidraw/attachments/Pasted Image 20230525112610_064.png",
-    "Excalidraw/attachments/Pasted Image 20230525112454_028.png",
     "Local Backup/Web Development.md",
     "Local Backup/Verilog.md",
     "Local Backup/Using JS for Web Applications.md",
@@ -227,23 +268,6 @@
     "Local Backup/Tema 4. Matemáticas financieras.md",
     "Local Backup/Tema 4. Introducción a los mercados monetarios.md",
     "Local Backup/Tema 4. Financiamiento a corto plazo.md",
-    "Local Backup/Tema 4. Análisis de sensibilidad.md",
-    "Local Backup/Tema 3. Valoración.md",
-    "Local Backup/Tema 3. Medición del rendimiento y del riesgo.md",
-    "Local Backup/Tema 3. Introducción a los mercados de capitales.md",
-    "Local Backup/Tema 3. Indicadores macroeconómicos.md",
-    "Local Backup/Tema 3. Análisis de flujo de efectivo y análisis de capital de trabajo.md",
-    "Local Backup/Tema 2. Tipos de bonos y sus características.md",
-    "Local Backup/Tema 2. Teoría de la eficiencia de los mercados.md",
-    "Local Backup/Tema 2. Función de oferta y demanda.md",
-    "Local Backup/Tema 2. Estructura del mercado.md",
-    "Local Backup/Tema 2. Beta apalancado y desapalancado, betas proxy y costo de capital.md",
-    "Local Backup/Tema 2. Beta apalancado y desapalancado%2C betas proxy y costo de capital.md",
-    "Local Backup/Tema 2. Análisis de estados financieros e indicadores financieros.md",
-    "Local Backup/Tema 1. Teoría sobre estructura de capital, inpuestos y ventaja tributaria.md",
-    "Local Backup/Tema 1. Teoría sobre estructura de capital%2C inpuestos y ventaja tributaria.md",
-    "Local Backup/Excalidraw/attachments/Pasted Image 20230525214912_114.png",
-    "Local Backup/Excalidraw/attachments/Pasted Image 20230525213908_084.png",
     "Local Backup/Excalidraw/attachments",
     "Local Backup/Excalidraw",
     "Local Backup/attachments",
