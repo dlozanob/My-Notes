@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ec5bf6d0296ab6ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Servomecanismos.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Servomecanismos.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Servomecanismos.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -183,27 +196,30 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "d7c7a086c514267e",
+  "active": "ec5bf6d0296ab6ff",
   "lastOpenFiles": [
-    "Verilog.md",
+    "Servomecanismos.md",
     "conflict-files-obsidian-git.md",
+    "Tema 2. Beta apalancado y desapalancado%2C betas proxy y costo de capital.md",
+    "Tema 1. Teoría sobre estructura de capital%2C inpuestos y ventaja tributaria.md",
+    "Local Backup.rar",
+    "Excalidraw/attachments/Pasted Image 20230529123626_112.png",
+    "Excalidraw/attachments/Pasted Image 20230529123108_320.png",
+    "Excalidraw/attachments/Pasted Image 20230529122952_291.png",
+    "Excalidraw/attachments/Pasted Image 20230529122937_267.png",
+    "Excalidraw/attachments/Pasted Image 20230529122236_117.png",
+    "Excalidraw/attachments/Pasted Image 20230529122205_117.png",
+    "Excalidraw/attachments/Pasted Image 20230529122150_113.png",
+    "Excalidraw/attachments/Pasted Image 20230529121359_029.png",
+    "Excalidraw/attachments/Pasted Image 20230529113022_720.png",
+    "Excalidraw/attachments/Pasted Image 20230529113022_674.png",
+    "Verilog.md",
     "Tema 2. Beta apalancado y desapalancado, betas proxy y costo de capital.md",
     "Tema 1. Teoría sobre estructura de capital, inpuestos y ventaja tributaria.md",
     "Módulo 6. Teoría de estructura de capital.md",
-    "Excalidraw/attachments/Pasted Image 20230525214912_114.png",
-    "Excalidraw/attachments/Pasted Image 20230525213908_084.png",
-    "Excalidraw/attachments/Pasted Image 20230525212950_084.png",
     "Excalidraw/whiteboard.excalidraw.md",
-    "Excalidraw/attachments/Pasted Image 20230525123340_645.png",
-    "Servomecanismos.md",
     "Cap. 4. Análisis cualitativo de sistemas LTI.md",
     "Señales y Sistemas II.md",
-    "Excalidraw/attachments/Pasted Image 20230525120151_156.png",
-    "Excalidraw/attachments/Pasted Image 20230525120136_155.png",
-    "Excalidraw/attachments/Pasted Image 20230525115448_077.png",
-    "Excalidraw/attachments/Pasted Image 20230525113215_126.png",
-    "Excalidraw/attachments/Pasted Image 20230525112610_064.png",
-    "Excalidraw/attachments/Pasted Image 20230525112454_028.png",
     "Excalidraw/blackboard.excalidraw.md",
     "Cap. 6. Sistemas en tiempo discreto.md",
     "Electrónica Digital II.md",
@@ -219,8 +235,6 @@
     "Nóbeles de economía.md",
     "Tema 4. Análisis de sensibilidad.md",
     "Módulo 4. Bonos y conceptos de duración.md",
-    "Tema 3. Valoración.md",
-    "Tema 2. Introducción al riesgo.md",
     "Excalidraw/attachments",
     "attachments",
     "New folder",

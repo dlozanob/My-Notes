@@ -35,5 +35,28 @@
 | | RAND() | Genera un número aleatorio. Pulsar F9 o cambiar cualquier celda reactualiza el número |
 
 
+## Useful hotkeys:
+
+- `Ctrl + Arrow`
+	- Go to the most direction according to arrow
+
+- `Ctrl + Shift + Arrow`
+	- Select row/column (only data on a table if hovering over table element)
+
+- `Ctrl + Space`
+	- Select column
+
+- `Shift + Space`
+	- Select row
+
+- `Ctrl + Shift + Space`
+	- Select all data
+	- Select table if hovering over any of its elements
+
+- `Ctrl + +`
+	- Add row/column (must be already selected)
+
+- `Ctrl + -`
+	- Delete row/column (must be already selected)
 
 

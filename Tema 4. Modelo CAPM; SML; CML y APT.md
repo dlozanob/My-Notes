@@ -288,7 +288,16 @@ Para hallar el portafolio de mínima varianza, es útil aplicar el criterio de l
 
 ¿Cómo hallar el portafolio de mínima varianza de una manera sencilla?
 
-En Excel Datos -> Solver, minimizar la varianza cambiando las ponderaciones, sus restricciones son: la sumatoria de contribuciones debe ser $1$ .
+El complemento _Solver_ de Excel, es una herramienta de optimización que minimiza o maximiza una celda, cambiando otras, dentro de unas restricciones establecidas.
+
+Para habilitarla:
+1. File -> Options -> Add-ins
+2. Manage -> Excel Add-ins -> Go
+3. Habilitar la casilla Solver Add-in
+
+_Solver_ se encuentra en Data -> Analyze.
+
+Para hallar la mínima varianza, se cambian las ponderaciones de los activos, su única restricción es que la sumatoria de las contribuciones debe ser $1$ .
 
 Para el portafolo tangente:
 Tomar la pendiente de la CML y maximizarla cambiando los porcentajes, (sumatoria igual a $1$).

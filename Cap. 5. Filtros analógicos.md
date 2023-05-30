@@ -85,6 +85,8 @@ El modelo del pasaaltas satisface:
 
 ![](attachments/Pasted%20image%2020230501105602.png)
 
+>[!Note]
+>En Matlab, el _Signal Processing Toolbox_ posee distintas funciones para el diseño de filtros
 
 
 ## Filtros de Butterworth
@@ -957,7 +959,7 @@ $$
 
 La frecuencia de corte es de $\omega_{p} = 2\pi\cdot 5000 = 1000\pi$ , se desnormaliza el filtro escalando los condensadores por un factor $K_{f} = \frac{1}{1000\pi}$ , entonces $C = 318.3  \mu F$ .
 
-Pero estos valores de condensadores son absurdos, preferiblemente estaría bien usar $C = 10  nF$ . Siendo así, se reescalan los componentes por un factor $K_{z} = \frac{318.3\,\,\mu F}{10\,\,NF} = 31830$ .
+Pero estos valores de condensadores son absurdos, preferiblemente estaría bien usar $C = 10  nF$ . Siendo así, se reescalan los componentes por un factor $K_{z} = \frac{318.3\,\,\mu F}{10\,\,nF} = 31830$ .
 
 
 ### Secciones de Fleischer-Tow
@@ -995,4 +997,8 @@ $R_{4}$, $R_{5}$ y $R_{6}$ se selecionan dependiendo del tipo de filtro (pasabaj
 
 $\triangle$ : Se seleccionan de tal manera que se logren distintos valores para $b_{1}$ y $b_{2}$ .
 
+
+## External Links
+
+- [Signal Processing Toolbox](https://es.mathworks.com/help/signal/index.html?s_tid=CRUX_lftnav)
 

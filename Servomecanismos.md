@@ -839,7 +839,9 @@ La _densidad de torque_ relaciona al torque producido por el volumen del motor
 
 En motores DC es posible tener un rotor interno o también un rotor externo 
 
-TAREA:
+---
+
+- _TAREA :_
 
 $$
 \begin{align*}
@@ -850,6 +852,26 @@ $$
 	k_{3}+k_{1}t = 0 \\\\
 	k_{1} + k_{2}t = 0 \\\\
 	k_{1} + k_{2} = Ak
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	k_{1} &= -t \frac{Ak}{1 - t} \\\\
+	k_{2} &= \frac{Ak}{1 - t} \\\\
+	k_{3} &= t^{2} \frac{Ak}{1 - t}
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	\frac{\frac{1}{\tau}}{s + \frac{1}{\tau}} \to \frac{1}{\tau} e^{ -\frac{1}{\tau}t}
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	\boxed{g(t) = -\tau \frac{Ak}{1 - \tau} + t \frac{Ak}{1 - \tau} + \tau \frac{Ak}{1 - \tau}e^{ -\frac{1}{\tau}t}}
 \end{align*}
 $$
 
