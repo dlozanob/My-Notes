@@ -876,13 +876,59 @@ $$
 $$
 
 
+---
+
+## Modelado de  motores DC
+
+![](attachments/Pasted%20image%2020230530103052.png)
+
+Los parámetros $k_{b}$ y $K_{T}$ relacionan la parte eléctrica con la mecánica.
+
+Hacer girar el rotor produce un cambio en el flujo magnético, lo que induce una tensión en sus terminales.
+
+![](attachments/Pasted%20image%2020230530103124.png)
+
+A esto se le conoce como _el principio generador_ del motor (fuerza contraelectromotriz).
+
+La constante que relaciona este efecto, es mucho menor a la constante que relaciona el efecto contrario (la tensión produce rotación), lo que genera estabilidad en el sistema.
+
+![](attachments/Pasted%20image%2020230530102926.png)
+
+Donde $V_{b}$ es la fuerza contra-electromotriz (_Back EMF_).
+$\tau_{m}$ es el torque producido por el motor.
+
+Parámetros:
+- $R_{a}$
+- $L_{a}$
+- $b_{L}$
+- $J_{L}$
+
+Parámetros de acople:
+- $K_{T}$
+	- _Constante de torque del motor_
+	- Relaciona torque con corriente
+- $K_{b}$
+	- _Constante de tensión inducida_
+	- Relaciona la contra-tensión con la velocidad angular del rotor
 
 
+Modelado de la parte eléctrica:
 
+$$
+\begin{align*}
+	V_{a}(t) - V_{b}(t) &= i_{a}(t)\cdot R_{a} + L_{a}\cdot \frac{di_{a}(t)}{dt} \\\\
+	\mathscr{L}(V_{a}(t) - V_{b}(t)) &= \mathscr{L}\left(  i_{a}(t)\cdot R_{a} + L_{a}\cdot \frac{di_{a}(t)}{dt} \right) \\\\
+	V_{a}(s) - V_{b}(s) &= I_{a}(s)\cdot R_{a} + L_{a}\cdot s\cdot (I_{a}(s) - \cancel{ I_{a}(0) }^{0})  \\\\
+	\frac{I_{a}(s)}{V_{a}(s) - V_{b}(s)} &= \frac{1}{R_{a} + L_{a}\cdot s}
+\end{align*}
+$$
 
+$I_{s}(0)$ es la condición incial de corriente.
 
+![](attachments/Pasted%20image%2020230530105054.png)
 
-
+Si la señal PWM (voltaje de entrada) opera a una frecuencia alta, la corriente no fluctuará mucho en el tiempo, por lo que se generará un torque mucho más constante.
+Esta frecuencia comúnmene está en el rango $40$ - $100\,\,kHz$ .
 
 
 
