@@ -8,34 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d7c7a086c514267e",
+            "id": "1acfe70841a4e1da",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Servomecanismos.md",
+                "file": "Tema 1. Teoría sobre estructura de capital%2C impuestos y ventaja tributaria.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "c62089a264bc8431",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "5b1be3c70b15d452",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/whiteboard.excalidraw.md"
               }
             }
           }
@@ -109,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Servomecanismos.md",
+                "file": "Tema 1. Teoría sobre estructura de capital%2C impuestos y ventaja tributaria.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Servomecanismos.md",
+                "file": "Tema 1. Teoría sobre estructura de capital%2C impuestos y ventaja tributaria.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Servomecanismos.md"
+                "file": "Tema 1. Teoría sobre estructura de capital%2C impuestos y ventaja tributaria.md"
               }
             }
           },
@@ -203,10 +183,13 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "d7c7a086c514267e",
+  "active": "1acfe70841a4e1da",
   "lastOpenFiles": [
-    "Excalidraw/blackboard.excalidraw.md",
+    "Módulo 6. Teoría de estructura de capital.md",
+    "Finanzas.md",
     "Excalidraw/whiteboard.excalidraw.md",
+    "Excalidraw/blackboard.excalidraw.md",
+    "Servomecanismos.md",
     "Excalidraw/attachments/Pasted Image 20230530123836_662.png",
     "Excalidraw/attachments/Pasted Image 20230530121226_520.png",
     "Excalidraw/attachments/Pasted Image 20230530114710_280.png",
@@ -215,18 +198,16 @@
     "Excalidraw/attachments/Pasted Image 20230530113323_189.png",
     "Excalidraw/attachments/Pasted Image 20230530113308_160.png",
     "Excalidraw/attachments/Pasted Image 20230530112605_118.png",
-    "Servomecanismos.md",
     "attachments/Pasted image 20230530105054.png",
     "attachments/Pasted image 20230530103124.png",
     "LaTeX.md",
     "conflict-files-obsidian-git.md",
     "Tema 2. Beta apalancado y desapalancado%2C betas proxy y costo de capital.md",
-    "Tema 1. Teoría sobre estructura de capital%2C inpuestos y ventaja tributaria.md",
+    "Tema 1. Teoría sobre estructura de capital%2C impuestos y ventaja tributaria.md",
     "Local Backup.rar",
     "Verilog.md",
     "Tema 2. Beta apalancado y desapalancado, betas proxy y costo de capital.md",
     "Tema 1. Teoría sobre estructura de capital, inpuestos y ventaja tributaria.md",
-    "Módulo 6. Teoría de estructura de capital.md",
     "Cap. 4. Análisis cualitativo de sistemas LTI.md",
     "Señales y Sistemas II.md",
     "Cap. 6. Sistemas en tiempo discreto.md",
@@ -236,7 +217,6 @@
     "Main.md",
     "Tema 4. Modelo CAPM; SML; CML y APT.md",
     "Módulo 5. Teoría de portafolio.md",
-    "Finanzas.md",
     "Tema 3. Medición del rendimiento y del riesgo.md",
     "Tema 2. Teoría de la eficiencia de los mercados.md",
     "Tema 1. Introducción a los portafolios de renta variable y fondos de inversión.md",
