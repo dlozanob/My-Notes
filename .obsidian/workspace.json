@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "400b03fe5fc31101",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tema 2. Beta apalancado y desapalancado%2C betas proxy y costo de capital.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tema 2. Beta apalancado y desapalancado%2C betas proxy y costo de capital.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tema 2. Beta apalancado y desapalancado%2C betas proxy y costo de capital.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -183,8 +196,10 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "75cd07445cc6697e",
+  "active": "400b03fe5fc31101",
   "lastOpenFiles": [
+    "Tema 2. Beta apalancado y desapalancado%2C betas proxy y costo de capital.md",
+    "conflict-files-obsidian-git.md",
     "Módulo 6. Teoría de estructura de capital.md",
     "Tema 1. Teoría sobre estructura de capital%2C impuestos y ventaja tributaria.md",
     "attachments/Pasted image 20230530164207.png",
@@ -215,7 +230,6 @@
     "Local Backup.rar",
     "Local Backup/Señales y Sistemas II.md",
     "Cap. 6. Sistemas en tiempo discreto.md",
-    "conflict-files-obsidian-git.md",
     "Local Backup/Web Development.md",
     "Local Backup/Verilog.md",
     "Local Backup/Using JS for Web Applications.md",
