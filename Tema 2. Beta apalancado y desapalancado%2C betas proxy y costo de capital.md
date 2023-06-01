@@ -60,6 +60,9 @@ $$
 - $t$ : Tasa de impuestos
 - $\frac{B}{S}$ : Ratio deuda-acciones (equity)
 
+>[!Note]
+>Una empresa de ventiladores para enfermos tiene el riesgo de que sus máquinas fallen, el riesgo aumenta -> el beta es mayor
+>No en todas las empresas el beta es el mismo
 
 ## Beta proxy
 
@@ -102,6 +105,9 @@ $$
 
 >[!Note]
 >Con el _modelo de Gordon_ se puede estimar el costo de capital, se supone que los dividendos se mantienen de manera perpetua
+
+
+---
 
 
 

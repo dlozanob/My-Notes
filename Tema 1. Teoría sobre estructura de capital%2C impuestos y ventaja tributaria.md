@@ -11,7 +11,7 @@ Los siguientes aspectos deben ser tenidos en cuenta para determinar la estructur
 - Costos de agencia e incentivos de emisión
 - Posibles señales financieras en los mercados
 - Habilidad del flujo de caja para subsanar la deuda
-- Análisis EBIT-EPS
+- Análisis EBIT-EPS (_Earnings per Stock_)
 - Razones de deuda
 - Calificación de riesgo de los títulos
 - Tiempo
