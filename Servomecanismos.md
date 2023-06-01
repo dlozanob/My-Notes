@@ -931,7 +931,17 @@ Si la señal PWM (voltaje de entrada) opera a una frecuencia alta, la corriente 
 Esta frecuencia comúnmene está en el rango $40$ - $100\,\,kHz$ .
 
 
-
+- Parámetros:
+	- Naturaleza eléctrica
+		- $R_{a}$
+		- $L_{a}$
+	- Naturaleza mecánica
+		- $J_{motor}$
+		- $b_{motor}$
+	- E -> M
+		- $K_{T}$ Constante de torque
+	- M -> E
+		- $k_{b}$ (b -> BEMF: Back electric magnetic force)
 
 
 
@@ -972,21 +982,11 @@ Esta frecuencia comúnmene está en el rango $40$ - $100\,\,kHz$ .
 - [x] Videos
 - [x] Docs
 - [x] Procesos de selección
-- [ ] Tarea
-- [ ] Ubicar algún catálogo de fabricante con 6 parámetros de modelado de un motor DC.
+- [x] Tarea
+- [ ] Videos del martes
+- [ ] Videos Control de Movimiento de Alto Desempeño (Jueves)
 
-- Parámetros:
-	- Naturaleza eléctrica
-		- $R_{a}$
-		- $L_{a}$
-	- Naturaleza mecánica
-		- $J_{motor}$
-		- $b_{motor}$
-	- E -> M
-		- $K_{T}$ Constante de torque
-	- M -> E
-		- $k_{b}$ (b -> BEMF: Back electric magnetic force)
-	
+
 
 ---
 

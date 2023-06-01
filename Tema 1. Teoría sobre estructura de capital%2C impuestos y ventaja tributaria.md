@@ -1,7 +1,5 @@
 # Teoría sobre estructura de capital impuestos y ventaja tributaria
 
-<<<<<<< HEAD
-=======
 ## Teorema de Modigliani-Miller
 
 ### Con impuestos
