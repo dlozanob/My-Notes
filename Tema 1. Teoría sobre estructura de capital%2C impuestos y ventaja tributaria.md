@@ -45,5 +45,6 @@ El _grado de apalancamiento operativo_ mide cuánto aumentan las ventas
 >- Los seguros son rentas exentas de impuestos
 
 Bonificación fiscal = Crédito fiscal
+>>>>>>> origin/main
 
 

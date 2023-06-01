@@ -613,6 +613,10 @@ function accionarMotores(dir, detected) {
 
 - [I2S Litex](https://github.com/enjoy-digital/litex/blob/master/litex/soc/cores/i2s.py)
 
+>[!Note]
+>El comportamiento se configura en `main.c`. Las funciones que toma se declaran en `csr.h`
+
+
 
 
 
