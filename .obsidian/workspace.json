@@ -165,7 +165,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "leasing",
+                "query": "\"fabricantes\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -178,8 +178,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249.5,
-    "collapsed": true
+    "width": 249.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,13 +194,14 @@
   },
   "active": "a51d0643eb1826e9",
   "lastOpenFiles": [
+    "Tema 1. Teoría sobre estructura de capital%2C impuestos y ventaja tributaria.md",
+    "Tema 3. Introducción a los mercados de capitales.md",
+    "Módulo 6. Teoría de la estructura de capital.md",
+    "Tema 2. Beta apalancado y desapalancado%2C betas proxy y costo de capital.md",
     "Excalidraw/blackboard.excalidraw.md",
     "Tema 4. Modelo CAPM; SML; CML y APT.md",
     "Módulo 5. Teoría de portafolio.md",
     "Finanzas.md",
-    "Módulo 6. Teoría de la estructura de capital.md",
-    "Tema 2. Beta apalancado y desapalancado%2C betas proxy y costo de capital.md",
-    "Tema 1. Teoría sobre estructura de capital%2C impuestos y ventaja tributaria.md",
     "attachments/Pasted image 20230601160434.png",
     "attachments/Pasted image 20230601155907.png",
     "Tema 1. Definición y clase de los instrumentos de deuda.md",

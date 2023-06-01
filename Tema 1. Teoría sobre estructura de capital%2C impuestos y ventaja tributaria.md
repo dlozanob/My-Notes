@@ -75,7 +75,7 @@ Supuestos:
 Proposiciones:
 1. Debido a que las empresas pueden deducir los pagos de interés, pero no los dividendos, una empresa apalancada disminuye el pago de impuestos
 
-	Bajo el supuesto de una deuda perpetua:
+	Bajo el supuesto de una deuda perpetua (valor presente de una deuda perpetua):
 	
 	$$
 	\begin{align*}
@@ -90,10 +90,11 @@ Proposiciones:
 
 ![](attachments/Pasted%20image%2020230530164207.png)
 
-La estructura óptima de capital de una empresa es $100\%$ de deuda.
+La estructura óptima de capital de una empresa es $100\%$ de deuda, sin embargo, supone _riesgo de quiebra_.
 El costo promedio ponderado de capital (CPPC) disminuye conforme la empresa utilice una mayor proporción de financiamiento vía deuda.
 
 2. La rentabilidad aumenta con el apalancamiento, ya que, el riesgo por endeudamiento es mayor
+	
 	$$
 	\begin{align*}
 		R_{S} = R_{O} + \frac{B}{S}(1 - t_{c})(R_{O} - R_{B})
