@@ -200,7 +200,7 @@ $$
 \end{align*}
 $$
 
-Donde $\sigma_{im}$ es la covarianza entre la acción $i$ y el mercado. Y $\sigma_{m}$ es la varianza del mercado.
+Donde $\sigma_{im}$ es la covarianza entre la acción $i$ y el mercado. $\sigma_{m}^{2}$ es la varianza del mercado.
 
 Además, $\beta$ mide el aporte que hace el activo al riesgo total del mercado.
 

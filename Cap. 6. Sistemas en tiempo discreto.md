@@ -169,7 +169,7 @@ $$
 \end{align*}
 $$
 
-Donde $z_{9}\in \mathbb{C}$.  
+Donde $z\in \mathbb{C}$ .
 
 La transformada es un operador lineal.
 
@@ -318,6 +318,10 @@ Por tanto, un sistema impropio no puede ser implementado en la vida real.
 >En algunas aplicaciones se utilizan filtros digitales no causales, no obstante, estos son realmente causales, ya que, trabajan sobre datos que ya fueron grabados previamente
 
 Los polos influyen en la forma que toma la respuesta, mientras que los ceros cambian ligeramente la magnitud en cada punto.
+
+
+
+
 
 
 
