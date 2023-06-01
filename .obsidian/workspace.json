@@ -11,11 +11,9 @@
             "id": "608152414c497fb2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md",
-                "mode": "preview",
-                "source": false
+                "file": "Excalidraw/blackboard.excalidraw.md"
               }
             }
           },
@@ -43,8 +41,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electrónica Digital II.md",
+                "file": "Excalidraw/blackboard.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electrónica Digital II.md",
+                "file": "Excalidraw/blackboard.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Electrónica Digital II.md"
+                "file": "Excalidraw/blackboard.excalidraw.md"
               }
             }
           },
@@ -208,8 +205,9 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "2fe8c1f3aa56fe11",
+  "active": "608152414c497fb2",
   "lastOpenFiles": [
+    "Electrónica Digital II.md",
     "Tema 1. Teoría sobre estructura de capital%2C impuestos y ventaja tributaria.md",
     "conflict-files-obsidian-git.md",
     "attachments/Pasted image 20230530105054.png",
