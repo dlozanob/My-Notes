@@ -8,36 +8,24 @@
         "type": "tabs",
         "children": [
           {
+            "id": "a51d0643eb1826e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tema 2. Beta apalancado y desapalancado%2C betas proxy y costo de capital.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "608152414c497fb2",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
                 "file": "Excalidraw/blackboard.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "a51d0643eb1826e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tema 1. Teoría sobre estructura de capital%2C impuestos y ventaja tributaria.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2fe8c1f3aa56fe11",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Electrónica Digital II.md",
-                "mode": "preview",
-                "source": false
               }
             }
           }
@@ -111,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md",
+                "file": "Tema 2. Beta apalancado y desapalancado%2C betas proxy y costo de capital.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md",
+                "file": "Tema 2. Beta apalancado y desapalancado%2C betas proxy y costo de capital.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md"
+                "file": "Tema 2. Beta apalancado y desapalancado%2C betas proxy y costo de capital.md"
               }
             }
           },
@@ -177,7 +165,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"\"",
+                "query": "leasing",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -205,33 +193,37 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "608152414c497fb2",
+  "active": "a51d0643eb1826e9",
   "lastOpenFiles": [
-    "Electrónica Digital II.md",
+    "Excalidraw/blackboard.excalidraw.md",
+    "Tema 4. Modelo CAPM; SML; CML y APT.md",
+    "Módulo 5. Teoría de portafolio.md",
+    "Finanzas.md",
+    "Módulo 6. Teoría de la estructura de capital.md",
+    "Tema 2. Beta apalancado y desapalancado%2C betas proxy y costo de capital.md",
     "Tema 1. Teoría sobre estructura de capital%2C impuestos y ventaja tributaria.md",
+    "attachments/Pasted image 20230601160434.png",
+    "attachments/Pasted image 20230601155907.png",
+    "Tema 1. Definición y clase de los instrumentos de deuda.md",
+    "attachments/Pasted image 20230601154446.png",
+    "attachments/Pasted image 20230601154435.png",
+    "attachments/Pasted image 20230601154430.png",
+    "attachments/Pasted image 20230601154423.png",
+    "Excalidraw/attachments/Pasted Image 20230601154416_531.png",
+    "attachments/Pasted image 20230601154400.png",
+    "attachments/Pasted image 20230601153631.png",
+    "Ingeniería Económica.md",
+    "Tema 2. Análisis de estados financieros e indicadores financieros.md",
+    "Tema 4. Financiamiento a corto plazo.md",
+    "Electrónica Digital II.md",
+    "Excalidraw/whiteboard.excalidraw.md",
     "conflict-files-obsidian-git.md",
     "attachments/Pasted image 20230530105054.png",
-    "attachments/Pasted image 20230530103124.png",
-    "attachments/Pasted image 20230530103052.png",
-    "attachments/Pasted image 20230530102926.png",
-    "attachments/Pasted image 20230530101152.png",
-    "attachments/Pasted image 20230530095023.png",
-    "Excalidraw/attachments/Pasted Image 20230601121001_256.png",
-    "Excalidraw/attachments/Pasted Image 20230601120946_235.png",
-    "Excalidraw/attachments/Pasted Image 20230601114636_080.png",
-    "Excalidraw/attachments/Pasted Image 20230601113231_989.png",
-    "Módulo 6. Teoría de estructura de capital.md",
-    "Finanzas.md",
-    "Excalidraw/blackboard.excalidraw.md",
     "Cap. 6. Sistemas en tiempo discreto.md",
     "Tema 3. Medición del rendimiento y del riesgo.md",
-    "Módulo 5. Teoría de portafolio.md",
     "Señales y Sistemas II.md",
-    "Tema 2. Beta apalancado y desapalancado%2C betas proxy y costo de capital.md",
-    "Tema 4. Modelo CAPM; SML; CML y APT.md",
     "Fórmulas Financieras Excel.md",
     "Cap. 4. Análisis cualitativo de sistemas LTI.md",
-    "Excalidraw/whiteboard.excalidraw.md",
     "Servomecanismos.md",
     "Señales y Sistemas I.md",
     "Cap. 5. Filtros analógicos.md",
@@ -239,11 +231,6 @@
     "LaTeX.md",
     "LaTeX Template.md",
     "Local Backup.rar",
-    "Local Backup/Señales y Sistemas II.md",
-    "Local Backup/Web Development.md",
-    "Local Backup/Verilog.md",
-    "Local Backup/Using JS for Web Applications.md",
-    "Local Backup/TO DO.md",
     "Local Backup/Excalidraw/attachments",
     "Local Backup/Excalidraw",
     "Local Backup/attachments",
