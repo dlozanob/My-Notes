@@ -64,6 +64,8 @@ Proposiciones:
 	- $t_{c}$ : Tasa tributaria
 	- $\frac{B}{S}$ : Ratio deuda-acciones (equity)
 
+El costo de capital es independiente de la relación deuda-equity.
+
 
 ### Con impuestos corporativos
 
@@ -91,7 +93,7 @@ Proposiciones:
 ![](attachments/Pasted%20image%2020230530164207.png)
 
 La estructura óptima de capital de una empresa es $100\%$ de deuda, sin embargo, supone _riesgo de quiebra_.
-El costo promedio ponderado de capital (CPPC) disminuye conforme la empresa utilice una mayor proporción de financiamiento vía deuda.
+El costo promedio ponderado de capital (CPPC o WACC) disminuye conforme la empresa utilice una mayor proporción de financiamiento vía deuda.
 
 2. La rentabilidad aumenta con el apalancamiento, ya que, el riesgo por endeudamiento es mayor
 	
@@ -109,6 +111,8 @@ El costo promedio ponderado de capital (CPPC) disminuye conforme la empresa util
 
 ![](attachments/Pasted%20image%2020230601153631.png)
 
+El retorno del equity $R_{E}$ aumenta conforme se aumenta la deuda -> lo que hace que aumente el valor de la empresa.
+
 
 >[!Note]
 >- Cuando una empresa no puede cumplir con sus obligaciones financieras, puede verse obligada a declararse en quiebra.
@@ -120,6 +124,7 @@ El costo promedio ponderado de capital (CPPC) disminuye conforme la empresa util
 >		- La tasa se mantiene constante independientemente de los ingresos del individuo
 >	- Regresiva
 >		- La tasa disminuye a medida que la base imponible aumenta. Las personas con menores ingresos pagan más
+>- La relación deuda-equity óptima no se puede determinar aún
 
 
 ## Método UAII-UPA

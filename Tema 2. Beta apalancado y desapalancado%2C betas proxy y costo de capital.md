@@ -109,6 +109,14 @@ $$
 
 ---
 
+El valor de la empresa es:
 
+$$
+\begin{align*}
+	VE = EBIT\cdot \frac{1 - t_{c}}{K_{eU}} + D\cdot t_{c}
+\end{align*}
+$$
 
-
+Donde:
+- $t_{c}$ : Tasa de impuestos
+- $K_{eU}$ : Costo de capital desapalancado
