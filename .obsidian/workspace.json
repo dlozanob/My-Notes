@@ -13,14 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Señales y Sistemas II.md",
+                "file": "Cap. 7. Filtros digitales.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b00f9bc2cafa10c9",
+            "id": "5ecc31010b8fec72",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Señales y Sistemas II.md",
+                "file": "Cap. 7. Filtros digitales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Señales y Sistemas II.md",
+                "file": "Cap. 7. Filtros digitales.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Señales y Sistemas II.md"
+                "file": "Cap. 7. Filtros digitales.md"
               }
             }
           },
@@ -195,10 +195,11 @@
   },
   "active": "8bc2cc9b42ff4862",
   "lastOpenFiles": [
+    "attachments/Pasted image 20230604082921.png",
+    "Excalidraw/blackboard.excalidraw.md",
     "Cap. 7. Filtros digitales.md",
     "Señales y Sistemas II.md",
     "Cap. 6. Sistemas en tiempo discreto.md",
-    "Excalidraw/blackboard.excalidraw.md",
     "attachments/Pasted image 20230603225657.png",
     "attachments/Pasted image 20230603225641.png",
     "attachments/Pasted image 20230603223341.png",
@@ -230,7 +231,6 @@
     "Servomecanismos.md",
     "Señales y Sistemas I.md",
     "Cap. 5. Filtros analógicos.md",
-    "Linked note.md",
     "Local Backup.rar",
     "Local Backup/Excalidraw/attachments",
     "Local Backup/Excalidraw",
