@@ -11,9 +11,11 @@
             "id": "8bc2cc9b42ff4862",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md"
+                "file": "Cap. 6. Sistemas en tiempo discreto.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -87,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md",
+                "file": "Cap. 6. Sistemas en tiempo discreto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md",
+                "file": "Cap. 6. Sistemas en tiempo discreto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md"
+                "file": "Cap. 6. Sistemas en tiempo discreto.md"
               }
             }
           },
@@ -183,14 +185,15 @@
   },
   "active": "8bc2cc9b42ff4862",
   "lastOpenFiles": [
+    "Señales y Sistemas II.md",
     "Tema 2. Beta apalancado y desapalancado%2C betas proxy y costo de capital.md",
-    "Tema 3. Medición del rendimiento y del riesgo.md",
-    "Excalidraw/blackboard.excalidraw.md",
-    "Módulo 5. Teoría de portafolio.md",
+    "Módulo 6. Teoría de la estructura de capital.md",
     "Finanzas.md",
+    "Excalidraw/blackboard.excalidraw.md",
+    "Tema 3. Medición del rendimiento y del riesgo.md",
+    "Módulo 5. Teoría de portafolio.md",
     "Tema 1. Teoría sobre estructura de capital%2C impuestos y ventaja tributaria.md",
     "Tema 1. Composición y estructura del balance general, estado de resultados y flujo de caja neto.md",
-    "Módulo 6. Teoría de la estructura de capital.md",
     "Tema 3. Introducción a los mercados de capitales.md",
     "Tema 4. Modelo CAPM; SML; CML y APT.md",
     "attachments/Pasted image 20230601160434.png",
@@ -211,7 +214,6 @@
     "conflict-files-obsidian-git.md",
     "attachments/Pasted image 20230530105054.png",
     "Cap. 6. Sistemas en tiempo discreto.md",
-    "Señales y Sistemas II.md",
     "Fórmulas Financieras Excel.md",
     "Cap. 4. Análisis cualitativo de sistemas LTI.md",
     "Servomecanismos.md",
