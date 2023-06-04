@@ -13,9 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cap. 6. Sistemas en tiempo discreto.md",
+                "file": "Señales y Sistemas II.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "b00f9bc2cafa10c9",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/blackboard.excalidraw.md"
               }
             }
           }
@@ -89,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cap. 6. Sistemas en tiempo discreto.md",
+                "file": "Señales y Sistemas II.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cap. 6. Sistemas en tiempo discreto.md",
+                "file": "Señales y Sistemas II.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cap. 6. Sistemas en tiempo discreto.md"
+                "file": "Señales y Sistemas II.md"
               }
             }
           },
@@ -185,42 +195,42 @@
   },
   "active": "8bc2cc9b42ff4862",
   "lastOpenFiles": [
+    "Cap. 7. Filtros digitales.md",
     "Señales y Sistemas II.md",
+    "Cap. 6. Sistemas en tiempo discreto.md",
+    "Excalidraw/blackboard.excalidraw.md",
+    "attachments/Pasted image 20230603225657.png",
+    "attachments/Pasted image 20230603225641.png",
+    "attachments/Pasted image 20230603223341.png",
+    "attachments/Pasted image 20230603223336.png",
+    "Excalidraw/attachments/Pasted Image 20230603223335_296.png",
+    "attachments/Pasted image 20230603223327.png",
+    "Cap. 4. Análisis cualitativo de sistemas LTI.md",
+    "attachments/Pasted image 20230603214929.png",
+    "Excalidraw/attachments/Pasted Image 20230603214928_054.png",
+    "attachments/Pasted image 20230603214919.png",
+    "attachments/Pasted image 20230603212921.png",
     "Tema 2. Beta apalancado y desapalancado%2C betas proxy y costo de capital.md",
     "Módulo 6. Teoría de la estructura de capital.md",
     "Finanzas.md",
-    "Excalidraw/blackboard.excalidraw.md",
     "Tema 3. Medición del rendimiento y del riesgo.md",
     "Módulo 5. Teoría de portafolio.md",
     "Tema 1. Teoría sobre estructura de capital%2C impuestos y ventaja tributaria.md",
     "Tema 1. Composición y estructura del balance general, estado de resultados y flujo de caja neto.md",
     "Tema 3. Introducción a los mercados de capitales.md",
     "Tema 4. Modelo CAPM; SML; CML y APT.md",
-    "attachments/Pasted image 20230601160434.png",
-    "attachments/Pasted image 20230601155907.png",
     "Tema 1. Definición y clase de los instrumentos de deuda.md",
-    "attachments/Pasted image 20230601154446.png",
-    "attachments/Pasted image 20230601154435.png",
-    "attachments/Pasted image 20230601154430.png",
-    "attachments/Pasted image 20230601154423.png",
-    "Excalidraw/attachments/Pasted Image 20230601154416_531.png",
-    "attachments/Pasted image 20230601154400.png",
-    "attachments/Pasted image 20230601153631.png",
     "Ingeniería Económica.md",
     "Tema 2. Análisis de estados financieros e indicadores financieros.md",
     "Tema 4. Financiamiento a corto plazo.md",
     "Electrónica Digital II.md",
     "Excalidraw/whiteboard.excalidraw.md",
     "conflict-files-obsidian-git.md",
-    "attachments/Pasted image 20230530105054.png",
-    "Cap. 6. Sistemas en tiempo discreto.md",
     "Fórmulas Financieras Excel.md",
-    "Cap. 4. Análisis cualitativo de sistemas LTI.md",
     "Servomecanismos.md",
     "Señales y Sistemas I.md",
     "Cap. 5. Filtros analógicos.md",
     "Linked note.md",
-    "LaTeX.md",
     "Local Backup.rar",
     "Local Backup/Excalidraw/attachments",
     "Local Backup/Excalidraw",

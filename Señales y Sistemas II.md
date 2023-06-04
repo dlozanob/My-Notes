@@ -7,6 +7,8 @@
 - [Cap. 4. Análisis cualitativo de sistemas LTI](Cap.%204.%20Análisis%20cualitativo%20de%20sistemas%20LTI.md)
 - [Cap. 5. Filtros analógicos](Cap.%205.%20Filtros%20analógicos.md)
 - [Cap. 6. Sistemas en tiempo discreto](Cap.%206.%20Sistemas%20en%20tiempo%20discreto.md)
+- [Cap. 7. Filtros digitales](Cap.%207.%20Filtros%20digitales.md)
+
 
 
 

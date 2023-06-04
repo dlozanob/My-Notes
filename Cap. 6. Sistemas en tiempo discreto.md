@@ -320,9 +320,255 @@ Por tanto, un sistema impropio no puede ser implementado en la vida real.
 Los polos influyen en la forma que toma la respuesta, mientras que los ceros cambian ligeramente la magnitud en cada punto.
 
 
+## Estabilidad en sistemas DT
+
+El plano $z$ (plano complejo equivalente al dominio de la transformada $z$) puede dividirse en $3$ secciones, partiendo del círculo unitario:
+
+![](attachments/Pasted%20image%2020230603225657.png)
+
+De acuerdo a la posición de los polos en el plano se obtendrán distintas respuestas al impulso.
+
+En primer lugar, cuando están dentro del círculo:
+
+![](attachments/Pasted%20image%2020230603211335.png)
+
+![](attachments/Pasted%20image%2020230603211653.png)
+
+Ahora bien, cuando los polos residen en la circunferencia:
+
+![](attachments/Pasted%20image%2020230603212921.png)
+
+En caso de estar los polos fuera del círculo:
+
+![](attachments/Pasted%20image%2020230603212402.png)
 
 
+En conclusión, un sistema en TD es estable únicamente si todos sus polos residen dentro del círculo unitario.
+
+De ser inestable, la respuesta crece ilimitadamente genrando un _overflow_ en las variables digitales.
+
+Una secuencia $u[n]$ es acotada si se cumple:
+
+$$
+\begin{align*}
+	|u[n]| \leq M < \infty,\,\, \forall\,\,n\geq 0 
+\end{align*}
+$$
+
+Un sistema en TD es _BIBO estable_ o _estable_, si y solo sí, toda secuencia acotada de entrada genera una secuencia acotada de salida.
+
+Por consiguiente, se confirma la estabilidad de un sistema si satisface:
+
+$$
+\begin{align*}
+	\sum_{n=0}^{\infty} |h[n]| \leq M <\infty
+\end{align*}
+$$
+
+Otro criterio de estabilidad es, un sistema es estable, sí y solo sí, todos sus polos se encuentran dentro del círculo unitario, es decir, la magnitud de todos ellos es $<1$ .
 
 
+---
 
+- __Ejemplo__ :
+	- ¿Es el sistema estable?
+
+$$
+\begin{align*}
+	H(z) = \frac{c}{(z - 0.5)^{2}(z + 0.5e^{ j })(z + 0.5e^{ -j })}
+\end{align*}
+$$
+
+Magnitud de sus polos:
+
+$$
+\begin{align*}
+	&|-0.5| \to 0.5 \\
+	&|0.5e^{ j }| \to 0.5 \\
+	&|0.5e^{ -j }| \to 0.5
+\end{align*}
+$$
+
+Como todos los polos tienen magnitud menor a 1, entonces el sistema es estable.
+
+---
+
+>[!Note]
+>En Matlab `roots([<coeficientes>])` calcula las raices de un polinomio, acepta una fila de los coeficientes como entrada
+
+
+## Test de estabilidad de Jury
+
+Se considera el siguiente polinomio:
+
+$$
+\begin{align*}
+	D(z) = a_{0}z^{5} + a_{1}z^{4} + a_{2}z^{3} + a_{3}z^{2} + a_{4}z + a_{5}
+\end{align*}
+$$
+
+Donde $a_{0} > 0$, de lo contrario, aplicar el test sobre $-D(z)$, ya que, $D(z)$ y $-D(z)$ poseen las mismas raices.
+
+El arreglo de _Jury_ toma la siguiente forma:
+
+![](attachments/Pasted%20image%2020230603214929.png)
+
+Los elementos selecionados deben ser mayores a cero para garantizar que el sistema es estable.
+
+Donde:
+
+$$
+\begin{align*}
+	k_{1} &= \frac{a_{5}}{a_{0}} \\\\
+	k_{2} &= \frac{b_{4}}{b_{0}} \\\\
+	k_{3} &= \frac{c_{3}}{c_{0}} \\\\
+	k_{4} &= \frac{d_{2}}{d_{0}} \\\\
+	k_{5} &= \frac{e_{1}}{e_{0}}
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	(Fila\,\,1\,\,de\,\,b) &= (Fila\,\,1\,\,de\,\,a) - k_{1}\cdot (Fila\,\,2\,\,de\,\,a) \\\\
+	(Fila\,\,1\,\,de\,\,c) &= (Fila\,\,1\,\,de\,\,b) - k_{2}\cdot (Fila\,\,2\,\,de\,\,b) \\\\
+	(Fila\,\,1\,\,de\,\,d) &= (Fila\,\,1\,\,de\,\,c) - k_{3}\cdot (Fila\,\,2\,\,de\,\,c) \\\\
+	(Fila\,\,1\,\,de\,\,e) &= (Fila\,\,1\,\,de\,\,d) - k_{4}\cdot (Fila\,\,2\,\,de\,\,d) \\\\
+	(Fila\,\,f) &= (Fila\,\,1\,\,de\,\,e) - k_{5}\cdot (Fila\,\,2\,\,de\,\,e)
+\end{align*}
+$$
+
+>[!Note]
+>Cuando no existían los sistemas de cómputo, era complicado determinar si un sistema era estable.
+>_Jury_ fue un ingeniero de control que sentó las bases del control digital
+
+
+## Respuesta a estado estable y transitoria
+
+La respuesta de estado estacionario del sistema es:
+
+$$
+\begin{align*}
+	y_{ee}[n] = \lim_{ n \to \infty } y[n]
+\end{align*}
+$$
+
+Y su respuesta transitoria es:
+
+$$
+\begin{align*}
+	y_{tv}[n] = y[n] - y_{ee}[n]
+\end{align*}
+$$
+
+Sea una secuencia de la forma:
+
+$$
+\begin{align*}
+	r^{n},\,\,|r|<1
+\end{align*}
+$$
+
+Se tiene una constante de tiempo:
+
+$$
+\begin{align*}
+	n_{c} = -\frac{1}{\ln|r|}
+\end{align*}
+$$
+
+El sistema se estabiliza al alcanzar un número de muestras igual a $5\cdot n_{c}$ (la respuesta decrece $<1\%$ de su valor pico).
+
+Esta constante tiempo aplica igualmente para polos conjugados, donde se expresa el par de polos como:
+
+$$
+\begin{align*}
+	r e^{ \pm j\theta },\,\,0\leq r
+\end{align*}
+$$
+
+De esta manera, se define la constante de tiempo como:
+
+$$
+\begin{align*}
+	\boxed{n_{c} = -\frac{1}{\ln[max(|r_{i}|)]}}
+\end{align*}
+$$
+
+Se debe considerar la mayor magnitud presente en los polos.
+
+
+Sea una entrada $u[n] = ae^{ j\omega_{0}n }$, y $H(z)$ estable, se satisface:
+
+$$
+\begin{align*}
+	y_{ee}[n] = \lim_{ n \to \infty } y[n] = aH(e^{ j\omega_{0} })e^{ j\omega_{0}n }
+\end{align*}
+$$
+
+Por tanto, se concluye lo siguiente para $n\geq 0$:
+
+$$
+\begin{align*}
+	u[n] &= a \to y_{ee}[n] = aH(1) \\\\
+	u[n] &= a\sin(\omega_{0}n) \to y_{ee}[n] = a|H(e^{ j\omega_{0} })|\sin(\omega_{0}n + \sphericalangle H(e^{ j\omega_{0} })) \\\\
+	u[n] &= a\cos(\omega_{0}n) \to y_{ee}[n] = a|H(e^{ j\omega_{0} })|\cos(\omega_{0}n + \sphericalangle H(e^{ j\omega_{0} }))
+\end{align*}
+$$
+
+
+## Respuesta en frecuencia de sistemas en TD
+
+Los valores de $H(z)$ calculados sobre el círculo unitario del plano $z$,
+
+$$
+\begin{align*}
+	H(z) = H(e^{ j\omega })
+\end{align*}
+$$
+
+se denomina la respuesta en frecuencia del sistema representado por $H(z)$ .
+
+Se tiene que $H(e^{ j\omega })$ es una función compleja, se puede representar como:
+
+$$
+\begin{align*}
+	H(e^{ j\omega }) = A(\omega)e^{ j\theta(\omega) }
+\end{align*}
+$$
+
+Donde:
+- $A(\omega)$ : Respuesta en magnitud
+- $\theta(\omega)$ : Respuesta en fase
+
+A continuación se expone un ejemplo de la respuesta en frecuencia de un sistema en DT:
+
+![](attachments/Pasted%20image%2020230603223341.png)
+
+Como se puede observar, existe una periodicidad de $2\pi$ en la magnitud. Por tanto, comúnmente la respuesta frecuencial se suele tomar en intervalos de $[0, \pi]$ . La segunda mitad del intervalo es la señal invertida con respecto al eje $y$ .
+
+Se cumple entonces:
+
+$$
+\begin{align*}
+	H(e^{ j\omega }) = H(e^{ j(\omega + 2\pi k)})
+\end{align*}
+$$
+
+Algunas propiedades provenientes de la variable compleja son:
+
+$$
+\begin{align*}
+	[H(e^{ j\omega })]^{*} &= [H(e^{ -j\omega })] \\\\
+	[A(\omega)e^{ j\theta(\omega) }]* &= A(-\omega)e^{ j\theta(-\omega) }
+\end{align*}
+$$
+
+Adenás siempre se cumple que:
+
+$$
+\begin{align*}
+	A(\omega) &= A(-\omega) \to PAR \\\\
+	\theta(-\omega) &= -\theta(\omega) \to IMPAR
+\end{align*}
+$$
 

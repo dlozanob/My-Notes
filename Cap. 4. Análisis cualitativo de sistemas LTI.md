@@ -328,6 +328,7 @@ Entonces el sistema es estable si todos los coeficientes en el arreglo de Routh 
 >[!Note]
 >- Si en la función $a_{0} < 0$ entonces aplicar el criterio de Routh con $-D(s)$
 >- Si el polinomio tiene un grado menor a $6$, tomar la tabla desde la fila que tenga su mismo grado pero tomando las fórmulas desde sus coeficientes
+>- _Routh_ fue un matemático que inventó este arreglo para facilitar la determinación de la estabilidad en sistemas
 
 
 ## Respuesta al estado estacionario y transitorio

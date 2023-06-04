@@ -75,6 +75,110 @@
         "status": "unpublished",
         "elements": [
           {
+            "type": "line",
+            "version": 2099,
+            "versionNonce": 1891771869,
+            "isDeleted": false,
+            "id": "PKkSSWAZrYTJcJdIaFGWk",
+            "fillStyle": "solid",
+            "strokeWidth": 1,
+            "strokeStyle": "solid",
+            "roughness": 1,
+            "opacity": 100,
+            "angle": 0,
+            "x": 3480.234571836056,
+            "y": 2921.6961040142924,
+            "strokeColor": "#000000",
+            "backgroundColor": "#ced4da",
+            "width": 158.0969847365642,
+            "height": 158.94043102866144,
+            "seed": 1864514237,
+            "groupIds": [],
+            "roundness": null,
+            "boundElements": null,
+            "updated": 1685844698226,
+            "link": null,
+            "locked": false,
+            "startBinding": null,
+            "endBinding": null,
+            "lastCommittedPoint": null,
+            "startArrowhead": null,
+            "endArrowhead": null,
+            "points": [
+              [
+                0,
+                0
+              ],
+              [
+                39.46538204895891,
+                61.5688493629324
+              ],
+              [
+                39.70083858968747,
+                62.18938202976768
+              ],
+              [
+                39.46538204895891,
+                61.5688493629324
+              ],
+              [
+                39.46538204895891,
+                61.5688493629324
+              ],
+              [
+                78.93076409791782,
+                0
+              ],
+              [
+                118.39614614687673,
+                0
+              ],
+              [
+                59.198073073438366,
+                79.15994918091309
+              ],
+              [
+                118.6316026876053,
+                158.94043102866144
+              ],
+              [
+                79.16622063864638,
+                158.94043102866144
+              ],
+              [
+                39.70083858968747,
+                106.16713157471938
+              ],
+              [
+                0,
+                158.31989836182618
+              ],
+              [
+                -39.465382048958915,
+                158.31989836182618
+              ],
+              [
+                19.968147565208014,
+                79.78048184774835
+              ],
+              [
+                -39.465382048958915,
+                0
+              ],
+              [
+                0,
+                0
+              ]
+            ]
+          }
+        ],
+        "id": "EP6ZWi2x3ldWSETBGxXe3",
+        "created": 1685844701291
+      },
+      {
+        "status": "unpublished",
+        "elements": [
+          {
             "type": "ellipse",
             "version": 91,
             "versionNonce": 1495740382,
