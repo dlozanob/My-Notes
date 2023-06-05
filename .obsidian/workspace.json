@@ -4,28 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "bbee8751c9376c89",
+        "id": "ea008368c0734935",
         "type": "tabs",
         "children": [
           {
-            "id": "8bc2cc9b42ff4862",
+            "id": "9967510a62305b87",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cap. 7. Filtros digitales.md",
+                "file": "TO DO.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "5ecc31010b8fec72",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md"
               }
             }
           }
@@ -99,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cap. 7. Filtros digitales.md",
+                "file": "TO DO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cap. 7. Filtros digitales.md",
+                "file": "TO DO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cap. 7. Filtros digitales.md"
+                "file": "TO DO.md"
               }
             }
           },
@@ -193,23 +183,23 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "8bc2cc9b42ff4862",
+  "active": "9967510a62305b87",
   "lastOpenFiles": [
-    "attachments/Pasted image 20230604085314.png",
     "Excalidraw/blackboard.excalidraw.md",
     "Cap. 7. Filtros digitales.md",
-    "attachments/Pasted image 20230604085303.png",
-    "attachments/Pasted image 20230604084720.png",
-    "attachments/Pasted image 20230604083109.png",
-    "attachments/Pasted image 20230604082921.png",
-    "Señales y Sistemas II.md",
+    "attachments/Pasted image 20230604184852.png",
+    "attachments/Pasted image 20230604184708.png",
+    "attachments/Pasted image 20230604184203.png",
+    "attachments/Pasted image 20230604184157.png",
+    "Excalidraw/attachments/Pasted Image 20230604184156_629.png",
+    "attachments/Pasted image 20230604184118.png",
+    "Excalidraw/attachments/Pasted Image 20230604184117_158.png",
+    "attachments/Pasted image 20230604184110.png",
+    "attachments/Pasted image 20230604183024.png",
     "Cap. 6. Sistemas en tiempo discreto.md",
-    "attachments/Pasted image 20230603225657.png",
-    "attachments/Pasted image 20230603225641.png",
-    "attachments/Pasted image 20230603223341.png",
-    "attachments/Pasted image 20230603223336.png",
-    "Excalidraw/attachments/Pasted Image 20230603223335_296.png",
-    "attachments/Pasted image 20230603223327.png",
+    "Señales y Sistemas II.md",
+    "attachments/Pasted image 20230604180941.png",
+    "Cap. 5. Filtros analógicos.md",
     "Cap. 4. Análisis cualitativo de sistemas LTI.md",
     "Tema 2. Beta apalancado y desapalancado%2C betas proxy y costo de capital.md",
     "Módulo 6. Teoría de la estructura de capital.md",
@@ -230,7 +220,6 @@
     "Fórmulas Financieras Excel.md",
     "Servomecanismos.md",
     "Señales y Sistemas I.md",
-    "Cap. 5. Filtros analógicos.md",
     "Local Backup.rar",
     "Local Backup/Excalidraw/attachments",
     "Local Backup/Excalidraw",

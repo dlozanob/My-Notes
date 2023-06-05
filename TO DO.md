@@ -6,7 +6,7 @@
 - [ ] Señales
 	- [x] Apuntes
 	- [x] Ejercicios del parcial
-	- [ ] Actividad 3 (LUNES)
+	- [x] Actividad 3 (LUNES)
 - [ ] Servos
 	- [ ] Apuntes
 	- [x] Servomotor sizing
@@ -17,12 +17,12 @@
 	- [ ] Código de Matlab
 - [ ] Digital
 	- [ ] Apuntes
-	- [ ] Módulo i2s
+	- [x] Módulo i2s
 	- [ ] Módulo de los motores
 - [ ] Finanzas
 	- [x] Apuntes: Video
 	- [x] OVA 11
-	- [ ] Taller (MIÉRCOLES - 31)
+	- [x] Taller (MIÉRCOLES - 31)
 - [x] Mecanismos
 	- [x] Proyecto
 	- [x] Apuntes
