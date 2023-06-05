@@ -5,3 +5,5 @@
 - [Síntesis de mecanismos](Síntesis%20de%20mecanismos.md)
 - [Análisis de velocidad](Análisis%20de%20velocidad.md)
 - [Análisis de aceleración](Análisis%20de%20aceleración.md)
+- [Análisis dinámico](Análisis%20dinámico.md)
+- [Diseño de levas](Diseño%20de%20levas.md)
