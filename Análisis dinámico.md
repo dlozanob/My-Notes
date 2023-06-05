@@ -289,6 +289,8 @@ Para la unión de las juntas se deben crear ejes de trabajo en cada uno de los n
 
 La forma en la que se establecen las juntas, determinan el sistema coordenado de cada una de las variables de posición, velocidad y aceleración de los elementos.
 
-En el algunos casos, el mecanismo puede estar sobre restringido. Por ejemplo, un mecanismo de 4 barras, donde todas sus juntas son revolutas, tiene $M = $
+En el algunos casos, el mecanismo puede estar sobre restringido. Por ejemplo, un mecanismo de 4 barras, donde todas sus juntas son revolutas, tiene $M = -2$ al evaluar la movilidad en el espacio, por tanto, el mecanismo se encuentra sobrerestringido por $3\,\,GDL$.
+Para solucionar esto, se puede cambiar una de las juntas por una junta cilíndrica y otra por una esférica, haciendo $M = 1$ .
 
-
+>[!Note]
+>En Inventor _Driving force_ quiere decir carga requerida

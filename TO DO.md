@@ -41,7 +41,7 @@
 	- [x] Matlab velocidad + imagen
 	- [x] Tarea optimización 
 	- [x] Actividad: Análisis de velocidad de mecanismos
-	- [ ] Apuntes: Dinámica de mecanismos
+	- [x] Apuntes: Dinámica de mecanismos
 	- [ ] Apuntes: Diseño de levas
 
 - [x] Deutsch

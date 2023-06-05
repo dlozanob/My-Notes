@@ -13,24 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Análisis dinámico.md",
+                "file": "Diseño de levas.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "c1693bf8ade52b8d",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md",
+                "file": "Diseño de levas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md",
+                "file": "Diseño de levas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md"
+                "file": "Diseño de levas.md"
               }
             }
           },
@@ -194,12 +183,13 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "c1693bf8ade52b8d",
+  "active": "9967510a62305b87",
   "lastOpenFiles": [
-    "Análisis dinámico.md",
-    "Excalidraw/blackboard.excalidraw.md",
-    "Fundamentos de cinemática de mecanismos.md",
     "Mecanismos.md",
+    "TO DO.md",
+    "Excalidraw/blackboard.excalidraw.md",
+    "Análisis dinámico.md",
+    "Fundamentos de cinemática de mecanismos.md",
     "attachments/Pasted image 20230604224029.png",
     "attachments/Pasted image 20230604223929.png",
     "attachments/Pasted image 20230604223833.png",
@@ -212,7 +202,6 @@
     "attachments/Pasted image 20230604214254.png",
     "Diseño de levas.md",
     "Análisis de aceleración.md",
-    "TO DO.md",
     "Cap. 7. Filtros digitales.md",
     "attachments/Pasted image 20230604184852.png",
     "Cap. 6. Sistemas en tiempo discreto.md",
