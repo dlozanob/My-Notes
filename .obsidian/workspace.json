@@ -13,13 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mecanismos.md",
+                "file": "Análisis dinámico.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "c1693bf8ade52b8d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/blackboard.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mecanismos.md",
+                "file": "Excalidraw/blackboard.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mecanismos.md",
+                "file": "Excalidraw/blackboard.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mecanismos.md"
+                "file": "Excalidraw/blackboard.excalidraw.md"
               }
             }
           },
@@ -183,27 +194,29 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "9967510a62305b87",
+  "active": "c1693bf8ade52b8d",
   "lastOpenFiles": [
-    "Diseño de levas.md",
-    "Mecanismos.md",
     "Análisis dinámico.md",
+    "Excalidraw/blackboard.excalidraw.md",
+    "Fundamentos de cinemática de mecanismos.md",
+    "Mecanismos.md",
+    "attachments/Pasted image 20230604224029.png",
+    "attachments/Pasted image 20230604223929.png",
+    "attachments/Pasted image 20230604223833.png",
+    "attachments/Pasted image 20230604223713.png",
+    "attachments/Pasted image 20230604222848.png",
+    "attachments/Pasted image 20230604221643.png",
+    "attachments/Pasted image 20230604220023.png",
+    "attachments/Pasted image 20230604214830.png",
+    "LaTeX.md",
+    "attachments/Pasted image 20230604214254.png",
+    "Diseño de levas.md",
     "Análisis de aceleración.md",
     "TO DO.md",
-    "Excalidraw/blackboard.excalidraw.md",
     "Cap. 7. Filtros digitales.md",
     "attachments/Pasted image 20230604184852.png",
-    "attachments/Pasted image 20230604184708.png",
-    "attachments/Pasted image 20230604184203.png",
-    "attachments/Pasted image 20230604184157.png",
-    "Excalidraw/attachments/Pasted Image 20230604184156_629.png",
-    "attachments/Pasted image 20230604184118.png",
-    "Excalidraw/attachments/Pasted Image 20230604184117_158.png",
-    "attachments/Pasted image 20230604184110.png",
-    "attachments/Pasted image 20230604183024.png",
     "Cap. 6. Sistemas en tiempo discreto.md",
     "Señales y Sistemas II.md",
-    "attachments/Pasted image 20230604180941.png",
     "Cap. 5. Filtros analógicos.md",
     "Cap. 4. Análisis cualitativo de sistemas LTI.md",
     "Tema 2. Beta apalancado y desapalancado%2C betas proxy y costo de capital.md",
@@ -219,8 +232,6 @@
     "Ingeniería Económica.md",
     "Tema 2. Análisis de estados financieros e indicadores financieros.md",
     "Tema 4. Financiamiento a corto plazo.md",
-    "Electrónica Digital II.md",
-    "Excalidraw/whiteboard.excalidraw.md",
     "Local Backup.rar",
     "Local Backup/Excalidraw/attachments",
     "Local Backup/Excalidraw",
