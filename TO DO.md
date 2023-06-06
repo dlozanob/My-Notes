@@ -6,7 +6,8 @@
 - [ ] Señales
 	- [x] Apuntes
 	- [x] Ejercicios del parcial
-	- [ ] Actividad 3 (LUNES)
+	- [x] Actividad 3 (LUNES)
+	- [ ] Proyecto
 - [ ] Servos
 	- [ ] Apuntes
 	- [x] Servomotor sizing
@@ -15,14 +16,18 @@
 	- [x] Terminar de pasar los apuntes de cinemática
 	- [x] Apuntes de dinámica
 	- [ ] Código de Matlab
+	- [ ] Apuntes
+	- [ ] Taller 3
 - [ ] Digital
 	- [ ] Apuntes
-	- [ ] Módulo i2s
+	- [x] Módulo i2s
 	- [ ] Módulo de los motores
 - [ ] Finanzas
 	- [x] Apuntes: Video
 	- [x] OVA 11
-	- [ ] Taller (MIÉRCOLES - 31)
+	- [x] Taller (MIÉRCOLES - 31)
+	- [ ] Quiz
+	- [ ] Estudiar
 - [x] Mecanismos
 	- [x] Proyecto
 	- [x] Apuntes
@@ -36,6 +41,8 @@
 	- [x] Matlab velocidad + imagen
 	- [x] Tarea optimización 
 	- [x] Actividad: Análisis de velocidad de mecanismos
+	- [x] Apuntes: Dinámica de mecanismos
+	- [ ] Apuntes: Diseño de levas
 
 - [x] Deutsch
 	- [x] Estudiar

@@ -11,9 +11,11 @@
             "id": "669e17c768464c68",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md"
+                "file": "Excalidraw/blackboard.excalidraw.md",
+                "mode": "preview",
+                "source": false
               }
             }
           },
@@ -28,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a22e82a617a6b260",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -100,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electrónica Digital II.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electrónica Digital II.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Electrónica Digital II.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -194,26 +208,30 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "7d59e8777bdd74a3",
+  "active": "a22e82a617a6b260",
   "lastOpenFiles": [
+    "Electrónica Digital II.md",
+    "conflict-files-obsidian-git.md",
+    "attachments/Pasted image 20230605220853.png",
+    "attachments/Pasted image 20230605215941.png",
+    "attachments/Pasted image 20230605214949.png",
+    "attachments/Pasted image 20230605214745.png",
+    "attachments/Pasted image 20230605214517.png",
+    "attachments/Pasted image 20230605212239.png",
+    "attachments/Pasted image 20230604224029.png",
+    "attachments/Pasted image 20230604223929.png",
+    "attachments/Pasted image 20230604223833.png",
+    "attachments/Pasted image 20230604223713.png",
+    "Módulo 6. Teoría de la estructura de capital.md",
+    "Diseño de levas.md",
+    "Cap. 7. Filtros digitales.md",
+    "Análisis dinámico.md",
     "Excalidraw/blackboard.excalidraw.md",
     "Excalidraw/whiteboard.excalidraw.md",
-    "Excalidraw/attachments/Pasted Image 20230601121001_256.png",
-    "Excalidraw/attachments/Pasted Image 20230601120946_235.png",
-    "Excalidraw/attachments/Pasted Image 20230601114636_080.png",
-    "Excalidraw/attachments/Pasted Image 20230601113231_989.png",
-    "Excalidraw/attachments/Pasted Image 20230601113216_970.png",
-    "Excalidraw/attachments/Pasted Image 20230601110747_568.png",
-    "Electrónica Digital II.md",
     "Servomecanismos.md",
     "Tema 1. Teoría sobre estructura de capital%2C impuestos y ventaja tributaria.md",
-    "conflict-files-obsidian-git.md",
-    "attachments/Pasted image 20230530164207.png",
     "Módulo 6. Teoría de estructura de capital.md",
     "Finanzas.md",
-    "Excalidraw/attachments/Pasted Image 20230530123836_662.png",
-    "Excalidraw/attachments/Pasted Image 20230530121226_520.png",
-    "Excalidraw/attachments/Pasted Image 20230530114710_280.png",
     "LaTeX.md",
     "Tema 2. Beta apalancado y desapalancado%2C betas proxy y costo de capital.md",
     "Local Backup.rar",
@@ -228,10 +246,6 @@
     "Main.md",
     "Tema 4. Modelo CAPM; SML; CML y APT.md",
     "Módulo 5. Teoría de portafolio.md",
-    "Tema 3. Medición del rendimiento y del riesgo.md",
-    "Tema 2. Teoría de la eficiencia de los mercados.md",
-    "Tema 1. Introducción a los portafolios de renta variable y fondos de inversión.md",
-    "Nóbeles de economía.md",
     "Excalidraw/attachments",
     "attachments",
     "New folder",
