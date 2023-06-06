@@ -558,6 +558,25 @@ Existen estrategias para ubicación de datos en memoria. Hay 4 de ellas:
 	- Varios datos de la memoria grande tienen asignado un espacio de la memoria pequeña
 	- Se le dan apellidos a las direcciones
 	- Una vez muestreados los datos, se usa un _tag_ sobre ellos
+		- Los datos se asignan entre memorias por apellidos. Se comprueba el dato con el nombre
+
+$$
+\begin{align*}
+	\underbrace{ 00 }_{ Nombre }\underbrace{ 10 }_{ Apellido }
+\end{align*}
+$$
+
+El _valid bit_ confirma si el bit que está en la memoria pequeña es efectivamente el mismo que hay en la dirección de la memoria grande.
+
+Al iniciar el procesador, estos bits estarán en cero porque aún no hay nada en la memoria de la primera jerarquía.
+
+- Tag -> Nombre
+- Index -> Apellido
+
+Al comparar el _tag_ con respecto al _index_ requerido, se produce un _hit_ (el dato es el mismo)
+
+
+
 
 
 
