@@ -4,19 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "ea008368c0734935",
+        "id": "79e5f61d5f1852ef",
         "type": "tabs",
         "children": [
           {
-            "id": "9967510a62305b87",
+            "id": "4f0fc227177822c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diseño de levas.md",
-                "mode": "source",
+                "file": "Señales y Sistemas II.md",
+                "mode": "preview",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "38316208b4451136",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -89,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diseño de levas.md",
+                "file": "Señales y Sistemas II.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diseño de levas.md",
+                "file": "Señales y Sistemas II.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diseño de levas.md"
+                "file": "Señales y Sistemas II.md"
               }
             }
           },
@@ -183,9 +191,18 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "9967510a62305b87",
+  "active": "4f0fc227177822c5",
   "lastOpenFiles": [
+    "Cap. 7. Filtros digitales.md",
+    "attachments/Pasted image 20230605220853.png",
+    "attachments/Pasted image 20230605215941.png",
+    "attachments/Pasted image 20230605214949.png",
+    "attachments/Pasted image 20230605214745.png",
+    "attachments/Pasted image 20230605214517.png",
+    "attachments/Pasted image 20230605212239.png",
+    "Señales y Sistemas II.md",
     "Mecanismos.md",
+    "Diseño de levas.md",
     "TO DO.md",
     "Excalidraw/blackboard.excalidraw.md",
     "Análisis dinámico.md",
@@ -194,18 +211,9 @@
     "attachments/Pasted image 20230604223929.png",
     "attachments/Pasted image 20230604223833.png",
     "attachments/Pasted image 20230604223713.png",
-    "attachments/Pasted image 20230604222848.png",
-    "attachments/Pasted image 20230604221643.png",
-    "attachments/Pasted image 20230604220023.png",
-    "attachments/Pasted image 20230604214830.png",
     "LaTeX.md",
-    "attachments/Pasted image 20230604214254.png",
-    "Diseño de levas.md",
     "Análisis de aceleración.md",
-    "Cap. 7. Filtros digitales.md",
-    "attachments/Pasted image 20230604184852.png",
     "Cap. 6. Sistemas en tiempo discreto.md",
-    "Señales y Sistemas II.md",
     "Cap. 5. Filtros analógicos.md",
     "Cap. 4. Análisis cualitativo de sistemas LTI.md",
     "Tema 2. Beta apalancado y desapalancado%2C betas proxy y costo de capital.md",
@@ -220,7 +228,6 @@
     "Tema 1. Definición y clase de los instrumentos de deuda.md",
     "Ingeniería Económica.md",
     "Tema 2. Análisis de estados financieros e indicadores financieros.md",
-    "Tema 4. Financiamiento a corto plazo.md",
     "Local Backup.rar",
     "Local Backup/Excalidraw/attachments",
     "Local Backup/Excalidraw",

@@ -521,6 +521,10 @@ Clasificación delos filtros _FIR_ :
 Donde $N$ es la última muestra antes de que $h[n] = 0$ para todo $n>N$.
 $N$ también es el orden del filtro.
 
+>[!Note]
+>Los filtros _FIR_ suelen tener órdenes mucho mayores que los órdenes de los _IIR_
+
+
 ### Filtros de tipo I
 
 Una respuesta simétrica de $h[n]$, con $N$ par, toma la siguiente forma:
@@ -634,6 +638,10 @@ $$
 En un _FIR_, se cumple que los ceros son mutuamente recíprocos.
 Es decir, si $z_{i}$ es un cero, entonces, $\frac{1}{z_{i}}$ también lo es.
 Si $r_{i}e^{ j\theta_{i} }$, entonces, $\frac{1}{r_{i}}e^{ -j\theta_{i} }$ también lo es.
+
+>[!Note]
+>Los filtros _FIR_ a diferencia de los _IIR_, tienen la característica de que su fase es lineal negativa.
+>Por tanto, su retardo de grupo será constante, haciendo que todas las frecuencias se atrasen un poco pero al mismo tiempo
 
 
 ### Filtros de tipo II
@@ -995,3 +1003,280 @@ $$
 
 Donde $0\leq n\leq 66$ .
 
+
+### Ventana de Kaiser
+
+Es la ventana más general y la más usada.
+
+$$
+\begin{align*}
+	\omega[n] = \frac{I_{0}(0.5N\beta \sqrt{ (0.5N)^{2}-(n-0.5N)^{2} })}{I_{0}(0.5N\beta)}
+\end{align*}
+$$
+
+Donde $I_{0}$ es la función de _Bessel_ modificada de orden $0$ .
+
+$$
+\begin{align*}
+	I_{0}(x) = 1 + \sum_{k=1}^{\infty}\left[ \frac{(0.5x)^{2}}{k} \right]^{2}
+\end{align*}
+$$
+
+Con $20$ términos es suficiente para aproximar de una buena manera $I_{0}$ .
+
+El parámetro $\beta$ se usa para ajustar la atenuación $\alpha_{s}$ y el rizado $\alpha_{p}$ .
+
+$$
+\begin{align*}
+	\beta = 
+	\left\{
+	\begin{array}{lcc}
+		0.1102(\alpha_{s} - 8.7),\,\,50<\alpha_{s} \\
+0.5842(\alpha_{s} - 21)^{0.4} + 0.07866(\alpha_{s} - 21),\,\,21<\alpha_{s}<50 \\
+0,\,\,\alpha_{s} < 21
+	\end{array}
+	\right.
+\end{align*}
+$$
+
+Además se tiene que:
+
+$$
+\begin{align*}
+	N \approx \frac{\alpha_{s} - 8}{2.285\Delta\omega}
+\end{align*}
+$$
+
+Donde $\Delta\omega = \omega_{s} - \omega_{p}$ .
+
+>[!Note]
+>En Matlab `designfilt()` diseña un filtro _FIR_, aceptando las frecuencias normalizadas como entradas
+
+
+### Filtros multibandas
+
+Un _filtro multibanda_ ideal tiene la siguiente forma (sin desplazamiento, con fase $\phi$):
+
+$$
+\begin{align*}
+	H_{MB}(e^{ j\omega }) = A_{k},\,\,\omega_{k-1} \leq |\omega| \leq \omega_{k}
+\end{align*}
+$$
+
+![](attachments/Pasted%20image%2020230605212239.png)
+
+Se divide por franjas, donde a cada franja se le asigna una amplitud.
+
+>[!Note]
+>Los _filtros multibandas_ son una característica única de los filtros _FIR_, no se pueden implementar usando filtros analógicos
+
+La respuesta al impulso de $H(e^{ j\omega })$ es (por medio de la _IDTFT - Inverse Discret Time Fourier Transform_)  :
+
+$$
+\begin{align*}
+	h_{ML}[n] = \sum_{l = 1}^{L}(A_{l} - A_{l + 1}) \frac{\sin(\omega_{L}n)}{\pi n}
+\end{align*}
+$$
+
+Donde $\omega_{0} = 0$, $\omega_{L} = \pi$ y $A_{L+1} = 0$ .
+
+
+### Método de ventanas para otros tipos de filtros
+
+Se puede extender el método de ventanas a cualquier tipo de filtro (no solo pasabajas).
+
+- Pasaaltas:
+	- Respuesta en frecuencia ideal:
+	
+	$$
+	\begin{align*}
+		H_{PA}(e^{ j\omega }) = 
+		\left\{
+		\begin{array}{lcc}
+			0,\,\,|\omega|<\omega_{c} \\
+	1,\,\,\omega_{c}\leq|\omega|\leq \pi
+		\end{array}
+		\right.
+	\end{align*}
+	$$
+
+	- Respuesta al impulso:
+	
+	$$
+	\begin{align*}
+		h_{PA}[n] =
+		\left\{
+		\begin{array}{lcc}
+			1-\frac{\omega_{c}}{\pi},\,\,n=0 \\
+	- \frac{\sin(\omega_{c}n)}{\pi n},\,\,|n|>0
+		\end{array}
+		\right.
+	\end{align*}
+	$$
+
+- Pasabandas
+	- Respuesta en frecuencia ideal:
+	
+	$$
+	\begin{align*}
+		H_{PB}(e^{ j\omega }) = 
+		\left\{
+		\begin{array}{lcc}
+			0,\,\,|\omega| < \omega_{c 1} \\
+	1,\,\,\omega_{c 1}\leq|\omega| \leq\omega_{c 2} \\
+	0,\,\,\omega_{c 2}<|\omega|\leq \pi
+		\end{array}
+		\right.
+	\end{align*}
+	$$
+
+	- Respuesta al impulso (para $|n|\geq 0$) :
+	
+	$$
+	\begin{align*}
+		h_{PB}[n] = \frac{\sin(\omega_{c 2}n)}{\pi n} - \frac{\sin(\omega_{c 1}n)}{\pi n}
+	\end{align*}
+	$$
+
+- Rechazabandas
+	- Respuesta en frecuencia ideal:
+	
+	$$
+	\begin{align*}
+		H_{RB}(e^{ j\omega }) = 
+		\left\{
+		\begin{array}{lcc}
+			1,\,\,|\omega|<\omega_{c 1} \\
+		 0,\,\,\omega_{c 1}\leq|\omega|\leq\omega_{c 2} \\
+	1,\,\,\omega_{c 2}<|\omega|\leq \pi
+	\end{array}
+		\right.
+	\end{align*}
+	$$
+	
+	- Respuesta al impulso:
+	
+	$$
+	\begin{align*}
+		h_{RB}[n] =
+		\left\{
+		\begin{array}{lcc}
+			1 - \frac{\omega_{c 2} - \omega_{c 1}}{\pi},\,\,n=0 \\
+	\frac{\sin(\omega_{c 1}n)}{\pi n} - \frac{\sin(\omega_{c 2}n)}{\pi n},\,\,|n|>0
+		\end{array}
+		\right.
+	\end{align*}
+	$$
+
+>[!Note]
+>Para pasar de la respuesta frecuencial a la respuesta al impulso, se uso la _DTFT - Discret Time Fourier Transform_
+
+
+Después de obtener la respuesta $h_{PX}[n]$ (respuesta al impulso para el tipo de filtro requerido) se aplica un retraso de $M$ muestras (de acuerdo al orden del filtro $N$) y se trunca a $N + 1$ muestras.
+
+Se debe desplazar $\bar{M}$ en caso de que $N$ sea impar.
+
+
+### Método por muestreo frecuencial
+
+Para el $H_{d}(e^{ j\omega })$ requerido se toman varias muestras. El número de muestras es el orden del filtro.
+
+Supongamos que se desea esta respuesta en frecuencia:
+
+![](attachments/Pasted%20image%2020230605214517.png)
+
+A las muestras tomadas se le aplica la _IFFT - Inverse Fast Fourier Transform_ para obtener la respuesta al impulso:
+
+![](attachments/Pasted%20image%2020230605214745.png)
+
+Después se desfasa esta señal y se trunca para hacerla causal.
+
+>[!Note]
+>El método acepta la inclusión de ventanas
+
+Para que $h[n]$ tenga valores reales, el muestreo en frecuencia debe ser simétrico.
+
+Por ejemplo:
+
+![](attachments/Pasted%20image%2020230605214949.png)
+
+El muestreo es simétrico, algunos valores se repiten con respecto a un eje de simetría.
+
+Aquí se toman $10$ muestras del intervalo $2\pi$ .
+
+Las muestras obtenidas fueron:
+
+$$
+\begin{align*}
+	H = [1, 1, 0.5757, 0, 0, 0, 0, 0, 0, 0.5757, 1]
+\end{align*}
+$$
+
+Al aplicar la _IFFT_ sobre las muestras:
+
+$$
+\begin{align*}
+	IFFT(H) = [0.3774, 0.2873, 0.0978, -0.0354, -0.043, 0.045, 0.045, -0.043, -0.0354, 0.0978, 0.2873]
+\end{align*}
+$$
+
+El espectro debe centrarse de tal manera que la secuencia sea simétrica, entonces, se desplazan los $5$ últimos puntos al inicio.
+
+$$
+\begin{align*}
+	h[n] = [0.045, -0.043, -0.0354, 0.0978, 0.2873, 0.3774, 0.2873, 0.0978, -0.0354, -0.043, 0.045]
+\end{align*}
+$$
+
+Donde $h[-5] = h[5] = 0.0452$ .
+
+De aquí se obtiene el filtro causal:
+
+$$
+\begin{align*}
+	H(z) = 0.0452(1 + z^{-10}) - 0.043(z^{-1} + z^{-9}) - 0.0354(z^{-2} + z^{-8}) + 0.0978(z^{-3} + z^{-7}) + 0.2873(z^{-4} + z^{-6}) + 0.3774z^{-5}
+\end{align*}
+$$
+
+Se obtiene la respuesta:
+
+![](attachments/Pasted%20image%2020230605215941.png)
+
+El _efecto Gibbs_ casi no se percibe.
+
+
+### Método de Parks-McClellan
+
+Es el análogo de los filtros elípticos analógicos pero en filtros _FIR_.
+
+Se basa en un algoritmo de optimización que minimiza la desviación máxima de la respuesta en frecuecia $H(e^{ j\omega })$ con relación a la respuesta en frecuencia ideal deseada $H_{D}(e^{ j\omega })$ .
+
+El filtro resultante de fase lineal es llamado _equirizado_ .
+
+![](attachments/Pasted%20image%2020230605220853.png)
+
+La respuesta frecuencial tiene la forma:
+
+$$
+\begin{align*}
+	H(e^{ j\omega }) = A(\omega)e^{ -jM\omega }
+\end{align*}
+$$
+
+Donde $A(\omega)$ puede ser escrita como un polinomio de cosenos.
+
+Se define la función de error ponderado:
+
+$$
+\begin{align*}
+	\varepsilon(\omega) = W(\omega)[H_{R}(e^{ j\omega }) - H_{D}(e^{ j\omega })]
+\end{align*}
+$$
+
+Donde $W(\omega)$ es una función de ponderación que controla los rizados relativos.
+
+El algoritmo se basa en el ajuste iterativo de os coeficientes del filtro hasta que se satisface la condición de error mínimo requerido.
+
+
+>[!Info]
+>En Matlab `filterDesigner` es una aplicación de muy alto nivel para el diseño de filtros digitales
