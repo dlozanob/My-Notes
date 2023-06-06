@@ -520,7 +520,44 @@ Litex_term carga el firmware.bin a la memoria
 
 ---
 
+![](attachments/Pasted%20image%2020230606074226.png)
 
+Al compilar, las variables se asignan en ese orden. No se debe desperdiciar memoria
+
+Existe una jerarquía de memorias. La memoria más rápida es la más pequeña.
+Por tanto, la memoria encima de la jerarquía (más cercan al procesador) es la más rápida, la más pequeña.
+
+![](attachments/Pasted%20image%2020230606075141.png)
+
+El procesador interactúa con la memoria caché en primer lugar, es la memoria más pequeña.
+
+SI la memoria caché no tiene la información necesaria, se comunica con la _RAM_, y así sucesivamente.
+
+- _Block_
+	- Es la unidad mínima de información que puede almacenar la memoria caché.
+
+- _Hit rate_
+	- Accesos de memoria que se encuentran dentro de la jerarquía
+
+- _Miss rate_
+	- Accesos de memoria que no se encuentran dentro de la jerarquía
+
+
+- _Hit time_
+	- Es el tiempo requerido para acceder al nivel de memoria
+
+- _Miss penalty_
+	- Es el tiempo requerido para recuperar un bloque de un nivel inferior
+
+
+¿Cómo sabemos si un dato está en la memoria caché?
+
+Existen estrategias para ubicación de datos en memoria. Hay 4 de ellas:
+
+- _Direct-Mapped cache_
+	- Varios datos de la memoria grande tienen asignado un espacio de la memoria pequeña
+	- Se le dan apellidos a las direcciones
+	- Una vez muestreados los datos, se usa un _tag_ sobre ellos
 
 
 
