@@ -518,6 +518,12 @@ BIOS = Boot de arranque = Boot load (Basic Input Output Software) -> Inicializa 
 
 Litex_term carga el firmware.bin a la memoria
 
+---
+
+
+
+
+
 
 
 
