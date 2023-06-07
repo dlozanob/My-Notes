@@ -384,6 +384,22 @@ $$
 
 
 
+---
+
+
+
+Para flujos compresibles (procesos isotérmicos):
+
+$$
+\begin{align*}
+	\boxed{\frac{1}{2}(v_{2}^{2}-v_{1}^{2})+g(z_{2}-z_{1}) + \frac{RT}{m_{mol}}\ln\left( \frac{p_{2}}{p_{1}} \right)=0}
+\end{align*}
+$$
+
+
+
+
+
 ## External Links
 
 - [Bernoulli's Equation](https://www.youtube.com/watch?v=DW4rItB20h4)

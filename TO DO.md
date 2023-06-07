@@ -32,7 +32,7 @@
 	- [x] Taller (MIÉRCOLES - 31)
 	- [x] Quiz
 	- [ ] Parcial: Estudiar
-- [x] Mecanismos
+- [ ] Mecanismos
 	- [x] Proyecto
 	- [x] Apuntes
 	- [x] Actividad: Análisis de posición de mecanismos
@@ -52,7 +52,7 @@
 - [x] Deutsch
 	- [ ] Estudiar
 
-- [x] Chem-e-car
+- [ ] Chem-e-car
 	- [x] Investigación
 	- [ ] Tarea 2
 

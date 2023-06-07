@@ -35,26 +35,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Servomecanismos.md",
+                "file": "Cap. 7. Filtros digitales.md",
                 "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "c459fa48745f362a",
+            "id": "c5df65ea2ee819a6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Fundamentos de Mecánica de Fluidos.md",
-                "mode": "preview",
-                "source": false
+                "file": "Excalidraw/whiteboard.excalidraw.md"
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -124,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TO DO.md",
+                "file": "Excalidraw/whiteboard.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TO DO.md",
+                "file": "Excalidraw/whiteboard.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TO DO.md"
+                "file": "Excalidraw/whiteboard.excalidraw.md"
               }
             }
           },
@@ -218,12 +216,17 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "5836d7ec29dc3c44",
+  "active": "c5df65ea2ee819a6",
   "lastOpenFiles": [
-    "Excalidraw/blackboard.excalidraw.md",
-    "TO DO.md",
-    "Fundamentos de Mecánica de Fluidos.md",
+    "Excalidraw/attachments/Pasted Image 20230607113403_888.png",
+    "Excalidraw/attachments/Pasted Image 20230607112219_916.png",
+    "Cap. 7. Filtros digitales.md",
+    "Señales y Sistemas II.md",
     "Servomecanismos.md",
+    "Dinámica de Fluidos.md",
+    "Fundamentos de Mecánica de Fluidos.md",
+    "TO DO.md",
+    "Excalidraw/blackboard.excalidraw.md",
     "Tema 1. Teoría sobre estructura de capital%2C impuestos y ventaja tributaria.md",
     "Tema 3. Medición del rendimiento y del riesgo.md",
     "Módulo 5. Teoría de portafolio.md",
@@ -232,10 +235,8 @@
     "Módulo 6. Teoría de la estructura de capital.md",
     "Finanzas.md",
     "Electrónica Digital II.md",
-    "Dinámica de Fluidos.md",
     "Cinemática de Fluidos.md",
     "Tema 2. Beta apalancado y desapalancado%2C betas proxy y costo de capital.md",
-    "Señales y Sistemas II.md",
     "attachments/Pasted image 20230606075141.png",
     "attachments/Pasted image 20230606074819.png",
     "attachments/Pasted image 20230606074634.png",
@@ -243,11 +244,9 @@
     "Excalidraw/attachments/Pasted Image 20230606083457_860.png",
     "Excalidraw/attachments/Pasted Image 20230606083457_818.png",
     "Excalidraw/Drawing 2023-06-06 07.34.10.excalidraw.md",
-    "Cap. 7. Filtros digitales.md",
     "attachments/Pasted image 20230605220853.png",
     "attachments/Pasted image 20230605215941.png",
     "attachments/Pasted image 20230605214949.png",
-    "attachments/Pasted image 20230605214745.png",
     "Mecanismos.md",
     "Diseño de levas.md",
     "Análisis dinámico.md",
@@ -255,7 +254,6 @@
     "LaTeX.md",
     "Análisis de aceleración.md",
     "Cap. 6. Sistemas en tiempo discreto.md",
-    "Cap. 5. Filtros analógicos.md",
     "Local Backup.rar",
     "Local Backup/Excalidraw/attachments",
     "Local Backup/Excalidraw",
