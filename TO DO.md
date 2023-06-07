@@ -18,16 +18,19 @@
 	- [ ] Código de Matlab
 	- [ ] Apuntes
 	- [ ] Taller 3
+	- [ ] Parcial
 - [ ] Digital
 	- [ ] Apuntes
 	- [x] Módulo i2s
 	- [ ] Módulo de los motores
+	- [ ] Integración en Litex de todos los módulos
+	- [ ] Firmware
 - [ ] Finanzas
 	- [x] Apuntes: Video
 	- [x] OVA 11
 	- [x] Taller (MIÉRCOLES - 31)
-	- [ ] Quiz
-	- [ ] Estudiar
+	- [x] Quiz
+	- [ ] Parcial: Estudiar
 - [x] Mecanismos
 	- [x] Proyecto
 	- [x] Apuntes
@@ -43,11 +46,13 @@
 	- [x] Actividad: Análisis de velocidad de mecanismos
 	- [x] Apuntes: Dinámica de mecanismos
 	- [ ] Apuntes: Diseño de levas
+	- [ ] Actividad de práctica: Dinámica
 
 - [x] Deutsch
-	- [x] Estudiar
+	- [ ] Estudiar
 
 - [x] Chem-e-car
 	- [x] Investigación
+	- [ ] Tarea 2
 
 ---

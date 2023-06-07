@@ -49,7 +49,7 @@ Extendiendo esta doble sumatoria, la _varianza_ entre dos activos satisface:
 
 $$
 \begin{align*}
-	\boxed{VAR(A,B) = X_{A}^{2}\sigma_{A}^{2} + 2X_{A}X_{B}\sigma_{AB} + X_{B}^{2}\sigma_{B}^{2} }
+	\boxed{VAR(A,B) = X_{A}^{2}\sigma_{A}^{2} + 2X_{A}X_{B}\cdot \sigma_{AB} + X_{B}^{2}\sigma_{B}^{2} }
 \end{align*}
 $$
 

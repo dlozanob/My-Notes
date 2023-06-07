@@ -125,6 +125,7 @@ El retorno del equity $R_{E}$ aumenta conforme se aumenta la deuda -> lo que hac
 >	- Regresiva
 >		- La tasa disminuye a medida que la base imponible aumenta. Las personas con menores ingresos pagan más
 >- La relación deuda-equity óptima no se puede determinar aún
+>- Una compañía con mayor número de activos tendrá mayor deuda, estos se financiarán con deuda
 
 
 ## Método UAII-UPA
@@ -141,7 +142,7 @@ La fuente de financiación primaria son los recursos propios de la empresa, así
 En el financiamiento no bancario se encuentran las entidades: _sociedades de capital de riesgo_, _business angels_, _crowdfunding_, _préstamo participativo_ y _mercado alternativo bursátil (MAB)_.
 
 En el financiamiento bancario se encuentran los bancos.
-Las entidades bancarias ofrecen préstamos a mediano y largo plazo, como microcréditos, _leasing_ y _renting_.
+Las entidades bancarias ofrecen préstamos a mediano y largo plazo, como microcréditos, _leasing_ y _renting_. Las _sociedades de garantía recíproca_ también se consideran como entes bancarios.
 
 
 ## Tipos de apalancamiento
