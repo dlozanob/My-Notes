@@ -24,7 +24,7 @@
               "type": "markdown",
               "state": {
                 "file": "TO DO.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -36,6 +36,18 @@
               "type": "markdown",
               "state": {
                 "file": "Servomecanismos.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c459fa48745f362a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fundamentos de Mecánica de Fluidos.md",
                 "mode": "preview",
                 "source": false
               }
@@ -208,8 +220,10 @@
   },
   "active": "5836d7ec29dc3c44",
   "lastOpenFiles": [
-    "Servomecanismos.md",
     "Excalidraw/blackboard.excalidraw.md",
+    "TO DO.md",
+    "Fundamentos de Mecánica de Fluidos.md",
+    "Servomecanismos.md",
     "Tema 1. Teoría sobre estructura de capital%2C impuestos y ventaja tributaria.md",
     "Tema 3. Medición del rendimiento y del riesgo.md",
     "Módulo 5. Teoría de portafolio.md",
@@ -218,9 +232,7 @@
     "Módulo 6. Teoría de la estructura de capital.md",
     "Finanzas.md",
     "Electrónica Digital II.md",
-    "TO DO.md",
     "Dinámica de Fluidos.md",
-    "Fundamentos de Mecánica de Fluidos.md",
     "Cinemática de Fluidos.md",
     "Tema 2. Beta apalancado y desapalancado%2C betas proxy y costo de capital.md",
     "Señales y Sistemas II.md",

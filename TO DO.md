@@ -7,7 +7,8 @@
 	- [x] Apuntes
 	- [x] Ejercicios del parcial
 	- [x] Actividad 3 (LUNES)
-	- [ ] Proyecto
+	- [ ] Actividad 4 (MIÉRCOLES)
+	- [ ] Proyecto (26)
 - [ ] Servos
 	- [ ] Apuntes
 	- [x] Servomotor sizing
