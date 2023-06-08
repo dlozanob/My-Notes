@@ -28,9 +28,21 @@
                 "file": "Excalidraw/Drawing 2023-06-06 07.34.10.excalidraw.md"
               }
             }
+          },
+          {
+            "id": "de0559663411419b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -100,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-06-06 07.34.10.excalidraw.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-06-06 07.34.10.excalidraw.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-06-06 07.34.10.excalidraw.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -194,10 +206,13 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "1ef75ced90406402",
+  "active": "de0559663411419b",
   "lastOpenFiles": [
-    "Electrónica Digital II.md",
     "Excalidraw/Drawing 2023-06-06 07.34.10.excalidraw.md",
+    "conflict-files-obsidian-git.md",
+    "Excalidraw/attachments/Pasted Image 20230607113403_888.png",
+    "Excalidraw/attachments/Pasted Image 20230607112219_916.png",
+    "Electrónica Digital II.md",
     "Excalidraw/attachments/Pasted Image 20230606083457_860.png",
     "Excalidraw/attachments/Pasted Image 20230606083457_818.png",
     "attachments/Pasted image 20230606075141.png",
@@ -208,11 +223,8 @@
     "Señales y Sistemas II.md",
     "Linked note.md",
     "Excalidraw/blackboard.excalidraw.md",
-    "conflict-files-obsidian-git.md",
     "attachments/Pasted image 20230605220853.png",
     "attachments/Pasted image 20230605215941.png",
-    "attachments/Pasted image 20230605214949.png",
-    "attachments/Pasted image 20230605214745.png",
     "Módulo 6. Teoría de la estructura de capital.md",
     "Diseño de levas.md",
     "Análisis dinámico.md",

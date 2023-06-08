@@ -50,7 +50,7 @@ Sabiendo que la derivada vectorial de una función es:
 
 $$
 \begin{align*}
-	\frac{\partial f}{\partial n} = \hat{n}\cdot \vec{\nabla}f
+	\frac{\partial f}{\partial \hat{n}} = \hat{n}\cdot \vec{\nabla}f
 \end{align*}
 $$
 
@@ -132,7 +132,7 @@ $$
 \end{align*}
 $$
 
-Debido a que cualquier movimiento se la partícula se puede estudiar como un movimiento circular:
+Debido a que cualquier movimiento de la partícula se puede estudiar como un movimiento circular:
 
 $$
 \begin{align*}
@@ -164,7 +164,7 @@ $$
 \end{align*}
 $$
 
-Si se añade una suposición más y se dice que el fluido es _incompresible_, la ecuación de sumatoria de fuerzas se puede integrar teniendo en cuenta que $\rho$ es constante.
+Si se añade una suposición más y se dice que el fluido es _incompresible_, la ecuación de sumatoria de fuerzas tangencial se puede integrar teniendo en cuenta que $\rho$ es constante.
 
 $$
 \begin{align*}
@@ -232,6 +232,9 @@ Estas dos últimas ecuaciones son válidas únicamente si se consideran las supo
 
 
 ---
+
+
+
 
 
 ## Teorema de transporte de Reynolds
@@ -378,6 +381,22 @@ $$
 	\dot{B}_{out} = 1000\,\, \frac{m^{3}}{s}
 \end{align*}
 $$
+
+
+
+---
+
+
+
+Para flujos compresibles (procesos isotérmicos):
+
+$$
+\begin{align*}
+	\boxed{\frac{1}{2}(v_{2}^{2}-v_{1}^{2})+g(z_{2}-z_{1}) + \frac{RT}{m_{mol}}\ln\left( \frac{p_{2}}{p_{1}} \right)=0}
+\end{align*}
+$$
+
+
 
 
 

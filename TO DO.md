@@ -7,7 +7,8 @@
 	- [x] Apuntes
 	- [x] Ejercicios del parcial
 	- [x] Actividad 3 (LUNES)
-	- [ ] Proyecto
+	- [ ] Actividad 4 (MIÉRCOLES)
+	- [ ] Proyecto (26)
 - [ ] Servos
 	- [ ] Apuntes
 	- [x] Servomotor sizing
@@ -18,17 +19,20 @@
 	- [ ] Código de Matlab
 	- [ ] Apuntes
 	- [ ] Taller 3
+	- [ ] Parcial
 - [ ] Digital
 	- [ ] Apuntes
 	- [x] Módulo i2s
 	- [ ] Módulo de los motores
+	- [ ] Integración en Litex de todos los módulos
+	- [ ] Firmware
 - [ ] Finanzas
 	- [x] Apuntes: Video
 	- [x] OVA 11
 	- [x] Taller (MIÉRCOLES - 31)
-	- [ ] Quiz
-	- [ ] Estudiar
-- [x] Mecanismos
+	- [x] Quiz
+	- [ ] Parcial: Estudiar
+- [ ] Mecanismos
 	- [x] Proyecto
 	- [x] Apuntes
 	- [x] Actividad: Análisis de posición de mecanismos
@@ -43,11 +47,13 @@
 	- [x] Actividad: Análisis de velocidad de mecanismos
 	- [x] Apuntes: Dinámica de mecanismos
 	- [ ] Apuntes: Diseño de levas
+	- [ ] Actividad de práctica: Dinámica
 
 - [x] Deutsch
-	- [x] Estudiar
+	- [ ] Estudiar
 
-- [x] Chem-e-car
+- [ ] Chem-e-car
 	- [x] Investigación
+	- [ ] Tarea 2
 
 ---
