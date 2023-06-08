@@ -30,8 +30,8 @@ El _FF_ (feedforward) hace un seguimiento a la referencia (_SP_ punto de referen
 	- _MAM_ : Motion Axis Move (control move)
 
 Algunos lenguajes de programación industriales son:
-- LD - Ladder
-- SFC (Segment Functional Chart)
+- _LD_ - Ladder
+- _SFC_ (Sequential Functional Chart)
 
 SFC viene del francés _GRAFCET_ (gráfico funcional de comando por etapas y transiciones). SFC es incluso más estructurado que Ladder.
 
@@ -944,14 +944,35 @@ Esta frecuencia comúnmene está en el rango $40$ - $100\,\,kHz$ .
 		- $k_{b}$ (b -> BEMF: Back electric magnetic force)
 
 
+---
+
+Al modelar matemáticamente un motor _BLDC_ sucede lo siguiente:
+
+![](attachments/Pasted%20image%2020230608093401.png)
 
 
+- ¿Cuál es la conveniencia de usar lazos de control anidados?
+	- Se utilizan para mejorar el desempeño
+		- Estabilidad del sistema
+
+Los lazos de control anidados se activan de acuerdo al parámetro que se quiere controlar.
+
+![](attachments/Pasted%20image%2020230608094358.png)
+
+>[!Note]
+>En el punto 2: Comparar el resultado con y sin retroalimentación de torque
+
+>[!Note]
+>Cualquier controlador debe poder programarse en _Ladder_
+
+En Ladder:
+- Salida externa
+	- Comunicación con un actuador
+- Salida interna
+	- Guardar en memoria, no se activan actuadores
 
 
-
-
-
-
+- Scan rate: 1kb/ms
 
 
 

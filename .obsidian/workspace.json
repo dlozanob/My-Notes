@@ -52,9 +52,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "379745d70e809582",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -124,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Main.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Main.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Main.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -218,8 +230,15 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "5c3b792a03d24f18",
+  "active": "379745d70e809582",
   "lastOpenFiles": [
+    "Main.md",
+    "conflict-files-obsidian-git.md",
+    "attachments/Pasted image 20230608094358.png",
+    "attachments/Pasted image 20230608094241.png",
+    "attachments/Pasted image 20230608093401.png",
+    "attachments/Pasted image 20230608092943.png",
+    "Excalidraw/kaliDrawings.excalidraw.md",
     "Servomecanismos.md",
     "Excalidraw/blackboard.excalidraw.md",
     "TO DO.md",
@@ -244,18 +263,11 @@
     "attachments/Pasted image 20230606074819.png",
     "attachments/Pasted image 20230606074634.png",
     "attachments/Pasted image 20230606074226.png",
-    "Excalidraw/attachments/Pasted Image 20230606083457_860.png",
-    "Excalidraw/attachments/Pasted Image 20230606083457_818.png",
     "Excalidraw/Drawing 2023-06-06 07.34.10.excalidraw.md",
-    "attachments/Pasted image 20230605220853.png",
-    "attachments/Pasted image 20230605215941.png",
     "Mecanismos.md",
     "Diseño de levas.md",
     "Análisis dinámico.md",
     "Fundamentos de cinemática de mecanismos.md",
-    "LaTeX.md",
-    "Análisis de aceleración.md",
-    "Cap. 6. Sistemas en tiempo discreto.md",
     "Local Backup.rar",
     "Local Backup/Excalidraw/attachments",
     "Local Backup/Excalidraw",
