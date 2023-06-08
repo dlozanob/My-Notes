@@ -25,12 +25,24 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2023-06-06 07.34.10.excalidraw.md"
+                "file": "Excalidraw/kaliDrawings.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "1bc271325036eb1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "myDrawings.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -100,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-06-06 07.34.10.excalidraw.md",
+                "file": "myDrawings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-06-06 07.34.10.excalidraw.md",
+                "file": "myDrawings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-06-06 07.34.10.excalidraw.md"
+                "file": "myDrawings.md"
               }
             }
           },
@@ -194,10 +206,11 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "1ef75ced90406402",
+  "active": "1bc271325036eb1b",
   "lastOpenFiles": [
+    "Main.md",
+    "Excalidraw/kaliDrawings.excalidraw.md",
     "conflict-files-obsidian-git.md",
-    "Excalidraw/Drawing 2023-06-06 07.34.10.excalidraw.md",
     "Excalidraw/attachments/Pasted Image 20230607113403_888.png",
     "Excalidraw/attachments/Pasted Image 20230607112219_916.png",
     "Electrónica Digital II.md",
@@ -231,7 +244,6 @@
     "Cap. 6. Sistemas en tiempo discreto.md",
     "TO DO.md",
     "myDrawings.md",
-    "Main.md",
     "Excalidraw/attachments",
     "attachments",
     "New folder",
