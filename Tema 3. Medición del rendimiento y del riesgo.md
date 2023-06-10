@@ -63,7 +63,7 @@ De manera general para $n$ activos:
 
 $$
 \begin{align*}
-\sigma_{P}^{2} =
+\boxed{\sigma_{P}^{2} =
 \begin{pmatrix}
 X_{1} & X_{2} & \dots & X_{n}
 \end{pmatrix}	
@@ -80,7 +80,7 @@ X_{2} \\
 . \\
 . \\
 X_{n}
-\end{pmatrix}
+\end{pmatrix}}
 \end{align*}
 $$
 
@@ -93,9 +93,9 @@ Donde $X_{i}$ es el porcentaje de dinero invertido en el activo $i$ . Cabe resal
 ## Comportamiento de los activos
 
 El comportamiento de un activo se puede resumir en:
-- Rentabilidad
+- _Rentabilidad_
 	- Valor esperado de los retornos de un activo
-- Riesgo
+- _Riesgo_
 	- Desviación estándar de sus retornos
 
 
@@ -127,7 +127,7 @@ Tipos de riesgos:
 		- Debido a no poder negociar los activos con facilidad
 - _Riesgos no cuantificables_
 	- _Riesgo legal_
-		- Se debe al riesgo al que se encuentran expuestas las inversones debido a cambios regulatorios
+		- Se debe al riesgo al que se encuentran expuestas las inversiones debido a cambios regulatorios
 	- _Riesgo operativo_
 		- Se genera por fallas de origen humano de los operadores
 	- _Riesgo reputacional_
@@ -173,7 +173,7 @@ Se puede evaluar el retorno y el riesgo de un portafolio, al considerar varios e
 
 ![](attachments/Pasted%20image%2020230522004401.png)
 
-En este ejemplo se ve que en el primer caso se invirtió todo en A. Eso quiere decir que el activo $A$ tiene una rentabilidad del $13.39\%$ . Cada uno de los retornos del portafolio es obtenido mediante:
+En este ejemplo se ve que en el primer caso se invirtió todo en A. Eso quiere decir que el activo $A$ tiene una rentabilidad del $13.39\%$ . Cada uno de los retornos de los portafolios conformados es obtenido mediante:
 
 ![](attachments/Pasted%20image%2020230522004841.png)
 

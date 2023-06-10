@@ -3,7 +3,7 @@
 
 ---
 
-- [ ] Señales
+- [ ] Señales II
 	- [x] Apuntes
 	- [x] Ejercicios del parcial
 	- [x] Actividad 3 (LUNES)
@@ -12,6 +12,7 @@
 - [ ] Servos
 	- [ ] Apuntes
 	- [x] Servomotor sizing
+	- [ ] Parcial 2
 	- [ ] Proyecto
 - [ ] Fluidos
 	- [x] Terminar de pasar los apuntes de cinemática
@@ -20,18 +21,19 @@
 	- [ ] Apuntes
 	- [ ] Taller 3
 	- [ ] Parcial
-- [ ] Digital
+- [ ] Digital II
 	- [ ] Apuntes
 	- [x] Módulo i2s
 	- [ ] Módulo de los motores
 	- [ ] Integración en Litex de todos los módulos
 	- [ ] Firmware
-- [ ] Finanzas
+	- [ ] Modelado del auto
+- [x] Finanzas
 	- [x] Apuntes: Video
 	- [x] OVA 11
 	- [x] Taller (MIÉRCOLES - 31)
 	- [x] Quiz
-	- [ ] Parcial: Estudiar
+	- [x] Parcial: Estudiar
 - [ ] Mecanismos
 	- [x] Proyecto
 	- [x] Apuntes
@@ -48,8 +50,10 @@
 	- [x] Apuntes: Dinámica de mecanismos
 	- [ ] Apuntes: Diseño de levas
 	- [ ] Actividad de práctica: Dinámica
+	- [ ] Actividad: Diseño de levas (17)
+	- [ ] Proyecto
 
-- [x] Deutsch
+- [ ] Deutsch
 	- [ ] Estudiar
 
 - [ ] Chem-e-car

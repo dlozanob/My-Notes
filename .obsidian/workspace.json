@@ -4,21 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ced4db0cada60d93",
+        "id": "ecc59dfce051e3cb",
         "type": "tabs",
         "children": [
           {
-            "id": "ba23cbb28d48d85f",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "5836d7ec29dc3c44",
+            "id": "9013e52f60990968",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,31 +20,27 @@
             }
           },
           {
-            "id": "aba885d0e6d28254",
+            "id": "52d6608a26c827b3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Servomecanismos.md",
-                "mode": "preview",
-                "source": false
+                "file": "Excalidraw/blackboard.excalidraw.md"
               }
             }
           },
           {
-            "id": "5c3b792a03d24f18",
+            "id": "77fae329ff89e68d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Main.md",
-                "mode": "preview",
-                "source": false
+                "file": "Excalidraw/blackboard.excalidraw.md"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -124,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Main.md",
+                "file": "Excalidraw/blackboard.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Main.md",
+                "file": "Excalidraw/blackboard.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Main.md"
+                "file": "Excalidraw/blackboard.excalidraw.md"
               }
             }
           },
@@ -218,44 +204,44 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "5c3b792a03d24f18",
+  "active": "77fae329ff89e68d",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Main.md",
-    "attachments/Pasted image 20230608094358.png",
-    "attachments/Pasted image 20230608094241.png",
-    "attachments/Pasted image 20230608093401.png",
-    "attachments/Pasted image 20230608092943.png",
-    "Excalidraw/kaliDrawings.excalidraw.md",
-    "Servomecanismos.md",
-    "Excalidraw/blackboard.excalidraw.md",
     "TO DO.md",
+    "Excalidraw/blackboard.excalidraw.md",
+    "Fórmulas Financieras Excel.md",
+    "Finanzas.md",
+    "Excalidraw/attachments/Pasted Image 20230609151220_610.png",
+    "Excalidraw/attachments/Pasted Image 20230609151204_562.png",
+    "Excalidraw/attachments/Pasted Image 20230609151103_630.png",
+    "Excalidraw/attachments/Pasted Image 20230609151015_574.png",
+    "Excalidraw/attachments/Pasted Image 20230609150827_574.png",
+    "Excalidraw/attachments/Pasted Image 20230609150435_593.png",
+    "Excalidraw/attachments/Pasted Image 20230609150419_573.png",
+    "Excalidraw/attachments/Pasted Image 20230609145624_692.png",
+    "Excalidraw/attachments/Pasted Image 20230609145552_618.png",
+    "Excalidraw/attachments/Pasted Image 20230609143234_676.png",
+    "Main.md",
+    "Tema 1. Teoría sobre estructura de capital%2C impuestos y ventaja tributaria.md",
+    "Tema 1. Introducción a los portafolios de renta variable y fondos de inversión.md",
+    "Módulo 5. Teoría de portafolio.md",
+    "Tema 4. Modelo CAPM; SML; CML y APT.md",
+    "Tema 3. Medición del rendimiento y del riesgo.md",
+    "Tema 2. Teoría de la eficiencia de los mercados.md",
+    "Módulo 6. Teoría de la estructura de capital.md",
+    "Tema 2. Beta apalancado y desapalancado%2C betas proxy y costo de capital.md",
+    "Tema 2. Función de oferta y demanda.md",
+    "Módulo 1. Economía y matemática financiera.md",
+    "Módulo 2. Diagnóstico financiero.md",
+    "Servomecanismos.md",
+    "myDrawings.md",
     "Excalidraw/whiteboard.excalidraw.md",
+    "Excalidraw/kaliDrawings.excalidraw.md",
+    "conflict-files-obsidian-git.md",
     "Cap. 7. Filtros digitales.md",
-    "Excalidraw/attachments/Pasted Image 20230607113403_888.png",
-    "Excalidraw/attachments/Pasted Image 20230607112219_916.png",
     "Señales y Sistemas II.md",
     "Dinámica de Fluidos.md",
     "Fundamentos de Mecánica de Fluidos.md",
-    "Tema 1. Teoría sobre estructura de capital%2C impuestos y ventaja tributaria.md",
-    "Tema 3. Medición del rendimiento y del riesgo.md",
-    "Módulo 5. Teoría de portafolio.md",
-    "Tema 2. Teoría de la eficiencia de los mercados.md",
     "Tema 5. Valoración de operaciones.md",
-    "Módulo 6. Teoría de la estructura de capital.md",
-    "Finanzas.md",
-    "Electrónica Digital II.md",
-    "Cinemática de Fluidos.md",
-    "Tema 2. Beta apalancado y desapalancado%2C betas proxy y costo de capital.md",
-    "attachments/Pasted image 20230606075141.png",
-    "attachments/Pasted image 20230606074819.png",
-    "attachments/Pasted image 20230606074634.png",
-    "attachments/Pasted image 20230606074226.png",
-    "Excalidraw/Drawing 2023-06-06 07.34.10.excalidraw.md",
-    "Mecanismos.md",
-    "Diseño de levas.md",
-    "Análisis dinámico.md",
-    "Fundamentos de cinemática de mecanismos.md",
     "Local Backup.rar",
     "Local Backup/Excalidraw/attachments",
     "Local Backup/Excalidraw",

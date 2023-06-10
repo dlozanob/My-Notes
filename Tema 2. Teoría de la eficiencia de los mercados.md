@@ -28,7 +28,7 @@ Existe una oportunidad de _arbitraje_ cuando los precios de un bien no son los m
 
 Un ejemplo de arbitraje es:
 Las acciones de Telmex están en México a $8.50\,\,MXP$ por acción.
-El ADR de Telmex (representa 20 acciones) está en Estados Unidos a $49\,\,USD$.
+El ADR de Telmex representa 20 acciones. En Estados Unidos cada acción cuesta $49\,\,USD$.
 La tasa de cambio es de $3.50\,\,MXP \to 1\,\,USD$ .
 
 Por tanto, comprar un ADR en Estados Unidos sale por $3430\,\,MXP$, mientras que en México sale por $170\,\,MXP$.
@@ -36,7 +36,7 @@ Por tanto, comprar un ADR en Estados Unidos sale por $3430\,\,MXP$, mientras que
 El arbitraje consistirá en comprar acciones en México y venderlas en Estados Unidos.
 
 >[!Note]
->Un _ADR (American Depositary Receipt_  de Telmex es un instrumento financiero en los mercados de valores de Estados Unidos que representa la propiedad de 20 acciones de la compañía
+>Un _ADR (American Depositary Receipt)_  de Telmex es un instrumento financiero en los mercados de valores de Estados Unidos que representa la propiedad de 20 acciones de la compañía
 
 
 ## Análisis de inversiones
@@ -46,7 +46,7 @@ El arbitraje consistirá en comprar acciones en México y venderlas en Estados U
 	- Se asegura de que los precios presentes reflejen la información de los precios pasados, así como poder predecir precios futuros con los precios presentes
 	- Se basa en patrones
 - _Análisis fundamental_
-	- Se basa en el estudio del sector, la comáñía y su entorno para valorar sus acciones
+	- Se basa en el estudio del sector, la compañía y su entorno para valorar sus acciones
 	- Se asegura de que los precios revelen toda la información relevante disponible
 	- Tiene presente la impredictibilidad de los precios
 
@@ -54,11 +54,11 @@ El arbitraje consistirá en comprar acciones en México y venderlas en Estados U
 ## Niveles de eficiencia de Eugene Fama
 
 La hipótesis de eficiencia de los mercados propuesta por Eugene Fama definió 3 niveles de eficiencia:
-- Débil
+- _Débil_
 	- El precio del título refleja el precio pasado y la historia de transacciones del mismo
-- Semifuerte
+- _Semifuerte_
 	- El precio del título refleja toda la información pública e histórica disponible
-- Fuerte
+- _Fuerte_
 	- El precio del título refleja incluso la información privada
 
 
