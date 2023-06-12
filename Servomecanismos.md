@@ -40,7 +40,7 @@ SFC viene del francés _GRAFCET_ (gráfico funcional de comando por etapas y tra
 
 Es un sistema que integra los mundos digital y físico mediante redes de comunicación para realizar operaciones de control y monitoreo
 
-Un _gemelo digital_ es un modelo virtual que simula un sistema físico en tiempo real con ayuda de sensores. Uno de los programas que permiten modelar estos sistemas son Siemens NX - MCD.
+Un _gemelo digital_ es un modelo virtual que simula un sistema físico en tiempo real con ayuda de sensores. Uno de los programas que permiten modelar estos sistemas son Siemens NX - MCD (_Mechatronic Concept Design_).
 
 El controlador se comunica con el gemelo digital mediante el protocolo _OPC_ (Open Platform Communications), el cual es un estándar para la comunicación de máquinas en automatización.
 
