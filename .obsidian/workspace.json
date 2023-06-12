@@ -18,67 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "6f4ca20183968e26",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LaTeX.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6ad3fd2dccf0e539",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cap. 7. Filtros digitales.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fc6aef9b0c07d8be",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "8def1beacdb69b7f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linked note.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5197457f28f883ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cap. 5. Filtros analógicos.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -148,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md",
+                "file": "TO DO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md",
+                "file": "TO DO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md"
+                "file": "TO DO.md"
               }
             }
           },
@@ -242,13 +183,13 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "fc6aef9b0c07d8be",
+  "active": "9013e52f60990968",
   "lastOpenFiles": [
     "LaTeX.md",
-    "Excalidraw/blackboard.excalidraw.md",
+    "Linked note.md",
     "Cap. 7. Filtros digitales.md",
     "Cap. 5. Filtros analógicos.md",
-    "Linked note.md",
+    "Excalidraw/blackboard.excalidraw.md",
     "Excalidraw/attachments/Pasted Image 20230611221307_462.png",
     "TO DO.md",
     "Cap. 4. Análisis cualitativo de sistemas LTI.md",

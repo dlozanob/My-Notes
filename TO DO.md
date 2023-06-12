@@ -7,7 +7,7 @@
 	- [x] Apuntes
 	- [x] Ejercicios del parcial
 	- [x] Actividad 3 (LUNES)
-	- [ ] Actividad 4 (MIÉRCOLES)
+	- [x] Actividad 4 (MIÉRCOLES)
 	- [ ] Proyecto (26)
 - [ ] Servos
 	- [ ] Apuntes
