@@ -5,3 +5,10 @@ Hey! This is a linked note.
 
 ---
 
+
+
+$$
+\begin{align*}
+	s = \frac{\bar{\omega_{p}}}{\bar{s}}
+\end{align*}
+$$
