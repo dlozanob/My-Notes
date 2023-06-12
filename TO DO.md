@@ -56,8 +56,8 @@
 - [ ] Deutsch
 	- [ ] Estudiar
 
-- [ ] Chem-e-car
+- [x] Chem-e-car
 	- [x] Investigación
-	- [ ] Tarea 2
+	- [x] Tarea 2
 
 ---

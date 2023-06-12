@@ -20,17 +20,43 @@
             }
           },
           {
-            "id": "52d6608a26c827b3",
+            "id": "6f4ca20183968e26",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md"
+                "file": "LaTeX.md",
+                "mode": "preview",
+                "source": false
               }
             }
           },
           {
-            "id": "77fae329ff89e68d",
+            "id": "6ad3fd2dccf0e539",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cap. 7. Filtros digitales.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "996c0e383ece7291",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cap. 5. Filtros analógicos.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fc6aef9b0c07d8be",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -40,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -204,22 +230,30 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "77fae329ff89e68d",
+  "active": "fc6aef9b0c07d8be",
   "lastOpenFiles": [
+    "Cap. 7. Filtros digitales.md",
+    "LaTeX.md",
+    "Cap. 5. Filtros analógicos.md",
+    "Cap. 4. Análisis cualitativo de sistemas LTI.md",
+    "Señales y Sistemas II.md",
+    "Cap. 6. Sistemas en tiempo discreto.md",
     "TO DO.md",
+    "LaTeX Template.md",
     "Excalidraw/blackboard.excalidraw.md",
+    "Excalidraw/attachments/Pasted Image 20230610184158_216.png",
+    "Excalidraw/attachments/Pasted Image 20230610175146_169.png",
+    "Excalidraw/attachments/Pasted Image 20230610174825_166.png",
+    "Excalidraw/attachments/Pasted Image 20230610174723_315.png",
+    "Excalidraw/attachments/Pasted Image 20230610173222_165.png",
+    "Excalidraw/attachments/Pasted Image 20230610173140_392.png",
+    "Excalidraw/attachments/Pasted Image 20230610172936_159.png",
+    "Excalidraw/whiteboard.excalidraw.md",
     "Fórmulas Financieras Excel.md",
     "Finanzas.md",
     "Excalidraw/attachments/Pasted Image 20230609151220_610.png",
     "Excalidraw/attachments/Pasted Image 20230609151204_562.png",
     "Excalidraw/attachments/Pasted Image 20230609151103_630.png",
-    "Excalidraw/attachments/Pasted Image 20230609151015_574.png",
-    "Excalidraw/attachments/Pasted Image 20230609150827_574.png",
-    "Excalidraw/attachments/Pasted Image 20230609150435_593.png",
-    "Excalidraw/attachments/Pasted Image 20230609150419_573.png",
-    "Excalidraw/attachments/Pasted Image 20230609145624_692.png",
-    "Excalidraw/attachments/Pasted Image 20230609145552_618.png",
-    "Excalidraw/attachments/Pasted Image 20230609143234_676.png",
     "Main.md",
     "Tema 1. Teoría sobre estructura de capital%2C impuestos y ventaja tributaria.md",
     "Tema 1. Introducción a los portafolios de renta variable y fondos de inversión.md",
@@ -234,14 +268,6 @@
     "Módulo 2. Diagnóstico financiero.md",
     "Servomecanismos.md",
     "myDrawings.md",
-    "Excalidraw/whiteboard.excalidraw.md",
-    "Excalidraw/kaliDrawings.excalidraw.md",
-    "conflict-files-obsidian-git.md",
-    "Cap. 7. Filtros digitales.md",
-    "Señales y Sistemas II.md",
-    "Dinámica de Fluidos.md",
-    "Fundamentos de Mecánica de Fluidos.md",
-    "Tema 5. Valoración de operaciones.md",
     "Local Backup.rar",
     "Local Backup/Excalidraw/attachments",
     "Local Backup/Excalidraw",

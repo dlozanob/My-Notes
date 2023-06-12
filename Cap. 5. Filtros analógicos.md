@@ -54,7 +54,7 @@ Al intervalo $\omega_{s} - \omega_{p}$ se le llama _banda de transición_.
 
 $$
 \begin{align*}
-	\alpha_{p} = 20\log\left( \frac{A_{0}}{A_{1}} \right)\,\,dB
+	\boxed{\alpha_{p} = 20\log\left( \frac{A_{0}}{A_{1}} \right)\,\,dB}
 \end{align*}
 $$
 
@@ -62,7 +62,7 @@ $$
 
 $$
 \begin{align*}
-	\alpha_{s} = 20\log\left( \frac{A_{0}}{A_{2}} \right)\,\,dB
+	\boxed{\alpha_{s} = 20\log\left( \frac{A_{0}}{A_{2}} \right)\,\,dB}
 \end{align*}
 $$
 
@@ -70,7 +70,7 @@ $$
 
 $$
 \begin{align*}
-	T_{d}(\omega) = -\frac{d}{d\omega} \phi(\omega)
+	\boxed{T_{d}(\omega) = -\frac{d}{d\omega} \phi(\omega)}
 \end{align*}
 $$
 
