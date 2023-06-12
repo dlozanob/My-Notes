@@ -66,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md",
+                "file": "LaTeX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md",
+                "file": "LaTeX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md"
+                "file": "LaTeX.md"
               }
             }
           },
@@ -230,17 +230,18 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "fc6aef9b0c07d8be",
+  "active": "6f4ca20183968e26",
   "lastOpenFiles": [
     "Cap. 7. Filtros digitales.md",
     "LaTeX.md",
+    "Excalidraw/blackboard.excalidraw.md",
+    "Excalidraw/attachments/Pasted Image 20230611221307_462.png",
+    "TO DO.md",
     "Cap. 5. Filtros analógicos.md",
     "Cap. 4. Análisis cualitativo de sistemas LTI.md",
     "Señales y Sistemas II.md",
     "Cap. 6. Sistemas en tiempo discreto.md",
-    "TO DO.md",
     "LaTeX Template.md",
-    "Excalidraw/blackboard.excalidraw.md",
     "Excalidraw/attachments/Pasted Image 20230610184158_216.png",
     "Excalidraw/attachments/Pasted Image 20230610175146_169.png",
     "Excalidraw/attachments/Pasted Image 20230610174825_166.png",
@@ -253,7 +254,6 @@
     "Finanzas.md",
     "Excalidraw/attachments/Pasted Image 20230609151220_610.png",
     "Excalidraw/attachments/Pasted Image 20230609151204_562.png",
-    "Excalidraw/attachments/Pasted Image 20230609151103_630.png",
     "Main.md",
     "Tema 1. Teoría sobre estructura de capital%2C impuestos y ventaja tributaria.md",
     "Tema 1. Introducción a los portafolios de renta variable y fondos de inversión.md",
@@ -267,7 +267,6 @@
     "Módulo 1. Economía y matemática financiera.md",
     "Módulo 2. Diagnóstico financiero.md",
     "Servomecanismos.md",
-    "myDrawings.md",
     "Local Backup.rar",
     "Local Backup/Excalidraw/attachments",
     "Local Backup/Excalidraw",
