@@ -5,6 +5,8 @@
 
 - [ ] Servos
 	- [ ] Apuntes
+		- [ ] Videos del martes
+		- [ ] Videos Control de Movimiento de Alto Desempeño (Jueves)
 	- [ ] Parcial 2
 	- [ ] Proyecto Académico
 	- [ ] Proyecto Industrial

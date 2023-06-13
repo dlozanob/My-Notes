@@ -11,6 +11,8 @@ Algunos conceptos clave:
 - _VFD_ : Variable Frequency Drivers
 - _FOC_ : Field Oriented Control
 - _IDT_ : Industrial DIgital Transformation
+- _LM_ : Linear Monolitics
+- _USPO_ : US Patent Office
 
 >[!Info]
 >Comúnmente las válvulas hidráulicas manejan un rango de 3-15 psi.
@@ -764,37 +766,254 @@ Un perfil trapezoidal suave evita el problema de los jerks
 ![](attachments/Pasted%20image%2020230413104034.png)
 
 
-## Actuadores eléctricos
+## Servomotor Sizing
 
+Para el proceso de selección de los mismos, se consideran 3 metodologías:
+- _HWIN_
+- _OMRON_
+- _Oriental Motors_
+
+Se deben de terner en cuenta las siguientes consideraciones:
+- Tecnología del motor
+- Voltaje
+- Potencia del motor
+- Velocidad máxima
+- Torque pico y torque rms (_torque nominal - rated torque_)
+- Relación de inercia (_Inertia Ratio - IR_)
+- Cálculo del torque dinámico (mediante el enfoque energético $\mathscr{L}$)
+
+Los motores poseen una corriente umbral para comenzar su movimiento.
+
+Existe un tiempo límite en el cual el motor puede mantenerse en su torque pico $T_{p}$ sin dañarse. Este suele estar entre los $1-3$ segundos.
+
+Los dirvers de los motores comúnmente poseen un registro para llevar continuamente un seguimiento sobre las variables. De tal manera que los encargados pueden determinar la causa del daño en caso de haberlo.
+
+Una menor relación de inercia $IR$ garantiza una mejor _maniobrabilidad (controlability)_ (no confundir con controlabilidad).
+
+>[!Note]
+>- Se recomienda una relación de inercia $IR \leq 10$ para high performance
+>- La velocidad nominal de los motores _BLDC_ se encuentran comúnmente en los rangos $3k - 6k\,\,rpm$
+
+
+### Curvas de Torque-Velocidad
+
+Los motores AC son más económicos, sin embargo, es más difícil hacer control de posición  con ellos, ya que, la velocidad del campo magnético del estator es mayor a la velocidad del rotor.
+
+En algunas aplicaciones se utilizan estos tipos de motores para hacer control de posición:
+- Campo dirigido
+- Campo controlado
+
+![](attachments/Pasted%20image%2020230612140717.png)
+
+Al modelar matemáticamente un motor _BLDC_ sucede lo siguiente:
+
+![](attachments/Pasted%20image%2020230608093401.png)
+
+
+>[!Note]
+>- Cuando se dice motor AC a secas, se habla de un motor AC asincrónico
+>- El _Standard of Motors_ es la organización encargada de brindar los tamaños estándar de los motores
+>- _IP_ de un motor es su Protección de Ingreso (_Ingress Protection_)
+>- Las _bombas electrosumergidas_ trabajan en ambientes sumergidos
+
+
+## El Método Lagrangiano
+
+Consideremos el caso:
+
+![](attachments/Pasted%20image%2020230612141441.png)
+
+Abordándolo desde la perspectiva de _Newton-Euler_ :
+
+$$
+\begin{align*}
+	m\ddot{x} = F_{e} - kx -b\dot{x} \to F_{e} = m\ddot{x} + bx + kx
+\end{align*}
+$$
+
+Ahora bien, la perspectiva de _Euler-Lagrange_ (método energético) requiere el cálculo del _Lagrangiano_ :
+
+$$
+\begin{align*}
+	\boxed{\mathscr{L}:=\underbrace{ K }_{ E.\,\,Cinética }-\underbrace{ U }_{ E.\,\,Potencial }}
+\end{align*}
+$$
+
+Donde:
+- $K = \underbrace{ K_{T} }_{ Traslacional } + \underbrace{ K_{R} }_{ Rotacional }$
+- $U = \underbrace{ U_{E} }_{ E.\,\,Elástica } + \underbrace{ U_{G} }_{ E.\,\,Gravitacional }$
+
+Se introduce la ecuación de movimiento general:
+
+$$
+\begin{align*}
+	\boxed{\sum \tau_{e} = \frac{d}{dt}\left( \frac{\partial \mathscr{L}}{\partial \dot{q}}\right) - \frac{\partial \mathscr{L}}{\partial q}}
+\end{align*}
+$$
+
+- $\tau_{e}$ : Fuerza o torque externo
+- $q$ : Variables generalizadas (Ex. $\theta$, $x$)
+
+Cuando existen fuerzas o torques disipativos ($\tau_{d}$) :
+
+$$
+\begin{align*}
+	\sum \tau_{e} = \tau_{e} - \tau_{d} 
+\end{align*}
+$$
+
+Ahora bien, apliquemos esto al caso anterior.
+Hallemos el Lagrangiano:
+
+$$
+\begin{align*}
+	\mathscr{L} &= K - U = K_{T} - U_{e} \\\\
+	&= \frac{m\dot{x}^{2}}{2} - \frac{kx}{2}
+\end{align*}
+$$
+
+Se define la variable $q$ :
+
+$$
+\begin{align*}
+	q = x \to \dot{q} = \dot{x}
+\end{align*}
+$$
+
+Entonces:
+
+$$
+\begin{align*}
+	&\frac{\partial \mathscr{L}}{\partial \dot{q}} = m\dot{x} - 0 \\\\
+	& \frac{d}{dt}\left( \frac{\partial \mathscr{L}}{\partial \dot{q}} \right) = m\ddot{x} \\\\
+	& \frac{\partial \mathscr{L}}{\partial q} = -kx
+\end{align*}
+$$
+
+Por tanto:
+
+$$
+\begin{align*}
+	&\tau_{e} - \cancel{ \tau_{d} }^{0} = m\ddot{x} + kx \\\\
+	&F_{e} = m\ddot{x} + kx
+\end{align*}
+$$
+
+La cual es la misma solución obtenida por el método de _Newton-Euler_, sin embargo, no se tiene en cuenta el término disipativo.
+
+>[!Note]
+>- _Dinámica directa_
+>	- A partir de fuerzas determinar los movimientos
+>- _Dinámica inversa_
+>	- A partir de movimiento analizar las cargas presentes
+
+
+---
+
+- __Ejemplo__ :
+
+![](attachments/Pasted%20image%2020230612143448.png)
+
+El cuerpo presenta rotación pero también traslación.
+
+Se debe de tener en cuenta el tensor de inercia:
+
+$$
+\begin{align*}
+	I^{C} = 
+	\begin{pmatrix}
+I_{xx} & I_{xy} & I_{xz} \\
+I_{yx} & I_{yy} & I_{yz} \\
+I_{zx} & I_{zy} & I_{zz}
+\end{pmatrix}
+\end{align*}
+$$
+
+El cuerpo solo presenta velocidad angular en el eje $z$, además de poseer únicamente un momento de inercia distinto a cero en $I_{zz}$ :
+
+$$
+\begin{align*}
+	I^{C}\cdot \vec{\omega} = I^{C}\cdot 
+	\begin{pmatrix}
+\omega_{x} \\
+\omega_{y} \\
+\omega_{z}
+\end{pmatrix}
+=
+\begin{pmatrix}
+0 \\
+0 \\
+I_{zz}\omega_{z}
+\end{pmatrix}
+\end{align*}
+$$
+
+---
+
+¿Qué hacer cuando se tienen múltiples cuerpos?
+
+$$
+\begin{align*}
+	\begin{pmatrix}
+\tau_{e_{1}} \\
+\tau_{e_{2}} \\ \\
+. \\
+. \\
+\tau_{e_{n}} \\
+\end{pmatrix} = \frac{d}{dt}
+\begin{pmatrix}
+\frac{\partial \mathscr{L}}{\partial \dot{q}_{1}} \\
+\frac{\partial \mathscr{L}}{\partial \dot{q}_{2}} \\
+. \\
+. \\
+\frac{\partial \mathscr{L}}{\partial \dot{q}_{n}}
+\end{pmatrix} -
+\begin{pmatrix}
+\frac{\partial \mathscr{L}}{\partial q_{1}} \\
+\frac{\partial \mathscr{L}}{\partial q_{2}} \\
+. \\
+. \\
+\frac{\partial \mathscr{L}}{\partial q_{n}}
+\end{pmatrix}
+\end{align*}
+$$
+
+Se plantea la operación vectorial que recopila la ecuación de Lagrange de movimiento en cada uno de los cuerpos.
+
+Además:
+
+$$
+\begin{align*}
+	&K = \sum K_{i} \\\\
+	&U = \sum U_{i}
+\end{align*}
+$$
+
+
+## Actuadores eléctricos
 
 
 ![](attachments/Pasted%20image%2020230518093020.png)
 
-
-Los motores _Switched_ también se les conoce como motores de _inductancia conmutada_.
+Los motores _Switched_ también se les conocen como motores de _inductancia conmutada_.
 A los motores de imán permanente se les conoce como _PMSM (Permanent Magnet Synchronous Motor)_
 
 >[!Note]
 >Motores de baja velocidad -> $\omega<2000$ rpm
 
 
-
 ¿Cómo seleccionar un actuador eléctrico de acuerdo a la aplicación?
 
-R/ Los más usados en motion control son los AC de inducción
-Control de velocidad -> AC
-Motion Control -> DC
+Los más usados en _motion control_ son los AC de inducción.
+Para contol de velocidad usar motores AC (asíncronos)
+En algunas aplicaciones de _motion Control_ se usan DC.
 
 
-En control de velocidad se usan VFD's (variadores de frecuencias) -> Variación de velocidad
+En control de velocidad se usan _VFD's_ (variadores de frecuencias) -> Variación de velocidad
 
 ![](attachments/Pasted%20image%2020230511104909.png)
 
-Vel inferior a la del campo -> async
-
-
-1.  ¿Qué opciones existen en el mercado, marcas recomendadas?
-
+Los motores asíncronos tienen la característica de que la velocidad del rotor es inferior a la del campo del estator.
 
 >[!Note]
 >Los motores PAP usan lazos abiertos, sin embargo, en aplicaciones de alta precisión usan lazo cerrado, ya que, la información enviada desde el driver puede perderse -> desfase
@@ -806,16 +1025,16 @@ Vel inferior a la del campo -> async
 >	- TU Delft
 >	- Tu/e
 
-Lazo de control anidado -> Incremento en el desempeño, menor tiempo de respuesta
+Lazo de control anidado -> Incremento en el desempeño, menor tiempo de respuesta.
 
 >[!Note]
 >Referencias de puentes H recomendados para motores DC:
 >- L293
 >- L298
 
+La estructura general de un _puente H_ es la siguiente:
 
 ![](attachments/Pasted%20image%2020230518105523.png)
-
 
 En algunos casos se utilizan diodos de protección:
 
@@ -835,9 +1054,39 @@ Los transistores _IGBT (Isled Gate Bipolar Transistor)_  bipolares de compuerta 
 >[!Info]
 >_NIkola Tesla_ (1856 - 1943) desarrollá a sus 33 años 7 patentes (1888)
 
-La _densidad de torque_ relaciona al torque producido por el volumen del motor
+La _densidad de torque_ relaciona al torque producido por el volumen del motor.
 
-En motores DC es posible tener un rotor interno o también un rotor externo 
+En motores DC es posible tener un rotor interno o también un rotor externo.
+
+
+>[!Note]
+>La velocidad nominal de los motores de inducción oscila entre el rango: $1200\sim 3500\,\,rpm$
+
+Órdenes derivados de la posición:
+- $\frac{dx}{dt}$ -> Velocidad
+- $\frac{d^{2}x}{dt^{2}}$ -> Aceleración
+- $\frac{d^{3}x}{dt^{3}}$ -> _Jerk_
+- $\frac{d^{4}x}{dt^{4}}$ -> _Snap / Jounce_
+- $\frac{d^{5}x}{dt^{5}}$ -> _Crackle_
+- $\frac{d^{6}x}{dt^{6}}$ -> _Pop_
+
+>[!Note]
+>En la industria de los parques de atracciones se debe considerar el _Crackle_ para el diseño
+
+Se busca reducir la _reluctancia_ (resistencia magnética) en los motores para lograr una mayor eficiencia.
+
+Tipos de diseño de motores:
+- Diseño geométrico
+- Diseño térmico
+	- Usa _FEA (Finite Element Analysis)_
+- Diseño mecánico y eléctrico
+	- Usa algoritmos de optimización
+	- En el diseño eléctrico se tienen en cuenta las variables de inductancia $L$ y resistencia $R$
+	- En el diseño magnético se busca reducir la reluctancia ($\mathscr{R}$)
+
+>[!Info]
+>Para importar un proyecto de modelado CAD a Simulink:
+>Matlab/Simulink -> Simscape -> simMechanics
 
 ---
 
@@ -928,8 +1177,7 @@ $I_{s}(0)$ es la condición incial de corriente.
 ![](attachments/Pasted%20image%2020230530105054.png)
 
 Si la señal PWM (voltaje de entrada) opera a una frecuencia alta, la corriente no fluctuará mucho en el tiempo, por lo que se generará un torque mucho más constante.
-Esta frecuencia comúnmene está en el rango $40$ - $100\,\,kHz$ .
-
+Esta frecuencia comúnmente está en el rango $40$ - $100\,\,kHz$ .
 
 - Parámetros:
 	- Naturaleza eléctrica
@@ -944,12 +1192,29 @@ Esta frecuencia comúnmene está en el rango $40$ - $100\,\,kHz$ .
 		- $k_{b}$ (b -> BEMF: Back electric magnetic force)
 
 
----
+>[!Note]
+>En motores pequeños se produce un voltaje por rpm en el rango: $0.3\sim 2\,\,mV/rpm$
 
-Al modelar matemáticamente un motor _BLDC_ sucede lo siguiente:
+La velocidad nominal de un motor satisface:
 
-![](attachments/Pasted%20image%2020230608093401.png)
+$$
+\begin{align*}
+	\omega_{m} = \frac{120\cdot f}{p}
+\end{align*}
+$$
 
+- $f$ : Frecuencia de la corriente suministrada ($50$, $60\,\,Hz$)
+- $p$ : Número de pares de polos
+
+>[!Info]
+>_COMSOL_ es un software para el modelamiento de sistemas multifísicos
+
+
+## Caracterización de la planta
+
+El concepto de planta ampliada involucra:
+
+![](attachments/Pasted%20image%2020230612160200.png)
 
 - ¿Cuál es la conveniencia de usar lazos de control anidados?
 	- Se utilizan para mejorar el desempeño
@@ -958,9 +1223,6 @@ Al modelar matemáticamente un motor _BLDC_ sucede lo siguiente:
 Los lazos de control anidados se activan de acuerdo al parámetro que se quiere controlar.
 
 ![](attachments/Pasted%20image%2020230608094358.png)
-
->[!Note]
->En el punto 2: Comparar el resultado con y sin retroalimentación de torque
 
 >[!Note]
 >Cualquier controlador debe poder programarse en _Ladder_
@@ -975,42 +1237,49 @@ En Ladder:
 - Scan rate: 1kb/ms
 
 
+Las señales _PWM_ deben ser operadas mínimo a $1\,\,kHz$ .
+Frecuencias más altas logran un torque más uniforme.
+
+Para el driver el motor es una carga eléctrica. El sistema es no lineal, hay caidas de tensión.
+
+Se recomienda no combinar las tierras de la fuente de poder que va conectada al driver y la del sistema de control. Esto podría alterar el sistema.
+
+![](attachments/Pasted%20image%2020230612162435.png)
+
+En caso de hacerlo, se puede utilizar un _optoacoplador_ para evitar este tipo de problemas.
+
+En control se utiliza:
+
+$$
+\begin{align*}
+	CO(t) = P\cdot e(t) + \underbrace{ \bar{CO} }_{ Bias }
+\end{align*}
+$$
+
+Donde $e(t)$ es el error.
+
+En un sistema de lazo cerrado de segundo orden:
+
+$$
+\begin{align*}
+	\frac{k\cdot \omega_{n}^{2}}{s^{2} + 2\zeta\omega_{n} + \omega_{n}^{2}}
+\end{align*}
+$$
+
+- $k$ : Gain
+- $\zeta$ : Damping
+- $\omega_{n}$ : Natural Frequency
+
+$\zeta$ afecta al _overshut_ -> Sobrepico. Aumentar $\zeta$ lo elimina, sin embargo, aumenta el $\tau$.
+
+Para hallar un balance entre $\zeta$ y $\omega_{n}$ se utilizan los siguientes métodos:
+- _Root Locus_
+- Z. N (1942)
+- _Pole Placement_
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
----
-
-# TO DO
-
-- [x] Videos
-- [x] Docs
-- [x] Procesos de selección
-- [x] Tarea
-- [ ] Videos del martes
-- [ ] Videos Control de Movimiento de Alto Desempeño (Jueves)
-
-
-
----
-
+>[!Note]
+>En el punto 2: Comparar el resultado con y sin retroalimentación de torque
 
 
 
