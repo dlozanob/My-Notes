@@ -4,57 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "ecc59dfce051e3cb",
+        "id": "4dfc15f72695342c",
         "type": "tabs",
         "children": [
           {
-            "id": "9013e52f60990968",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TO DO.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "93c23d2142c5d7de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Servomecanismos.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "40e05645f1cc19a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linked note.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c94784d289248ea8",
+            "id": "5edb473d2af29659",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md"
+                "file": "Excalidraw/whiteboard.excalidraw.md"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -124,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md",
+                "file": "Excalidraw/whiteboard.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md",
+                "file": "Excalidraw/whiteboard.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md"
+                "file": "Excalidraw/whiteboard.excalidraw.md"
               }
             }
           },
@@ -203,7 +166,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249.5
+    "width": 249.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -217,12 +181,13 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "c94784d289248ea8",
+  "active": "5edb473d2af29659",
   "lastOpenFiles": [
     "Linked note.md",
+    "TO DO.md",
+    "Servomecanismos.md",
     "Excalidraw/blackboard.excalidraw.md",
     "LaTeX.md",
-    "Servomecanismos.md",
     "Excalidraw/attachments/Pasted Image 20230612223748_079.png",
     "Excalidraw/attachments/Pasted Image 20230612223733_052.png",
     "Excalidraw/attachments/Pasted Image 20230612223701_118.png",
@@ -232,7 +197,6 @@
     "attachments/Pasted image 20230612210406.png",
     "attachments/Pasted image 20230612205727.png",
     "attachments/Pasted image 20230612204854.png",
-    "TO DO.md",
     "attachments/Pasted image 20230612162435.png",
     "Análisis dinámico.md",
     "Mecanismos.md",
