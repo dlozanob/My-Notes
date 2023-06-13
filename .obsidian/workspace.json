@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ab78fe5e86ae1dc3",
+        "id": "79c0a092eeb5bd15",
         "type": "tabs",
         "children": [
           {
-            "id": "1ef75ced90406402",
+            "id": "8aecd2136f90f71a",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -18,19 +18,16 @@
             }
           },
           {
-            "id": "2547b9820dd4b90e",
+            "id": "5f900c9e6031bee5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Servomecanismos.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/blackboard.excalidraw.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Servomecanismos.md",
+                "file": "Excalidraw/kaliDrawings.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Servomecanismos.md",
+                "file": "Excalidraw/kaliDrawings.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Servomecanismos.md"
+                "file": "Excalidraw/kaliDrawings.excalidraw.md"
               }
             }
           },
@@ -194,33 +191,33 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "2547b9820dd4b90e",
+  "active": "8aecd2136f90f71a",
   "lastOpenFiles": [
-    "attachments/Pasted image 20230608094358.png",
+    "Excalidraw/blackboard.excalidraw.md",
     "Excalidraw/kaliDrawings.excalidraw.md",
     "Servomecanismos.md",
+    "Cap. 5. Filtros analógicos.md",
+    "Señales y Sistemas II.md",
+    "Excalidraw/whiteboard.excalidraw.md",
+    "Excalidraw/attachments/Pasted Image 20230608114607_115.png",
+    "Excalidraw/attachments/Pasted Image 20230608113451_972.png",
+    "Excalidraw/attachments/Pasted Image 20230608113307_925.png",
+    "Excalidraw/attachments/Pasted Image 20230608112836_836.png",
+    "Excalidraw/attachments/Pasted Image 20230608112152_630.png",
+    "attachments/Pasted image 20230608105357.png",
+    "attachments/Pasted image 20230608094358.png",
     "attachments/Pasted image 20230608094241.png",
     "attachments/Pasted image 20230608093401.png",
     "attachments/Pasted image 20230608092943.png",
     "myDrawings.md",
     "Main.md",
     "conflict-files-obsidian-git.md",
-    "Excalidraw/attachments/Pasted Image 20230607113403_888.png",
-    "Excalidraw/attachments/Pasted Image 20230607112219_916.png",
     "Electrónica Digital II.md",
-    "Excalidraw/attachments/Pasted Image 20230606083457_860.png",
-    "Excalidraw/attachments/Pasted Image 20230606083457_818.png",
-    "attachments/Pasted image 20230606075141.png",
-    "attachments/Pasted image 20230606074819.png",
-    "attachments/Pasted image 20230606074634.png",
     "Cap. 7. Filtros digitales.md",
-    "Señales y Sistemas II.md",
     "Linked note.md",
-    "Excalidraw/blackboard.excalidraw.md",
     "Módulo 6. Teoría de la estructura de capital.md",
     "Diseño de levas.md",
     "Análisis dinámico.md",
-    "Excalidraw/whiteboard.excalidraw.md",
     "Tema 1. Teoría sobre estructura de capital%2C impuestos y ventaja tributaria.md",
     "Módulo 6. Teoría de estructura de capital.md",
     "Finanzas.md",

@@ -944,6 +944,9 @@ Esta frecuencia comúnmene está en el rango $40$ - $100\,\,kHz$ .
 		- $k_{b}$ (b -> BEMF: Back electric magnetic force)
 
 
+>[!Note]
+>El parámetro $k_{v}$ (rpm/v) representa las revoluciones por minuto alcanzadas al alimentar con un voltio
+
 ---
 
 Al modelar matemáticamente un motor _BLDC_ sucede lo siguiente:
@@ -975,9 +978,11 @@ En Ladder:
 - Scan rate: 1kb/ms
 
 
+![](attachments/Pasted%20image%2020230608105357.png)
 
-
-
+>[!Note]
+>Botones de arranque -> NO
+>Botones de parada -> NC
 
 
 
