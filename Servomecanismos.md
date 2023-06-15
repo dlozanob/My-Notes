@@ -1354,7 +1354,7 @@ $S_{5}$ indica que la caja ya está posicionada para etiquetar.
 
 Nivel 1:
 
-![](attachments/Pasted%20image%2020230615102438.png)
+![](attachments/Pasted%20image%2020230615105616.png)
 
 Nivel 2:
 
