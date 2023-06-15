@@ -1318,10 +1318,45 @@ La siguiente implementación de la etapa final es correcta debido a que no se in
 
 - _Nivel 1 - Functional description_
 	- Descripción de las accciones
-	- No define los periféricos
+	- No define cómo implementarlas físicamente -> Sensores, actuadores
 - _Nivel 2 - Technological description_
-	- 
+	- Descripción de los sensores y actuadores que intervienen en las acciones
+	-  partir de Etapas se asocian Acciones. A partir de Transiciones se asocian Sensores
 - _Nivel 3 - Control programming_
+	- Se establece la lógica de control
+	- Se divide en dos partes:
+		- Sequenciamiento de etapas
+			- Memorización de activación de etapas
+			- Se memorizan con enclavamientos
+		- Activación de actuadores
+			- Asociación de accionamientos con etapas
+
+>[!Note]
+>Los cilindros electroneumáticos comúnmente se denotan con letras.
+>Para el cilindro $A$ :
+>- Extender cilindro $A+$
+>- Contraer cilindro $A-$
+
+>[!Note]
+>Salida interna = Relé interno = Marca = Out/Coil
+
+
+---
+
+- __Ejemplo__ :
+
+Etiquetadora de cajas:
+
+![](attachments/Pasted%20image%2020230615100926.png)
+
+El selector automático o manual, hace que la operación se ejecute por si misma o sea asistida por un operario.
+$S_{5}$ indica que la caja ya está posicionada para etiquetar.
+
+Nivel 1:
+
+![](attachments/Pasted%20image%2020230615102438.png)
+
+Nivel 2:
 
 
 
