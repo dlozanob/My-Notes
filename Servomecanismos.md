@@ -1282,6 +1282,53 @@ Para hallar un balance entre $\zeta$ y $\omega_{n}$ se utilizan los siguientes m
 >En el punto 2: Comparar el resultado con y sin retroalimentación de torque
 
 
+## GRAFCET y Ladder
+
+Metodología Top-down:
+Se habla de macroetapas divididas en subetapas.
+
+Elementos conceptuales:
+- Etapa
+	- Estado de operación
+- Transición
+	- Definida por alguna condición
+
+Reglas de construcción:
+- Una transición entre dos etapas
+- Una única etapa entre dos transiciones
+
+![](attachments/Pasted%20image%2020230615091937.png)
+
+![](attachments/Pasted%20image%2020230615094128.png)
+
+El _token_ es un elemento que define la etapa activa. Si la etapa $1$ se está ejecutando, esta posee un token en este momento, cuando se pasa a la otra etapa, su token se desactiva y se activa el de la etapa siguiente, la cual continua con la operación.
+
+>[!Note]
+>Las _redes de petri_, las cuales tienen una estrecha relación con máquinas de estado finito, precedieron a _GRAFCET_
+
+La etapa inicial se denota por un doble recuadro:
+
+![](attachments/Pasted%20image%2020230615093018.png)
+
+La siguiente implementación de la etapa final es correcta debido a que no se incumplen las reglas:
+
+![](attachments/Pasted%20image%2020230615093915.png)
+
+### Desarrollo de GRAFCET
+
+- _Nivel 1 - Functional description_
+	- Descripción de las accciones
+	- No define los periféricos
+- _Nivel 2 - Technological description_
+	- 
+- _Nivel 3 - Control programming_
+
+
+
+
+
+
+
 
 
 ## Proyecto académico

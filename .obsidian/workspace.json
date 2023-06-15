@@ -18,8 +18,31 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1666eb0b274eb649",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/blackboard.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "fc687768ae011bad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Servomecanismos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -89,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linked note.md",
+                "file": "Servomecanismos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linked note.md",
+                "file": "Servomecanismos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linked note.md"
+                "file": "Servomecanismos.md"
               }
             }
           },
@@ -183,11 +206,16 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "53b10dfa18eb183b",
+  "active": "fc687768ae011bad",
   "lastOpenFiles": [
-    "Cinemática de Fluidos.md",
+    "attachments/Pasted image 20230615094128.png",
     "Excalidraw/blackboard.excalidraw.md",
+    "Servomecanismos.md",
+    "attachments/Pasted image 20230615093915.png",
+    "attachments/Pasted image 20230615093018.png",
+    "attachments/Pasted image 20230615091937.png",
     "Linked note.md",
+    "Cinemática de Fluidos.md",
     "attachments/Pasted image 20230614213741.png",
     "attachments/Pasted image 20230614210818.png",
     "LaTeX Template.md",
@@ -198,9 +226,6 @@
     "Excalidraw/attachments/Pasted Image 20230614123439_400.png",
     "Excalidraw/attachments/Pasted Image 20230614123016_383.png",
     "Excalidraw/attachments/Pasted Image 20230614115804_397.png",
-    "Excalidraw/attachments/Pasted Image 20230614114933_407.png",
-    "Excalidraw/attachments/Pasted Image 20230614114101_394.png",
-    "Excalidraw/attachments/Pasted Image 20230614113311_389.png",
     "Dinámica de Fluidos.md",
     "Estática de Fluidos.md",
     "Cap. 4. Análisis cualitativo de sistemas LTI.md",
@@ -209,7 +234,6 @@
     "TO DO.md",
     "Fundamentos de Mecánica de Fluidos.md",
     "Fundamentos de cinemática de mecanismos.md",
-    "Servomecanismos.md",
     "LaTeX.md",
     "Análisis dinámico.md",
     "Mecanismos.md",
