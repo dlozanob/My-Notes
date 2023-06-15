@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "522b4d3131bd9607",
+        "id": "92e92c3b696d9f69",
         "type": "tabs",
         "children": [
           {
-            "id": "d278f8de719ea7dd",
+            "id": "53b10dfa18eb183b",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/whiteboard.excalidraw.md"
+                "file": "Linked note.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
@@ -87,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/whiteboard.excalidraw.md",
+                "file": "Linked note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/whiteboard.excalidraw.md",
+                "file": "Linked note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/whiteboard.excalidraw.md"
+                "file": "Linked note.md"
               }
             }
           },
@@ -181,8 +183,17 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "d278f8de719ea7dd",
+  "active": "53b10dfa18eb183b",
   "lastOpenFiles": [
+    "Cinemática de Fluidos.md",
+    "Excalidraw/blackboard.excalidraw.md",
+    "Linked note.md",
+    "attachments/Pasted image 20230614213741.png",
+    "attachments/Pasted image 20230614210818.png",
+    "LaTeX Template.md",
+    "attachments/Pasted image 20230614202756.png",
+    "linked{.md",
+    "Excalidraw/whiteboard.excalidraw.md",
     "Excalidraw/attachments/Pasted Image 20230614124326_397.png",
     "Excalidraw/attachments/Pasted Image 20230614123439_400.png",
     "Excalidraw/attachments/Pasted Image 20230614123016_383.png",
@@ -190,11 +201,7 @@
     "Excalidraw/attachments/Pasted Image 20230614114933_407.png",
     "Excalidraw/attachments/Pasted Image 20230614114101_394.png",
     "Excalidraw/attachments/Pasted Image 20230614113311_389.png",
-    "Excalidraw/attachments/Pasted Image 20230614111147_577.png",
-    "Linked note.md",
     "Dinámica de Fluidos.md",
-    "Cinemática de Fluidos.md",
-    "Excalidraw/whiteboard.excalidraw.md",
     "Estática de Fluidos.md",
     "Cap. 4. Análisis cualitativo de sistemas LTI.md",
     "Verilog.md",
@@ -202,11 +209,7 @@
     "TO DO.md",
     "Fundamentos de Mecánica de Fluidos.md",
     "Fundamentos de cinemática de mecanismos.md",
-    "Excalidraw/attachments/Pasted Image 20230613123950_281.png",
-    "Excalidraw/attachments/Pasted Image 20230613123700_127.png",
-    "Excalidraw/attachments/Pasted Image 20230613123203_113.png",
     "Servomecanismos.md",
-    "Excalidraw/blackboard.excalidraw.md",
     "LaTeX.md",
     "Análisis dinámico.md",
     "Mecanismos.md",
@@ -214,11 +217,9 @@
     "Cap. 5. Filtros analógicos.md",
     "Señales y Sistemas II.md",
     "Cap. 6. Sistemas en tiempo discreto.md",
-    "LaTeX Template.md",
     "Fórmulas Financieras Excel.md",
     "Finanzas.md",
     "Main.md",
-    "Tema 1. Teoría sobre estructura de capital%2C impuestos y ventaja tributaria.md",
     "Local Backup.rar",
     "Local Backup/Excalidraw/attachments",
     "Local Backup/Excalidraw",
