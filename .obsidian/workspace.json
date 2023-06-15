@@ -29,7 +29,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md",
+                "file": "Servomecanismos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md",
+                "file": "Servomecanismos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md"
+                "file": "Servomecanismos.md"
               }
             }
           },
@@ -193,11 +194,14 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "1666eb0b274eb649",
+  "active": "fc687768ae011bad",
   "lastOpenFiles": [
-    "Servomecanismos.md",
-    "attachments/Pasted image 20230615110012.png",
+    "attachments/Pasted image 20230615110639.png",
+    "attachments/Pasted image 20230615110631.png",
     "Excalidraw/blackboard.excalidraw.md",
+    "Servomecanismos.md",
+    "attachments/Pasted image 20230615110423.png",
+    "attachments/Pasted image 20230615110012.png",
     "attachments/Pasted image 20230615105616.png",
     "Excalidraw/whiteboard.excalidraw.md",
     "Linked note.md",
@@ -207,8 +211,6 @@
     "attachments/Pasted image 20230615102438.png",
     "attachments/Pasted image 20230615102349.png",
     "attachments/Pasted image 20230615101903.png",
-    "attachments/Pasted image 20230615100926.png",
-    "attachments/Pasted image 20230615094128.png",
     "Cinemática de Fluidos.md",
     "LaTeX Template.md",
     "linked{.md",

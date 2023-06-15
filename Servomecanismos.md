@@ -1352,13 +1352,14 @@ Etiquetadora de cajas:
 El selector automático o manual, hace que la operación se ejecute por si misma o sea asistida por un operario.
 $S_{5}$ indica que la caja ya está posicionada para etiquetar.
 
-Nivel 1:
 
 ![](attachments/Pasted%20image%2020230615110012.png)
 
-Nivel 2:
+Donde:
 
+![](attachments/Pasted%20image%2020230615110423.png)
 
+![](attachments/Pasted%20image%2020230615110639.png)
 
 
 
