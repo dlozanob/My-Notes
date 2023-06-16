@@ -797,8 +797,8 @@ Fisch ^ug75Bw9W
 Müsli
 Tee ^N4v1iNae
 
-BROT MIT MARMELADE
-mILCH ^ja8Uvc7n
+Brot mit Marmelade
+Milch ^ja8Uvc7n
 
 Brotchen, marmelade, Kässe
 Wurst, Ei
@@ -19325,7 +19325,7 @@ bcb1627401d6ac9cad1d9218893fc27def20c895: [[attachments/Pasted Image 20230615122
 			"type": "text",
 			"x": 20244.330169282064,
 			"y": 4866.004123185456,
-			"width": 442.7638854980469,
+			"width": 352.1518859863281,
 			"height": 90,
 			"angle": 0,
 			"strokeColor": "#000000",
@@ -19338,21 +19338,21 @@ bcb1627401d6ac9cad1d9218893fc27def20c895: [[attachments/Pasted Image 20230615122
 			"groupIds": [],
 			"roundness": null,
 			"seed": 1599553375,
-			"version": 33,
-			"versionNonce": 551642623,
+			"version": 57,
+			"versionNonce": 707660177,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1686851091993,
+			"updated": 1686851206494,
 			"link": null,
 			"locked": false,
-			"text": "BROT MIT MARMELADE\nmILCH",
-			"rawText": "BROT MIT MARMELADE\nmILCH",
+			"text": "Brot mit Marmelade\nMilch",
+			"rawText": "Brot mit Marmelade\nMilch",
 			"fontSize": 36,
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "BROT MIT MARMELADE\nmILCH",
+			"originalText": "Brot mit Marmelade\nMilch",
 			"lineHeight": 1.25
 		},
 		{
@@ -19424,6 +19424,34 @@ bcb1627401d6ac9cad1d9218893fc27def20c895: [[attachments/Pasted Image 20230615122
 			"containerId": null,
 			"originalText": "Brot mit Käse\nOrangensaft\nJhogurt",
 			"lineHeight": 1.25
+		},
+		{
+			"id": "SCYskKAz12UhZ3TcGjqLT",
+			"type": "rectangle",
+			"x": 10408.592074043961,
+			"y": 2798.123170804505,
+			"width": 11620,
+			"height": 2890,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": {
+				"type": 3
+			},
+			"seed": 1404612465,
+			"version": 40,
+			"versionNonce": 1645739647,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1686851223028,
+			"link": null,
+			"locked": false
 		},
 		{
 			"id": "2ou5HmKw",
@@ -19776,10 +19804,10 @@ bcb1627401d6ac9cad1d9218893fc27def20c895: [[attachments/Pasted Image 20230615122
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": -19553.61588356777,
-		"scrollY": -3712.789837471172,
+		"scrollX": -10348.592074043961,
+		"scrollY": 891.8768291954948,
 		"zoom": {
-			"value": 0.39999999999999997
+			"value": 0.1
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,

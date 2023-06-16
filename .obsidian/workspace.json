@@ -4,20 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "92e92c3b696d9f69",
+        "id": "aacf3a48e5a98764",
         "type": "tabs",
         "children": [
           {
-            "id": "f2566e0f550b7bde",
+            "id": "5d0ba94675e15387",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/whiteboard.excalidraw.md"
+                "file": "Excalidraw/blackboard.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "799b10acb78e741c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linked note.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/whiteboard.excalidraw.md",
+                "file": "Linked note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/whiteboard.excalidraw.md",
+                "file": "Linked note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/whiteboard.excalidraw.md"
+                "file": "Linked note.md"
               }
             }
           },
@@ -181,8 +194,10 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "f2566e0f550b7bde",
+  "active": "799b10acb78e741c",
   "lastOpenFiles": [
+    "Excalidraw/blackboard.excalidraw.md",
+    "Excalidraw/whiteboard.excalidraw.md",
     "Excalidraw/attachments/Pasted Image 20230615124413_579.png",
     "Excalidraw/attachments/Pasted Image 20230615124005_350.png",
     "Excalidraw/attachments/Pasted Image 20230615123747_326.png",
@@ -193,10 +208,7 @@
     "Excalidraw/attachments/Pasted Image 20230615114617_362.png",
     "Excalidraw/attachments/Pasted Image 20230615112756_399.png",
     "Excalidraw/attachments/Pasted Image 20230615111911_348.png",
-    "Excalidraw/attachments/Pasted Image 20230615111840_363.png",
     "Servomecanismos.md",
-    "Excalidraw/blackboard.excalidraw.md",
-    "Excalidraw/whiteboard.excalidraw.md",
     "Linked note.md",
     "Cinemática de Fluidos.md",
     "LaTeX Template.md",
