@@ -17,12 +17,12 @@
 	- [ ] Módulo de los motores
 	- [ ] Integración en Litex de todos los módulos
 	- [ ] Firmware
-	- [ ] Modelado del auto
+	- [x] Modelado del auto
 
 - [ ] Mecanismos
 	- [ ] Barnes problem
 	- [ ] Apuntes: Diseño de levas
-	- [ ] Actividad de práctica: Dinámica
+	- [x] Actividad de práctica: Dinámica
 	- [ ] Actividad: Diseño de levas (17)
 	- [ ] Proyecto
 
@@ -30,7 +30,7 @@
 	- [ ] Proyecto (26)
 
 - [ ] Fluidos
-	- [ ] Código de Matlab
+	- [x] Código de Matlab
 	- [ ] Apuntes
 	- [ ] Parcial
 
