@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f6ef6114a5dc3099",
+        "id": "d291f5160fed1365",
         "type": "tabs",
         "children": [
           {
-            "id": "fdaf2878a753c384",
+            "id": "15f21acb363169e2",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/whiteboard.excalidraw.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -87,7 +85,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/whiteboard.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/whiteboard.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,9 +122,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Excalidraw/whiteboard.excalidraw.md"
-              }
+              "state": {}
             }
           },
           {
@@ -181,16 +175,30 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "fdaf2878a753c384",
+  "active": "15f21acb363169e2",
   "lastOpenFiles": [
-    "Excalidraw/attachments/Pasted Image 20230616123444_105.png",
-    "Excalidraw/attachments/Pasted Image 20230616120211_109.png",
-    "Excalidraw/attachments/Pasted Image 20230616115748_411.png",
-    "Excalidraw/attachments/Pasted Image 20230616115428_137.png",
-    "Excalidraw/attachments/Pasted Image 20230616114438_138.png",
-    "Excalidraw/attachments/Pasted Image 20230616113827_117.png",
-    "Excalidraw/attachments/Pasted Image 20230616111041_126.png",
-    "Excalidraw/attachments/Pasted Image 20230616110925_407.png",
+    "Local Backup/Excalidraw/whiteboard.excalidraw.md",
+    "Local Backup/Excalidraw/blackboard.excalidraw.md",
+    "Local Backup/Excalidraw/kaliDrawings.excalidraw.md",
+    "Local Backup/Excalidraw/attachments/Pasted Image 20230511111950_946.png",
+    "Local Backup/Excalidraw/attachments/Pasted Image 20230511111935_924.png",
+    "Local Backup/Excalidraw/attachments/Pasted Image 20230509115037_081.png",
+    "Local Backup/Excalidraw/attachments/Pasted Image 20230507115537_111.png",
+    "Local Backup/Excalidraw/attachments/Pasted Image 20230501154049_281.png",
+    "Local Backup/Excalidraw/attachments/Pasted Image 20230501153840_694.png",
+    "Local Backup/Excalidraw/attachments/Pasted Image 20230501153819_248.png",
+    "Local Backup/Excalidraw/attachments/Pasted Image 20230501152930_728.png",
+    "Local Backup/Excalidraw/attachments/Pasted Image 20230501151030_463.png",
+    "Local Backup/Excalidraw/attachments/Pasted Image 20230501141826_486.png",
+    "Local Backup/Excalidraw/attachments",
+    "Local Backup/Excalidraw",
+    "Local Backup/attachments",
+    "Local Backup/Assembly.md",
+    "Local Backup/Análisis de velocidad.md",
+    "Local Backup/Análisis de posición.md",
+    "Local Backup/Análisis de aceleración.md",
+    "Local Backup",
+    "Excalidraw/whiteboard.excalidraw.md",
     "Análisis de velocidad.md",
     "Análisis de aceleración.md",
     "Mecanismos.md",
@@ -199,10 +207,6 @@
     "Diseño de levas.md",
     "Excalidraw/blackboard.excalidraw.md",
     "Linked note.md",
-    "Excalidraw/whiteboard.excalidraw.md",
-    "Excalidraw/attachments/Pasted Image 20230615124413_579.png",
-    "Excalidraw/attachments/Pasted Image 20230615124005_350.png",
-    "Excalidraw/attachments/Pasted Image 20230615123747_326.png",
     "Servomecanismos.md",
     "Cinemática de Fluidos.md",
     "LaTeX Template.md",
@@ -213,17 +217,7 @@
     "Verilog.md",
     "dinamica.md",
     "Fundamentos de Mecánica de Fluidos.md",
-    "Fundamentos de cinemática de mecanismos.md",
-    "LaTeX.md",
-    "Cap. 7. Filtros digitales.md",
-    "Cap. 5. Filtros analógicos.md",
-    "Señales y Sistemas II.md",
-    "Cap. 6. Sistemas en tiempo discreto.md",
     "Local Backup.rar",
-    "Local Backup/Excalidraw/attachments",
-    "Local Backup/Excalidraw",
-    "Local Backup/attachments",
-    "Local Backup",
     "New folder",
     "Excalidraw/attachments",
     "attachments",
