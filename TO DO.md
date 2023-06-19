@@ -23,7 +23,7 @@
 	- [ ] Barnes problem
 	- [ ] Apuntes: Diseño de levas
 	- [x] Actividad de práctica: Dinámica
-	- [ ] Actividad: Diseño de levas (17)
+	- [x] Actividad: Diseño de levas (17)
 	- [ ] Proyecto
 
 - [ ] Señales II
@@ -37,4 +37,8 @@
 - [ ] Deutsch
 	- [ ] Estudiar
 
+- [ ] Chem-e-car
+	- [ ] 14 - 18 de Agosto: PERÚ
+	- [ ] Uni. San Agustín: Mirar convenios
+	- [ ] Subsidio: Cindy
 ---

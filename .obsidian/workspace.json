@@ -4,18 +4,45 @@
     "type": "split",
     "children": [
       {
-        "id": "d291f5160fed1365",
+        "id": "7c2966c3c9b8d225",
         "type": "tabs",
         "children": [
           {
-            "id": "15f21acb363169e2",
+            "id": "3ec7cb39678fce5d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/blackboard.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "fa5565fb904aed69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TO DO.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5ff71a75efa5d36d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LaTeX Template.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,6 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "LaTeX Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "LaTeX Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +151,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "LaTeX Template.md"
+              }
             }
           },
           {
@@ -147,7 +178,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"manómetro\"",
+                "query": "\"\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -175,21 +206,32 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "15f21acb363169e2",
+  "active": "5ff71a75efa5d36d",
   "lastOpenFiles": [
+    "LaTeX.md",
+    "Excalidraw/blackboard.excalidraw.md",
+    "TO DO.md",
+    "Excalidraw/attachments/Pasted Image 20230618180514_689.png",
+    "Excalidraw/attachments/Pasted Image 20230618180459_685.png",
+    "Excalidraw/attachments/Pasted Image 20230618180120_412.png",
+    "Excalidraw/attachments/Pasted Image 20230618180103_341.png",
+    "Excalidraw/attachments/Pasted Image 20230618175755_349.png",
+    "Excalidraw/attachments/Pasted Image 20230618175735_292.png",
+    "Excalidraw/attachments/Pasted Image 20230618175429_920.png",
+    "Excalidraw/attachments/Pasted Image 20230618175410_860.png",
+    "Excalidraw/attachments/Pasted Image 20230618172004_081.png",
+    "Excalidraw/attachments/Pasted Image 20230618172004_006.png",
+    "Servomecanismos.md",
+    "Linked note.md",
+    "Diseño de levas.md",
+    "LaTeX Template.md",
+    "Mecanismos.md",
+    "Ingeniería de Diseño.md",
+    "Main.md",
+    "myDrawings.md",
     "Local Backup/Excalidraw/whiteboard.excalidraw.md",
     "Local Backup/Excalidraw/blackboard.excalidraw.md",
     "Local Backup/Excalidraw/kaliDrawings.excalidraw.md",
-    "Local Backup/Excalidraw/attachments/Pasted Image 20230511111950_946.png",
-    "Local Backup/Excalidraw/attachments/Pasted Image 20230511111935_924.png",
-    "Local Backup/Excalidraw/attachments/Pasted Image 20230509115037_081.png",
-    "Local Backup/Excalidraw/attachments/Pasted Image 20230507115537_111.png",
-    "Local Backup/Excalidraw/attachments/Pasted Image 20230501154049_281.png",
-    "Local Backup/Excalidraw/attachments/Pasted Image 20230501153840_694.png",
-    "Local Backup/Excalidraw/attachments/Pasted Image 20230501153819_248.png",
-    "Local Backup/Excalidraw/attachments/Pasted Image 20230501152930_728.png",
-    "Local Backup/Excalidraw/attachments/Pasted Image 20230501151030_463.png",
-    "Local Backup/Excalidraw/attachments/Pasted Image 20230501141826_486.png",
     "Local Backup/Excalidraw/attachments",
     "Local Backup/Excalidraw",
     "Local Backup/attachments",
@@ -201,22 +243,10 @@
     "Excalidraw/whiteboard.excalidraw.md",
     "Análisis de velocidad.md",
     "Análisis de aceleración.md",
-    "Mecanismos.md",
-    "TO DO.md",
     "Análisis dinámico.md",
-    "Diseño de levas.md",
-    "Excalidraw/blackboard.excalidraw.md",
-    "Linked note.md",
-    "Servomecanismos.md",
     "Cinemática de Fluidos.md",
-    "LaTeX Template.md",
     "linked{.md",
     "Dinámica de Fluidos.md",
-    "Estática de Fluidos.md",
-    "Cap. 4. Análisis cualitativo de sistemas LTI.md",
-    "Verilog.md",
-    "dinamica.md",
-    "Fundamentos de Mecánica de Fluidos.md",
     "Local Backup.rar",
     "New folder",
     "Excalidraw/attachments",
