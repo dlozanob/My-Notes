@@ -35,14 +35,37 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LaTeX Template.md",
+                "file": "LaTeX.md",
                 "mode": "preview",
                 "source": false
               }
             }
+          },
+          {
+            "id": "63f82a38000ea4ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Servomecanismos.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c480d7704d4b600b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linked note.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LaTeX Template.md",
+                "file": "Excalidraw/blackboard.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LaTeX Template.md",
+                "file": "Excalidraw/blackboard.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LaTeX Template.md"
+                "file": "Excalidraw/blackboard.excalidraw.md"
               }
             }
           },
@@ -206,25 +229,26 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "5ff71a75efa5d36d",
+  "active": "3ec7cb39678fce5d",
   "lastOpenFiles": [
-    "LaTeX.md",
+    "Excalidraw/attachments/Pasted Image 20230619145611_002.png",
+    "Excalidraw/attachments/Pasted Image 20230619145402_945.png",
+    "Excalidraw/attachments/Pasted Image 20230619145142_057.png",
+    "Excalidraw/attachments/Pasted Image 20230619143649_928.png",
     "Excalidraw/blackboard.excalidraw.md",
-    "TO DO.md",
-    "Excalidraw/attachments/Pasted Image 20230618180514_689.png",
-    "Excalidraw/attachments/Pasted Image 20230618180459_685.png",
-    "Excalidraw/attachments/Pasted Image 20230618180120_412.png",
-    "Excalidraw/attachments/Pasted Image 20230618180103_341.png",
-    "Excalidraw/attachments/Pasted Image 20230618175755_349.png",
-    "Excalidraw/attachments/Pasted Image 20230618175735_292.png",
-    "Excalidraw/attachments/Pasted Image 20230618175429_920.png",
-    "Excalidraw/attachments/Pasted Image 20230618175410_860.png",
-    "Excalidraw/attachments/Pasted Image 20230618172004_081.png",
-    "Excalidraw/attachments/Pasted Image 20230618172004_006.png",
-    "Servomecanismos.md",
+    "LaTeX.md",
+    "Excalidraw/attachments/Pasted Image 20230619143807_913.png",
+    "Excalidraw/attachments/Pasted Image 20230619141844_483.png",
+    "Excalidraw/attachments/Pasted Image 20230619140116_904.png",
     "Linked note.md",
-    "Diseño de levas.md",
+    "Excalidraw/attachments/Pasted Image 20230619055013_871.png",
+    "Excalidraw/attachments/Pasted Image 20230619054942_890.png",
+    "Excalidraw/attachments/Pasted Image 20230619054911_997.png",
+    "Excalidraw/attachments/Pasted Image 20230619054852_879.png",
+    "Servomecanismos.md",
+    "TO DO.md",
     "LaTeX Template.md",
+    "Diseño de levas.md",
     "Mecanismos.md",
     "Ingeniería de Diseño.md",
     "Main.md",

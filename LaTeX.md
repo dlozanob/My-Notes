@@ -423,6 +423,8 @@ $$
 
 To adjust the image width to the page width use `width = \linewidth`
 
+Reference figures by: `\ref{fig:<label>}`
+
 
 ## List items
 
@@ -447,7 +449,7 @@ To change the marker of list items use: `\item[<marker>]`
 
 - `\todo[⟨options⟩]{⟨todotext⟩}` : Add a To-do item
 - `\todo[color=green!40]{todotext}` : Check box To-do item
-- `\listoftodos` : Add a To-do list
+- `\listoftodos[<Header>]` : Add a To-do list
 
 
 ## Code and other text formats
