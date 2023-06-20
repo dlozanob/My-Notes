@@ -22,7 +22,7 @@ class I2STransmitter(Module, AutoCSR):
         self.audioSel = CSRStorage()
 
         # Instantiating
-        self.specials += Instance("audioTest", 
+        self.specials += Instance("I2S_Transmitter", 
             i_MCLK = self.MCLK,
             i_enable = self.enable.storage,
             i_audioSel = self.audioSel.storage,
