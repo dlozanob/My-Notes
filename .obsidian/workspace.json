@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4a382397cf8d86b0",
+            "id": "55199c24b0461a02",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md"
+                "file": "Excalidraw/kaliDrawings.excalidraw.md"
               }
             }
           }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md",
+                "file": "Excalidraw/kaliDrawings.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md",
+                "file": "Excalidraw/kaliDrawings.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md"
+                "file": "Excalidraw/kaliDrawings.excalidraw.md"
               }
             }
           },
@@ -181,11 +181,22 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "4a382397cf8d86b0",
+  "active": "55199c24b0461a02",
   "lastOpenFiles": [
+    "AuxFolder/wav2Raw.py",
+    "AuxFolder/Implementación.png",
+    "AuxFolder/i2sTransmitter.py",
+    "AuxFolder/I2S_Transmitter.v",
+    "AuxFolder",
+    "Excalidraw/attachments/Pasted Image 20230620015530_391.png",
+    "Local Backup/Verilog.md",
+    "Local Backup/Excalidraw/blackboard.excalidraw.md",
+    "Excalidraw/kaliDrawings.excalidraw.md",
+    "Excalidraw/attachments/Pasted Image 20230620014852_211.png",
+    "Excalidraw/attachments/Pasted Image 20230620014637_178.png",
+    "Excalidraw/blackboard.excalidraw.md",
     "Diseño de levas.md",
     "Mecanismos.md",
-    "Excalidraw/blackboard.excalidraw.md",
     "conflict-files-obsidian-git.md",
     "attachments/Pasted image 20230608105357.png",
     "Excalidraw/attachments/Pasted Image 20230608114607_115.png",
@@ -198,16 +209,9 @@
     "Módulo 6. Teoría de la estructura de capital.md",
     "Finanzas.md",
     "Local Backup/Finanzas.md",
-    "Excalidraw/kaliDrawings.excalidraw.md",
-    "Local Backup/Excalidraw/blackboard.excalidraw.md",
-    "attachments/Pasted image 20230617110004.png",
-    "attachments/Pasted image 20230617105359.png",
-    "attachments/Pasted image 20230617105246.png",
-    "attachments/Pasted image 20230617105010.png",
     "Local Backup/myDrawings.md",
     "Local Backup/attachments",
     "Local Backup/Web Development.md",
-    "Local Backup/Verilog.md",
     "Local Backup/Using JS for Web Applications.md",
     "Local Backup/Tema 5. Valoración de operaciones.md",
     "Local Backup/Tema 4. Modelo CAPM; SML; CML y APT.md",
@@ -225,7 +229,6 @@
     "Local Backup.rar",
     "Excalidraw/attachments",
     "attachments",
-    "New folder",
     "Untitled.canvas"
   ]
 }
