@@ -11,8 +11,12 @@
             "id": "4cf863df1523d032",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "AuxFolder/README.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -85,6 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "AuxFolder/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "AuxFolder/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +128,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "AuxFolder/README.md"
+              }
             }
           },
           {
@@ -177,6 +185,10 @@
   },
   "active": "4cf863df1523d032",
   "lastOpenFiles": [
+    "AuxFolder/attachments/Pasted image 20230620091728.png",
+    "AuxFolder/attachments/Pasted image 20230620091620.png",
+    "AuxFolder/attachments",
+    "AuxFolder/README.md",
     "Excalidraw/kaliDrawings.excalidraw.md",
     "AuxFolder/README.txt",
     "AuxFolder/wav2Raw.py",
@@ -198,7 +210,6 @@
     "Excalidraw/attachments/Pasted Image 20230608113451_972.png",
     "Excalidraw/attachments/Pasted Image 20230608113307_925.png",
     "Excalidraw/attachments/Pasted Image 20230608112836_836.png",
-    "Excalidraw/attachments/Pasted Image 20230608112152_630.png",
     "Local Backup/Mecanismos.md",
     "Tema 2. Beta apalancado y desapalancado%2C betas proxy y costo de capital.md",
     "Módulo 6. Teoría de la estructura de capital.md",
@@ -217,11 +228,9 @@
     "Local Backup/Tema 3. Valoración.md",
     "Local Backup/Tema 3. Medición del rendimiento y del riesgo.md",
     "Local Backup/Tema 3. Introducción a los mercados de capitales.md",
-    "Local Backup/Tema 3. Indicadores macroeconómicos.md",
     "Local Backup/Excalidraw/attachments",
     "Local Backup/Excalidraw",
     "Local Backup",
-    "Local Backup.rar",
     "Untitled.canvas"
   ]
 }
