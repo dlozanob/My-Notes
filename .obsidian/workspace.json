@@ -27,7 +27,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/kaliDrawings.excalidraw.md",
+                "file": "Excalidraw/blackboard.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/kaliDrawings.excalidraw.md",
+                "file": "Excalidraw/blackboard.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/kaliDrawings.excalidraw.md"
+                "file": "Excalidraw/blackboard.excalidraw.md"
               }
             }
           },
@@ -191,10 +192,10 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "8aecd2136f90f71a",
+  "active": "5f900c9e6031bee5",
   "lastOpenFiles": [
-    "Excalidraw/blackboard.excalidraw.md",
     "Excalidraw/kaliDrawings.excalidraw.md",
+    "Excalidraw/blackboard.excalidraw.md",
     "Servomecanismos.md",
     "Cap. 5. Filtros analógicos.md",
     "Señales y Sistemas II.md",
