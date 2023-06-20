@@ -29,7 +29,9 @@ El _FF_ (feedforward) hace un seguimiento a la referencia (_SP_ punto de referen
 - _MAx_ : Motion Axis _x_
 	- _MAS_ : Motion Axis Stop
 	- _MAJ_ : Motion Axis Jog (control speed)
+		- Perfil de velocidad
 	- _MAM_ : Motion Axis Move (control move)
+	- _MAH_ : Motion Axis Home
 
 Algunos lenguajes de programación industriales son:
 - _LD_ - Ladder
@@ -1294,8 +1296,6 @@ Para hallar un balance entre $\zeta$ y $\omega_{n}$ se utilizan los siguientes m
 >[!Note]
 >En el punto 2: Comparar el resultado con y sin retroalimentación de torque
 
->>>>>>> origin/main
-
 ## GRAFCET y Ladder
 
 Metodología Top-down:
@@ -1354,6 +1354,9 @@ La siguiente implementación de la etapa final es correcta debido a que no se in
 >[!Note]
 >Salida interna = Relé interno = Marca = Out/Coil
 
+En este caso se ejecutan en paralelo cuando se complete la etapa $4$:
+
+![](attachments/Pasted%20image%2020230620102949.png)
 
 ---
 
@@ -1373,7 +1376,19 @@ Donde:
 
 ![](attachments/Pasted%20image%2020230615110423.png)
 
-![](attachments/Pasted%20image%2020230615110639.png)
+![](attachments/Pasted%20image%2020230620094413.png)
+
+En Ladder se pone un enclavamiento para activar la etapa siguiente. Luego se pone un _XifOff_ para desactivar la etapa anterior.
+
+
+
+
+>[!Note]
+>Una buena práctica es nombrar las etapas de tal manera que luego se puedan añadir más entre ellas:
+>- $E 1$ -> $E 10$
+>- $E 2$ -> $E 20$
+
+
 
 
 
@@ -1403,6 +1418,17 @@ Por tanto, el mecanismo tiene dos etapas:
 Se deben hacer hasta 10 ciclos de la segunda etapa.
 
 ![](attachments/Pasted%20image%2020230520201439.png)
+
+
+## Proyecto industrial
+
+Los $3$ ejes no se pueden devolver al tiempo
+
+- Parametrizar perfiles
+- Completar la lógica de programación
+
+
+
 
 
 ## External Links
