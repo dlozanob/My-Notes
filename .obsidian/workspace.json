@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6a5b2dba3e01fbda",
+        "id": "091b7401eb68f430",
         "type": "tabs",
         "children": [
           {
-            "id": "4cf863df1523d032",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Servomecanismos.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1dc6028f81fa607d",
+            "id": "86db9698cb942d46",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Local Backup/Excalidraw/kaliDrawings.excalidraw.md"
+                "file": "Local Backup/Excalidraw/whiteboard.excalidraw.md"
               }
             }
           }
@@ -99,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Servomecanismos.md",
+                "file": "Local Backup/Excalidraw/whiteboard.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Servomecanismos.md",
+                "file": "Local Backup/Excalidraw/whiteboard.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Servomecanismos.md"
+                "file": "Local Backup/Excalidraw/whiteboard.excalidraw.md"
               }
             }
           },
@@ -193,11 +181,13 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "4cf863df1523d032",
+  "active": "86db9698cb942d46",
   "lastOpenFiles": [
-    "attachments/Pasted image 20230620102949.png",
-    "Servomecanismos.md",
+    "Local Backup/Excalidraw/attachments/Pasted Image 20230620124417_626.png",
+    "Local Backup/Excalidraw/attachments/Pasted Image 20230620112239_954.png",
     "Local Backup/Excalidraw/kaliDrawings.excalidraw.md",
+    "Servomecanismos.md",
+    "attachments/Pasted image 20230620102949.png",
     "attachments/Pasted image 20230620094413.png",
     "Local Backup/Excalidraw/attachments/Pasted Image 20230620094117_150.png",
     "AuxFolder/README.md",
@@ -220,8 +210,6 @@
     "Diseño de levas.md",
     "Mecanismos.md",
     "conflict-files-obsidian-git.md",
-    "attachments/Pasted image 20230608105357.png",
-    "Excalidraw/attachments/Pasted Image 20230608114607_115.png",
     "Local Backup/Mecanismos.md",
     "Tema 2. Beta apalancado y desapalancado%2C betas proxy y costo de capital.md",
     "Módulo 6. Teoría de la estructura de capital.md",
