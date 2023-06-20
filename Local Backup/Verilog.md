@@ -424,6 +424,16 @@ case(<expression>)
 endcase
 ```
 
+Short version:
+
+``` verilog
+case(<expression>)
+	<alternative1>: <statement1>;
+	<alternative2>: <statement2>;
+	default: <statement1>; 
+endcase
+```
+
 - _For loop_
 
 ```verilog
