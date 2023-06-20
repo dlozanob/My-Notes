@@ -8,16 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3ec7cb39678fce5d",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md"
-              }
-            }
-          },
-          {
             "id": "fa5565fb904aed69",
             "type": "leaf",
             "state": {
@@ -135,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md",
+                "file": "TO DO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md",
+                "file": "TO DO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md"
+                "file": "TO DO.md"
               }
             }
           },
@@ -229,13 +219,13 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "3ec7cb39678fce5d",
+  "active": "fa5565fb904aed69",
   "lastOpenFiles": [
+    "Excalidraw/blackboard.excalidraw.md",
     "Excalidraw/attachments/Pasted Image 20230619145611_002.png",
     "Excalidraw/attachments/Pasted Image 20230619145402_945.png",
     "Excalidraw/attachments/Pasted Image 20230619145142_057.png",
     "Excalidraw/attachments/Pasted Image 20230619143649_928.png",
-    "Excalidraw/blackboard.excalidraw.md",
     "LaTeX.md",
     "Excalidraw/attachments/Pasted Image 20230619143807_913.png",
     "Excalidraw/attachments/Pasted Image 20230619141844_483.png",
@@ -244,7 +234,6 @@
     "Excalidraw/attachments/Pasted Image 20230619055013_871.png",
     "Excalidraw/attachments/Pasted Image 20230619054942_890.png",
     "Excalidraw/attachments/Pasted Image 20230619054911_997.png",
-    "Excalidraw/attachments/Pasted Image 20230619054852_879.png",
     "Servomecanismos.md",
     "TO DO.md",
     "LaTeX Template.md",
