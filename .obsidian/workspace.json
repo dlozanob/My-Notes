@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c17bd07e42a07a0e",
+        "id": "6a5b2dba3e01fbda",
         "type": "tabs",
         "children": [
           {
-            "id": "55199c24b0461a02",
+            "id": "4cf863df1523d032",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/kaliDrawings.excalidraw.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -87,7 +85,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/kaliDrawings.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/kaliDrawings.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,9 +122,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Excalidraw/kaliDrawings.excalidraw.md"
-              }
+              "state": {}
             }
           },
           {
@@ -181,8 +175,10 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "55199c24b0461a02",
+  "active": "4cf863df1523d032",
   "lastOpenFiles": [
+    "Excalidraw/kaliDrawings.excalidraw.md",
+    "AuxFolder/README.txt",
     "AuxFolder/wav2Raw.py",
     "AuxFolder/Implementación.png",
     "AuxFolder/i2sTransmitter.py",
@@ -191,7 +187,6 @@
     "Excalidraw/attachments/Pasted Image 20230620015530_391.png",
     "Local Backup/Verilog.md",
     "Local Backup/Excalidraw/blackboard.excalidraw.md",
-    "Excalidraw/kaliDrawings.excalidraw.md",
     "Excalidraw/attachments/Pasted Image 20230620014852_211.png",
     "Excalidraw/attachments/Pasted Image 20230620014637_178.png",
     "Excalidraw/blackboard.excalidraw.md",
@@ -227,8 +222,6 @@
     "Local Backup/Excalidraw",
     "Local Backup",
     "Local Backup.rar",
-    "Excalidraw/attachments",
-    "attachments",
     "Untitled.canvas"
   ]
 }
