@@ -114,7 +114,7 @@ William Sharpe halla una frontera eficiente lineal.
 >[!Note]
 >A la pendiente de la línea se le conoce como el _precio del riesgo_
 
-Esta línea es la combinación de portafolios entre un activo riesgoso y un activo libre de riesgo (su rendimiento es el _risk free_ $\tau_{F}$, su riesgo es $0\%$).
+Esta línea es la combinación de portafolios entre un activo riesgoso y un activo libre de riesgo (su rendimiento es el _risk free_ $r_{F}$, su riesgo es $0\%$).
 Cada uno de los rendimientos y riesgos de esta línea se obtiene tras hacer respectivamente:
 
 $$
@@ -277,14 +277,14 @@ $$
 
 También se usa.
 
-Los rendimientos de la acción serán sus variaciones logarítmicas o porcentuales, dependiendo del caso.
+Los rendimientos de la acción serán sus variaciones logarítmicas o porcentuales, dependiendo del caso (se recomienda la logarítmica).
 
 A partir de estos rendimientos, y tomando como referencia del mercado al _S&P 500_, se puede hacer todo el respectivo análisis estadístico.
 
 >[!Note]
 >Es útil hacer matrices de varianza-covarianza y de coeficientes de correlación
 
-Para hallar el portafolio de mínima varianza, es útil aplicar el criterio de la primera derivada sobre la función de riesgo-rendimiento de los portafolios
+Para hallar el portafolio de mínima varianza, es útil aplicar el criterio de la primera derivada sobre la función de riesgo-rendimiento de los portafolios.
 
 ¿Cómo hallar el portafolio de mínima varianza de una manera sencilla?
 

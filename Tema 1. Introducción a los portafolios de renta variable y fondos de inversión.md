@@ -72,7 +72,7 @@ No obstante, la varianza puede ser descrita de manera general como el valor espe
 
 $$
 \begin{align*}
-	\boxed{\sigma_{X}^{2} = \sum_{i=1}^{n}(x_{i} - E[X])\cdot f_{i}}
+	\boxed{\sigma_{X}^{2} = \sum_{i=1}^{n}(x_{i} - E[X])^{2}\cdot f_{i}}
 \end{align*}
 $$
 
@@ -162,7 +162,7 @@ _Risk premium_ es cuanto ganaría por encima en comparación si invierto en bono
 
 Análisis de riesgo:
 1. Medir y estimar el riesgo de cada activo y grupo de activos
-2. Entender cómo se modifican los cirterios de desición de los inversionistas
+2. Entender cómo se modifican los criterios de decisión de los inversionistas
 3. Entender cómo el riesgo afecta a los portafolios o carteras de inversión
 4. Estimar la prima por riesgo o risk premium, para calcular la _tasa de descuento apropiado_ (CO)
 

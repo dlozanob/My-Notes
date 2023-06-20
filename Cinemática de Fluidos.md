@@ -206,6 +206,22 @@ Donde $r_{0}$ es la posición donde se inyectan las partículas.
 
 Si el fluido no es estacionario, se tendrían que considerar las velocidades en cada instante.
 
+Para hallar las líneas de trayectoria en fluidos estacionarios, resolver las ecuaciones diferenciales:
+
+$$
+\begin{align*}
+	\begin{pmatrix}
+\dot{x} \\
+\dot{y} \\
+\dot{z}
+\end{pmatrix} =
+\begin{pmatrix}
+v_{x} \\
+v_{y} \\
+v_{z}
+\end{pmatrix}
+\end{align*}
+$$
 
 - _Líneas de traza_
 	- Son líneas utilizadas en física para determinar la dirección y magnitud de un vector a lo largo del espacio vectorial

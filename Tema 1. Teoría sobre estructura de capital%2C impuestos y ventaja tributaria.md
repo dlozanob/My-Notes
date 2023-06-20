@@ -61,7 +61,6 @@ Proposiciones:
 	- $R_{S}$ : Tasa requerida de rendimiento sobre el capital propio
 	- $R_{0}$ : Costo de capital medio ponderado (WACC)
 	- $R_{B}$ : Costo de la deuda
-	- $t_{c}$ : Tasa tributaria
 	- $\frac{B}{S}$ : Ratio deuda-acciones (equity)
 
 El costo de capital es independiente de la relación deuda-equity.
@@ -117,7 +116,7 @@ El retorno del equity $R_{E}$ aumenta conforme se aumenta la deuda -> lo que hac
 >[!Note]
 >- Cuando una empresa no puede cumplir con sus obligaciones financieras, puede verse obligada a declararse en quiebra.
 >El _costo de quiebra_ es el costo de los gastos y pérdidas asociados al proceso de bancarrota de la empresa
->- La _tasa tributaria_ es aqueel porcentaje que se aplica sobre una base imponible para calcular los impuestos a pagar por una persona hacia el estado o alguna autoridad fiscal. Algunos tipos de tasa tributaria son:
+>- La _tasa tributaria_ es aquel porcentaje que se aplica sobre una base imponible para calcular los impuestos a pagar por una persona hacia el estado o alguna autoridad fiscal. Algunos tipos de tasa tributaria son:
 >	- Progresiva
 >		- La tasa aumenta a medida que la base imponible aumenta. Las personas con mayores ingresos pagan más
 >	- Proporcional

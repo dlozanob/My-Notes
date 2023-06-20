@@ -21,14 +21,28 @@
             "id": "5f900c9e6031bee5",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md"
+                "file": "Excalidraw/blackboard.excalidraw.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9cfbed435c5367fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -192,45 +206,49 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "5f900c9e6031bee5",
+  "active": "9cfbed435c5367fb",
   "lastOpenFiles": [
-    "Excalidraw/kaliDrawings.excalidraw.md",
     "Excalidraw/blackboard.excalidraw.md",
-    "Servomecanismos.md",
-    "Cap. 5. Filtros analógicos.md",
-    "Señales y Sistemas II.md",
-    "Excalidraw/whiteboard.excalidraw.md",
-    "Excalidraw/attachments/Pasted Image 20230608114607_115.png",
-    "Excalidraw/attachments/Pasted Image 20230608113451_972.png",
-    "Excalidraw/attachments/Pasted Image 20230608113307_925.png",
-    "Excalidraw/attachments/Pasted Image 20230608112836_836.png",
-    "Excalidraw/attachments/Pasted Image 20230608112152_630.png",
-    "attachments/Pasted image 20230608105357.png",
-    "attachments/Pasted image 20230608094358.png",
-    "attachments/Pasted image 20230608094241.png",
-    "attachments/Pasted image 20230608093401.png",
-    "attachments/Pasted image 20230608092943.png",
-    "myDrawings.md",
-    "Main.md",
     "conflict-files-obsidian-git.md",
-    "Electrónica Digital II.md",
-    "Cap. 7. Filtros digitales.md",
-    "Linked note.md",
-    "Módulo 6. Teoría de la estructura de capital.md",
-    "Diseño de levas.md",
-    "Análisis dinámico.md",
-    "Tema 1. Teoría sobre estructura de capital%2C impuestos y ventaja tributaria.md",
-    "Módulo 6. Teoría de estructura de capital.md",
-    "Finanzas.md",
-    "LaTeX.md",
-    "Tema 2. Beta apalancado y desapalancado%2C betas proxy y costo de capital.md",
+    "attachments/Pasted image 20230617110004.png",
+    "attachments/Pasted image 20230617105359.png",
+    "attachments/Pasted image 20230617105246.png",
+    "attachments/Pasted image 20230617105010.png",
+    "attachments/Pasted image 20230617104859.png",
+    "attachments/Pasted image 20230617104658.png",
+    "attachments/Pasted image 20230617104609.png",
+    "attachments/Pasted image 20230617104025.png",
+    "attachments/Pasted image 20230617095833.png",
+    "attachments/Pasted image 20230617094759.png",
+    "Local Backup/myDrawings.md",
+    "Local Backup/attachments",
+    "Local Backup/Web Development.md",
+    "Local Backup/Verilog.md",
+    "Local Backup/Using JS for Web Applications.md",
+    "Local Backup/Tema 5. Valoración de operaciones.md",
+    "Local Backup/Tema 4. Modelo CAPM; SML; CML y APT.md",
+    "Local Backup/Tema 4. Matemáticas financieras.md",
+    "Local Backup/Tema 4. Introducción a los mercados monetarios.md",
+    "Local Backup/Tema 4. Financiamiento a corto plazo.md",
+    "Local Backup/Tema 4. Análisis de sensibilidad.md",
+    "Local Backup/Tema 3. Valoración.md",
+    "Local Backup/Tema 3. Medición del rendimiento y del riesgo.md",
+    "Local Backup/Tema 3. Introducción a los mercados de capitales.md",
+    "Local Backup/Tema 3. Indicadores macroeconómicos.md",
+    "Local Backup/Tema 3. Análisis de flujo de efectivo y análisis de capital de trabajo.md",
+    "Local Backup/Tema 2. Tipos de bonos y sus características.md",
+    "Local Backup/Tema 2. Teoría de la eficiencia de los mercados.md",
+    "Local Backup/Tema 2. Función de oferta y demanda.md",
+    "Local Backup/Tema 2. Estructura del mercado.md",
+    "Local Backup/Tema 2. Beta apalancado y desapalancado, betas proxy y costo de capital.md",
+    "Local Backup/Tema 2. Beta apalancado y desapalancado%2C betas proxy y costo de capital.md",
+    "Local Backup/Tema 2. Análisis de estados financieros e indicadores financieros.md",
+    "Local Backup/Tema 1. Teoría sobre estructura de capital, inpuestos y ventaja tributaria.md",
+    "Local Backup/Tema 1. Teoría sobre estructura de capital%2C inpuestos y ventaja tributaria.md",
+    "Local Backup/Excalidraw/attachments",
+    "Local Backup/Excalidraw",
+    "Local Backup",
     "Local Backup.rar",
-    "Verilog.md",
-    "Tema 2. Beta apalancado y desapalancado, betas proxy y costo de capital.md",
-    "Tema 1. Teoría sobre estructura de capital, inpuestos y ventaja tributaria.md",
-    "Cap. 4. Análisis cualitativo de sistemas LTI.md",
-    "Cap. 6. Sistemas en tiempo discreto.md",
-    "TO DO.md",
     "Excalidraw/attachments",
     "attachments",
     "New folder",

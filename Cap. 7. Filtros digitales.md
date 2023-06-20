@@ -32,7 +32,7 @@ No se está tomando la información suficiente presente en la señal original.
 
 ### Método de la invarianza al impulso
 
-Conosiderando un tiempo de muestreo (_sample period) $T$, se obtiene:
+Considerando un tiempo de muestreo (_sample period_) $T$, se obtiene:
 
 $$
 \begin{align*}
@@ -190,7 +190,7 @@ $$
 \end{align*}
 $$
 
-Notar que se multiplica por $2$ para obtener la frecuencia en $\left[ \frac{Rad}{s} \right]$ y además se divide por dos la frecuencia de muestreo, ya que, este rango frecuencial es el propio de la señal a muestrear, se debe cumplir el teorema de _Shannon-Nyquist_.
+Notar que se multiplica por $2\pi$ para obtener la frecuencia en $\left[ \frac{Rad}{s} \right]$ y además se divide por dos la frecuencia de muestreo, ya que, este rango frecuencial es el propio de la señal a muestrear, se debe cumplir el teorema de _Shannon-Nyquist_.
 
 La frecuencia de corte es:
 
@@ -509,7 +509,7 @@ $$
 
 ![](attachments/Pasted%20image%2020230604131020.png)
 
-Clasificación delos filtros _FIR_ :
+Clasificación de los filtros _FIR_ :
 
 | Tipo | Paridad de $N$ | Simetría de la respuesta de $h[n]$ |
 |-|-|-|
@@ -833,7 +833,7 @@ Sin embargo, al evaluar la respuesta impulsiva de este filtro:
 
 $$
 \begin{align*}
-	h_{d}[n] = \frac{\sin(n - M)\omega_{c}}{\pi(n - M)}
+	h_{d}[n] = \frac{\sin((n - M)\cdot \omega_{c})}{\pi(n - M)}
 \end{align*}
 $$
 
@@ -1279,4 +1279,8 @@ El algoritmo se basa en el ajuste iterativo de os coeficientes del filtro hasta 
 
 
 >[!Info]
->En Matlab `filterDesigner` es una aplicación de muy alto nivel para el diseño de filtros digitales
+>- En Matlab `Filter Designer` es una aplicación de muy alto nivel para el diseño de filtros digitales
+>	- Store Filter: Guarda el filtro diseñado
+>	- File -> Export: Exporta el filtro al workspace de Matlab
+>- `dfilt.cascade(<Hd1>,<H2>)` -> Obtiene la función de transferencia de dos modelos en cascada
+>- `parallel(<Hd1>,<H2>)` -> Obtiene la función de transferencia de dos modelos en paralelo

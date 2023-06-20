@@ -198,7 +198,7 @@ Siendo así:
 
 $$
 \begin{align*}
-	\vec{a}_{G 3} &= \vec{\alpha}_{2}\times \vec{r}_{G 2} + \vec{\omega}_{2}\times(\vec{\omega}_{2}\times \vec{r}_{G 2}) + \vec{\alpha}_{3}\times \vec{r}_{G 3} + \vec{\omega}_{3}\times(\vec{\omega}_{3}\times \vec{r}_{G 3}) \\\\
+	\vec{a}_{G 3} &= \vec{\alpha}_{2}\times \vec{r}_{2} + \vec{\omega}_{2}\times(\vec{\omega}_{2}\times \vec{r}_{2}) + \vec{\alpha}_{3}\times \vec{r}_{G 3} + \vec{\omega}_{3}\times(\vec{\omega}_{3}\times \vec{r}_{G 3}) \\\\
 	\vec{a}_{G 4} &= \vec{\alpha}_{4}\times \vec{r}_{G 4} + \vec{\omega}_{4}\times(\vec{\omega}_{4}\times \vec{r}_{G 4}) 
 \end{align*}
 $$
