@@ -29,10 +29,10 @@
 - [ ] Señales II
 	- [ ] Proyecto (26)
 
-- [ ] Fluidos
+- [x] Fluidos
 	- [x] Código de Matlab
 	- [ ] Apuntes
-	- [ ] Parcial
+	- [x] Parcial
 
 - [ ] Deutsch
 	- [ ] Estudiar
