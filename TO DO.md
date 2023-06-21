@@ -13,7 +13,7 @@
 
 - [ ] Digital II
 	- [ ] Apuntes
-	- [ ] Módulo i2s terminado
+	- [x] Módulo i2s terminado
 	- [ ] Módulo de los motores
 	- [ ] Integración en Litex de todos los módulos
 	- [ ] Firmware
