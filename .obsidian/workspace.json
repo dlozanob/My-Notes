@@ -4,52 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "76058c3d3a9a3f0c",
+        "id": "af31d947287c0c4c",
         "type": "tabs",
         "children": [
           {
-            "id": "b2b32fcebdb3344f",
+            "id": "a477e96e93747dd4",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "0efcb175030746b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Análisis de posición.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "74d3f0b9336171f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linked note.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2cef037fa6bd745a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mecanismos.md",
-                "mode": "preview",
-                "source": false
+                "file": "Excalidraw/whiteboard.excalidraw.md"
               }
             }
           }
@@ -123,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md",
+                "file": "Excalidraw/whiteboard.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md",
+                "file": "Excalidraw/whiteboard.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md"
+                "file": "Excalidraw/whiteboard.excalidraw.md"
               }
             }
           },
@@ -217,14 +181,17 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "b2b32fcebdb3344f",
+  "active": "a477e96e93747dd4",
   "lastOpenFiles": [
+    "Excalidraw/blackboard.excalidraw.md",
+    "Excalidraw/whiteboard.excalidraw.md",
+    "Local Backup/Excalidraw/blackboard.excalidraw.md",
+    "Análisis dinámico.md",
+    "Análisis de posición.md",
+    "Linked note.md",
+    "Mecanismos.md",
     "Excalidraw/attachments/Pasted Image 20230623004602_194.png",
     "Excalidraw/attachments/Pasted Image 20230623004522_826.png",
-    "Análisis de posición.md",
-    "Excalidraw/blackboard.excalidraw.md",
-    "Mecanismos.md",
-    "Linked note.md",
     "Análisis de velocidad.md",
     "Análisis de aceleración.md",
     "Local Backup/Mecanismos.md",
@@ -238,7 +205,6 @@
     "Local Backup/attachments/Pasted image 20230524165655.png",
     "Local Backup/attachments/Pasted image 20230522181121.png",
     "Local Backup/attachments/Pasted image 20230522175953.png",
-    "Local Backup/attachments/Pasted image 20230522160319.png",
     "Local Backup/attachments",
     "Local Backup/Obsidian Basics.md",
     "Local Backup/Nóbeles de economía.md",
@@ -254,8 +220,6 @@
     "Local Backup/Linked note.md",
     "Local Backup/LaTeX.md",
     "Local Backup/LaTeX Template.md",
-    "Local Backup/Javascript.md",
-    "Local Backup/JS libraries.md",
     "Local Backup/Excalidraw/attachments",
     "Local Backup/Excalidraw",
     "Local Backup",
