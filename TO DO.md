@@ -8,8 +8,9 @@
 		- [ ] Videos del martes
 		- [ ] Videos Control de Movimiento de Alto Desempeño (Jueves)
 	- [x] Parcial 2
-	- [ ] Proyecto Académico
+	- [x] Proyecto Académico
 	- [ ] Proyecto Industrial
+	- [ ] Parcial 3
 
 - [ ] Digital II
 	- [ ] Apuntes
@@ -41,4 +42,7 @@
 	- [ ] 14 - 18 de Agosto: PERÚ
 	- [ ] Uni. San Agustín: Mirar convenios
 	- [ ] Subsidio: Cindy
+	- [ ] 1.9 M
+
+
 ---
