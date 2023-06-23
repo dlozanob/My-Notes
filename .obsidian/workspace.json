@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TO DO.md",
+                "file": "Excalidraw/blackboard.excalidraw.md",
                 "mode": "preview",
                 "source": false
               }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TO DO.md",
+                "file": "Excalidraw/blackboard.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TO DO.md",
+                "file": "Excalidraw/blackboard.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TO DO.md"
+                "file": "Excalidraw/blackboard.excalidraw.md"
               }
             }
           },
@@ -168,8 +168,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249.5,
-    "collapsed": true
+    "width": 249.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,8 +184,8 @@
   },
   "active": "b2b32fcebdb3344f",
   "lastOpenFiles": [
-    "Local Backup/CSS.md",
     "TO DO.md",
+    "Local Backup/CSS.md",
     "Estática de Fluidos.md",
     "Dinámica de Fluidos.md",
     "LaTeX.md",
