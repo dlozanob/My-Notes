@@ -62,6 +62,7 @@ module I2S_Transmitter(MCLK, SD, LRCLK, SCLK, enable, audioSel);
     
     // Twice bit for reproducing same word per channel
     reg twice = 0;
+    reg prevEnable = 0;
 
     initial begin
         // Audio load to local memory
@@ -82,13 +83,6 @@ module I2S_Transmitter(MCLK, SD, LRCLK, SCLK, enable, audioSel);
         
         /////****************************************************/////
 
-    end
-    
-    // Audio reset
-    always @(fileSel or posedge enable)
-    begin        
-        wordIterator <= 0;
-        currentBit <= 0;
     end
      
     // Data handler
@@ -151,6 +145,14 @@ module I2S_Transmitter(MCLK, SD, LRCLK, SCLK, enable, audioSel);
     integer SCounter = 0;
     always @(posedge MCLK)
     begin
+
+        // Audio Reset -> Enable rising edge //
+        if(enable != prevEnable) begin
+            wordIterator <= 0;
+            currentBit <= 0;
+            prevEnable <= enable;
+        end
+        ///////////////////////////////////////  
 
         if (enable)begin
             if(SCounter == S_PS) begin        
