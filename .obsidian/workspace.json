@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "091b7401eb68f430",
+        "id": "af31d947287c0c4c",
         "type": "tabs",
         "children": [
           {
-            "id": "86db9698cb942d46",
+            "id": "a477e96e93747dd4",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Local Backup/Excalidraw/whiteboard.excalidraw.md"
+                "file": "Excalidraw/whiteboard.excalidraw.md"
               }
             }
           }
@@ -57,7 +57,7 @@
             }
           },
           {
-            "id": "b198a00b28cd2139",
+            "id": "ede638339c05eefb",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Local Backup/Excalidraw/whiteboard.excalidraw.md",
+                "file": "Excalidraw/whiteboard.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Local Backup/Excalidraw/whiteboard.excalidraw.md",
+                "file": "Excalidraw/whiteboard.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Local Backup/Excalidraw/whiteboard.excalidraw.md"
+                "file": "Excalidraw/whiteboard.excalidraw.md"
               }
             }
           },
@@ -153,7 +153,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"\"",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -181,54 +181,54 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "86db9698cb942d46",
+  "active": "a477e96e93747dd4",
   "lastOpenFiles": [
-    "Local Backup/Excalidraw/attachments/Pasted Image 20230620124417_626.png",
-    "Local Backup/Excalidraw/attachments/Pasted Image 20230620112239_954.png",
-    "Local Backup/Excalidraw/kaliDrawings.excalidraw.md",
-    "Servomecanismos.md",
-    "attachments/Pasted image 20230620102949.png",
-    "attachments/Pasted image 20230620094413.png",
-    "Local Backup/Excalidraw/attachments/Pasted Image 20230620094117_150.png",
-    "AuxFolder/README.md",
-    "AuxFolder/attachments/Pasted image 20230620091728.png",
-    "AuxFolder/attachments/Pasted image 20230620091620.png",
-    "AuxFolder/attachments",
-    "Excalidraw/kaliDrawings.excalidraw.md",
-    "AuxFolder/README.txt",
-    "AuxFolder/wav2Raw.py",
-    "AuxFolder/Implementación.png",
-    "AuxFolder/i2sTransmitter.py",
-    "AuxFolder/I2S_Transmitter.v",
-    "AuxFolder",
-    "Excalidraw/attachments/Pasted Image 20230620015530_391.png",
-    "Local Backup/Verilog.md",
-    "Local Backup/Excalidraw/blackboard.excalidraw.md",
-    "Excalidraw/attachments/Pasted Image 20230620014852_211.png",
-    "Excalidraw/attachments/Pasted Image 20230620014637_178.png",
+    "Excalidraw/attachments/Pasted Image 20230623112830_691.png",
+    "Excalidraw/attachments/Pasted Image 20230623111542_710.png",
     "Excalidraw/blackboard.excalidraw.md",
-    "Diseño de levas.md",
+    "Excalidraw/whiteboard.excalidraw.md",
+    "Local Backup/Excalidraw/blackboard.excalidraw.md",
+    "Análisis dinámico.md",
+    "Análisis de posición.md",
+    "Linked note.md",
     "Mecanismos.md",
-    "conflict-files-obsidian-git.md",
+    "Excalidraw/attachments/Pasted Image 20230623004602_194.png",
+    "Excalidraw/attachments/Pasted Image 20230623004522_826.png",
+    "Análisis de velocidad.md",
+    "Análisis de aceleración.md",
     "Local Backup/Mecanismos.md",
-    "Tema 2. Beta apalancado y desapalancado%2C betas proxy y costo de capital.md",
-    "Módulo 6. Teoría de la estructura de capital.md",
-    "Finanzas.md",
-    "Local Backup/Finanzas.md",
+    "Excalidraw/attachments/Pasted Image 20230622223436_202.png",
+    "Excalidraw/attachments/Pasted Image 20230622223404_107.png",
+    "Excalidraw/attachments/Pasted Image 20230622223012_130.png",
+    "TO DO.md",
     "Local Backup/myDrawings.md",
+    "Local Backup/attachments/speedCurve 1.gif",
+    "Local Backup/attachments/Pasted image 20230524165747.png",
+    "Local Backup/attachments/Pasted image 20230524165655.png",
+    "Local Backup/attachments/Pasted image 20230522181121.png",
     "Local Backup/attachments",
-    "Local Backup/Web Development.md",
-    "Local Backup/Using JS for Web Applications.md",
-    "Local Backup/Tema 5. Valoración de operaciones.md",
-    "Local Backup/Tema 4. Modelo CAPM; SML; CML y APT.md",
-    "Local Backup/Tema 4. Matemáticas financieras.md",
-    "Local Backup/Tema 4. Introducción a los mercados monetarios.md",
-    "Local Backup/Tema 4. Financiamiento a corto plazo.md",
-    "Local Backup/Tema 4. Análisis de sensibilidad.md",
-    "Local Backup/Tema 3. Valoración.md",
+    "Local Backup/Obsidian Basics.md",
+    "Local Backup/Nóbeles de economía.md",
+    "Local Backup/Módulo 6. Teoría de estructura de capital.md",
+    "Local Backup/Módulo 5. Teoría de portafolio.md",
+    "Local Backup/Módulo 4. Bonos y conceptos de duración.md",
+    "Local Backup/Módulo 3. Introducción al mercado de capitales.md",
+    "Local Backup/Módulo 2. Diagnóstico financiero.md",
+    "Local Backup/Módulo 1. Economía y matemática financiera.md",
+    "Local Backup/Microcontrollers.md",
+    "Local Backup/Main.md",
+    "Local Backup/Linux commands.md",
+    "Local Backup/Linked note.md",
+    "Local Backup/LaTeX.md",
     "Local Backup/Excalidraw/attachments",
     "Local Backup/Excalidraw",
     "Local Backup",
+    "Local Backup.rar",
+    "Local Backup/Local Backup.rar",
+    "Local Backup/AuxFolder/attachments",
+    "Local Backup/AuxFolder/wav2Raw.py",
+    "Local Backup/AuxFolder/I2S_Transmitter.v",
+    "Local Backup/AuxFolder/i2sTransmitter.py",
     "Untitled.canvas"
   ]
 }

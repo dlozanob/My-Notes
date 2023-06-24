@@ -320,7 +320,8 @@ $$
 $$
 
 >[!Note]
->La fuerza de presión en fluidos compresibles actúa sobre el centro geométrico
+>- En este caso $p_{0}$ es la diferencia de las presiones de los gases de cada fluido  
+>- La fuerza de presión en fluidos compresibles actúa sobre el centro geométrico
 
 El término $p_{0}$ en $y_{CP}$ puede variar de acuerdo a las condiciones del problema.
 
@@ -678,7 +679,7 @@ $$
 \end{align*}
 $$
 
-En el fluido se formarán algunos lazos cerrados donde la presión no varía a lo largo de ellos.
+En el fluido se formarán algunos lazos cerrados (curvas de presión) donde la presión no varía a lo largo de ellos.
 
 ![](attachments/Pasted%20image%2020230321222030.png)
 
@@ -695,6 +696,22 @@ $$
 $$
 \begin{align*}
 	\boxed{z(r) = \frac{\omega^{2}r^{2}}{2g} + c}
+\end{align*}
+$$
+
+Si $\hat{a}_{z} \neq 0$, entonces:
+
+$$
+\begin{align*}
+	z(r) = \frac{\omega^{2}r^{2}}{\hat{a}_{z} + g} + c
+\end{align*}
+$$
+
+Además, para dos puntos cualquiera:
+
+$$
+\begin{align*}
+	\boxed{\Delta p = \rho\omega^{2}\left( \frac{r_{2}^{2}}{2}-\frac{r_{1}^{2}}{2} \right)-\rho(z_{2}-z_{1})(\hat{a}_{z}+g)}
 \end{align*}
 $$
 
