@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "af31d947287c0c4c",
+        "id": "e2539f366dc2ed24",
         "type": "tabs",
         "children": [
           {
-            "id": "a477e96e93747dd4",
+            "id": "aaa6e0e7a19a934c",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/whiteboard.excalidraw.md"
+                "file": "TO DO.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
@@ -87,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/whiteboard.excalidraw.md",
+                "file": "TO DO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/whiteboard.excalidraw.md",
+                "file": "TO DO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/whiteboard.excalidraw.md"
+                "file": "TO DO.md"
               }
             }
           },
@@ -181,12 +183,15 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "a477e96e93747dd4",
+  "active": "aaa6e0e7a19a934c",
   "lastOpenFiles": [
+    "Local Backup/Módulo 3. Introducción al mercado de capitales.md",
+    "LaTeX Template.md",
+    "TO DO.md",
+    "Excalidraw/whiteboard.excalidraw.md",
     "Excalidraw/attachments/Pasted Image 20230623112830_691.png",
     "Excalidraw/attachments/Pasted Image 20230623111542_710.png",
     "Excalidraw/blackboard.excalidraw.md",
-    "Excalidraw/whiteboard.excalidraw.md",
     "Local Backup/Excalidraw/blackboard.excalidraw.md",
     "Análisis dinámico.md",
     "Análisis de posición.md",
@@ -200,19 +205,16 @@
     "Excalidraw/attachments/Pasted Image 20230622223436_202.png",
     "Excalidraw/attachments/Pasted Image 20230622223404_107.png",
     "Excalidraw/attachments/Pasted Image 20230622223012_130.png",
-    "TO DO.md",
     "Local Backup/myDrawings.md",
     "Local Backup/attachments/speedCurve 1.gif",
     "Local Backup/attachments/Pasted image 20230524165747.png",
     "Local Backup/attachments/Pasted image 20230524165655.png",
-    "Local Backup/attachments/Pasted image 20230522181121.png",
     "Local Backup/attachments",
     "Local Backup/Obsidian Basics.md",
     "Local Backup/Nóbeles de economía.md",
     "Local Backup/Módulo 6. Teoría de estructura de capital.md",
     "Local Backup/Módulo 5. Teoría de portafolio.md",
     "Local Backup/Módulo 4. Bonos y conceptos de duración.md",
-    "Local Backup/Módulo 3. Introducción al mercado de capitales.md",
     "Local Backup/Módulo 2. Diagnóstico financiero.md",
     "Local Backup/Módulo 1. Economía y matemática financiera.md",
     "Local Backup/Microcontrollers.md",

@@ -25665,6 +25665,34 @@ e196da9bb621136c256eb827ab36dd55a77e8f57: [[attachments/Pasted Image 20230623112
 			"lineHeight": 1.25
 		},
 		{
+			"id": "bKug9zMV9jk8ODWp0xmRa",
+			"type": "rectangle",
+			"x": 5329.226716281072,
+			"y": 5369.467083753203,
+			"width": 3634.999999999999,
+			"height": 1610,
+			"angle": 0,
+			"strokeColor": "#5f3dc4",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": {
+				"type": 3
+			},
+			"seed": 793282924,
+			"version": 21,
+			"versionNonce": 1821897324,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1687565239169,
+			"link": null,
+			"locked": false
+		},
+		{
 			"id": "8Dpcy1bY",
 			"type": "text",
 			"x": 7698.9489385032975,
@@ -25703,7 +25731,7 @@ e196da9bb621136c256eb827ab36dd55a77e8f57: [[attachments/Pasted Image 20230623112
 	"appState": {
 		"theme": "light",
 		"viewBackgroundColor": "#ffffff",
-		"currentItemStrokeColor": "#1864ab",
+		"currentItemStrokeColor": "#5f3dc4",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "solid",
 		"currentItemStrokeWidth": 4,
@@ -25715,10 +25743,10 @@ e196da9bb621136c256eb827ab36dd55a77e8f57: [[attachments/Pasted Image 20230623112
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": -6858.948938503296,
-		"scrollY": -5737.410806696926,
+		"scrollX": -4259.226716281072,
+		"scrollY": -4529.467083753203,
 		"zoom": {
-			"value": 0.7000000000000001
+			"value": 0.2
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
