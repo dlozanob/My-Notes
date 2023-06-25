@@ -25,7 +25,7 @@
 	- [ ] Apuntes: Diseño de levas
 	- [x] Actividad de práctica: Dinámica
 	- [x] Actividad: Diseño de levas (17)
-	- [ ] Proyecto
+	- [x] Proyecto
 
 - [ ] Señales II
 	- [ ] Proyecto (26)

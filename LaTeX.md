@@ -341,6 +341,8 @@ Enumerate sections:
 
 ## Title pages
 
+- Opción $1$:
+
 ```latex
 \begin{titlepage}
     \centering
@@ -358,6 +360,13 @@ Enumerate sections:
     {\Large Fecha \par}
 \end{titlepage}
 ```
+
+- Opción 2:
+
+[[Portada Universidad Nacional]]
+
+Crearla en un archivo `.tex` .
+Cargarla en _main_ con `\include{Portada}` .
 
 
 ## Tables
