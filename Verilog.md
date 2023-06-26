@@ -292,6 +292,18 @@ A deadlock condition will be created if an always statement has no control.
 >[!Note]
 >If there's a single line statement, `begin` and `end` can be omitted
 
+To break an `always` block use:
+
+```Verilog
+always @(<params>)
+begin : <block name>
+	.
+	.
+	disable <block name>;
+	.
+	.
+end
+```
 
 A _procedural assignment_ updates _Register_ data type values. 
 
@@ -1041,4 +1053,7 @@ endmodule
 
 >[!Note]
 >Functions can be reentrant by using the keyword `automatic`
+
+
+
 
