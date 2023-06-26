@@ -20,7 +20,7 @@
 	- [ ] Firmware
 	- [x] Modelado del auto
 
-- [ ] Mecanismos
+- [x] Mecanismos
 	- [ ] Barnes problem
 	- [ ] Apuntes: Diseño de levas
 	- [x] Actividad de práctica: Dinámica
