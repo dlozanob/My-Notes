@@ -11,8 +11,10 @@
             "id": "eb0a56a10615e967",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/blackboard.excalidraw.md"
+              }
             }
           }
         ]
@@ -85,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Excalidraw/blackboard.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Excalidraw/blackboard.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Excalidraw/blackboard.excalidraw.md"
+              }
             }
           },
           {
@@ -177,6 +183,9 @@
   },
   "active": "eb0a56a10615e967",
   "lastOpenFiles": [
+    "Excalidraw/attachments/Pasted Image 20230626151626_456.png",
+    "Linked note.md",
+    "Excalidraw/blackboard.excalidraw.md",
     "Cap. 7. Filtros digitales.md",
     "Verilog.md",
     "AuxFolder/I2S_Transmitter.v",
@@ -187,11 +196,9 @@
     "Portada Universidad Nacional.md",
     "Excalidraw/attachments/Pasted Image 20230623112830_691.png",
     "Excalidraw/attachments/Pasted Image 20230623111542_710.png",
-    "Excalidraw/blackboard.excalidraw.md",
     "Local Backup/Excalidraw/blackboard.excalidraw.md",
     "Análisis dinámico.md",
     "Análisis de posición.md",
-    "Linked note.md",
     "Mecanismos.md",
     "Excalidraw/attachments/Pasted Image 20230623004602_194.png",
     "Excalidraw/attachments/Pasted Image 20230623004522_826.png",
@@ -215,7 +222,6 @@
     "Local Backup/Módulo 2. Diagnóstico financiero.md",
     "Local Backup/Módulo 1. Economía y matemática financiera.md",
     "Local Backup/Microcontrollers.md",
-    "Local Backup/Main.md",
     "Local Backup/Excalidraw/attachments",
     "Local Backup/Excalidraw",
     "Local Backup",
