@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "af31d947287c0c4c",
+        "id": "bf481a6a05e74092",
         "type": "tabs",
         "children": [
           {
-            "id": "4f6112c2bb4091b1",
+            "id": "eb0a56a10615e967",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cap. 7. Filtros digitales.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f5ce60dc9f99981a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Verilog.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +85,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Verilog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Verilog.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,9 +122,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Verilog.md"
-              }
+              "state": {}
             }
           },
           {
@@ -196,11 +175,12 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "f5ce60dc9f99981a",
+  "active": "eb0a56a10615e967",
   "lastOpenFiles": [
+    "Cap. 7. Filtros digitales.md",
+    "Verilog.md",
     "AuxFolder/I2S_Transmitter.v",
     "AuxFolder/i2sTransmitter.py",
-    "Cap. 7. Filtros digitales.md",
     "Señales y Sistemas II.md",
     "Excalidraw/whiteboard.excalidraw.md",
     "attachments/Escudo UN.png",
@@ -243,7 +223,6 @@
     "Local Backup/Local Backup.rar",
     "Local Backup/AuxFolder/attachments",
     "Local Backup/AuxFolder/wav2Raw.py",
-    "Local Backup/AuxFolder/I2S_Transmitter.v",
     "Untitled.canvas"
   ]
 }
