@@ -48,7 +48,7 @@ module I2S_Transmitter(MCLK, SD, LRCLK, SCLK, enable, audioSel);
     reg LRCLK = 1;
     integer currentBit = BIT_DEPTH - 1;
     integer wordIterator = 0;
-    reg [0:BIT_DEPTH - 1] currentWord;
+    reg [0:BIT_DEPTH - 1] currentWord = 0;
 
     // 5 secs each one
     reg [BIT_DEPTH-1:0] mem1 [AUDIO_PERIOD*(SAMP_RATE - 1):0];
@@ -72,9 +72,9 @@ module I2S_Transmitter(MCLK, SD, LRCLK, SCLK, enable, audioSel);
         // Añadir los path y descomentar las memorias a usar
         // Ejemplo: '/home/daniel/SoC/AudioData/testAudio1.txt' 
         
-        $readmemh("", mem1);
-        //$readmemh("", mem2);
-        //$readmemh("", mem3);
+        $readmemh("/home/daniel/SoC/AudioData/testAudio1.txt", mem1);
+        $readmemh("/home/daniel/SoC/AudioData/testAudio2.txt", mem2);
+        $readmemh("/home/daniel/SoC/AudioData/testAudio3.txt", mem3);
         //$readmemh("", mem4);
         //$readmemh("", mem5);
         //$readmemh("", mem6);
@@ -87,8 +87,18 @@ module I2S_Transmitter(MCLK, SD, LRCLK, SCLK, enable, audioSel);
      
     // Data handler
     always @(negedge SCLK)
-    begin
+    begin : Data_handler
         SD <= currentWord[currentBit];
+        
+        // Audio Reset -> Enable rising edge //
+        if(enable != prevEnable) begin
+            wordIterator <= 0;
+            currentBit <= 0;
+            prevEnable <= enable;
+            disable Data_handler;
+        end
+        ///////////////////////////////////////        
+        
         
         if(currentBit == BIT_DEPTH - 1) begin
             currentBit <= 0;
@@ -107,7 +117,9 @@ module I2S_Transmitter(MCLK, SD, LRCLK, SCLK, enable, audioSel);
         end else begin
             currentBit <= currentBit + 1;
         end
+        
     end
+    
     
     // LRCLK generator
     integer LRCounter = LR_PS - 1;
@@ -121,8 +133,8 @@ module I2S_Transmitter(MCLK, SD, LRCLK, SCLK, enable, audioSel);
                 // Descomentar/Comentar de acuerdo al número de audios que se vayan a usar
 
                 3'b000: currentWord <= mem1[wordIterator];
-                //3'b001: currentWord <= mem2[wordIterator];
-                //3'b010: currentWord <= mem3[wordIterator];
+                3'b001: currentWord <= mem2[wordIterator];
+                3'b010: currentWord <= mem3[wordIterator];
                 //3'b011: currentWord <= mem4[wordIterator];
                 //3'b100: currentWord <= mem5[wordIterator];
                 //3'b101: currentWord <= mem6[wordIterator];
@@ -141,20 +153,13 @@ module I2S_Transmitter(MCLK, SD, LRCLK, SCLK, enable, audioSel);
         end
     end
    
+   
     // SCLK generator
     integer SCounter = 0;
     always @(posedge MCLK)
     begin
 
-        // Audio Reset -> Enable rising edge //
-        if(enable != prevEnable) begin
-            wordIterator <= 0;
-            currentBit <= 0;
-            prevEnable <= enable;
-        end
-        ///////////////////////////////////////  
-
-        if (enable)begin
+        if (~(~enable && ~prevEnable))begin
             if(SCounter == S_PS) begin        
                 SCLK <= ~SCLK;
                 SCounter <= 0;
@@ -165,3 +170,4 @@ module I2S_Transmitter(MCLK, SD, LRCLK, SCLK, enable, audioSel);
         end
     end
 endmodule
+
