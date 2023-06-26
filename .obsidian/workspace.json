@@ -1,20 +1,18 @@
 {
   "main": {
-    "id": "5cdbc59d50528e88",
+    "id": "f81cc0a2af9d00f8",
     "type": "split",
     "children": [
       {
-        "id": "bf481a6a05e74092",
+        "id": "3f970a28902f7e64",
         "type": "tabs",
         "children": [
           {
-            "id": "eb0a56a10615e967",
+            "id": "8b164f1b0e3e9a94",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -23,23 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "c3f9dea33de70d3a",
+    "id": "fb2e2e885d68c1c1",
     "type": "split",
     "children": [
       {
-        "id": "82ac41b6529192b8",
+        "id": "431b740c125dda34",
         "type": "tabs",
         "children": [
           {
-            "id": "b2d1ab0f32617ce1",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          },
-          {
-            "id": "d2fd3fe747728dc9",
+            "id": "ab6474b693611d71",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -49,106 +39,7 @@
             }
           },
           {
-            "id": "9d93bca41a6a57a5",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "ede638339c05eefb",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
-            }
-          }
-        ],
-        "currentTab": 2
-      }
-    ],
-    "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
-  },
-  "right": {
-    "id": "8cf20f15e2d652f4",
-    "type": "split",
-    "children": [
-      {
-        "id": "69cfc4de903d3da0",
-        "type": "tabs",
-        "dimension": 52.5,
-        "children": [
-          {
-            "id": "3e34f1a2ffb2f672",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": true,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "5dcc27a1d5779bfe",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "81b7f9b8da616eec",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "c294cc57ebe9b077",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "1f499520603a2d93",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          }
-        ],
-        "currentTab": 4
-      },
-      {
-        "id": "bc3f1f8ab0e0e5f8",
-        "type": "tabs",
-        "dimension": 47.5,
-        "children": [
-          {
-            "id": "abed2df76f33d216",
+            "id": "9db2541dac629211",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -161,74 +52,104 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "0360d120dfe2b1a6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "ee60a349cdd77dc5",
+    "type": "split",
+    "children": [
+      {
+        "id": "287532fbdd0deaba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5f8dc6165159d76c",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "38844708527f7485",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "83e6047f6e940040",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ae9905559ba6cf15",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e0437fafc1135d09",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 249.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-advanced-slides:Show Slide Preview": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "eb0a56a10615e967",
-  "lastOpenFiles": [
-    "Excalidraw/attachments/Pasted Image 20230626151626_456.png",
-    "Linked note.md",
-    "Excalidraw/blackboard.excalidraw.md",
-    "Cap. 7. Filtros digitales.md",
-    "Verilog.md",
-    "AuxFolder/I2S_Transmitter.v",
-    "AuxFolder/i2sTransmitter.py",
-    "Señales y Sistemas II.md",
-    "Excalidraw/whiteboard.excalidraw.md",
-    "attachments/Escudo UN.png",
-    "Portada Universidad Nacional.md",
-    "Excalidraw/attachments/Pasted Image 20230623112830_691.png",
-    "Excalidraw/attachments/Pasted Image 20230623111542_710.png",
-    "Local Backup/Excalidraw/blackboard.excalidraw.md",
-    "Análisis dinámico.md",
-    "Análisis de posición.md",
-    "Mecanismos.md",
-    "Excalidraw/attachments/Pasted Image 20230623004602_194.png",
-    "Excalidraw/attachments/Pasted Image 20230623004522_826.png",
-    "Análisis de velocidad.md",
-    "Análisis de aceleración.md",
-    "Local Backup/Mecanismos.md",
-    "Excalidraw/attachments/Pasted Image 20230622223436_202.png",
-    "Excalidraw/attachments/Pasted Image 20230622223404_107.png",
-    "Excalidraw/attachments/Pasted Image 20230622223012_130.png",
-    "TO DO.md",
-    "Local Backup/myDrawings.md",
-    "Local Backup/attachments/speedCurve 1.gif",
-    "Local Backup/attachments/Pasted image 20230524165747.png",
-    "Local Backup/attachments",
-    "Local Backup/Obsidian Basics.md",
-    "Local Backup/Nóbeles de economía.md",
-    "Local Backup/Módulo 6. Teoría de estructura de capital.md",
-    "Local Backup/Módulo 5. Teoría de portafolio.md",
-    "Local Backup/Módulo 4. Bonos y conceptos de duración.md",
-    "Local Backup/Módulo 3. Introducción al mercado de capitales.md",
-    "Local Backup/Módulo 2. Diagnóstico financiero.md",
-    "Local Backup/Módulo 1. Economía y matemática financiera.md",
-    "Local Backup/Microcontrollers.md",
-    "Local Backup/Excalidraw/attachments",
-    "Local Backup/Excalidraw",
-    "Local Backup",
-    "Local Backup.rar",
-    "Local Backup/Local Backup.rar",
-    "Local Backup/AuxFolder/attachments",
-    "Local Backup/AuxFolder/wav2Raw.py",
-    "Untitled.canvas"
-  ]
+  "active": "8b164f1b0e3e9a94",
+  "lastOpenFiles": []
 }
