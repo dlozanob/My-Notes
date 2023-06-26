@@ -18,55 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "52d2bfc4c2c32ff6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cap. 7. Filtros digitales.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "97d27af4cb6a6275",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "331c68b9d94ebc6a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cap. 5. Filtros analógicos.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "86256daf9fd127ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linked note.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -136,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md",
+                "file": "TO DO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md",
+                "file": "TO DO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md"
+                "file": "TO DO.md"
               }
             }
           },
@@ -230,14 +183,14 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "97d27af4cb6a6275",
+  "active": "aaa6e0e7a19a934c",
   "lastOpenFiles": [
     "Cap. 7. Filtros digitales.md",
     "Excalidraw/blackboard.excalidraw.md",
+    "Linked note.md",
     "Excalidraw/attachments/Pasted Image 20230625223816_155.png",
     "Excalidraw/attachments/Pasted Image 20230625223353_147.png",
     "Excalidraw/attachments/Pasted Image 20230625222155_256.png",
-    "Linked note.md",
     "Cap. 5. Filtros analógicos.md",
     "conflict-files-obsidian-git.md",
     "Local Backup/Excalidraw/blackboard.excalidraw.md",

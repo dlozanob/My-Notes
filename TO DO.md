@@ -27,8 +27,8 @@
 	- [x] Actividad: Diseño de levas (17)
 	- [x] Proyecto
 
-- [ ] Señales II
-	- [ ] Proyecto (26)
+- [x] Señales II
+	- [x] Proyecto (26)
 
 - [x] Fluidos
 	- [x] Código de Matlab

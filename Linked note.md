@@ -7,11 +7,3 @@ Hey! This is a linked note.
 
 
 
-
-$$
-\begin{align*}
-	&N = 200 \\\\
-	&F_{s} = 44100
-\end{align*}
-$$
-
