@@ -66,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cap. 7. Filtros digitales.md",
+                "file": "Excalidraw/blackboard.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cap. 7. Filtros digitales.md",
+                "file": "Excalidraw/blackboard.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cap. 7. Filtros digitales.md"
+                "file": "Excalidraw/blackboard.excalidraw.md"
               }
             }
           },
@@ -230,13 +230,13 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "52d2bfc4c2c32ff6",
+  "active": "97d27af4cb6a6275",
   "lastOpenFiles": [
+    "Cap. 7. Filtros digitales.md",
     "Excalidraw/blackboard.excalidraw.md",
     "Excalidraw/attachments/Pasted Image 20230625223816_155.png",
     "Excalidraw/attachments/Pasted Image 20230625223353_147.png",
     "Excalidraw/attachments/Pasted Image 20230625222155_256.png",
-    "Cap. 7. Filtros digitales.md",
     "Linked note.md",
     "Cap. 5. Filtros analógicos.md",
     "conflict-files-obsidian-git.md",
