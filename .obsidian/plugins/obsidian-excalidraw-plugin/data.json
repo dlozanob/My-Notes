@@ -75,6 +75,90 @@
         "status": "unpublished",
         "elements": [
           {
+            "type": "line",
+            "version": 1864,
+            "versionNonce": 2052675956,
+            "isDeleted": false,
+            "id": "IbjX4rLzxOrl2xkWlzoaS",
+            "fillStyle": "cross-hatch",
+            "strokeWidth": 1,
+            "strokeStyle": "solid",
+            "roughness": 1,
+            "opacity": 100,
+            "angle": 0.014886798210302032,
+            "x": 19162.316142876207,
+            "y": 7071.435872522015,
+            "strokeColor": "#000000",
+            "backgroundColor": "#4c6ef5",
+            "width": 323.4597403270622,
+            "height": 315.13100508521757,
+            "seed": 1740418292,
+            "groupIds": [],
+            "roundness": null,
+            "boundElements": null,
+            "updated": 1687749426910,
+            "link": null,
+            "locked": false,
+            "startBinding": null,
+            "endBinding": null,
+            "lastCommittedPoint": null,
+            "startArrowhead": null,
+            "endArrowhead": null,
+            "points": [
+              [
+                0,
+                0
+              ],
+              [
+                -88.76301932425565,
+                126.7765542354428
+              ],
+              [
+                -89.67843586389348,
+                56.16339672286108
+              ],
+              [
+                -197.28119759863932,
+                58.00313932784442
+              ],
+              [
+                -320.2557824383425,
+                60.10570230496933
+              ],
+              [
+                -323.4597403270622,
+                -187.04034898906963
+              ],
+              [
+                -246.60062480225338,
+                -188.35445084977474
+              ],
+              [
+                -244.76979172298888,
+                -47.1281358246092
+              ],
+              [
+                -91.05156067334883,
+                -49.75633954601419
+              ],
+              [
+                -91.96697721297257,
+                -120.36949705859652
+              ],
+              [
+                0,
+                0
+              ]
+            ]
+          }
+        ],
+        "id": "te57Hlz7WVhWHhV3j62H8",
+        "created": 1687749431382
+      },
+      {
+        "status": "unpublished",
+        "elements": [
+          {
             "type": "rectangle",
             "version": 211,
             "versionNonce": 589849824,
