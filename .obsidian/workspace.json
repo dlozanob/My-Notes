@@ -23,9 +23,11 @@
             "id": "7144cf1a282a35aa",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md"
+                "file": "Excalidraw/blackboard.excalidraw.md",
+                "mode": "preview",
+                "source": false
               }
             }
           },
@@ -208,8 +210,10 @@
   },
   "active": "7144cf1a282a35aa",
   "lastOpenFiles": [
-    "Linked note.md",
+    "conflict-files-obsidian-git.md",
     "Excalidraw/blackboard.excalidraw.md",
+    "Excalidraw/attachments/Pasted Image 20230626151626_456.png",
+    "Linked note.md",
     "Excalidraw/attachments/Pasted Image 20230627012857_693.png",
     "Excalidraw/attachments/Pasted Image 20230627010708_169.png",
     "Excalidraw/attachments/Pasted Image 20230627004914_207.png",
@@ -219,11 +223,9 @@
     "Excalidraw/attachments/Pasted Image 20230627004117_164.png",
     "Excalidraw/attachments/Pasted Image 20230627000255_146.png",
     "Excalidraw/attachments/Pasted Image 20230626225328_561.png",
-    "Excalidraw/attachments/Pasted Image 20230626224856_171.png",
     "TO DO.md",
     "Cap. 7. Filtros digitales.md",
     "Cap. 5. Filtros analógicos.md",
-    "conflict-files-obsidian-git.md",
     "Local Backup/Excalidraw/blackboard.excalidraw.md",
     "Señales y Sistemas II.md",
     "Electrónica Digital II.md",
