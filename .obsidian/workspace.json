@@ -4,26 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3f970a28902f7e64",
+        "id": "a92b526525851266",
         "type": "tabs",
         "children": [
           {
-            "id": "d0adf33b2943d384",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/kaliDrawings.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "12e3274636be55c4",
+            "id": "9725ba267fe6a8f6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Basics.md",
+                "file": "Linked note.md",
                 "mode": "preview",
                 "source": false
               }
@@ -105,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/kaliDrawings.excalidraw.md",
+                "file": "Linked note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/kaliDrawings.excalidraw.md",
+                "file": "Linked note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/kaliDrawings.excalidraw.md"
+                "file": "Linked note.md"
               }
             }
           }
@@ -168,10 +158,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d0adf33b2943d384",
+  "active": "9725ba267fe6a8f6",
   "lastOpenFiles": [
-    "Excalidraw/blackboard.excalidraw.md",
+    "Obsidian Basics.md",
     "Excalidraw/kaliDrawings.excalidraw.md",
+    "Excalidraw/blackboard.excalidraw.md",
     "conflict-files-obsidian-git.md",
     "Excalidraw/attachments/Pasted Image 20230627012857_693.png",
     "Excalidraw/attachments/Pasted Image 20230627010708_169.png",
@@ -182,7 +173,6 @@
     "Excalidraw/attachments/Pasted Image 20230627004117_164.png",
     "Excalidraw/attachments/Pasted Image 20230627000255_146.png",
     "Excalidraw/attachments/Pasted Image 20230626225328_561.png",
-    "Excalidraw/attachments/Pasted Image 20230626224856_171.png",
-    "Obsidian Basics.md"
+    "Excalidraw/attachments/Pasted Image 20230626224856_171.png"
   ]
 }
