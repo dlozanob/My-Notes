@@ -10,13 +10,13 @@
 	- [x] Parcial 2
 	- [x] Proyecto Académico
 	- [ ] Proyecto Industrial
-	- [ ] Parcial 3
+	- [x] Parcial 3
 
 - [ ] Digital II
 	- [ ] Apuntes
 	- [x] Módulo i2s terminado
-	- [ ] Módulo de los motores
-	- [ ] Integración en Litex de todos los módulos
+	- [x] Módulo de los motores
+	- [x] Integración en Litex de todos los módulos
 	- [ ] Firmware
 	- [x] Modelado del auto
 
