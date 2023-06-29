@@ -23,9 +23,11 @@
             "id": "966ae9d7a389799e",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md"
+                "file": "Excalidraw/blackboard.excalidraw.md",
+                "mode": "preview",
+                "source": false
               }
             }
           },
@@ -208,23 +210,22 @@
   },
   "active": "6135c2e4ad3cd60a",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Linked note.md",
+    "Excalidraw/attachments/Pasted Image 20230629024131_642.png",
+    "Excalidraw/attachments/Pasted Image 20230629024114_543.png",
     "attachments/Pasted image 20230629031116.png",
     "attachments/Pasted image 20230629030822.png",
     "attachments/Pasted image 20230629030733.png",
     "Excalidraw/blackboard.excalidraw.md",
-    "Linked note.md",
     "attachments/Pasted image 20230629030727.png",
     "attachments/Pasted image 20230629030719.png",
     "attachments/Pasted image 20230629030709.png",
     "attachments/Pasted image 20230629030707.png",
     "Excalidraw/attachments/Pasted Image 20230629030643_163.png",
-    "Excalidraw/attachments/Pasted Image 20230629030612_327.png",
-    "Excalidraw/attachments/Pasted Image 20230629030320_161.png",
-    "Excalidraw/attachments/Pasted Image 20230629030101_166.png",
     "TO DO.md",
     "Cap. 4. Análisis cualitativo de sistemas LTI.md",
     "Excalidraw/kaliDrawings.excalidraw.md",
-    "conflict-files-obsidian-git.md",
     "Cap. 7. Filtros digitales.md",
     "Cap. 5. Filtros analógicos.md",
     "Local Backup/Excalidraw/blackboard.excalidraw.md",
