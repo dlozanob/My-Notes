@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d2f2a3245af7638e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linked note.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linked note.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linked note.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -158,21 +171,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9725ba267fe6a8f6",
+  "active": "d2f2a3245af7638e",
   "lastOpenFiles": [
+    "Linked note.md",
+    "conflict-files-obsidian-git.md",
+    "attachments/Pasted image 20230629031116.png",
+    "attachments/Pasted image 20230629030822.png",
+    "attachments/Pasted image 20230629030733.png",
+    "attachments/Pasted image 20230629030727.png",
+    "attachments/Pasted image 20230629030719.png",
+    "attachments/Pasted image 20230629030709.png",
+    "attachments/Pasted image 20230629030707.png",
+    "Excalidraw/attachments/Pasted Image 20230629030643_163.png",
+    "Excalidraw/attachments/Pasted Image 20230629030612_327.png",
+    "Excalidraw/attachments/Pasted Image 20230629030320_161.png",
     "Obsidian Basics.md",
     "Excalidraw/kaliDrawings.excalidraw.md",
-    "Excalidraw/blackboard.excalidraw.md",
-    "conflict-files-obsidian-git.md",
-    "Excalidraw/attachments/Pasted Image 20230627012857_693.png",
-    "Excalidraw/attachments/Pasted Image 20230627010708_169.png",
-    "Excalidraw/attachments/Pasted Image 20230627004914_207.png",
-    "Excalidraw/attachments/Pasted Image 20230627004337_202.png",
-    "Excalidraw/attachments/Pasted Image 20230627004321_175.png",
-    "Excalidraw/attachments/Pasted Image 20230627004133_342.png",
-    "Excalidraw/attachments/Pasted Image 20230627004117_164.png",
-    "Excalidraw/attachments/Pasted Image 20230627000255_146.png",
-    "Excalidraw/attachments/Pasted Image 20230626225328_561.png",
-    "Excalidraw/attachments/Pasted Image 20230626224856_171.png"
+    "Excalidraw/blackboard.excalidraw.md"
   ]
 }
