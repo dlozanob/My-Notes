@@ -3,7 +3,7 @@
 
 ---
 
-- [ ] Servos
+- [x] Servos
 	- [ ] Apuntes
 		- [ ] Videos del martes
 		- [ ] Videos Control de Movimiento de Alto Desempeño (Jueves)
