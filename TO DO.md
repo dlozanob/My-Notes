@@ -40,8 +40,6 @@
 
 - [ ] Chem-e-car
 	- [ ] 14 - 18 de Agosto: PERÚ
-
-	- [ ] Subsidio: Cindy
 	- [ ] 1.9 M
 
 
