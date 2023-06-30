@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "6135c2e4ad3cd60a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linked note.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linked note.md",
+                "file": "TO DO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linked note.md",
+                "file": "TO DO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linked note.md"
+                "file": "TO DO.md"
               }
             }
           },
@@ -196,11 +183,11 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "6135c2e4ad3cd60a",
+  "active": "aaa6e0e7a19a934c",
   "lastOpenFiles": [
+    "Linked note.md",
     "TO DO.md",
     "Excalidraw/blackboard.excalidraw.md",
-    "Linked note.md",
     "conflict-files-obsidian-git.md",
     "Excalidraw/attachments/Pasted Image 20230629024131_642.png",
     "Excalidraw/attachments/Pasted Image 20230629024114_543.png",

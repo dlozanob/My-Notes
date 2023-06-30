@@ -9,15 +9,15 @@
 		- [ ] Videos Control de Movimiento de Alto Desempeño (Jueves)
 	- [x] Parcial 2
 	- [x] Proyecto Académico
-	- [ ] Proyecto Industrial
+	- [x] Proyecto Industrial
 	- [x] Parcial 3
 
-- [ ] Digital II
+- [x] Digital II
 	- [ ] Apuntes
 	- [x] Módulo i2s terminado
 	- [x] Módulo de los motores
 	- [x] Integración en Litex de todos los módulos
-	- [ ] Firmware
+	- [x] Firmware
 	- [x] Modelado del auto
 
 - [x] Mecanismos
@@ -35,8 +35,8 @@
 	- [ ] Apuntes
 	- [x] Parcial
 
-- [ ] Deutsch
-	- [ ] Estudiar
+- [x] Deutsch
+	- [x] Estudiar
 
 - [ ] Chem-e-car
 	- [ ] 14 - 18 de Agosto: PERÚ
