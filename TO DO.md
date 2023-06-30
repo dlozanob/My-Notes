@@ -40,7 +40,7 @@
 
 - [ ] Chem-e-car
 	- [ ] 14 - 18 de Agosto: PERÚ
-	- [ ] Uni. San Agustín: Mirar convenios
+
 	- [ ] Subsidio: Cindy
 	- [ ] 1.9 M
 
