@@ -552,7 +552,7 @@ La velocidad angular de la rueda está dada por:
 
 $$
 \begin{align*}
-	\omega_{rueda} = \left( \frac{a}{r}\omega_{entrada}\cos(\beta - \psi) \right)
+	\omega_{rueda} = \frac{a}{r}\omega_{entrada}\cos(\beta - \psi)
 \end{align*}
 $$
 

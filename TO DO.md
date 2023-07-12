@@ -11,10 +11,6 @@
 - [ ] Digital II
 	- [ ] Apuntes
 
-- [ ] Mecanismos
-	- [ ] Barnes problem
-	- [ ] Apuntes: Diseño de levas
-
 - [ ] Fluidos
 	- [ ] Apuntes
 
