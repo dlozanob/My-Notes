@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f565cb91b8534f6b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Diseño de levas.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TO DO.md",
+                "file": "Diseño de levas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TO DO.md",
+                "file": "Diseño de levas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TO DO.md"
+                "file": "Diseño de levas.md"
               }
             }
           },
@@ -183,10 +196,11 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "aaa6e0e7a19a934c",
+  "active": "f565cb91b8534f6b",
   "lastOpenFiles": [
-    "Diseño de levas.md",
     "Síntesis de mecanismos.md",
+    "Diseño de levas.md",
+    "TO DO.md",
     "Mecanismos.md",
     "attachments/Pasted image 20230712010605.png",
     "attachments/Pasted image 20230712010317.png",
@@ -199,7 +213,6 @@
     "attachments/Pasted image 20230712002254.png",
     "attachments/Pasted image 20230712002213.png",
     "Tema 1. Infraestructura de los mercados financieros.md",
-    "TO DO.md",
     "conflict-files-obsidian-git.md",
     "Linked note.md",
     "Excalidraw/blackboard.excalidraw.md",

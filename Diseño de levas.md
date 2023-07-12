@@ -200,6 +200,16 @@ Cuando la relación $\frac{R_{b}}{R_{f}}$ es muy baja, ocurren desplazamientos i
 
 Por tanto, en el proceso de diseño se aumenta poco a poco el radio base, lo que hará también que disminuya el ángulo de presión.
 
+Para evitar este tipo de problemas se recomienda:
+
+$$
+\begin{align*}
+	\mid\rho_{min}\mid > (3\,\,o\,\,2)R_{f}
+\end{align*}
+$$
+
+Donde $\rho$ es el radio de curvatura de una de las secciones de la leva.
+
 
 ## Diseño de levas cilíndricas
 

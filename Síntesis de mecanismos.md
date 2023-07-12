@@ -511,6 +511,9 @@ Un movimiento rotacional continuo se transforma en uno rotacional discreto.
 
 ![](attachments/Pasted%20image%2020230405222423.png)
 
+>[!Note]
+>El _disco de bloqueo_ es necesario para que la rueda no siga girando por inercia después de una iteración, de lo contrario, existirá un desfase en las iteraciones futuras
+
 - Ecuaciones de diseño:
 
 Para que el rodillo entre tangencial a la ranura se debe cumplir:
