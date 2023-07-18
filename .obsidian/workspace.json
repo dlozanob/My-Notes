@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "TO DO.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -155,7 +155,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#ffffff",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -168,8 +168,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249.5,
-    "collapsed": true
+    "width": 249.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,9 +184,13 @@
   },
   "active": "aaa6e0e7a19a934c",
   "lastOpenFiles": [
+    "CSS.md",
+    "Javascript.md",
+    "Using JS for Web Applications.md",
+    "HTML.md",
+    "TO DO.md",
     "Diseño de levas.md",
     "Síntesis de mecanismos.md",
-    "TO DO.md",
     "Mecanismos.md",
     "attachments/Pasted image 20230712010605.png",
     "attachments/Pasted image 20230712010317.png",
@@ -218,10 +221,6 @@
     "attachments/Escudo UN.png.crdownload",
     "Local Backup/Módulo 3. Introducción al mercado de capitales.md",
     "Excalidraw/whiteboard.excalidraw.md",
-    "Análisis de posición.md",
-    "Análisis de velocidad.md",
-    "Análisis de aceleración.md",
-    "Local Backup/Mecanismos.md",
     "Local Backup/attachments",
     "Local Backup/Excalidraw/attachments",
     "Local Backup/Excalidraw",
