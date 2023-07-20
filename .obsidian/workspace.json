@@ -13,7 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Fundamentals of penetration testing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f4aa3bcdb43ff04b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Hacking Tools.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "da5a039e9cda31b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tools Links.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hacking Tools.md",
+                "file": "Fundamentals of penetration testing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hacking Tools.md",
+                "file": "Fundamentals of penetration testing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hacking Tools.md"
+                "file": "Fundamentals of penetration testing.md"
               }
             }
           }
@@ -160,12 +184,18 @@
   },
   "active": "3ea51023737fc26f",
   "lastOpenFiles": [
-    "Cybersecurity E-degree.md",
-    "Hacking Tools.md",
+    "attachments/Pasted image 20230720020403.png",
     "Tools Links.md",
+    "Hacking Tools.md",
+    "Fundamentals of penetration testing.md",
+    "attachments/Pasted image 20230720014150.png",
+    "attachments/Pasted image 20230720013128.png",
+    "findsubdomains.com.md",
+    "Cybersecurity E-degree.md",
+    "Cybersec.md",
+    "attachments/Pasted image 20230720010535.png",
     "attachments/Pasted image 20230720005452.png",
     "attachments/Pasted image 20230720005420.png",
-    "Cybersec.md",
     "Linux commands.md",
     "Main.md",
     "TO DO.md",
@@ -176,9 +206,6 @@
     "attachments/Pasted image 20230712005331.png",
     "attachments/Pasted image 20230712004615.png",
     "attachments/Pasted image 20230712002931.png",
-    "attachments/Pasted image 20230712002728.png",
-    "attachments/Pasted image 20230712002712.png",
-    "attachments/Pasted image 20230712002327.png",
     "Obsidian Basics.md",
     "Excalidraw/kaliDrawings.excalidraw.md",
     "Excalidraw/blackboard.excalidraw.md"

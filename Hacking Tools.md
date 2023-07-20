@@ -21,13 +21,35 @@ There are 65535 port numbers (2^16).
 More information at:  (IANA --> Internet Assigned Numbers Authority) https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.xhtml
 *************************************************************
 
+## DIG
+
+Tool for interrogating DNS name servers.
+
+Get a DNS response (information about a domain):
+
+```Shell
+dig ns<number of server>.<domain>
+```
+
+Get simplified response (only ip address):
+
+```Shell
+dig +short ns.<domain>
+
+// Get one of the google´s ip adresses
+dig +short ns.google.com
+```
+
+Get belonging domain of an ip:
+
+```Shell
+dig +short -x <IP adress>
+```
 
 
---------DIG (Tool for interrogating DNS name servers)----------------
 
-dig nsl.<domain> (Information about a domain)
-dig +short ns.google.com (Get one of the google's ip adresses)
-dig + short -x <IP adress> (Get belonging domain of that ip)
+
+
 
 inurl:"ViewerFrame?Mode=" (useful for finding cameras)
 

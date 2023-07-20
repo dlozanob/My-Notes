@@ -1,9 +1,10 @@
 # Tools Links
 
-- https://lookup.icann.org/lookup
-- https://spyse.com/
-- https://www.google.com/robots.txt-
-- https://www.shodan.io/
+## Chapter 1
+- [ICANN](https://lookup.icann.org/lookup)
+- [Find subdomains](https://spyse.com/)
+- [Google's internal links](https://www.google.com/robots.txt)
+- [Shodan](https://www.shodan.io/)
 - https://osintframework.com/
 - https://attack.mitre.org/
 - https://ctftime.org/
