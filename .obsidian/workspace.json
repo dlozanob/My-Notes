@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hacking Tools.md",
+                "file": "Linux commands.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -119,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fundamentals of penetration testing.md",
+                "file": "Linux commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fundamentals of penetration testing.md",
+                "file": "Linux commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fundamentals of penetration testing.md"
+                "file": "Linux commands.md"
               }
             }
           }
@@ -182,30 +183,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3ea51023737fc26f",
+  "active": "f4aa3bcdb43ff04b",
   "lastOpenFiles": [
-    "attachments/Pasted image 20230720020403.png",
-    "Tools Links.md",
+    "Cybersec.md",
     "Hacking Tools.md",
     "Fundamentals of penetration testing.md",
+    "Tools Links.md",
+    "attachments/Pasted image 20230720023155.png",
+    "attachments/Pasted image 20230720022328.png",
+    "attachments/Pasted image 20230720022107.png",
+    "attachments/Pasted image 20230720021257.png",
+    "attachments/Pasted image 20230720021129.png",
+    "attachments/Pasted image 20230720020403.png",
     "attachments/Pasted image 20230720014150.png",
     "attachments/Pasted image 20230720013128.png",
     "findsubdomains.com.md",
     "Cybersecurity E-degree.md",
-    "Cybersec.md",
     "attachments/Pasted image 20230720010535.png",
     "attachments/Pasted image 20230720005452.png",
-    "attachments/Pasted image 20230720005420.png",
     "Linux commands.md",
     "Main.md",
     "TO DO.md",
     "Linked note.md",
     "conflict-files-obsidian-git.md",
-    "attachments/Pasted image 20230712010605.png",
-    "attachments/Pasted image 20230712010317.png",
-    "attachments/Pasted image 20230712005331.png",
-    "attachments/Pasted image 20230712004615.png",
-    "attachments/Pasted image 20230712002931.png",
     "Obsidian Basics.md",
     "Excalidraw/kaliDrawings.excalidraw.md",
     "Excalidraw/blackboard.excalidraw.md"

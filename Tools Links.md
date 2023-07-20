@@ -5,7 +5,7 @@
 - [Find subdomains](https://spyse.com/)
 - [Google's internal links](https://www.google.com/robots.txt)
 - [Shodan](https://www.shodan.io/)
-- https://osintframework.com/
+- [OSINT Framework](https://osintframework.com/)
 - https://attack.mitre.org/
 - https://ctftime.org/
 - https://www.hackerone.com/
