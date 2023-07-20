@@ -1,0 +1,13 @@
+# Tools Links
+
+- https://lookup.icann.org/lookup
+- https://spyse.com/
+- https://www.google.com/robots.txt-
+- https://www.shodan.io/
+- https://osintframework.com/
+- https://attack.mitre.org/
+- https://ctftime.org/
+- https://www.hackerone.com/
+- https://github.com/WebGoat/WebGoat
+- https://dvwa.co.uk
+- https://www.w3schools.com/

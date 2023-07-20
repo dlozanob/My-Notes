@@ -11,8 +11,12 @@
             "id": "3ea51023737fc26f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Cybersecurity E-degree.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -91,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Cybersecurity E-degree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Cybersecurity E-degree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Cybersecurity E-degree.md"
+              }
             }
           }
         ]
@@ -152,6 +160,14 @@
   },
   "active": "3ea51023737fc26f",
   "lastOpenFiles": [
+    "Tools Links.md",
+    "Cybersecurity E-degree.md",
+    "attachments/Pasted image 20230720005452.png",
+    "attachments/Pasted image 20230720005420.png",
+    "Cybersec.md",
+    "Linux commands.md",
+    "Main.md",
+    "TO DO.md",
     "Linked note.md",
     "conflict-files-obsidian-git.md",
     "attachments/Pasted image 20230712010605.png",
@@ -162,9 +178,6 @@
     "attachments/Pasted image 20230712002728.png",
     "attachments/Pasted image 20230712002712.png",
     "attachments/Pasted image 20230712002327.png",
-    "attachments/Pasted image 20230712002254.png",
-    "attachments/Pasted image 20230712002213.png",
-    "Linux commands.md",
     "Obsidian Basics.md",
     "Excalidraw/kaliDrawings.excalidraw.md",
     "Excalidraw/blackboard.excalidraw.md"
