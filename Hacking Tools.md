@@ -69,15 +69,11 @@ Establish a connection with the server:
 ncat 127.0.0.1 8080
 ```
 
+Running a command on the client side, will run the command on the host machine a print the output on the client:
 
-
-
-
-
-
-
-
-ncat -l --exec "/bin/bash" 127.0.0.1 8080 (For execute the given command)
+```Shell
+ncat -l --exec "/bin/bash" 127.0.0.1 8080
+```
 
 
 ------------------------ARMITAGE (Graphical user interface for Metasploit)------------------------

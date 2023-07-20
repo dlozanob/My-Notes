@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux commands.md",
+                "file": "Hacking Tools.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux commands.md",
+                "file": "Tools Links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux commands.md",
+                "file": "Tools Links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux commands.md"
+                "file": "Tools Links.md"
               }
             }
           }
@@ -183,12 +183,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f4aa3bcdb43ff04b",
+  "active": "da5a039e9cda31b1",
   "lastOpenFiles": [
-    "Cybersec.md",
-    "Hacking Tools.md",
     "Fundamentals of penetration testing.md",
+    "Hacking Tools.md",
     "Tools Links.md",
+    "attachments/Pasted image 20230720031430.png",
+    "Linux commands.md",
+    "Cybersec.md",
     "attachments/Pasted image 20230720023155.png",
     "attachments/Pasted image 20230720022328.png",
     "attachments/Pasted image 20230720022107.png",
@@ -200,8 +202,6 @@
     "findsubdomains.com.md",
     "Cybersecurity E-degree.md",
     "attachments/Pasted image 20230720010535.png",
-    "attachments/Pasted image 20230720005452.png",
-    "Linux commands.md",
     "Main.md",
     "TO DO.md",
     "Linked note.md",

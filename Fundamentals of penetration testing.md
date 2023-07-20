@@ -90,6 +90,7 @@ _Ncat_ can be used to connect to a port, or become a server hosting on a port.
 
 It behaves like a real time chat:
 
+![](attachments/Pasted%20image%2020230720031430.png)
 
 
 
