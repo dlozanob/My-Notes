@@ -14,12 +14,21 @@
               "type": "markdown",
               "state": {
                 "file": "Linked note.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
+          },
+          {
+            "id": "3ea51023737fc26f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +104,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linked note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +120,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linked note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,9 +141,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Linked note.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -158,10 +163,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9725ba267fe6a8f6",
+  "active": "3ea51023737fc26f",
   "lastOpenFiles": [
-    "Linux commands.md",
     "Linked note.md",
+    "Linux commands.md",
     "conflict-files-obsidian-git.md",
     "attachments/Pasted image 20230629031116.png",
     "attachments/Pasted image 20230629030822.png",
