@@ -10,4 +10,5 @@
 - [[Encryption fundamentals]]
 
 ## Tools
+- [[Hacking Tools]]
 - [[Tools Links]]
