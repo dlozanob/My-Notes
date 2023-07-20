@@ -5,15 +5,3 @@ Hey! This is a linked note.
 
 ---
 
-<<<<<<< HEAD
-=======
-
-
-<<<<<<< HEAD
-=======
-
-
-
-
->>>>>>> origin/main
->>>>>>> origin/main
