@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ff8e925ac84e37cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TO DO.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TO DO.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TO DO.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -183,28 +196,32 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "aaa6e0e7a19a934c",
+  "active": "ff8e925ac84e37cf",
   "lastOpenFiles": [
+    "TO DO.md",
+    "conflict-files-obsidian-git.md",
+    "attachments/Pasted image 20230720031430.png",
+    "attachments/Pasted image 20230720023155.png",
+    "attachments/Pasted image 20230720022328.png",
+    "attachments/Pasted image 20230720022107.png",
+    "attachments/Pasted image 20230720021257.png",
+    "attachments/Pasted image 20230720021129.png",
+    "attachments/Pasted image 20230720020403.png",
+    "attachments/Pasted image 20230720014150.png",
+    "attachments/Pasted image 20230720013128.png",
+    "attachments/Pasted image 20230720010535.png",
+    "Tools Links.md",
+    "Hacking Tools.md",
+    "Fundamentals of penetration testing.md",
+    "Cybersecurity E-degree.md",
     "CSS.md",
     "Javascript.md",
     "Using JS for Web Applications.md",
     "HTML.md",
-    "TO DO.md",
     "Diseño de levas.md",
     "Síntesis de mecanismos.md",
     "Mecanismos.md",
-    "attachments/Pasted image 20230712010605.png",
-    "attachments/Pasted image 20230712010317.png",
-    "attachments/Pasted image 20230712005331.png",
-    "attachments/Pasted image 20230712004615.png",
-    "attachments/Pasted image 20230712002931.png",
-    "attachments/Pasted image 20230712002728.png",
-    "attachments/Pasted image 20230712002712.png",
-    "attachments/Pasted image 20230712002327.png",
-    "attachments/Pasted image 20230712002254.png",
-    "attachments/Pasted image 20230712002213.png",
     "Tema 1. Infraestructura de los mercados financieros.md",
-    "conflict-files-obsidian-git.md",
     "Linked note.md",
     "Excalidraw/blackboard.excalidraw.md",
     "Cap. 4. Análisis cualitativo de sistemas LTI.md",
@@ -216,12 +233,7 @@
     "Electrónica Digital II.md",
     "Local Backup/Electrónica Digital II.md",
     "LaTeX.md",
-    "Análisis dinámico.md",
-    "Portada Universidad Nacional.md",
-    "LaTeX Template.md",
     "attachments/Escudo UN.png.crdownload",
-    "Local Backup/Módulo 3. Introducción al mercado de capitales.md",
-    "Excalidraw/whiteboard.excalidraw.md",
     "Local Backup/attachments",
     "Local Backup/Excalidraw/attachments",
     "Local Backup/Excalidraw",
