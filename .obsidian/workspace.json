@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersec.md",
-                "mode": "preview",
+                "file": "Git commands.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cybersec.md",
+                "file": "Git commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cybersec.md",
+                "file": "Git commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cybersec.md"
+                "file": "Git commands.md"
               }
             }
           },
@@ -185,12 +185,12 @@
   },
   "active": "9f4a21151f42c8fa",
   "lastOpenFiles": [
-    "Excalidraw/blackboard.excalidraw.md",
     "Cybersec.md",
+    "Git commands.md",
+    "Excalidraw/blackboard.excalidraw.md",
     "Main.md",
     "LaTeX.md",
     "Local Backup.rar",
-    "Git commands.md",
     "Cybersecurity E-degree.md",
     "Tools Links.md",
     "Hacking Tools.md",
