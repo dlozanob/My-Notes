@@ -4,19 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b1b7931e87c4e1a8",
+        "id": "7174993b3738b31f",
         "type": "tabs",
         "children": [
           {
-            "id": "de6c3cf357cca538",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "9f4a21151f42c8fa",
+            "id": "aaef300d0ef29f3c",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -183,8 +175,10 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "de6c3cf357cca538",
+  "active": "aaef300d0ef29f3c",
   "lastOpenFiles": [
+    "Local Backup.rar",
+    "Local Notes Backup.rar",
     "myDrawings.md",
     "attachments/speedCurve 1.gif",
     "attachments/Pasted image 20230729185216.png",
@@ -220,9 +214,7 @@
     "Microcontrollers.md",
     "Mecanismos.md",
     "Main.md",
-    "Local Backup.rar",
     "Linux commands.md",
-    "Linked note.md",
     "Excalidraw/attachments",
     "Excalidraw",
     "AuxFolder/wav2Raw.py",
