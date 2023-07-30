@@ -4,31 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "2dab63f935206b91",
+        "id": "b1b7931e87c4e1a8",
         "type": "tabs",
         "children": [
           {
-            "id": "8d85402565a5c1c9",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "1168062352dec118",
+            "id": "de6c3cf357cca538",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Cybersec.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Cybersec.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Cybersec.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Cybersec.md"
               }
             }
           },
@@ -192,15 +183,16 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "1168062352dec118",
+  "active": "de6c3cf357cca538",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Excalidraw/blackboard.excalidraw.md",
-    "Cybersec.md",
     "Cybersecurity E-degree.md",
     "Tools Links.md",
     "Hacking Tools.md",
     "Fundamentals of penetration testing.md",
+    "Cybersec.md",
+    "Main.md",
+    "Excalidraw/blackboard.excalidraw.md",
+    "conflict-files-obsidian-git.md",
     "Excalidraw/attachments/Pasted Image 20230629030643_163.png",
     "Excalidraw/attachments/Pasted Image 20230629030612_327.png",
     "Excalidraw/attachments/Pasted Image 20230629030320_161.png",
@@ -231,7 +223,6 @@
     "Local Backup/Tema 4. Financiamiento a corto plazo.md",
     "Local Backup/Tema 3. Medición del rendimiento y del riesgo.md",
     "Local Backup/Tema 3. Valoración.md",
-    "Local Backup/Tema 3. Introducción a los mercados de capitales.md",
     "Local Backup/Excalidraw",
     "Local Backup",
     "AuxFolder/I2S_Transmitter.v",
