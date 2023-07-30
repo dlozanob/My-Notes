@@ -8,16 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "de6c3cf357cca538",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md"
-              }
-            }
-          },
-          {
             "id": "9f4a21151f42c8fa",
             "type": "leaf",
             "state": {
@@ -99,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md",
+                "file": "Cybersec.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md",
+                "file": "Cybersec.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md"
+                "file": "Cybersec.md"
               }
             }
           },
@@ -193,12 +183,12 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "de6c3cf357cca538",
+  "active": "9f4a21151f42c8fa",
   "lastOpenFiles": [
+    "Excalidraw/blackboard.excalidraw.md",
     "Cybersec.md",
     "Main.md",
     "LaTeX.md",
-    "Excalidraw/blackboard.excalidraw.md",
     "Local Backup.rar",
     "Git commands.md",
     "Cybersecurity E-degree.md",
