@@ -16,6 +16,18 @@
                 "file": "Excalidraw/blackboard.excalidraw.md"
               }
             }
+          },
+          {
+            "id": "9f4a21151f42c8fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cybersec.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -183,15 +195,16 @@
   },
   "active": "de6c3cf357cca538",
   "lastOpenFiles": [
+    "Cybersec.md",
+    "Main.md",
+    "LaTeX.md",
+    "Excalidraw/blackboard.excalidraw.md",
     "Local Backup.rar",
     "Git commands.md",
-    "Cybersec.md",
     "Cybersecurity E-degree.md",
     "Tools Links.md",
     "Hacking Tools.md",
     "Fundamentals of penetration testing.md",
-    "Main.md",
-    "Excalidraw/blackboard.excalidraw.md",
     "conflict-files-obsidian-git.md",
     "Excalidraw/attachments/Pasted Image 20230629030643_163.png",
     "Excalidraw/attachments/Pasted Image 20230629030612_327.png",
