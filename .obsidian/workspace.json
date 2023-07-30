@@ -11,11 +11,9 @@
             "id": "de6c3cf357cca538",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Cybersec.md",
-                "mode": "preview",
-                "source": false
+                "file": "Excalidraw/blackboard.excalidraw.md"
               }
             }
           }
@@ -89,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cybersec.md",
+                "file": "Excalidraw/blackboard.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cybersec.md",
+                "file": "Excalidraw/blackboard.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cybersec.md"
+                "file": "Excalidraw/blackboard.excalidraw.md"
               }
             }
           },
@@ -185,11 +183,11 @@
   },
   "active": "de6c3cf357cca538",
   "lastOpenFiles": [
+    "Cybersec.md",
     "Cybersecurity E-degree.md",
     "Tools Links.md",
     "Hacking Tools.md",
     "Fundamentals of penetration testing.md",
-    "Cybersec.md",
     "Main.md",
     "Excalidraw/blackboard.excalidraw.md",
     "conflict-files-obsidian-git.md",
