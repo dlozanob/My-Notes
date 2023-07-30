@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git commands.md",
-                "mode": "source",
+                "file": "Cybersecurity E-degree.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git commands.md",
+                "file": "Cybersecurity E-degree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git commands.md",
+                "file": "Cybersecurity E-degree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git commands.md"
+                "file": "Cybersecurity E-degree.md"
               }
             }
           },
@@ -185,16 +185,21 @@
   },
   "active": "9f4a21151f42c8fa",
   "lastOpenFiles": [
+    "Fundamentals of penetration testing.md",
+    "Cybersecurity E-degree.md",
     "Cybersec.md",
-    "Git commands.md",
-    "Excalidraw/blackboard.excalidraw.md",
+    "Linux commands.md",
     "Main.md",
+    "Electrónica Digital II.md",
+    "Diseño de levas.md",
+    "Mecanismos.md",
+    "Git commands.md",
+    "m3ecanismos.md",
+    "Excalidraw/blackboard.excalidraw.md",
     "LaTeX.md",
     "Local Backup.rar",
-    "Cybersecurity E-degree.md",
     "Tools Links.md",
     "Hacking Tools.md",
-    "Fundamentals of penetration testing.md",
     "conflict-files-obsidian-git.md",
     "Excalidraw/attachments/Pasted Image 20230629030643_163.png",
     "Excalidraw/attachments/Pasted Image 20230629030612_327.png",
@@ -219,11 +224,6 @@
     "Local Backup/Tema 5. Valoración de operaciones.md",
     "Local Backup/TO DO.md",
     "Local Backup/Tema 4. Modelo CAPM; SML; CML y APT.md",
-    "Local Backup/Tema 4. Matemáticas financieras.md",
-    "Local Backup/Tema 4. Introducción a los mercados monetarios.md",
-    "Local Backup/Tema 4. Análisis de sensibilidad.md",
-    "Local Backup/Tema 4. Financiamiento a corto plazo.md",
-    "Local Backup/Tema 3. Medición del rendimiento y del riesgo.md",
     "Local Backup/Excalidraw",
     "Local Backup",
     "AuxFolder/I2S_Transmitter.v",
