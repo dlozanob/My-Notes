@@ -8,15 +8,19 @@
         "type": "tabs",
         "children": [
           {
+            "id": "de6c3cf357cca538",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
             "id": "9f4a21151f42c8fa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cybersecurity E-degree.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -89,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cybersecurity E-degree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +109,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cybersecurity E-degree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,9 +130,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Cybersecurity E-degree.md"
-              }
+              "state": {}
             }
           },
           {
@@ -183,54 +183,54 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "9f4a21151f42c8fa",
+  "active": "de6c3cf357cca538",
   "lastOpenFiles": [
-    "Fundamentals of penetration testing.md",
-    "Cybersecurity E-degree.md",
-    "Cybersec.md",
-    "Linux commands.md",
-    "Main.md",
-    "Electrónica Digital II.md",
-    "Diseño de levas.md",
-    "Mecanismos.md",
-    "Git commands.md",
-    "m3ecanismos.md",
-    "Excalidraw/blackboard.excalidraw.md",
-    "LaTeX.md",
-    "Local Backup.rar",
+    "myDrawings.md",
+    "attachments/speedCurve 1.gif",
+    "attachments/Pasted image 20230729185216.png",
+    "attachments/Pasted image 20230720031430.png",
+    "attachments/Pasted image 20230720023155.png",
+    "attachments/Pasted image 20230720022328.png",
+    "attachments/Pasted image 20230720022107.png",
+    "attachments/Pasted image 20230720021257.png",
+    "attachments/Pasted image 20230720021129.png",
+    "attachments/Pasted image 20230720020403.png",
+    "attachments/Pasted image 20230720014150.png",
+    "attachments",
+    "Web Development.md",
+    "Verilog.md",
+    "Using JS for Web Applications.md",
     "Tools Links.md",
-    "Hacking Tools.md",
-    "conflict-files-obsidian-git.md",
-    "Excalidraw/attachments/Pasted Image 20230629030643_163.png",
-    "Excalidraw/attachments/Pasted Image 20230629030612_327.png",
-    "Excalidraw/attachments/Pasted Image 20230629030320_161.png",
-    "Excalidraw/attachments/Pasted Image 20230629030101_166.png",
-    "Excalidraw/attachments/Pasted Image 20230629030046_148.png",
-    "Excalidraw/attachments/Pasted Image 20230629024131_642.png",
-    "Excalidraw/attachments/Pasted Image 20230629024114_543.png",
-    "Excalidraw/attachments/Pasted Image 20230627012857_693.png",
-    "Excalidraw/attachments/Pasted Image 20230627010708_169.png",
-    "Excalidraw/attachments/Pasted Image 20230627004914_207.png",
-    "Excalidraw/whiteboard.excalidraw.md",
-    "Excalidraw/kaliDrawings.excalidraw.md",
-    "Local Backup/Excalidraw/whiteboard.excalidraw.md",
-    "Local Backup/Excalidraw/kaliDrawings.excalidraw.md",
-    "Local Backup/Excalidraw/attachments",
-    "Local Backup/Excalidraw/blackboard.excalidraw.md",
-    "Local Backup/attachments",
-    "Local Backup/Web Development.md",
-    "Local Backup/Verilog.md",
-    "Local Backup/Using JS for Web Applications.md",
-    "Local Backup/Tema 5. Valoración de operaciones.md",
-    "Local Backup/TO DO.md",
-    "Local Backup/Tema 4. Modelo CAPM; SML; CML y APT.md",
-    "Local Backup/Excalidraw",
-    "Local Backup",
+    "Tema 5. Valoración de operaciones.md",
+    "Tema 4. Modelo CAPM; SML; CML y APT.md",
+    "Resistencia de Materiales.md",
+    "README.md",
+    "Propiedades de los Fluidos.md",
+    "Principios de Estática.md",
+    "Portada Universidad Nacional.md",
+    "Optimización.md",
+    "Obsidian Basics.md",
+    "Nóbeles de economía.md",
+    "Módulo 6. Teoría de la estructura de capital.md",
+    "Módulo 5. Teoría de portafolio.md",
+    "Módulo 4. Bonos y conceptos de duración.md",
+    "Módulo 3. Introducción al mercado de capitales.md",
+    "Módulo 2. Diagnóstico financiero.md",
+    "Módulo 1. Economía y matemática financiera.md",
+    "Microcontrollers.md",
+    "Mecanismos.md",
+    "Main.md",
+    "Local Backup.rar",
+    "Linux commands.md",
+    "Linked note.md",
+    "Excalidraw/attachments",
+    "Excalidraw",
+    "AuxFolder/wav2Raw.py",
     "AuxFolder/I2S_Transmitter.v",
     "AuxFolder/i2sTransmitter.py",
-    "Local Backup/Local Backup.rar",
-    "Local Backup/AuxFolder/attachments",
-    "Local Backup/AuxFolder/wav2Raw.py",
+    "AuxFolder/attachments",
+    "AuxFolder",
+    "Local Backup/Excalidraw/attachments",
     "Untitled.canvas"
   ]
 }
