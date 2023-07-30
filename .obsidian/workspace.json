@@ -11,8 +11,10 @@
             "id": "aaef300d0ef29f3c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/blackboard.excalidraw.md"
+              }
             }
           }
         ]
@@ -85,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Excalidraw/blackboard.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Excalidraw/blackboard.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Excalidraw/blackboard.excalidraw.md"
+              }
             }
           },
           {
