@@ -69,6 +69,13 @@ Se la da una descripción detallada al diagrama de caja negra, combinando Unidad
 ![](attachments/Pasted%20image%2020230328072319.png)
 
 
+---
+
+- __Ejemplo__ :
+
+![](attachments/Pasted%20image%2020230729185216.png)
+
+
 ## Procesador
 
 Su arquitectura es la siguiente:
@@ -79,7 +86,7 @@ Se compone de:
 - _Datapath_
 	- Ejecuta las operaciones
 - _Unidad de control_
-	- Ordena al datapath, memoria y I/O lo que debe hacerse
+	- Ordena al datapath, memoria y I/O de lo que debe hacerse
 
 
 ### Ciclo de instrucción
@@ -113,7 +120,7 @@ D(Assembler) --> B[Binary code]
 
 Es el conjunto de instrucciones guardadas en memoria que puede realizar el controlador.
 
-Este set debe ser definido de acuerdo a las instrucciones que se consideren más generales para garantizar libertad de diseño. Un set de instrucciones reducido hace más rápido el sistema.
+Este set debe ser definido de acuerdo a las instrucciones que se consideren más generales para garantizar libertad de diseño. Un set de instrucciones reducido hace más rápido al sistema.
 
 >[!Note]
 > - El $90 \%$ de procesadores son basados en registros, el $10\%$ son basados en pilas
@@ -149,8 +156,8 @@ Su datapath completo es:
 
 ![](attachments/Pasted%20image%2020230407205810.png)
 
-- Este es un procesador de 32 bits
-	- Sus instrucciones tienen un tamaño de 32 bits. Por tanto, puede haber un máximo de $2^{32}$ instrucciones
+>[!Note]
+> Este es un procesador de 32 bits. Sus instrucciones tienen un tamaño de 32 bits. Por tanto, puede haber un máximo de $2^{32}$ instrucciones
 
 
 ### Componentes básicos
@@ -166,7 +173,7 @@ Su datapath completo es:
 
 ![](attachments/Pasted%20image%2020230329220302.png)
 
-Para efectuar operaciones con dos registros, se deben de leer los dos al tiempo, por eso tiene dos entradas de lectura de registros.
+Para efectuar operaciones con dos registros, se deben de leer los dos al tiempo, por esta razón el bloque tiene dos entradas de lectura de registros.
 
 - La _ALU_ tiene como entradas los dos registros seleccionados y su señal de control de 4 bits que indica la operación a realizar.
 
@@ -186,9 +193,14 @@ La salidad de detección de Cero se utiliza para la implementación de los salto
 
 ### Lógica de los saltos condicionales
 
-Las direcciones de memoria se representan usando el _sistema de complemento a 2_, donde el bit más significativo indica el signo (1 si es negativo).
-Esto se hace porque se indica una distancia de salto relativa a donde estamos parados (posición 0), por tanto, si se indica un salto negativo, nos desplazamos hacia atrás.
-Hay $2^{32}$ instrucciones en total, para indicar qué tanto saltar usamos un número de 32 bits donde el bit más significativo es el signo, los 31 bits restantes representa el número de instrucciones que serán saltadas.
+Supongamos que tenemos un computador de $8$ bits. El número máximo de instrucciones es $2^{8} = 256$. El contador del programa está ubicado en cualquier dirección de la memoria.
+
+¿Cómo hace para saber si el salto que debe hacer es para atrás o para adelante?
+
+Las direcciones de memoria se representan usando el _sistema de complemento a 2_, donde el bit más significativo indica el signo (1 si es negativo). Por tanto, si se indica un salto negativo, nos desplazamos hacia atrás.
+
+Al asignarle esta función al bit más significativo, no es posible que este participe en el valor del número, solo en el signo.
+
 
 Supongamos que el procesador fuese de 8 bits, el mínimo número que se puede obtener con este sistema es $-128$, el máximo que puede obtenerse es $127$.
 

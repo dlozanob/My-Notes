@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "af31d947287c0c4c",
+        "id": "2dab63f935206b91",
         "type": "tabs",
         "children": [
           {
-            "id": "4f6112c2bb4091b1",
+            "id": "8d85402565a5c1c9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cap. 7. Filtros digitales.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f5ce60dc9f99981a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Verilog.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +85,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Verilog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Verilog.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,9 +122,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Verilog.md"
-              }
+              "state": {}
             }
           },
           {
@@ -196,54 +175,54 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "f5ce60dc9f99981a",
+  "active": "8d85402565a5c1c9",
   "lastOpenFiles": [
-    "AuxFolder/I2S_Transmitter.v",
-    "AuxFolder/i2sTransmitter.py",
-    "Cap. 7. Filtros digitales.md",
-    "Señales y Sistemas II.md",
-    "Excalidraw/whiteboard.excalidraw.md",
-    "attachments/Escudo UN.png",
-    "Portada Universidad Nacional.md",
-    "Excalidraw/attachments/Pasted Image 20230623112830_691.png",
-    "Excalidraw/attachments/Pasted Image 20230623111542_710.png",
     "Excalidraw/blackboard.excalidraw.md",
-    "Local Backup/Excalidraw/blackboard.excalidraw.md",
-    "Análisis dinámico.md",
-    "Análisis de posición.md",
-    "Linked note.md",
-    "Mecanismos.md",
-    "Excalidraw/attachments/Pasted Image 20230623004602_194.png",
-    "Excalidraw/attachments/Pasted Image 20230623004522_826.png",
-    "Análisis de velocidad.md",
-    "Análisis de aceleración.md",
-    "Local Backup/Mecanismos.md",
-    "Excalidraw/attachments/Pasted Image 20230622223436_202.png",
-    "Excalidraw/attachments/Pasted Image 20230622223404_107.png",
-    "Excalidraw/attachments/Pasted Image 20230622223012_130.png",
-    "TO DO.md",
-    "Local Backup/myDrawings.md",
-    "Local Backup/attachments/speedCurve 1.gif",
-    "Local Backup/attachments/Pasted image 20230524165747.png",
-    "Local Backup/attachments",
-    "Local Backup/Obsidian Basics.md",
-    "Local Backup/Nóbeles de economía.md",
-    "Local Backup/Módulo 6. Teoría de estructura de capital.md",
-    "Local Backup/Módulo 5. Teoría de portafolio.md",
-    "Local Backup/Módulo 4. Bonos y conceptos de duración.md",
-    "Local Backup/Módulo 3. Introducción al mercado de capitales.md",
-    "Local Backup/Módulo 2. Diagnóstico financiero.md",
-    "Local Backup/Módulo 1. Economía y matemática financiera.md",
-    "Local Backup/Microcontrollers.md",
-    "Local Backup/Main.md",
+    "Cybersec.md",
+    "Cybersecurity E-degree.md",
+    "Tools Links.md",
+    "Hacking Tools.md",
+    "Fundamentals of penetration testing.md",
+    "Excalidraw/attachments/Pasted Image 20230629030643_163.png",
+    "Excalidraw/attachments/Pasted Image 20230629030612_327.png",
+    "Excalidraw/attachments/Pasted Image 20230629030320_161.png",
+    "Excalidraw/attachments/Pasted Image 20230629030101_166.png",
+    "Excalidraw/attachments/Pasted Image 20230629030046_148.png",
+    "Excalidraw/attachments/Pasted Image 20230629024131_642.png",
+    "Excalidraw/attachments/Pasted Image 20230629024114_543.png",
+    "Excalidraw/attachments/Pasted Image 20230627012857_693.png",
+    "Excalidraw/attachments/Pasted Image 20230627010708_169.png",
+    "Excalidraw/attachments/Pasted Image 20230627004914_207.png",
+    "Excalidraw/whiteboard.excalidraw.md",
+    "Excalidraw/kaliDrawings.excalidraw.md",
+    "Git commands.md",
+    "Local Backup/Excalidraw/whiteboard.excalidraw.md",
+    "Local Backup/Excalidraw/kaliDrawings.excalidraw.md",
     "Local Backup/Excalidraw/attachments",
+    "Local Backup/Excalidraw/blackboard.excalidraw.md",
+    "Local Backup/attachments",
+    "Local Backup/Web Development.md",
+    "Local Backup/Verilog.md",
+    "Local Backup/Using JS for Web Applications.md",
+    "Local Backup/Tema 5. Valoración de operaciones.md",
+    "Local Backup/TO DO.md",
+    "Local Backup/Tema 4. Modelo CAPM; SML; CML y APT.md",
+    "Local Backup/Tema 4. Matemáticas financieras.md",
+    "Local Backup/Tema 4. Introducción a los mercados monetarios.md",
+    "Local Backup/Tema 4. Análisis de sensibilidad.md",
+    "Local Backup/Tema 4. Financiamiento a corto plazo.md",
+    "Local Backup/Tema 3. Medición del rendimiento y del riesgo.md",
+    "Local Backup/Tema 3. Valoración.md",
+    "Local Backup/Tema 3. Introducción a los mercados de capitales.md",
+    "Local Backup/Tema 3. Indicadores macroeconómicos.md",
     "Local Backup/Excalidraw",
     "Local Backup",
+    "AuxFolder/I2S_Transmitter.v",
+    "AuxFolder/i2sTransmitter.py",
     "Local Backup.rar",
     "Local Backup/Local Backup.rar",
     "Local Backup/AuxFolder/attachments",
     "Local Backup/AuxFolder/wav2Raw.py",
-    "Local Backup/AuxFolder/I2S_Transmitter.v",
     "Untitled.canvas"
   ]
 }
