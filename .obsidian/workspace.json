@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7174993b3738b31f",
+        "id": "cde9e3af929d9e75",
         "type": "tabs",
         "children": [
           {
-            "id": "aaef300d0ef29f3c",
+            "id": "409eaf0db6749534",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -181,8 +181,11 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "aaef300d0ef29f3c",
+  "active": "409eaf0db6749534",
   "lastOpenFiles": [
+    "Main.md",
+    "Cybersecurity E-degree.md",
+    "Excalidraw/blackboard.excalidraw.md",
     "Local Backup.rar",
     "Local Notes Backup.rar",
     "myDrawings.md",
@@ -219,8 +222,6 @@
     "Módulo 1. Economía y matemática financiera.md",
     "Microcontrollers.md",
     "Mecanismos.md",
-    "Main.md",
-    "Linux commands.md",
     "Excalidraw/attachments",
     "Excalidraw",
     "AuxFolder/wav2Raw.py",
@@ -228,7 +229,6 @@
     "AuxFolder/i2sTransmitter.py",
     "AuxFolder/attachments",
     "AuxFolder",
-    "Local Backup/Excalidraw/attachments",
     "Untitled.canvas"
   ]
 }
