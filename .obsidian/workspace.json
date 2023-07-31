@@ -16,8 +16,21 @@
                 "file": "Excalidraw/blackboard.excalidraw.md"
               }
             }
+          },
+          {
+            "id": "b23bb400d2e0e644",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TO DO.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md",
+                "file": "TO DO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md",
+                "file": "TO DO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md"
+                "file": "TO DO.md"
               }
             }
           },
@@ -181,11 +194,12 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "409eaf0db6749534",
+  "active": "b23bb400d2e0e644",
   "lastOpenFiles": [
     "Main.md",
-    "Cybersecurity E-degree.md",
+    "TO DO.md",
     "Excalidraw/blackboard.excalidraw.md",
+    "Cybersecurity E-degree.md",
     "Local Backup.rar",
     "Local Notes Backup.rar",
     "myDrawings.md",
@@ -221,7 +235,6 @@
     "Módulo 2. Diagnóstico financiero.md",
     "Módulo 1. Economía y matemática financiera.md",
     "Microcontrollers.md",
-    "Mecanismos.md",
     "Excalidraw/attachments",
     "Excalidraw",
     "AuxFolder/wav2Raw.py",
