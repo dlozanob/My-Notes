@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "cde9e3af929d9e75",
+        "id": "68433f66edf43caf",
         "type": "tabs",
         "children": [
           {
-            "id": "b23bb400d2e0e644",
+            "id": "9c808de86ce1f068",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "TO DO.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -183,8 +183,10 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "b23bb400d2e0e644",
+  "active": "9c808de86ce1f068",
   "lastOpenFiles": [
+    "Excalidraw/blackboard.excalidraw.md",
+    "TO DO.md",
     "attachments/Pasted image 20230730224943.png",
     "attachments/Pasted image 20230730224720.png",
     "attachments/Pasted image 20230730220551.png",
@@ -193,8 +195,6 @@
     "attachments/Pasted image 20230730214453.png",
     "Local Backup.rar",
     "Main.md",
-    "TO DO.md",
-    "Excalidraw/blackboard.excalidraw.md",
     "Cybersecurity E-degree.md",
     "Local Notes Backup.rar",
     "myDrawings.md",
@@ -202,7 +202,6 @@
     "attachments/Pasted image 20230729185216.png",
     "attachments/Pasted image 20230720031430.png",
     "attachments/Pasted image 20230720023155.png",
-    "attachments/Pasted image 20230720022328.png",
     "attachments",
     "Web Development.md",
     "Verilog.md",
