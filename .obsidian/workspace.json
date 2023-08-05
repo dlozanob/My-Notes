@@ -18,8 +18,31 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "97474968c0a9e7bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Deutsch.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3ce69b846ec6408a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/blackboard.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TO DO.md",
+                "file": "Deutsch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TO DO.md",
+                "file": "Deutsch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TO DO.md"
+                "file": "Deutsch.md"
               }
             }
           },
@@ -183,25 +206,28 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "9c808de86ce1f068",
+  "active": "97474968c0a9e7bf",
   "lastOpenFiles": [
+    "attachments/Pasted image 20230804221907.png",
     "Excalidraw/blackboard.excalidraw.md",
+    "Deutsch.md",
+    "attachments/Pasted image 20230804215926.png",
+    "attachments/Pasted image 20230804215912.png",
+    "Excalidraw/attachments/Pasted Image 20230804215904_932.png",
+    "attachments/Pasted image 20230804215848.png",
+    "attachments/Pasted image 20230804215340.png",
+    "Excalidraw/attachments/Pasted Image 20230804215253_371.png",
+    "attachments/Pasted image 20230804215231.png",
     "TO DO.md",
-    "attachments/Pasted image 20230730224943.png",
-    "attachments/Pasted image 20230730224720.png",
-    "attachments/Pasted image 20230730220551.png",
-    "attachments/Pasted image 20230730214627.png",
-    "attachments/Pasted image 20230730214511.png",
-    "attachments/Pasted image 20230730214453.png",
-    "Local Backup.rar",
+    "attachments/Pasted image 20230804192654.png",
+    "LaTeX.md",
+    "attachments/Pasted image 20230804180131.png",
     "Main.md",
+    "attachments/Pasted image 20230730224943.png",
+    "Local Backup.rar",
     "Cybersecurity E-degree.md",
     "Local Notes Backup.rar",
     "myDrawings.md",
-    "attachments/speedCurve 1.gif",
-    "attachments/Pasted image 20230729185216.png",
-    "attachments/Pasted image 20230720031430.png",
-    "attachments/Pasted image 20230720023155.png",
     "attachments",
     "Web Development.md",
     "Verilog.md",
@@ -221,8 +247,6 @@
     "Módulo 5. Teoría de portafolio.md",
     "Módulo 4. Bonos y conceptos de duración.md",
     "Módulo 3. Introducción al mercado de capitales.md",
-    "Módulo 2. Diagnóstico financiero.md",
-    "Módulo 1. Economía y matemática financiera.md",
     "Excalidraw/attachments",
     "Excalidraw",
     "AuxFolder/wav2Raw.py",

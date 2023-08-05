@@ -12,6 +12,7 @@
 - [Obsidian Basics](Obsidian%20Basics.md)
 - [LaTeX](LaTeX.md)
 - [Cybersec](Cybersec.md)
+- [[Deutsch]]
 
 
 ## Tools
