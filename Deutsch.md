@@ -8,7 +8,7 @@
 |U|V (_fau_)|W (_ve_)|X (_iks_)|Y (_üpsilon_)|Z (_tset_)|ß (_eszet/scharfes S_)|Ä (_e_)|Ö|Ü|
 
 
->[!Note]
+>[!Notiz]
 >- ß -> `ALT 225`
 >- Alle Substantive müssen großgeschrieben werden
 >- ae = ä, oe = ö, ue = ü
@@ -50,7 +50,7 @@ Buchstaben mit explosivem Klang: _K, P, Q, T_
 |8 -> Acht | 18 -> Achtzehn | 28 -> Achtundzwanzig | 353 -> Dreihundertdreiundfünfzig||
 |9 -> Neun | 19 -> Neunzehn | 29 -> Neunundzwanzig | 1000 -> Eintausend||
 
->[!Note]
+>[!Notiz]
 >- Zwo = zwei
 >- $3.20$ € = Drei Euro zwanzig
 
@@ -63,8 +63,8 @@ Buchstaben mit explosivem Klang: _K, P, Q, T_
 - $[4; 19]$ -> ...te
 - $[20;\infty)$ -> ...ste
 
->[!Note]
->Kardinalzahlen werden dekliniert
+>[!Notiz]
+>Ordnungzahlen werden dekliniert
 
 
 ## Pronomen
@@ -79,7 +79,7 @@ Buchstaben mit explosivem Klang: _K, P, Q, T_
 | Sie | $2.$ Sing./$3.$ Pl (Formel) |
 
 
->[!Note]
+>[!Notiz]
 >Formel _Sie_ muss immer großgeschrieben werden
 
 
@@ -96,7 +96,7 @@ Buchstaben mit explosivem Klang: _K, P, Q, T_
 
 ### $<5\%$ der Verben
 
->[!Note]
+>[!Notiz]
 >Ändere den Vokal in: 
 >- Du
 >- Er/Sie/Es
@@ -143,7 +143,7 @@ Buchstaben mit explosivem Klang: _K, P, Q, T_
 7. Frauenberufe $=$ _-nen_
 8. Akronym $=$ _-s_
 
->[!Note]
+>[!Notiz]
 >Sie sind nicht immer richtig
 
 
@@ -183,11 +183,47 @@ $$
 Bsp: Die Wand ist viel zu feucht 
 
 
+## Nominativ
+
+| Bestimmt Artikel | Unbestimmt Artikel | Negation |
+|-|-|-|
+| Der | Ein | Kein |
+| Die | Eine | Keine |
+| Das | Ein | Kein |
+| Die (plural) | - | - |
+
+- Ist das ein Kuli?
+	- Nein, das ist kein Kuli das ist ein Taschenrechner
+
+>[!Notiz]
+>_Doch_ -> Verstärkt die Negation
+
+
+## W-Fragen
+
+- _Was?_
+	- Was hast du da?
+- _Wer?_
+	- Wer sind sie?
+- _Wie?_
+	- Wie kann ich Orangensaft machen?
+- _Wo?_
+	- Wo liegt Österreich?
+- _Woher?_
+	- Woher kommst du?
+- _Wohin?_
+	- Wohin gehts du?
+- _Wann?_
+	- Wann hast du den neues Film gesehen?
+- _Wozu?_
+	- Wozu weint sie?
+
+
 ## Himmelsrichtungen
 
 ![](attachments/Pasted%20image%2020230804215926.png)
 
->[!Note]
+>[!Notiz]
 >- Kanten: _nördlich_, _südlich_, _östlich_, _westlich_
 >- Die andere Wörter gelten nur für inner
 
@@ -218,8 +254,142 @@ Bsp: Die Wand ist viel zu feucht
 - $15.30$ -> Es ist fünfzehn Uhr dreißig
 
 
+### Fragen
+
+- Um wie viel Uhr?
+	- Um ...
+	- Gegen ...
+- Ab wann?
+	- Ab ...
+- Von wann bis wann?
+	- Von ... bis ...
+	- Zwischen ... und ...
+
+
+## Tageszeiten
+
+| Der Morgen | $6$ bis $10$ |
+|-|-|
+|De Vormittag | $10$ bis $12$ |
+|Der Mittag | $12$ bis $14$ |
+| Der Nachmittag | $14$ bis $18$ |
+| Der Abend | $18$ bis $22$ |
+| Die Nacht | $22$ bis $6$ |
+
+>[!Notiz]
+>- In der Nacht
+>- Um Mitternacht
+
+
+## Akkusativ
+
+| Nominativ bestimmt Artikel | Bestimmt Artikel | Unbestimmt Artikel | Negation |
+|-|-|-|-|
+| Der | Den | Einen | Keinen |
+| Die | Die | Eine | Keine | 
+| Das | Das | Ein | Kein |
+| Die (plural) | Die | - | - |
+
+
+![](attachments/Pasted%20image%2020230804230655.png)
+
+Was isst was?
+1. Der Mann isst einen Hamburger / Einen Hamburger isst der Mann
+2. Ein Hamburger isst den Mann / Den Mann isst ein Hamburger
+
+
+## Trennbare Verben
+
+- _Trennbare Präfixe_
+	- ab
+	- an
+	- auf
+	- aus
+	- bei
+	- ein
+	- hin
+	- los
+	- mit
+	- nach
+	- vor
+	- zu
+	- zurück
+	- weg
+
+- _Nicht trennbare Präfixe_
+	- be
+	- ent
+	- er
+	- ge
+	- miss
+	- emp
+	- ver
+	- zer
+
+>[!Notiz]
+>_Um_ man manchmal trennt aber manchmal nicht
+
+Bsp: 
+- Aufstehen: Ich stehe am Morgen um 6 auf
+- Aufräumen: Ich räume mein Zimmer auf
+- Einkaufen: Kaufst du auch noch etwas Wurst ein?
+- Anfangen: Wann fängt den Film an?
+
+
+## Possessivformen
+
+| Pronomen | Maskulin | Neutrum | Feminin | Plural |
+|-|-|-|-|-|
+| ich | mein | mein | meine | meine |
+| du | dein | dein | deine | deine |
+| er/es | sein | sein | seine | seine |
+| sie | ihr | ihr | ihre | ihre |
+| wir | unser | unser | unsere | unsere |
+| ihr | euer | euer | eure | eure |
+| sie (plural) | ihr | ihr | ihre | ihre |
+| Sie (formell) | Ihr | Ihr | Ihre | Ihre |
+
+
+
+## Dativ
+
+| Nominativ bestimmt Artikel | Bestimmt Artikel | Unbestimmt Artikel | Negation |
+|-|-|-|-|
+| Der | Dem | Einem | Keinenem |
+| Die | Der | Einer | Keiner | 
+| Das | Dem | Einem | Keinem |
+| Die (plural) | Den (n) | - | - |
+
+>[!Notiz]
+>Man _n_ am Ende des Substantivs hinzufügen muss, außer die mit _s_ oder _n_ enden
+
+
+1. _Indirektes Objekt_
+	- Ich schenke dem Lehrer ein Buch
+2. _Verben_
+	- Das Milch schmeckt der Katze
+3. _Präpositionen_
+	- Spielen Sie mit den Kindern
+4. _Wo?_
+	- Das Buch ist auf dem Tisch
+5. _Wann?_
+	- Am Wochentagen
+	- Im November
+	- Am 14. August
+	- In der Woche
+
+
+>[!Notiz]
+>Am + Ordnungzahlen + n:
+>Ich vorstelle mein Projekt am dreizehnte_n_ November
+
+
+## Modalverben
 
 
 
 
+## Externe Links
 
+- [[Präpositionen]]
+- [[Zufällige Fakten]]
