@@ -193,6 +193,7 @@ A cada uno de sus componentes se les asigna un nombre:
 >[!Note]
 >- La ecuación de Bernoulli se puede ver como una ecuación de conservación de la energía, incluye un término cinético, potencial y de trabajo
 >Esta ecuación dice en pocas palabras que no se pierde energía a lo largo de la línea de corriente
+>- En caso de haber viscosidad, ocurre intercambio de calor, el cual es un término de trabajo, luego se pierde energía
 >- La presión dinámica es inversa a la estática
 
 ![](attachments/Pasted%20image%2020230522140608.png)
@@ -282,6 +283,8 @@ $$
 \end{align*}
 $$
 
+>[!Note]
+>A la presión en el punto de estancamiento ($P_{2}$ en este caso) se le llama _presión de estancamiento_ 
 
 ### Línea de estancamiento
 
@@ -293,6 +296,96 @@ Sobre todo objeto estacionario dentro de un fluido existe un punto de estancamie
 
 Mide la presión estática en algún punto del fluido.
 
+![](attachments/Pasted%20image%2020230806000744.png)
+
+$$
+\begin{align*}
+	P_{4} - P_{1} &= -\rho gh \\\\
+	P_{1} &= P_{atm} + \rho gh
+\end{align*}
+$$
+
+Al instalarse el tubo este debe quedar al ras, el canal no debe deformarse.
+
+![](attachments/Pasted%20image%2020230806001058.png)
+
+- Alta -> Reduce la presión la presión dinámica
+- Baja -> Aumenta la presión dinámica
+
+### Tubo de Pitot estático
+
+Usado en barcos y aviones para medir la velocidad del vehículo con respecto al medio en el que se desplaza.
+
+![](attachments/Pasted%20image%2020230806001717.png)
+
+Es la combinación de un tubo de Pitot y un piezómetro. 
+Se utiliza para medir la presión dinámica.
+
+$$
+\begin{align*}
+	p_{1} + \rho gz_{1} + \cancel{ \frac{\rho v_{1}^{2}}{2} }^{0} = p_{2} + \rho gz_{2} + \frac{\rho v_{2}^{2}}{2}
+\end{align*}
+$$
+
+En $1$ se forma un punto de estancamiento, luego $v_{1}$ = 0
+Tomando $z_{1} \approx z_{2}$ :
+
+$$
+\begin{align*}
+	p_{1} &= p_{2} + \frac{\rho v_{2}^{2}}{2} \\\\
+	v_{2} &= \sqrt{ \frac{2(p_{1} - p_{2})}{\rho} }
+\end{align*}
+$$
+
+
+>[!Info]
+>Una cámara aerodinámica es aquella donde se hacen pruebas con aeronaves, a estas se les disparan partículas para investigar la aerodinámica del vehículo
+
+---
+
+- __Ejemplo__ :
+	- Velocidad del avión: $160\,\,km/h$
+	- Altitud: $h=3000\,\,m$
+	- $P_{atm} = 70\,\,kPa$
+	- $P_{2} = ?$
+
+![](attachments/Pasted%20image%2020230806002517.png)
+
+A $3000\,\,m$ la densidad del aire está alrededor de $0.905\,\,kg/m^{3}$
+
+$$
+\begin{align*}
+	P_{2} &= P_{atm} + \frac{(0.905\,\,kg/m^{3})(160\,\,km/h)^{2}}{2}
+	P_{2} &= 70.9\,\,kPa
+\end{align*}
+$$
+
+---
+
+- __Ejemplo__ :
+	- $P_{1} = 40\,\,kPa$
+	- $P_{2}, P_{3} = ?$
+
+![](attachments/Pasted%20image%2020230806004145.png)
+
+Partiendo de la ecuación para líneas perpendiculares de corriente:
+
+$$\begin{align*}
+	\rho \frac{v^{2}}{R}dn &= -\rho gdz - dp \\\\
+	-\rho \frac{v^{2}}{R}&= \rho g\cancel{ \frac{dz}{dn} }^{1} - \frac{dp}{dn}
+\end{align*}$$
+
+La dirección perpendicular a las líneas de corriente $dn$ es la misma $dz$.
+
+$$
+\begin{align*}
+	-\frac{\rho v^{2}}{R} &= \rho g+\frac{dp}{dz} \\\\
+	dp &= \left( -\frac{\rho v^{2}}{R} - \rho g \right)dz \\\\
+	\int  \, dp &= -\rho \int \left( \frac{v^{2}}{R} + g\right)\, dz  \\\\
+	&= -\rho \int \left( \frac{v^{2}}{6 - z} + g\right)\, dz  \\\\
+	&= \rho v^{2}\ln(6-z) + \rho gz
+\end{align*}
+$$
 
 
 
