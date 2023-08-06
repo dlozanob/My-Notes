@@ -25,13 +25,16 @@
 - _Mit -> Dativ_
 	- Fahren
 		- Ich fahre mit dem Auto
+	- Ich wohne mit meinen Freunden
 
 - _Bei -> Dativ_
 	- Ich arbeite bei Volkswagen
+	- Ich wohne bei meinen Eltern
 
 - _Auf_
 	- Lokal
 		- Die Flasche steht auf dem Tisch
+	- Sie hat auf mich geantwortet
 
 - _Unter_
 	- Lokal
@@ -66,8 +69,14 @@
 		- Die Vase liegt zwischen dem Kugelschreiber und den Stifte
 
 - _Von -> Dativ_
+	- Das Spielzeug von dem Kind
+	- Leute von der Uni
 
 - _Zu -> Dativ_
+	- Wegbeschreibung
+		- Wie komme ich zum Park?
+	- Etwas zu essen
+	- Welcher beruf passt zu ihr?
 
 - _Nach -> Dativ_
 
@@ -75,4 +84,11 @@
 
 - _Seit -> Dativ_
 
+- _Vorbei -> Dativ_
+	- Wegbeschreibung
+		- An der Kirche vorbei
 
+- _Durch -> Akkusativ_
+
+- _Als_
+	- Sie Arbeitet als Kellnerin

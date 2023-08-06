@@ -22,6 +22,7 @@ Zuerst, Dann, Danach, Später, Schliesslich/ Am Ende
 
 Am -> An dem
 Im -> In dem
+Ins -> In das
 Zum -> Zu dem
 Zur -> Zu der
 
@@ -45,4 +46,18 @@ Distanz angeben:
 	- Nie
 
 ---
+
+Vivir con padres -> Bei
+Vivir con otras personas -> Mit
+
+---
+
+Orden de los complementos -> Tiempo, causal, modal, lugar
+
+---
+
+For a long time -> Ich bin lange dort geblieben
+
+---
+
 

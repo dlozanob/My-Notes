@@ -217,6 +217,8 @@ Bsp: Die Wand ist viel zu feucht
 	- Wann hast du den neues Film gesehen?
 - _Wozu?_
 	- Wozu weint sie?
+- _Welch-?_
+	- Welches Datum haben wir heute?
 
 
 ## Himmelsrichtungen
@@ -319,6 +321,7 @@ Was isst was?
 - _Nicht trennbare Präfixe_
 	- be
 	- ent
+	- emp
 	- er
 	- ge
 	- miss
@@ -366,13 +369,17 @@ Bsp:
 
 1. _Indirektes Objekt_
 	- Ich schenke dem Lehrer ein Buch
-2. _Verben_
+	- Ich gehe mit meinem Vater in den Park
+	- Sara geht mit iren Freunden auf die Party
+1. _Verben_ : Es gibt einige Verben mit Dativ
 	- Das Milch schmeckt der Katze
-3. _Präpositionen_
+	- Die Bluse gefällt meiner Mutter
+	- Wir hören der Lehrerin zu
+1. _Präpositionen_
 	- Spielen Sie mit den Kindern
-4. _Wo?_
+2. _Wo?_
 	- Das Buch ist auf dem Tisch
-5. _Wann?_
+3. _Wann?_
 	- Am Wochentagen
 	- Im November
 	- Am 14. August
@@ -385,6 +392,319 @@ Bsp:
 
 
 ## Modalverben
+
+- _Können_ -> Capacidad/ Posibilidad
+- _Dürfen_ -> Poder de permiso
+- _Müssen_ -> Deber
+- _Sollen_ -> Deber moral/ Consejos
+- _Möchten_ -> Deseo
+- _Wollen_ -> Deseo planeado
+- _Mögen_ -> Gustar
+
+- Ich muss morgen bis $22$ Uhr arbeiten
+- Um $9$ Uhr muss ich meine Freunde angerufen
+- Könnt ihr mich mit in die Stadt nehmen?
+
+>[!Notiz]
+>Trennbare Verben werden nicht durch Modalverben getrennt.
+>Außer _mitkommen_ und _mitnehmen_
+
+
+## Lokalpräpositionen und Wegbeschreibung
+
+- Wohin? -> Akkusativ
+	- Ich gehe ins Kino
+	- Ich lege das Buch auf den Tisch
+- Wo? -> Dativ
+	- Ich bin in der Bibliothek
+	- Das Buch liegt auf dem Tisch
+
+Verben:
+- Legen
+- Stellen
+- Hängen
+- (Sich) Setzen
+
+Wegbeschreibung:
+- Wie komme ich _bis zur_ Kreuzung?
+- An der Kirche _vorbei_
+- Wie komme ich _zum_ Kino?
+- Am Strand entlang
+
+![](attachments/Pasted%20image%2020230805220845.png)
+
+![](attachments/Pasted%20image%2020230805221108.png)
+
+![](attachments/Pasted%20image%2020230805221359.png)
+
+![](attachments/Pasted%20image%2020230805221453.png)
+
+
+
+
+
+## Perfekt
+
+>[!Notiz]
+>_Sein_ -> Beinhaltet eine Verschiebung
+>_Haben_ -> Beinhaltet eine Zustandsänderung
+
+### Regelmäßige Verben
+
+
+- Wir sind am Samstag nach Berlin $\underbrace{ gereist }_{ Partizip\,\,II }$
+- Ich habe gestern Videospiele gespielt
+- Ich habe heute mein Zimmer aufgeräumt
+
+>[!Notiz]
+>Nicht trennbare Verben und Verben auf _ieren_ enden, haben kein _ge_
+
+- Ich gestern meine Oma besucht
+- Mein Vater hat sein Auto gekauft
+- Der Tourist hat die Stadt fotografiert
+
+
+### Unregelmäßige Verben
+
+
+- Gleich
+	- _Lesen_ : Am Freitag habe ich ein Buch gelesen
+- i -> u
+	- _Trinken_ : Wir haben gestern viel Bier getrunken
+- ei -> ie
+	- _Schreiben_ : Du hast die Einkaufszettel geschrieben
+- e, i -> o
+	- _Sprechen_ : Der Bürgermeister hat gesprochen
+- Einzigartige
+	- _Sein_
+		- Wir sind Spieler gewesen
+
+>[!Notiz]
+>Die Verben sein und haben werden normalerweise mit dem Präteritum verwendet, nicht mit dem Perfekt
+
+
+## Welch-?
+
+| | Nominativ | Akkusativ | Dativ |
+|-|-|-|-|
+| Maskulin | Welcher | Welchen | Welchem |
+| Feminin | Welche | Welche | Welcher |
+| Neutrum | Welches | Welches | Welchem |
+| Plural | Welche | Welche | Welchen (n) |
+
+- Welcher Tee ist das?
+- Welchen Käse magst du?
+- Mit welchem Computer arbeitest du?
+
+>[!Notiz]
+>Im Dativ, man _n_ am Ende des Substantivs hinzufügen muss, außer die mit _s_ oder _n_ enden
+
+
+## Adjektivdeklination
+
+>[!Notiz]
+>Wenn das Adjektiv am Ende ist oder das mit _a_ enden, man muss das nicht dekliniert
+
+### Nominativ
+
+| | Bestimmt Artikel/Demonstrativa | Unbestimmt Artikel / Negation / Possesiv | No Artikel |
+|-|-|-|-|
+| Maskulin | e | er | er | 
+| Feminin | e | e | e |
+| Neutrum | e | es | es |
+| Plural | en | e (n) | e |
+
+>[!Notiz]
+>Wenn Possesiv und plural, man muss _n_ am Ende des Adjektivs hinzufügen
+
+- Meine schwarzen Schuhe
+
+### Akkusativ
+
+| | Bestimmt Artikel | Unbestimmt Artikel / Negation / Possesiv | No Artikel |
+|-|-|-|-|
+| Maskulin | en | en | en | 
+| Feminin | e | e | e |
+| Neutrum | e | es | es |
+| Plural | en | e (n) | e |
+
+- Ich wasche meinen neuen Pullover
+
+### Dativ
+
+| | Bestimmt Artikel | Unbestimmt Artikel / Negation / Possesiv | No Artikel |
+|-|-|-|-|
+| Maskulin | en | en | em | 
+| Feminin | en | en | er |
+| Neutrum | en | en | em |
+| Plural | en (n) | en (n) | en (n) |
+
+>[!Notiz]
+>Wenn plural, man muss _n_ am Ende des Substantivs hinzufügen
+
+- Die schwarzen Schuhen liegen unter dem Bett
+- Hose mit hohen Stiefeln
+
+>[!Notiz]
+>Spezielle Adjektive (alle enden auf _el_, _er_):
+>- Dunkel: Dunkles, dunkler, dunklen
+>- Teuer: Teures, teurer, teuren
+>- Hoch: Hohes, hohe, hohen
+
+
+## Demonstrativa
+
+| | Nominativ | Akkusativ | Dativ |
+|-|-|-|-|
+| Maskulin | Dieser | Diesen | Diesem | 
+| Feminin | Diese | Diese | Dieser |
+| Neutrum | Dieses | Dieses | Diesem |
+| Plural | Diese | Diese | Diesen (n) |
+
+- Die schwarze Bluse passt zu dieser blauen Hose
+- Ich arbeite mit diesem neuen Computer
+
+## Imperativ
+
+### Regelmäßige Verben
+
+- _Du -> -st_
+	- Trink mehr Wasser
+- _Ihr -> -_
+	- Trinkt mehr Wasser
+- _Sie -> -_
+	- Trinken Sie mehr Wasser
+
+### Unregelmäßige Verben
+
+- _Du -> -t_
+- _Ihr -> -_
+- _Sie -> -_
+
+- Nehen
+	- Nimm eine Tablette/ Nimm doch mal eine Tablette
+	- Nehmt eine Tablette
+	- Nehmen Sie eine Tablette
+
+- Essen
+	- Iss mehr Obst
+	- Esst mehr Obst
+	- Essen Sie mehr Obst
+
+>[!Notiz]
+>_Doch mal_ verstärkt den Imperativ
+
+### Spezialle Kasus
+
+- Schlafen
+	- schlaf
+	- -
+	- -
+- Sein
+	- sei
+	- -
+	- seien
+- Haben
+	- hab
+	- -
+	- -
+
+
+## Gründe nennen
+
+
+- Ich gehe nicht ins Kino, -> Hauptsatz
+   weil ich keine Zeit habe. -> Nebensatz
+
+- Weil ich arbeiten muss, -> Nebensatz
+   reise ich nicht. -> Hauptsatz
+
+
+- _Modalverb_
+	- Ich lerne Deutsch, weil ich in Berlin studieren will
+- _Perfekt_
+	- Ich habe nicht ferngesehen, weil ich H.A gemacht habe
+- _Trennbare Verben_
+	- Ich gehe früh ins Bett, weil ich morgen früh aufstehen
+
+
+## Steigerung des Adjektivs
+
+| Positiv | Komparativ | Superlativ |
+|-|-|-|
+| Gut | Besser | Am besten |
+| Gern | Lieber | Am liebsten |
+| Viel | Mehr | Am meisten |
+| Schön | Schöner | Am schönsten |
+| Schnell | Schneller | Am schnellsten |
+
+- Ich esse _gern_ Hamburger
+- Ich esse _lieber_ Hamburger _als_ Pizza
+- Ich esse _am liebsten_ Sushi 
+
+- Bogotá ist $\underbrace{ am }_{ an\,\,dem }$ größt$\underbrace{ en }_{ Dativ\,\,Deklination }$
+
+>[!Notiz]
+>Einsilbige Adjektivs mit _a_, _o_, _u_, müssen ümlaut hinzufügen
+
+- Alt
+	- Älter
+	- Ältesten
+- Nah
+	- Näher
+	- Nächsten
+- Teuer
+	- Teurer
+	- Am teuersten
+- Dunkel
+	- Dunkler
+	- Am dunkelsten
+- Groß (spezialle Kasus)
+	- Größer
+	- Größten
+
+>[!Notiz]
+>Adjektivs, die auf _d_, _t_, _s_, _x_, _sch_, _z_, _ß_ enden -> _-esten_
+
+
+![](attachments/Pasted%20image%2020230805202144.png)
+
+- Ich habe einen _besseren_ Computer als du
+- Ich habe den _Größten_ Computer
+- Der Gepard ist das _schnellste_ Tier
+
+
+## Personalpronomen
+
+| Nominativ | Akkusativ | Dativ |
+|-|-|-|
+| ich | mich | mir |
+| du | dich | dir |
+| er | ihn | ihm |
+| sie | sie | ihr |
+| es | es | ihm |
+| wir | uns | uns |
+| ihr | euch | euch |
+| sie (plural) | sie | ihnen |
+| Sie | Sie | Ihnen |
+
+Beispiele für Dativverben:
+- Der Hamburger schmeckt uns sehr gut
+- Die Hundin gehorcht mir
+- Wie geht es Ihnen? -> Mir geht es gut, danke
+
+>[!Notiz]
+>Transitives Verben -> Akkusativ
+>Intransitives Verben -> Dativ
+
+Doppeltem Objekt (Dativ und Akkusativ):
+- Ich mache $\underbrace{ meinem\,\,Bruder }_{ Dat }$  $\underbrace{ die\,\,HA }_{ Akk }$
+- Mein Vater kocht uns das Mitagessen
+- Meine Mutter kauft mir einen neuen Computer
+- Mein Vater schenkt meiner Mutter einen Ring
+
+
+
 
 
 

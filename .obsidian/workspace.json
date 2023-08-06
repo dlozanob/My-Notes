@@ -13,33 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TO DO.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fc724066211b28e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Deutsch.md",
                 "mode": "source",
                 "source": false
               }
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "2eeb85c51392da6c",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "547199c20c98a1b9",
+            "id": "83f48d1a77379aaf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Präpositionen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fac3ccc630e753a4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -51,7 +44,7 @@
             }
           },
           {
-            "id": "3ce69b846ec6408a",
+            "id": "4e1e027008a1c580",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -60,7 +53,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -130,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deutsch.md",
+                "file": "Excalidraw/blackboard.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deutsch.md",
+                "file": "Excalidraw/blackboard.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deutsch.md"
+                "file": "Excalidraw/blackboard.excalidraw.md"
               }
             }
           },
@@ -224,30 +218,31 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "fc724066211b28e2",
+  "active": "4e1e027008a1c580",
   "lastOpenFiles": [
-    "Zufällige Fakten.md",
-    "attachments/Pasted image 20230805002701.png",
+    "myDrawings.md",
     "Excalidraw/blackboard.excalidraw.md",
-    "attachments/Pasted image 20230805002649.png",
-    "Präpositionen.md",
+    "Main.md",
+    "Zufällige Fakten.md",
     "Deutsch.md",
-    "README.md",
+    "Excalidraw/whiteboard.excalidraw.md",
+    "Präpositionen.md",
+    "attachments/Pasted image 20230805221453.png",
+    "attachments/Pasted image 20230805221359.png",
+    "attachments/Pasted image 20230805221108.png",
+    "attachments/Pasted image 20230805220845.png",
     "TO DO.md",
+    "attachments/Pasted image 20230805202144.png",
+    "attachments/Pasted image 20230805002701.png",
+    "attachments/Pasted image 20230805002649.png",
+    "README.md",
     "attachments/Pasted image 20230804230655.png",
     "attachments/Pasted image 20230804230549.png",
     "attachments/Pasted image 20230804221907.png",
-    "attachments/Pasted image 20230804215926.png",
-    "attachments/Pasted image 20230804215912.png",
-    "Excalidraw/attachments/Pasted Image 20230804215904_932.png",
-    "attachments/Pasted image 20230804215848.png",
-    "attachments/Pasted image 20230804215340.png",
     "LaTeX.md",
-    "Main.md",
     "Local Backup.rar",
     "Cybersecurity E-degree.md",
     "Local Notes Backup.rar",
-    "myDrawings.md",
     "attachments",
     "Web Development.md",
     "Verilog.md",
@@ -263,7 +258,6 @@
     "Obsidian Basics.md",
     "Nóbeles de economía.md",
     "Módulo 6. Teoría de la estructura de capital.md",
-    "Módulo 5. Teoría de portafolio.md",
     "Excalidraw/attachments",
     "Excalidraw",
     "AuxFolder/wav2Raw.py",
