@@ -13,38 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deutsch.md",
+                "file": "TO DO.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "83f48d1a77379aaf",
+            "id": "86673aaf0508cf48",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Präpositionen.md",
+                "file": "Dinámica de Fluidos.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "fac3ccc630e753a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zufällige Fakten.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4e1e027008a1c580",
+            "id": "d0fb9b17b80307c1",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -52,9 +40,21 @@
                 "file": "Excalidraw/blackboard.excalidraw.md"
               }
             }
+          },
+          {
+            "id": "cbbfa27f4436dd54",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Estática de Fluidos.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md",
+                "file": "Dinámica de Fluidos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md",
+                "file": "Dinámica de Fluidos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md"
+                "file": "Dinámica de Fluidos.md"
               }
             }
           },
@@ -218,27 +218,31 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "4e1e027008a1c580",
+  "active": "86673aaf0508cf48",
   "lastOpenFiles": [
-    "myDrawings.md",
+    "attachments/Pasted image 20230806000744.png",
+    "Excalidraw/attachments/Pasted Image 20230806000744_131.png",
     "Excalidraw/blackboard.excalidraw.md",
-    "Main.md",
-    "Zufällige Fakten.md",
+    "Dinámica de Fluidos.md",
+    "Estática de Fluidos.md",
+    "attachments/Pasted image 20230806000507.png",
+    "attachments/Pasted image 20230805234647.png",
+    "Fundamentos de Mecánica de Fluidos.md",
+    "Excalidraw/attachments/Pasted Image 20230805233751_797.png",
+    "TO DO.md",
     "Deutsch.md",
-    "Excalidraw/whiteboard.excalidraw.md",
     "Präpositionen.md",
+    "Zufällige Fakten.md",
+    "Excalidraw/whiteboard.excalidraw.md",
+    "myDrawings.md",
+    "Main.md",
     "attachments/Pasted image 20230805221453.png",
     "attachments/Pasted image 20230805221359.png",
     "attachments/Pasted image 20230805221108.png",
     "attachments/Pasted image 20230805220845.png",
-    "TO DO.md",
     "attachments/Pasted image 20230805202144.png",
     "attachments/Pasted image 20230805002701.png",
-    "attachments/Pasted image 20230805002649.png",
     "README.md",
-    "attachments/Pasted image 20230804230655.png",
-    "attachments/Pasted image 20230804230549.png",
-    "attachments/Pasted image 20230804221907.png",
     "LaTeX.md",
     "Local Backup.rar",
     "Cybersecurity E-degree.md",
@@ -255,9 +259,6 @@
     "Principios de Estática.md",
     "Portada Universidad Nacional.md",
     "Optimización.md",
-    "Obsidian Basics.md",
-    "Nóbeles de economía.md",
-    "Módulo 6. Teoría de la estructura de capital.md",
     "Excalidraw/attachments",
     "Excalidraw",
     "AuxFolder/wav2Raw.py",

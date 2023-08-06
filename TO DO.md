@@ -14,9 +14,6 @@
 - [ ] Fluidos
 	- [ ] Apuntes
 
-- [x] Deutsch
-	- [x] Apuntes 
-
 - [ ] Chem-e-car
 	- [ ] 14 - 18 de Agosto
 	- [ ] Valle del colca

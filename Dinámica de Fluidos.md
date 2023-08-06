@@ -191,8 +191,9 @@ A cada uno de sus componentes se les asigna un nombre:
 	- Toma en cuenta la elevación, el peso del fluido sobre la presión
 
 >[!Note]
->La ecuación de Bernoulli se puede ver como una ecuación de conservación de la energía, incluye un término cinético, potencial y de trabajo
+>- La ecuación de Bernoulli se puede ver como una ecuación de conservación de la energía, incluye un término cinético, potencial y de trabajo
 >Esta ecuación dice en pocas palabras que no se pierde energía a lo largo de la línea de corriente
+>- La presión dinámica es inversa a la estática
 
 ![](attachments/Pasted%20image%2020230522140608.png)
 
@@ -231,11 +232,78 @@ Estas dos últimas ecuaciones son válidas únicamente si se consideran las supo
 >La presión hidrostática se suele despreciar en algunos casos, ya que, $\Delta z \approx 0$
 
 
+## Aplicaciones e interpretaciones
+
+### Piezómetro + Tubo de Pitot
+
+Medir la presión dinámica.
+
+![](attachments/Pasted%20image%2020230805234647.png)
+
+El punto de estancamiento se justifica debido a que la columna no puede subir más.
+
+>[!Note]
+>El piezómetro solo mide la presión estática
+
+- $v_{1} = ?$
+
+Aplicando Bernoulli entre $1$ y $2$:
+
+$$
+\begin{align*}
+	P_{1} + \rho g(0) + \frac{\rho v_{1}^{2}}{2} &= P_{2} + \rho g(0) + \cancel{ \frac{\rho v_{2}^{2}}{2} }^{0} \\\\
+	v_{1}&= \sqrt{ \frac{2(P_{2} - P_{1})}{\rho} }
+\end{align*}
+$$
+
+La velocidad de $2$ es nula, ya que, es un punto de estancamiento.
+
+Ahora bien:
+
+$$
+\begin{align*}
+	P_{4} - P_{1} &= -\rho g(h_{1} + h_{2}) \\\\
+	P_{1} &= P_{atm} + \rho g(h_{1} + h_{2})
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	P_{3} - P_{2} &= -\rho g(h_{1} + h_{2} + h_{3}) \\\\
+	P_{2} &= P_{atm} + \rho g(h_{1} + h_{2} + h_{3})
+\end{align*}
+$$
+
+Por tanto:
+
+$$
+\begin{align*}
+	v_{1} = 0.7671\,\,m/s
+\end{align*}
+$$
+
+
+### Línea de estancamiento
+
+![](attachments/Pasted%20image%2020230806000507.png)
+
+Sobre todo objeto estacionario dentro de un fluido existe un punto de estancamiento. La línea divisora entre el flujo que pasa por encima y por debajo del objeto se llama _línea de corriente estancamiento_, la cual termina sobre el punto de estancamiento.
+
+### Piezómetro
+
+Mide la presión estática en algún punto del fluido.
+
+
+
+
+
+
+
+
+
+
+
 ---
-
-
-
-
 
 ## Teorema de transporte de Reynolds
 
