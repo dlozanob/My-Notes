@@ -18,43 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "07f4fb077c9a9ef3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dinámica de Fluidos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d0fb9b17b80307c1",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "cbbfa27f4436dd54",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Estática de Fluidos.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -124,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dinámica de Fluidos.md",
+                "file": "TO DO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dinámica de Fluidos.md",
+                "file": "TO DO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dinámica de Fluidos.md"
+                "file": "TO DO.md"
               }
             }
           },
@@ -190,7 +155,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -218,24 +183,25 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "07f4fb077c9a9ef3",
+  "active": "9c808de86ce1f068",
   "lastOpenFiles": [
-    "attachments/Pasted image 20230806004145.png",
-    "Excalidraw/attachments/Pasted Image 20230806004132_461.png",
+    "Propiedades de los Fluidos.md",
+    "TO DO.md",
     "Excalidraw/blackboard.excalidraw.md",
     "Dinámica de Fluidos.md",
-    "attachments/Pasted image 20230806002517.png",
-    "Excalidraw/attachments/Pasted Image 20230806002513_407.png",
-    "attachments/Pasted image 20230806001717.png",
-    "Excalidraw/attachments/Pasted Image 20230806001716_399.png",
-    "attachments/Pasted image 20230806001539.png",
-    "Excalidraw/attachments/Pasted Image 20230806001536_812.png",
-    "attachments/Pasted image 20230806001058.png",
-    "Excalidraw/attachments/Pasted Image 20230806001038_292.png",
-    "attachments/Pasted image 20230806000744.png",
-    "Estática de Fluidos.md",
+    "Cinemática de Fluidos.md",
+    "attachments/Pasted image 20230807033013.png",
+    "attachments/Pasted image 20230807032441.png",
+    "Excalidraw/attachments/Pasted Image 20230807032418_192.png",
     "Fundamentos de Mecánica de Fluidos.md",
-    "TO DO.md",
+    "Estática de Fluidos.md",
+    "attachments/Pasted image 20230807014335.png",
+    "Excalidraw/attachments/Pasted Image 20230807014322_183.png",
+    "attachments/Pasted image 20230806153335.png",
+    "Excalidraw/attachments/Pasted Image 20230806153333_151.png",
+    "attachments/Pasted image 20230806151934.png",
+    "Excalidraw/attachments/Pasted Image 20230806151929_284.png",
+    "attachments/Pasted image 20230806150651.png",
     "Deutsch.md",
     "Präpositionen.md",
     "Zufällige Fakten.md",
@@ -255,7 +221,6 @@
     "Tema 5. Valoración de operaciones.md",
     "Tema 4. Modelo CAPM; SML; CML y APT.md",
     "Resistencia de Materiales.md",
-    "Propiedades de los Fluidos.md",
     "Principios de Estática.md",
     "Portada Universidad Nacional.md",
     "Optimización.md",
