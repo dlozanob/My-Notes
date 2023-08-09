@@ -363,7 +363,7 @@ Enumerate sections:
 
 - Opción 2:
 
-[[Portada Universidad Nacional]]
+[Portada Universidad Nacional](Portada%20Universidad%20Nacional.md)
 
 Crearla en un archivo `.tex` .
 Cargarla en _main_ con `\include{Portada}` .

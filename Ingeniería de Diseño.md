@@ -6,3 +6,5 @@
 - [Diseño Mecatrónico](Diseño%20Mecatrónico.md)
 - [Servomecanismos](Servomecanismos.md)
 - [Mecanismos](Mecanismos.md)
+- [Diseño de Elementos de Máquinas I](Diseño%20de%20Elementos%20de%20Máquinas%20I.md)
+
