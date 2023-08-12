@@ -3,13 +3,10 @@
 
 ---
 
-- [ ] Servos
-	- [ ] Apuntes
-		- [ ] Videos del martes
-		- [ ] Videos Control de Movimiento de Alto Desempeño (Jueves)
-
-- [ ] Digital II
-	- [ ] Apuntes
+- [ ] Control
+- [ ] Sensores y Actuadores
+- [ ] TPI
+- [ ] Diseño de Elementos de Máquinas I
 
 - [ ] Chem-e-car
 	- [ ] 14 - 18 de Agosto

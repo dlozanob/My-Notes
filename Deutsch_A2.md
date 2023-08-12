@@ -111,5 +111,6 @@ Doppeltem Objekt (Dativ und Akkusativ):
 
 - Ich meine, dass heute ein sehr sonnige Tag ist
 - Ich glaube, dass das Lexikon Maria gehört
-
+- Ich vermute, dass die Teilnehmer gut aufpassen
+- Ich bin sicher, dass er zu spät gekommen ist
 
