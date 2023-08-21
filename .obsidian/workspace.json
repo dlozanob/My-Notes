@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "091f6aa0e7ecbac0",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/blackboard.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TO DO.md",
+                "file": "Excalidraw/blackboard.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TO DO.md",
+                "file": "Excalidraw/blackboard.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TO DO.md"
+                "file": "Excalidraw/blackboard.excalidraw.md"
               }
             }
           },
@@ -183,8 +194,9 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "1ffa5d40ac33d20d",
+  "active": "091f6aa0e7ecbac0",
   "lastOpenFiles": [
+    "TO DO.md",
     "Excalidraw/blackboard.excalidraw.md",
     "Excalidraw/attachments/Pasted Image 20230812133932_161.png",
     "Excalidraw/attachments/Pasted Image 20230812132816_194.png",
@@ -200,7 +212,6 @@
     "LaTeX.md",
     "Servomecanismos.md",
     "Portada Universidad Nacional.md",
-    "TO DO.md",
     "LaTeX Template.md",
     "CSS.md",
     "Deutsch_A2.md",
