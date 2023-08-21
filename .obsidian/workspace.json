@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "091f6aa0e7ecbac0",
+            "id": "4f13722f61888875",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -28,9 +28,31 @@
                 "file": "Excalidraw/blackboard.excalidraw.md"
               }
             }
+          },
+          {
+            "id": "78b4ade112dac142",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/test.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "c65f899a3716c5af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "myDrawings.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -100,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md",
+                "file": "myDrawings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md",
+                "file": "myDrawings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md"
+                "file": "myDrawings.md"
               }
             }
           },
@@ -194,10 +216,12 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "091f6aa0e7ecbac0",
+  "active": "c65f899a3716c5af",
   "lastOpenFiles": [
-    "TO DO.md",
+    "Main.md",
+    "Excalidraw/test.excalidraw.md",
     "Excalidraw/blackboard.excalidraw.md",
+    "TO DO.md",
     "Excalidraw/attachments/Pasted Image 20230812133932_161.png",
     "Excalidraw/attachments/Pasted Image 20230812132816_194.png",
     "Excalidraw/attachments/Pasted Image 20230812132743_120.png",
@@ -219,7 +243,6 @@
     "Automatización, Control y Robótica.md",
     "Control.md",
     "Automatización%2C Control y Robótica.md",
-    "Main.md",
     "Ingeniería de Diseño.md",
     "Diseño de Elementos de Máquinas I.md",
     "Deutsch_A1.md",
