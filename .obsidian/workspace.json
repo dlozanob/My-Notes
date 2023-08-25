@@ -4,23 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "5260f0afb13945fc",
+        "id": "b5eaccb5ebbd4a17",
         "type": "tabs",
         "children": [
           {
-            "id": "1ffa5d40ac33d20d",
+            "id": "e54d923980642a0e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TO DO.md",
+                "file": "Control.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4f13722f61888875",
+            "id": "cead35ecce3a1599",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -30,22 +30,24 @@
             }
           },
           {
-            "id": "78b4ade112dac142",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/test.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "c65f899a3716c5af",
+            "id": "8e2bd2398833d416",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "myDrawings.md",
+                "file": "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9f123758afb7a727",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Windows Commands.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "myDrawings.md",
+                "file": "Windows Commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "myDrawings.md",
+                "file": "Windows Commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "myDrawings.md"
+                "file": "Windows Commands.md"
               }
             }
           },
@@ -188,7 +190,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"\"",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -216,44 +218,44 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "c65f899a3716c5af",
+  "active": "9f123758afb7a727",
   "lastOpenFiles": [
-    "Main.md",
-    "Excalidraw/test.excalidraw.md",
+    "Cybersec.md",
+    "Windows Commands.md",
+    "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
+    "Señales y Sistemas II.md",
+    "Control.md",
+    "attachments/Pasted image 20230824221204.png",
     "Excalidraw/blackboard.excalidraw.md",
-    "TO DO.md",
-    "Excalidraw/attachments/Pasted Image 20230812133932_161.png",
-    "Excalidraw/attachments/Pasted Image 20230812132816_194.png",
-    "Excalidraw/attachments/Pasted Image 20230812132743_120.png",
-    "Excalidraw/attachments/Pasted Image 20230812100604_181.png",
-    "Excalidraw/attachments/Pasted Image 20230812100516_160.png",
-    "Excalidraw/attachments/Pasted Image 20230812100430_175.png",
-    "Excalidraw/attachments/Pasted Image 20230812095255_218.png",
-    "Excalidraw/attachments/Pasted Image 20230812094643_159.png",
-    "Excalidraw/attachments/Pasted Image 20230812084734_453.png",
-    "Excalidraw/attachments/Pasted Image 20230812081828_642.png",
     "Sensores y Actuadores.md",
+    "Dinámica de Fluidos.md",
+    "Fundamentos de Mecánica de Fluidos.md",
+    "www.lucidchart.com.md",
+    "Excalidraw/attachments/Pasted Image 20230823222746_154.png",
+    "attachments/Pasted image 20230823220855.png",
+    "attachments/Pasted image 20230823220825.png",
+    "attachments/Pasted image 20230823220800.png",
+    "attachments/Pasted image 20230823220407.png",
+    "attachments/Pasted image 20230823215123.png",
+    "attachments/Pasted image 20230823215110.png",
+    "Excalidraw/attachments/Pasted Image 20230823215055_164.png",
+    "Excalidraw/attachments/Pasted Image 20230823214947_179.png",
     "LaTeX.md",
+    "Síntesis de mecanismos.md",
+    "Mecanismos.md",
+    "Estática de Fluidos.md",
+    "Propiedades de los Fluidos.md",
+    "Fundamentos de cinemática de mecanismos.md",
     "Servomecanismos.md",
+    "Diseño de Elementos de Máquinas I.md",
+    "TO DO.md",
+    "myDrawings.md",
+    "Excalidraw/test.excalidraw.md",
+    "blavk.md",
+    "Main.md",
     "Portada Universidad Nacional.md",
     "LaTeX Template.md",
     "CSS.md",
-    "Deutsch_A2.md",
-    "Deutsch.md",
-    "Automatización, Control y Robótica.md",
-    "Control.md",
-    "Automatización%2C Control y Robótica.md",
-    "Ingeniería de Diseño.md",
-    "Diseño de Elementos de Máquinas I.md",
-    "Deutsch_A1.md",
-    "HTML.md",
-    "Propiedades de los Fluidos.md",
-    "Dinámica de Fluidos.md",
-    "Cinemática de Fluidos.md",
-    "Fundamentos de Mecánica de Fluidos.md",
-    "Estática de Fluidos.md",
-    "Präpositionen.md",
-    "Zufällige Fakten.md",
     "Local Backup.rar",
     "Local Notes Backup.rar",
     "attachments",
