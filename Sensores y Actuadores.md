@@ -278,11 +278,16 @@ El comportamiento magnético se puede clasificar en:
 		- Temporales
 	- De acuerdo al rango de valores que brindan
 		- De medida
+			- Es un rango
 		- Todo-Nada (On-Off)
+			- Se prende o se apaga dependiendo de un umbral
 	- De acuerdo al nivel de integración
 		- Discretos
+			- La gran mayoría lo son
 		- Integrados
+			- Viene por módulos
 		- Inteligentes
+			- Es programable
 	- De acuerdo al tipo de variable física medida
 
 - _Transductor_
@@ -301,7 +306,7 @@ El comportamiento magnético se puede clasificar en:
 		- Eléctrico
 		- Electromecánico
 		- Electromagnético
-		- Smart Material
+		- Smart Material -> Memoria de forma
 		- Piezoeléctrico
 		- Eletro-restrictivo
 		- Micro y Nano Actuadores
@@ -315,7 +320,8 @@ El comportamiento magnético se puede clasificar en:
 
 
 >[!Note]
->Generalmente no se mide directamente la variable deseada. Se miden otras variables accesibles del sistema que están relacionadas con la variable objetivo
+>- Generalmente no se mide directamente la variable deseada. Se miden otras variables accesibles del sistema que están relacionadas con la variable objetivo
+>- $420\,\,mA$ es el estándaar en instrumentación
 
 
 ## Norma ISA 5.1: P&ID
@@ -398,4 +404,7 @@ Los elementos son:
 >- [lucidchart](https://www.lucidchart.com/pages/)
 
 
+## Medición
+
+Medir es comparar con un patrón con la finalidad de hallar el error. Todo instrumento es al menos 10 veces peor que el patrón. El patrón es una referencia que se considera certera, sin embargo, muchas veces no es la variable real.
 

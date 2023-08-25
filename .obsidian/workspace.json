@@ -4,57 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "b5eaccb5ebbd4a17",
+        "id": "f27c5ed9f6d5dce4",
         "type": "tabs",
         "children": [
           {
-            "id": "e54d923980642a0e",
+            "id": "311af2ad66401dc3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Control.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cead35ecce3a1599",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "8e2bd2398833d416",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9f123758afb7a727",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Windows Commands.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -124,7 +85,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Windows Commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Windows Commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,9 +122,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Windows Commands.md"
-              }
+              "state": {}
             }
           },
           {
@@ -218,16 +175,17 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "9f123758afb7a727",
+  "active": "311af2ad66401dc3",
   "lastOpenFiles": [
-    "Cybersec.md",
-    "Windows Commands.md",
-    "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
+    "Cap. 1. Modelos de sistemas lineales y no lineales.md",
     "Señales y Sistemas II.md",
     "Control.md",
-    "attachments/Pasted image 20230824221204.png",
     "Excalidraw/blackboard.excalidraw.md",
     "Sensores y Actuadores.md",
+    "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
+    "Windows Commands.md",
+    "Cybersec.md",
+    "attachments/Pasted image 20230824221204.png",
     "Dinámica de Fluidos.md",
     "Fundamentos de Mecánica de Fluidos.md",
     "www.lucidchart.com.md",
@@ -255,7 +213,6 @@
     "Main.md",
     "Portada Universidad Nacional.md",
     "LaTeX Template.md",
-    "CSS.md",
     "Local Backup.rar",
     "Local Notes Backup.rar",
     "attachments",
