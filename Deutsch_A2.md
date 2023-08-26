@@ -2,13 +2,11 @@
 
 ## Gründe nennen
 
-
 - Ich gehe nicht ins Kino, -> Hauptsatz
    weil ich keine Zeit habe. -> Nebensatz
 
 - Weil ich arbeiten muss, -> Nebensatz
    reise ich nicht. -> Hauptsatz
-
 
 - _Modalverb_
 	- Ich lerne Deutsch, weil ich in Berlin studieren will
@@ -94,6 +92,43 @@ Doppeltem Objekt (Dativ und Akkusativ):
 - Mein Vater schenkt meiner Mutter einen Ring
 
 
+## Verben mit Dativ
+
+>[!Notiz]
+>- Transitive Verben -> Akkusativ
+>- Intransitive Verben -> Dativ
+
+- Vertrauen
+- Widersprechen
+- Vertrauen
+- Weh (tun)
+- Raten
+- Schmecken
+- Gratulieren
+- Gehorchen
+- Fehlen
+- Begegnen
+- Passen
+- Gefallen
+- Zuhörren
+- Schaden
+- Antworten
+- Helfen
+- Gehören
+- Verzeihen
+- Danken
+- Sagen
+- Folgen
+- Stehen
+- Glauben
+- Gehen
+
+- Bsp: 
+	- Ich danke dem Zimmerman, weil er meine Leiter repariert hat.
+	- Der Rock passt mir nicht gut
+	- Der Bauch tut mir weh
+
+
 ## Dass
 
 - Mein Mutter sagt, _dass_ ich gesund essen soll
@@ -113,4 +148,36 @@ Doppeltem Objekt (Dativ und Akkusativ):
 - Ich glaube, dass das Lexikon Maria gehört
 - Ich vermute, dass die Teilnehmer gut aufpassen
 - Ich bin sicher, dass er zu spät gekommen ist
+
+
+## Reflexive Verben
+
+Verben mit _sich_ man akkusativ Reflexivpronomen benutzen muss.
+
+| Pronomen | Reflexivpronomen |
+|-|-|
+| ich | mich |
+| du | dich |
+| er/sie/es | sich |
+| wir | uns |
+| ihr | euch |
+| sie/Sie | sich |
+
+- _Sich freuen_
+	- Ich freue mich über deinen Geburtstag
+
+- _Sich treffen_
+	- Sie treffen sich in dem neuen Park
+
+
+## Verben mit Präposition
+
+- Wir ärgern uns über den Regen
+- Das Gedicht besteht aus vier Strophen
+- Opa erzählt gerne von seinen Eltern
+- Ich habe von einer Reise geträumt
+- Du interessierst dich für deutsche Filme
+- Wir fürchten uns vor den Krokodilen
+- Wir wundern uns über deine Tricks
+
 

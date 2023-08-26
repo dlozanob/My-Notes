@@ -440,9 +440,6 @@ Wegbeschreibung:
 ![](attachments/Pasted%20image%2020230805221453.png)
 
 
-
-
-
 ## Perfekt
 
 >[!Notiz]

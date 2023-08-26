@@ -13,9 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deutsch_A1.md",
+                "file": "Deutsch_A2.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "122813ae2114d535",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/whiteboard.excalidraw.md"
               }
             }
           }
@@ -89,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deutsch_A1.md",
+                "file": "Deutsch_A2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deutsch_A1.md",
+                "file": "Deutsch_A2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deutsch_A1.md"
+                "file": "Deutsch_A2.md"
               }
             }
           },
@@ -155,7 +165,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -185,10 +195,17 @@
   },
   "active": "8e29b67e4573f727",
   "lastOpenFiles": [
-    "Deutsch.md",
-    "Deutsch_A1.md",
-    "Präpositionen.md",
+    "Excalidraw/whiteboard.excalidraw.md",
+    "Deutsch_A2.md",
     "Zufällige Fakten.md",
+    "Excalidraw/attachments/Pasted Image 20230826004303_363.png",
+    "Excalidraw/attachments/Pasted Image 20230826004233_352.png",
+    "Excalidraw/attachments/Pasted Image 20230826004218_350.png",
+    "Excalidraw/attachments/Pasted Image 20230826004202_365.png",
+    "Deutsch_A1.md",
+    "Deutsch.md",
+    "Excalidraw/attachments/Pasted Image 20230825224828_350.png",
+    "Präpositionen.md",
     "Portada Universidad Nacional.md",
     "LaTeX.md",
     "Control.md",
@@ -207,20 +224,12 @@
     "attachments/Pasted image 20230823220855.png",
     "attachments/Pasted image 20230823220825.png",
     "attachments/Pasted image 20230823220800.png",
-    "attachments/Pasted image 20230823220407.png",
-    "attachments/Pasted image 20230823215123.png",
-    "attachments/Pasted image 20230823215110.png",
-    "Excalidraw/attachments/Pasted Image 20230823215055_164.png",
-    "Excalidraw/attachments/Pasted Image 20230823214947_179.png",
     "Síntesis de mecanismos.md",
     "Mecanismos.md",
     "Estática de Fluidos.md",
     "Propiedades de los Fluidos.md",
     "Fundamentos de cinemática de mecanismos.md",
     "Servomecanismos.md",
-    "Diseño de Elementos de Máquinas I.md",
-    "TO DO.md",
-    "myDrawings.md",
     "Local Backup.rar",
     "Local Notes Backup.rar",
     "attachments",
