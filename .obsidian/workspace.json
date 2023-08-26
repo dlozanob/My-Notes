@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "f27c5ed9f6d5dce4",
+        "id": "63a2ae5401fdacea",
         "type": "tabs",
         "children": [
           {
-            "id": "311af2ad66401dc3",
+            "id": "8e29b67e4573f727",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Deutsch_A1.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -85,6 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Deutsch_A1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Deutsch_A1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +128,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Deutsch_A1.md"
+              }
             }
           },
           {
@@ -175,11 +183,17 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "311af2ad66401dc3",
+  "active": "8e29b67e4573f727",
   "lastOpenFiles": [
+    "Deutsch.md",
+    "Deutsch_A1.md",
+    "Präpositionen.md",
+    "Zufällige Fakten.md",
+    "Portada Universidad Nacional.md",
+    "LaTeX.md",
+    "Control.md",
     "Cap. 1. Modelos de sistemas lineales y no lineales.md",
     "Señales y Sistemas II.md",
-    "Control.md",
     "Excalidraw/blackboard.excalidraw.md",
     "Sensores y Actuadores.md",
     "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
@@ -198,7 +212,6 @@
     "attachments/Pasted image 20230823215110.png",
     "Excalidraw/attachments/Pasted Image 20230823215055_164.png",
     "Excalidraw/attachments/Pasted Image 20230823214947_179.png",
-    "LaTeX.md",
     "Síntesis de mecanismos.md",
     "Mecanismos.md",
     "Estática de Fluidos.md",
@@ -208,11 +221,6 @@
     "Diseño de Elementos de Máquinas I.md",
     "TO DO.md",
     "myDrawings.md",
-    "Excalidraw/test.excalidraw.md",
-    "blavk.md",
-    "Main.md",
-    "Portada Universidad Nacional.md",
-    "LaTeX Template.md",
     "Local Backup.rar",
     "Local Notes Backup.rar",
     "attachments",

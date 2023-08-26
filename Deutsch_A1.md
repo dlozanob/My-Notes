@@ -358,7 +358,7 @@ Bsp:
 
 | Nominativ bestimmt Artikel | Bestimmt Artikel | Unbestimmt Artikel | Negation |
 |-|-|-|-|
-| Der | Dem | Einem | Keinenem |
+| Der | Dem | Einem | Keinem |
 | Die | Der | Einer | Keiner | 
 | Das | Dem | Einem | Keinem |
 | Die (plural) | Den (n) | - | - |

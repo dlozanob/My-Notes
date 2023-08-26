@@ -50,4 +50,11 @@ Criterios de evaluación:
 >[!Note]
 >_Desempeño_ y _Robustez_ suelen ser inversos, pero no siempre lo más óptimo es el punto medio
 
+El _punto de equilibrio_ es el valor al que convergen los estados en su estado estable.
+
+Al proceso de modificar el hardware se le llama _calibración de la planta_.
+
+De acuerdo a la naturaleza de las perturbaciones se escoge qué tan alto es el punto de operación para que exista un rango ideal de control de la planta.
+
+
 
