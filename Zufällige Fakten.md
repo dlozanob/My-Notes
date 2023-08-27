@@ -60,4 +60,9 @@ For a long time -> Ich bin lange dort geblieben
 
 ---
 
+- Ich würde gern schlafen
+- Ich würde gern mit meinen Freunden ins Kino gehen
+
+---
+
 

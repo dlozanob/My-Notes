@@ -169,15 +169,58 @@ Verben mit _sich_ man akkusativ Reflexivpronomen benutzen muss.
 - _Sich treffen_
 	- Sie treffen sich in dem neuen Park
 
+- _Sich interessieren_
+	- Habt ihr euch für klassische Musik interessiert?
 
 ## Verben mit Präposition
 
-- Wir ärgern uns über den Regen
-- Das Gedicht besteht aus vier Strophen
-- Opa erzählt gerne von seinen Eltern
-- Ich habe von einer Reise geträumt
-- Du interessierst dich für deutsche Filme
-- Wir fürchten uns vor den Krokodilen
-- Wir wundern uns über deine Tricks
+- Wir _ärgern_ uns _über_ den Regen
+- Das Gedicht _besteht_ _aus_ vier Strophen
+- Opa _erzählt_ gerne _von_ seinen Eltern
+- Ich habe _von_ einer Reise _geträumt_
+- Du _interessierst_ dich _für_ deutsche Filme
+- Wir _fürchten_ uns _vor_ den Krokodilen
+- Wir _wundern_ uns _über_ deine Tricks
+
+
+## W-Frage
+
+- Wann kommst du morgen?
+	- Ich möchte wissen, wann du morgen kommst
+- Wie spät ist es?
+	- Ich möchte wissen, wie spät es ist
+
+
+## Nebensätze Ob
+
+Mit Ob-Sätzen kann man indirekte Ja/Nein Fragen bilden.
+
+- Ich möchte wissen, _ob_ du mir hilfst
+- Ich habe dich gefragt, _ob_ du zur Party kommen willst
+- Können Sie mir sagen, _ob_ sie frische Brötchen habe?
+- Darf ich Sie fragen, _ob_ Sie schon lange hier arbeiten?
+
+
+## Relativpronomen
+
+| | Nominativ | Akkusativ | Dativ | Genitiv |
+|-|-|-|-|-|
+| Maskulin | der | den | dem | dessen |
+| Feminin | die | die | der | deren |
+| Neutrum | das | das | dem | dessen |
+| Plural | die | die | denen | deren |
+
+- Die Frau, die neben mir wohnt, ist meine Freundin
+- Der Film, den wir gestern gesehen haben, war interessant
+- Das Kind, dem du geholfen hast, kommt morgen wieder
+- Die Lehrerin, deren Sohn in Spanien wohnt, ist meine Tante
+
+- Mit Präposition
+	- Der Bus, auf den ich warte, hat verspätung
+	- Das Kind, mit dem ich spiele, ist mein Nachbar
+
+
+
+
 
 

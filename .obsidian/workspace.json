@@ -13,14 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deutsch_A2.md",
+                "file": "Sensores y Actuadores.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "122813ae2114d535",
+            "id": "411dd774babddf6f",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deutsch_A2.md",
+                "file": "Sensores y Actuadores.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deutsch_A2.md",
+                "file": "Sensores y Actuadores.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deutsch_A2.md"
+                "file": "Sensores y Actuadores.md"
               }
             }
           },
@@ -196,40 +196,40 @@
   "active": "8e29b67e4573f727",
   "lastOpenFiles": [
     "Excalidraw/whiteboard.excalidraw.md",
-    "Deutsch_A2.md",
-    "Zufällige Fakten.md",
-    "Excalidraw/attachments/Pasted Image 20230826004303_363.png",
-    "Excalidraw/attachments/Pasted Image 20230826004233_352.png",
-    "Excalidraw/attachments/Pasted Image 20230826004218_350.png",
-    "Excalidraw/attachments/Pasted Image 20230826004202_365.png",
     "Deutsch_A1.md",
-    "Deutsch.md",
-    "Excalidraw/attachments/Pasted Image 20230825224828_350.png",
-    "Präpositionen.md",
-    "Portada Universidad Nacional.md",
+    "Excalidraw/attachments/Pasted Image 20230827002459_395.png",
+    "Excalidraw/attachments/Pasted Image 20230827002459_337.png",
+    "Sensores y Actuadores.md",
     "LaTeX.md",
+    "attachments/Pasted image 20230826191009.png",
+    "attachments/Pasted image 20230826190436.png",
+    "Excalidraw/attachments/Pasted Image 20230826190435_254.png",
+    "attachments/Pasted image 20230826190239.png",
+    "attachments/Pasted image 20230826185955.png",
+    "Excalidraw/attachments/Pasted Image 20230826185952_010.png",
+    "attachments/Pasted image 20230826185643.png",
+    "Excalidraw/attachments/Pasted Image 20230826185641_389.png",
+    "LaTeX Template.md",
+    "Zufällige Fakten.md",
+    "Portada Universidad Nacional.md",
+    "Deutsch_A2.md",
+    "Deutsch.md",
+    "Präpositionen.md",
     "Control.md",
     "Cap. 1. Modelos de sistemas lineales y no lineales.md",
     "Señales y Sistemas II.md",
     "Excalidraw/blackboard.excalidraw.md",
-    "Sensores y Actuadores.md",
     "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
     "Windows Commands.md",
     "Cybersec.md",
-    "attachments/Pasted image 20230824221204.png",
     "Dinámica de Fluidos.md",
     "Fundamentos de Mecánica de Fluidos.md",
     "www.lucidchart.com.md",
-    "Excalidraw/attachments/Pasted Image 20230823222746_154.png",
-    "attachments/Pasted image 20230823220855.png",
-    "attachments/Pasted image 20230823220825.png",
-    "attachments/Pasted image 20230823220800.png",
     "Síntesis de mecanismos.md",
     "Mecanismos.md",
     "Estática de Fluidos.md",
     "Propiedades de los Fluidos.md",
     "Fundamentos de cinemática de mecanismos.md",
-    "Servomecanismos.md",
     "Local Backup.rar",
     "Local Notes Backup.rar",
     "attachments",

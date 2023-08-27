@@ -27,6 +27,117 @@ En control de procesos se tienen las siguientes industrias y variables:
 >- La divergencia es una ley de conservación
 
 
+## Elementos en control de procesos
+
+- _Caldera_
+	-   Es un dispositivo que tiene la finalidad de transferir calor a través de un fluido (comúnente agua) impulsado por una bomba, el ciclo de transferencia de calor comienza con un emisor de llama en un punto del circuito alimentado por un gas combustible. La llama calienta la tubería que contiene al fluido por radiación, esto provoca que el mismo se caliente. El calor se pierde a lo largo de la tubería, lo que hace que el fluido se enfríe eventualmente. El fluido volverá a calentarse cuando vuelva a pasar por el punto de transmisión de calor en la tubería cerrada.
+	
+	 El fenómeno de condensación, se produce cuando el líquido caliente está en contacto con las paredes de la tubería que poseen menor temperatura. La condensación hace que el fluido se precaliente, lo que se desencadena en un ahorro de energía antes de que el líquido vuelva a pasar por el punto de emisión de calor de la llama.
+
+	- [Fuente](https://www.youtube.com/watch?app=desktop&v=XxcaOgFB4nY)
+
+- _Bomba de agua_
+	- Su principal funcionamiento es el de impulsar un fluido a través de una tubería. Su aplicación más común es la de refrigerar los motores de los automóviles. Al desplazarse el fluido, este puede alcanzar todo el largo de la tubería en el que está contenido. Por tanto, los elementos alrededor de ella se refrigeran gracias a la acción del fluido.
+	
+	- [Fuente](https://www.ro-des.com/mecanica/que-es-la-bomba-de-agua/)
+
+- _Compresor de aire_
+	- Un módulo compresor de aire cumple la funcionalidad de almacenar el aire comprimido producido por el bloque compresor. El tanque de almacenamiento tiene un límite de presión, el cual es controlado mediante un manómetro que mide la presión interna, y el mismo mecanismo de obtención de aire comprimido se detiene cuando la presión ha alcanzado su límite permitido.
+	
+	![](attachments/Pasted%20image%2020230826185407.png)
+	
+	 El bloque compresor posee un mecanismo de biela-manivela, el cual desplaza un pistón que inicialmente genera un vacío en la cámara de compresión, lo que provoca que el aire entre a la misma. Posteriormente, la válvula de entrada se cierra, y al retornar el mecanismo, el aire se comprime dentro de la cámara, este evento ocasiona que la válvula de salida se abra, dando paso al contenedor del sistema, el cual, aumentará su presión interna conforme hayan más iteraciones.
+
+	![](attachments/Pasted%20image%2020230826185643.png)
+
+    No obstante, si la presión interna del contenedor medida por el manómetro es superior a cierto límite, el mecanismo de compresión dejará de funcionar, la presión dentro del contenedor decrecerá eventualmente con fugas de aire. El mecanismo volverá a accionarse si la presión del aire contenido baja lo suficiente.
+
+	- [Fuente](https://aeromaquinados.com/compresor-de-aire-como-funciona/)
+
+- _Agitador_
+	- Son tanques cilíndricos donde residen un par de placas que rotan dentro del fluido contenido con el fin de mezclar el mismo. En algunos casos se mezclan sustancias que reaccionan entre ellas. Estos tanques suelen tener una envoltura de refrigeración para evitar que se sobrecaliente el fluido presente en el interior.
+
+	![](attachments/Pasted%20image%2020230826185955.png)
+
+	- [Fuente](https://es.wikipedia.org/wiki/Tanque_agitador)
+
+- _Intercambiador de calor_
+	- Es un dispositivo para intercambiar calor entre dos fluidos a distintas temperaturas. Uno de ellos entra por uno de los canales en cierta dirección, mientras el otro lo hace por el otro circuito en dirección opuesta. Las numerosas placas del aparato aportan a la trasferencia de calor entre ambos fluidos.
+
+	- [Fuente](https://www.youtube.com/watch?v=2ydy48AKd8c)
+
+- _Turbina de vapor_
+	- Son aplicadas para la generación de energía a partir del movimiento generado por el vapor al ascender. Estas turbinas también suelen ser ser utilizadas para alimentar bombas y compresores.
+
+	- [Fuente](https://www.equiposylaboratorio.com/portal/articulo-ampliado/turbina-de-vapor)
+
+- _Turbina hidráulica_
+	- Usando la energía potencial de algún fluido, generalmente agua, se hace mover la turbina, generando energía mecánica, lo que acciona un generador para así obtener energía eléctrica o aprovechar esta energía mecánica en otras aplicaciones de interés.
+
+	![](attachments/Pasted%20image%2020230826190239.png)
+
+	- [Fuente](https://www.areatecnologia.com/mecanismos/turbinas-hidraulicas.html)
+
+- _Bomba de vacío_
+	- Su función es generar vacío en algún recipiente.
+    Se compone de un cilindro que va girando y expulsa las partículas contenidas en el recipiente que se quiere vaciar, las paletas ayudan a empujar estas partículas.
+
+	![](attachments/Pasted%20image%2020230826190436.png)
+
+	- [Fuente](https://como-funciona.co/una-bomba-de-vacio/)
+
+
+- _Planta eléctrica_
+	- Es un dispositivo que transforma energía mecánica en energía eléctrica.
+    Dentro de ella hay un motor de combustión interna que es el que brinda la energía mecánica, este mismo se conecta a un generador para obtener electricidad.
+
+	- [Fuente](https://www.youtube.com/watch?v=sRdvK2yXrwc)
+
+- _Unidad manejadora de aire_
+	- Son sistemas que tienen varios propósitos de funcionamiento. Los principales son, filtrar el aire, controlar la humedad, calentar o enfriar el aire que entra a la unidad, distribuir el aire procesado a las habitaciones del edificio, así como reutilizar el aire.
+	  
+	  La mayoría de las unidades poseen bobinas de calentamiento, filtros para retener partículas de polvo, manómetros diferenciales para medir el nivel de polución, y rejillas cuya apertura se puede controlar para permitir o no el paso del aire.
+
+	- [Fuente](https://www.youtube.com/watch?v=LrqeqwX3X1w)
+
+- _Unidad condensadora_
+	- Los refrigerantes utilizados en procesos de refrigeración ocasionalmente se calientan lo suficiente como para gasificarse, por tanto, es necesario retornarlos a su estado líquido. La unidad condensadora se encarga de esta tarea.
+	  
+	  Se compone de una tubería donde pasa el gas. Un ventilador refrigera el gas desde afuera. Un compresor hace que el gas se mueva. 
+
+	- [Fuente](https://www.ferrovial.com/es/stem/condensadora/#:~:text=Una%20unidad%20condensadora%20(CDU%2C%20por,que%20circula%20en%20su%20interior.)
+
+- _Chiller para agua helada_
+	- Su función es enfriar agua.
+    Las unidades Chiller de alto rendimiento generan agua a la salida con una temperatura $5$ °C menor a la temperatura del agua de entrada. Para este fin se usa un refrigerante, el calor se transfiere entre el refrigerante y el agua, cuando el refrigerante se calienta, se utiliza un condensador para enfriarlo de nuevo.
+
+	- [Fuente](https://www.youtube.com/watch?v=ZvlESecoD60)
+
+- _Torre de enfriamiento_
+	- Su aplicación es enfriar agua.
+    Las torres de enfriamiento son tanques grandes a los que entra agua, estos dispositivos tienen adentro unas placas para direccionar el fluido. En la parte superior hay un ventilador que disipa el calor en el fluido y hace que este se enfríe.
+
+	![](attachments/Pasted%20image%2020230826191009.png)
+
+	- [Fuente](https://scychiller.com/es/what-is-a-cooling-tower-and-how-does-a-cooling-tower-work/)
+
+- _Autoclave_
+	- Es un contenedor metálico donde se ponen muestras con organismos y bacterias no deseadas con la finalidad de liquidar los mismos con altas temperaturas.
+	  
+	  Adentro del dispositivo hay una cámara inferior donde se pone a hervir agua con una resistencia, el vapor de la misma atraviesa la rejilla que separa la cámara inferior de las muestras, y este vapor transfiere el calor a las muestras para liquidar los organismos no deseados.
+	  
+	  Al autoclave se le puede controlar la presión interna de tal manera que la temperatura de ebullición del agua sea lo suficientemente alta como para que cuando esta se evapore, el vapor esté lo suficientemente caliente para matar a los microorganismos en las muestras.
+
+	- [Fuente](https://www.youtube.com/watch?v=BcSifXkRzfY)
+
+
+>[!Info]
+>Los refrigerantes más utilizados en Chillers para aire acondicionado son:
+>- R134A
+>- R410A
+>- R22 (en desuso)
+
+
 ## Propiedades de los materiales
 
 ### Propiedades mecánicas
@@ -349,7 +460,9 @@ Las partes son indentificadas con etiquetas, estas indican instrumentos o puntos
 
 Nomenclatura:
 
-![](attachments/Pasted%20image%2020230823212332.png)
+![](attachments/Pasted%20image%2020230826172750.png)
+
+![](attachments/Pasted%20image%2020230826172938.png)
 
 >[!Note]
 >_LSH_ -> Switch de nivel alto
