@@ -221,6 +221,7 @@ As we saw in Equation \ref{eq:example}, the slope of the line is represented by 
 | Approximation | `\approx` | $\approx$ |
 | Similar | `\sim`  | $\sim$ |
 | Not equal | `\neq` | $\neq$ |
+| Equivalent | `\equiv` | $\equiv$ |
 | Diameter | `\varnothing` | $\varnothing$ |
 | Angle 1 | `\angle` | $\angle$ |
 | Angle 2 | `\measuredangle` | $\measuredangle$ |

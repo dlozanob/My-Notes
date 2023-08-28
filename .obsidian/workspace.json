@@ -13,14 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sensores y Actuadores.md",
+                "file": "Diseño de Elementos de Máquinas I.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "411dd774babddf6f",
+            "id": "3ec3d287fd9385cb",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sensores y Actuadores.md",
+                "file": "Diseño de Elementos de Máquinas I.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sensores y Actuadores.md",
+                "file": "Diseño de Elementos de Máquinas I.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sensores y Actuadores.md"
+                "file": "Diseño de Elementos de Máquinas I.md"
               }
             }
           },
@@ -195,20 +195,23 @@
   },
   "active": "8e29b67e4573f727",
   "lastOpenFiles": [
+    "attachments/Pasted image 20230827235315.png",
+    "attachments/Pasted image 20230827235109.png",
+    "attachments/Pasted image 20230827234943.png",
+    "attachments/Pasted image 20230827234308.png",
+    "attachments/Pasted image 20230827234231.png",
+    "attachments/Pasted image 20230827233754.png",
+    "attachments/Pasted image 20230827233649.png",
+    "attachments/Pasted image 20230827232856.png",
     "Excalidraw/whiteboard.excalidraw.md",
-    "Deutsch_A1.md",
-    "Excalidraw/attachments/Pasted Image 20230827002459_395.png",
-    "Excalidraw/attachments/Pasted Image 20230827002459_337.png",
-    "Sensores y Actuadores.md",
+    "Diseño de Elementos de Máquinas I.md",
+    "attachments/Pasted image 20230827232824.png",
+    "attachments/Pasted image 20230827231150.png",
+    "attachments/Pasted image 20230827230959.png",
+    "Resistencia de Materiales.md",
     "LaTeX.md",
-    "attachments/Pasted image 20230826191009.png",
-    "attachments/Pasted image 20230826190436.png",
-    "Excalidraw/attachments/Pasted Image 20230826190435_254.png",
-    "attachments/Pasted image 20230826190239.png",
-    "attachments/Pasted image 20230826185955.png",
-    "Excalidraw/attachments/Pasted Image 20230826185952_010.png",
-    "attachments/Pasted image 20230826185643.png",
-    "Excalidraw/attachments/Pasted Image 20230826185641_389.png",
+    "Sensores y Actuadores.md",
+    "Deutsch_A1.md",
     "LaTeX Template.md",
     "Zufällige Fakten.md",
     "Portada Universidad Nacional.md",
@@ -228,8 +231,6 @@
     "Síntesis de mecanismos.md",
     "Mecanismos.md",
     "Estática de Fluidos.md",
-    "Propiedades de los Fluidos.md",
-    "Fundamentos de cinemática de mecanismos.md",
     "Local Backup.rar",
     "Local Notes Backup.rar",
     "attachments",
