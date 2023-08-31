@@ -64,6 +64,9 @@ La máquina de flexión rotativa de _Moore_ es la más común para ensayos de fa
 
 ![](attachments/Pasted%20image%2020230827172102.png)
 
+>[!Warning]
+>La teoría a continuación abordará únicamente el caso de carga puramente alternante
+
 
 ### Diagrama esfuerzo-vida S-N
 
@@ -188,7 +191,7 @@ No obstante, de acuerdo al tipo de carga:
 
 ## Factores que modifican la resistencia a la fatiga
 
-La resistencia a la fatiga $S'_{e}$ es obtenida en ensayos de laboratorio bajo condiciones estándar específicas.
+La resistencia a la fatiga $S'_{e}$ es obtenida en ensayos de laboratorio bajo condiciones estándar específicas. Sin embargo, el material estará expuesto a otras condiciones de trabajo.
 
 $$
 \begin{align*}
@@ -440,6 +443,314 @@ Comportamiento del factor de sensibilidad a la muesca en aceros y en una aleaci�
 
 ## Efectos de la presencia de esfuerzos medios
 
+¿Qué sucede si $\sigma_{m} \neq 0$?
+
 Los componentes medios de tensión reducen la resistencia a la fatiga:
 
 ![](attachments/Pasted%20image%2020230827235315.png)
+
+Si $\sigma > 0$ el elemento estará exuesto la mayoría del tiempo a cargas de tensión, por tanto, habrá más oportunidad para que las grietas se formen, por ello se reduce la resistencia a la fatiga.
+
+![](attachments/Pasted%20image%2020230831100426.png)
+
+No obstante, si $\sigma_{m} < 0$ sucederá lo contrario, el elemtno estará expuesto la mayoría del tiempo a cargas de compresión, lo que reduce el tiempo en el que se producirán grietas en el mismo.
+
+![](attachments/Pasted%20image%2020230831100551.png)
+
+
+La siguiente gráfica muestra las combinaciones $\sigma_{a}-\sigma_{m}$ a las que rompieron varias probetas. Cada curva es un ciclaje distinto.
+
+![](attachments/Pasted%20image%2020230831102045.png)
+
+Si $\sigma_{a} = 0$ tenemos un caso de carga estática, luego el material se fractura en $S_{ut}$ .
+Si $\sigma_{m} = 0$ tenemos un caso de carga puramente alternante, luego el material se fractura en $S_{e}$ .
+
+Se asume que aproximadamente tras $10^{6}$ ciclos el material no se fractura.
+
+Ahora bien, normalizando esta gráfica para $10^{6}$ de ciclos (para aceros):
+
+![](attachments/Pasted%20image%2020230831102424.png)
+
+Los puntos muestran los ensayos donde rompieron las probetas. Por tanto, se puede estimar una zona segura bajo la curva.
+
+Notar que:
+
+![](attachments/Pasted%20image%2020230831102725.png)
+
+De esta gráfica se relacionan distintas _teorías de falla dinámica_ de acuerdo al límite de zona segura propuesto.
+
+![](attachments/Pasted%20image%2020230831103006.png)
+
+
+La zona azul representa la zona segura de acuerdo a la teoría de falla.
+
+- _Línea de Goodman_
+
+$$
+\begin{align*}
+	\sigma_{a} = S_{e}\left( 1 - \frac{\sigma_{m}}{S_{ut}} \right)
+\end{align*}
+$$
+
+- _Parábola de Gerber_
+
+$$
+\begin{align*}
+	\sigma_{a} = S_{e}\left( 1 - \frac{\sigma_{m}^{2}}{S_{ut}^{2}} \right)
+\end{align*}
+$$
+
+No obstante, para valores bajos de carga alternante, se puede considerar la carga como un caso de falla estática, por consiguiente, se introduce la _línea de fluencia_ como límite de la zona segura.
+
+![](attachments/Pasted%20image%2020230831103420.png)
+
+La zona segura antes obtenida se recorta por esta línea.
+
+![](attachments/Pasted%20image%2020230831104150.png)
+
+- _Línea de Goodman modificada_
+
+$$
+\begin{align*}
+	\sigma_{a} = \left\{
+	\begin{array}{lcc}
+		S_{e}\left( 1 - \frac{\sigma_{m}}{S_{ut}} \right),\,\, \frac{\sigma_{a}^{*}}{\sigma_{m}^{*}} \geq A_{crit} \\
+S_{y} - \sigma_{s},\,\, \frac{\sigma_{a}^{*}}{\sigma_{m}^{*}} < A_{crit}
+	\end{array}
+	\right.
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	A_{crit} = \frac{S_{e}(S_{ut} - S_{y})}{S_{ut}(S_{y} - S_{e})}
+\end{align*}
+$$
+
+- _Línea de Soderberg_
+
+$$
+\begin{align*}
+	 \sigma_{a} = S_{e}\left( 1 - \frac{\sigma_{m}}{S_{y}} \right)
+\end{align*}
+$$
+
+>[!Note]
+>- Las teorías de falla más conservadoras son la _línea de Soderberg_ y la _línea de Goodman modificada_, sin embargo, en algunas aplicaciones es mejor utilizar teorías de falla más precisas como la _parábola de Gerber_. En aeronáutica, utilizar una teoría conservadora significa aumentar la masa de la aeronave, se prefiere una teoría precisa
+>- Una norma de la _ASTM_ propone una elipse como limitación, lo que resulta en una teoria bastante precisa
+
+
+## Determinación del factor de seguridad
+
+Si por alguna razón existe un incremento en la carga impuesta sobre el elemento, se espera que este incremento aumente proporcionalmente $\sigma_{a}$ y $\sigma_{m}$ .
+
+![](attachments/Pasted%20image%2020230831110814.png)
+
+En este caso, la teoría de falla escogida es la línea de Goodman.
+
+El _factor de seguridad_ se determina de las siguiente manera:
+
+$$
+\begin{align*}
+	\boxed{n_{f} = \frac{\bar{OB}}{\bar{OA}}}
+\end{align*}
+$$
+
+El _punto de operación_ es la carga obtenida en el elemento.
+
+>[!Note]
+>- Si el punto de operación queda ubicado sobre la zona de vida finita
+>	- ¿Cuántos ciclos son necesarios para la fractura del material?
+
+Para determinar los factores de seguridad de acuerdo al criterio de falla se pueden utilizar las siguientes fórmulas:
+
+- _Línea de Goodman_
+
+$$
+\begin{align*}
+	n_{f} = \frac{1}{\frac{\sigma_{a}^{*}}{S_{e}} + \frac{\sigma_{m}^{*}}{S_{ut}}}
+\end{align*}
+$$
+
+- _Parábola de Gerber_
+
+$$
+\begin{align*}
+	n_{f} = \frac{\sigma_{a}^{*}}{2S_{e}} \left( \frac{S_{ut}}{\sigma_{m}^{*}} \right)^{2} \left( \sqrt{ 1 + \left( \frac{2\sigma_{m}^{*}S_{e}}{S_{ut}\sigma_{a}^{*}} \right)^{2} } - 1 \right)
+\end{align*}
+$$
+
+
+---
+
+- __Ejemplo__ :
+	- Condición de carga: Deflexión alternante
+	- Deflexión inicial: $2\,\,mm$
+	- Deflexión adicional: $4\,\,mm$
+	- Material: Acero de alto carbono
+	- Procesos térmicos: Templado y temperadol
+	- Dureza: $490\,\,Bhn$
+	- Concentrador de esfuerzo (doblez -> $r = 4\,\,mm$) : $K_{t} = 1.7$
+	- $S_{y} = 0.9S_{ut}$
+	- Criterio de falla: Goodman modificado
+	- $n_{F} = ?$
+
+El resorte se muestra a continuación:
+
+![](attachments/Pasted%20image%2020230831113542.png)
+
+La deflexión de la viga toma la forma:
+
+![](attachments/Pasted%20image%2020230831113949.png)
+
+Para una viga en voladizo se tiene:
+
+$$
+\begin{align*}
+	y_{max} = \frac{FL^{3}}{3EI}
+\end{align*}
+$$
+
+Se halla la carga sobre la viga de este modo:
+
+$$
+\begin{align*}
+	F = \frac{3EI\cdot y}{L^{3}}
+\end{align*}
+$$
+
+>[!Note]
+>El _módulo de Young_ no varía con el porcentaje de Carbono:
+>![](attachments/Pasted%20image%2020230831114448.png)
+
+Se puede utilizar el mismo módulo de Young de un acero $1020$.
+$E = 207\times 10^{3}\,\,MPa$ .
+
+El momento de inercia se toma con respecto al eje neutro:
+
+![](attachments/Pasted%20image%2020230831114725.png)
+
+$$
+\begin{align*}
+	I &= \frac{20\cdot 4^{3}}{12} \\\\
+	&= 106.67\,\,mm^{4}
+\end{align*}
+$$
+
+Entonces:
+
+$$
+\begin{align*}
+	&F_{max} = \frac{3EI}{(140\,\,mm)^{3}}\cdot (6\,\,mm) = 144.84\,\,N\\\\
+	&F_{min} = \frac{3EI}{(140\,\,mm)^{3}} \cdot (4\,\,mm) = 48.28\,\,N
+\end{align*}
+$$
+
+La carga produce un momento flector:
+
+$$
+\begin{align*}
+	&M_{max} = F_{max}L = 20277.6\,\,N\cdot mm \\\\
+	&M_{min} = F_{min}L = 6759.2\,\,N\cdot mm
+\end{align*}
+$$
+
+Los momentos flectores producen esfuerzos normales:
+
+$$
+\begin{align*}
+	&\sigma_{max} = \frac{M_{max}\cdot c}{I} = M_{max}\cdot \frac{2\,\,mm}{I}\,\,= 380.205\,\,MPa\\\\
+	&\sigma_{min} = \frac{M_{min}\cdot c}{I} = M_{min}\cdot \frac{2\,\,mm}{I} = 126.735\,\,MPa
+\end{align*}
+$$
+
+Se hallan esfuerzos medios y alternantes:
+
+$$
+\begin{align*}
+	&\sigma_{m} = \frac{\sigma_{max} + \sigma_{min}}{2} = 253.470\,\,MPa \\\\
+	&\sigma_{a} = \frac{\sigma_{max} - \sigma_{min}}{2} = 126.735\,\,MPa
+\end{align*}
+$$
+
+![](attachments/Pasted%20image%2020230831120325.png)
+
+Ahora bien, para hallar el factor de seguridad, hay que determinar $S_{ut}$ y $S_{e}$ .
+
+Para aceros es válido:
+
+$$
+\begin{align*}
+	&S_{ut} = 3.45H_{Bhn}\,\,MPa \\\\
+	&S_{ut} = 1690.5\,\,MPa	
+\end{align*}
+$$
+
+Se tiene para un acero de alto carbono: $S_{e}' = 700\,\,MPa$
+
+Aplicando factores de corrección:
+
+$$
+\begin{align*}
+	S_{e} = C_{a}\cdot C_{b}\cdot C_{c}\cdot C_{d}\cdot C_{e}\cdot S_{e}'
+\end{align*}
+$$
+
+Suponiendo que el acero fue sometido a un rolado en caliente:
+
+$$
+\begin{align*}
+	&C_{a} = aS_{ut}^{b} \\\\
+	&C_{a} = 57.7(1690.5)^{-0.718} = 0.278
+\end{align*}
+$$
+
+Ahora se halla el factor por tamaño:
+
+$$
+\begin{align*}
+	A_{95} &= 0.05\cdot bh \\\\
+	&= 0.05\cdot (20)(4) \\\\
+	&= 4\,\,mm^{2}
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	d_{eq} &= \sqrt{ \frac{A_{95}}{0.0766} } \\\\
+	&= 7.23\,\,mm \to 0.284\,\,in
+\end{align*}
+$$
+
+Como $d_{eq} < 0.3\,\,in$ se toma $C_{b} = 1$ .
+
+El factor por tipo de carga es $C_{c} = 1$ porque la carga es flexión.
+
+Suponiendo que el resorte está a temperatura ambiente $C_{d} = 1$ .
+
+Suponiendo una confiabilidad del $90\%$ se tiene $C_{e} = 0.897$ .
+
+Entonces:
+
+$$
+\begin{align*}
+	S_{e} &= (0.278)(1)(1)(1)(0.897)\cdot (700\,\,MPa) \\\\
+	&= 174.556\,\,MPa
+\end{align*}
+$$
+
+
+Sabiendo que el $90\%$ del $S_{ut}$ es el $S_{y}$ entonces se toma un $S_{y} = 1521.45\,\,MPa$ .
+
+![](attachments/Pasted%20image%2020230831123254.png)
+
+El elemento tiene vida infinita.
+
+Su factor de seguridad es:
+
+$$
+\begin{align*}
+	n_{f} &= \frac{1}{\frac{\sigma_{a}^{*}}{S_{e}} + \frac{\sigma_{m}^{*}}{S_{ut}}} \\\\
+	&= 1.142
+\end{align*}
+$$

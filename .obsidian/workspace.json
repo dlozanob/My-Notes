@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "63a2ae5401fdacea",
+        "id": "580240d21c4a5148",
         "type": "tabs",
         "children": [
           {
-            "id": "8e29b67e4573f727",
+            "id": "ef6e5083b3659230",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "3ec3d287fd9385cb",
+            "id": "2b09ef7373011a51",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -165,7 +165,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"\"",
+                "query": "\"coriolis\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -193,24 +193,26 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "8e29b67e4573f727",
+  "active": "ef6e5083b3659230",
   "lastOpenFiles": [
-    "attachments/Pasted image 20230827235315.png",
-    "attachments/Pasted image 20230827235109.png",
-    "attachments/Pasted image 20230827234943.png",
-    "attachments/Pasted image 20230827234308.png",
-    "attachments/Pasted image 20230827234231.png",
-    "attachments/Pasted image 20230827233754.png",
-    "attachments/Pasted image 20230827233649.png",
-    "attachments/Pasted image 20230827232856.png",
+    "attachments/Pasted image 20230831123254.png",
     "Excalidraw/whiteboard.excalidraw.md",
     "Diseño de Elementos de Máquinas I.md",
-    "attachments/Pasted image 20230827232824.png",
-    "attachments/Pasted image 20230827231150.png",
-    "attachments/Pasted image 20230827230959.png",
-    "Resistencia de Materiales.md",
+    "attachments/Pasted image 20230831120325.png",
+    "attachments/Pasted image 20230831114725.png",
+    "attachments/Pasted image 20230831114448.png",
+    "attachments/Pasted image 20230831113949.png",
+    "attachments/Pasted image 20230831113542.png",
+    "attachments/Pasted image 20230831110814.png",
+    "attachments/Pasted image 20230831104150.png",
+    "Excalidraw/attachments/Pasted Image 20230831103933_696.png",
+    "attachments/Pasted image 20230831103420.png",
+    "attachments/Pasted image 20230831103006.png",
+    "Análisis de aceleración.md",
+    "Linked note.md",
     "LaTeX.md",
     "Sensores y Actuadores.md",
+    "Resistencia de Materiales.md",
     "Deutsch_A1.md",
     "LaTeX Template.md",
     "Zufällige Fakten.md",
@@ -229,8 +231,6 @@
     "Fundamentos de Mecánica de Fluidos.md",
     "www.lucidchart.com.md",
     "Síntesis de mecanismos.md",
-    "Mecanismos.md",
-    "Estática de Fluidos.md",
     "Local Backup.rar",
     "Local Notes Backup.rar",
     "attachments",

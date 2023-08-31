@@ -491,6 +491,10 @@ Los elementos que no son accesibles al operador, es decir, se encuentran en alg�
 
 ![](attachments/Pasted%20image%2020230823220855.png)
 
+>[!Note]
+>Fuente de símbolos: [Símbolos](https://blog.projectmaterials.com/instrumentation/pid-symbols/)
+>
+
 ---
 
 - __Ejemplo__ :
