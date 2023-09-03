@@ -436,7 +436,7 @@ $$
 
 ## Respuesta en frecuencia de sistemas
 
-Se denomina a $H(j\omega)$ como la respuesta en recuencia de $H(s)$.
+Se denomina a $H(j\omega)$ como la respuesta en frecuencia de $H(s)$.
 
 $$
 \begin{align*}
@@ -444,7 +444,7 @@ $$
 \end{align*}
 $$
 
-- $A(\omega)$ : Resuesta en magnitud (función par)
+- $A(\omega)$ : Respuesta en magnitud (función par)
 - $\theta(\omega)$ : Respuesta en fase (función impar)
 
 >[!Note]

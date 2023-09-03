@@ -4,23 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "580240d21c4a5148",
+        "id": "09a0004d82dfb589",
         "type": "tabs",
         "children": [
           {
-            "id": "ef6e5083b3659230",
+            "id": "21fea1d43144cff0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diseño de Elementos de Máquinas I.md",
+                "file": "TO DO.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f9fc9051e2c6830f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Control.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "2b09ef7373011a51",
+            "id": "9f3496ba4ffafbb2",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -29,7 +41,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diseño de Elementos de Máquinas I.md",
+                "file": "Control.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diseño de Elementos de Máquinas I.md",
+                "file": "Control.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diseño de Elementos de Máquinas I.md"
+                "file": "Control.md"
               }
             }
           },
@@ -165,7 +178,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"coriolis\"",
+                "query": "\"impropias\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -193,44 +206,44 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "ef6e5083b3659230",
+  "active": "f9fc9051e2c6830f",
   "lastOpenFiles": [
-    "attachments/Pasted image 20230831123254.png",
+    "attachments/Pasted image 20230903014019.png",
     "Excalidraw/whiteboard.excalidraw.md",
-    "Diseño de Elementos de Máquinas I.md",
-    "attachments/Pasted image 20230831120325.png",
-    "attachments/Pasted image 20230831114725.png",
-    "attachments/Pasted image 20230831114448.png",
-    "attachments/Pasted image 20230831113949.png",
-    "attachments/Pasted image 20230831113542.png",
-    "attachments/Pasted image 20230831110814.png",
-    "attachments/Pasted image 20230831104150.png",
-    "Excalidraw/attachments/Pasted Image 20230831103933_696.png",
-    "attachments/Pasted image 20230831103420.png",
-    "attachments/Pasted image 20230831103006.png",
-    "Análisis de aceleración.md",
+    "Control.md",
+    "attachments/Pasted image 20230903013221.png",
+    "attachments/Pasted image 20230903012841.png",
+    "attachments/Pasted image 20230903012711.png",
+    "Deutsch_A2.md",
+    "Deutsch.md",
+    "TO DO.md",
+    "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
+    "attachments/Pasted image 20230902233341.png",
+    "attachments/Pasted image 20230902233126.png",
     "Linked note.md",
+    "Excalidraw/blackboard.excalidraw.md",
+    "Excalidraw/attachments/Pasted Image 20230902214140_598.png",
+    "Excalidraw/attachments/Pasted Image 20230902210226_236.png",
+    "Excalidraw/attachments/Pasted Image 20230902203746_826.png",
+    "Excalidraw/attachments/Pasted Image 20230902200924_932.png",
+    "Excalidraw/attachments/Pasted Image 20230902195705_136.png",
+    "Cap. 4. Análisis cualitativo de sistemas LTI.md",
     "LaTeX.md",
+    "Señales y Sistemas II.md",
     "Sensores y Actuadores.md",
+    "Cap. 1. Modelos de sistemas lineales y no lineales.md",
+    "Diseño de Elementos de Máquinas I.md",
+    "Análisis de aceleración.md",
     "Resistencia de Materiales.md",
     "Deutsch_A1.md",
     "LaTeX Template.md",
     "Zufällige Fakten.md",
     "Portada Universidad Nacional.md",
-    "Deutsch_A2.md",
-    "Deutsch.md",
     "Präpositionen.md",
-    "Control.md",
-    "Cap. 1. Modelos de sistemas lineales y no lineales.md",
-    "Señales y Sistemas II.md",
-    "Excalidraw/blackboard.excalidraw.md",
-    "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
     "Windows Commands.md",
     "Cybersec.md",
     "Dinámica de Fluidos.md",
     "Fundamentos de Mecánica de Fluidos.md",
-    "www.lucidchart.com.md",
-    "Síntesis de mecanismos.md",
     "Local Backup.rar",
     "Local Notes Backup.rar",
     "attachments",
