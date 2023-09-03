@@ -218,7 +218,7 @@ $$
 \end{align*}
 $$
 
-El error en estado estacionario o error de posición es entonces:
+El error en estado estacionario o _error de posición_ es entonces:
 
 $$
 \begin{align*}
@@ -297,7 +297,7 @@ Si la pendiente de la referencia no es la misma que la pendiente de la salida en
 
 En este caso $\gamma_{2} = 1$ y $\gamma_{1} = 0$ para que la pendiente de la recta azul que representa la respuesta en estado estacionario, sea igual a la pendiente de la referencia.
 
-El error de velocidad es:
+El _error de velocidad_ es:
 
 $$
 \begin{align*}
@@ -340,6 +340,15 @@ Se puede notar un patrón:
 	- $\alpha_{1} = \beta_{1}$
 	- $\alpha_{2} = \beta_{2}$
 
+El error en estado estable en un sistema para una entrada $r(t) = t^{n}$ es:
+
+$$
+\begin{align*}
+	\boxed{e_{ss} = \frac{\beta^{n}-\alpha^{n}}{\alpha_{0}}}
+\end{align*}
+$$
+
+Siempre y cuando, los errores en los grados inferiores sean nulos.
 
 >[!Note]
 >Los controladores deben ser estrictamente propios
@@ -403,4 +412,12 @@ k_{2}
 \end{align*}
 $$
 
+El error de aceleración es:
+
+$$
+\begin{align*}
+	e_{ss} &= \frac{\beta_{2} - \alpha_{2}}{\alpha_{2}} \\\\
+	&= \frac{7-6}{6} = \frac{1}{6}
+\end{align*}
+$$
 
