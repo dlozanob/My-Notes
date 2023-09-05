@@ -5,6 +5,9 @@
 - _AISC_ : American Institute of Steel Construction
 - _API_ : American Petroleum Institute
 
+>[!Note]
+> $1\,\,ksi = 6.895 MPa$
+
 
 ## Selección de factor de seguridad (reserva mecánica)
 
@@ -64,11 +67,16 @@ La máquina de flexión rotativa de _Moore_ es la más común para ensayos de fa
 
 ![](attachments/Pasted%20image%2020230827172102.png)
 
+Este tipo de carga es el estándar para caracterizar propiedades de fatiga de los materiales.
+
 >[!Warning]
 >La teoría a continuación abordará únicamente el caso de carga puramente alternante
 
 
 ### Diagrama esfuerzo-vida S-N
+
+>[!Note]
+>El $S'_{f}$ es un esfuerzo alternante $\sigma_{a}$ al cual se fractura el elemento
 
 Para un acero $4130$ con $S_{ut} = 125\,\,ksi$ :
 
@@ -114,6 +122,10 @@ $$
 - $S'_{e}$ : Límite de resistencia a la fatiga para una vida infinita
 
 ![](attachments/Pasted%20image%2020230827173634.png)
+
+>[!Warning]
+>Estas gráficas aplican únicamente para el caso de flexión rotativa
+>
 
 
 ### Relación $S_{ut}$ y $S'_{e}$
@@ -191,7 +203,7 @@ No obstante, de acuerdo al tipo de carga:
 
 ## Factores que modifican la resistencia a la fatiga
 
-La resistencia a la fatiga $S'_{e}$ es obtenida en ensayos de laboratorio bajo condiciones estándar específicas. Sin embargo, el material estará expuesto a otras condiciones de trabajo.
+La resistencia a la fatiga $S'_{e}$ es obtenida en laboratorio bajo el ensayo estandarizado de _flexión rotativa_ y ciertas condiciones estándar. Sin embargo, el material estará expuesto a otras condiciones de trabajo.
 
 $$
 \begin{align*}
@@ -282,7 +294,15 @@ Entre mayor sea el volumen del elemento, mayor probabilidad habrá de aparecer u
 	\end{align*}
 	$$
 
+	El _área 95_ es el área donde se encuentran los puntos que experimentan esfuerzos iguales o superiores al $95\%$ del esfuerzo máximo.
+
 	![](attachments/Pasted%20image%2020230827230106.png)
+
+>[!Warning]
+>Estas áreas son para tipo de carga de flexión rotativa. 
+>
+>Por tanto, la fórmula del área 95 para una geometría puede variar de acuerdo al área de exposición a esfuerzos a tensión
+
 
 ### Factor por tipo de carga ($C_{c}$)
 
@@ -544,7 +564,7 @@ $$
 
 Si por alguna razón existe un incremento en la carga impuesta sobre el elemento, se espera que este incremento aumente proporcionalmente $\sigma_{a}$ y $\sigma_{m}$ .
 
-![](attachments/Pasted%20image%2020230831110814.png)
+![](attachments/Pasted%20image%2020230904215628.png)
 
 En este caso, la teoría de falla escogida es la línea de Goodman.
 
@@ -579,6 +599,22 @@ $$
 	n_{f} = \frac{\sigma_{a}^{*}}{2S_{e}} \left( \frac{S_{ut}}{\sigma_{m}^{*}} \right)^{2} \left( \sqrt{ 1 + \left( \frac{2\sigma_{m}^{*}S_{e}}{S_{ut}\sigma_{a}^{*}} \right)^{2} } - 1 \right)
 \end{align*}
 $$
+
+
+El _área crítica_ es la pendiente de la recta que pasa por el punto de inflexión de la _línea de Goodman modificada_.
+
+![](attachments/Pasted%20image%2020230904220049.png)
+
+$$
+\begin{align*}
+	A_{crit} = \frac{Se(S_{ut} - S_{y})}{S_{ut}(S_{y} - S_{e})}
+\end{align*}
+$$
+
+- $\frac{\sigma_{a}^{*}}{\sigma_{m}^{*}} > A_{crit}$
+	- El material se fractura antes de ceder por fluencia
+- $\frac{\sigma_{a}^{*}}{\sigma_{m}^{*}} < A_{crit}$
+	- El material experimenta fluencia antes de fracturarse
 
 
 ---
@@ -675,6 +711,53 @@ $$
 
 ![](attachments/Pasted%20image%2020230831120325.png)
 
+De acuerdo a la muesca, se debe tener en cuenta el factor de concentrador de esfuerzos:
+
+$$
+\begin{align*}
+	&\sigma_{m}^{\mathrm{Re}al} = k_{t}\cdot \sigma_{m} \\\\
+	&\sigma_{a}^{\mathrm{Re}al} = k_{f}\cdot \sigma_{a}
+\end{align*}
+$$
+
+>[!Note]
+>Tener en cuenta que el esfuerzo medio es estático, pero el alternante es una carga dinámica
+
+Se halló que para este $S_{ut}$ se cuenta con un $\sqrt{ a } = 0.009$, entonces:
+
+$$
+\begin{align*}
+	q &= \frac{1}{1 + \frac{\sqrt{ a }}{\sqrt{ r }}} \\\\
+	&= \frac{1}{1 + \frac{0.009}{\sqrt{ \frac{4}{25.4} }}} \\\\
+	&= 0.978
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	k_{f} &= 1 + q(k_{t}-1) \\\\
+	&= 1+0.978(1.7-1) \\\\
+	&= 1.684
+\end{align*}
+$$
+
+Entonces:
+
+$$
+\begin{align*}
+	\sigma_{m}^{\mathrm{Re}al} &= 1.7\cdot 253.48 \\\\
+	&= 430.90\,\,MPa
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	\sigma_{a}^{\mathrm{Re}al} &= 1.684\cdot 126.74 \\\\
+	&= 213.49\,\,MPa
+\end{align*}
+$$
+
+
 Ahora bien, para hallar el factor de seguridad, hay que determinar $S_{ut}$ y $S_{e}$ .
 
 Para aceros es válido:
@@ -707,18 +790,35 @@ $$
 
 Ahora se halla el factor por tamaño:
 
+>[!Note]
+>El área 95 en flexión rotativa se ve de la siguiente manera:
+>![](attachments/Pasted%20image%2020230904210637.png)
+
+En este caso, el área expuesta a los esfuerzos alternantes positivos es únicamente el área superior:
+
+![](attachments/Pasted%20image%2020230904210733.png)
+
+La fórmula tradicional de flexión pura es:
+
 $$
 \begin{align*}
-	A_{95} &= 0.05\cdot bh \\\\
-	&= 0.05\cdot (20)(4) \\\\
-	&= 4\,\,mm^{2}
+	A_{95} = 0.05\cdot bh
+\end{align*}
+$$
+
+No obstante, para este caso:
+
+$$
+\begin{align*}
+	A_{95} &= \frac{0.05}{2}\cdot bh \\\\
+	&= 2\,\,mm^{2}
 \end{align*}
 $$
 
 $$
 \begin{align*}
 	d_{eq} &= \sqrt{ \frac{A_{95}}{0.0766} } \\\\
-	&= 7.23\,\,mm \to 0.284\,\,in
+	&= 5.11\,\,mm \to 0.201\,\,in
 \end{align*}
 $$
 
@@ -728,29 +828,135 @@ El factor por tipo de carga es $C_{c} = 1$ porque la carga es flexión.
 
 Suponiendo que el resorte está a temperatura ambiente $C_{d} = 1$ .
 
-Suponiendo una confiabilidad del $90\%$ se tiene $C_{e} = 0.897$ .
+Suponiendo una confiabilidad del $99.9\%$ se tiene $C_{e} = 0.753$ .
 
 Entonces:
 
 $$
 \begin{align*}
-	S_{e} &= (0.278)(1)(1)(1)(0.897)\cdot (700\,\,MPa) \\\\
-	&= 174.556\,\,MPa
+	S_{e} &= (0.278)(1)(1)(1)(0.753)\cdot (700\,\,MPa) \\\\
+	&= 146.534\,\,MPa
 \end{align*}
 $$
 
-
 Sabiendo que el $90\%$ del $S_{ut}$ es el $S_{y}$ entonces se toma un $S_{y} = 1521.45\,\,MPa$ .
 
-![](attachments/Pasted%20image%2020230831123254.png)
+![](attachments/Pasted%20image%2020230904213427.png)
 
-El elemento tiene vida infinita.
+El elemento falla por fatiga a un cierto número de ciclos.
 
 Su factor de seguridad es:
 
 $$
 \begin{align*}
 	n_{f} &= \frac{1}{\frac{\sigma_{a}^{*}}{S_{e}} + \frac{\sigma_{m}^{*}}{S_{ut}}} \\\\
-	&= 1.142
+	&= 0.584
 \end{align*}
 $$
+
+Este también puede ser hallado por métodos analíticos:
+
+![](attachments/Pasted%20image%2020230904214535.png)
+
+$$
+\begin{align*}
+	&\tan\alpha=\frac{\sigma_{a}^{*}}{\sigma_{m}^{*}} \\\\
+	&\alpha=26.36°
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	&\tan\beta = \frac{S_{e}}{S_{ut}} \\\\
+	&\beta= 4.95°
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	\gamma&=180-\alpha-\beta \\\\
+	&= 148.69
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	&\frac{\sin\gamma}{S_{ut}} = \frac{\sin\beta}{OB} \\\\
+	&OB = 280.69
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	OA &= \sqrt{ (\sigma_{a}^{*})^{2} + (\sigma_{m}^{*})^{2} } \\\\
+	&= 480.89
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	n_{f} &= \frac{OB}{OA} \\\\
+	&= 0.584
+\end{align*}
+$$
+
+¿Cuántos ciclos son necesarios para la fractura del material?
+
+La gráfica $S-N$ aplica únicamente para $\sigma_{m} = 0$ y flexión rotativa.
+
+A partir de la gráfica para determinar el factor de seguridad se pueden obtener los puntos que construyen la gráfica $S-N$ .
+
+![](attachments/Pasted%20image%2020230904225740.png)
+
+![](attachments/Pasted%20image%2020230904230212.png)
+
+El objetivo es hallar $\sigma_{a}^{**}$ .
+
+Con la ecuación de la recta morada:
+
+$$
+\begin{align*}
+	\sigma_{a} = -\frac{\sigma_{a}^{*}}{S_{ut} - \sigma_{m}^{*}}\sigma_{m} + \sigma_{a}^{**}
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	\sigma_{a}^{**} &= \sigma_{a}^{*} + \frac{\sigma_{a}^{*}}{S_{ut} - \sigma_{m}^{*}}\sigma_{m}^{*} \\\\
+	&= 286.52\,\,MPa
+\end{align*}
+$$
+
+Con los $3$ puntos morados de interés se puede determinar el $N$ .
+
+![](attachments/Pasted%20image%2020230904232613.png)
+
+- $$
+\begin{align*}
+	&\log S_{m} = \log a + b\log 3 \\\\
+	&\log (0.9S_{ut}) = \log a + 3b
+\end{align*}
+$$
+
+- $$
+\begin{align*}
+	\log\sigma_{a}^{**} = \log a + b\log N
+\end{align*}
+$$
+
+- $$
+\begin{align*}
+	\log S_{e} = \log a + 6b
+\end{align*}
+$$
+
+Resolviendo el sistema:
+
+$$
+\begin{align*}
+	&a = 15797.52 \\\\
+	&b = -0.3387 \\\\
+	&N = 1.38\times 10^{5}\,\,Ciclos
+\end{align*}
+$$
+

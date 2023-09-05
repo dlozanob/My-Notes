@@ -421,3 +421,37 @@ $$
 \end{align*}
 $$
 
+
+## Álgebra de diagramas de bloques
+
+
+![](attachments/Pasted%20image%2020230904002434.png)
+
+$$
+\begin{align*}
+	Y(s) &= G\cdot A \\\\
+	&= G(B+D) \\\\
+	&= G((U+C)+(Y\cdot H_{1})) \\\\
+	&= G((U+Y\cdot H_{2})+(Y\cdot H_{1}))
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	Y(1-G(H_{1}+H_{2})) = GU
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	Y(s) = \frac{G(s)}{1 - G(s)\cdot (H_{1}(s)+H_{2}(s))}\cdot U(s)
+\end{align*}
+$$
+
+Equivalente:
+
+![](attachments/Pasted%20image%2020230904003149.png)
+
+
+
+

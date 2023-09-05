@@ -1133,7 +1133,7 @@ $$
 
 ![](attachments/Pasted%20image%2020230530103052.png)
 
-Los parámetros $k_{b}$ y $K_{T}$ relacionan la parte eléctrica con la mecánica.
+Los parámetros $k_{b}$ y $k_{T}$ relacionan la parte eléctrica con la mecánica.
 
 Hacer girar el rotor produce un cambio en el flujo magnético, lo que induce una tensión en sus terminales.
 
@@ -1195,13 +1195,8 @@ Esta frecuencia comúnmente está en el rango $40$ - $100\,\,kHz$ .
 
 
 >[!Note]
-<<<<<<< HEAD
->El parámetro $k_{v}$ (rpm/v) representa las revoluciones por minuto alcanzadas al alimentar con un voltio
-
----
-=======
->En motores pequeños se produce un voltaje por rpm en el rango: $0.3\sim 2\,\,mV/rpm$
->>>>>>> origin/main
+>- El parámetro $k_{v}$ (rpm/v) representa las revoluciones por minuto alcanzadas al alimentar con un voltio
+>- En motores pequeños se produce un voltaje por rpm en el rango: $0.3\sim 2\,\,mV/rpm$
 
 La velocidad nominal de un motor satisface:
 
