@@ -65,4 +65,7 @@ For a long time -> Ich bin lange dort geblieben
 
 ---
 
+Jahren haben nicht Präpositionen
+
+---
 

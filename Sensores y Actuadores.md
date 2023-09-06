@@ -379,27 +379,48 @@ El comportamiento magnético se puede clasificar en:
 
 ![](attachments/Pasted%20image%2020230821150157.png)
 
-- Clasificación de los sensores
+- _Clasificación de los sensores_
 	- De acuerdo a su funcionamiento
-		- Activos
-		- Pasivos
+		- Activos o generadores (Self generating)
+			- La variable a medir proporciona la energía necesaria para generar la señal de salida (piezoeléctricos, termoeléctricos)
+		- Pasivos o moduladores (Modulating)
+			- La variable de medición modifica alguno de sus parámetros eléctricos (resistencia, capacitancia)
 	- De acuerdo al tipo de señal eléctrica generada
 		- Analógicos
 		- Digitales
 		- Temporales
+			- Son señales que dependen del tiempo o señales periódicas
+			- Señal sinusoidal o modulada
+			- Señal cuadrada
 	- De acuerdo al rango de valores que brindan
 		- De medida
 			- Es un rango
-		- Todo-Nada (On-Off)
+			- La señal que generan es proporcional a la magnitud de la variable física medida (encoders incrementales, sensores resistivos de temperatura)
+		- Todo-Nada (On-Off) o Detectores
 			- Se prende o se apaga dependiendo de un umbral
 	- De acuerdo al nivel de integración
 		- Discretos
+			- El circuito de acondicionamiento de señal debe ser construido externamente
 			- La gran mayoría lo son
 		- Integrados
-			- Viene por módulos
+			- Sensor y acondicionador de señal vienen integrados
 		- Inteligentes
 			- Es programable
+			- El circuito de acondicionamiento se encarga de:
+				- Corregir no linealidades
+				- Transmisión de información
+				- Cálculos numéricos
 	- De acuerdo al tipo de variable física medida
+		- Presión
+		- Temperatura
+		- Humedad
+		- Fuerza
+		- Aceleración
+		- Velocidad
+		- Caudal
+		- Presencia/posición de objetos
+		- Nivel de sólidos o líquidos
+		- Químicos
 
 - _Transductor_
 	- Convierte una señal de un tipo a una de otro
@@ -456,6 +477,15 @@ Las partes son indentificadas con etiquetas, estas indican instrumentos o puntos
 
 ![](attachments/Pasted%20image%2020230823215123.png)
 
+>[!Note]
+>Las válvulas antirretorno son diodos de flujo
+
+>[!Info]
+> Las termorresistencias funcionan por expansión en el termopozo:
+>![](attachments/Pasted%20image%2020230905143505.png)
+>La medición debe hacerse con la punta del termopozo. Su temperatura aumenta conforme aumenta la resistencia
+
+
 ### Instrumentación
 
 Nomenclatura:
@@ -467,7 +497,13 @@ Nomenclatura:
 >[!Note]
 >_LSH_ -> Switch de nivel alto
 >_LSHH_ -> Switch de nivel muy alto
+>_TRC_ -> Control y almacenamiento de temperatura
+>_TSH, TSL_ -> Son termostatos, se apagan al llegar a un nivel
+>_FE_ -> Válvula que controla el flujo electrónicamente. Comúnmente son válvulas de solenoide (electroválvulas)
 
+>[!Info]
+>- Los transmisores de nivel ($LT$) tienen forma cónica y usan ondas de radio
+>- Las válvulas de aguja se usan en centrales hidroeléctricas, ya que, son las que tienen mayor precisión (control de caudal)
 
 Geometría:
 
@@ -480,6 +516,9 @@ Los elementos que no son accesibles al operador, es decir, se encuentran en alg�
 ### Bloques de funciones
 
 ![](attachments/Pasted%20image%2020230823214216.png)
+
+>[!Note]
+>Estas funciones actúan sobre variables
 
 ### Conexiones
 
@@ -521,7 +560,323 @@ Los elementos son:
 >- [lucidchart](https://www.lucidchart.com/pages/)
 
 
-## Medición
+## Conceptos sobre clasificación de sensores
 
-Medir es comparar con un patrón con la finalidad de hallar el error. Todo instrumento es al menos 10 veces peor que el patrón. El patrón es una referencia que se considera certera, sin embargo, muchas veces no es la variable real.
+El principio de funcionamiento puede variar de acuerdo al tipo de varibale medida:
+
+![](attachments/Pasted%20image%2020230905151634.png)
+
+
+### Señales analógicas
+
+Parámetro eléctrico de la señal de salida de un sensor:
+
+- _Voltaje_
+	- Se requiere que la impedancia de salida $Z_{o}$ sea menor que la de entrada $Z_{i}$ para asegurar una caida de voltaje positiva
+	- Márgenes de voltaje de salida comunes
+		- $1-5$ V
+		- $-5-5$ V
+		- $-10-10$ V
+		- $0-10$ V
+	- Útil cuando la distancia de transmisión es corta
+
+- _Corriente_
+	- Se usa cuando la distancia de transmisión es extensa
+	- Rangos comunes de la señal de salida
+		- $-20-20$ mA
+		- $4-20$ mA
+		- $0-20$ mA
+
+![](attachments/Pasted%20image%2020230905152225.png)
+
+
+### Señales digitales
+
+Los sensores digitales se componen de la siguiente manera:
+
+![](attachments/Pasted%20image%2020230905151550.png)
+
+Cuando se trata de señales digitales, el parámetro más importante es la _corriente de carga máxima_ -> máxima corriente que puede circular por la salida. Es importante porque si se implementan otras etapas con otras tecnologías, estas pueden poseer valores de tensión distintos para clasfiicar los valores lógicos.
+
+Para asegurar esta compatibilidad se tienen las siguientes configuraciones:
+
+- _Salida con transistor $NPN$ y resistencia de carga_
+	- Proporciona niveles de voltaje y corriente compatibles con tecnologías TTL y CMOS
+
+![](attachments/Pasted%20image%2020230905152609.png)
+
+- _Salida con transistor $NPN$ y colector abierto_
+
+![](attachments/Pasted%20image%2020230905152720.png)
+
+
+### Sensores todo o nada
+
+El parámetro más importante es la corriente de carga máxima de salida.
+
+- _Sensores de $2$ hilos_
+	- Por la terminal de alimentación se conecta la carga
+
+![](attachments/Pasted%20image%2020230905153154.png)
+
+- _Sensores de $3$ hilos_
+	- Pueden ser usados como contactos normalmente abiertos o normalmente cerrados
+	
+	![](attachments/Pasted%20image%2020230905153311.png)
+	
+	Métodos para mantener un valor regulado (constante) a la salida:
+	
+	- Diodos Zener, diodos de protección y transistores $NPN$
+	
+	![](attachments/Pasted%20image%2020230905153410.png)
+
+	- Diodos Zener, diodos de protección y transistores $PNP$
+
+	![](attachments/Pasted%20image%2020230905153448.png)
+
+	Estos sensores también pueden ser alimentados con corriente alterna utilizando un puente rectificador de onda completa:
+	
+	![](attachments/Pasted%20image%2020230905153619.png)
+
+- _Sensores de $4$ hilos_
+	- Poseen $2$ terminales de salida que se realizan con transistores NPN o PNP
+
+	Configuraciones NPN:
+
+	![](attachments/Pasted%20image%2020230905153920.png)
+
+	Configuración PNP:
+
+	![](attachments/Pasted%20image%2020230905154030.png)
+
+	Existen sensores con salidas a relé con distintas configuraciones:
+
+	![](attachments/Pasted%20image%2020230905154128.png)
+
+
+### Características eléctricas de las salidas
+
+- _Corriente residual_
+	- Corriente que circula por la carga del sensor desactivado
+
+- _Voltaje residual_
+	- Máximo voltaje en la salida del sensor cuando está activado
+
+- _Corriente de carga mínima_
+	- Corriente mínima que se requiere para el correcto funcionamiento del sensor
+
+- _Consumo del sensor_
+	- Potencia que consume el sensor
+	- Se puede dar en vatios o amperios en base al voltaje de alimentación
+
+
+### Características mecánicas
+
+- Dimensiones
+- Instrucciines de montaje
+- Tamaño, localización de las conexiones
+- Manera de realizar ajustes
+- Material de la carcasa
+- Grado de protección ambiental
+	- Este posee dos cifras, las cuales significan:
+
+	![](attachments/Pasted%20image%2020230905154725.png)
+
+
+### Características ambientales
+
+- Rango de temperatura adecuado
+- Cambio del error de medición con respecto a la temperatura
+- Error de aceleración
+	- Diferencia entre los valores de salida a una aceleración constante con respecto a una salida sin aceleración
+- Error por vibraciones (aceleraciones a altas fecuencias)
+- La presión atmosférica deforma o degrada al sensor, esto afecta su desempeño
+- Errores de interferencia
+	- Debidos al ruido eléctrico
+
+
+
+
+## Clasificación de actuadores
+
+- _Actuadores_
+	- Tipo de acción que realizan
+		- On-Off
+		- Rango
+	- Tipo de energía de activación
+		- Eléctrica
+		- Neumáticos
+		- Hidráulicos
+		- Smart materials behaviour or piezoelectric strain
+			- MEMS (giroscopio)
+	- Tipo de energía que entregan
+		- Óptica
+		- Disipación de calor
+		- Cinético-dinámicos -> Movimiento o por deformación
+			- Rotativos ilimitados (motores)
+			- Rotativos limitados (solenoides, cilindros)
+			- Micro y nano actuadores
+
+
+## Selección de sensores industriales
+
+Orden de importancia en la selección de un sensor:
+
+1. Variable de medición
+2. Rango de medición
+3. Características estáticas y dinámicas
+4. Principio de funcionamiento y restricciones
+5. Nivel de integración e inteligencia
+6. Recursos económicos disponibles
+
+
+## Características estáticas de los instrumentos
+
+>[!Note]
+>Todo instrumento es un sistema dinámico
+
+_Medir_ es comparar con un patrón con la finalidad de hallar el error. Todo instrumento es al menos 10 veces peor que el patrón. El patrón es una referencia que se considera certera, sin embargo, muchas veces no es la variable real.
+
+Se define _calibración_ como la obtención de las características estáticas y dinámicas de un sensor. La calibración más común es el barrrido de escala creciente y decreciente
+
+>[!Note]
+>Para un valor de entrada determinado, la variable de salida debe ser medida varias veces para obtener un promedio y así trabajar con esa variable
+
+
+Las características más significativas son:
+- _Rango de medida_
+	- Es el barrido que puede hacer el sensor desde el límite inferior hasta el superior
+
+- _Exactitud_ -> Puede ser expresada de distintas maneras
+	- _Alcance - Span - FSO (Full Scale Output)_
+		- Barrido de escala completa
+
+	$$
+	\begin{align*}
+		\% FSO = \frac{max(X_{\mathrm{Re}al}^{i} - X^{i})}{L_{sup} - L_{inf}}\cdot 100
+	\end{align*}
+	$$
+
+	- _% R (error porcentual)_
+	
+	$$
+	\begin{align*}
+		\% R = \frac{max(X_{\mathrm{Re}al}^{i} - X^{i})}{X_{Real}}\cdot 100
+	\end{align*}
+	$$
+
+	- _Error absoluto_ 
+
+	$$
+	\begin{align*}
+		AbsE = abs(X_{\mathrm{Re}al} - X)
+	\end{align*}
+	$$
+
+	- $X^{i}$ : Medición $i$
+	- $X$ : Valor medido
+	- $X_{\mathrm{Re}al}$ : Valor real
+	- $L_{sup}$ : Límite superior del rango
+	 - $L_{inf}$ : Límite inferior del rango
+
+- _Precisión_
+	- Determina qué tanto difieren las medidas entre ellas
+	- Es la desviación estándar de las medidas
+
+- _Resolución_
+	- Es la tolerancia que tiene el instrumento
+	- La medida más pequeña que este puede puede medir es su rango de error
+
+- _Sensibilidad_
+	- Capacidad de mostrar a la salida lo detectado a la entrada
+	- Después de alcanzar el reposo (estabilizarse) se define como:
+	$$
+	\begin{align*}
+		Sensibilidad= \frac{Y_{f} - Y_{i}}{X_{f} - X_{i}}
+	\end{align*}
+	$$
+
+	- $Y_{f}, Y_{i}$ : Lectura final e inicial
+	- $X_{f}, X_{i}$ : Valor de la señal de entrada final e inicial
+
+- _Repetibilidad_
+	- Variación de las mediciones obtenidas con respecto a la misma entrada
+
+- _Linealidad_
+	- ¿Qué tan lineal es la respuesta a una rampa en la entrada?
+	- Cuantifica la linealidad del sistema
+	- Indica si todos los valores de referencia poseen la misma exactitud
+	- Se determina de distintas formas:
+		- _Linealidad de punto final_
+			- Se hace un barrido de ascenso y descenso
+			- Se halla el $\%FSO$ para cada uno (ascenso, descenso)
+			- Se reporta la linealidad así:
+			- $+\dots\%FSO$ y $-\dots\%FSO$
+			- De acuerdo al FSO máximo y mínimo hallado
+			- Esto es la máxima desviación por encima y por debajo
+		- _Linealidad de línea independiente_
+			- Se hace un único barrido, con los datos obtenidos, se determina la línea independiente
+	
+		![](attachments/Pasted%20image%2020230905172102.png)
+		$$
+		\begin{align*}
+			y= K\cdot x + a
+		\end{align*}
+		$$
+		
+		$$
+		\begin{align*}
+			K = \frac{y_{max}-y_{min}}{x_{max}-x_{min}}
+		\end{align*}
+		$$
+		
+		$$
+		\begin{align*}
+			a = y_{min}-K\cdot x_{min}
+		\end{align*}
+		$$
+
+		Notar que $K$ es la sensibilidad.
+
+		- _Linealidad de mínimos cuadrados_
+			- Se traza la línea de mínimos cuadrados
+
+		$$
+		\begin{align*}
+			m = \frac{n\cdot \sum(x\cdot y)-\sum x\cdot \sum y}{n\cdot \sum x^{2} - \left( \sum x \right)^{2}}
+		\end{align*}
+		$$
+		
+		$$
+		\begin{align*}
+			b = \frac{\sum y - m\cdot \sum x}{n}
+		\end{align*}
+		$$
+
+- _Histéresis_
+	- La histéresis en términos generales se calcula con respecto a la diferencia más grande obtenida para un mismo valor de entrada
+	 - Si se hace un barrido de ascenso y de descenso, la histéresis es:
+	
+	$$
+	\begin{align*}
+		Hist = \frac{max(X_{desc}^{i} - X_{asc}^{i})}{L_{sup}-L_{inf}}\cdot 100
+	\end{align*}
+	$$
+
+	- $X_{desc}^{i}$ : Medición $i$ hecha en descenso
+	- $X_{asc}^{i}$ : Medición $i$ hecha en ascenso
+
+
+>[!Note]
+>Un _barrido de ascenso-descenso_ es primero ponerle magnitudes a la entrada al sensor, aumentarlos partiendo desde su límite inferior (e.g. de a 5 por cada medición) hasta llegar a su límite máximo, luego hacer lo mismo pero descendiendo.
+>
+>Es decir, al final se tienen dos medidas para la misma magnitud de entrada
+
+![](attachments/Pasted%20image%2020230905165447.png)
+
+
+
+
+
+
 

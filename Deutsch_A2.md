@@ -58,7 +58,7 @@
 ![](attachments/Pasted%20image%2020230805202144.png)
 
 - Ich habe einen _besseren_ Computer als du
-- Ich habe den _Größten_ Computer
+- Ich habe den _größten_ Computer
 - Der Gepard ist das _schnellste_ Tier
 
 
@@ -251,5 +251,53 @@ Mit Ob-Sätzen kann man indirekte Ja/Nein Fragen bilden.
 >Nur Dinge, die einmal passiert sind
 
 
+## Präteritum
+
+### Regelmäßige Verben
+
+- _Machen_
+	- Machte
+	- Machtest
+	- Machte
+	- Machten
+	- Machtet
+	- Machten
+
+- _Arbeiten_
+	- Arbeitete
+	- Arbeitetest
+	- Arbeitete
+	- Arbeiteten
+	- Arbeitetet
+	- Arbeiteten
+
+### Unregelmäßige Verben
+
+- _Gehen_
+	- Ging
+	- Gingst
+	- Ging
+	- Gingen
+	- Gingt
+	- Gingen
+
+- _Kommen_
+	- Kam
+	- Kamst
+	- Kam
+	- Kamen
+	- Kamt
+	- Kamen
+
+- _Anrufen_
+	- Rief an
+	- Riefst an
+	- Rief an
+	- Riefen an
+	- Riefet an
+	- Riefen an
 
 
+>[!Note]
+>- Schreiben -> Präteritum
+>- Sprechen -> Perfekt
