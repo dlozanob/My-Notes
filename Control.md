@@ -2,7 +2,7 @@
 
 Diagrama clásico de un sistema de control:
 
-![](attachments/Pasted%20image%2020230902233341.png)
+![](attachments/Pasted%20image%2020230912144408.png)
 
 La función de transferencia equivalente es:
 
@@ -42,6 +42,7 @@ Señales:
 - Salida ($y$)
 - Referencia ($r$)
 - Error ($e$)
+- Ruido ($\eta$)
 
 Sistemas:
 - Planta ($G$)
@@ -149,7 +150,7 @@ $$
 \end{align*}
 $$
 
-Siendo así, el error en estado estacionario se define como:
+Siendo así, el error en estado estacionario se define como el error presente cuando el transitorio se ha extinguido:
 
 $$
 \begin{align*}
@@ -453,5 +454,139 @@ Equivalente:
 ![](attachments/Pasted%20image%2020230904003149.png)
 
 
+## Funciones de transferencia características
+
+Considerar el diagrama clásico:
+
+![](attachments/Pasted%20image%2020230912144546.png)
+
+A veces no siempre se quiere considerar la entrada y la salida como $R(S)$ y $Y(s)$ respectivamente.
+
+Por ejemplo: $\frac{Y(s)}{D(s)} = ?$ 
+
+$R(s)$ y $\eta(s)$ se consideran nulos.
+Entonces:
+
+$$
+\begin{align*}
+	Y(s) &= (U(s) + D(s))\cdot G(s) \\\\
+	&= (E(s)\cdot C(s) + D(s))\cdot G(s)\\\\
+	&= (-Y(s)\cdot C(s) + D(s))\cdot G(s)
+\end{align*}
+$$
+
+Por tanto:
+
+$$
+\begin{align*}
+	&Y(s)\cdot [1 + C(s)\cdot G(s)] = D(s)\cdot G(s) \\\\
+	&\frac{Y(s)}{D(s)} = \frac{G(s)}{1 + C(s)\cdot G(s)}
+\end{align*}
+$$
+
+Se deducen de la misma manera las demás funciones de transferencia derivadas de cada entrada/salida:
+
+| | $E(s)$ | $U(s)$ | $Y(s)$ |
+|-|-|-|-|
+| $R(s)$ | $\frac{1}{1+C(s)G(s)}$ | $\frac{C(s)}{1+C(s)G(s)}$ | $\frac{C(s)G(s)}{1+C(s)G(s)}$ |
+| $D(s)$ | $\frac{-G(s)}{1+C(s)G(s)}$ | $\frac{-C(s)G(s)}{1+C(s)G(s)}$ | $\frac{G(s)}{1+C(s)G(s)}$ |
+| $\eta(s)$ | $\frac{-1}{1+C(s)G(s)}$ | $\frac{-C(s)}{1+C(s)G(s)}$ | $\frac{1}{1+C(s)G(s)}$ |
+
+
+>[!Note]
+>- Para deducir estas ecuaciones:
+>Si la entrada es $R(s)$ se supone $D(s)$ y $\eta(s)$ nulas.
+>Igualmente si $\eta(s)$ es la entrada entonces las otras dos se suponen nulas
+>- Nomenclatura -> Ejemplo: $R(s)$ y $Y(s)$ -> $G_{y,r}(s)$
+
+
+## Casos particulares
+
+- _Ejemplo 1_
+
+![](attachments/Pasted%20image%2020230912145829.png)
+
+Intencionalmente se pone un controlador cuyo numerador cancele el inestable denominador de la planta.
+
+$$
+\begin{align*}
+	G_{y,r}(s) = \frac{\frac{1}{s+1}}{1+\frac{1}{s+1}} = \frac{1}{s+2}
+\end{align*}
+$$
+
+Ahora bien, considerando la perturbación:
+
+$$
+\begin{align*}
+	G_{y,d}(s) &= \frac{\frac{1}{s-3}}{1+\frac{\cancel{ s-3 }}{s+1}\cdot \frac{1}{\cancel{ s-3 }}} \\\\
+	&= \frac{s+1}{(s-3)(s+1) + (s-3)}
+\end{align*}
+$$
+
+El efecto total de la referencia $R(s)$ junto con la perturbación $D(s)$ es:
+
+$$
+\begin{align*}
+	Y(s) = G_{y,r}(s)\cdot R(s) + G_{y,d}(s)\cdot D(s)
+\end{align*}
+$$
+
+No obstante $G_{y,d}(s)$ es inestable, por tanto, $Y(s)$ es inestable también.
+
+>[!Warning]
+>Al haber cancelado el término $s-3$ en $G_{y,d}(s)$ se está suponiendo que $C(s)$ y $G(s)$ están perfectamente caracterizadas y que tienen exactamente los términos $(s-3)$.
+>En la realidad esto no es así, puede que una de ellas tenga $s-2.9$ y la otra $s-3.4$ . Esta diferencia no permitiría que los términos se cancelen, por lo tanto, se incurre en un error al cancelar estos términos.
+
+_Conclusión :_ No proponer controladores de la forma:
+
+$$
+\begin{align*}
+	C(s) = \frac{(s-\beta_{0})}{s-\alpha_{0}}
+\end{align*}
+$$
+
+Para cancelar el denominador inestable de la planta:
+
+$$
+\begin{align*}
+	G(s) = \frac{s-\beta_{1}}{(s-\beta_{0})}
+\end{align*}
+$$
+
+Esto puede hacer a todo el sistema inestable.
+
+>[!Info]
+>En Simulink para colocar un bloque de ruido usar el bloque _Band-limited-noise_
+
+
+- _Ejemplo 2_
+
+![](attachments/Pasted%20image%2020230912151123.png)
+
+El controlador no tiene polos. Es derivativo.
+
+Como bien se sabe, los derivadores amplifican el ruido.
+
+_Conclusión :_ $C(s)$ siempre debe ser propia o estrictamente propia.
+
+
+## Sistemas de $1^{er}$ orden
+
+La forma general de un sistema de primer orden es:
+
+$$
+\begin{align*}
+	\boxed{G(s) = \frac{K_{DC}}{\tau s + 1}}
+\end{align*}
+$$
+
+- $K_{DC}$ : Ganancia en $DC$
+- $\tau$ : Constante de tiempo
+
+
+
+
+
+## Sistemas de $2^{do}$ orden
 
 

@@ -45,7 +45,7 @@ $$
 Es la frecuencia natural del sistema.
 
 Posibles casos:
-- $\omega_{d}^{2} < 0$ -> Caso subamortiguado ($\zeta > 1$)
+- $\omega_{d}^{2} < 0$ -> Caso subamortiguado ($\zeta < 1$)
 - $\omega_{d}^{2} = 0$ -> Caso amortiguado ($\zeta = 1$)
 - $\omega_{d}^{2} > 0$ -> Caso sobreamortiguado ($\zeta > 1$)
 

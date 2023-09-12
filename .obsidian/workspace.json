@@ -4,47 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "93bd32336f555772",
+        "id": "4dad03904253a5b3",
         "type": "tabs",
         "children": [
           {
-            "id": "93ea6525bfe68dd1",
+            "id": "767ccf30047f58e5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TO DO.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2bc8ef94763e52ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Main.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "112c088f7cb38894",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OPPORTUNITÄTEN.md",
+                "file": "Control.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "d3b061d10565d350",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/blackboard.excalidraw.md"
+              }
+            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OPPORTUNITÄTEN.md",
+                "file": "Control.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OPPORTUNITÄTEN.md",
+                "file": "Control.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OPPORTUNITÄTEN.md"
+                "file": "Control.md"
               }
             }
           },
@@ -164,6 +149,16 @@
             "state": {
               "type": "calendar",
               "state": {}
+            }
+          },
+          {
+            "id": "9238a006741e6e36",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
             }
           }
         ],
@@ -208,44 +203,44 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "112c088f7cb38894",
+  "active": "767ccf30047f58e5",
   "lastOpenFiles": [
+    "attachments/Pasted image 20230912151123.png",
+    "Excalidraw/blackboard.excalidraw.md",
+    "Control.md",
+    "attachments/Pasted image 20230912145829.png",
+    "attachments/Pasted image 20230912144546.png",
+    "attachments/Pasted image 20230912144512.png",
+    "attachments/Pasted image 20230912144408.png",
+    "Cap. 4. Análisis cualitativo de sistemas LTI.md",
+    "Señales y Sistemas II.md",
+    "Sensores y Actuadores.md",
+    "Präpositionen.md",
+    "LaTeX.md",
+    "Dinámica de Fluidos.md",
+    "Fundamentos de Mecánica de Fluidos.md",
+    "Estática de Fluidos.md",
+    "Cinemática de Fluidos.md",
+    "Propiedades de los Fluidos.md",
+    "Linked note.md",
+    "Excalidraw/whiteboard.excalidraw.md",
+    "TO DO.md",
+    "Deutsch_A2.md",
     "Main.md",
     "OPPORTUNITÄTEN.md",
-    "TO DO.md",
-    "Sensores y Actuadores.md",
-    "Excalidraw/whiteboard.excalidraw.md",
     "attachments/Pasted image 20230905172102.png",
     "attachments/Pasted image 20230905165447.png",
     "Excalidraw/attachments/Pasted Image 20230905165433_597.png",
-    "Deutsch_A2.md",
     "Zufällige Fakten.md",
     "Deutsch_A1.md",
     "attachments/Pasted image 20230905154725.png",
     "Excalidraw/attachments/Pasted Image 20230905154659_686.png",
     "Excalidraw/attachments/Pasted Image 20230905154628_663.png",
-    "attachments/Pasted image 20230905154128.png",
-    "attachments/Pasted image 20230905154030.png",
-    "attachments/Pasted image 20230905153920.png",
-    "Excalidraw/attachments/Pasted Image 20230905153834_606.png",
     "Diseño de Elementos de Máquinas I.md",
-    "Excalidraw/blackboard.excalidraw.md",
     "Ingeniería de Diseño.md",
-    "Control.md",
     "Servomecanismos.md",
-    "Präpositionen.md",
     "Deutsch.md",
     "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
-    "Linked note.md",
-    "Cap. 4. Análisis cualitativo de sistemas LTI.md",
-    "LaTeX.md",
-    "Señales y Sistemas II.md",
-    "Cap. 1. Modelos de sistemas lineales y no lineales.md",
-    "Análisis de aceleración.md",
-    "Resistencia de Materiales.md",
-    "LaTeX Template.md",
-    "Portada Universidad Nacional.md",
-    "Windows Commands.md",
     "Local Backup.rar",
     "Local Notes Backup.rar",
     "attachments",

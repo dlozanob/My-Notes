@@ -468,7 +468,7 @@ Significados que ha tomado _P&ID_ :
 En las empresas son usados para:
 - Mantenimiento de los equipos
 - Capacitación de personal
-- Infoormación para el almacenamiento
+- Información para el almacenamiento
 - Diseño de espacios
 
 Las partes son indentificadas con etiquetas, estas indican instrumentos o puntos de interés.

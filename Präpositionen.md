@@ -1,6 +1,8 @@
 # Präpositionen
 
 - _An_
+	- Lokal
+		- Das Bild hängt an der Wand
 	- Datum
 		- Am 12. Dezember/12.
 		- Die Prüfung ist am 23 Mai/5.
@@ -17,15 +19,21 @@
 - _Um_
 	- Uhr
 		- Um sieben Uhr dreißig
+	- Um Mitternacht
 	- Sich kümmern
 	- Kämpfen
+	- Sich bewerben
 
 - _In_
+	- Lokal
+		- Ich packe meinen lieblingsen Stift in meiner Tasche ein
 	- Im 9. Semester
 	- Monate
 		- Im November
 	- Jahreszeiten
 		- Im Frühling
+	- Sich verlieben
+	- In der Nacht
 
 - _Mit -> Dativ_
 	- Fahren
@@ -44,9 +52,9 @@
 - _Bei -> Dativ_
 	- Ich arbeite bei Volkswagen
 	- Ich wohne bei meinen Eltern
-	- Sich bewerben
 	- Sich bedanken
 	- Helfen
+	- Sich entschuldigen
 
 - _Auf_
 	- Lokal
@@ -66,11 +74,6 @@
 	- Lokal
 		- Das Buch steht unter dem Tisch
 
-- _In_
-	- Lokal
-		- Ich lege den Stift in der Tasche
-	- Sich verlieben
-
 - _Neben_
 	- Lokal
 		- Die Lampe steht neben dem Fenster
@@ -85,10 +88,6 @@
 	- Lokal
 		- Das Mädchen steht hinter dem Bücherregal
 
-- _An_
-	- Lokal
-		- Das Bild hängt an der Wand
-
 - _Über_
 	- Lokal
 		- Das Flugzeug fliegt über uns
@@ -97,6 +96,7 @@
 	- Freuen (Vergangenheit)
 	- Nachdenken
 	- Sich wundern
+	- Streiten
 
 - _Zwischen_
 	- Lokal
@@ -108,6 +108,7 @@
 	- Erzählen
 	- Abhängen
 	- Wissen
+	- Träumen
 
 - _Zu -> Dativ_
 	- Wegbeschreibung
@@ -116,6 +117,7 @@
 	- Welcher beruf passt zu ihr?
 	- Gehören
 	- Einladen
+	- Zum Weihnachten
 
 - _Nach -> Dativ_
 	- Fragen
@@ -133,7 +135,7 @@
 
 - _Als_
 	- Sie Arbeitet als Kellnerin
-	- Als ich Kind war, wollte ich ein Superhero werden
+	- Als ich Kind war, wollte ich ein Superheld werden
 
 - _Für_
 	- Sich interessieren
