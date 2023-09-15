@@ -496,8 +496,11 @@ Se deducen de la misma manera las demás funciones de transferencia derivadas de
 >[!Note]
 >- Para deducir estas ecuaciones:
 >Si la entrada es $R(s)$ se supone $D(s)$ y $\eta(s)$ nulas.
->Igualmente si $\eta(s)$ es la entrada entonces las otras dos se suponen nulas
->- Nomenclatura -> Ejemplo: $R(s)$ y $Y(s)$ -> $G_{y,r}(s)$
+>Igualmente si $\eta(s)$ es la entrada entonces las otras dos se suponen nulas.
+>
+>Esto se hace para que la salida $Y(s)$ se deduzca luego con el _teorema de la superposición_
+>- Nomenclatura -> Ejemplo: $R(s)$ y $Y(s)$ -> $G_{yr}(s)$
+>- A la clásica $G_{yr}(s)$ se le denomina siempre como $G_{o}(s)$
 
 
 ## Casos particulares
@@ -518,23 +521,23 @@ Ahora bien, considerando la perturbación:
 
 $$
 \begin{align*}
-	G_{y,d}(s) &= \frac{\frac{1}{s-3}}{1+\frac{\cancel{ s-3 }}{s+1}\cdot \frac{1}{\cancel{ s-3 }}} \\\\
+	G_{yd}(s) &= \frac{\frac{1}{s-3}}{1+\frac{\cancel{ s-3 }}{s+1}\cdot \frac{1}{\cancel{ s-3 }}} \\\\
 	&= \frac{s+1}{(s-3)(s+1) + (s-3)}
 \end{align*}
 $$
 
-El efecto total de la referencia $R(s)$ junto con la perturbación $D(s)$ es:
+El efecto total de la referencia $R(s)$ junto con la perturbación $D(s)$ es (_teorema de la superposición_) :
 
 $$
 \begin{align*}
-	Y(s) = G_{y,r}(s)\cdot R(s) + G_{y,d}(s)\cdot D(s)
+	Y(s) = G_{yr}(s)\cdot R(s) + G_{yd}(s)\cdot D(s)
 \end{align*}
 $$
 
-No obstante $G_{y,d}(s)$ es inestable, por tanto, $Y(s)$ es inestable también.
+No obstante $G_{yd}(s)$ es inestable, por tanto, $Y(s)$ es inestable también.
 
 >[!Warning]
->Al haber cancelado el término $s-3$ en $G_{y,d}(s)$ se está suponiendo que $C(s)$ y $G(s)$ están perfectamente caracterizadas y que tienen exactamente los términos $(s-3)$.
+>Al haber cancelado el término $s-3$ en $G_{yd}(s)$ se está suponiendo que $C(s)$ y $G(s)$ están perfectamente caracterizadas y que tienen exactamente los términos $(s-3)$.
 >En la realidad esto no es así, puede que una de ellas tenga $s-2.9$ y la otra $s-3.4$ . Esta diferencia no permitiría que los términos se cancelen, por lo tanto, se incurre en un error al cancelar estos términos.
 
 _Conclusión :_ No proponer controladores de la forma:
@@ -576,17 +579,232 @@ La forma general de un sistema de primer orden es:
 
 $$
 \begin{align*}
-	\boxed{G(s) = \frac{K_{DC}}{\tau s + 1}}
+	\boxed{G_{o}(s) = \frac{K_{DC}}{\tau s + 1}}
 \end{align*}
 $$
 
-- $K_{DC}$ : Ganancia en $DC$
+- $K_{DC}$ : Ganancia en $DC$ ($j\omega = 0$)
 - $\tau$ : Constante de tiempo
 
+Analizando su respuesta al paso:
 
+$$
+\begin{align*}
+	Y(s) &= \frac{K_{DC}}{\tau s + 1}\cdot \frac{1}{s} \\\\
+	&= \frac{C_{1}}{s+\frac{1}{\tau}} + \frac{C_{2}}{s}
+\end{align*}
+$$
 
+$$
+\begin{align*}
+	y(t) &= -K_{DC}\cdot e^{-t/\tau} + K_{DC} \\\\
+	&= K_{DC}(1 - e^{-t/\tau})
+\end{align*}
+$$
+
+- _Tiempo de asentamiento_ ($t_{s}$)
+	- Se toma cuando el error porcentual de la respuesta es menor al $1\%$ de su estado estable. Esto sucede en $5\tau$
+	- Por tanto:
+
+	 $$
+	\begin{align*}
+		t_{s} = 5\cdot \left( \frac{1}{\mid p_{k}\mid_{min}} \right)
+	\end{align*}
+	$$
+
+	Se hace con respecto al polo más lento (el que más se demorará en extinguirse en el dominio del tiempo), el menor.
+
+- _Tiempo de subida (rise time)_
+	- Se define como el tiempo que le toma a la respuesta desde su $10\%$ hasta alcanzar su $90\%$ .
+
+![](attachments/Pasted%20image%2020230912152305.png)
 
 
 ## Sistemas de $2^{do}$ orden
 
+Su forma general es:
 
+$$
+\begin{align*}
+	\boxed{G_{o}(s) = \frac{\omega_{n}^{2}}{s^{2} + 2\zeta\omega_{n}s + \omega_{n}^{2}}}
+\end{align*}
+$$
+
+- $\zeta$ : Factor de amortiguamiento
+- $\omega_{n}$ : Frecuencia natural
+
+Formas posibles de la respuesta:
+- $0<\zeta<1$ -> Subamortiguamiento
+- $\zeta=1$ -> Amortiguamiento
+- $\zeta > 1$ -> Sobreamortiguamiento
+
+>[!Note]
+>- El error de posición en este tipo de sistemas siempre será nulo
+>- En sistemas mecánicos se espera que el sistema esté sobreamortiguado para evitar fallas por fatiga
+>- Un sistema sobreamortiguado es muy parecido a un sistema de primer orden
+
+La respuesta al paso es:
+
+$$
+\begin{align*}
+	Y(s) = \frac{\omega_{n}^{2}}{s^{2} + 2\zeta\omega_{n} + \omega_{n}^{2}}\cdot \frac{1}{s}
+\end{align*}
+$$
+
+Sus polos:
+
+$$
+\begin{align*}
+	p_{1,2} &= \frac{-2\zeta\omega_{n} \pm \sqrt{ (-2\zeta\omega_{n})^{2} - 4\omega_{n}^{2} }}{2} \\\\
+	&= -\zeta\omega_{n} \pm \omega_{n}\sqrt{ \zeta^{2} - 1 } \\\\
+	&= -\zeta\omega_{n} \mp j\omega_{n}\sqrt{ 1-\zeta^{2} }
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	&\to\sigma = \zeta\omega_{n} \\\\
+	&\to\omega_{d} = \omega_{n}\sqrt{ 1-\zeta^{2} }
+\end{align*}
+$$
+
+- $\sigma$ : Coeficiente de amortiguamiento
+- $\omega_{d}$ : Frecuencia natural de amortiguamiento
+
+Tomando la magnitud de los polos se obtiene:
+
+$$
+\begin{align*}
+	\mid p_{1,2}\mid &= \sqrt{ \zeta^{2}\omega_{n}^{2} + \omega_{n}^{2}(1-\zeta^{2}) } \\\\
+	&= \omega_{n}
+\end{align*}
+$$
+
+En el plano complejo:
+
+![](attachments/Pasted%20image%2020230912161227.png)
+
+$$
+\begin{align*}
+	\cos\theta &= \frac{\sigma}{\omega_{n}} \\\\
+	&= \zeta
+\end{align*}
+$$
+
+Variando el ángulo, la estabilidad del sistema varía:
+
+![](attachments/Pasted%20image%2020230912161950.png)
+
+
+>[!Note]
+>Un $\zeta = 0$ ($\theta = 90°$) implica una oscilación infinita
+
+
+La función toma la forma:
+
+$$
+\begin{align*}
+	Y(s) &= \frac{\omega_{n}^{2}}{[s-(-\sigma+j\omega_{d})][s-(-\sigma-j\omega_{d})]}\cdot \frac{1}{s} \\\\
+	&= \frac{C_{0}}{s} + \frac{C_{1}}{s + \sigma + j\omega_{d}} + \frac{C_{1}^{*}}{s + \sigma - j\omega_{d}}
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	C_{0} = G_{o}(s) = 1
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	C_{1} &= Y(s)\cdot (s+\sigma+j\omega_{d})\biggr\rvert_{s=-\sigma-j\omega_{d}} \\\\
+	&= \frac{\omega_{n}}{-2j\omega_{d}}\cdot \frac{1}{-\sigma - j\omega_{d}} \\\\
+	&= \frac{\omega_{n}^{2}}{2\omega_{d}e^{ j\pi/2 }}\cdot \frac{1}{\omega_{n}e^{ j(\theta+\pi) }} \\\\
+	&= \frac{\omega_{n}}{2\omega_{d}}\cdot e^{ -j\theta }\cdot e^{ -j\pi/2 } \\\\
+	&= \frac{\omega_{n}}{2\omega_{d}}\cdot e^{ -j(\theta+\pi/2) }
+\end{align*}
+$$
+
+Entonces la respuesta en el dominio del tiempo es:
+
+$$
+\begin{align*}
+	y(t) &= 1 + C_{1}e^{ -\sigma t }\cdot e^{ -j\omega_{d}t } + C_{1}^{*}e^{ -\sigma t }\cdot e^{ j\omega_{d}t } \\\\
+	&= 1 + \frac{\omega_{n}}{2\omega_{d}}\cdot e^{ -\sigma t }[e^{ -j(\theta+\pi/2) }\cdot e^{ -j\omega_{d}t }+e^{ j(\theta+\pi/2) }\cdot e^{ j\omega_{d}t }] \\\\
+	&= 1 + \frac{\omega_{n}}{\omega_{d}}\cdot e^{ -\sigma t }\cdot \cos\left( \omega_{d}t+\theta+\frac{\pi}{2} \right)
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	\boxed{y(t) = 1-\frac{\omega_{n}}{\omega_{d}}e^{ -\sigma t }\sin(\omega_{d}t + \theta)}
+\end{align*}
+$$
+
+---
+
+Considerar el sistema:
+
+$$
+\begin{align*}
+	G(s) = \frac{1}{(s+1)(s+10)}
+\end{align*}
+$$
+
+Su respuesta al impulso es:
+
+$$
+\begin{align*}
+	y(t) = \left( -\frac{1}{9}e^{ -t } + \frac{1}{90}e^{ -10t }+\frac{1}{10} \right)
+\end{align*}
+$$
+
+Se puede notar que el término $\frac{1}{90}e^{ -t }$ es despreciable con respecto a los otros términos.
+Por tanto, se puede hacer la aproximación:
+
+$$
+\begin{align*}
+	y(t) \approx -\frac{1}{9}e^{ -t }+\frac{1}{10}
+\end{align*}
+$$
+
+Eso significa en el dominio de la frecuencia:
+
+$$
+\begin{align*}
+	G(s) = \frac{1}{(s+1)(s+10)} \approx \frac{\frac{1}{10}}{s+1}
+\end{align*}
+$$
+
+
+>[!Note]
+>Se ha puesto el $\frac{1}{10}$ para que el valor en estado estacionario se mantenga
+
+Si el sistema original fuese:
+
+$$
+\begin{align*}
+	G(s) = \frac{2}{(s+1)(s+2)}
+\end{align*}
+$$
+
+La función:
+
+$$
+\begin{align*}
+	G(s) \approx \frac{1}{s+2}
+\end{align*}
+$$
+
+No sería una buena aproximación, porque los polos tienen una magnitud relativamente parecida.
+
+No obstnte, puede existir un $\alpha$ que permita una buena aproximación:
+
+$$
+\begin{align*}
+	\frac{2}{(s+1)(s+2)} \approx \frac{\alpha}{s+\alpha}
+\end{align*}
+$$
+
+>[!Note]
+>Este tipo de aproximaciones son útiles para trabajar con sistemas de menor orden. En la vida real suele suceder que la magnitud de los polos difieren en gran medida

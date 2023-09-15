@@ -4,14 +4,18 @@
 ---
 
 - [ ] Control
+	- [ ] Lab.
+	- [ ] Apuntes clase
+	- [ ] Apuntes Drive
+	- [ ] Reto 2
 - [ ] Sensores y Actuadores
-	- [ ] Práctica 1
+	- [x] Práctica 1
 	- [ ] Práctica 2
 	- [ ] PP3
 	- [x] PM3
 	- [ ] PM4 -> C. dinámicas
 	- [ ] PP4
-	- [ ] Amplificadores
+	- [x] Amplificadores
 - [ ] TPI
 	- [x] Satisfacción dispositivos
 	- [x] Documento - Resumen

@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "4dad03904253a5b3",
+        "id": "a96db0ab6d7ba149",
         "type": "tabs",
         "children": [
           {
-            "id": "767ccf30047f58e5",
+            "id": "e4bfa1f4706e7dde",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Control.md",
-                "mode": "source",
+                "file": "Diseño de Elementos de Máquinas I.md",
+                "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "d3b061d10565d350",
+            "id": "57309512d1766ff2",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md"
+                "file": "Excalidraw/whiteboard.excalidraw.md"
               }
             }
           }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Control.md",
+                "file": "Diseño de Elementos de Máquinas I.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Control.md",
+                "file": "Diseño de Elementos de Máquinas I.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Control.md"
+                "file": "Diseño de Elementos de Máquinas I.md"
               }
             }
           },
@@ -203,44 +203,43 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "767ccf30047f58e5",
+  "active": "e4bfa1f4706e7dde",
   "lastOpenFiles": [
-    "attachments/Pasted image 20230912151123.png",
-    "Excalidraw/blackboard.excalidraw.md",
+    "Excalidraw/whiteboard.excalidraw.md",
+    "Diseño de Elementos de Máquinas I.md",
+    "TO DO.md",
+    "attachments/Pasted image 20230915005829.png",
+    "attachments/Pasted image 20230915005243.png",
+    "attachments/Pasted image 20230915002018.png",
+    "Excalidraw/attachments/Pasted Image 20230915001911_440.png",
+    "Excalidraw/attachments/Pasted Image 20230915001858_595.png",
+    "attachments/Pasted image 20230914235153.png",
+    "attachments/Pasted image 20230914235056.png",
+    "attachments/Pasted image 20230914230752.png",
+    "attachments/Pasted image 20230914230236.png",
+    "attachments/Pasted image 20230914225844.png",
+    "OPPORTUNITÄTEN.md",
     "Control.md",
-    "attachments/Pasted image 20230912145829.png",
-    "attachments/Pasted image 20230912144546.png",
-    "attachments/Pasted image 20230912144512.png",
-    "attachments/Pasted image 20230912144408.png",
-    "Cap. 4. Análisis cualitativo de sistemas LTI.md",
-    "Señales y Sistemas II.md",
-    "Sensores y Actuadores.md",
+    "Linked note.md",
     "Präpositionen.md",
+    "Servomecanismos.md",
+    "Cap. 1. Modelos de sistemas lineales y no lineales.md",
+    "Señales y Sistemas II.md",
+    "Señales y Sistemas I.md",
+    "Cap. 4. Análisis cualitativo de sistemas LTI.md",
     "LaTeX.md",
+    "Excalidraw/blackboard.excalidraw.md",
+    "Sensores y Actuadores.md",
     "Dinámica de Fluidos.md",
     "Fundamentos de Mecánica de Fluidos.md",
     "Estática de Fluidos.md",
     "Cinemática de Fluidos.md",
     "Propiedades de los Fluidos.md",
-    "Linked note.md",
-    "Excalidraw/whiteboard.excalidraw.md",
-    "TO DO.md",
     "Deutsch_A2.md",
     "Main.md",
-    "OPPORTUNITÄTEN.md",
-    "attachments/Pasted image 20230905172102.png",
-    "attachments/Pasted image 20230905165447.png",
-    "Excalidraw/attachments/Pasted Image 20230905165433_597.png",
     "Zufällige Fakten.md",
     "Deutsch_A1.md",
-    "attachments/Pasted image 20230905154725.png",
-    "Excalidraw/attachments/Pasted Image 20230905154659_686.png",
-    "Excalidraw/attachments/Pasted Image 20230905154628_663.png",
-    "Diseño de Elementos de Máquinas I.md",
     "Ingeniería de Diseño.md",
-    "Servomecanismos.md",
-    "Deutsch.md",
-    "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
     "Local Backup.rar",
     "Local Notes Backup.rar",
     "attachments",

@@ -624,7 +624,7 @@ $$
 	- Deflexión inicial: $2\,\,mm$
 	- Deflexión adicional: $4\,\,mm$
 	- Material: Acero de alto carbono
-	- Procesos térmicos: Templado y temperadol
+	- Procesos térmicos: Templado y temperado
 	- Dureza: $490\,\,Bhn$
 	- Concentrador de esfuerzo (doblez -> $r = 4\,\,mm$) : $K_{t} = 1.7$
 	- $S_{y} = 0.9S_{ut}$
@@ -961,6 +961,372 @@ $$
 $$
 
 ---
+---
 
+- __Ejemplo__ :
+	- Material: AISI $1050$
+	- Tratamiento térmico: Templado y revenido a $400\,\,F$
+	- Maquinado y rectificado
+	- Temperatura de operación: $200\,\,F$
+	- Confiabilidad: $99.999\%$
+	- $n_{F} = ?$
+
+![](attachments/Pasted%20image%2020230914213016.png)
+
+>[!Note]
+>El eje está girando, pero las cargas de torque se contrarrestan para que no haya aceleración angular
+
+Análisis estático:
+
+$$
+\begin{align*}
+	&\sum M_{A} = 0 \\\\
+	&2\cdot 600 + \left( \frac{3}{8}+8 \frac{5}{8}+6 \frac{5}{8} +\frac{3}{8}-2\right)\cdot 1000 - \left( 2\cdot \frac{3}{8}+8 \frac{5}{8}+6 \frac{5}{8} \right)\cdot R_{2} = 0 \\\\
+	&R_{2} = 950\,\,lb
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	&\sum F_{y} = 0 \\\\
+	&R_{1} + R_{2} - 600 - 1000 = 0 \\\\
+	&R_{1} = 650\,\,lb
+\end{align*}
+$$
+
+Diagramas de cargas:
+
+![](attachments/Pasted%20image%2020230914235153.png)
+
+- Sección $D$ (punto $D$)
+
+Esfuerzos:
+
+Analicemos los esfuerzos sobre la fibra. El esfuerzo cortante sobre la fibra siempre es el mismo (no hay $\tau_{a}$).
+
+![](attachments/Pasted%20image%2020230914224347.png)
+
+Ahora bien, el esfuerzo normal sobre la fibra sí varía. Este es puramente alternante, por lo que $\sigma_{m} = 0$ .
+
+![](attachments/Pasted%20image%2020230914224230.png)
+
+Calculando estos esfuerzos:
+
+$$
+\begin{align*}
+	\sigma_{a} &= \frac{M\cdot y}{I_{z}} \\\\
+	&= \frac{1900\cdot \frac{d}{2}}{\frac{\pi\cdot d^{4}}{16\cdot 4}} \\\\
+	&= \frac{32\cdot 1900}{\pi\cdot d^{3}} \\\\
+	&= \frac{32\cdot 1900}{\pi\left( 1 \frac{1}{8} \right)^{3}} \\\\
+	&= 13.592\,\,ksi
+\end{align*}
+$$
+
+![](attachments/Pasted%20image%2020230914225828.png)
+
+$$
+\begin{align*}
+	\tau_{m} &= \frac{T\cdot c}{J} \\\\
+	&= \frac{1200\cdot \left( \frac{d}{2} \right)}{\frac{\pi d^{4}}{32}} \\\\
+	&= \frac{16\cdot 1200}{\pi d^{3}} \\\\
+	&= 4.292\,\,ksi
+\end{align*}
+$$
+
+![](attachments/Pasted%20image%2020230914225844.png)
+
+Conversión a esfuerzo equivalente:
+
+Hay dos gráficas de esfuerzo (cortante, normal). Se debe hallar el equivalente de _Von Misses_.
+
+![](attachments/Pasted%20image%2020230914230236.png)
+
+$$
+\begin{align*}
+	\boxed{\sigma_{eq} = \sqrt{ \sigma^{2}+3\tau^{2} }}
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	\sigma_{a}^{eq} &= \sqrt{ \sigma_{a}^{2} + 3\cancel{ \tau_{a} }^{2} } \\\\
+	&= 13.592\,\,ksi
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	\sigma_{m}^{eq} &= \sqrt{ \cancel{ \sigma_{m}^{2} } + 3\tau_{m}^{2} } \\\\
+	&= 7.433\,\,ksi
+\end{align*}
+$$
+
+![](attachments/Pasted%20image%2020230914230752.png)
+
+Cálculo del factor de seguridad:
+
+$$
+\begin{align*}
+	\left\{
+	\begin{array}{lcc}
+		S_{ut} = 163\,\,ksi \\\\
+	S_{y} = 117\,\,ksi
+	\end{array}
+	\right.
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	S_{e} = C_{a}\cdot C_{b}\cdot C_{c}\cdot C_{d}\cdot C_{e}\cdot S_{e}'
+\end{align*}
+$$
+
+El rectificado es más fino que el maquinado, se toma el rectificado.
+
+$$
+\begin{align*}
+	C_{a} &= 1.34\cdot (163)^{-0.085} \\\\
+	&= 0.869
+\end{align*}
+$$
+
+>[!Note]
+>El rectificado se hace en las zonas donde se montan rodamientos y superficies donde hay concentradores de esfuerzos
+
+$$
+\begin{align*}
+	C_{b} &= 0.879\cdot \left( 1 \frac{1}{8} \right)^{-0.107} \\\\
+	&= 0.868
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	C_{c} = 1
+\end{align*}
+$$
+
+>[!Note]
+>El factor de carga combinada es $C_{c} = 1$ porque se trabaja con el esfuerzo equivalente
+
+$$
+\begin{align*}
+	C_{d} = 1.02
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	C_{e} = 0.659
+\end{align*}
+$$
+
+Como el $S_{ut} < 200\,\,ksi$ entonces se puede suponer:
+
+$$
+\begin{align*}
+	S_{e}' &= 0.5\cdot S_{ut} \\\\
+	&= 81.5\,\,ksi
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	S_{e} = 41.322\,\,ksi
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	n_{F} &= \frac{1}{\frac{\sigma_{a}^{*}}{S_{e}} + \frac{\sigma_{m}^{*}}{S_{ut}}}  \\\\
+	&= 2.67
+\end{align*}
+$$
+
+Esto significa que esta sección presenta una vida infinita.
+
+
+- Sección $C$ (concentrador de esfuerzos)
+
+El momento flector en $C$ es $1650\,\,lb\cdot in$ .
+
+$$
+\begin{align*}
+	\sigma_{a} &= \frac{32M}{\pi d^{3}} \\\\
+	&= 25.087\,\,ksi
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	\tau_{m} &= \frac{16T}{\pi d^{3}} \\\\
+	&= 9.123\,\,ksi
+\end{align*}
+$$
+
+Ahora bien, se calculan los factores de concentración para cada carga:
+
+![](attachments/Pasted%20image%2020230915002018.png)
+
+$$
+\begin{align*}
+	\frac{D}{d} &= \frac{1 \frac{1}{8}}{\frac{7}{8}} \\\\
+	&= \frac{9}{7}''
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	\frac{r}{D} &= \frac{\frac{3}{32}}{\frac{7}{8}} \\\\
+	&= 0.1
+\end{align*}
+$$
+
+De acuerdo a las gráficas:
+
+$$
+\begin{align*}
+	\left\{
+	\begin{array}{lcc}
+		k_{t} = 1.6 \\
+	k_{ts} = 1.4
+	\end{array}
+	\right.
+\end{align*}
+$$
+
+Por interpolación: $\sqrt{ a } = 0.02995$ .
+
+$$
+\begin{align*}
+	q &= \frac{1}{1 + \frac{\sqrt{ a }}{\sqrt{ r }}} \\\\
+	&= 0.912
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	k_{f} &= 1 + q(k_{t} - 1) \\\\
+	&= 1.547
+\end{align*}
+$$
+
+Para esfuerzos cortantes: $\sqrt{ a_{s} } = 0.0231$ .
+
+$$
+\begin{align*}
+	q_{s} &= \frac{1}{1 + \frac{\sqrt{ a_{s} }}{\sqrt{ r }}} \\\\
+	&= 0.930
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	k_{fs} &= 1 + q_{s}(k_{ts} - 1) \\\\
+	&= 1.372
+\end{align*}
+$$
+
+Se hallan esfuerzos reales:
+
+$$
+\begin{align*}
+	&\sigma_{m}^{\mathrm{Re}al} = k_{t}\cdot \cancel{ \sigma_{m} } = 0 \\\\
+	&\sigma_{a}^{\mathrm{Re}al} = k_{f}\cdot \sigma_{a} = 38.810\,\,ksi
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	&\tau_{m}^{\mathrm{Re}al} = k_{ts}\cdot \tau_{m} = 12.772\,\,ksi \\\\
+	&\tau_{a}^{\mathrm{Re}al} = k_{fs}\cdot \cancel{ \tau_{a} } = 0
+\end{align*}
+$$
+
+Hallamos el esfuerzo equivalente:
+
+$$
+\begin{align*}
+	\sigma_{m}^{eq} &= \sqrt{ \cancel{ \sigma_{m}^{2} } + 3\tau_{m}^{2} } \\\\
+	&= 22.122\,\,ksi
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	\sigma_{a}^{eq} &= \sqrt{ \sigma_{a}^{2} + 3\cancel{ \tau_{a} }^{2} } \\\\
+	&= 38.810\,\,ksi
+\end{align*}
+$$
+
+Recalculando el $S_{e}$ :
+
+Solo cambia elfactor de tamaño $C_{b}$ :
+
+$$
+\begin{align*}
+	C_{b} &= 0.87\left( \frac{7}{8} \right)^{-0.107} \\\\
+	&= 0.883
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	S_{e} = 42.013\,\,ksi
+\end{align*}
+$$
+
+Finalmente hallamos el factor de seguridad:
+
+$$
+\begin{align*}
+	n_{F} = 0.944
+\end{align*}
+$$
+
+Esto significa vida finita.
+
+¿Cuántos ciclos se requieren para que se forme una grieta en el hombro?
+
+![](attachments/Pasted%20image%2020230915005243.png)
+
+$$
+\begin{align*}
+	&m = -\frac{\sigma_{a}^{*}}{\sigma_{m}^{*}} = -1.754 \\\\
+	&b = \sigma_{a}^{**} = 77.62\,\,ksi
+\end{align*}
+$$
+
+![](attachments/Pasted%20image%2020230915005829.png)
+
+$$
+\begin{align*}
+	S_{m} &= 0.9S_{ut} \\\\
+	&= 146.7\,\,ksi 
+\end{align*}
+$$
+
+Se plantea el sistema de ecuaciones:
+
+$$
+\begin{align*}
+	&\log Sm = \log a + 3b \\\\
+	&\log\sigma_{a}^{**} = \log a + b\log N \\\\
+	&\log S_{e} = \log a + 6b
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	\left\{
+	\begin{array}{lcc}
+		&a = 512.244 \\\\
+	&b = -0.181 \\\\
+	&N = 33670.788 \approx 33671\,\,Ciclos
+	\end{array}
+	\right.
+\end{align*}
+$$
 
 
