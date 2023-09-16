@@ -875,8 +875,97 @@ Las características más significativas son:
 ![](attachments/Pasted%20image%2020230905165447.png)
 
 
+## Distribución normal
 
 
+![](attachments/Pasted%20image%2020230915225916.png)
 
+El área bajo la curva hasta el valor $X$ es el porcentaje de datos que se encuentran por debajo o igual a $X$.
+
+$$
+\begin{align*}
+	\boxed{z = \frac{X-\mu}{\sigma}}
+\end{align*}
+$$
+
+- $X$ : Valor de interés
+- $\mu$ : Valor medio
+- $\sigma$ : Desviación estándar
+
+>[!Note]
+>- En Excel usar `DISTR.NORM.ESTAND()` sobre el $z$ calculado para hallar su probabilidad
+>- También es posible usar `DISTR.NORM()` para determinar el porcentaje de población hasta $X$, brindando $\mu$ y $\sigma$
+
+
+## Motores eléctricos
+
+![](attachments/Pasted%20image%2020230915092751.png)
+
+Velocidad de sincronismo para motores AC:
+
+$$
+\begin{align*}
+	\boxed{n = \frac{60f}{p}}
+\end{align*}
+$$
+
+- $n$ : Rpm
+- $f$ : Frecuencia
+- $p$ : Pares de polos
+
+>[!Note]
+>- A la diferencia entre la velocidad del flujo giratorio y del rotor se le conoce como _deslizamiento_
+>- Los _arrancadores estáticos_ regulan velocidad, amortigun el arranque, e incluso pueden frenarlo
+
+En motores asincrónicos, la velocidad de giro del motor es menor a la _velocidad de sincronismo_ (velocidad de las fases).
+
+### Tipos de conexiones
+
+![](attachments/Pasted%20image%2020230915093951.png)
+
+Para conexión _estrella_  :
+
+$$
+\begin{align*}
+	&U_{f} = \frac{U_{l}}{\sqrt{ 3 }} \\\\
+	&I_{f} = I_{l}
+\end{align*}
+$$
+
+Para conexión _delta_ :
+
+$$
+\begin{align*}
+	&U_{f} = U_{l} \\\\
+	&I_{f} = \frac{I_{l}}{\sqrt{ 3 }}
+\end{align*}
+$$
+
+
+- $U_{f}$ :Tensión de fase
+- $U_{l}$ : Tensión de línea
+- $I_{f}$ : Corriente de fase
+- $I_{l}$ : Corriente de línea
+
+Conexiones en la placa de bornes:
+
+![](attachments/Pasted%20image%2020230915094531.png)
+
+>[!Note]
+>- La corriente que consume el motor en arranque es de $5-7$ veces la nominal
+>- El Reglamento Electrotécnico de Baja Tensión (REBT) en su instrucción ITC-BT-47 regula la relación que debe existir entre las corrientes de arranque y corriente nominal con alimentación de red pública en función de su potencia
+
+![](attachments/Pasted%20image%2020230915094935.png)
+
+
+Para contactores es norma universal para sus terminales:
+
+![](attachments/Pasted%20image%2020230915104807.png)
+
+Terminado en $3$ -> NO. Terminado en $1$ -> NC.
+
+>[!Note]
+>- Los relés térmicos permiten ajustar la corriente de disparo
+>- La máxima velocidad de un potenciómetro es de $300\,\,rpm$ para embobinados, y de $2000\,\,rpm$ para continuos
 
 
