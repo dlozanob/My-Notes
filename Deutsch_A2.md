@@ -344,4 +344,63 @@ Mit Ob-Sätzen kann man indirekte Ja/Nein Fragen bilden.
 	- Wir könnten morgen tanzen gehen
 
 
+## Konditional
+
+- Ich gehe ins Kino, _wenn_ ich Geld habe
+- Wenn ich einen Tag frei habe, _dann_ treffe ich Freunde
+
+
+## Verben mit doppelten Objekt
+
+- Mein Bruder schenkt seiner Freundin, Blumen
+	- Mein Bruder schenkt _sie_ seiner Freundin
+	- Mein Bruder schenkt _ihr_, Blumen
+	- _Er_ schenkt _sie_ _ihr_
+
+
+## Genitiv
+
+| | Bestimmt Artikel | Unbestimmt Artikel |
+|-|-|-|
+|Maskulin | des (-s, -es) | eines (-s, -es) |
+| Feminin | der | einer |
+|Neutrum | des (-s, -es) | eines (-s, -es) |
+| Plural | der | - |
+
+- _Bsp_
+	- Die Tür des Autos
+	- Die Brille der Oma
+	- Der Computer des Chefs
+	- Das Ende des Films
+
+>[!Notiz]
+>- Wenn der Substantiv maskulin oder neutrum ist, muss man am Ende des Substantivs _-s_ oder _-es_ hinzufügen. Es kommt auf das Wort an
+>- Adjektiv Deklination immer -> _-en_
+>- _Von + Dativ_ ist mehr benutzt als Genitiv, um zu sprechen
+>- Eigennamen -> _-s_ oder _-s'_
+>	- Karin -> Karins
+>	- Klaus -> Klaus'
+
+
+### Präpositionen mit Genitiv
+
+- _Statt/Anstatt_
+- _Wegen_
+- _Während_
+- _Innerhalb_
+- _Außerhalb_
+- _Aufgrund_
+- _Trotz_
+- _Mithilfe_
+
+- _Bsp_
+	- _Wegen_ des Wetters können wir nicht in den Park gehen
+	- _Während_ des Unterrichts trinke ich Kaffe
+	- Ich kann mein Studium _mithilfe_ meiner Mutter bezahlen
+	- _Innerhalb_ der Uni gibt es viele Veranstaltungen
+
+
+>[!Notiz]
+>Präpositionen mit Genitiv sind formal
+
 

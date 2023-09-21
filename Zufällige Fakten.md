@@ -6,7 +6,7 @@ Jahre man liest als:
 - VC: Vollständige Nummer
 - NC:
 	- $[0; 2000]$ : Separate Nummer
-		- 1996 - Neunzehn sechsundneunzig
+		- 1996 - Neunzehnhundert sechsundneunzig
 	- $[0; \infty)$ : Vollständige Nummer
 
 ---
@@ -75,4 +75,11 @@ Clases de conectores:
 - Position 1
 
 ---
+
+Anne Franks Tagebuch, aber,
+Originalfassung -> Tagebuch der Anne Frank
+
+---
+
+
 

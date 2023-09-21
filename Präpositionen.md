@@ -1,8 +1,12 @@
 # Präpositionen
 
+## Akkusativ / Dativ
+
 - _An_
 	- Lokal
 		- Das Bild hängt an der Wand
+	- Gehen zu Grenze
+		- Ich laufe an der Strand
 	- Datum
 		- Am 12. Dezember/12.
 		- Die Prüfung ist am 23 Mai/5.
@@ -16,17 +20,11 @@
 	- Sich erinnern
 	- Glauben
 
-- _Um_
-	- Uhr
-		- Um sieben Uhr dreißig
-	- Um Mitternacht
-	- Sich kümmern
-	- Kämpfen
-	- Sich bewerben
-
 - _In_
 	- Lokal
 		- Ich packe meinen lieblingsen Stift in meiner Tasche ein
+	- Gehen zu geschlossene Orte
+		 - Ich gehe ins Kino
 	- Im 9. Semester
 	- Monate
 		- Im November
@@ -35,7 +33,70 @@
 	- Sich verlieben
 	- In der Nacht
 
-- _Mit -> Dativ_
+- _Auf_
+	- Lokal
+		- Die Flasche steht auf dem Tisch
+	- Gehen zu offenen Orten
+		- Ich gehe auf den Platz
+	- Sie hat auf mich geantwortet
+	- Warten
+	- Aufpassen
+	- Lust haben
+	- Achten
+	- Ankommen
+	- Vorbereiten
+	- Freuen (Zukunft)
+	- Antworten
+	- Verzichten
+
+- _Über_
+	- Lokal
+		- Das Flugzeug fliegt über uns
+	- Offene Orte überqueren
+		- Er läuft über das Lebensmittel
+	- Sich beschweren
+	- Sich ärgern
+	- Freuen (Vergangenheit)
+	- Nachdenken
+	- Sich wundern
+	- Streiten
+
+- _Als_
+	- Sie Arbeitet als Kellnerin
+	- Als ich Kind war, wollte ich ein Superheld werden
+
+
+## Akkusativ
+
+- _Um_
+	- Um die Ecke
+	- Ich läufe um den Park
+	- Uhr
+		- Um sieben Uhr dreißig
+	- Um Mitternacht
+	- Sich kümmern
+	- Kämpfen
+	- Sich bewerben
+
+- _Für_
+	- Sich interessieren
+	- Sich entscheiden
+	- Sich aufregen
+	- Danken
+
+- _Gegen_
+	- Sich entscheiden
+
+- _Ohne_
+
+- _Durch_
+	- Geschlossene Orte überqueren
+		- Du läufst durch den Park
+
+
+## Dativ
+
+- _Mit_
 	- Fahren
 		- Ich fahre mit dem Auto
 	- Ich wohne mit meinen Freunden
@@ -49,60 +110,18 @@
 	- Beginnen
 	- Sich treffen
 
-- _Bei -> Dativ_
-	- Ich arbeite bei Volkswagen
+- _Bei_
+	- Arbeiten bei Firmas oder Berufe
+		- Ich arbeite bei Volkswagen
+		- Ich arbeite bei der Polizei
 	- Ich wohne bei meinen Eltern
+	- In der Nähe
+		- Offenbach liegt bei Frankfurt
 	- Sich bedanken
 	- Helfen
 	- Sich entschuldigen
 
-- _Auf_
-	- Lokal
-		- Die Flasche steht auf dem Tisch
-	- Sie hat auf mich geantwortet
-	- Warten
-	- Aufpassen
-	- Lust haben
-	- Achten
-	- Ankommen
-	- Vorbereiten
-	- Freuen (Zukunft)
-	- Antworten
-	- Verzichten
-
-- _Unter_
-	- Lokal
-		- Das Buch steht unter dem Tisch
-
-- _Neben_
-	- Lokal
-		- Die Lampe steht neben dem Fenster
-
-- _Vor -> Dativ_
-	- Lokal
-		- Ich stehe mich vor dem Kühlschrank
-	- Angst haben
-	- Sich fürchten
-
-- _Hinter_
-	- Lokal
-		- Das Mädchen steht hinter dem Bücherregal
-
-- _Über_
-	- Lokal
-		- Das Flugzeug fliegt über uns
-	- Sich beschweren
-	- Sich ärgern
-	- Freuen (Vergangenheit)
-	- Nachdenken
-	- Sich wundern
-	- Streiten
-
-- _Zwischen_
-	- Lokal
-		- Die Vase liegt zwischen dem Kugelschreiber und den Stifte
-
-- _Von -> Dativ_
+- _Von_
 	- Das Spielzeug von dem Kind
 	- Leute von der Uni
 	- Erzählen
@@ -110,7 +129,7 @@
 	- Wissen
 	- Träumen
 
-- _Zu -> Dativ_
+- _Zu_
 	- Wegbeschreibung
 		- Wie komme ich zum Park?
 	- Etwas zu essen
@@ -120,31 +139,60 @@
 	- Feste
 		- Zum Weihnachten
 
-- _Nach -> Dativ_
+- _Nach_
 	- Fragen
+	- Länder,  Kontinente, Städte
+		- Ich gehe nach Deutschland
 
-- _Aus -> Dativ_
+- _Aus_
 	- Bestehen
 
-- _Seit -> Dativ_
+- _Seit_
 
-- _Vorbei -> Dativ_
+- _Vorbei_
 	- Wegbeschreibung
 		- An der Kirche vorbei
 
-- _Durch -> Akkusativ_
+- _Vor_
+	- Lokal
+		- Ich stehe mich vor dem Kühlschrank
+	- Angst haben
+	- Sich fürchten
 
-- _Als_
-	- Sie Arbeitet als Kellnerin
-	- Als ich Kind war, wollte ich ein Superheld werden
+- _Unter_
+	- Lokal
+		- Das Buch steht unter dem Tisch
 
-- _Für_
-	- Sich interessieren
-	- Sich entscheiden
-	- Sich aufregen
-	- Danken
+- _Neben_
+	- Lokal
+		- Die Lampe steht neben dem Fenster
 
-- _Gegen_
-	- Sich entscheiden
+- _Hinter_
+	- Lokal
+		- Das Mädchen steht hinter dem Bücherregal
+
+- _Zwischen_
+	- Lokal
+		- Die Vase liegt zwischen dem Kugelschreiber und den Stifte
+
+
+## Genitiv
+
+- _Statt/Anstatt_
+
+- _Wegen_
+
+- _Aufgrund_
+
+- _Innerhalb_
+
+- _Außerhalb_
+
+- _Trotz_
+
+- _Mithilfe_
+
+
+
 
 

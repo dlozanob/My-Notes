@@ -15,7 +15,7 @@
 	- [x] PM3
 	- [x] PM4 -> C. dinámicas
 	- [x] PM5
-	- [ ] PP4
+	- [x] PP4
 	- [x] Amplificadores
 	- [ ] PP5
 - [ ] TPI
