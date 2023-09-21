@@ -850,6 +850,8 @@ Las características más significativas son:
 			b = \frac{\sum y - m\cdot \sum x}{n}
 		\end{align*}
 		$$
+		
+		- _Linealidad de mínimos cuadrados con ajuste al cero_
 
 - _Histéresis_
 	- La histéresis en términos generales se calcula con respecto a la diferencia más grande obtenida para un mismo valor de entrada
@@ -863,6 +865,8 @@ Las características más significativas son:
 
 	- $X_{desc}^{i}$ : Medición $i$ hecha en descenso
 	- $X_{asc}^{i}$ : Medición $i$ hecha en ascenso
+
+	![](attachments/Pasted%20image%2020230921131743.png)
 
 
 >[!Note]
@@ -913,37 +917,6 @@ Algunos elementos que relacionan bloques en sistemas:
 	- Flujómetro de vórtex
 - _Procesos de tiempo muerto_
 	- Retardos de transporte
-
-
-## Calibración
-
-_Calibrar_ un instrumento es variar una de sus características de tal manera que para una entrada conocida, se obtenga una salida determinada.
-
-Ejemplo en una celda de carga: $1\,\,kg$ -> $1\,\,mV$
-
-El valor conocido de entrada se llama _estándar_ o _patrón_. Si se alpica en un rango se obtiene una _curva de calibración_. Esta curva puede parametrizarse con algún método numérico de aproximación.
-
-Con la calibración se puede determinar:
-- _Sensibilidad estática_
-	- Pendiente de la curva de calibración en cualquier punto de la misma
-- _Rango_
-	- Límites máximos y mínimos del instrumento
-- _Exactitud (Bias error)_
-	- Se relaciona con el error absoluto
-- _Precisión_
-	- Se relaciona con el error relativo (depende de varias tomas para la misma medición)
-
->[!Note]
->Aplicar una calibración aleatoria permite eliminar el impacto de la interferencia y los efectos de histéresis, reduce el bias error
-
-
-### Calibración estática
-
-Se ingresa una variable conocida y se observa la respuesta del instrumento. Se mantiene constante la variable de medición durante el tiempo.
-
-### Calibración dinámica
-
-Determina la relación entre una entrada de un comportamiento dinámico conocido y su salida. Las señales de entrada suelen ser: impulso, escalón, rampa, sinusoidal y aleatoria.
 
 
 ## Bases de probabilidad y estadística
@@ -1226,6 +1199,170 @@ Estrategias:
 - Linealizaciones a trozos
 - Look-up table
 - Estimación de la función característica
+
+
+## Calibración de sensores
+
+_Calibrar_ un instrumento es variar una de sus características de tal manera que para una entrada conocida, se obtenga una salida determinada.
+
+El objetivo es que la salida del sensor se aproxime a la respuesta real.
+
+![](attachments/Pasted%20image%2020230921131244.png)
+
+Ejemplo en una celda de carga: $1\,\,kg$ -> $1\,\,mV$
+
+El valor conocido de entrada se llama _estándar_ o _patrón_. Si se alpica en un rango se obtiene una _curva de calibración_. Esta curva puede parametrizarse con algún método numérico de aproximación.
+
+Con la calibración se puede determinar:
+- _Sensibilidad estática_
+	- Pendiente de la curva de calibración en cualquier punto de la misma
+- _Rango_
+	- Límites máximos y mínimos del instrumento
+- _Exactitud (Bias error)_
+	- Se relaciona con el error absoluto
+- _Precisión_
+	- Se relaciona con el error relativo (depende de varias tomas para la misma medición)
+
+>[!Note]
+>Aplicar una calibración aleatoria permite eliminar el impacto de la interferencia y los efectos de histéresis, reduce el bias error
+
+A partir de la definición de una variable física, las organizaciones se encargan de calibrar los instrumentos. Existe una jerarquía en estas organizaciones.
+
+![](attachments/Pasted%20image%2020230921125459.png)
+
+
+### Errores en la medición
+
+- _Error absoluto_
+
+	$$
+	\begin{align*}
+		E_{A} = \mid v_{r} - v_{m}\mid
+	\end{align*}
+	$$
+
+- _Error relativo_
+
+	$$
+	\begin{align*}
+		E_{R} = \frac{E_{A}}{v_{r}}
+	\end{align*}
+	$$
+
+	- $v_{r}$ : Valor real
+	- $v_{m}$ : Valor medido
+
+- _Error sistemático_
+	- Aparece en todas las mediciones
+	- Resultado del ambiente de medición, el instrumento, el operador
+
+- _Error aleatorio_
+	- Son inevitables. Se repiten aleatoriamente en todas las mediciones
+	- Tienden a seguir una distribución normal
+	- Se elimina calculando un promedio
+
+
+### Clase del instrumento
+
+Indica qué tan bueno es el sensor.
+
+Normalizada por la norma _NTC 4063_ y la _OIML R 34_.
+
+![](attachments/Pasted%20image%2020230921131854.png)
+
+- Números -> El error máximo brindado es un error realtivo
+- Letras -> El error máximo brindado es un error absoluto
+
+
+### Calibración estática
+
+![](attachments/Pasted%20image%2020230921131613.png)
+
+- Calibración más común
+- Se ingresa una variable conocida y se observa la respuesta del instrumento. Se mantiene constante la variable de medición durante el tiempo
+- Solo importan valores de entrada y de salida
+
+
+- Características estáticas
+	- Linealidad
+	- Deriva (_drift_)
+		- Offset de la respuesta con respecto a la línea real
+
+		![](attachments/Pasted%20image%2020230921133159.png)
+
+		$$
+		\begin{align*}
+			E_{0} = \frac{Y_{0}}{FSD}\cdot 100\%
+		\end{align*}
+		$$
+
+		- $E_{0}$ : Error por deriva
+		- $Y_{0}$ : Deriva
+		- $FSD$ : Rango del instrumento
+	
+	 - Zona muerta (_dead zone_)
+		 - Es el rango de valores que no producen salida en el sensor (zona de sensibilidad nula)
+
+	![](attachments/Pasted%20image%2020230921133748.png)
+
+	- Histéresis
+
+>[!Note]
+>Estas características aparecen en el data sheet del sensor
+
+
+La curva de calibración se ajusta por medio de dos parámetros como si fuese una recta:
+
+$$
+\begin{align*}
+	y = \underbrace{ m }_{ Ganancia }x + \underbrace{ b }_{ Offset }
+\end{align*}
+$$
+
+Se ajusta hasta que se asemeje a la real.
+
+![](attachments/Pasted%20image%2020230921134034.png)
+
+>[!Note]
+>La señal debe linealizarse previamente en caso de ser la salida poco lineal
+
+
+### Calibración dinámica
+
+- Determina la relación entre una entrada de un comportamiento dinámico conocido y su salida.
+- Las señales de entrada suelen ser: impulso, escalón, rampa, sinusoidal y aleatoria
+
+
+## La celda de carga
+
+Sensor que genera una diferencia de potencial de acuerdo a la deflexión producida al aplicar un momento flector.
+
+![](attachments/Pasted%20image%2020230921134430.png)
+
+El sensor se encuentra en voladizo y se le aplica una fuerza en su extremo.
+
+Posee una galga que al deformarse cambia su resistencia, lo que cambia el voltaje en el punto de medición del circuito.
+
+Para acondicionar la señal del sensor se usa un [amplificador de instrumentación](###El+amplificador+de+instrumentación).
+Esto ajusta la ganancia, pero no el offset ni la linealidad.
+
+
+### El puente de Wheatstone
+
+La celda de carga tiene adentro uno.
+
+Este puente permite medir el cambio de la resistencia.
+
+![](attachments/Pasted%20image%2020230921134730.png)
+
+La celda se alimenta en $A$ y $C$ ($12\,\,V$). La resistencia de la galga es $R_{x}$.
+La tensión se mide en $D$ y $B$.
+
+Al cambiar $R_{x}$ cambia la tensión medida.
+
+
+>[!Note]
+>Un módulo con puente de Wheatstone es el _HX711_
 
 
 ## Motores eléctricos

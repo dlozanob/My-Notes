@@ -11,12 +11,13 @@
 - [ ] Sensores y Actuadores
 	- [x] Práctica 1
 	- [ ] Práctica 2
-	- [ ] PP3
+	- [x] PP3
 	- [x] PM3
 	- [x] PM4 -> C. dinámicas
 	- [x] PM5
 	- [ ] PP4
 	- [x] Amplificadores
+	- [ ] PP5
 - [ ] TPI
 	- [x] Satisfacción dispositivos
 	- [x] Documento - Resumen
