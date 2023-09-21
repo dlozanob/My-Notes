@@ -12,7 +12,7 @@
 ![](attachments/Pasted%20image%2020230913195202.png)
 ![](attachments/Pasted%20image%2020230913195234.png)
 ![](attachments/Pasted%20image%2020230913195308.png)
-![](attachments/Pasted%20image%2020230913195508.png)
+![](attachments/Pasted%20image%2020230920210552.png)
 
 
 >[!Note]

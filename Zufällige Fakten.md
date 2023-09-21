@@ -69,3 +69,10 @@ Jahren haben nicht Präpositionen
 
 ---
 
+Clases de conectores:
+- Nebensatz
+- Position 0
+- Position 1
+
+---
+

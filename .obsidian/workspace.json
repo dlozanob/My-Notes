@@ -4,15 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "f9bd42c702e0f266",
+        "id": "7e2611eaf3071bdd",
         "type": "tabs",
         "children": [
           {
-            "id": "e083c0e851eadf0c",
+            "id": "573afaf86c5c1a85",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Sensores y Actuadores.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "98b336927b6db140",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HTML.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -85,6 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Sensores y Actuadores.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Sensores y Actuadores.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +140,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Sensores y Actuadores.md"
+              }
             }
           },
           {
@@ -185,43 +205,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e083c0e851eadf0c",
+  "active": "573afaf86c5c1a85",
   "lastOpenFiles": [
     "Excalidraw/whiteboard.excalidraw.md",
     "Sensores y Actuadores.md",
-    "attachments/Pasted image 20230915225916.png",
-    "Excalidraw/attachments/Pasted Image 20230915154338_583.png",
-    "Excalidraw/attachments/Pasted Image 20230915145202_155.png",
-    "Excalidraw/attachments/Pasted Image 20230915145147_154.png",
-    "Excalidraw/attachments/Pasted Image 20230915145126_985.png",
-    "Excalidraw/attachments/Pasted Image 20230915144025_130.png",
-    "Excalidraw/attachments/Pasted Image 20230915143213_128.png",
-    "Excalidraw/attachments/Pasted Image 20230915142907_807.png",
-    "Cap. 4. Análisis cualitativo de sistemas LTI.md",
-    "Linked note.md",
-    "Diseño de Elementos de Máquinas I.md",
-    "Excalidraw/blackboard.excalidraw.md",
+    "HTML.md",
+    "Obsidian Basics.md",
     "Señales y Sistemas II.md",
-    "attachments/Pasted image 20230915104807.png",
-    "Servomecanismos.md",
-    "attachments/Pasted image 20230915094935.png",
-    "Análisis dinámico.md",
+    "attachments/Pasted image 20230920223556.png",
+    "attachments/Pasted image 20230920222134.png",
+    "attachments/Pasted image 20230920220543.png",
+    "Cap. 5. Filtros analógicos.md",
+    "attachments/Pasted image 20230920212427.png",
+    "attachments/Pasted image 20230920212417.png",
+    "Excalidraw/attachments/Pasted Image 20230920212214_048.png",
+    "Excalidraw/attachments/Pasted Image 20230920212151_629.png",
+    "Excalidraw/attachments/Pasted Image 20230920212139_073.png",
+    "Excalidraw/attachments/Pasted Image 20230920212138_959.png",
+    "Excalidraw/attachments/Pasted Image 20230920212033_024.png",
     "TO DO.md",
     "OPPORTUNITÄTEN.md",
-    "Control.md",
-    "Präpositionen.md",
-    "Cap. 1. Modelos de sistemas lineales y no lineales.md",
-    "Señales y Sistemas I.md",
-    "LaTeX.md",
-    "Dinámica de Fluidos.md",
-    "Fundamentos de Mecánica de Fluidos.md",
-    "Estática de Fluidos.md",
-    "Cinemática de Fluidos.md",
-    "Propiedades de los Fluidos.md",
+    "whine.md",
     "Deutsch_A2.md",
-    "Main.md",
+    "Tema 1. Introducción a los portafolios de renta variable y fondos de inversión.md",
+    "Módulo 5. Teoría de portafolio.md",
+    "Finanzas.md",
     "Zufällige Fakten.md",
-    "Deutsch_A1.md",
+    "Präpositionen.md",
+    "Deutsch.md",
+    "Linked note.md",
+    "LaTeX.md",
+    "Control.md",
+    "Cap. 4. Análisis cualitativo de sistemas LTI.md",
+    "Diseño de Elementos de Máquinas I.md",
+    "Diseño de levas.md",
+    "LaTeX Template.md",
+    "Tema 1. Teoría sobre estructura de capital%2C impuestos y ventaja tributaria.md",
+    "AuxFolder/README.md",
+    "Tema 2. Beta apalancado y desapalancado, betas proxy y costo de capital.md",
     "Local Backup.rar",
     "Local Notes Backup.rar",
     "attachments",

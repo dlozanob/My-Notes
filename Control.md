@@ -603,7 +603,8 @@ $$
 $$
 
 - _Tiempo de asentamiento_ ($t_{s}$)
-	- Se toma cuando el error porcentual de la respuesta es menor al $1\%$ de su estado estable. Esto sucede en $5\tau$
+	- Se toma cuando el error porcentual de la respuesta es menor al $1\%$ de su estado estable. Esto sucede en $5\tau$ (error del $0.007\%$)
+	- También puede tomarse cuando la respuesta alcanza el $98\%$ del valor en el estado estable $y_{ss}$ (error del $2\%$)
 	- Por tanto:
 
 	 $$

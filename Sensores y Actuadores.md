@@ -695,8 +695,6 @@ El parámetro más importante es la corriente de carga máxima de salida.
 	- Debidos al ruido eléctrico
 
 
-
-
 ## Clasificación de actuadores
 
 - _Actuadores_
@@ -875,7 +873,100 @@ Las características más significativas son:
 ![](attachments/Pasted%20image%2020230905165447.png)
 
 
-## Distribución normal
+## Características dinámicas de los instrumentos
+
+Los instrumentos poseen funciones de transferencia $G(s)$ .
+
+Las características más representativas son:
+- Tiempo de subida ($t_{r}$)
+- Constante de tiempo ($\tau$)
+- Tiempo muerto
+- Frecuencia de respuesta
+- Coeficiente de amortiguamiento ($\sigma$)
+- Frecuencia natural ($\omega_{n}$)
+- Tiempo de seteo (asentamiento -> $t_{s}$)
+- Porcentaje de sobrepico ($O-S$)
+- Frecuencia de corte/Cutt-Off o cutoff de alta frecuencia ($f_{h}$)
+	- A partir de esta frecuencia la salida es $0.707$ veces la entrada. Cae por debajo de los $-3\,\,dB$
+	- Se cumple:
+	
+	$$
+	\begin{align*}
+		t_{r} = \frac{0.33}{f_{h}}
+	\end{align*}
+	$$
+
+![](attachments/Pasted%20image%2020230917222813.png)
+
+Algunos elementos que relacionan bloques en sistemas:
+- _Ganancia (SPAN)_
+	- Termómetro de bulbo
+	- Potenciómetro
+	- Válvulas lineales (aguja)
+- _Integral de proceso_
+	- Nivel de tanque con caudales de entrada y de salida
+- _Elementos de primer orden_
+	- Termocuplas
+	- Presión diferencial
+	- Flujómetro de turbina
+	- Rotámetro
+	- Flujómetro de vórtex
+- _Procesos de tiempo muerto_
+	- Retardos de transporte
+
+
+## Calibración
+
+_Calibrar_ un instrumento es variar una de sus características de tal manera que para una entrada conocida, se obtenga una salida determinada.
+
+Ejemplo en una celda de carga: $1\,\,kg$ -> $1\,\,mV$
+
+El valor conocido de entrada se llama _estándar_ o _patrón_. Si se alpica en un rango se obtiene una _curva de calibración_. Esta curva puede parametrizarse con algún método numérico de aproximación.
+
+Con la calibración se puede determinar:
+- _Sensibilidad estática_
+	- Pendiente de la curva de calibración en cualquier punto de la misma
+- _Rango_
+	- Límites máximos y mínimos del instrumento
+- _Exactitud (Bias error)_
+	- Se relaciona con el error absoluto
+- _Precisión_
+	- Se relaciona con el error relativo (depende de varias tomas para la misma medición)
+
+>[!Note]
+>Aplicar una calibración aleatoria permite eliminar el impacto de la interferencia y los efectos de histéresis, reduce el bias error
+
+
+### Calibración estática
+
+Se ingresa una variable conocida y se observa la respuesta del instrumento. Se mantiene constante la variable de medición durante el tiempo.
+
+### Calibración dinámica
+
+Determina la relación entre una entrada de un comportamiento dinámico conocido y su salida. Las señales de entrada suelen ser: impulso, escalón, rampa, sinusoidal y aleatoria.
+
+
+## Bases de probabilidad y estadística
+
+Tomando varias mediciones en distintas entradas, se puede obtener la frecuencia en la que una medida aparece en la respuesta:
+
+![](attachments/Pasted%20image%2020230917225259.png)
+
+![](attachments/Pasted%20image%2020230917225345.png)
+
+La función _densidad de probabilidad_ ($p(x)$) determina la frecuencia de aparición de una variable.
+
+Las funciones de densidad de probabilidad estándar son:
+- Gaussiana o Normal
+- Log-Normal
+- Poisson
+- Weibull
+- Binomial
+
+![](attachments/Pasted%20image%2020230917225800.png)
+
+
+### Distribución normal
 
 
 ![](attachments/Pasted%20image%2020230915225916.png)
@@ -893,8 +984,248 @@ $$
 - $\sigma$ : Desviación estándar
 
 >[!Note]
->- En Excel usar `DISTR.NORM.ESTAND()` sobre el $z$ calculado para hallar su probabilidad
+>- En Excel usar `DISTR.NORM.ESTAND()` sobre el $z$ calculado para hallar el área bajo la curva hasta este $z$ -> Probabilidad hasta $X$
 >- También es posible usar `DISTR.NORM()` para determinar el porcentaje de población hasta $X$, brindando $\mu$ y $\sigma$
+
+![](attachments/Pasted%20image%2020230917230333.png)
+
+![](attachments/Pasted%20image%2020230917230351.png)
+
+>[!Note]
+>- Notar que la distribución está centrada en $x' = \mu$
+>- Aquellos datos por fuera del rango $x'\pm 3\sigma$ se consideran descartables
+>- La probabilidad de que algún valor posea una desviación menor a $1.96\sigma$ es del $95\%$
+
+Supongamos que se mide $N$ veces una misma variable.
+Esto se hace $M$ veces.
+Si se grafican las desviaciones estándar de los $M$ conjuntos, se obtiene un función de densidad de probabilidad llamada _Chi-cuadrado_ (P($\chi^{2})$).
+
+Permite conocer qué tan bien una función sigue el patrón establecido de acuerdo a su función de densidad de probabilidad.
+
+
+### Análisis de regresión
+
+El análisis de regresión asume que los datos medidos alrededor de la variable real, satisfacen una distribución normal.
+
+La aproximación por mínimos cuadrados encuentra la mejor aproximación lineal que minimiza el cuadrado del error entre la medición y su correspondiente dato en la función.
+
+Se plantea el método de regresión por mínimos cuadrados de la siguiente manera:
+
+$$
+\begin{align*}
+	[A^{T}A]x &= [A^{T}]b  \\\\
+	Cx &= D
+\end{align*}
+$$
+
+Donde:
+
+$$
+\begin{align*}
+	A = 
+	\begin{pmatrix}
+x_{0} & 1 \\
+x_{1} & 1 \\
+. & . \\
+. & . \\
+x_{n} & 1
+\end{pmatrix}
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	x = \begin{pmatrix}
+m \\
+b
+\end{pmatrix}
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	b = \begin{pmatrix}
+y_{0} \\
+y_{1} \\
+. \\
+. \\
+y_{n}
+\end{pmatrix}
+\end{align*}
+$$
+
+El objetivo es hallar $m$ y $b$ para parametrizar la recta que minimiza el error.
+
+
+Si existen datos que caen fuera de la distribución normal ($\mid X\mid\geq 98.8\%$), estos pueden desplazar el error de bias incrementar el error de precisión.
+
+>[!Note]
+>Existen técnicas para determinar si se descartan estos datos o no
+
+
+### Incertidumbre
+
+El análisis de incertidumbre es el proceso de identificar y cuantificar errores en la medición.
+
+- _Bias error_
+	- Desviación entre la media y el valor real
+- _Error de precisión_
+	- Desviación con respecto a la media en una distribución normal
+- _Exactitud_
+	- Diferencia entre el valor real y el medido
+	- Error total (exactitud) = Bias error + Error de precisión
+
+Tipos de errores:
+- _Error de calibración_
+	- Entre el patrón y el instrumento
+	- Entre el patrón y el estándar
+- _Errores de adquisición_
+	- Error del sensor
+- _Errores de reducción_
+	- Error en curva de calibración -> Error al truncar la curva
+
+
+## Acondicionamiento de señales
+
+![](attachments/Pasted%20image%2020230920211605.png)
+
+El acondicionamiento puede:
+- Amplificar
+- Filtrar
+- Linealizar
+
+
+### Configuraciones básicas de acondicionamiento
+
+![](attachments/Pasted%20image%2020230920212417.png)
+
+![](attachments/Pasted%20image%2020230920212427.png)
+
+>[!Note]
+>Estos son filtros pasivos. Los filtros activos son diseñados en [Señales y Sistemas II](Señales%20y%20Sistemas%20II.md)
+
+
+<table>
+	<tr>
+		<th></th>
+		<th>Filtros activos</th>
+		<th>Filtros pasivos</th>
+	</tr>
+	<tr>
+		<td>Ventajas</td>
+		<td>- Mayor costo <br>- Implementación en cascada<br>- Faclidad de diseño en la ganancia</td>
+		<td>- Bajo costo<br>- Fáciles de implementar<br>- Respuesta aproximada a la función ideal<br>- Aplicaciones de altas frecuencias y potencia</td>
+	</tr>
+	<tr>
+		<td>Desventajas</td>
+		<td>- Requieren fuente de alimentación<br>- Límites en la señal donde el sistema se vuelve no lineal<br>- Mala respuesta a frecuencias altas</td>
+		<td>- Variaciones altas en la respuesta en frecuencia<br>- En bajas frecuencias se requieren inductancias altas, estas son difíciles de conseguir</td>
+	</tr>
+</table>
+
+
+### Algunos conceptos sobre amplificadores
+
+- Clasificación de acuerdo a su ganancia:
+	- $A = 300$ -> Amplificador de alta ganancia
+	- $A=\frac{10}{3}$ -> Amplificador de ganancia moderada
+	- $A=1$ -> Seguidor o repetidor
+	- $A=0.7$ -> Atenuador activo
+	- $A=0$ -> Bloqueador
+	- $A = -0.5$ -> Atenuador activo inversor
+	- $A=-1$ -> Inversor
+	- $A=-1.2$ -> Amplificador inversor de ganancia moderada
+	- $A=10^{4}$ -> Amplificador inversor de alta ganancia
+
+- Consideraciones importantes:
+	- Usar resistencias del orden $10^{4} - 10^{5}$, la corriente hacia el amplificador (_corrientes de entrada_) podría aumentarse en caso de usar un orden incorrecto
+	- Hay un voltaje diferencial límite
+	- $E_{D} = V^{+}-V^{-}$ -> Voltaje entre terminales del amplificador con respecto a su alimentación
+	- Pequeño offset en la señal de salida
+	- Los amplificadores no sirven para trabajar con frecuencias altas. La amplificación comienza a decrecer desde los $10\,\,Hz$
+
+
+Con respecto a las _corrientes de entrada_ :
+
+$$
+\begin{align*}
+	I_{B} = \frac{I_{+} + I_{-}}{2}
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	I_{OS} = I_{-} - I_{+}
+\end{align*}
+$$
+
+- $I_{B}$ : Corriente de Bias
+- $I_{OS}$ : Corriente de Offset
+- $I_{+}$ : Corriente que entra por la terminal $+$ del amplificador
+- $I_{-}$ : Corriente que entra por la terminal $-$ del amplificador
+
+La _corriente de offset_ se debe a defectos del operacional.
+
+El voltaje entre terminales $E_{D}$ realmente es:
+
+![](attachments/Pasted%20image%2020230920220543.png)
+
+$$
+\begin{align*}
+	&v_{+} = V_{+} - I_{+}\cdot R_{+} \\\\
+	&v_{-} = V_{-} - I_{-}\cdot R_{-}
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	E_{D} = v_{+} - v_{-} = \underbrace{ V_{+} - V_{-} }_{ Ideal } + \underbrace{ (R_{-} - R_{+})I_{B} }_{ Error\,\,por\,\,Bias } + \underbrace{ \frac{(R_{+} + R_{-})I_{OS}}{2} }_{ Error\,\,por\,\,offset }
+\end{align*}
+$$
+
+
+- _Slew Rate_
+	- Capacidad de un amplificador para cambiar el voltaje de salida en un determinado tiempo $[V/\mu s]$
+
+
+- Configuraciones básicas
+	- Comparador
+	
+		![](attachments/Pasted%20image%2020230920222134.png)
+	
+	 - Seguidor
+	- Inversor
+	- No inversor
+	- Sumador
+	- Restador
+	- Sumador-restador generalizado
+		- Es la configuración más utilizada
+	- Diferenciador
+	- Integrador
+		- Integrador de Miller
+			- Una señal cuadrada en la entrada genera una señal triangular en la salida
+
+
+### El amplificador de instrumentación
+
+- Optimizado para solo amplificar 
+- Amplifica una diferencia de tensión
+- Ganancia en el rango $1-1000$
+- Impedancia de entrada muy alta
+- Impedancia de salida muy baja
+- Bueno para rechazar ruido y rizado
+- Bajas tensiones de offset
+- Baja sensibilidad a la temperatura
+
+![](attachments/Pasted%20image%2020230920223556.png)
+
+
+### Linealización
+
+Estrategias:
+- Linealizaciones a trozos
+- Look-up table
+- Estimación de la función característica
 
 
 ## Motores eléctricos

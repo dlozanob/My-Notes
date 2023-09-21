@@ -7,20 +7,21 @@
 	- [ ] Lab.
 	- [ ] Apuntes clase
 	- [ ] Apuntes Drive
-	- [ ] Reto 2
+	- [x] Reto 2
 - [ ] Sensores y Actuadores
 	- [x] Práctica 1
 	- [ ] Práctica 2
 	- [ ] PP3
 	- [x] PM3
-	- [ ] PM4 -> C. dinámicas
+	- [x] PM4 -> C. dinámicas
+	- [x] PM5
 	- [ ] PP4
 	- [x] Amplificadores
 - [ ] TPI
 	- [x] Satisfacción dispositivos
 	- [x] Documento - Resumen
 - [ ] Diseño de Elementos de Máquinas I
-	- [ ] Parcial -> Viernes $15$, $4$ pm
+	- [x] Parcial -> Viernes $15$, $4$ pm
 
  - [ ] Visado
 	 - [x] DS-160

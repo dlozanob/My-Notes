@@ -301,3 +301,47 @@ Mit Ob-Sätzen kann man indirekte Ja/Nein Fragen bilden.
 >[!Note]
 >- Schreiben -> Präteritum
 >- Sprechen -> Perfekt
+
+
+## Gründe nennen
+
+- _Weil_
+	- Ich habe nicht ins Kino gegangen, _weil_ ich kein Geld habe
+- _Denn_
+	- Ich gehe nicht ins Kino, _denn_ ich habe kein Geld
+- _Deshalb_
+	- Ich habe kein Geld, _deshalb_ gehe ich nicht ins Kino
+
+
+## Konjuktiv II
+
+| |Werden| Sein | Haben |
+|-|-|-|-|
+| ich | würde | wäre | hätte |
+|du | würdest | wärest | hättest|
+|er/sie/es | würde | wäre | hätte|
+|wir|würden|wären|hätten|
+|ihr|würdet|wäret|hättet|
+|sie/Sie|würden|wären|hätten|
+
+- _Bsp_
+	- Ich würde gern ins Kino gehe
+	- Wenn ich reich wäre, würde ich jeden Tag Sport machen
+	- Wenn ich Zeit hätte, würde ich jeden Tag Sport machen
+	- Wenn der Kellner kommen würde, würden wir etwas zu essen bestellen
+
+### Gebrauch
+
+1. _Wunsch_
+	- Er hätte gerne einen Porsche
+2. _Irreale Bedingung_
+	- Wenn ich viel Geld hätte, wäre ich glücklich
+3. _Höfflichkeit_
+	- Entschuldigung. Könnten Sie bitte mir helfen?
+4. _Ratschlag_
+	- Du solltest früher schlafen gehen
+5. _Vorschlag_
+	- Wir könnten morgen tanzen gehen
+
+
+

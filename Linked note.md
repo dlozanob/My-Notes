@@ -5,5 +5,3 @@ Hey! This is a linked note.
 
 ---
 
-
-
