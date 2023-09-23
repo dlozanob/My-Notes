@@ -1367,6 +1367,10 @@ Al cambiar $R_{x}$ cambia la tensión medida.
 
 ## Motores eléctricos
 
+![](attachments/Pasted%20image%2020230921194958.png)
+
+![](attachments/Pasted%20image%2020230921203705.png)
+
 ![](attachments/Pasted%20image%2020230915092751.png)
 
 Velocidad de sincronismo para motores AC:
@@ -1435,5 +1439,100 @@ Terminado en $3$ -> NO. Terminado en $1$ -> NC.
 >[!Note]
 >- Los relés térmicos permiten ajustar la corriente de disparo
 >- La máxima velocidad de un potenciómetro es de $300\,\,rpm$ para embobinados, y de $2000\,\,rpm$ para continuos
+
+
+### Motores DC
+
+La excitación de un motor DC es la forma en la que se conecta el circuito.
+
+- _Excitación en serie_
+
+![](attachments/Pasted%20image%2020230921195742.png)
+
+- _Excitación en paralelo (shunt)_
+
+![](attachments/Pasted%20image%2020230921195843.png)
+
+- _Exitación compuesta (compound)_
+
+![](attachments/Pasted%20image%2020230921200150.png)
+
+
+### Motores universales
+
+Puede ser conectado tanto a corriente alterna como continua.
+
+![](attachments/Pasted%20image%2020230921200458.png)
+
+>[!Note]
+>Estos están presentes en taladros
+
+
+### Motores asíncronos trifásicos
+
+![](attachments/Pasted%20image%2020230921200814.png)
+
+Velocidades de estos motores:
+- $3000\,\,rpm$
+- $1500\,\,rpm$
+- $750\,\,rpm$
+
+Clasificación por construcción:
+- Jaula de ardilla
+- Rotor bobinado
+
+
+>[!Note]
+>Aplicaciones de los motores asíncronos:
+>- Sopladores de aire
+>- Bombas
+>- Cintas transportadoras
+>- Extractores de aire
+
+
+### Motores AC síncronos
+
+La velocidad del rotor no tiene _deslizamiento_ con respecto a la velocidad del campo magnético.
+
+No aumentan el factor de potencia. Los asíncronos sí lo hacen.
+
+>[!Note]
+>Aplicaciones de los motores síncronos:
+>- Bombas
+>- Laminación siderúrgica
+
+- Tipos de arranque:
+	- _Arranque directo_
+
+	![](attachments/Pasted%20image%2020230921202415.png)
+
+	- _Arranque estrella-triángulo_
+
+	- _Arranque por autotransformador_
+
+	![](attachments/Pasted%20image%2020230921202510.png)
+
+- _Arranque mediante resistencia en serie_
+
+	![](attachments/Pasted%20image%2020230921202625.png)
+
+- _Arrancador suave_
+
+
+### Variadores de frecuencia
+
+Al modificar la frecuencia de la onda de entrada, permite modificar la velocidad en un motor AC.
+
+![](attachments/Pasted%20image%2020230921203202.png)
+
+
+### Introducción al control de movimiento
+
+![](attachments/Pasted%20image%2020230921204100.png)
+
+- Problemas en el control de movimiento:
+	- Selección adecuada de actuadores
+	- Selección adecuada de instrumentación
+	- Programación adecuada de los controladores
 
 

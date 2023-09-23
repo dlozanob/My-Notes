@@ -17,7 +17,7 @@
 	- [x] PM5
 	- [x] PP4
 	- [x] Amplificadores
-	- [ ] PP5
+	- [x] PP5
 - [ ] TPI
 	- [x] Satisfacción dispositivos
 	- [x] Documento - Resumen

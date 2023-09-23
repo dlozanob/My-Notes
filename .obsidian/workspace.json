@@ -4,43 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "dae7232afc34de25",
+        "id": "247b901e6e6c86ee",
         "type": "tabs",
         "children": [
           {
-            "id": "9a0f89b3b19e131a",
+            "id": "2e2765a0592b3553",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sensores y Actuadores.md",
+                "file": "Control.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "9bd5382b1e1ab90d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Diseño de Elementos de Máquinas I.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "620535a4a9d16779",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
+      },
+      {
+        "id": "654b889770d03c4c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4d5468746c4ef95f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/whiteboard.excalidraw.md"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,6 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Control.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,6 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Control.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +144,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Control.md"
+              }
             }
           },
           {
@@ -210,44 +209,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "620535a4a9d16779",
+  "active": "2e2765a0592b3553",
   "lastOpenFiles": [
-    "Diseño de Elementos de Máquinas I.md",
-    "Sensores y Actuadores.md",
-    "Excalidraw/blackboard.excalidraw.md",
-    "Diseño de ejes.md",
-    "attachments/Pasted image 20230921184341.png",
-    "Diseño por fatiga.md",
-    "attachments/Pasted image 20230921175851.png",
     "Excalidraw/whiteboard.excalidraw.md",
-    "attachments/Pasted image 20230921175007.png",
+    "Control.md",
+    "attachments/Pasted image 20230922215842.png",
+    "attachments/Pasted image 20230922215814.png",
+    "Excalidraw/attachments/Pasted Image 20230922215804_189.png",
+    "attachments/Pasted image 20230922215724.png",
+    "Excalidraw/attachments/Pasted Image 20230922215718_150.png",
+    "Excalidraw/attachments/Pasted Image 20230922215614_581.png",
+    "attachments/Pasted image 20230922215530.png",
+    "attachments/Pasted image 20230922215452.png",
+    "attachments/Pasted image 20230922215430.png",
+    "attachments/Pasted image 20230922215359.png",
+    "Cap. 1. Modelos de sistemas lineales y no lineales.md",
+    "Señales y Sistemas II.md",
+    "Diseño de ejes.md",
+    "LaTeX.md",
+    "Diseño de Elementos de Máquinas I.md",
     "TO DO.md",
+    "Sensores y Actuadores.md",
+    "Servomecanismos.md",
+    "Main.md",
+    "Física.md",
+    "Excalidraw/blackboard.excalidraw.md",
+    "Diseño por fatiga.md",
     "Obsidian Basics.md",
     "Deutsch_A2.md",
     "Zufällige Fakten.md",
     "Präpositionen.md",
-    "attachments/Pasted image 20230921134730.png",
-    "attachments/Pasted image 20230921134430.png",
-    "attachments/Pasted image 20230921134034.png",
-    "Excalidraw/attachments/Pasted Image 20230921134032_163.png",
-    "attachments/Pasted image 20230921133748.png",
-    "Excalidraw/attachments/Pasted Image 20230921133743_172.png",
-    "attachments/Pasted image 20230921133159.png",
     "HTML.md",
-    "Señales y Sistemas II.md",
     "Cap. 5. Filtros analógicos.md",
     "OPPORTUNITÄTEN.md",
     "whine.md",
     "Tema 1. Introducción a los portafolios de renta variable y fondos de inversión.md",
     "Módulo 5. Teoría de portafolio.md",
     "Finanzas.md",
-    "Deutsch.md",
-    "Linked note.md",
-    "LaTeX.md",
-    "Control.md",
-    "Cap. 4. Análisis cualitativo de sistemas LTI.md",
-    "Diseño de levas.md",
-    "LaTeX Template.md",
     "Local Backup.rar",
     "Local Notes Backup.rar",
     "attachments",

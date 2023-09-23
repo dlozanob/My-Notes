@@ -565,8 +565,8 @@ Reemplazando los flujos:
 
 $$
 \begin{align*}
-	\frac{dT_{m}}{dt} = \frac{T_{A} - T_{m}}{C_{m}R_{m}} \\\\
-	\frac{dT_{A}}{dt} = \frac{1}{C_{A}}(\frac{T_{m} - T_{A}}{R_{m}} - \frac{T_{A} - T_{E}}{R_{A}}) \\\\
+	&\frac{dT_{m}}{dt} = \frac{T_{A} - T_{m}}{C_{m}R_{m}} \\\\
+	&\frac{dT_{A}}{dt} = \frac{1}{C_{A}}(\frac{T_{m} - T_{A}}{R_{m}} - \frac{T_{A} - T_{E}}{R_{A}}) \\\\
 \end{align*}
 $$
 
@@ -581,8 +581,12 @@ $$
 	=
 	\begin{pmatrix}
 		-\frac{1}{C_{m}R_{m}} & \frac{1}{C_{m}R_{m}} \\\\
-		\frac{1}{C_{A}R_{m}} & -\left( \frac{1}{C_{A}R_{m}} + \frac{C_{A}}{R_{A}} \right)
+		\frac{1}{C_{A}R_{m}} & -\left( \frac{1}{C_{A}R_{m}} + \frac{1}{C_{A}R_{A}} \right)
 	\end{pmatrix}
+	\begin{pmatrix}
+T_{m} \\\\
+T_{A}
+\end{pmatrix}
 	+
 	\begin{pmatrix}
 		0 \\\\
