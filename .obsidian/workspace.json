@@ -4,34 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "247b901e6e6c86ee",
+        "id": "166367d8863968d9",
         "type": "tabs",
         "children": [
           {
-            "id": "2e2765a0592b3553",
+            "id": "c50c606c7e3e7a4b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Control.md",
+                "file": "Cap. 3. Lugar geométrico de las raices.md",
                 "mode": "source",
                 "source": false
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "654b889770d03c4c",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "4d5468746c4ef95f",
+            "id": "e2eb53139b82cdac",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/whiteboard.excalidraw.md"
+                "file": "Excalidraw/blackboard.excalidraw.md"
               }
             }
           }
@@ -105,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Control.md",
+                "file": "Cap. 3. Lugar geométrico de las raices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Control.md",
+                "file": "Cap. 3. Lugar geométrico de las raices.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Control.md"
+                "file": "Cap. 3. Lugar geométrico de las raices.md"
               }
             }
           },
@@ -209,43 +203,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2e2765a0592b3553",
+  "active": "c50c606c7e3e7a4b",
   "lastOpenFiles": [
-    "Excalidraw/whiteboard.excalidraw.md",
-    "Control.md",
-    "attachments/Pasted image 20230922215842.png",
-    "attachments/Pasted image 20230922215814.png",
-    "Excalidraw/attachments/Pasted Image 20230922215804_189.png",
-    "attachments/Pasted image 20230922215724.png",
-    "Excalidraw/attachments/Pasted Image 20230922215718_150.png",
-    "Excalidraw/attachments/Pasted Image 20230922215614_581.png",
-    "attachments/Pasted image 20230922215530.png",
-    "attachments/Pasted image 20230922215452.png",
-    "attachments/Pasted image 20230922215430.png",
-    "attachments/Pasted image 20230922215359.png",
-    "Cap. 1. Modelos de sistemas lineales y no lineales.md",
-    "Señales y Sistemas II.md",
-    "Diseño de ejes.md",
-    "LaTeX.md",
-    "Diseño de Elementos de Máquinas I.md",
-    "TO DO.md",
-    "Sensores y Actuadores.md",
-    "Servomecanismos.md",
-    "Main.md",
-    "Física.md",
     "Excalidraw/blackboard.excalidraw.md",
-    "Diseño por fatiga.md",
-    "Obsidian Basics.md",
-    "Deutsch_A2.md",
-    "Zufällige Fakten.md",
+    "Cap. 3. Lugar geométrico de las raices.md",
+    "Control.md",
+    "Deutsch_A1.md",
     "Präpositionen.md",
-    "HTML.md",
-    "Cap. 5. Filtros analógicos.md",
-    "OPPORTUNITÄTEN.md",
-    "whine.md",
-    "Tema 1. Introducción a los portafolios de renta variable y fondos de inversión.md",
-    "Módulo 5. Teoría de portafolio.md",
-    "Finanzas.md",
+    "Deutsch_A2.md",
+    "Excalidraw/whiteboard.excalidraw.md",
+    "Excalidraw/attachments/Pasted Image 20230925103634_835.png",
+    "Excalidraw/attachments/Pasted Image 20230925102636_699.png",
+    "Excalidraw/attachments/Pasted Image 20230925101614_863.png",
+    "Excalidraw/attachments/Pasted Image 20230925095438_718.png",
+    "Excalidraw/attachments/Pasted Image 20230925093933_726.png",
+    "Excalidraw/attachments/Pasted Image 20230925092433_728.png",
+    "Excalidraw/attachments/Pasted Image 20230925091135_606.png",
+    "Servomecanismos.md",
+    "Laboratorio de Control.md",
+    "Linked note.md",
+    "Excalidraw/attachments/Pasted Image 20230924132542_155.png",
+    "Excalidraw/attachments/Pasted Image 20230924131129_153.png",
+    "Excalidraw/attachments/Pasted Image 20230924131043_140.png",
+    "Cap. 6. Sistemas en tiempo discreto.md",
+    "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
+    "Cap. 1. Realimentación.md",
+    "Automatización, Control y Robótica.md",
+    "Automatización%2C Control y Robótica.md",
+    "Main.md",
+    "Cap. 7. Filtros digitales.md",
+    "Cap. 2. Criterios de diseño de control.md",
+    "Lugar geométrico de las raices.md",
+    "Criterios de diseño de control.md",
+    "Sensores y Actuadores.md",
+    "README.md",
+    "Señales y Sistemas II.md",
+    "Cap. 1. Modelos de sistemas lineales y no lineales.md",
+    "Diseño de ejes.md",
     "Local Backup.rar",
     "Local Notes Backup.rar",
     "attachments",

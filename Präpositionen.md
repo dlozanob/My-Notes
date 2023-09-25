@@ -1,12 +1,13 @@
 # Präpositionen
 
-## Akkusativ / Dativ
+## Wechselpräpositionen (Akk. - Dat.)
 
 - _An_
-	- Lokal
+	- Wo?
 		- Das Bild hängt an der Wand
-	- Gehen zu Grenze
+	- Wohin? (Grenzen)
 		- Ich laufe an der Strand
+		- Die Frau mit dem Hammer hängt das Bild an die Wand
 	- Datum
 		- Am 12. Dezember/12.
 		- Die Prüfung ist am 23 Mai/5.
@@ -34,10 +35,11 @@
 	- In der Nacht
 
 - _Auf_
-	- Lokal
+	- Wo?
 		- Die Flasche steht auf dem Tisch
-	- Gehen zu offenen Orten
+	- Wohin? (Offenen Orten)
 		- Ich gehe auf den Platz
+		- Ich stelle die Flasche auf der Tisch
 	- Sie hat auf mich geantwortet
 	- Warten
 	- Aufpassen
