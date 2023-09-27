@@ -5,12 +5,12 @@
 
 - [ ] Control
 	- [ ] Lab.
-	- [ ] Apuntes clase
-	- [ ] Apuntes Drive
+	- [x] Apuntes clase
+	- [x] Apuntes Drive
 	- [x] Reto 2
 - [ ] Sensores y Actuadores
 	- [x] Práctica 1
-	- [ ] Práctica 2
+	- [x] Práctica 2
 	- [x] PP3
 	- [x] PM3
 	- [x] PM4 -> C. dinámicas
@@ -23,6 +23,7 @@
 	- [x] Documento - Resumen
 - [ ] Diseño de Elementos de Máquinas I
 	- [x] Parcial -> Viernes $15$, $4$ pm
+	- [ ] Proyecto
 
  - [ ] Visado
 	 - [x] DS-160

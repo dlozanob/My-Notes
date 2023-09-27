@@ -779,7 +779,7 @@ Las características más significativas son:
 
 - _Precisión_
 	- Determina qué tanto difieren las medidas entre ellas
-	- Es la desviación estándar de las medidas
+	- Es la diferencia entre el valor real y el medido
 
 - _Resolución_
 	- Es la tolerancia que tiene el instrumento
@@ -1341,7 +1341,9 @@ Sensor que genera una diferencia de potencial de acuerdo a la deflexión produci
 
 El sensor se encuentra en voladizo y se le aplica una fuerza en su extremo.
 
-Posee una galga que al deformarse cambia su resistencia, lo que cambia el voltaje en el punto de medición del circuito.
+Posee una galga extensiométrica que al deformarse cambia su resistencia, lo que cambia el voltaje en el punto de medición del circuito.
+
+![](attachments/Pasted%20image%2020230926171556.png)
 
 Para acondicionar la señal del sensor se usa un [amplificador de instrumentación](###El+amplificador+de+instrumentación).
 Esto ajusta la ganancia, pero no el offset ni la linealidad.
@@ -1351,7 +1353,7 @@ Esto ajusta la ganancia, pero no el offset ni la linealidad.
 
 La celda de carga tiene adentro uno.
 
-Este puente permite medir el cambio de la resistencia.
+Genera un cambio de tensión proporcional al cambio de la resistencia.
 
 ![](attachments/Pasted%20image%2020230921134730.png)
 

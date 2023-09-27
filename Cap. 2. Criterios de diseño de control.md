@@ -569,6 +569,9 @@ $$
 
 ![](attachments/Pasted%20image%2020230912152305.png)
 
+>[!Note]
+>$t_{rise}$ está relacionado inversamente con la magnitud del polo
+
 
 ## Sistemas de $2^{do}$ orden
 
