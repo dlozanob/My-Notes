@@ -97,6 +97,7 @@ $$
 $$
 
 La entrada del sistema es un flujo de calor. $\theta_{a}$ no se conoce, puede variar de acuerdo a la temperatura del ambiente. 
+
 El modelo es no lineal.
 
 Se establecen puntos de operación:
@@ -154,7 +155,7 @@ La función de transferencia del sistema linealizado es:
 
 $$
 \begin{align*}
-	G(s) = \frac{\hat{\Theta_{2}}(s)}{\hat{Q}_{i}(s)} = \frac{\frac{1}{R_{1}C_{1}C_{2}}}{s^{2} + \left( \frac{1}{R_{1}C_{1}}+\frac{1}{R_{2}C_{2}}+\frac{1}{R_{1}C_{2}} \right)s + \left( \frac{1}{R_{1}R_{2}C_{1}C_{2}} \right)}
+	G(s) = \frac{\hat{\Theta}_{2}(s)}{\hat{Q}_{i}(s)} = \frac{\frac{1}{R_{1}C_{1}C_{2}}}{s^{2} + \left( \frac{1}{R_{1}C_{1}}+\frac{1}{R_{2}C_{2}}+\frac{1}{R_{1}C_{2}} \right)s + \left( \frac{1}{R_{1}R_{2}C_{1}C_{2}} \right)}
 \end{align*}
 $$
 

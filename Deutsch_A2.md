@@ -404,3 +404,31 @@ Mit Ob-Sätzen kann man indirekte Ja/Nein Fragen bilden.
 >Präpositionen mit Genitiv sind formal
 
 
+---
+
+- Das Aspirin würde 1897 von F. Hoffmann erfunden
+
+- Besucht dich deine Tante?
+	- Wurdest du von deiner Tante besucht?
+
+---
+
+- Der Konzern (-e) -> Multinacional
+- Herausfinden -> Descubrir
+- Der Werbespruch -> Lema publicitario
+- Etliche -> Algunos
+- Der Gründer (-) -> Fundador
+- Der Stadtteil (-e) -> Barrio
+- Erwachsen -> Adulto
+- Aufwachsen -> Grow up
+- Die Lawine (-n) -> Avalancha
+- Verschütten -> Enterrar
+- Die Kastanie (-n) -> Chestnut
+- Anbieten -> Ofrecer
+- Die Erfindung (-en) -> Invento
+- Die Entdeckung (-en) -> Descubrimiento
+- Die Dampfmaschine (-n) -> Máquina de vapor
+- Der Flaschenzug (-¨e) -> Polea
+- Das Dynamit -> Dinamita
+- Der Magnetismus -> Magmetismo
+- Der Sauerstoff -> Oxígeno

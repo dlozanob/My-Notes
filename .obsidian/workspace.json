@@ -4,18 +4,49 @@
     "type": "split",
     "children": [
       {
-        "id": "d5a49836d9e0a186",
+        "id": "b6e562129db31805",
         "type": "tabs",
         "children": [
           {
-            "id": "3da55b1fd5f6b32e",
+            "id": "d40c05cc7bf0f5ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Deutsch_A2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ae7054136646d773",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/whiteboard.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "3fb238ec94ac8b06",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "7ea3562bf1af0f11",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -193,44 +224,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3da55b1fd5f6b32e",
+  "active": "7ea3562bf1af0f11",
   "lastOpenFiles": [
-    "TO DO.md",
     "Excalidraw/whiteboard.excalidraw.md",
-    "Sensores y Actuadores.md",
+    "Deutsch_A2.md",
+    "Excalidraw/attachments/Pasted Image 20230929143011_316.png",
+    "TO DO.md",
+    "Deutsch.md",
+    "Excalidraw/attachments/Pasted Image 20230929140353_127.png",
+    "Cap. 2. Criterios de diseño de control.md",
+    "Linked note.md",
     "LaTeX.md",
+    "Excalidraw/attachments/Pasted Image 20230928233120_175.png",
+    "Excalidraw/attachments/Pasted Image 20230928221021_243.png",
+    "Control.md",
+    "Diseño por fatiga.md",
+    "Síntesis de mecanismos.md",
+    "Mecanismos.md",
+    "Diseño de Elementos de Máquinas I.md",
+    "Laboratorio de Control.md",
+    "Cap. 1. Modelos de sistemas lineales y no lineales.md",
+    "Excalidraw/attachments/Pasted Image 20230927214810_927.png",
+    "Excalidraw/attachments/Pasted Image 20230927205420_155.png",
+    "Microcontrollers.md",
+    "Señales y Sistemas II.md",
+    "Excalidraw/attachments/Pasted Image 20230927104057_243.png",
+    "Excalidraw/attachments/Pasted Image 20230927103226_189.png",
+    "Excalidraw/attachments/Pasted Image 20230927103151_156.png",
+    "Excalidraw/attachments/Pasted Image 20230927103120_187.png",
+    "Sensores y Actuadores.md",
     "LaTeX Template.md",
     "Cap. 5. Filtros analógicos.md",
-    "Señales y Sistemas II.md",
-    "Excalidraw/attachments/Pasted Image 20230926214110_339.png",
-    "Laboratorio de Control.md",
-    "Linked note.md",
-    "Control.md",
-    "attachments/Pasted image 20230926171556.png",
-    "attachments/Pasted image 20230926171545.png",
-    "Excalidraw/attachments/Pasted Image 20230926171531_535.png",
-    "attachments/Pasted image 20230926171511.png",
     "Excalidraw/blackboard.excalidraw.md",
     "Cap. 3. Lugar geométrico de las raices.md",
-    "attachments/Pasted image 20230925172931.png",
-    "Cap. 2. Criterios de diseño de control.md",
-    "attachments/Pasted image 20230925170156.png",
-    "attachments/Pasted image 20230925165525.png",
-    "attachments/Pasted image 20230925164239.png",
-    "attachments/Pasted image 20230925163908.png",
     "Deutsch_A1.md",
     "Präpositionen.md",
-    "Deutsch_A2.md",
     "Servomecanismos.md",
     "Cap. 6. Sistemas en tiempo discreto.md",
-    "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
-    "Cap. 1. Realimentación.md",
-    "Automatización, Control y Robótica.md",
-    "Automatización%2C Control y Robótica.md",
-    "Main.md",
-    "Cap. 7. Filtros digitales.md",
-    "Lugar geométrico de las raices.md",
-    "Criterios de diseño de control.md",
     "Local Backup.rar",
     "Local Notes Backup.rar",
     "attachments",

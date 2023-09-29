@@ -4,7 +4,7 @@
 ---
 
 - [ ] Control
-	- [ ] Lab.
+	- [x] Lab.
 	- [x] Apuntes clase
 	- [x] Apuntes Drive
 	- [x] Reto 2
@@ -27,7 +27,7 @@
 
  - [ ] Visado
 	 - [x] DS-160
-	 - [ ] [USEmbassy](https://www.usembassy.gov/)
+	 - [x] [USEmbassy](https://www.usembassy.gov/)
 	 - [x] DRE
 		 - Edificio Uriel Gutiérrez of 514
 		 - Cra45 #26 85
