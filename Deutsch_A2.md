@@ -415,7 +415,7 @@ Mit Ob-Sätzen kann man indirekte Ja/Nein Fragen bilden.
 
 - haltbar -> Conservable
 - flach -> Flat
-
+- aufsetzen -> Calentar (comida)
 
 ## Finalsätze
 
@@ -427,7 +427,7 @@ Mit Ob-Sätzen kann man indirekte Ja/Nein Fragen bilden.
 
 - _damit_
 	- Mein Vater arbeitet viel, _damit_ wir ein neues Auto haben
-	- Meine Mutter arbeitet viel, _damir_ ich an der Uni studieren kann
+	- Meine Mutter arbeitet viel, _damit_ ich an der Uni studieren kann
 	- Alfred kauft Lebensmittel, _damit_ er das Mittagessen kochen kann
 
 
