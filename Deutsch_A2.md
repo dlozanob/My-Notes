@@ -413,22 +413,25 @@ Mit Ob-Sätzen kann man indirekte Ja/Nein Fragen bilden.
 
 ---
 
-- Der Konzern (-e) -> Multinacional
-- Herausfinden -> Descubrir
-- Der Werbespruch -> Lema publicitario
-- Etliche -> Algunos
-- Der Gründer (-) -> Fundador
-- Der Stadtteil (-e) -> Barrio
-- Erwachsen -> Adulto
-- Aufwachsen -> Grow up
-- Die Lawine (-n) -> Avalancha
-- Verschütten -> Enterrar
-- Die Kastanie (-n) -> Chestnut
-- Anbieten -> Ofrecer
-- Die Erfindung (-en) -> Invento
-- Die Entdeckung (-en) -> Descubrimiento
-- Die Dampfmaschine (-n) -> Máquina de vapor
-- Der Flaschenzug (-¨e) -> Polea
-- Das Dynamit -> Dinamita
-- Der Magnetismus -> Magmetismo
-- Der Sauerstoff -> Oxígeno
+- haltbar -> Conservable
+- flach -> Flat
+
+
+## Finalsätze
+
+- _um...zu_
+	- Ich lerne Deutsch, _um_ in Deutschland _zu_ studieren
+	- Ich lerne Deutsch, _um_ in Deutschland arbeiten _zu_ können
+	- Oskar hat viel gearbeitet, _um_ ein neues Auto _zu_ kaufen
+	- Ich brauche Geld, _um_ meine Mutter _anzurufen_
+
+- _damit_
+	- Mein Vater arbeitet viel, _damit_ wir ein neues Auto haben
+	- Meine Mutter arbeitet viel, _damir_ ich an der Uni studieren kann
+	- Alfred kauft Lebensmittel, _damit_ er das Mittagessen kochen kann
+
+
+
+
+
+

@@ -8,7 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d40c05cc7bf0f5ff",
+            "id": "7cf53d65358790f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cap. 2. Criterios de diseño de control.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ff530dcb4f68c48c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,7 +32,7 @@
             }
           },
           {
-            "id": "ae7054136646d773",
+            "id": "fac513de78b2bce1",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -28,25 +40,9 @@
                 "file": "Excalidraw/whiteboard.excalidraw.md"
               }
             }
-          },
-          {
-            "id": "3fb238ec94ac8b06",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "7ea3562bf1af0f11",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -116,6 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Deutsch_A2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,6 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Deutsch_A2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +151,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Deutsch_A2.md"
+              }
             }
           },
           {
@@ -224,20 +224,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7ea3562bf1af0f11",
+  "active": "ff530dcb4f68c48c",
   "lastOpenFiles": [
     "Excalidraw/whiteboard.excalidraw.md",
+    "Excalidraw/attachments/Pasted Image 20231002091912_092.png",
     "Deutsch_A2.md",
+    "Cap. 2. Criterios de diseño de control.md",
+    "Cap. 3. Lugar geométrico de las raices.md",
+    "Control.md",
     "Excalidraw/attachments/Pasted Image 20230929143011_316.png",
     "TO DO.md",
     "Deutsch.md",
     "Excalidraw/attachments/Pasted Image 20230929140353_127.png",
-    "Cap. 2. Criterios de diseño de control.md",
     "Linked note.md",
     "LaTeX.md",
     "Excalidraw/attachments/Pasted Image 20230928233120_175.png",
     "Excalidraw/attachments/Pasted Image 20230928221021_243.png",
-    "Control.md",
     "Diseño por fatiga.md",
     "Síntesis de mecanismos.md",
     "Mecanismos.md",
@@ -251,12 +253,10 @@
     "Excalidraw/attachments/Pasted Image 20230927104057_243.png",
     "Excalidraw/attachments/Pasted Image 20230927103226_189.png",
     "Excalidraw/attachments/Pasted Image 20230927103151_156.png",
-    "Excalidraw/attachments/Pasted Image 20230927103120_187.png",
     "Sensores y Actuadores.md",
     "LaTeX Template.md",
     "Cap. 5. Filtros analógicos.md",
     "Excalidraw/blackboard.excalidraw.md",
-    "Cap. 3. Lugar geométrico de las raices.md",
     "Deutsch_A1.md",
     "Präpositionen.md",
     "Servomecanismos.md",
