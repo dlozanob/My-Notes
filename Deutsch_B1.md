@@ -13,3 +13,7 @@
 
 - Ich trinke Kaffee, _während_ ich arbeite
 - _Während_ ich arbeite, trinke ich Kaffee
+
+>[!Notiz]
+>_Während_ ist nicht Genitiv in diese Kasus
+

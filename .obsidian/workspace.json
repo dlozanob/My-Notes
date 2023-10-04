@@ -4,28 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "86e7ab93eddbd918",
+        "id": "f8b866148ccac7ac",
         "type": "tabs",
         "children": [
           {
-            "id": "07f47c55d9974f8b",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/whiteboard.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "aaba7f6d71d738e2",
+            "id": "9024533a27e55629",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deutsch_B1.md",
+                "file": "Cap. 4. Diseño por respuesta frecuencial.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "59643cb72f4d90f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cap. 4. Análisis cualitativo de sistemas LTI.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ecdd498a57ac8c7c",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/blackboard.excalidraw.md"
               }
             }
           }
@@ -99,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/whiteboard.excalidraw.md",
+                "file": "Cap. 4. Diseño por respuesta frecuencial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/whiteboard.excalidraw.md",
+                "file": "Cap. 4. Diseño por respuesta frecuencial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/whiteboard.excalidraw.md"
+                "file": "Cap. 4. Diseño por respuesta frecuencial.md"
               }
             }
           },
@@ -183,7 +195,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -211,22 +223,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "07f47c55d9974f8b",
+  "active": "abed2df76f33d216",
   "lastOpenFiles": [
+    "attachments/Pasted image 20231004170141.png",
+    "Excalidraw/blackboard.excalidraw.md",
+    "Cap. 4. Diseño por respuesta frecuencial.md",
+    "Cap. 4. Análisis cualitativo de sistemas LTI.md",
+    "LaTeX.md",
+    "Señales y Sistemas II.md",
+    "Control.md",
+    "Excalidraw/whiteboard.excalidraw.md",
     "Deutsch_B1.md",
     "Deutsch_A2.md",
-    "Excalidraw/whiteboard.excalidraw.md",
+    "Linked note.md",
     "Deutsch.md",
     "Excalidraw/attachments/Pasted Image 20231004092843_986.png",
     "Cap. 3. Lugar geométrico de las raices.md",
     "Cap. 1. Modelos de sistemas lineales y no lineales.md",
-    "Señales y Sistemas II.md",
     "Cap. 2. Criterios de diseño de control.md",
-    "Control.md",
     "Automatización, Control y Robótica.md",
     "Automatización%2C Control y Robótica.md",
     "Main.md",
-    "Linked note.md",
     "Excalidraw/attachments/Pasted Image 20231002103525_205.png",
     "Excalidraw/attachments/Pasted Image 20231002103510_203.png",
     "Excalidraw/attachments/Pasted Image 20231002103455_169.png",
@@ -238,17 +255,12 @@
     "Excalidraw/attachments/Pasted Image 20231002094301_933.png",
     "Excalidraw/attachments/Pasted Image 20231002091912_092.png",
     "TO DO.md",
-    "LaTeX.md",
     "Diseño por fatiga.md",
     "Síntesis de mecanismos.md",
     "Mecanismos.md",
     "Diseño de Elementos de Máquinas I.md",
     "Laboratorio de Control.md",
     "Microcontrollers.md",
-    "Sensores y Actuadores.md",
-    "LaTeX Template.md",
-    "Cap. 5. Filtros analógicos.md",
-    "Excalidraw/blackboard.excalidraw.md",
     "Local Backup.rar",
     "Local Notes Backup.rar",
     "attachments",
