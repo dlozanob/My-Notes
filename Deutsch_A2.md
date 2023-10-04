@@ -220,26 +220,6 @@ Mit Ob-Sätzen kann man indirekte Ja/Nein Fragen bilden.
 	- Das Kind, mit dem ich spiele, ist mein Nachbar
 
 
-## Modalverben in Präteritum
-
-| | Können | Dürfen | Müssen | Sollen | Wollen |
-|-|-|-|-|-|-|
-| ich | Konnte | Durfte | Musste | Sollte | Wollte |
-| du | Konntest | Durftest | Musstest | Solltest | Wolltest |
-| er/sie/es | Konnte | Durfte | Musste | Sollte | Wollte |
-| wir | Konnten | Durften | Mussten | Sollten | Wollten |
-| ihr | Konntet | Durftet | Musstet | Solltet | Wolltet |
-| sie/Sie | Konnten | Durften | Mussten | Sollten | Wollten |
-
->[!Notiz]
->Modalverben immer sind in Präteritum. Nie in Perfekt
-
-- Bsp
-	- Mit 5 Jahren konnte ich schon lesen
-	- Als Kind mussten wir früh aufstehen
-	- Ich wollte mit 10 Jahren Arzt werden
-
-
 ## Als (Nebensätze)
 
 - NS + HS:
@@ -301,6 +281,26 @@ Mit Ob-Sätzen kann man indirekte Ja/Nein Fragen bilden.
 >[!Note]
 >- Schreiben -> Präteritum
 >- Sprechen -> Perfekt
+
+
+### Modalverben in Präteritum
+
+| | Können | Dürfen | Müssen | Sollen | Wollen |
+|-|-|-|-|-|-|
+| ich | Konnte | Durfte | Musste | Sollte | Wollte |
+| du | Konntest | Durftest | Musstest | Solltest | Wolltest |
+| er/sie/es | Konnte | Durfte | Musste | Sollte | Wollte |
+| wir | Konnten | Durften | Mussten | Sollten | Wollten |
+| ihr | Konntet | Durftet | Musstet | Solltet | Wolltet |
+| sie/Sie | Konnten | Durften | Mussten | Sollten | Wollten |
+
+>[!Notiz]
+>Modalverben immer sind in Präteritum. Nie in Perfekt
+
+- Bsp
+	- Mit 5 Jahren konnte ich schon lesen
+	- Als Kind mussten wir früh aufstehen
+	- Ich wollte mit 10 Jahren Arzt werden
 
 
 ## Gründe nennen
@@ -411,11 +411,6 @@ Mit Ob-Sätzen kann man indirekte Ja/Nein Fragen bilden.
 - Besucht dich deine Tante?
 	- Wurdest du von deiner Tante besucht?
 
----
-
-- haltbar -> Conservable
-- flach -> Flat
-- aufsetzen -> Calentar (comida)
 
 ## Finalsätze
 

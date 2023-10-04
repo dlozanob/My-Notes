@@ -4,35 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b6e562129db31805",
+        "id": "86e7ab93eddbd918",
         "type": "tabs",
         "children": [
           {
-            "id": "7cf53d65358790f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cap. 2. Criterios de diseño de control.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ff530dcb4f68c48c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Deutsch_A2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fac513de78b2bce1",
+            "id": "07f47c55d9974f8b",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -42,19 +18,18 @@
             }
           },
           {
-            "id": "68272297c153841a",
+            "id": "aaba7f6d71d738e2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linked note.md",
+                "file": "Deutsch_B1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -124,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linked note.md",
+                "file": "Excalidraw/whiteboard.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linked note.md",
+                "file": "Excalidraw/whiteboard.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linked note.md"
+                "file": "Excalidraw/whiteboard.excalidraw.md"
               }
             }
           },
@@ -236,43 +211,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "68272297c153841a",
+  "active": "07f47c55d9974f8b",
   "lastOpenFiles": [
+    "Deutsch_B1.md",
+    "Deutsch_A2.md",
     "Excalidraw/whiteboard.excalidraw.md",
+    "Deutsch.md",
+    "Excalidraw/attachments/Pasted Image 20231004092843_986.png",
+    "Cap. 3. Lugar geométrico de las raices.md",
+    "Cap. 1. Modelos de sistemas lineales y no lineales.md",
+    "Señales y Sistemas II.md",
+    "Cap. 2. Criterios de diseño de control.md",
+    "Control.md",
+    "Automatización, Control y Robótica.md",
+    "Automatización%2C Control y Robótica.md",
+    "Main.md",
+    "Linked note.md",
     "Excalidraw/attachments/Pasted Image 20231002103525_205.png",
     "Excalidraw/attachments/Pasted Image 20231002103510_203.png",
     "Excalidraw/attachments/Pasted Image 20231002103455_169.png",
     "Excalidraw/attachments/Pasted Image 20231002100800_110.png",
     "Excalidraw/attachments/Pasted Image 20231002100744_657.png",
     "Deutsch_A1.md",
-    "Deutsch_A2.md",
     "Excalidraw/attachments/Pasted Image 20231002095512_172.png",
     "Excalidraw/attachments/Pasted Image 20231002094434_100.png",
-    "Cap. 2. Criterios de diseño de control.md",
     "Excalidraw/attachments/Pasted Image 20231002094301_933.png",
     "Excalidraw/attachments/Pasted Image 20231002091912_092.png",
-    "Cap. 3. Lugar geométrico de las raices.md",
-    "Control.md",
-    "Excalidraw/attachments/Pasted Image 20230929143011_316.png",
     "TO DO.md",
-    "Deutsch.md",
-    "Linked note.md",
     "LaTeX.md",
     "Diseño por fatiga.md",
     "Síntesis de mecanismos.md",
     "Mecanismos.md",
     "Diseño de Elementos de Máquinas I.md",
     "Laboratorio de Control.md",
-    "Cap. 1. Modelos de sistemas lineales y no lineales.md",
     "Microcontrollers.md",
-    "Señales y Sistemas II.md",
     "Sensores y Actuadores.md",
     "LaTeX Template.md",
     "Cap. 5. Filtros analógicos.md",
     "Excalidraw/blackboard.excalidraw.md",
-    "Präpositionen.md",
-    "Servomecanismos.md",
-    "Cap. 6. Sistemas en tiempo discreto.md",
     "Local Backup.rar",
     "Local Notes Backup.rar",
     "attachments",
