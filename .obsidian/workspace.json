@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "59643cb72f4d90f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cap. 4. Análisis cualitativo de sistemas LTI.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "ecdd498a57ac8c7c",
             "type": "leaf",
             "state": {
@@ -223,13 +211,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "abed2df76f33d216",
+  "active": "9024533a27e55629",
   "lastOpenFiles": [
-    "attachments/Pasted image 20231004170141.png",
+    "attachments/Pasted image 20231004175348.png",
+    "Cap. 4. Análisis cualitativo de sistemas LTI.md",
     "Excalidraw/blackboard.excalidraw.md",
     "Cap. 4. Diseño por respuesta frecuencial.md",
-    "Cap. 4. Análisis cualitativo de sistemas LTI.md",
+    "attachments/Pasted image 20231004175305.png",
+    "attachments/Pasted image 20231004175144.png",
+    "attachments/Pasted image 20231004174329.png",
+    "attachments/Pasted image 20231004173557.png",
+    "attachments/Pasted image 20231004173502.png",
+    "attachments/Pasted image 20231004173442.png",
+    "attachments/Pasted image 20231004172740.png",
+    "attachments/Pasted image 20231004172725.png",
+    "attachments/Pasted image 20231004172626.png",
     "LaTeX.md",
+    "TO DO.md",
+    "Obsidian Basics.md",
+    "attachments/Pasted image 20231004170808.png",
     "Señales y Sistemas II.md",
     "Control.md",
     "Excalidraw/whiteboard.excalidraw.md",
@@ -237,30 +237,18 @@
     "Deutsch_A2.md",
     "Linked note.md",
     "Deutsch.md",
-    "Excalidraw/attachments/Pasted Image 20231004092843_986.png",
     "Cap. 3. Lugar geométrico de las raices.md",
     "Cap. 1. Modelos de sistemas lineales y no lineales.md",
     "Cap. 2. Criterios de diseño de control.md",
     "Automatización, Control y Robótica.md",
     "Automatización%2C Control y Robótica.md",
     "Main.md",
-    "Excalidraw/attachments/Pasted Image 20231002103525_205.png",
-    "Excalidraw/attachments/Pasted Image 20231002103510_203.png",
-    "Excalidraw/attachments/Pasted Image 20231002103455_169.png",
-    "Excalidraw/attachments/Pasted Image 20231002100800_110.png",
-    "Excalidraw/attachments/Pasted Image 20231002100744_657.png",
     "Deutsch_A1.md",
-    "Excalidraw/attachments/Pasted Image 20231002095512_172.png",
-    "Excalidraw/attachments/Pasted Image 20231002094434_100.png",
-    "Excalidraw/attachments/Pasted Image 20231002094301_933.png",
-    "Excalidraw/attachments/Pasted Image 20231002091912_092.png",
-    "TO DO.md",
     "Diseño por fatiga.md",
     "Síntesis de mecanismos.md",
     "Mecanismos.md",
     "Diseño de Elementos de Máquinas I.md",
     "Laboratorio de Control.md",
-    "Microcontrollers.md",
     "Local Backup.rar",
     "Local Notes Backup.rar",
     "attachments",

@@ -56,6 +56,14 @@ Con estos datos era posible determinar la función de transferencia cuya magnitu
 
 La robustez se mide por medio del _margen de ganancia_ y el _margen de fase_. Estos se miden con diagramas de _Bode_ y de _Nyquist_.
 
+Se define $G_{l}(s)$ como:
+
+$$
+\begin{align*}
+	G_{l}(s) = C(s)\cdot G(S)
+\end{align*}
+$$
+
 Valores típicos de los márgenes de $G_{l}(j\omega)$ :
 - Margen de fase -> $40°$
 - Margen de ganancia -> $12\,\,dB$
@@ -78,5 +86,114 @@ $$
 Se puede poner una señal sinusoidal en $d$ y aumentar su frecuencia hasta que el sistema se vuelva inestable.
 
 ![](attachments/Pasted%20image%2020231004170141.png)
+
+
+## Concepto de respuesta en frecuencia
+
+Se supone:
+
+$$
+\begin{align*}
+	r(t) = A_{r}\cdot \sin(\omega t+\theta_{r})
+\end{align*}
+$$
+
+![](attachments/Pasted%20image%2020231004170808.png)
+
+$G_{o}(s)$ es estable.
+
+Entonces, la respuesta en el estado estacionario es:
+
+$$
+\begin{align*}
+	y_{ss}(t) = A_{G}A_{r}\sin(\omega_{1}t+\theta_{r}+\theta_{G})
+\end{align*}
+$$
+
+Donde:
+
+$$
+\begin{align*}
+	&A_{G} = \mid G_{o}(j\omega_{1})\mid \\\\
+	&\theta_{G} = \measuredangle G_{o}(j\omega_{1})
+\end{align*}
+$$
+
+---
+
+- __Ejemplo__ :
+
+$$
+\begin{align*}
+	G(j\omega) = \frac{1}{j\omega+0.5}
+\end{align*}
+$$
+
+Si $\omega=0.5$ :
+
+$$
+\begin{align*}
+	G(j 0.5) &= \frac{1}{0.5j + 0.5} \\\\
+	&= \sqrt{ 2 } \angle -45°
+\end{align*}
+$$
+
+Si $\omega\gg 0.5$ -> $\mid G(j\omega)\mid \to 0$ y $\angle G(j\omega)\to-\frac{\pi}{2}$
+
+Si $\omega\ll 0.5$ -> $\mid G(j\omega)\mid \to 0$ y $\angle G(j\omega)\to0$
+
+
+Su lugar geométrico es:
+
+![](attachments/Pasted%20image%2020231004172740.png)
+
+---
+
+El _Diagrama de Nyquist_ es un lugar geométrico sobre el $G_{l}(s)$ :
+
+![](attachments/Pasted%20image%2020231004173557.png)
+
+
+Se quiere que los polos estén lo más alejados posible del eje imaginario, de tal manera que el sistema adquiera un mayor grado de estabilidad.
+
+![](attachments/Pasted%20image%2020231004174329.png)
+
+
+## Principio del argumento de Cauchy
+
+
+$$
+\begin{align*}
+	F(s) = \frac{N_{F}(s)}{D_{F}(s)}
+\end{align*}
+$$
+
+![](attachments/Pasted%20image%2020231004175348.png)
+
+A cada punto en el plano $s$ se le corresponde un punto en la transformada $F$.
+
+Se consideran los polos y ceros dentro del lazo.
+
+$$
+\begin{align*}
+	&Z=2 \\\\
+	&P=4
+\end{align*}
+$$
+
+El número de vueltas que dará $C_{2}$ con respecto al origen es:
+
+$$
+\begin{align*}
+	Z - P&=2-4 \\
+	&= -2
+\end{align*}
+$$
+
+
+>[!Note]
+>El sentido horario es positivo
+
+
 
 

@@ -8,6 +8,9 @@
 	- [x] Apuntes clase
 	- [x] Apuntes Drive
 	- [x] Reto 2
+	- [ ] Reto 3
+	- [ ] Parcial: Miércoles
+	- [ ] Sábado: Monitoría
 - [ ] Sensores y Actuadores
 	- [x] Práctica 1
 	- [x] Práctica 2
