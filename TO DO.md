@@ -4,29 +4,28 @@
 ---
 
 - [ ] Control
-	- [x] Lab.
-	- [x] Apuntes clase
-	- [x] Apuntes Drive
-	- [x] Reto 2
+	- [ ] Apuntes
 	- [ ] Reto 3
 	- [ ] Parcial: Miércoles
 	- [ ] Sábado: Monitoría
+	- [ ] Comprar motor con terminales macho
+		- Micromotor F1607
 - [ ] Sensores y Actuadores
-	- [x] Práctica 1
-	- [x] Práctica 2
-	- [x] PP3
-	- [x] PM3
-	- [x] PM4 -> C. dinámicas
-	- [x] PM5
-	- [x] PP4
-	- [x] Amplificadores
-	- [x] PP5
+	- Apuntes
+	- Tarea 5: 17 de Octubre
+	- Tarea 6: 24 de octubre
+	- Video: 30 de Octubre
+	- Práctica 3: 3 de Noviembre
+	- Práctica 4: 7 de Noviembre
 - [ ] TPI
-	- [x] Satisfacción dispositivos
-	- [x] Documento - Resumen
+	- Reunión definición prototipo inicial
 - [ ] Diseño de Elementos de Máquinas I
-	- [x] Parcial -> Viernes $15$, $4$ pm
 	- [ ] Proyecto
+	- [ ] Apuntes
+
+ - [ ] Enigma
+	 - [ ] Lecturas
+	 - [ ] ROS
 
  - [ ] Visado
 	 - [x] DS-160

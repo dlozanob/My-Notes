@@ -13,19 +13,21 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cap. 4. Diseño por respuesta frecuencial.md",
+                "file": "TO DO.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ecdd498a57ac8c7c",
+            "id": "89e188ba61cd81aa",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md"
+                "file": "Laboratorio de Control.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -99,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cap. 4. Diseño por respuesta frecuencial.md",
+                "file": "TO DO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cap. 4. Diseño por respuesta frecuencial.md",
+                "file": "TO DO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cap. 4. Diseño por respuesta frecuencial.md"
+                "file": "TO DO.md"
               }
             }
           },
@@ -170,7 +172,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       },
       {
         "id": "bc3f1f8ab0e0e5f8",
@@ -213,26 +215,28 @@
   },
   "active": "9024533a27e55629",
   "lastOpenFiles": [
-    "attachments/Pasted image 20231004175348.png",
+    "Laboratorio de Control.md",
+    "TO DO.md",
+    "Cap. 1. Realimentación.md",
+    "Excalidraw/whiteboard.excalidraw.md",
+    "Excalidraw/attachments/Pasted Image 20231006121101_421.png",
+    "Excalidraw/attachments/Pasted Image 20231006121015_414.png",
+    "Excalidraw/attachments/Pasted Image 20231006120523_434.png",
+    "Excalidraw/attachments/Pasted Image 20231006120502_403.png",
+    "Excalidraw/attachments/Pasted Image 20231006120413_401.png",
+    "Excalidraw/attachments/Pasted Image 20231006120327_410.png",
+    "Control.md",
     "Cap. 4. Análisis cualitativo de sistemas LTI.md",
+    "Servomecanismos.md",
     "Excalidraw/blackboard.excalidraw.md",
     "Cap. 4. Diseño por respuesta frecuencial.md",
+    "attachments/Pasted image 20231004175348.png",
     "attachments/Pasted image 20231004175305.png",
     "attachments/Pasted image 20231004175144.png",
     "attachments/Pasted image 20231004174329.png",
-    "attachments/Pasted image 20231004173557.png",
-    "attachments/Pasted image 20231004173502.png",
-    "attachments/Pasted image 20231004173442.png",
-    "attachments/Pasted image 20231004172740.png",
-    "attachments/Pasted image 20231004172725.png",
-    "attachments/Pasted image 20231004172626.png",
     "LaTeX.md",
-    "TO DO.md",
     "Obsidian Basics.md",
-    "attachments/Pasted image 20231004170808.png",
     "Señales y Sistemas II.md",
-    "Control.md",
-    "Excalidraw/whiteboard.excalidraw.md",
     "Deutsch_B1.md",
     "Deutsch_A2.md",
     "Linked note.md",
@@ -246,9 +250,6 @@
     "Deutsch_A1.md",
     "Diseño por fatiga.md",
     "Síntesis de mecanismos.md",
-    "Mecanismos.md",
-    "Diseño de Elementos de Máquinas I.md",
-    "Laboratorio de Control.md",
     "Local Backup.rar",
     "Local Notes Backup.rar",
     "attachments",

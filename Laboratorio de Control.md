@@ -303,3 +303,33 @@ $$
 \end{align*}
 $$
 
+
+## 2. Control del balancín
+
+Controlar $180°\geq\theta\geq 90°$
+
+Bonos:
+- $130°$ -> 1 décima adicional
+- Por cada $10°$ adicionales de $130°$ es 1 décima
+
+Elementos:
+- Micromotor F1607
+- Encoder magnético AS5600
+- Puente H MX1919
+
+
+### Planteamiento del problema
+
+- Señales:
+	- $r$ : Voltaje desde el arduino para un determinado ángulo
+	- $u$ : Voltaje de control al micromotor
+	- $y$ : Ángulo del balancín ($\theta$)
+	- $e$ : Señal de error
+
+- Sistemas:
+	- $G(s)$ : Brazo del balancín
+	- $C(s)$ : Controlador
+	- 
+
+
+

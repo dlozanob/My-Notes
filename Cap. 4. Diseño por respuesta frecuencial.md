@@ -172,6 +172,8 @@ $$
 
 A cada punto en el plano $s$ se le corresponde un punto en la transformada $F$.
 
+$C_{2}$ es la imagen de $C_{1}$ .
+
 Se consideran los polos y ceros dentro del lazo.
 
 $$
