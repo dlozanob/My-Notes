@@ -7,8 +7,8 @@
 	- [ ] Apuntes
 	- [ ] Reto 3
 	- [ ] Parcial: Miércoles
-	- [ ] Sábado: Monitoría
-	- [ ] Comprar motor con terminales macho
+	- [x] Sábado: Monitoría
+	- [x] Comprar motor con terminales macho
 		- Micromotor F1607
 - [ ] Sensores y Actuadores
 	- Apuntes

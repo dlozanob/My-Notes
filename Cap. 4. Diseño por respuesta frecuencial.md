@@ -197,5 +197,26 @@ $$
 >El sentido horario es positivo
 
 
+## Criterio de estabilidad de Nyquist
 
+Considerando:
 
+$$
+\begin{align*}
+	G_{l} = C(s)\cdot G(s)
+\end{align*}
+$$
+
+Entonces:
+
+$$
+\begin{align*}
+	G_{o}(s) = \frac{G_{l}(s)}{1+G_{l}(s)}:= \frac{G_{l}(s)}{F(s)}
+\end{align*}
+$$
+
+El sistema de control $G_{o}(s)$ es estable sí y solo sí:
+- La gráfica de _Nyquist_ de $G_{l}(s)$ no pasa por el punto crítico
+- El número de vueltas en sentido anti-horario con respecto al origen, es igual al número de polos de $G_{l}(s)$ en el semiplano derecho
+
+Los polos de $G_{o}(s)$ corresponden con  los ceros de $F(s)$ .

@@ -81,5 +81,10 @@ Originalfassung -> Tagebuch der Anne Frank
 
 ---
 
+Alles -> Todo
+Alle -> Todos
+
+---
+
 
 
