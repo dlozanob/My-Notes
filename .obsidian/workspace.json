@@ -4,32 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "fc75f96fbc44ca6a",
+        "id": "cd82daf1c606af52",
         "type": "tabs",
         "children": [
           {
-            "id": "7a3348e500c15177",
+            "id": "11d7e52c100b5401",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cap. 4. Diseño por respuesta frecuencial.md",
-                "mode": "source",
+                "file": "TO DO.md",
+                "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "57b32c89d0cf1b69",
+            "id": "5a3e2cb18c90789b",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md"
+                "file": "Deutsch_B1.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cap. 4. Diseño por respuesta frecuencial.md",
+                "file": "Deutsch_B1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cap. 4. Diseño por respuesta frecuencial.md",
+                "file": "Deutsch_B1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cap. 4. Diseño por respuesta frecuencial.md"
+                "file": "Deutsch_B1.md"
               }
             }
           },
@@ -211,44 +214,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7a3348e500c15177",
+  "active": "5a3e2cb18c90789b",
   "lastOpenFiles": [
+    "Deutsch_A2.md",
+    "Deutsch_B1.md",
+    "Präpositionen.md",
     "Excalidraw/blackboard.excalidraw.md",
+    "Zufällige Fakten.md",
+    "TO DO.md",
+    "attachments/Pasted image 20231011215905.png",
+    "attachments/Pasted image 20231011215856.png",
+    "attachments/Pasted image 20231011215843.png",
+    "Deutsch_A1.md",
+    "Deutsch.md",
     "Cap. 4. Diseño por respuesta frecuencial.md",
+    "attachments/Pasted image 20231011172900.png",
+    "attachments/Pasted image 20231011171159.png",
+    "attachments/Pasted image 20231011170059.png",
+    "attachments/Pasted image 20231011165733.png",
+    "Excalidraw/attachments/Pasted Image 20231011165601_867.png",
+    "attachments/Pasted image 20231011164747.png",
     "Linked note.md",
+    "attachments/Pasted image 20231011164739.png",
     "Control.md",
+    "Excalidraw/whiteboard.excalidraw.md",
+    "OPPORTUNITÄTEN.md",
+    "Fundamentos de Electricidad y Magnetismo.md",
     "Automatización, Control y Robótica.md",
     "Automatización%2C Control y Robótica.md",
     "Main.md",
-    "Excalidraw/attachments/Pasted Image 20231009101323_141.png",
-    "Excalidraw/attachments/Pasted Image 20231009101138_072.png",
     "Diseño por fatiga.md",
     "Diseño de Elementos de Máquinas I.md",
-    "TO DO.md",
     "Cap. 2. Criterios de diseño de control.md",
     "Cap. 1. Realimentación.md",
     "Cap. 3. Lugar geométrico de las raices.md",
-    "Deutsch_A2.md",
-    "Zufällige Fakten.md",
     "LaTeX.md",
-    "Excalidraw/attachments/Pasted Image 20231006154723_382.png",
-    "Excalidraw/attachments/Pasted Image 20231006152057_391.png",
-    "Deutsch_A1.md",
-    "Excalidraw/attachments/Pasted Image 20231006145325_665.png",
-    "Excalidraw/attachments/Pasted Image 20231006143724_378.png",
-    "Excalidraw/attachments/Pasted Image 20231006143248_654.png",
-    "Excalidraw/attachments/Pasted Image 20231006142230_390.png",
-    "Excalidraw/attachments/Pasted Image 20231006141059_383.png",
     "Laboratorio de Control.md",
-    "Excalidraw/whiteboard.excalidraw.md",
-    "Excalidraw/attachments/Pasted Image 20231006121101_421.png",
     "Cap. 4. Análisis cualitativo de sistemas LTI.md",
-    "Servomecanismos.md",
-    "Obsidian Basics.md",
-    "Señales y Sistemas II.md",
-    "Deutsch_B1.md",
-    "Deutsch.md",
-    "Cap. 1. Modelos de sistemas lineales y no lineales.md",
     "Local Backup.rar",
     "Local Notes Backup.rar",
     "attachments",

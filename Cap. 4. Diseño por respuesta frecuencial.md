@@ -54,7 +54,7 @@ Con estos datos era posible determinar la función de transferencia cuya magnitu
 >[!Note]
 >Se parte con el controlador $C(s) = 1$
 
-La robustez se mide por medio del _margen de ganancia_ y el _margen de fase_. Estos se miden con diagramas de _Bode_ y de _Nyquist_.
+La robustez se mide por medio del _margen de ganancia_ ($dB$) y el _margen de fase_ (°). Estos se miden con diagramas de _Bode_ y de _Nyquist_.
 
 Se define $G_{l}(s)$ como:
 
@@ -197,6 +197,11 @@ $$
 >El sentido horario es positivo
 
 
+- El número de vueltas de $F(C_{1})$ alrededor del origen (sentido horario) es igual a $P_{F}$
+- el número de vueltas de $G_{l}(s)$ alrededor de $(-1, 0)$ (sentido anti-horario) es igual a $P_{G_{l}}$
+Donde $P_{G_{l}}$ es el número de polos en el semiplano derecho
+
+
 ## Criterio de estabilidad de Nyquist
 
 Considerando:
@@ -220,3 +225,141 @@ El sistema de control $G_{o}(s)$ es estable sí y solo sí:
 - El número de vueltas en sentido anti-horario con respecto al origen, es igual al número de polos de $G_{l}(s)$ en el semiplano derecho
 
 Los polos de $G_{o}(s)$ corresponden con  los ceros de $F(s)$ .
+
+El número de vueltas en $G(s)$ se considera alrededor del origen, con $F(s)$ se considera alrededor del punto crítico.
+
+>[!Note]
+>El punto crítico es $(-1, 0)$
+
+La _Gráfica de Nyquist_ es el plano obtenido en $F(s)$ desde $G_{l}(s)$ .
+
+Se tiene que:
+
+$$
+\begin{align*}
+	F(s) = 1 + G_{l} &= 1 + \frac{Num(s)}{Den(s)} \\\\
+	&= \frac{Den(s)+Num(s)}{Den(s)}
+\end{align*}
+$$
+
+Eso quiere decir que:
+
+$$
+\begin{align*}
+	P_{G_{l}} = P_{F}
+\end{align*}
+$$
+
+- $P_{G_{l}}$ : Polos de $G_{l}(s)$
+- $P_{F}$ : Polos de $F(s)$
+
+
+>[!Info]
+>Un _colorario_ es un teorema aplicado a un caso particular
+
+- _Corolario_
+	- Si $G_{l}(s)$ no tiene polos en el semiplano derecho entonces, 
+
+
+
+>[!Note]
+>- En Matlab `nyquist(G*1)` halla la gráfica de _Nyquist_ cuando $k_{p}=1$
+>	- `nyquist(G, {0.001, 0.01})` es el _Nyquist_ determinando un rango para la frecuencia $\omega$
+
+
+---
+
+- __Ejemplo__ :
+
+$$
+\begin{align*}
+	G_{l}(s)=\frac{2}{(s+0.5)\cdot (s+1)\cdot (s+5)}
+\end{align*}
+$$
+
+Se obtiene para un $K_{p} = 1$ :
+
+![](attachments/Pasted%20image%2020231009172520.png)
+
+$G_{l}(s)$ no tiene polos en el semiplano derecho. El número de vueltas alrededor del punto crítico es $0$ . Por lo tanto, $G_{o}(s)$ es estable.
+
+¿Cuál es el valor de $k_{p}$ , que hace que el punto se desplace lo suficiente como para estar en el punto crítico? (rango de estabilidad)
+
+![](attachments/Pasted%20image%2020231009173010.png)
+
+Es $\frac{1}{0.04}$ .
+
+
+>[!Info]
+>`feedback(G1, G2)` halla $G_{o}(s)$. 
+>Donde $G_{1}$ es el lazo de arriba y $G_{2}$ es el lazo de realimentación
+
+
+- Ahora:
+
+$$
+\begin{align*}
+	G_{l}(s) = \frac{2}{(s+0.5)\cdot (s-1)\cdot (s+5)}
+\end{align*}
+$$
+
+Hay un polo ($1$) que está en el semiplano derecho.
+
+Con $K_{p} = 1$ :
+
+![](attachments/Pasted%20image%2020231009173739.png)
+
+No hay vueltas alrededor del punto crítico -> El sistema no es estable.
+
+¿Qué valor de $K_{p}$ estabiliza al sistema?
+
+Es $\frac{1}{0.8}$ .
+
+>[!Note]
+>`pole(G)` retorna los polos de $G$
+
+
+---
+
+- __Ejemplo__ :
+	- Determinar el rango de variación de $\zeta$ para que el sistema en lazo cerrado $G_{o}(s)$ sea estable (_rango de estabilidad de_ $\zeta$)
+
+$$
+\begin{align*}
+	G_{l}(s) = \frac{K_{DC}}{(s+1)(s^{2}+2\zeta\omega_{n}s+\omega_{n}^{2})}
+\end{align*}
+$$
+
+Variando $\zeta$ desde 1 hasta 4 se halla:
+
+![](attachments/Pasted%20image%2020231011164747.png)
+
+Se concluye que aumentar $\zeta$ aumenta la robustez (disminuye el cardioide).
+
+Un $\zeta$ más pequeño podría hacer que el cardiode pase por el punto crítico.
+
+![](attachments/Pasted%20image%2020231011170059.png)
+
+A partir de $G_{o}(s)$ :
+
+$$
+\begin{align*}
+	G_{o} &= \frac{K_{DC}}{s^{3}+(2\zeta+1)s^{2}+(2\zeta+1)s+2} \\\\
+	&= \frac{K_{DC}}{(s^{3}+s^{2}+s+2)+\zeta(2s^{2}+2s)}
+\end{align*}
+$$
+
+Se obtiene la planta auxiliar dividiendo el denominador por el término independiente de $\zeta$ :
+
+$$
+\begin{align*}
+	G_{aux} =  \frac{2s^{2}+2s}{s^{3}+s^{2}+s+2}
+\end{align*}
+$$
+
+Se obtiene su lugar geométrico de las raices:
+
+![](attachments/Pasted%20image%2020231011172900.png)
+
+
+

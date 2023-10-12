@@ -16,15 +16,15 @@
 	- Tageszeiten
 		- Am Abend
 	- Am Wochenende
-	- Am dem Computer
+	- An dem Computer
 	- Denken
 	- Sich erinnern
 	- Glauben
 
 - _In_
-	- Lokal
+	- Wo?
 		- Ich packe meinen lieblingsen Stift in meiner Tasche ein
-	- Gehen zu geschlossene Orte
+	- Wohin? (Geschlossene Orte)
 		 - Ich gehe ins Kino
 	- Im 9. Semester
 	- Monate
@@ -37,7 +37,7 @@
 - _Auf_
 	- Wo?
 		- Die Flasche steht auf dem Tisch
-	- Wohin? (Offenen Orten)
+	- Wohin? (Offene Orte)
 		- Ich gehe auf den Platz
 		- Ich stelle die Flasche auf der Tisch
 	- Sie hat auf mich geantwortet
@@ -52,9 +52,9 @@
 	- Verzichten
 
 - _Über_
-	- Lokal
+	- Wo?
 		- Das Flugzeug fliegt über uns
-	- Offene Orte überqueren
+	- Wohin? (Offene Orte überqueren)
 		- Er läuft über das Lebensmittel
 	- Sich beschweren
 	- Sich ärgern

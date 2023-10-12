@@ -76,31 +76,11 @@
 | sie (plural) | sie | ihnen |
 | Sie | Sie | Ihnen |
 
-Beispiele für Dativverben:
-- Der Hamburger schmeckt uns sehr gut
-- Die Hundin gehorcht mir
-- Wie geht es Ihnen? -> Mir geht es gut, danke
-
->[!Notiz]
->Transitives Verben -> Akkusativ
->Intransitives Verben -> Dativ
-
-Doppeltem Objekt (Dativ und Akkusativ):
-- Ich mache $\underbrace{ meinem\,\,Bruder }_{ Dat }$  $\underbrace{ die\,\,HA }_{ Akk }$
-- Mein Vater kocht uns das Mitagessen
-- Meine Mutter kauft mir einen neuen Computer
-- Mein Vater schenkt meiner Mutter einen Ring
-
 
 ## Verben mit Dativ
 
->[!Notiz]
->- Transitive Verben -> Akkusativ
->- Intransitive Verben -> Dativ
-
 - Vertrauen
 - Widersprechen
-- Vertrauen
 - Weh (tun)
 - Raten
 - Schmecken
@@ -110,7 +90,7 @@ Doppeltem Objekt (Dativ und Akkusativ):
 - Begegnen
 - Passen
 - Gefallen
-- Zuhörren
+- Zuhören
 - Schaden
 - Antworten
 - Helfen
@@ -127,11 +107,26 @@ Doppeltem Objekt (Dativ und Akkusativ):
 	- Ich danke dem Zimmerman, weil er meine Leiter repariert hat.
 	- Der Rock passt mir nicht gut
 	- Der Bauch tut mir weh
+	- Der Hamburger schmeckt uns sehr gut
+	- Die Hundin gehorcht mir
+	- Wie geht es Ihnen? -> Mir geht es gut, danke
 
 
-## Dass
+### Doppeltem Objekt
 
-- Mein Mutter sagt, _dass_ ich gesund essen soll
+- Ich mache $\underbrace{ meinem\,\,Bruder }_{ Dat }$  $\underbrace{ die\,\,HA }_{ Akk }$
+- Mein Vater kocht uns das Mitagessen
+- Meine Mutter kauft mir einen neuen Computer
+- Mein Vater schenkt meiner Mutter einen Ring
+
+>[!Notiz]
+>- Transitive Verben -> Akkusativ
+>- Intransitive Verben -> Dativ
+
+
+## Dass (Nebensatz)
+
+- Meine Mutter sagt, _dass_ ich gesund essen soll
 
 - Ich...
 	- meine
@@ -191,7 +186,7 @@ Verben mit _sich_ man akkusativ Reflexivpronomen benutzen muss.
 	- Ich möchte wissen, wie spät es ist
 
 
-## Nebensätze Ob
+## Ob (Nebensatz)
 
 Mit Ob-Sätzen kann man indirekte Ja/Nein Fragen bilden.
 
@@ -220,7 +215,7 @@ Mit Ob-Sätzen kann man indirekte Ja/Nein Fragen bilden.
 	- Das Kind, mit dem ich spiele, ist mein Nachbar
 
 
-## Als (Nebensätze)
+## Als (Nebensatz)
 
 - NS + HS:
 	- Als ich 20 Jahre alt war, habe ich geheiratet
@@ -305,11 +300,11 @@ Mit Ob-Sätzen kann man indirekte Ja/Nein Fragen bilden.
 
 ## Gründe nennen
 
-- _Weil_
+- _Weil_ -> Nebensatz
 	- Ich habe nicht ins Kino gegangen, _weil_ ich kein Geld habe
-- _Denn_
+- _Denn_ -> Position II
 	- Ich gehe nicht ins Kino, _denn_ ich habe kein Geld
-- _Deshalb_
+- _Deshalb_ -> Position I
 	- Ich habe kein Geld, _deshalb_ gehe ich nicht ins Kino
 
 
@@ -404,12 +399,28 @@ Mit Ob-Sätzen kann man indirekte Ja/Nein Fragen bilden.
 >Präpositionen mit Genitiv sind formal
 
 
----
+## Passiv
 
-- Das Aspirin würde 1897 von F. Hoffmann erfunden
+- _Aktiv_
+	- Der Lehrer kauft den Computer
+	- Besucht dich deine Tante?
+	- Man trinkt in Bayern viel Bier
+- _Passiv_
+	- _Präsens_
+		- Der Computer _wird_ von dem Lehrer gekauft
+		- Die Autos _werden_ gekauft
+		- Es _wird_ in Bayern viel Bier getrunken
+	- _Präteritum_
+		- Das Aspirin _wurde_ 1897 von F. Hoffmann erfunden
+		- Die Autos _wurden_ verkauft 
+		- _Wurdest_ du von deiner Tante besucht?
+	- _Perfekt_
+		- Der Computer ist gekauft _worde_
+		- Die Autos sind verkauft _worden_
 
-- Besucht dich deine Tante?
-	- Wurdest du von deiner Tante besucht?
+
+>[!Note]
+>Anstatt _geworden_ -> _worde_
 
 
 ## Finalsätze

@@ -371,15 +371,15 @@ Bsp:
 	- Ich schenke dem Lehrer ein Buch
 	- Ich gehe mit meinem Vater in den Park
 	- Sara geht mit iren Freunden auf die Party
-1. _Verben_ : Es gibt einige Verben mit Dativ
+2. _Verben_ : Es gibt einige Verben mit Dativ
 	- Das Milch schmeckt der Katze
 	- Die Bluse gefällt meiner Mutter
 	- Wir hören der Lehrerin zu
-1. _Präpositionen_
+3. _Präpositionen_
 	- Spielen Sie mit den Kindern
-2. _Wo?_
+4. _Wo?_
 	- Das Buch ist auf dem Tisch
-3. _Wann?_
+5. _Wann?_
 	- Am Wochentagen
 	- Im November
 	- Am 14. August
@@ -440,7 +440,7 @@ Wegbeschreibung:
 ![](attachments/Pasted%20image%2020230805221453.png)
 
 
-## Perfekt
+## Perfekt (Partizip II)
 
 >[!Notiz]
 >_Sein_ -> Beinhaltet eine Verschiebung
@@ -578,7 +578,7 @@ Wegbeschreibung:
 - _Ihr -> -_
 - _Sie -> -_
 
-- Nehen
+- Nehmen
 	- Nimm eine Tablette/ Nimm doch mal eine Tablette
 	- Nehmt eine Tablette
 	- Nehmen Sie eine Tablette
