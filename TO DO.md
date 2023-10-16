@@ -7,6 +7,7 @@
 	- [ ] Apuntes
 	- [ ] Reto 3
 	- [ ] Parcial: Miércoles
+	- [ ] Viernes: Modelo del brazo, linealidad, estabilidad
 	- [x] Sábado: Monitoría
 	- [x] Comprar motor con terminales macho
 		- Micromotor F1607
@@ -14,6 +15,8 @@
 - [ ] Sensores y Actuadores
 	- [ ] Apuntes
 	- [ ] Tarea 5: 17 de Octubre
+		- [x] Punto 1
+		- [ ] Punto 2
 	- [ ] Tarea 6: 24 de octubre
 	- [ ] Video: 30 de Octubre
 	- [ ] Práctica 3: 3 de Noviembre
@@ -23,7 +26,8 @@
 
 - [ ] Diseño de Elementos de Máquinas I
 	- [x] Proyecto
-	- [x] Apuntes
+	- [ ] Apuntes
+		- [ ] Revisar ejemplos
 	- [ ] Proyecto 2
 
 - [ ] Deutsch

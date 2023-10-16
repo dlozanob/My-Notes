@@ -405,11 +405,13 @@ Mit Ob-Sätzen kann man indirekte Ja/Nein Fragen bilden.
 	- Der Lehrer kauft den Computer
 	- Besucht dich deine Tante?
 	- Man trinkt in Bayern viel Bier
+	- Hilft das Kind seiner Mutter?
 - _Passiv_
 	- _Präsens_
 		- Der Computer _wird_ von dem Lehrer gekauft
 		- Die Autos _werden_ gekauft
 		- Es _wird_ in Bayern viel Bier getrunken
+		- _Wird_ die Mutter von ihrem Kind geholfen?
 	- _Präteritum_
 		- Das Aspirin _wurde_ 1897 von F. Hoffmann erfunden
 		- Die Autos _wurden_ verkauft 

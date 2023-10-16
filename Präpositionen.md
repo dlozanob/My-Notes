@@ -4,19 +4,20 @@
 
 - _An_
 	- Wo?
-		- Das Bild hängt an der Wand
+		- Das Bild hängt _an_ der Wand
 	- Wohin? (Grenzen)
-		- Ich laufe an der Strand
-		- Die Frau mit dem Hammer hängt das Bild an die Wand
+		- Ich laufe _an_ der Strand
+		- Die Frau mit dem Hammer hängt das Bild _an_ die Wand
 	- Datum
-		- Am 12. Dezember/12.
-		- Die Prüfung ist am 23 Mai/5.
+		- _Am_ 12. Dezember/12.
+		- Die Prüfung ist _am_ 23 Mai/5.
 	- Wochentage
-		- Am Montag
+		- _Am_ Montag
 	- Tageszeiten
-		- Am Abend
-	- Am Wochenende
-	- An dem Computer
+		- _Am_ Abend
+	- _Am_ Wochenende
+	- _An_ dem Computer
+	- Hunde sind _an_ der Leine
 	- Denken
 	- Sich erinnern
 	- Glauben

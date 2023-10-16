@@ -164,7 +164,7 @@ Entonces:
 
 $$
 \begin{align*}
-	C_{0} = G_{o}(s)
+	C_{0} = G_{o}(0)
 \end{align*}
 $$
 

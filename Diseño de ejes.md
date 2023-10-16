@@ -290,6 +290,7 @@ Algunos ejemplos:
 	- La carga axial se hace nula por los ángulos de transmisión en los rodamientos
 
 - Se utilizan hombros para ubicar los elementos de transmisión
+
 	![](attachments/Pasted%20image%2020230922010258.png)
 
 	- Las cuñas, pasadores y collarines acoplan los elementos de transmisión al eje
@@ -306,11 +307,11 @@ Algunos ejemplos:
 
 			- Debilitan al eje -> Usarse cuando hay momentos torsores pequeños
 
-	  - Collarines con tornillos
+		  - Collarines con tornillos
 		  
 		  ![](attachments/Pasted%20image%2020230922010952.png)
 
-	- Montajes por interferencia (manzana-eje)
+		- Montajes por interferencia (manzana-eje)
 
 - Elementos de transmisión _árbol-cubo_
 	- Ensamblan elementos de transmisión al eje
@@ -448,7 +449,7 @@ $$
 
 ---
 
-Se puede llegar a trazar el controno del diámetro mínimo de acuerdo a la teoría de falla estática seleccionada:
+Se puede llegar a trazar el contorno del diámetro mínimo de acuerdo a la teoría de falla estática seleccionada:
 
 ![](attachments/Pasted%20image%2020230922123031.png)
 
@@ -519,8 +520,183 @@ Si esto no es posible, se recomiendan otras configuraciones geométricas:
 - Para posicionar rodamientos típicamente se requieren hombros que cumplan
 	- $1.2 \leq \frac{D}{d} \leq 1.5$
 
+>[!Note]
+>$745.7\,\,W = 1\,\,HP$
+
+
+---
+
+- __Ejemplo__ :
+	- $\phi_{p} = 14.5$
+	- $P_{M} = P_{A} = 40\,\,HP$
+	- $\omega_{M} = 1800\,\,rpm$
+	- $P_{C} = 10\,\,HP$
+	- $P_{E} = 30\,\,HP$
+	- $n_{F}\geq 2$
+	- $T = 150\,\,°C$
+	- $Conf. = 99.9\%$
+	- Diseñar el eje $GH$
+
+![](attachments/Pasted%20image%2020231015170958.png)
+
+![](attachments/Pasted%20image%2020231015171013.png)
+
+Se comienza definiendo las cargas presentes en el eje.
+
+$$
+\begin{align*}
+	T_{A} &= \frac{P_{A}}{\omega_{M}} \\\\
+	&= \frac{40\cdot \left( \frac{745.7\,\,W}{1\,\,HP} \right)}{1800\cdot \left( \frac{2\pi\,\,Rad}{1\,\,rev}\cdot \frac{1\,\,min}{60\,\,s} \right)} \\\\
+	&= 158.24\,\,Nm
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	\omega_{B} &= \omega_{M}\cdot \frac{r_{A}}{r_{B}} \\\\
+	&= 1800\cdot \frac{45}{90} \\\\
+	&= 900\,\,rpm
+\end{align*}
+$$
+
+![](attachments/Pasted%20image%2020231015193513.png)
+
+$$
+\begin{align*}
+	F_{AB}^{t} &= \frac{T_{A}}{r_{A}} \\\\
+	&= \frac{158.24\,\,Nm}{45\cdot \left( \frac{1\,\,m}{1000\,\,mm} \right)} \\\\
+	&= 3.52\,\,kN
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	F_{AB}^{r} &= F_{AB}^{t}\tan\phi_{p} \\\\
+	&= 0.91\,\,kN
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	M_{B} &=  r_{B}\cdot F_{AB}^{t} \\\\
+	&= 316.8\,\,Nm
+\end{align*}
+$$
+
+>[!Note]
+>Otra manera: $M_{B} = T_{B} = 2T_{A}$
+>Notar que: $\frac{r_{b}}{r_{A}}=\frac{T_{b}}{T_{a}}$ -> $2T_{A}=T_{B}$
+
+$$
+\begin{align*}
+	T_{C} &=  \frac{P_{C}}{\omega_{B}} \\\\
+	&= \frac{10\,\,HP\cdot \left( \frac{745.7\,\,W}{1\,\,HP} \right)}{900\,\,rpm\cdot \left( \frac{2\pi\,\,Rad}{1\,\,rev}\cdot \frac{1\,\,min}{60\,\,s} \right)} \\\\
+	&= 79.12\,\,Nm
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	F_{CD}^{t} &= \frac{T_{C}}{r_{C}} \\\\
+	&= \frac{79.12\,\,Nm}{0.3\,\,m} \\\\
+	&= 2.64\,\,kN
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	F_{CD}^{r} &= F_{CD}^{t}\tan\phi_{p} \\\\
+	&= 0.68\,\,kN
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	T_{E} &= \frac{P_{E}}{\omega_{B}} \\\\
+	&= \frac{30\,\,HP}{900\,\,rpm} \\\\
+	&= 237.36\,\,Nm
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	F_{EF}^{t} &= \frac{T_{E}}{r_{E}} \\\\
+	&= \frac{237.36\,\,Nm}{0.03\,\,m} \\\\
+	&= 7.91\,\,kN
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	F_{EF}^{r} &= F_{EF}^{t}\tan\phi_{p} \\\\
+	&= 2.05\,\,kN
+\end{align*}
+$$
+
+![](attachments/Pasted%20image%2020231015203308.png)
+
+Se hace ahora un análisis estático.
+
+$$
+\begin{align*}
+	&\sum M_{z}^{G} = -F_{CD}^{r}\cdot 0.1 + F_{AB}^{r}\cdot 0.3 + F_{EF}^{r}\cdot 0.6 + H_{y}\cdot 0.7 = 0 \\\\
+	&H_{y} = -2.05\,\,kN
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	&\sum M_{y}^{G} = -F_{CD}^{t}\cdot 0.1-F_{AB}^{t}\cdot 0.3+F_{EF}^{t}\cdot 0.6-H_{z}\cdot 0.7=0 \\\\
+	&H_{z} = 4.89\,\,kN
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	&\sum F_{y} = G_{y} - F_{CD}^{r}+F_{AB}^{r}+F_{EF}^{r}+H_{y}=0 \\\\
+	&G_{y}=-0.23\,\,kN
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	&\sum F_{z} = G_{z}+F_{CD}^{t}+F_{AB}^{t}-F_{EF}^{t}+H_{z}=0 \\\\
+	&G_{z}=-3.14\,\,kN
+\end{align*}
+$$
+
+Diagrama de fuerzas, momentos flectores y momentos torsores:
+
+![](attachments/Pasted%20image%2020231015212028.png)
+
+![](attachments/Pasted%20image%2020231015212739.png)
+
+Se dimensiona el diámetro por criterio de falla estática (Von Misses).
+
+Se debe seleccionar una sección del eje. Se seleccionan las secciones más críticas.
+
+Seleccionando la sección $E$ :
+
+$$
+	\begin{align*}
+		d_{E} &= \sqrt[3]{ \frac{16n\sqrt{ 4M^{2} + 3T^{2} }}{\pi S_{y}} } \\\\
+	&= \sqrt[3]{ \frac{16(3)\sqrt{ 4(M_{y}^{2}+M_{z}^{2})+3T_{x}^{2} }}{\pi S_{y}} }
+	\end{align*}
+	
+$$
+
+Proponiendo un $AISI\,\,1045$ -> $S_{y}=530\,\,MPa$ :
+
+$$
+\begin{align*}
+	d_{E} = 32.06\,\,cm
+\end{align*}
+$$
+
 
 ## Diseño por rigidez
+
+Los engranes y cojinetes son los elementos más sensibles al desalineamiento producido por la deflexión.
 
 
 
