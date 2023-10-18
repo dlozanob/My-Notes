@@ -87,3 +87,46 @@
 - _Sondern_
 	- Nicht Herr Klein, _sondern_ Frau Groß hay heute Geburtstag
 - _Und_
+
+
+---
+APUNTES PENDIENTES
+
+---
+
+
+## Verben  ohne 'zu'
+
+### Hauptsatz
+
+- Modalverben
+- Gehen
+- Laufen
+- Kommen
+- Fahren
+- Lassen
+- Bleiben
+- Sehehn
+- Hören
+- Lernen *
+- Helfen *
+- Lehren *
+
+>[!Note]
+>*: Diese Verben kann man 'zu' oder nein benutzen
+
+- _Bsp_
+	- Ich _sehe_ die Kinder im Park spielen
+	- Maria _muss_ bis 22 Uhr arbeiten
+	- Maria _hilft_ ihrer Mutter kochen
+	- Peter _lernt_ schwimmen
+	- Ich _höre_ die Vogel singen
+	- Ich _lasse_ meine Tochter in den Park gehen
+
+### Nebensatz
+
+- Ich habe vor, morgen schwimmen _zu_ gehen
+- Es ist schön, viel Urlaub machen _zu_ können
+
+
+

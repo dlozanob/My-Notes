@@ -4,11 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "3546060f1b507bc4",
+        "id": "fd998646d2d0109f",
         "type": "tabs",
         "children": [
           {
-            "id": "11d7e52c100b5401",
+            "id": "5ca1d2271fa0cc0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cap. 4. Diseño por respuesta frecuencial.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "92ae5d545f10b1aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Deutsch_B1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9122611875f6497c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cap. 2. Criterios de diseño de control.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9669d1151f6ec67e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,29 +56,31 @@
             }
           },
           {
-            "id": "2bc1900ad0705639",
+            "id": "3afba799705555ff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diseño de ejes.md",
-                "mode": "source",
+                "file": "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
+                "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "18c88d8b841fc242",
+            "id": "235dbc55ccfedadd",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/whiteboard.excalidraw.md"
+                "file": "Linked note.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -112,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diseño de ejes.md",
+                "file": "Linked note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diseño de ejes.md",
+                "file": "Linked note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diseño de ejes.md"
+                "file": "Linked note.md"
               }
             }
           },
@@ -196,7 +234,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"\"",
+                "query": "\"PID\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -209,8 +247,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249.5,
-    "collapsed": true
+    "width": 249.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -224,43 +261,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2bc1900ad0705639",
+  "active": "235dbc55ccfedadd",
   "lastOpenFiles": [
+    "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
+    "Deutsch_B1.md",
+    "Deutsch.md",
     "TO DO.md",
+    "Cap. 2. Criterios de diseño de control.md",
+    "Control.md",
+    "Cap. 1. Realimentación.md",
+    "Cap. 4. Diseño por respuesta frecuencial.md",
+    "Cap. 3. Lugar geométrico de las raices.md",
+    "Linked note.md",
+    "attachments/Pasted image 20231018151425.png",
+    "attachments/Pasted image 20231018151308.png",
+    "attachments/Pasted image 20231018150129.png",
+    "attachments/Pasted image 20231018150011.png",
+    "attachments/Pasted image 20231018145703.png",
+    "attachments/Pasted image 20231018145558.png",
+    "attachments/Pasted image 20231018145523.png",
+    "attachments/Pasted image 20231018145302.png",
+    "attachments/Pasted image 20231018145147.png",
+    "attachments/Pasted image 20231018145105.png",
     "Excalidraw/whiteboard.excalidraw.md",
+    "OPPORTUNITÄTEN.md",
     "Diseño de ejes.md",
-    "attachments/Pasted image 20231015212739.png",
-    "attachments/Pasted image 20231015212028.png",
-    "attachments/Pasted image 20231015203308.png",
     "LaTeX.md",
-    "attachments/Pasted image 20231015193513.png",
-    "attachments/Pasted image 20231015193312.png",
-    "attachments/Pasted image 20231015171013.png",
-    "attachments/Pasted image 20231015170958.png",
     "Diseño de Elementos de Máquinas I.md",
     "Ingeniería de Diseño.md",
     "Main.md",
-    "Linked note.md",
-    "Cap. 2. Criterios de diseño de control.md",
-    "Control.md",
-    "Cap. 4. Diseño por respuesta frecuencial.md",
     "Automatización, Control y Robótica.md",
     "Automatización%2C Control y Robótica.md",
-    "Deutsch_B1.md",
     "Excalidraw/blackboard.excalidraw.md",
     "Präpositionen.md",
-    "Excalidraw/attachments/Pasted Image 20231013152519_620.png",
-    "Excalidraw/attachments/Pasted Image 20231013151239_619.png",
-    "Excalidraw/attachments/Pasted Image 20231013150559_583.png",
     "Deutsch_A2.md",
     "Servomecanismos.md",
     "Zufällige Fakten.md",
     "Deutsch_A1.md",
-    "Deutsch.md",
-    "OPPORTUNITÄTEN.md",
     "Fundamentos de Electricidad y Magnetismo.md",
-    "Diseño por fatiga.md",
-    "Cap. 1. Realimentación.md",
     "Local Backup.rar",
     "Local Notes Backup.rar",
     "attachments",

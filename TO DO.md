@@ -14,7 +14,7 @@
 		
 - [ ] Sensores y Actuadores
 	- [ ] Apuntes
-	- [ ] Tarea 5: 17 de Octubre
+	- [x] Tarea 5: 17 de Octubre
 		- [x] Punto 1
 		- [ ] Punto 2
 	- [ ] Tarea 6: 24 de octubre
@@ -26,8 +26,8 @@
 
 - [ ] Diseño de Elementos de Máquinas I
 	- [x] Proyecto
-	- [ ] Apuntes
-		- [ ] Revisar ejemplos
+	- [x] Apuntes
+	- [ ] Revisar ejemplos
 	- [ ] Proyecto 2
 
 - [ ] Deutsch
@@ -40,13 +40,13 @@
 	 - [ ] Lecturas
 	 - [ ] ROS
 
- - [ ] Visado
-	 - [x] DS-160
-	 - [x] [USEmbassy](https://www.usembassy.gov/)
-	 - [x] DRE
-		 - Edificio Uriel Gutiérrez of 514
-		 - Cra45 #26 85
-		 - 6013165000ext18291
+ - [ ] Otras cosas
+	 - [ ] MIÉRCOLES 4PM-> SESIÓN INFORMATIVA 
+
+- Chemecar
+	- Paredes 2mm
+	- quitar paredes de adelante
+	- base -> seccionar en 4
 
 ---
 
