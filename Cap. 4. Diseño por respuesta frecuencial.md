@@ -361,5 +361,237 @@ Se obtiene su lugar geométrico de las raices:
 
 ![](attachments/Pasted%20image%2020231011172900.png)
 
+---
+
+
+## Estabilidad Relativa
+
+
+El _margen de ganancia_ desplaza hacia la izquierda la curva.
+El _margen de fase_ rota la curva en sentido antihorario.
+
+![](attachments/Pasted%20image%2020231023162135.png)
+
+En un caso general hay que modificar ambos márgenes para que el punto crítico quede lo más alejado posible de la curva -> Mayor robustez
+
+- _Margen de ganancia_
+
+$$
+\begin{align*}
+	Gm=-20\log\mid G_{l}(j\omega_{p})\mid
+\end{align*}
+$$
+
+
+![](attachments/Pasted%20image%2020231023163533.png)
+
+El punto azul tiene $0\,\,dB$. El margen de ganancia es cuánto tiene que desplazarse el punto rojo para llegar al azul.
+
+En diagrama de Bode:
+
+![](attachments/Pasted%20image%2020231023163913.png)
+
+
+- _Margen de fase_
+
+$$
+\begin{align*}
+	Pm= 180°-\mid \angle G_{l}(\omega_{g})\mid
+\end{align*}
+$$
+
+![](attachments/Pasted%20image%2020231023164511.png)
+
+El punto azul tiene $0°$. El margen de fase es cuánto tiene que rotar el punto rojo para llegar al azul.
+
+En diagrama de Bode:
+
+![](attachments/Pasted%20image%2020231023164003.png)
+
+
+- $\omega_{p}$ : Frecuencia de cruce de fase
+- $\omega_{g}$ : Frecuencia de cruce de ganancia
+
+
+Notar que:
+
+$$
+\begin{align*}
+	Gm=20\log_{10}\mid G_{l}\mid&=20\log_{10}\mid C(j\omega)\mid\cdot \mid G(j\omega)\mid \\\\
+	&=20\log_{10}\mid C(j\omega)\mid+20\log_{10}\mid G(j\omega)\mid
+\end{align*}
+$$
+
+
+
+>[!Note]
+>$G_{o}$ es estable sí y solo sí los márgenes de ganancia y fase son ambos positivos (no encierran al punto crítico)
+
+>[!Note]
+>En Matlab `margin(Gl)` muestra los diagramas de Bode con márgenes de ganancia y fase de $G_{l}$
+
+
+## Errores de estado estacionario en el dominio de la frecuencia
+
+### Error de posición
+
+Todos los cálculos a continuación se toman sobre $G_{l}(s)$ .
+
+$$
+\begin{align*}
+	e(t)&=r(t)-y(t) \\
+	E(s)&=R(s)-Y(s) \\
+	E(s)&= R(s)-G_{o}(s)R(s) \\
+	E(s)&= [1-G_{o}(s)]R(s)
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	E(s)&=\left[ 1-\frac{G_{l}(s)}{1+G_{l}(s)} \right]R(s) \\\\
+	&= \left[ \frac{1+G_{l}(s)-G_{l}(s)}{1+G_{l}(s)} \right]R(s) \\\\
+	&= \left[ \frac{1}{1+G_{l}(s)} \right]R(s)
+\end{align*}
+$$
+
+Aplicando el teorema del valor final (tomando $r(t)=\mu(t)$):
+
+$$
+\begin{align*}
+	\lim_{ t \to \infty } e(t)&= \lim_{ s \to 0 } sE(s) \\\\
+	&= \lim_{ s \to 0 } s \frac{1}{s}\left[ \frac{1}{1+G_{l}(s)} \right] \\\\
+	&= \lim_{ s \to 0 } \left[ \frac{1}{1+G_{l}(s)} \right] \\\\
+	&= \frac{1}{1+\lim_{ s \to 0 } G_{l}(s)} \\\\
+	&= \frac{1}{1+K_{p}}
+\end{align*}
+$$
+
+En un diagrama de Bode es posible conocer $\lim_{ s \to 0 }G_{l}(s)$ .
+
+Pero $\lim_{ s \to 0 }G_{l}(s) =\infty$ . Entonces el error de posición es $0$ .
+
+- $K_{p}$ : Constante de error de posición -> Hace que el error de posición no sea $0$
+
+
+### Error de velocidad
+
+Tomando desde:
+
+$$
+\begin{align*}
+	E(s)&= \left[ \frac{1}{1+G_{l}(s)} \right]R(s) \\\\
+	&= \left[ \frac{1}{1+G_{l}(s)} \right] \frac{1}{s^{2}}
+\end{align*}
+$$
+
+>[!Note]
+>Un sistema tipo 1 ($C^{1}$) es aquel cuyas raices, en numerador y denominador, no son $0$. Si el sistema no es de tipo 1, el error de velocidad diverge
+
+Si $G= \frac{N_{G}}{D_{G}}$ y el controlador es de tipo 1 -> $C^{1}(s)= \frac{1}{s} \frac{N_{C}}{D_{C}}$, el error de posición es $0$ .
+
+$$
+\begin{align*}
+	\lim_{ t \to \infty } e(t)&= \lim_{ s \to 0 } sE(s) \\\\
+	&= \lim_{ s \to 0 } s \frac{1}{s^{2}}\left[ \frac{1}{1+G_{l}(s)} \right] \\\\
+	&= \lim_{ s \to 0 } \left[ \frac{1}{s+sG_{l}(s)} \right] \\\\
+	&= \frac{1}{\lim_{ s \to 0 } sG_{l}(s)} \\\\
+	&= \frac{1}{k_{v}}
+\end{align*}
+$$
+
+Donde $e_{v} = \mid \frac{1}{k_{v}} \mid$ .
+
+- $e_{v}$ : Error de velocidad
+
+
+
+
+---
+
+Se considera el siguiente sistema:
+
+$$
+\begin{align*}
+	G(s)=\frac{2}{s(s+1)(s+5)}
+\end{align*}
+$$
+
+Se supone un controlador $C(s)=k$
+
+$$
+\begin{align*}
+	G_{l}(s) &= \frac{2k}{s\cdot 1\left( \frac{s}{1}+1 \right)5\left( \frac{s}{5}+1 \right)} \\\\
+	&= \frac{2k}{5}\cdot \frac{1}{s}\cdot \frac{1}{\left( \frac{s}{1}+1 \right)\left( \frac{s}{5}+1 \right)}
+\end{align*}
+$$
+
+En el denominador el primer término se activa en $1\,\,Rad$, el segundo en $5\,\,Rad$
+
+Al dejar el polinomio de esta forma, es claro notar:
+
+$$
+\begin{align*}
+	K_{v}=\lim_{ s \to 0 } sG_{l}(s)
+\end{align*}
+$$
+
+Puede percatarse el error de velocidad.
+
+---
+
+La rapidez ($t_{s}$) puede ser determinada en un diagrama de Bode con el ancho de banda.
+
+El ancho de banda se define como la frecuencia para la cual se alcanzan $3\,\,dB$ en un diagrama de Bode.
+
+Un mayor ancho de banda hace que el sistema se más rápido.
+
+
+>[!Note]
+>Los _pico de resonancia_ (pico en el dominio de la frecuencia), tienen una relación directa con los picos en el dominio del tiempo
+
+---
+Considerar el sistema:
+
+$$
+\begin{align*}
+	G(s) = \frac{1}{s(s+2)}
+\end{align*}
+$$
+
+Se usa un controlador $C(s)=k$ . 
+Hallar $k$ .
+
+Requisitos:
+- Margen de fase $\geq 60°$
+- Margen de ganancia $\geq 12\,\,dB$
+- Frecuencia de cruce de ganancia lo mayor posible
+
+
+>[!Note]
+>Siempre se cumple que:
+>$\omega_{g}\leq\omega_{c}$
+>
+>Donde:
+>- $\omega_{c}$ : Frecuencia de cruce de ganancia para $G_{o}(s)$
+>- $\omega_{g}$ : Frecuencia de cruce de ganancia para $G_{l}(s)$
+
+
+En el diagrama de Bode se obtiene:
+
+![](attachments/Pasted%20image%2020231025173058.png)
+
+Se puede notar que aumentar $k$, corre la curva hacia la derecha -> Aumenta $\omega_{c}$ -> Aumenta el ancho de banda -> Disminuye $t_{s}$
+
+Pero esto disminuye el margen de fase.
+
+El diagrama de Bode para todas las ganancias es el mismo:
+
+![](attachments/Pasted%20image%2020231025174646.png)
+
+Pero al desplazarse $\omega_{c}$ a la derecha, nos desplazamos también a la derecha en el mismo diagrama de fase -> Se reduce $Pm$
+
+
+
+
 
 

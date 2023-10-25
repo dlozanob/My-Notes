@@ -4,83 +4,45 @@
     "type": "split",
     "children": [
       {
-        "id": "fd998646d2d0109f",
+        "id": "3818c32853c288ea",
         "type": "tabs",
         "children": [
           {
-            "id": "5ca1d2271fa0cc0c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cap. 4. Diseño por respuesta frecuencial.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "92ae5d545f10b1aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Deutsch_B1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9122611875f6497c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cap. 2. Criterios de diseño de control.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9669d1151f6ec67e",
+            "id": "cba843dc00fa2c32",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "TO DO.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3afba799705555ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
                 "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "235dbc55ccfedadd",
+            "id": "e66e66c6707cc6bc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linked note.md",
+                "file": "Cap. 4. Diseño por respuesta frecuencial.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "89286d055391d2a0",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/blackboard.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -150,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linked note.md",
+                "file": "Cap. 4. Diseño por respuesta frecuencial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linked note.md",
+                "file": "Cap. 4. Diseño por respuesta frecuencial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linked note.md"
+                "file": "Cap. 4. Diseño por respuesta frecuencial.md"
               }
             }
           },
@@ -234,7 +196,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"PID\"",
+                "query": "\"Adjectivdeklination\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -247,7 +209,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249.5
+    "width": 249.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -261,44 +224,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "235dbc55ccfedadd",
+  "active": "e66e66c6707cc6bc",
   "lastOpenFiles": [
-    "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
-    "Deutsch_B1.md",
-    "Deutsch.md",
-    "TO DO.md",
-    "Cap. 2. Criterios de diseño de control.md",
-    "Control.md",
-    "Cap. 1. Realimentación.md",
+    "attachments/Pasted image 20231025174646.png",
+    "Excalidraw/blackboard.excalidraw.md",
     "Cap. 4. Diseño por respuesta frecuencial.md",
-    "Cap. 3. Lugar geométrico de las raices.md",
+    "attachments/Pasted image 20231025173843.png",
+    "attachments/Pasted image 20231025173058.png",
+    "TO DO.md",
+    "Control.md",
     "Linked note.md",
-    "attachments/Pasted image 20231018151425.png",
-    "attachments/Pasted image 20231018151308.png",
-    "attachments/Pasted image 20231018150129.png",
-    "attachments/Pasted image 20231018150011.png",
-    "attachments/Pasted image 20231018145703.png",
-    "attachments/Pasted image 20231018145558.png",
-    "attachments/Pasted image 20231018145523.png",
-    "attachments/Pasted image 20231018145302.png",
-    "attachments/Pasted image 20231018145147.png",
-    "attachments/Pasted image 20231018145105.png",
     "Excalidraw/whiteboard.excalidraw.md",
+    "Deutsch_A1.md",
+    "Excalidraw/attachments/Pasted Image 20231025093717_752.png",
+    "Excalidraw/attachments/Pasted Image 20231025092959_559.png",
+    "Excalidraw/attachments/Pasted Image 20231025092944_557.png",
+    "Excalidraw/attachments/Pasted Image 20231025092927_831.png",
+    "Excalidraw/attachments/Pasted Image 20231024120511_266.png",
+    "Excalidraw/attachments/Pasted Image 20231024120456_253.png",
+    "Deutsch_A2.md",
+    "Excalidraw/attachments/Pasted Image 20231024113214_521.png",
+    "Excalidraw/attachments/Pasted Image 20231024112419_524.png",
+    "LaTeX.md",
+    "Cap. 1. Modelos de sistemas lineales y no lineales.md",
+    "Laboratorio de Control.md",
+    "Cap. 2. Criterios de diseño de control.md",
+    "Servomecanismos.md",
+    "Deutsch_B1.md",
+    "Señales y Sistemas II.md",
+    "Deutsch.md",
+    "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
+    "Main.md",
+    "Cap. 1. Realimentación.md",
+    "Cap. 3. Lugar geométrico de las raices.md",
     "OPPORTUNITÄTEN.md",
     "Diseño de ejes.md",
-    "LaTeX.md",
     "Diseño de Elementos de Máquinas I.md",
     "Ingeniería de Diseño.md",
-    "Main.md",
     "Automatización, Control y Robótica.md",
-    "Automatización%2C Control y Robótica.md",
-    "Excalidraw/blackboard.excalidraw.md",
-    "Präpositionen.md",
-    "Deutsch_A2.md",
-    "Servomecanismos.md",
-    "Zufällige Fakten.md",
-    "Deutsch_A1.md",
-    "Fundamentos de Electricidad y Magnetismo.md",
     "Local Backup.rar",
     "Local Notes Backup.rar",
     "attachments",

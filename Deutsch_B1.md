@@ -106,11 +106,12 @@ APUNTES PENDIENTES
 - Fahren
 - Lassen
 - Bleiben
-- Sehehn
+- Sehen
 - Hören
 - Lernen *
 - Helfen *
 - Lehren *
+- Sich kümmern *
 
 >[!Note]
 >*: Diese Verben kann man 'zu' oder nein benutzen
@@ -122,6 +123,7 @@ APUNTES PENDIENTES
 	- Peter _lernt_ schwimmen
 	- Ich _höre_ die Vogel singen
 	- Ich _lasse_ meine Tochter in den Park gehen
+	- Sie will besse _zu_ sein als ihr Partner
 
 ### Nebensatz
 

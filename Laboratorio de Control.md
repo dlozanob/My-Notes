@@ -333,3 +333,70 @@ Elementos:
 
 
 
+---
+
+$$
+\begin{align*}
+	\ddot{\theta}(F_{e},\theta,\dot{\theta})=\ddot{\theta}=-\frac{LB}{I} \dot{\theta}-\frac{Lmg\sin\theta}{I}+\frac{LF_{e}}{I}
+\end{align*}
+$$
+
+
+$$
+\begin{align*}
+	\left\{
+	\begin{array}{lcc}
+		x=F_{e} \\\\
+	y=\theta \\\\
+	z=\dot{\theta}
+	\end{array}
+	\right.
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	f(F_{e},\theta,\dot{\theta})= -\frac{LBz}{I}-\frac{Lmg\sin y}{I}+\frac{Lx}{I}+\frac{L}{I}\cdot (X-x)-\frac{Lmg\cos y}{I}\cdot (Y-y)-\frac{LB}{I}(Z-z)
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	&f(F_{e},\theta,\dot{\theta})+\frac{LBz}{I}+\frac{Lmg\sin y}{I}-\frac{Lx}{I}=\frac{L}{I}\cdot \hat{X}-\frac{Lmg\cos y}{I}\cdot \hat{Y}-\frac{LB}{I}\hat{Z} \\\\
+	&\hat{\ddot{Y}}=\frac{L}{I}\cdot \hat{X}-\frac{Lmg\cos y}{I} \cdot \hat{Y}-\frac{LB}{I}\hat{\dot{Y}} \\\\
+	&s^{2}\hat{Y}=\frac{L}{I}\cdot\,\,\hat{F_{E}}-\frac{LW\cos y}{I} \cdot\,\,\hat{Y}-\frac{LB}{I}s\hat{Y} \\\\
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	\boxed{ \frac{\hat{\Theta}}{\hat{F_{E}}}= \frac{1}{s^{2}+\frac{LB}{I}s+\frac{LW}{I}\cos \theta}}
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	\left\{
+	\begin{array}{lcc}
+		\sigma=\frac{LB}{2I} \\\\
+	\omega_{d}=\frac{\sqrt{ \frac{4LW}{I} -\frac{L^{2}B^{2}}{I^{2}}}}{2} \\\\
+	\omega_{n}=\sqrt{ \frac{L^{2}B^{2}}{} }
+	\end{array}
+	\right.
+\end{align*}
+$$
+
+
+
+Estabilidad:
+- $\cos(\theta) > 0$ -> $90<\theta<270$
+
+$$
+\begin{align*}
+	y(t)=1-\frac{}{}
+\end{align*}
+$$
+
+
+
+

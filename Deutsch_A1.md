@@ -509,10 +509,7 @@ Wegbeschreibung:
 | Maskulin | e | er | er | 
 | Feminin | e | e | e |
 | Neutrum | e | es | es |
-| Plural | en | e (n) | e |
-
->[!Notiz]
->Wenn Possesiv und plural, man muss _n_ am Ende des Adjektivs hinzufügen
+| Plural | en | en | e |
 
 - Meine schwarzen Schuhe
 
@@ -523,7 +520,7 @@ Wegbeschreibung:
 | Maskulin | en | en | en | 
 | Feminin | e | e | e |
 | Neutrum | e | es | es |
-| Plural | en | e (n) | e |
+| Plural | en | en | e |
 
 - Ich wasche meinen neuen Pullover
 
