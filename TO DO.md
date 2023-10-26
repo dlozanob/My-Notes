@@ -48,7 +48,7 @@
  - [ ] Otras cosas
 	 - [x] MIÉRCOLES 4PM-> SESIÓN INFORMATIVA
 	 - [x] Seccionar 1-1
-	 - [ ] Seccionar 3-1
+	 - [x] Seccionar 3-1
 
 - [ ] Chem-E-Car
 	- [x] Paredes 2mm
@@ -57,7 +57,7 @@
 	- [x] Quitar detalles -> optimizar por peso
 	- [x] Base -> seccionar en 4
 	- [x] Cambiar frenado (Reensamblar)
-	- [ ] Tiras trapezoidales x4 (15mm altura, largo > dist. entre ejes)
+	- [x] Tiras trapezoidales x4 (15mm altura, largo > dist. entre ejes)
 	- Observaciones
 		- Taladrar la base para agujeros de escuadras de la pared frontal
 		- Pedazo de acrílico

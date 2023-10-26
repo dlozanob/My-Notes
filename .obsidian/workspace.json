@@ -8,7 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cba843dc00fa2c32",
+            "id": "7847207d35646d07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linked note.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bef83f5c6aecc333",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -16,28 +28,6 @@
                 "file": "TO DO.md",
                 "mode": "preview",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "e66e66c6707cc6bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cap. 4. Diseño por respuesta frecuencial.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "89286d055391d2a0",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md"
               }
             }
           }
@@ -112,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cap. 4. Diseño por respuesta frecuencial.md",
+                "file": "TO DO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cap. 4. Diseño por respuesta frecuencial.md",
+                "file": "TO DO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cap. 4. Diseño por respuesta frecuencial.md"
+                "file": "TO DO.md"
               }
             }
           },
@@ -196,7 +186,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"Adjectivdeklination\"",
+                "query": "\"\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -224,27 +214,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e66e66c6707cc6bc",
+  "active": "bef83f5c6aecc333",
   "lastOpenFiles": [
-    "attachments/Pasted image 20231025174646.png",
-    "Excalidraw/blackboard.excalidraw.md",
-    "Cap. 4. Diseño por respuesta frecuencial.md",
-    "attachments/Pasted image 20231025173843.png",
-    "attachments/Pasted image 20231025173058.png",
-    "TO DO.md",
-    "Control.md",
     "Linked note.md",
     "Excalidraw/whiteboard.excalidraw.md",
+    "Excalidraw/attachments/Pasted Image 20231026100513_265.png",
+    "Excalidraw/attachments/Pasted Image 20231026094755_943.png",
+    "Excalidraw/attachments/Pasted Image 20231026094740_087.png",
+    "Excalidraw/attachments/Pasted Image 20231026092432_908.png",
+    "TO DO.md",
+    "Excalidraw/blackboard.excalidraw.md",
     "Deutsch_A1.md",
+    "Präpositionen.md",
+    "Cap. 4. Diseño por respuesta frecuencial.md",
+    "attachments/Pasted image 20231025174646.png",
+    "attachments/Pasted image 20231025173843.png",
+    "attachments/Pasted image 20231025173058.png",
+    "Control.md",
     "Excalidraw/attachments/Pasted Image 20231025093717_752.png",
     "Excalidraw/attachments/Pasted Image 20231025092959_559.png",
     "Excalidraw/attachments/Pasted Image 20231025092944_557.png",
-    "Excalidraw/attachments/Pasted Image 20231025092927_831.png",
-    "Excalidraw/attachments/Pasted Image 20231024120511_266.png",
-    "Excalidraw/attachments/Pasted Image 20231024120456_253.png",
     "Deutsch_A2.md",
-    "Excalidraw/attachments/Pasted Image 20231024113214_521.png",
-    "Excalidraw/attachments/Pasted Image 20231024112419_524.png",
     "LaTeX.md",
     "Cap. 1. Modelos de sistemas lineales y no lineales.md",
     "Laboratorio de Control.md",
@@ -261,7 +251,6 @@
     "Diseño de ejes.md",
     "Diseño de Elementos de Máquinas I.md",
     "Ingeniería de Diseño.md",
-    "Automatización, Control y Robótica.md",
     "Local Backup.rar",
     "Local Notes Backup.rar",
     "attachments",

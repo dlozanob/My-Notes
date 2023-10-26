@@ -23,22 +23,9 @@ Hey! This is a linked note.
 - Stolpern -> Tropezarse
 - Gilft -> Veneno
 - Berufsgenossenschaft (BG) -> Aseguradora ocupacional
+- Nachhilfe -> Tutoría
+- Klassenausflug -> Excursión
 
 ---
 
-- Partnersuche Online
-	- Leute fuhlen sich allein
-	- Suchen ein partner -> Einfach
-	- Nicht aus dein Haus
-- Meine persónliche Ehfahrungen
-	- Keine
-- Auf Online-Partnersuche in mein Heimatland
-	- Jüngend Eerwachsenen
-	- Schwierig situationen
-- Vor/Nachteile meine Meinung
-	- Gefährlich
-	- Leute fuhl sich als Produkte
-	- Mehr nicht allein
-	- Ein besser Partner zu finden
-- Abschluss
 
