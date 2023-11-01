@@ -132,3 +132,19 @@ APUNTES PENDIENTES
 
 
 
+## Konjuktiv II
+
+| Präsens | Präteritum | Konjuktiv II |
+|-|-|-|
+| Finden | Fand | Fände |
+| Kommen | Kam | Käme |
+| Gehen | Ging | Ginge |
+| Sehen | Sah | Sähe |
+| Leben | Lebte | Lebte |
+| Sein | War | Wäre |
+
+
+
+
+
+

@@ -590,6 +590,20 @@ El diagrama de Bode para todas las ganancias es el mismo:
 
 Pero al desplazarse $\omega_{c}$ a la derecha, nos desplazamos también a la derecha en el mismo diagrama de fase -> Se reduce $Pm$
 
+---
+
+# CLASE - 1 Nov
+
+1. _Controlador proporcional:_ $C(s) = K_{p}$
+2. _Compensador en atraso:_ $C_{1}(s) = \frac{1+aT_{1}s}{1+T_{1}s}$, $0<a<1$
+3. _Compensador en adelanto:_ $C_{2}(s) = \frac{1 + bT_{2}s}{1+T_{2}s}$, $b > 1$
+
+
+$$
+\begin{align*}
+	
+\end{align*}
+$$
 
 
 

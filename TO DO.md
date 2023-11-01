@@ -11,14 +11,16 @@
 	- [x] Sábado: Monitoría
 	- [x] Comprar motor con terminales macho
 		- Micromotor F1607
+	- Informe de incertidumbre: 8 de Noviembre
 		
 - [ ] Sensores y Actuadores
 	- [ ] Apuntes
+	- [ ] PARCIAL 2: MARTES
 	- [x] Tarea 5: 17 de Octubre
 		- [x] Punto 1
 		- [x] Punto 2
-	- [ ] Tarea 6: 24 de octubre
-	- [ ] Video: 30 de Octubre
+	- [x] Tarea 6: 24 de octubre
+	- [ ] Video: 10 de Noviembre
 	- [ ] Práctica 3: 3 de Noviembre
 	- [ ] Práctica 4: 7 de Noviembre
 	
@@ -26,6 +28,7 @@
 	- [x] Escrito: LUNES
 		- [x] Especificar los rangos en _Especificaciones_
 	- [ ] Página Web: 15 de Noviembre
+	- [ ] OVAS: Lunes
 
 - [ ] Diseño de Elementos de Máquinas I
 	- [x] Proyecto
@@ -38,7 +41,7 @@
 	- [ ] Libro
 	- [ ] Lektion 3: 7
 	- [ ] Ejercicios A2
-	- [ ] Lektion 4: 6 -> Schreiben
+	- [x] Lektion 4: 6 -> Schreiben
 	- [x] Lektion 2: 5 -> Lesen
  
  - [ ] Enigma

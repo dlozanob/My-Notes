@@ -4,35 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "3818c32853c288ea",
+        "id": "59fab85f3eb79b68",
         "type": "tabs",
         "children": [
           {
-            "id": "7847207d35646d07",
+            "id": "228041c40e884739",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linked note.md",
+                "file": "Cap. 4. Diseño por respuesta frecuencial.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "bef83f5c6aecc333",
+            "id": "e539db6c6f59c734",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "TO DO.md",
-                "mode": "preview",
-                "source": false
+                "file": "Excalidraw/blackboard.excalidraw.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TO DO.md",
+                "file": "Cap. 4. Diseño por respuesta frecuencial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TO DO.md",
+                "file": "Cap. 4. Diseño por respuesta frecuencial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TO DO.md"
+                "file": "Cap. 4. Diseño por respuesta frecuencial.md"
               }
             }
           },
@@ -214,43 +211,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bef83f5c6aecc333",
+  "active": "228041c40e884739",
   "lastOpenFiles": [
-    "Linked note.md",
-    "Excalidraw/whiteboard.excalidraw.md",
-    "Excalidraw/attachments/Pasted Image 20231026100513_265.png",
-    "Excalidraw/attachments/Pasted Image 20231026094755_943.png",
-    "Excalidraw/attachments/Pasted Image 20231026094740_087.png",
-    "Excalidraw/attachments/Pasted Image 20231026092432_908.png",
-    "TO DO.md",
     "Excalidraw/blackboard.excalidraw.md",
+    "Cap. 4. Diseño por respuesta frecuencial.md",
+    "Excalidraw/whiteboard.excalidraw.md",
+    "Control.md",
+    "xcontrol.md",
+    "Diseño de resortes.md",
+    "Linked note.md",
+    "attachments/Pasted image 20231101142532.png",
+    "attachments/Pasted image 20231101142514.png",
+    "attachments/Pasted image 20231101142455.png",
+    "attachments/Pasted image 20231101142410.png",
+    "attachments/Pasted image 20231101142310.png",
+    "attachments/Pasted image 20231101142254.png",
+    "attachments/Pasted image 20231101142244.png",
+    "attachments/Pasted image 20231101142236.png",
+    "attachments/Pasted image 20231101142229.png",
+    "attachments/Pasted image 20231101124213.png",
+    "Diseño de Elementos de Máquinas I.md",
+    "Diseño por fatiga.md",
+    "Diseño de ejes.md",
+    "Deutsch_B1.md",
+    "Laboratorio de Control.md",
+    "Sensores y Actuadores.md",
+    "Cap. 1. Realimentación.md",
+    "TO DO.md",
+    "Servomecanismos.md",
+    "LaTeX Template.md",
+    "LaTeX.md",
     "Deutsch_A1.md",
     "Präpositionen.md",
-    "Cap. 4. Diseño por respuesta frecuencial.md",
-    "attachments/Pasted image 20231025174646.png",
-    "attachments/Pasted image 20231025173843.png",
-    "attachments/Pasted image 20231025173058.png",
-    "Control.md",
-    "Excalidraw/attachments/Pasted Image 20231025093717_752.png",
-    "Excalidraw/attachments/Pasted Image 20231025092959_559.png",
-    "Excalidraw/attachments/Pasted Image 20231025092944_557.png",
     "Deutsch_A2.md",
-    "LaTeX.md",
     "Cap. 1. Modelos de sistemas lineales y no lineales.md",
-    "Laboratorio de Control.md",
     "Cap. 2. Criterios de diseño de control.md",
-    "Servomecanismos.md",
-    "Deutsch_B1.md",
     "Señales y Sistemas II.md",
     "Deutsch.md",
     "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
-    "Main.md",
-    "Cap. 1. Realimentación.md",
-    "Cap. 3. Lugar geométrico de las raices.md",
-    "OPPORTUNITÄTEN.md",
-    "Diseño de ejes.md",
-    "Diseño de Elementos de Máquinas I.md",
-    "Ingeniería de Diseño.md",
     "Local Backup.rar",
     "Local Notes Backup.rar",
     "attachments",

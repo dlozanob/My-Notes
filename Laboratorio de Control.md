@@ -346,9 +346,9 @@ $$
 \begin{align*}
 	\left\{
 	\begin{array}{lcc}
-		x=F_{e} \\\\
-	y=\theta \\\\
-	z=\dot{\theta}
+		x_{0}=F_{e} \\\\
+	y_{0}=\theta \\\\
+	z_{0}=\dot{\theta}
 	\end{array}
 	\right.
 \end{align*}
@@ -356,15 +356,15 @@ $$
 
 $$
 \begin{align*}
-	f(F_{e},\theta,\dot{\theta})= -\frac{LBz}{I}-\frac{Lmg\sin y}{I}+\frac{Lx}{I}+\frac{L}{I}\cdot (X-x)-\frac{Lmg\cos y}{I}\cdot (Y-y)-\frac{LB}{I}(Z-z)
+	f(F_{e},\theta,\dot{\theta})= -\frac{LBz_{0}}{I}-\frac{Lmg\sin y_{0}}{I}+\frac{Lx_{0}}{I}+\frac{L}{I}\cdot (x-x_{0})-\frac{Lmg\cos y_{0}}{I}\cdot (y-y_{0})-\frac{LB}{I}(z-z_{0})
 \end{align*}
 $$
 
 $$
 \begin{align*}
-	&f(F_{e},\theta,\dot{\theta})+\frac{LBz}{I}+\frac{Lmg\sin y}{I}-\frac{Lx}{I}=\frac{L}{I}\cdot \hat{X}-\frac{Lmg\cos y}{I}\cdot \hat{Y}-\frac{LB}{I}\hat{Z} \\\\
-	&\hat{\ddot{Y}}=\frac{L}{I}\cdot \hat{X}-\frac{Lmg\cos y}{I} \cdot \hat{Y}-\frac{LB}{I}\hat{\dot{Y}} \\\\
-	&s^{2}\hat{Y}=\frac{L}{I}\cdot\,\,\hat{F_{E}}-\frac{LW\cos y}{I} \cdot\,\,\hat{Y}-\frac{LB}{I}s\hat{Y} \\\\
+	&f(F_{e},\theta,\dot{\theta})+\frac{LBz_{0}}{I}+\frac{Lmg\sin y_{0}}{I}-\frac{Lx_{0}}{I}=\frac{L}{I}\cdot \hat{X}-\frac{Lmg\cos y_{0}}{I}\cdot \hat{Y}-\frac{LB}{I}\hat{Z} \\\\
+	&\hat{\ddot{Y}}=\frac{L}{I}\cdot \hat{X}-\frac{Lmg\cos y_{0}}{I} \cdot \hat{Y}-\frac{LB}{I}\hat{\dot{Y}} \\\\
+	&s^{2}\hat{Y}=\frac{L}{I}\cdot\,\,\hat{F_{E}}-\frac{LW\cos y_{0}}{I} \cdot\,\,\hat{Y}-\frac{LB}{I}s\hat{Y} \\\\
 \end{align*}
 $$
 
@@ -398,5 +398,17 @@ $$
 $$
 
 
+### Experimento de ganancia ($K$)
+
+
+![](attachments/Pasted%20image%2020231027120458.png)
+
+$$
+\begin{align*}
+	&\sum F_{y} = 0 \\\\
+	&F_{e}\sin\theta-W=0 \\\\
+	&F_{e}=\frac{W}{\sin\theta }
+\end{align*}
+$$
 
 

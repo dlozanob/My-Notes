@@ -25,7 +25,63 @@ Hey! This is a linked note.
 - Berufsgenossenschaft (BG) -> Aseguradora ocupacional
 - Nachhilfe -> Tutoría
 - Klassenausflug -> Excursión
+- Wettbewerb -> Competencia
+- Unterstützung -> Apoyo
+- Genießen -> Disfrutar de
+- Schlaff -> Flácido
+- Faltig -> Arrugado
+- Irgendwann -> En cualquier momento
+- Geistig -> Intelectual
+- Umbauen -> Reconstruir 
+- Neid -> Envidia
+- Schlimm -> Malo
+- Wohl -> Bien
+- Schönheitschirurgen -> Cirujano plástico
+- Stellenwert -> Importancia
+- Eitelkeit -> Vanidad
+- Regieren -> Gobernar
+- Ausschließlich -> Exclusivo
+- Besiegen -> Derrotar
+- Vernügen -> Entretener
+- Mitleid -> Compasión
+- Trauer -> Tristeza
+- Überbevölkerung -> Sobrepoblación
+- Übrigens -> A propósito
+- Künstlich -> Artificial
+- Gewitter -> Tormenta eléctrica
+- Stürme -> Tormenta
+- Hitze -> Calor
+- Hagel -> Granizo
+- Hitzewelle -> Ola de calor
+- Beschädig -> Deteriorar
+- Betonplatten -> Placa de hormigón
+- Wetterbedingung -> Condiciones climáticas 
+- Klimawandels -> Cambio climático
+- Wechsel -> Cambio
+- Nasskalten -> Húmedo y frio
+- Ufer -> Orilla
+- Einsatz -> Movilización
+- Schaufeln -> Pala
+- Wahlkampf -> Campaña electoral
+- Säschsischen -> Sajón
+- Mulde -> Hoyo
+- Anwohner -> Residente
+- Bundeswehr -> Ejército de la República Federal de Alemania
+- Retten de -> Salvar de
+- Lahm -> Cojo
+- Entwurzelte -> Arrancado
+- Abdecken -> Destapado
+- Umstürzten -> Volcar
+- Gestrichene -> Cancelado
+- Gesperrte -> Taponado
+- Schienenwege -> Vías férreas
+- Behinderung -> Obstáculo
+- Leichtverletzte -> Levemente heridos
+- Melden -> Lesionado
+- Knapp -> Escaso
+- Zahlreich -> Numeroso
+- Orka -> Huracán
+- Herrschen -> Gobernar
 
 ---
-
 

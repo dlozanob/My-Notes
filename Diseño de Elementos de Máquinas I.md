@@ -4,5 +4,9 @@
 
 - [[Diseño por fatiga]]
 - [[Diseño de ejes]]
+- [[Diseño de resortes]]
 
+## External Links
+
+- [Material Database](https://www.makeitfrom.com/)
 

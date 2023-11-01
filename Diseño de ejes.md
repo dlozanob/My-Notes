@@ -1283,8 +1283,8 @@ $$
 
 - $\delta$ : Interferencia
 - $d$ : Diámetro nominal
-- $d_{i}$ : Diámetro nominal interior del eje
-- $d_{o}$ : Diámetro nominal exterior de la maza
+- $d_{i}$ : Diámetro interior del eje (si hay alguno)
+- $d_{o}$ : Diámetro exterior de la maza
 - $E_{i}$ : Módulo de Young del eje
 - $E_{o}$ : Módulo de Young de la maza
 - $v_{i}$ : Coeficiente de Poison del eje
@@ -1322,6 +1322,9 @@ $$
 	\delta_{medio} = \frac{\delta_{max}+\delta_{min}}{2}
 \end{align*}
 $$
+
+>[!Note]
+>Se toma $\delta_{medio}$ para el cálculo de $p$
 
 Teniendo en cuenta que el área de contacto entre el eje y la masa es:
 
