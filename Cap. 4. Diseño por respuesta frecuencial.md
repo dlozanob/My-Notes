@@ -599,13 +599,109 @@ Pero al desplazarse $\omega_{c}$ a la derecha, nos desplazamos también a la der
 3. _Compensador en adelanto:_ $C_{2}(s) = \frac{1 + bT_{2}s}{1+T_{2}s}$, $b > 1$
 
 
+
+## Compensador en adelanto
+
 $$
 \begin{align*}
-	
+	C_{2}(j\omega)= \frac{1+bT_{2}(j\omega)}{1+T_{2}(j\omega)}
+\end{align*}
+$$
+
+- _Polo_
+
+$$
+\begin{align*}
+	-\frac{1}{T_{2}}
+\end{align*}
+$$
+
+- _Cero_
+
+$$
+\begin{align*}
+	-\frac{1}{bT_{2}}
 \end{align*}
 $$
 
 
+Las frecuencias asociadas son: $\frac{1}{T_{2}}$ y $\frac{1}{bT_{2}}$
+
+Diagrama de Bode en magnitud:
+
+![](attachments/Pasted%20image%2020231101164731.png)
+
+Se activa el polo en $\frac{1}{T_{2}}$, este posee $-20\,\,dB/dec$, por lo que se suma a la pendiente que ya estaba, esto hace que la línea permanezca constante.
+
+![](attachments/Pasted%20image%2020231101164825.png)
+
+>[!Note]
+>El compensador en adelante suma directamente fase (es un beneficio), pero en algunas situaciones el compensador en atraso no se puede ajustar
+
+![](attachments/Pasted%20image%2020231101163832.png)
+
+$$
+\begin{align*}
+	\lim_{ \omega \to \infty } 20\log_{10}\mid \frac{1+jbT_{2}\omega}{1+jT_{2}\omega}\mid = 20\log_{10}b
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	\log_{10}\omega_{m} &= \frac{\log_{10}\left( \frac{1}{bT_{2}} \right)+\log_{10}\left( \frac{1}{T_{2}} \right)}{2} \\\\
+	&\omega_{m} = \frac{1}{T_{2}}\sqrt{ \frac{1}{b} }
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	C_{2}(j\omega_{m})&=  \frac{1+bT_{2}\left( j\omega \right)}{1+T_{2}j\omega} \\\\
+	&= \frac{1+bT_{2}\left( j \frac{1}{T_{2}}  \frac{1}{\sqrt{ b }} \right)}{1+T_{2}\left( j \frac{1}{T_{2}} \frac{1}{\sqrt{ b }} \right)} \\\\
+	&= \frac{1+j\sqrt{ b }}{1+ j \frac{1}{\sqrt{ b }}}
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	\phi_{m} &=  \angle C_{2}(j\omega_{m}) \\\\
+	&= \tan ^{-1}\sqrt{ b } - \tan ^{-1}\left( \frac{1}{\sqrt{ b }} \right)
+\end{align*}
+$$
+
+Pero:
+
+$$
+\begin{align*}
+	\tan(\phi_{m}) = \tan(\alpha-\beta)
+\end{align*}
+$$
+
+Por trigonometría:
+
+$$
+\begin{align*}
+	\tan(\alpha-\beta) = \frac{\tan\alpha-\tan\beta}{1+\tan\alpha\cdot \tan\beta}
+\end{align*}
+$$
+
+Entonces:
+
+$$
+\begin{align*}
+	\tan\phi &= \frac{\sqrt{ b }-\frac{1}{\sqrt{ b }}}{1+1} \\\\
+	&= \frac{b\sqrt{ b }}{2}
+\end{align*}
+$$
+
+![](attachments/Pasted%20image%2020231101170538.png)
+
+Por tanto:
+
+$$
+\begin{align*}
+	\boxed{\sin\phi_{m} = \frac{b-1}{b+1}}
+\end{align*}
+$$
 
 
 
