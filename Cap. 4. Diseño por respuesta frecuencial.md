@@ -543,11 +543,11 @@ La rapidez ($t_{s}$) puede ser determinada en un diagrama de Bode con el ancho d
 
 El ancho de banda se define como la frecuencia para la cual se alcanzan $3\,\,dB$ en un diagrama de Bode.
 
-Un mayor ancho de banda hace que el sistema se más rápido.
+Un mayor ancho de banda hace que el sistema sea más rápido.
 
 
 >[!Note]
->Los _pico de resonancia_ (pico en el dominio de la frecuencia), tienen una relación directa con los picos en el dominio del tiempo
+>Los _picos de resonancia_ (pico en el dominio de la frecuencia), tienen una relación directa con los picos en el dominio del tiempo
 
 ---
 Considerar el sistema:
@@ -636,7 +636,7 @@ Se activa el polo en $\frac{1}{T_{2}}$, este posee $-20\,\,dB/dec$, por lo que s
 ![](attachments/Pasted%20image%2020231101164825.png)
 
 >[!Note]
->El compensador en adelante suma directamente fase (es un beneficio), pero en algunas situaciones el compensador en atraso no se puede ajustar
+>El compensador en adelanto suma directamente fase (es un beneficio), pero en algunas situaciones el compensador en atraso no se puede ajustar
 
 ![](attachments/Pasted%20image%2020231101163832.png)
 
@@ -689,7 +689,7 @@ Entonces:
 $$
 \begin{align*}
 	\tan\phi &= \frac{\sqrt{ b }-\frac{1}{\sqrt{ b }}}{1+1} \\\\
-	&= \frac{b\sqrt{ b }}{2}
+	&= \frac{\sqrt{ b }-\frac{1}{\sqrt{ b }}}{2}
 \end{align*}
 $$
 
@@ -703,5 +703,14 @@ $$
 \end{align*}
 $$
 
+Además:
 
+$$
+\begin{align*}
+	\boxed{b=\frac{1+\sin\phi}{1-\sin\phi}}
+\end{align*}
+$$
+
+>[!Note]
+>Un compensador en adelanto no puede brindar más de $90°$
 

@@ -5,24 +5,35 @@
 
 - [ ] Control
 	- [ ] Apuntes
+	- [ ] Reto 5: 12 NOV
 	- [x] Reto 3
 	- [x] Parcial: Miércoles
-	- [ ] Viernes: Proponer experimento de medida de ganancia
+	- [x] Viernes: Proponer experimento de medida de ganancia
 	- [x] Sábado: Monitoría
 	- [x] Comprar motor con terminales macho
 		- Micromotor F1607
-	- Informe de incertidumbre: 8 de Noviembre
+	- [ ] Modelo no lineal Simulink
+	- [ ] Informe de incertidumbre: 8 de Noviembre
 		
 - [ ] Sensores y Actuadores
 	- [ ] Apuntes
+		- [ ] PM6
+		- [ ] Controladores de lógica programable (1 y 2)
+		- [ ] PM7
+		- [ ] PP7
+		- [ ] Guía DRIVE
+		- [ ] PP8
+		- [ ] Recursos DAQ
+		- [ ] PP10
 	- [ ] PARCIAL 2: MARTES
 	- [x] Tarea 5: 17 de Octubre
 		- [x] Punto 1
 		- [x] Punto 2
 	- [x] Tarea 6: 24 de octubre
 	- [ ] Video: 10 de Noviembre
-	- [ ] Práctica 3: 3 de Noviembre
+	- [x] Práctica 3: 3 de Noviembre
 	- [ ] Práctica 4: 7 de Noviembre
+	- [ ] Práctica 5
 	
 - [ ] TPI
 	- [x] Escrito: LUNES
@@ -33,9 +44,9 @@
 - [ ] Diseño de Elementos de Máquinas I
 	- [x] Proyecto
 	- [ ] Apuntes
-	- [ ] Revisar ejemplos
+	- [x] Revisar ejemplos
 	- [ ] Proyecto 2
-	- [ ] Parcial 2: 30 de Octubre
+	- [x] Parcial 2: 30 de Octubre
 
 - [ ] Deutsch
 	- [ ] Libro

@@ -131,7 +131,6 @@ APUNTES PENDIENTES
 - Es ist schön, viel Urlaub machen _zu_ können
 
 
-
 ## Konjuktiv II
 
 | Präsens | Präteritum | Konjuktiv II |
@@ -144,7 +143,48 @@ APUNTES PENDIENTES
 | Sein | War | Wäre |
 
 
+## Futur I
+
+| | __Werden__ |
+|-|-|
+|ich| werde |
+|du | wirst |
+| er/sie/es | wird |
+| wir | werden |
+| ihr | werdet |
+| sie/Sie | werden |
+
+1. _Versprechen_
+	- Ich verspreche dir Mama, ich werde morgen mein Zimmer aufräumen
+2. _Prognose oder Plan_
+	- Die Gletscher werden weiter schmelzen
+	- Nächstes Jahr werde ich eine große Wohnung kaufen
+3. _Vermutung_
+	- Wo ist die Lehrerin?
+		- Sie wird noch wohl krank sein
+		- Sie wird wahrscheinlich noch im Stau stehen
+
+- _Bsp_
+	- Was wirst du wohl in den nächsten 10 Jahren machen?
+		- In den nächsten 10 Jahren werde ich...
+			- ein Aufbaustudium machen
+			- meine einege Wohnung kaufen
+			
+
+- Über Zukunft sprechen
+	- Ich besuche meine Eltern -> Präsens
+	- Am Wochenende besuche ich meine Eltern -> Präsens mit Zeitangabe
+	- Ich werde meine Eltern besuchen -> Futur I
 
 
+## Je.. Desto/umso
 
+- _Je_ mehr _Geld_ die Menschen haben, _desto_ mehr Autos kaufen
+- _Je_ mehr Eis schmilz, _detso_ höher wird der Meerespiegel
+
+
+- _Bsp_
+	- Ja mehr Fleisch die Menschen eseen, desto mehr Tiere muss die Landwirtschaft züchten
+	- Je weniger Schnee in den Alpen fällt, desto weniger Wintersporttouristen gibt es
+	- Je mehr Menschen es gibt, desto gibt es mehr Umweltprobleme
 

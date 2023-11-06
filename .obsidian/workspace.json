@@ -4,28 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "59fab85f3eb79b68",
+        "id": "081db739762fa3c5",
         "type": "tabs",
         "children": [
           {
-            "id": "228041c40e884739",
+            "id": "ff51423844030ed1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cap. 4. Diseño por respuesta frecuencial.md",
+                "file": "Cap. 3 Actuadores.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e539db6c6f59c734",
+            "id": "075dbc2e4b05fe2f",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
                 "file": "Excalidraw/blackboard.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "b8544b1507e1e62d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/whiteboard.excalidraw.md"
               }
             }
           }
@@ -99,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cap. 4. Diseño por respuesta frecuencial.md",
+                "file": "Cap. 3 Actuadores.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cap. 4. Diseño por respuesta frecuencial.md",
+                "file": "Cap. 3 Actuadores.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cap. 4. Diseño por respuesta frecuencial.md"
+                "file": "Cap. 3 Actuadores.md"
               }
             }
           },
@@ -211,44 +221,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "228041c40e884739",
+  "active": "ff51423844030ed1",
   "lastOpenFiles": [
-    "attachments/Pasted image 20231101170538.png",
+    "attachments/Pasted image 20231106122121.png",
     "Excalidraw/blackboard.excalidraw.md",
-    "Cap. 4. Diseño por respuesta frecuencial.md",
-    "attachments/Pasted image 20231101164825.png",
-    "attachments/Pasted image 20231101164731.png",
-    "attachments/Pasted image 20231101164050.png",
-    "attachments/Pasted image 20231101163832.png",
-    "attachments/Pasted image 20231101163821.png",
-    "attachments/Pasted image 20231101163402.png",
-    "attachments/Pasted image 20231101163338.png",
-    "attachments/Pasted image 20231101163324.png",
-    "attachments/Pasted image 20231101163028.png",
-    "attachments/Pasted image 20231101162512.png",
     "Excalidraw/whiteboard.excalidraw.md",
+    "Excalidraw/attachments/Pasted Image 20231106121844_918.png",
+    "Cap. 3 Actuadores.md",
+    "attachments/Pasted image 20231106121626.png",
+    "attachments/Pasted image 20231106121333.png",
+    "attachments/Pasted image 20231106121148.png",
+    "Excalidraw/attachments/Pasted Image 20231106120822_186.png",
+    "attachments/Pasted image 20231106115940.png",
+    "TO DO.md",
+    "Sensores y Actuadores.md",
+    "attachments/Pasted image 20231106100509.png",
+    "attachments/Pasted image 20231106100459.png",
+    "Excalidraw/attachments/Pasted Image 20231106100454_618.png",
+    "attachments/Pasted image 20231106100426.png",
+    "Cap. 2 Metrología.md",
+    "Cap. 1 Instrumentación.md",
+    "Automatización, Control y Robótica.md",
+    "Automatización%2C Control y Robótica.md",
+    "Main.md",
+    "Cap. 4. Diseño por respuesta frecuencial.md",
+    "LaTeX.md",
+    "Linked note.md",
+    "Laboratorio de Control.md",
     "Control.md",
+    "Deutsch_B1.md",
+    "Diseño de ejes.md",
+    "Diseño por fatiga.md",
+    "Diseño de Elementos de Máquinas I.md",
     "xcontrol.md",
     "Diseño de resortes.md",
-    "Linked note.md",
-    "Diseño de Elementos de Máquinas I.md",
-    "Diseño por fatiga.md",
-    "Diseño de ejes.md",
-    "Deutsch_B1.md",
-    "Laboratorio de Control.md",
-    "Sensores y Actuadores.md",
     "Cap. 1. Realimentación.md",
-    "TO DO.md",
     "Servomecanismos.md",
     "LaTeX Template.md",
-    "LaTeX.md",
     "Deutsch_A1.md",
-    "Präpositionen.md",
-    "Deutsch_A2.md",
-    "Cap. 1. Modelos de sistemas lineales y no lineales.md",
-    "Cap. 2. Criterios de diseño de control.md",
-    "Señales y Sistemas II.md",
-    "Deutsch.md",
     "Local Backup.rar",
     "Local Notes Backup.rar",
     "attachments",

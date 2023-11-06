@@ -82,6 +82,16 @@ Hey! This is a linked note.
 - Zahlreich -> Numeroso
 - Orka -> Huracán
 - Herrschen -> Gobernar
+- Gletscher -> Glaciar
+- Schmelzen -> Derretir
+- Meeresspiegel -> Nivel del mar
+- Lawine -> Avalancha
+- u.a. -> Und anderen
+- Bedrohen -> Amenazar
+- Unwetter -> Tormenta
+
+
 
 ---
+
 
