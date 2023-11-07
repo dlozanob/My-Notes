@@ -1,6 +1,6 @@
 # A2
 
-## Gründe nennen
+## Gründe nennen (weil)
 
 - Ich gehe nicht ins Kino, -> Hauptsatz
    weil ich keine Zeit habe. -> Nebensatz

@@ -17,13 +17,13 @@
 		
 - [ ] Sensores y Actuadores
 	- [ ] Apuntes
-		- [ ] PM6
+		- [x] PM6
 		- [ ] Controladores de lógica programable (1 y 2)
-		- [ ] PM7
-		- [ ] PP7
-		- [ ] Guía DRIVE
+		- [x] PM7
+		- [x] PP7
+		- [x] Guía DRIVE
 		- [ ] PP8
-		- [ ] Recursos DAQ
+		- [x] Recursos DAQ
 		- [ ] PP10
 	- [ ] PARCIAL 2: MARTES
 	- [x] Tarea 5: 17 de Octubre
@@ -39,7 +39,7 @@
 	- [x] Escrito: LUNES
 		- [x] Especificar los rangos en _Especificaciones_
 	- [ ] Página Web: 15 de Noviembre
-	- [ ] OVAS: Lunes
+	- [x] OVAS: Lunes
 
 - [ ] Diseño de Elementos de Máquinas I
 	- [x] Proyecto
@@ -64,7 +64,7 @@
 	 - [x] Seccionar 1-1
 	 - [x] Seccionar 3-1
 
-- [ ] Chem-E-Car
+- [x] Chem-E-Car
 	- [x] Paredes 2mm
 	- [x] Quitar paredes de adelante
 	- [x] Acomodar la lámina de adelante

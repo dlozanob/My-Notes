@@ -2,9 +2,9 @@
 
 ![](attachments/Pasted%20image%2020230921184341.png)
 
-- [[Diseño por fatiga]]
-- [[Diseño de ejes]]
-- [[Diseño de resortes]]
+- [Diseño por fatiga](Diseño%20por%20fatiga.md)
+- [Diseño de ejes](Diseño%20de%20ejes.md)
+- [Diseño de resortes](Diseño%20de%20resortes.md)
 
 ## External Links
 
