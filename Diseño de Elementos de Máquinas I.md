@@ -5,6 +5,7 @@
 - [Diseño por fatiga](Diseño%20por%20fatiga.md)
 - [Diseño de ejes](Diseño%20de%20ejes.md)
 - [Diseño de resortes](Diseño%20de%20resortes.md)
+- [[Uniones]]
 
 ## External Links
 

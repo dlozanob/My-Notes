@@ -40,8 +40,7 @@
 		- Die Flasche steht auf dem Tisch
 	- Wohin? (Offene Orte)
 		- Ich gehe auf den Platz
-		- Ich stelle die Flasche auf der Tisch
-	- Sie hat auf mich geantwortet
+		- Ich stelle die Flasche auf den Tisch
 	- Warten
 	- Aufpassen
 	- Lust haben
@@ -50,6 +49,7 @@
 	- Vorbereiten
 	- Freuen (Zukunft)
 	- Antworten
+		- Sie hat auf mich geantwortet
 	- Verzichten
 
 - _Über_
@@ -63,6 +63,7 @@
 	- Nachdenken
 	- Sich wundern
 	- Streiten
+	- Sprechen
 
 - _Als_
 	- Sie Arbeitet als Kellnerin
@@ -157,25 +158,26 @@
 		- An der Kirche vorbei
 
 - _Vor_
-	- Lokal
+	- Wo?
 		- Ich stehe mich vor dem Kühlschrank
 	- Angst haben
 	- Sich fürchten
+	- Sich verstecken
 
 - _Unter_
-	- Lokal
+	- Wo?
 		- Das Buch steht unter dem Tisch
 
 - _Neben_
-	- Lokal
+	- Wo?
 		- Die Lampe steht neben dem Fenster
 
 - _Hinter_
-	- Lokal
+	- Wo?
 		- Das Mädchen steht hinter dem Bücherregal
 
 - _Zwischen_
-	- Lokal
+	- Wo?
 		- Die Vase liegt zwischen dem Kugelschreiber und den Stifte
 
 

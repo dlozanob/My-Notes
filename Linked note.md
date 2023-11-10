@@ -89,9 +89,26 @@ Hey! This is a linked note.
 - u.a. -> Und anderen
 - Bedrohen -> Amenazar
 - Unwetter -> Tormenta
-
-
+- Rohstoffe -> Materia prima
+- Incinerar -> Verbrennen
+- Strahlung -> Radiación
+-  Weltall -> Universo
+- Dringend -> Urgentemente
+- Erneuerbare -> Renovable
+- Sinken -> Disminuir
+- Entstehen -> Originar
+- Bescheren -> Regalar
+- Benehmen -> Comportamiento/Comportarse
+- Duzen -> Tutear
+- Vorkommen -> Ocurrir
+- Großteil -> La mayoría
+- Sich verhalten -> Comportarse
+- Sitte -> Costumbre
+- Lob -> Elogio
+- Oberflächlich -> Superficial
+- Betreff -> Asunto
+- Überzeugen -> Convencer
+- Erziehen -> Educar
 
 ---
-
 

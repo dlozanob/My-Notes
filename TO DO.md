@@ -12,8 +12,8 @@
 	- [x] Sábado: Monitoría
 	- [x] Comprar motor con terminales macho
 		- Micromotor F1607
-	- [ ] Modelo no lineal Simulink
-	- [ ] Informe de incertidumbre: 8 de Noviembre
+	- [x] Modelo no lineal Simulink
+	- [x] Informe de incertidumbre: 8 de Noviembre
 		
 - [ ] Sensores y Actuadores
 	- [ ] Apuntes
@@ -25,16 +25,16 @@
 		- [ ] PP8
 		- [x] Recursos DAQ
 		- [ ] PP10
-	- [ ] PARCIAL 2: MARTES
+	- [x] PARCIAL 2: MARTES
 	- [x] Tarea 5: 17 de Octubre
 		- [x] Punto 1
 		- [x] Punto 2
 	- [x] Tarea 6: 24 de octubre
 	- [ ] Video: 10 de Noviembre
 	- [x] Práctica 3: 3 de Noviembre
-	- [ ] Práctica 4: 7 de Noviembre
+	- [x] Práctica 4: 7 de Noviembre
 	- [ ] Práctica 5
-	
+
 - [ ] TPI
 	- [x] Escrito: LUNES
 		- [x] Especificar los rangos en _Especificaciones_

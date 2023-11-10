@@ -412,3 +412,18 @@ $$
 $$
 
 
+### Implementación del controlador
+
+Se implementa un controlador $PID$ :
+
+- $P$
+	- Mejora el desempeño
+- $I$
+	- Se asegura que el error de posición sea $0$
+- $D$
+	- Atenúa las oscilaciones
+	- Útil cuando hay fricción
+	- Se requiere un filtro para disminuir el ruido
+
+Se implementa un compensador en cascada para aumentar la robustez.
+

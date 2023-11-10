@@ -31,11 +31,13 @@
 	- Ich komme zu dir, _bevor_ ich mit der Arbeit fertig bin
 - _Bis_
 - _Da_
+	- _Da_ ich keine Lust habe, habe ich keine übungen gemacht
 - _Damit_
 	- Geh zum Arzt, _damit_ er dich untersuchen kann
 - _Dass_
 	- Gestern sagte der Präsident, _dass_ im nächsten Jahr alles besser wird
 - _Falls_
+	- _Falls_ Lisa Zeit hat, besucht sie ihre Oma
 - _Indem_
 - _Nachdem_
 	- _Nachdem_ wir das Theaterstück gesehen hatten, gingen wir noch in die Kneipe
@@ -52,7 +54,7 @@
 - _Weil_
 	- Er hatte wenig Zeit, _weil_ er den Flug nach L.A nehmen musste
 - _Wenn_
-	- Wenn Herr Klein arbeitlos ist, strit er lange mit seiner Frau
+	- _Wenn_ Herr Klein arbeitlos ist, strit er lange mit seiner Frau
 
 
 ### Position I (Konjuktional-Adverbien)
@@ -64,7 +66,7 @@
 - _Danach_
 - _Dann_
 - _Deshalb_
-	- Maria hat heute Zeit, _deswegen_ macht sie zwei Stunden Sport
+	- Maria hat heute Zeit, _deshalb_ macht sie zwei Stunden Sport
 - _Deswegen_
 - _Darum_
 - _Genauso_
@@ -85,17 +87,21 @@
 	- Maria macht heute Sport, _denn_ sie hat heute Zeit
 - _Oder_
 - _Sondern_
-	- Nicht Herr Klein, _sondern_ Frau Groß hay heute Geburtstag
+	- Nicht Herr Klein, _sondern_ Frau Groß hat heute Geburtstag
 - _Und_
 
 
----
-APUNTES PENDIENTES
+## Infinitiv mit 'Zu'
 
----
+- Ich habe keine Zeit, in den Supermarket _zu_ gehen
+- Ich habe Lust, heute Abend _fernzusehen_
+- Peter hat vergessen, die Hausaufgabe _zu_ machen
+- Wir haben vor, im Dezember nach Deutschland _zu_ reisen
+- Mir ist wichtig, jeden Tag sport machen _zu_ können
+- Ich hoffe, die Prüfung _zu_ bestehen
 
 
-## Verben  ohne 'zu'
+## Verben  ohne 'Zu'
 
 ### Hauptsatz
 
@@ -123,7 +129,7 @@ APUNTES PENDIENTES
 	- Peter _lernt_ schwimmen
 	- Ich _höre_ die Vogel singen
 	- Ich _lasse_ meine Tochter in den Park gehen
-	- Sie will besse _zu_ sein als ihr Partner
+	- Sie will besser _zu_ sein als ihr Partner
 
 ### Nebensatz
 
@@ -180,11 +186,33 @@ APUNTES PENDIENTES
 ## Je.. Desto/umso
 
 - _Je_ mehr _Geld_ die Menschen haben, _desto_ mehr Autos kaufen
-- _Je_ mehr Eis schmilz, _detso_ höher wird der Meerespiegel
-
+- _Je_ mehr Eis schmilz, _desto_ höher wird der Meerespiegel
 
 - _Bsp_
-	- Ja mehr Fleisch die Menschen eseen, desto mehr Tiere muss die Landwirtschaft züchten
+	- Ja mehr Fleisch die Menschen essen, desto mehr Tiere muss die Landwirtschaft züchten
 	- Je weniger Schnee in den Alpen fällt, desto weniger Wintersporttouristen gibt es
-	- Je mehr Menschen es gibt, desto gibt es mehr Umweltprobleme
+	- Je mehr Menschen es gibt, desto mehr Umweltprobleme gibt es
+
+
+## Partizip I und Partizip II als Adjektive
+
+
+- _Partizip I_
+	- Die _kochenende_ Suppe
+	- Die _spielenden_ Kinder
+		- Das sind Kinder, die gerade spielen
+	- Ein _überzeugendes_ Thema
+
+- _Partizip II_
+	- Die _gekochte_ Suppe
+	- Ein _zerbrochenes_ Glas
+	- Der _getrunkene_ Wein
+
+>[!Notiz]
+>- Partizip I: Aktiv und gleichzeitig
+>- Man muss die adjektives dekliniert
+
+
+
+
 

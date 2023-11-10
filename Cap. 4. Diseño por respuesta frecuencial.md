@@ -714,3 +714,76 @@ $$
 >[!Note]
 >Un compensador en adelanto no puede brindar más de $90°$
 
+
+---
+
+- __Ejemplo__ :
+	- Diseñar un compensador en adelanto
+	- $P_{m}\geq 25°$
+	- $K_{p} = 9$
+
+$$
+\begin{align*}
+	G(s) = \frac{1}{\left( \frac{s}{0.5} +1\right)(s+1)\left( \frac{s}{2}+1 \right)}
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	K_{p} &= \lim_{ s \to 0 } 20\cdot \log_{10} G_{l}(s) \\\\
+	&= \lim_{ s \to 0 } 20\cdot \log_{10}\left( \mid \frac{K}{\left( \frac{s}{0.5} +1\right)(s+1)\left( \frac{s}{2}+1 \right)}\mid \right)
+\end{align*}
+$$
+
+>[!Note]
+>Se podría seguir aumentando $\theta$ para robustecer el diseño. No obstante, el compensador en adelante tiene un límite
+
+>[!Note]
+>El doble de $\omega_{g}$ es aproximadamente $t_{s}$
+
+
+## Compensador atraso-adelanto
+
+Consideremos la planta:
+
+$$
+\begin{align*}
+	G(s) = \frac{1}{s(s+1)(s+2)}
+\end{align*}
+$$
+
+Se propone usar un compensador atraso.adelanto, de tal manera que $P_{m}\geq 50°$ y $K_{v} = 10$ .
+
+$$
+\begin{align*}
+	K_{v} &=  \lim_{ s \to 0 } s\cdot G_{l}(s) \\\\
+	&= \frac{k}{2}
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	k = 20
+\end{align*}
+$$
+
+
+El Bode de $k\cdot G(s)$ es el siguiente:
+
+![](attachments/Pasted%20image%2020231108174103.png)
+
+Si se necesitara un $P_{m} = 60°$, se necesitaría que el compensador en adelanto aporte $88.1°$, esto seguramente no es posible.
+Por tanto, únicamente el compensador en adelanto no es necesario.
+Además, usar sólamente un compensador en atraso, no satisfacería la condición de desempeño.
+
+Se pueden usar ambos compensadores al tiempo para compensar robustez y desempeño.
+
+Si se decide que $\omega_{g} = \omega_{p}$, entonces el compensador en adelanto solo tendría que aportar los $50°$ requeridos (no $78,1°$).
+
+El de atraso bajará la gráfica para que estas frecuencias sean iguales.
+
+Siendo así, el compensador en adelanto pone $56°$, el compensador en atraso baja la gráfica y toma los $6°$ excedentes.
+
+Al actuar el compensador en adelanto, se sube la magnitud $20.6$ . Esto es lo que debe atenuar el compensador en atraso.
+
+

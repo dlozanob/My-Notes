@@ -797,6 +797,8 @@ Genera un cambio de tensión proporcional al cambio de la resistencia.
 
 ![](attachments/Pasted%20image%2020230921134730.png)
 
+![](attachments/Pasted%20image%2020231110103446.png)
+
 La celda se alimenta en $A$ y $C$ ($12\,\,V$). La resistencia de la galga es $R_{x}$.
 La tensión se mide en $D$ y $B$.
 
