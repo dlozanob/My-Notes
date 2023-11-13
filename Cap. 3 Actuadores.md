@@ -967,25 +967,25 @@ Las _electroválvulas_ acoplan una bobina a una válvula neumática.
 
 ## Lógica programada
 
-- _Escalabilidad_
-	- Subir el nivel de aplicación de un PLC
+![](attachments/Pasted%20image%2020231113103114.png)
 
-- Enclavar
-	- (S) -> Set
-	- Allen Bradley: (L) -> Latch
-- Desenclavar
-	- (R) -> Reset
-	- Allen Bradley: (U) -> Unlatch
-
-
-- Dobles -> 16 bits (word)
-
-
+- _PLC_
+	- Programmable Logic Controller
+- _PAC_
+	- Programmable Automation Controller
+- _DCS_
+	- Distributed Control System
 
 >[!Note]
->- Los PLC's de Allen bradley tienen alrededor de $40$ temporizadores
->- Los Timers en Allen Bradley se programan en $ms$
+>- Un _PAC_ tiene todo lo que tiene un _PLC_ y mucho más
+ $PLC < PAC < PC$
+>- Un $\mu C$ no tiene anillos de protección, por tanto, no es candidato para ser usado en un ambiente industrial. Un PLC sí
+>- Lógica cableada -> + Tiempo, + Mantenimiento -> + Accidentes
+>- Siemens usa el protocolo de comunicación MPI
+>	- La primera entrada del proceso en Siemens es la $1124.0$, la siguiente la $1124.1$ hasta la $1124.7$, de acuerdo al número de puertos.
 
+- _Escalabilidad_
+	- Subir el nivel de aplicación de un PLC
 
 >[!Info]
 >Pulsos en cuadratura:
@@ -994,43 +994,86 @@ Las _electroválvulas_ acoplan una bobina a una válvula neumática.
 >
 >Se sabe que el encoder gira en un sentido o en el otro si $Q = 0$ o $Q = 1$
 
+>[!Note]
+>Si se requieren muchos contactores de $120\,\,V\,\,AC$ y el módulo se alimenta con $24\,\,V\,\,DC$, es mejor cambiar el módulo PLC
 
-- Un _PAC_ tiene todo lo que tiene un _PLC_ y mucho más
-	- $PLC < PAC < PC$
-
-- _DCS_ : Distributed Control System
-
-- Un $\mu C$ no tiene anillos de protección, por tanto, no es candidato para ser usadoen un ambiente industrial
-	- Un PLC sí
-
-- Lógica cableada -> + Tiempo, + Mantenimiento -> + Accidentes
-
-- Si se trabaja con un PLC y se agrega el número de componentes, solo basta con agregar más módulos
-
-- PLC
-	- Compacto
-	- Modular
-		- Fuente
-		- Unidad de procesamiento
-		- Módulo de comunicaciones
-		- Módulos de E/S
-
-La gama de un PLC puede ser:
-- $n$ -> nano
-- $\mu$ -> micro
-- $small$
-- $large$
+>[!Info]
+>El estándar de corriente para entregar corriente a largas distancias es: $4-20\,\,mA$
+>![](attachments/Pasted%20image%2020231106214404.png)
 
 
-- Los anillos de seguridad (_isolation barrier_) están en las interfaces E/S
+### Norma ISO IEC 61131
 
-![](attachments/Pasted%20image%2020231106211440.png)
+Publicada por la Comisión Electrotécnica Internacional.
+Estandariza los autómatas programables.
+
+![](attachments/Pasted%20image%2020231113103021.png)
+
+![](attachments/Pasted%20image%2020231106214917.png)
+
+![](attachments/Pasted%20image%2020231113110230.png)
 
 
-- Siemens usa el protocolo de comunicación MPI
+### Clasificación de PLC's
 
-- La primera entrada del proceso en Siemens es la $1124.0$, la siguiente la $1124.1$ hasta la $1124.7$, de acuerdo al número de puertos.
+- Según su formato
+	- _Compacto_
+		- Aplicaciones sencillas
+		- Un solo módulo, contiene: CPU, E/S, memoria, batería
+		
+		![](attachments/Pasted%20image%2020231113103432.png)
 
+	- _Modular_
+		- Aplicaciones con varias E/S
+		- Varios módulos: CPU, E/S (análogas y digitales), comunicaciones, fuente
+		
+		![](attachments/Pasted%20image%2020231113103456.png)
+
+- Según su tamaño:
+
+![](attachments/Pasted%20image%2020231113103641.png)
+
+
+### Arquitectura de un PLC
+
+![](attachments/Pasted%20image%2020231113104105.png)
+
+![](attachments/Pasted%20image%2020231113104137.png)
+
+
+### Módulo CPU
+
+![](attachments/Pasted%20image%2020231113104307.png)
+
+Incluye:
+- Unidad de control
+- ROM del sistema operativo
+- Memoria de programa
+- Acumulador
+- Imágenes de proceso de E/S
+- Temporizadores, contadores y marcas
+
+
+### Módulos E/S
+
+- Entrada digital:
+
+![](attachments/Pasted%20image%2020231113104401.png)
+
+- Salida digital
+
+![](attachments/Pasted%20image%2020231113104434.png)
+
+- Entrada análoga
+
+![](attachments/Pasted%20image%2020231113104510.png)
+
+- Salida análoga
+
+![](attachments/Pasted%20image%2020231113104614.png)
+
+>[!Note]
+>Los módulos de entrada análoga pueden ser de voltaje o de corriente
 
 ![](attachments/Pasted%20image%2020231106213538.png)
 
@@ -1042,22 +1085,73 @@ La gama de un PLC puede ser:
 		- Diseñado para suministrar corriente
 		- El PLC es una fuente
 
+- Los anillos de seguridad (_isolation barrier_) están en las interfaces E/S
+
+![](attachments/Pasted%20image%2020231106211440.png)
+
+
+### Ciclo de operación del PLC
+
+![](attachments/Pasted%20image%2020231113105351.png)
+
+- _Scan Cycle_
+	- Capturar entradas
+	- Correr el programa
+	- Actualizar salidas
+
+- _Tiempo de ciclo de escala (scan time)_
+	- Tiempo total de procesamiento ($1$ ciclo de operación)
 
 >[!Note]
->Si se requieren muchos contactores de $120\,\,V\,\,AC$ y el módulo se alimenta con $24\,\,V\,\,DC$, es mejor cambiar el módulo PLC
-
-- El estándar de corriente para entregar corriente a largas distancias es: $4-20\,\,mA$
-
-![](attachments/Pasted%20image%2020231106214404.png)
-
-- Un PLC primero procesa todo el programa, después dispone del resultado
-	- No muestra mientras procesa
-
-- _Tiempo de ciclo de escala_
-	- Tiempo total de procesamiento
+>Un PLC primero procesa todo el programa, después dispone del resultado. No muestra mientras procesa
 
 
-![](attachments/Pasted%20image%2020231106214917.png)
+### Aplicaciones de programación
+
+![](attachments/Pasted%20image%2020231113105529.png)
+
+- Enclavar
+	- (S) -> Set
+	- Allen Bradley: (L) -> Latch
+- Desenclavar
+	- (R) -> Reset
+	- Allen Bradley: (U) -> Unlatch
+
+>[!Note]
+>- Los PLC's de Allen bradley tienen alrededor de $40$ temporizadores
+>- Los Timers en Allen Bradley se programan en $ms$
+
+
+### Data types
+
+![](attachments/Pasted%20image%2020231113105934.png)
+
+- Bool
+- Int
+- Real
+- Byte
+- Palabra
+	- 16 bits
+- Date
+- Hora del día
+- String
+
+
+### POU
+
+- _POU_
+	- Programm Organization Units
+
+Son bloques funcionales:
+- ADD
+- ABS
+- SQRT
+- SIN
+- COS
+
+
+
+
 
 
 

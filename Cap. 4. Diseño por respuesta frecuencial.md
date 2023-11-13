@@ -786,4 +786,5 @@ Siendo así, el compensador en adelanto pone $56°$, el compensador en atraso ba
 
 Al actuar el compensador en adelanto, se sube la magnitud $20.6$ . Esto es lo que debe atenuar el compensador en atraso.
 
-
+>[!Note]
+>Si la planta tiene muchos polos, puede haber problemas con los compensadores en adelante

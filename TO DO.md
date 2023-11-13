@@ -5,7 +5,7 @@
 
 - [ ] Control
 	- [ ] Apuntes
-	- [ ] Reto 5: 12 NOV
+	- [x] Reto 5: 12 NOV
 	- [x] Reto 3
 	- [x] Parcial: Miércoles
 	- [x] Viernes: Proponer experimento de medida de ganancia
@@ -30,7 +30,7 @@
 		- [x] Punto 1
 		- [x] Punto 2
 	- [x] Tarea 6: 24 de octubre
-	- [ ] Video: 10 de Noviembre
+	- [x] Video: 10 de Noviembre
 	- [x] Práctica 3: 3 de Noviembre
 	- [x] Práctica 4: 7 de Noviembre
 	- [ ] Práctica 5
@@ -38,8 +38,9 @@
 - [ ] TPI
 	- [x] Escrito: LUNES
 		- [x] Especificar los rangos en _Especificaciones_
-	- [ ] Página Web: 15 de Noviembre
+	- [x] Página Web: 15 de Noviembre
 	- [x] OVAS: Lunes
+	- [ ] Dentro de la página wix se debe incluir un vídeo donde se describe el proyecto en 1 minuto. En este se presenta el problema, se plantea la solución, se ve la aplicación del diseño en ingeniería y se presenta la viabilidad del proyecto desde los ámbitos (económico, social, tecnológico y ambiental).
 
 - [ ] Diseño de Elementos de Máquinas I
 	- [x] Proyecto

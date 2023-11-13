@@ -4,11 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "91d6bb6e4b8f1582",
+        "id": "65d4295907370074",
         "type": "tabs",
         "children": [
           {
-            "id": "0b76c84f8e7548a9",
+            "id": "631f12b503d22714",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cap. 3 Actuadores.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bb6e91433cfb7e91",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -16,33 +28,8 @@
                 "file": "Excalidraw/whiteboard.excalidraw.md"
               }
             }
-          },
-          {
-            "id": "f6b9662969924068",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linked note.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a5e9e64315cf0409",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Deutsch_B1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deutsch_B1.md",
+                "file": "Cap. 3 Actuadores.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deutsch_B1.md",
+                "file": "Cap. 3 Actuadores.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deutsch_B1.md"
+                "file": "Cap. 3 Actuadores.md"
               }
             }
           },
@@ -224,40 +211,41 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a5e9e64315cf0409",
+  "active": "631f12b503d22714",
   "lastOpenFiles": [
+    "attachments/Pasted image 20231113110230.png",
+    "attachments/Pasted image 20231113105934.png",
+    "Excalidraw/attachments/Pasted Image 20231113105931_600.png",
     "Excalidraw/whiteboard.excalidraw.md",
-    "Deutsch_B1.md",
+    "Cap. 3 Actuadores.md",
+    "attachments/Pasted image 20231113105916.png",
+    "attachments/Pasted image 20231113105529.png",
+    "attachments/Pasted image 20231113105351.png",
+    "attachments/Pasted image 20231113105343.png",
+    "attachments/Pasted image 20231113105338.png",
+    "Excalidraw/attachments/Pasted Image 20231113105303_808.png",
+    "Excalidraw/attachments/Pasted Image 20231113105303_796.png",
+    "Excalidraw/attachments/Pasted Image 20231113105246_793.png",
+    "TO DO.md",
+    "Sensores y Actuadores.md",
     "Linked note.md",
-    "Excalidraw/attachments/Pasted Image 20231110151558_360.png",
+    "LaTeX.md",
+    "Cap. 4. Diseño por respuesta frecuencial.md",
+    "Control.md",
+    "Excalidraw/blackboard.excalidraw.md",
+    "Deutsch_A1.md",
+    "Deutsch_B1.md",
     "Deutsch.md",
-    "Excalidraw/attachments/Pasted Image 20231110143611_360.png",
-    "Excalidraw/attachments/Pasted Image 20231110142451_375.png",
-    "Excalidraw/attachments/Pasted Image 20231110142436_363.png",
-    "Excalidraw/attachments/Pasted Image 20231110141326_364.png",
-    "Excalidraw/attachments/Pasted Image 20231110140321_368.png",
     "Laboratorio de Control.md",
     "Análisis dinámico.md",
     "Estática de Fluidos.md",
-    "Control.md",
-    "TO DO.md",
     "Cap. 2 Metrología.md",
-    "attachments/Pasted image 20231110103446.png",
-    "Sensores y Actuadores.md",
-    "LaTeX.md",
-    "Cap. 4. Diseño por respuesta frecuencial.md",
-    "attachments/Pasted image 20231108174103.png",
-    "Excalidraw/blackboard.excalidraw.md",
     "Uniones.md",
-    "attachments/Pasted image 20231108125525.png",
-    "attachments/Pasted image 20231108124940.png",
     "Diseño de Elementos de Máquinas I.md",
     "Ingeniería de Diseño.md",
     "Main.md",
     "Deutsch_A2.md",
     "Präpositionen.md",
-    "Deutsch_A1.md",
-    "Cap. 3 Actuadores.md",
     "Cap. 1 Instrumentación.md",
     "Automatización, Control y Robótica.md",
     "Automatización%2C Control y Robótica.md",

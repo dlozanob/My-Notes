@@ -9,7 +9,7 @@ Hey! This is a linked note.
 - Handwerk -> Oficio
 - Handel -> Comercio
 - Theateraufführungen -> Representación teatral
-- Heutzutage ->Hoy en día
+- Heutzutage -> Hoy en día
 - Begriff -> Concepto
 - Gleichgesetzt mit -> Equiparar
 - Ausstellung -> Exposición
@@ -67,7 +67,7 @@ Hey! This is a linked note.
 - Mulde -> Hoyo
 - Anwohner -> Residente
 - Bundeswehr -> Ejército de la República Federal de Alemania
-- Retten de -> Salvar de
+- Retten -> Salvar de
 - Lahm -> Cojo
 - Entwurzelte -> Arrancado
 - Abdecken -> Destapado
@@ -109,6 +109,11 @@ Hey! This is a linked note.
 - Betreff -> Asunto
 - Überzeugen -> Convencer
 - Erziehen -> Educar
+- Alleinerziehendevater -> Padre soltero
+
+
+
+
+
 
 ---
-
