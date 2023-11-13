@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cap. 3 Actuadores.md",
-                "mode": "source",
+                "file": "Sensores y Actuadores.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cap. 3 Actuadores.md",
+                "file": "Sensores y Actuadores.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cap. 3 Actuadores.md",
+                "file": "Sensores y Actuadores.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cap. 3 Actuadores.md"
+                "file": "Sensores y Actuadores.md"
               }
             }
           },
@@ -213,19 +213,18 @@
   },
   "active": "631f12b503d22714",
   "lastOpenFiles": [
-    "attachments/Pasted image 20231113110230.png",
-    "attachments/Pasted image 20231113105934.png",
-    "Excalidraw/attachments/Pasted Image 20231113105931_600.png",
-    "Excalidraw/whiteboard.excalidraw.md",
     "Cap. 3 Actuadores.md",
-    "attachments/Pasted image 20231113105916.png",
-    "attachments/Pasted image 20231113105529.png",
-    "attachments/Pasted image 20231113105351.png",
-    "attachments/Pasted image 20231113105343.png",
-    "attachments/Pasted image 20231113105338.png",
-    "Excalidraw/attachments/Pasted Image 20231113105303_808.png",
-    "Excalidraw/attachments/Pasted Image 20231113105303_796.png",
-    "Excalidraw/attachments/Pasted Image 20231113105246_793.png",
+    "attachments/Pasted image 20231113112647.png",
+    "attachments/Pasted image 20231113112601.png",
+    "attachments/Pasted image 20231113112503.png",
+    "attachments/Pasted image 20231113112219.png",
+    "Excalidraw/whiteboard.excalidraw.md",
+    "attachments/Pasted image 20231113112156.png",
+    "Excalidraw/attachments/Pasted Image 20231113112135_477.png",
+    "Excalidraw/attachments/Pasted Image 20231113112124_408.png",
+    "attachments/Pasted image 20231113111805.png",
+    "attachments/Pasted image 20231113111723.png",
+    "attachments/Pasted image 20231113111557.png",
     "TO DO.md",
     "Sensores y Actuadores.md",
     "Linked note.md",

@@ -984,9 +984,6 @@ Las _electroválvulas_ acoplan una bobina a una válvula neumática.
 >- Siemens usa el protocolo de comunicación MPI
 >	- La primera entrada del proceso en Siemens es la $1124.0$, la siguiente la $1124.1$ hasta la $1124.7$, de acuerdo al número de puertos.
 
-- _Escalabilidad_
-	- Subir el nivel de aplicación de un PLC
-
 >[!Info]
 >Pulsos en cuadratura:
 >![](attachments/Pasted%20image%2020231106205916.png)
@@ -1150,33 +1147,84 @@ Son bloques funcionales:
 - COS
 
 
+### Selección de un PLC
+
+1. Número de E/S digitales y análogas
+2. Número de temporizadores y contadores
+3. Capacidad de memoria
+4. Comunicaciones
+5. Escalabilidad
+	- ¿Qué tanto se puede subir el nivel de aplicación del PLC?
+6. Módulos especiales
+	- PID
+	- Motion Control
+	- IA
+7. Seguridad
+8. Software
+9. Precio
 
 
+### Temporizadores
+
+![](attachments/Pasted%20image%2020231113111449.png)
+
+- _PRESET_T_
+	- Tiempo de activación en la salida
+- _ACC_
+	- Tiempo acumulado
+
+- Tipos de temporizadores:
+	- _ON Delay_
+		- Se activa luego de un tiempo
+		
+		![](attachments/Pasted%20image%2020231113111539.png)
+	
+	- _OFF Delay_
+		- Se desactiva luego de un tiempo
+		
+		![](attachments/Pasted%20image%2020231113111557.png)
+	
+	- _De impulso_
+		
+		![](attachments/Pasted%20image%2020231113111723.png)
 
 
+### Contadores
+
+![](attachments/Pasted%20image%2020231113111805.png)
+
+Después de ciertos pulsos (_PRESET_C_) se activa la salida _Q_.
+
+- Tipos de contadores
+	- Ascendente
+	- Descente
+	- Ascendente/Descente
+		- Tiene un bit para alternar el modo
 
 
+### SFC
+
+![](attachments/Pasted%20image%2020231113112219.png)
 
 
+### Simulación con PLC
 
+Programas:
+- FESTO FluidSim Neumatics
+- CodeSys
+- EzOPC
 
+En FESTO se construyen las conexiones:
 
+![](attachments/Pasted%20image%2020231113112503.png)
 
+En CodeSys se diseña el programa en LADDER:
 
+![](attachments/Pasted%20image%2020231113112601.png)
 
+CodeSys tiene un programa (_CoDeSys SP PLCWinNT_) para correr el PLC virtual:
 
+![](attachments/Pasted%20image%2020231113112647.png)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Para la configuración ver:
+- [Configuración del entorno](https://www.youtube.com/watch?v=NbWNEiCUFwM)
