@@ -501,5 +501,19 @@ $$
 
 
 
+>[!Note]
+>En juntas no confinadas se tienen $3$ tronco-conos. La parte media (empaque) es no rígida.
+>La rigidez total de la junta disminuye
+
+$K_{2}$ es muy pequeña con respecto a las otras. $K_{eq}$ se reduce.
+
+$$
+\begin{align*}
+	\frac{1}{k_{eq}} = \frac{1}{k_{1}} + \frac{1}{k_{2}} + \frac{1}{k_{3}}
+\end{align*}
+$$
+
+Por esto, la forma correcta de meter un empaque a la junta es con un empaque confinado.
+
 
 

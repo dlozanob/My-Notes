@@ -4,23 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "5e3b25c871f6e6c2",
+        "id": "4646f1827ba78a4a",
         "type": "tabs",
         "children": [
           {
-            "id": "78883e1bb59ffc91",
+            "id": "4c5713b910770937",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Uniones.md",
+                "file": "Cap. 5. Diseño con ecuaciones de estado.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "918a44690220cdec",
+            "id": "bc0ea94a176cde23",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Uniones.md",
+                "file": "Cap. 5. Diseño con ecuaciones de estado.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Uniones.md",
+                "file": "Cap. 5. Diseño con ecuaciones de estado.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Uniones.md"
+                "file": "Cap. 5. Diseño con ecuaciones de estado.md"
               }
             }
           },
@@ -183,7 +183,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"\"",
+                "query": "\"realizaciones\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -211,25 +211,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "78883e1bb59ffc91",
+  "active": "4c5713b910770937",
   "lastOpenFiles": [
-    "attachments/Pasted image 20231115121039.png",
+    "attachments/Pasted image 20231115171504.png",
     "Excalidraw/blackboard.excalidraw.md",
+    "Cap. 5. Diseño con ecuaciones de estado.md",
+    "attachments/Pasted image 20231115170036.png",
+    "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
+    "attachments/Pasted image 20231115162443.png",
+    "Control.md",
+    "Linked note.md",
+    "Excalidraw/whiteboard.excalidraw.md",
     "Uniones.md",
+    "attachments/Pasted image 20231115121039.png",
     "attachments/Pasted image 20231115120531.png",
     "attachments/Pasted image 20231115120326.png",
     "attachments/Pasted image 20231115120036.png",
     "attachments/Pasted image 20231115115528.png",
-    "Linked note.md",
     "Diseño de Elementos de Máquinas I.md",
-    "Excalidraw/whiteboard.excalidraw.md",
     "Deutsch_A2.md",
     "Excalidraw/attachments/Pasted Image 20231115093859_050.png",
     "Excalidraw/attachments/Pasted Image 20231115093148_472.png",
     "Excalidraw/attachments/Pasted Image 20231115001007_851.png",
-    "Excalidraw/attachments/Pasted Image 20231115000230_467.png",
-    "Excalidraw/attachments/Pasted Image 20231114234946_498.png",
-    "Excalidraw/attachments/Pasted Image 20231114234829_472.png",
     "TO DO.md",
     "Cap. 5 Sensores.md",
     "Cap. 1 Instrumentación.md",
@@ -239,7 +242,6 @@
     "Deutsch.md",
     "Cap. 4 Adquisición de datos.md",
     "Cap. 4. Diseño por respuesta frecuencial.md",
-    "Control.md",
     "Diseño de ejes.md",
     "Cap. 3 Actuadores.md",
     "LaTeX.md",
@@ -247,8 +249,6 @@
     "Laboratorio de Control.md",
     "Análisis dinámico.md",
     "Estática de Fluidos.md",
-    "Ingeniería de Diseño.md",
-    "Main.md",
     "Local Backup.rar",
     "Local Notes Backup.rar",
     "attachments",

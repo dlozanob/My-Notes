@@ -119,9 +119,29 @@ Desorientación, obstáculos urbanos, infraestructura sin conciencia, imprudenci
 
 - Solución (30)
 
+En varias ocasiones, los bastones blancos no son suficientes.
 
+Nuestro equipo, propone un dispositivo que facilita el desplazamiento de estas personas, utilizando un diseño modular con varias aplicaciones.
 
+Consiste de un sistema de detección de obstáculos sobre una pechera.
 
+El módulo principal, cuenta con un sensor ultrasónico que bajo el principio de ecolocalización detecta objetos a $1$ metro de distancia, una vez sucede esto, un buzzer emite un sonido durante dos segundos para alertar a la persona.
 
+Por un precio adicional, pueden adquirirse módulos especiales, acoplables al módulo principal. Como un módulo de inteligencia artificial y asistente de voz.
 
 - Viabilidad (20)
+	- Ambiental
+		- La carcasa del dispositivo es hecha con filamento PLA, este no genera impactos negativos en el medio ambiente
+	- Tecnológico
+		- El microcontrolador cuenta con los puertos digitales suficientes para los periféricos requeridos
+		- El sensor cuenta con un rango óptimo para la aplicación 
+	- Político
+	- Económicos
+		- El diseño modular permite que el prototipo sea más adsequible para nuestros clientes
+	- Social
+
+
+
+
+
+
