@@ -355,6 +355,8 @@ $$
 \end{align*}
 $$
 
+- $F_{i}$ : Precarga
+
 
 >[!Note]
 >$S_{p}$ : Esfuerzo de trabajo -> Esfuerzo máximo al que se debería someter un tornillo estructural
@@ -459,6 +461,43 @@ $$
 $$
 
 Con la rigidez de la junta y del tornillo se puede determinar $C$ y así mismo las reservas mecánicas.
+
+
+Los tornillos tienen $2$ puntos de concentración de esfuerzos:
+- Rosca
+- Filete -> Unión vástago-cabeza
+
+
+### Medir precarga aplicada
+
+
+- _Elongación del tornillo_
+	- La más sencilla y precisa, conociendo su rigidez y elongación se puede conocer su precarga
+
+- _Cantidad de vueltas_
+
+$$
+\begin{align*}
+	&\frac{F_{i}}{K_{b}} + \frac{F_{i}}{K_{m}}=n\cdot p \\\\
+	& F_{i}\left( \frac{1}{K_{b}}+\frac{1}{K_{m}} \right) = n\cdot p \\\\
+	& F_{i}\left( \frac{K_{m}+K_{b}}{K_{b}K_{m}} \right)=n\cdot p \\\\
+	&n = \frac{F_{i}}{p}\left( \frac{K_{m}+K_{b}}{K_{b}K_{m}} \right)
+\end{align*}
+$$
+
+
+
+- _Torquear_
+	- Es la más práctica, la más usada, pero la más imprecisa
+		- El coeficiente de fricción varía bastante, lubricar el tornillo puede ser una solución
+	- Se usa un torquímetro
+		- Utiliza la ecuación de torque en función de la precarga
+
+- _Galgas (indicadores de precarga directa)_
+	- La galga no cederá más una vez que se alcance la precarga deseada
+	- Precisos
+	- Costosos
+
 
 
 
