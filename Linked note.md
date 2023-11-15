@@ -111,9 +111,17 @@ Hey! This is a linked note.
 - Erziehen -> Educar
 - Alleinerziehendevater -> Padre soltero
 
-
-
-
-
-
 ---
+
+- Presentación del problema (10)
+
+Desorientación, obstáculos urbanos, infraestructura sin conciencia, imprudencia, peligros al cruzar una calle, nombrar el día a día de un invidente no es suficiente para describir lo difícil que es para ellos desplazarse por la ciudad de Bogotá.
+
+- Solución (30)
+
+
+
+
+
+
+- Viabilidad (20)

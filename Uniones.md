@@ -297,3 +297,170 @@ La carga es mayor en el elemento con mayor rigidez.
 
 ![](attachments/Pasted%20image%2020231108125525.png)
 
+
+---
+
+# Clase 15 - Nov
+
+
+## Montaje con precarga
+
+$$
+\begin{align*}
+	P &= P_{b}+P_{m} \\\\
+	&= k_{b}\Delta\delta+k_{m}\Delta\delta \\\\
+	&= (k_{b}+k_{m})\Delta\delta
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	\Delta\delta=\frac{P}{k_{m}+k_{b}}
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	P_{b}&= k_{b}\Delta\delta \\\\
+	&= \frac{k_{b}}{k_{m}+k_{b}}P \\\\
+	&= C\cdot P
+\end{align*}
+$$
+
+- $k_{b}$ : Rigidez del tornillo
+- $k_{m}$ : Rigidez de la junta
+
+
+Si $k_{m}\gg k_{b}$ -> $C \to 0$ y $P_{b} \to 0$
+
+$$
+\begin{align*}
+	P_{m} &= \frac{k_{m}}{k_{b}+k_{m}}P \\\\
+	&= (1-C)P
+\end{align*}
+$$
+
+Como $P_{b} = P_{m} = F_{i}$ , la carga de trabajo quee genera la separación de la junta es:
+
+
+$$
+\begin{align*}
+	P_{m}=F_{i}=(1-C)P_{0}
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	P_{0} = \frac{F_{i}}{1-C}
+\end{align*}
+$$
+
+
+>[!Note]
+>$S_{p}$ : Esfuerzo de trabajo -> Esfuerzo máximo al que se debería someter un tornillo estructural
+
+
+$$
+\begin{align*}
+	F_{b}&=F_{i}+P_{b} \\\\
+	&= F_{i}+CP
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	\frac{F_{b}}{A_{t}}=\frac{F_{i}}{A_{t}}+\frac{CP}{A_{t}}\leq S_{p}
+\end{align*}
+$$
+
+¿Cuántas veces se debería incrementar la carga de trabajo para que $P$ alcance el valor de $S_{p}$?
+
+$$
+\begin{align*}
+	\frac{F_{b}}{A_{t}}=\frac{F_{i}}{A_{t}}+\frac{CP\cdot n}{A_{t}}\leq S_{p}
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	n = \frac{S_{p}A_{t}-F_{i}}{CP}
+\end{align*}
+$$
+
+$n$ es un factor de seguridad que indica qué tan lejos está el tornillo de someterse al esfuerzo de prueba.
+
+
+En una barra:
+
+![](attachments/Pasted%20image%2020231115115528.png)
+
+Su rigidez es:
+
+$$
+\begin{align*}
+	\delta = \frac{PL}{EA} \to P=\frac{EA}{L}\delta
+ \end{align*}
+$$
+
+$$
+\begin{align*}
+	k = \frac{EA}{L}
+\end{align*}
+$$
+
+¿Cómo calcular la rigidez de la junta?
+
+$$
+\begin{align*}
+	k = \frac{EA}{L}
+\end{align*}
+$$
+
+Si son dos cilindros:
+
+![](attachments/Pasted%20image%2020231115120036.png)
+
+$$
+\begin{align*}
+	A=\frac{\pi}{4}(d_{ext}^{2}-d^{2})
+\end{align*}
+$$
+
+
+Pero si son dos láminas:
+
+![](attachments/Pasted%20image%2020231115120326.png)
+
+La zona que realmente soporta la compresión se puede aproximar a un trunco-cono.
+
+
+![](attachments/Pasted%20image%2020231115121039.png)
+
+>[!Note]
+>Se utiliza $\alpha=30°$, es el modelo más usado
+
+Se puede decir que:
+
+$$
+\begin{align*}
+	&D = 1.5\cdot d \\\\
+	&t = \frac{l}{2}
+\end{align*}
+$$
+
+- $l$ : Altura de ambas juntas unidas
+
+La rigidez total de la junta es la de los 2 tronco-conos. Como se pueden modelar como resortes en serie (actúa la misma carga sobre ellos), entonces:
+
+$$
+\begin{align*}
+	\frac{1}{k_{m}} = \frac{2}{k}
+\end{align*}
+$$
+
+Con la rigidez de la junta y del tornillo se puede determinar $C$ y así mismo las reservas mecánicas.
+
+
+
+
+

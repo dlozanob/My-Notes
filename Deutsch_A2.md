@@ -277,6 +277,9 @@ Mit Ob-Sätzen kann man indirekte Ja/Nein Fragen bilden.
 >- Schreiben -> Präteritum
 >- Sprechen -> Perfekt
 
+>[!Notiz]
+>Modal Verben, Sein, Haben -> Präteritum
+
 
 ### Modalverben in Präteritum
 

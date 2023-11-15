@@ -213,6 +213,39 @@
 >- Man muss die adjektives dekliniert
 
 
+## Plusquamperfekt
+
+![](attachments/Pasted%20image%2020231114115037.png)
+
+| | Haben | Sein |
+|-|-|-|
+| ich | hatte | war|
+|du|hattest|warst|
+|er/sie/es|hatte|war|
+|wir|hatten|waren|
+|ihr|hattet|wart|
+|sie/Sie|hatten|waren|
+
+- _Bsp_
+	- Nachdem ich die H.A _aufgehört hatte_, _ging_ ich zum Park _spazieren_
+	- Nachdem Sara das Mittagessen _gekocht habe_, _kam_ ihre Mutter zu Hause _an_
+	- Nachdem Peter zu Hause _angekommen war_, _sah_ er _fern_
+
+>[!Notiz]
+>Zuerst -> Plusquamp.
+>Danach -> Präteritum
+
+- _Bsp_
+	- Sie ist zu spät aufgestanden, denn der Wecker hatte nicht geklingelt
+	- Sie hatte vergessen den Wecker anzustellen, denn der Wecker hat nicht geklingelt
+
+
+
+
+
+
+
+
 
 
 

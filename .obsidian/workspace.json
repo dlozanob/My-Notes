@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "65d4295907370074",
+        "id": "5e3b25c871f6e6c2",
         "type": "tabs",
         "children": [
           {
-            "id": "631f12b503d22714",
+            "id": "78883e1bb59ffc91",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sensores y Actuadores.md",
-                "mode": "preview",
+                "file": "Uniones.md",
+                "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "bb6e91433cfb7e91",
+            "id": "918a44690220cdec",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/whiteboard.excalidraw.md"
+                "file": "Excalidraw/blackboard.excalidraw.md"
               }
             }
           }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sensores y Actuadores.md",
+                "file": "Uniones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sensores y Actuadores.md",
+                "file": "Uniones.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sensores y Actuadores.md"
+                "file": "Uniones.md"
               }
             }
           },
@@ -211,43 +211,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "631f12b503d22714",
+  "active": "78883e1bb59ffc91",
   "lastOpenFiles": [
-    "Cap. 3 Actuadores.md",
-    "attachments/Pasted image 20231113112647.png",
-    "attachments/Pasted image 20231113112601.png",
-    "attachments/Pasted image 20231113112503.png",
-    "attachments/Pasted image 20231113112219.png",
-    "Excalidraw/whiteboard.excalidraw.md",
-    "attachments/Pasted image 20231113112156.png",
-    "Excalidraw/attachments/Pasted Image 20231113112135_477.png",
-    "Excalidraw/attachments/Pasted Image 20231113112124_408.png",
-    "attachments/Pasted image 20231113111805.png",
-    "attachments/Pasted image 20231113111723.png",
-    "attachments/Pasted image 20231113111557.png",
-    "TO DO.md",
-    "Sensores y Actuadores.md",
-    "Linked note.md",
-    "LaTeX.md",
-    "Cap. 4. Diseño por respuesta frecuencial.md",
-    "Control.md",
+    "attachments/Pasted image 20231115121039.png",
     "Excalidraw/blackboard.excalidraw.md",
-    "Deutsch_A1.md",
+    "Uniones.md",
+    "attachments/Pasted image 20231115120531.png",
+    "attachments/Pasted image 20231115120326.png",
+    "attachments/Pasted image 20231115120036.png",
+    "attachments/Pasted image 20231115115528.png",
+    "Linked note.md",
+    "Diseño de Elementos de Máquinas I.md",
+    "Excalidraw/whiteboard.excalidraw.md",
+    "Deutsch_A2.md",
+    "Excalidraw/attachments/Pasted Image 20231115093859_050.png",
+    "Excalidraw/attachments/Pasted Image 20231115093148_472.png",
+    "Excalidraw/attachments/Pasted Image 20231115001007_851.png",
+    "Excalidraw/attachments/Pasted Image 20231115000230_467.png",
+    "Excalidraw/attachments/Pasted Image 20231114234946_498.png",
+    "Excalidraw/attachments/Pasted Image 20231114234829_472.png",
+    "TO DO.md",
+    "Cap. 5 Sensores.md",
+    "Cap. 1 Instrumentación.md",
+    "Cap. 2 Metrología.md",
+    "Sensores y Actuadores.md",
     "Deutsch_B1.md",
     "Deutsch.md",
+    "Cap. 4 Adquisición de datos.md",
+    "Cap. 4. Diseño por respuesta frecuencial.md",
+    "Control.md",
+    "Diseño de ejes.md",
+    "Cap. 3 Actuadores.md",
+    "LaTeX.md",
+    "Deutsch_A1.md",
     "Laboratorio de Control.md",
     "Análisis dinámico.md",
     "Estática de Fluidos.md",
-    "Cap. 2 Metrología.md",
-    "Uniones.md",
-    "Diseño de Elementos de Máquinas I.md",
     "Ingeniería de Diseño.md",
     "Main.md",
-    "Deutsch_A2.md",
-    "Präpositionen.md",
-    "Cap. 1 Instrumentación.md",
-    "Automatización, Control y Robótica.md",
-    "Automatización%2C Control y Robótica.md",
     "Local Backup.rar",
     "Local Notes Backup.rar",
     "attachments",
