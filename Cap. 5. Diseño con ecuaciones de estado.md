@@ -120,9 +120,7 @@ $$
 $$
 
 
-![](attachments/Pasted%20image%2020231115170036.png)
-
-Retomando $Y(s)$ :
+- Retomando $Y(s)$ :
 
 $$
 \begin{align*}
@@ -136,7 +134,7 @@ $$
 \end{align*}
 $$
 
-![](attachments/Pasted%20image%2020231115171504.png)
+![](attachments/Pasted%20image%2020231115172635.png)
 
 Donde:
 
@@ -218,4 +216,192 @@ x_{n}(t)
 \end{align*}
 $$
 
+---
+
+- __Ejemplo__ :
+
+Considere la planta:
+
+$$
+\begin{align*}
+	G(s) = \frac{s+4}{s^{2}-s+3}
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	Y(s) &= (s+4)\left( \frac{1}{s^{2}-s+3} \cdot U(s)\right) \\\\
+	&= (s+4)\cdot F(s)
+\end{align*}
+$$
+
+Entonces:
+
+$$
+\begin{align*}
+	U(s) &= (s^{2}-s+3)\cdot F(s) \\\\
+	&= s^{2}F-sF+3F
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	s^{2}F = U(s)+sF-3F
+\end{align*}
+$$
+
+
+![](attachments/Pasted%20image%2020231115173624.png)
+
+$$
+\begin{align*}
+	\dot{x}(t)=
+	\begin{pmatrix}
+0 & 1 \\
+-3 & 1
+\end{pmatrix}
+x(t)
++
+\begin{pmatrix}
+0 \\
+1
+\end{pmatrix}\cdot u(t)
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	y(t)=\begin{pmatrix}
+4 & 1
+\end{pmatrix}\cdot x(t)
+\end{align*}
+$$
+
+Se estabiliza el sistema con valores propios.
+
+Se ubican polos por ejemplo en: $(-10, -5)$
+
+El objetivo es utilizar una realimentación de estados:
+
+$$
+\begin{align*}
+	\boxed{u=-k_{1}x_{1}-k_{2}x_{2}}
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	p(s)&=\det(sI-A)=0 \\\\
+	&= \det(
+	\begin{pmatrix}
+s & 0 \\
+0 & s
+\end{pmatrix}-\begin{pmatrix}
+0 & 1 \\
+-3 & 1
+\end{pmatrix})
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	\det(
+	\begin{pmatrix}
+s & -1 \\
+3 & s-1
+\end{pmatrix})=s^{2}-s+3
+\end{align*}
+$$
+
+Es el mismo denominador de $G(s)$ .
+
+$$
+\begin{align*}
+	B\cdot u(t)=\begin{pmatrix}
+0 \\
+1
+\end{pmatrix}
+(-k_{1}x_{1}-k_{2}x_{2})
+\end{align*}
+$$
+
+Como:
+
+$$
+\begin{align*}
+	\dot{x}(t)=A\cdot x(t)+B\cdot u(t)
+\end{align*}
+$$
+
+Entonces:
+
+$$
+\begin{align*}
+	\left\{
+	\begin{array}{lcc}
+		\dot{x}_{1}=x_{2} \\
+\dot{x}_{2}=3x_{1}+x_{2}-k_{1}x_{1}-k_{2}x_{2}
+	\end{array}
+	\right.
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	\left\{
+	\begin{array}{lcc}
+		\dot{x}_{1}=x_{2} \\
+\dot{x}_{2}=(-3-k_{1})x_{1}+(1-k_{2})x_{2}
+	\end{array}
+	\right.
+\end{align*}
+$$
+
+Matriz $A$ de la realización forma controlable:
+
+$$
+\begin{align*}
+	A_{c}=
+	\begin{pmatrix}
+0 & 1 \\
+-3-k_{1} & 1-k_{2}
+\end{pmatrix}
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	\det(sI-A_{c})&= \begin{pmatrix}
+s & -1 \\
+3+k_{1} & s-1+k_{2}
+\end{pmatrix}=0
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	\det(sI-A_{c})=s^{2}+(k_{2}-1)s+k_{1}+3
+\end{align*}
+$$
+
+El polinomio deseado (de acuerdo a los polos elegidos), se iguala a esta determinante:
+
+$$
+\begin{align*}
+	(s+10)(s+5)=s^{2}+(k_{2}-1)s+(k_{1}+3)
+\end{align*}
+$$
+
+Entonces:
+
+$$
+\begin{align*}
+	\left\{
+	\begin{array}{lcc}
+		k_{1}=47 \\
+k_{2}=16
+	\end{array}
+	\right.
+\end{align*}
+$$
 
