@@ -17,7 +17,7 @@
 	- [ ] Proyecto
 
 - [ ] TPI
-	- [ ] Dentro de la página wix se debe incluir un vídeo donde se describe el proyecto en 1 minuto. En este se presenta el problema, se plantea la solución, se ve la aplicación del diseño en ingeniería y se presenta la viabilidad del proyecto desde los ámbitos (económico, social, tecnológico y ambiental).
+	- [x] Dentro de la página wix se debe incluir un vídeo donde se describe el proyecto en 1 minuto. En este se presenta el problema, se plantea la solución, se ve la aplicación del diseño en ingeniería y se presenta la viabilidad del proyecto desde los ámbitos (económico, social, tecnológico y ambiental).
 
 - [ ] Diseño de Elementos de Máquinas I
 	- [ ] Apuntes

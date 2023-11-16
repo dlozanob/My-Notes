@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main.md",
-                "mode": "preview",
+                "file": "Cap. 5 Sensores.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -101,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TO DO.md",
+                "file": "Cap. 5 Sensores.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TO DO.md",
+                "file": "Cap. 5 Sensores.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TO DO.md"
+                "file": "Cap. 5 Sensores.md"
               }
             }
           },
@@ -213,8 +214,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "979cb1b168814b7a",
+  "active": "b76c624a400fe1fa",
   "lastOpenFiles": [
+    "attachments/Pasted image 20231116113643.png",
+    "Sensores y Actuadores.md",
+    "Automatización, Control y Robótica.md",
+    "Automatización%2C Control y Robótica.md",
     "Main.md",
     "TO DO.md",
     "Excalidraw/whiteboard.excalidraw.md",
@@ -241,16 +246,12 @@
     "Cap. 5 Sensores.md",
     "Cap. 1 Instrumentación.md",
     "Cap. 2 Metrología.md",
-    "Sensores y Actuadores.md",
     "Deutsch_B1.md",
     "Deutsch.md",
     "Cap. 4 Adquisición de datos.md",
     "Cap. 4. Diseño por respuesta frecuencial.md",
     "Diseño de ejes.md",
     "Cap. 3 Actuadores.md",
-    "LaTeX.md",
-    "Deutsch_A1.md",
-    "Laboratorio de Control.md",
     "Local Backup.rar",
     "Local Notes Backup.rar",
     "attachments",

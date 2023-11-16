@@ -149,5 +149,32 @@ Clasificación de la termocupla de acuerdo a sus metales:
 
 #### Termorresistencias (RTD)
 
+Cuando aumenta la temperatura, los iones se escitan, haciendo que sea más difícil para los electrones atravesar la región excitada. Es decir, un aumento en la temperatura significa en la resistencia.
+
+![](attachments/Pasted%20image%2020231116113643.png)
+
+Esta relación es aproximadamente lineal.
+
+$$
+\begin{align*}
+	R = R_{0}[1+AT+BT^{2}-1000CT^{3}+CT^{4}]
+\end{align*}
+$$
+
+Además:
+
+$$
+\begin{align*}
+	R = R_{0}[1+T']
+\end{align*}
+$$
+
+Se fabrican con:
+- Alambres finos
+- Cubiertos por algún aislante
+- El elemento se inserta en un tubo metálico
+- El tubo está cerrado en un extremo que se llena con polvo aislante y se sella con cemento
+	- Impedir humedad
+
 
 
