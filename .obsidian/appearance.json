@@ -1,12 +1,11 @@
 {
   "accentColor": "#fff700",
   "theme": "obsidian",
-  "cssTheme": "Cyber Glow",
+  "cssTheme": "Wasp",
   "baseFontSize": 13,
   "baseFontSizeAction": true,
   "translucency": true,
   "enabledCssSnippets": [
-    "wholeTranslucity",
     "obsidian-workspace-background(Shiba Uni Theme)"
   ]
 }

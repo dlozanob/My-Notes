@@ -135,10 +135,12 @@ Por un precio adicional, pueden adquirirse módulos especiales, acoplables al m�
 	- Tecnológico
 		- El microcontrolador cuenta con los puertos digitales suficientes para los periféricos requeridos
 		- El sensor cuenta con un rango óptimo para la aplicación 
-	- Político
-	- Económicos
-		- El diseño modular permite que el prototipo sea más adsequible para nuestros clientes
-	- Social
+	- Legal
+		- Se cumple con la Ley 1562 de 2012
+	- Económica financiera
+		- Se cuenta con una TIR del 14% y una VPN de 4.257.760
+	- Mercado
+	- Metodológica
 
 
 

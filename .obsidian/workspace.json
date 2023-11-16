@@ -4,28 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "4646f1827ba78a4a",
+        "id": "b550e54f25a5c3ec",
         "type": "tabs",
         "children": [
           {
-            "id": "4c5713b910770937",
+            "id": "979cb1b168814b7a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cap. 5. Diseño con ecuaciones de estado.md",
-                "mode": "source",
+                "file": "TO DO.md",
+                "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "bc0ea94a176cde23",
+            "id": "b76c624a400fe1fa",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md"
+                "file": "Main.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
@@ -99,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cap. 5. Diseño con ecuaciones de estado.md",
+                "file": "TO DO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cap. 5. Diseño con ecuaciones de estado.md",
+                "file": "TO DO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cap. 5. Diseño con ecuaciones de estado.md"
+                "file": "TO DO.md"
               }
             }
           },
@@ -211,19 +213,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4c5713b910770937",
+  "active": "979cb1b168814b7a",
   "lastOpenFiles": [
-    "attachments/Pasted image 20231115173624.png",
-    "Excalidraw/blackboard.excalidraw.md",
+    "Main.md",
+    "TO DO.md",
+    "Excalidraw/whiteboard.excalidraw.md",
+    "Linked note.md",
+    "Análisis dinámico.md",
     "Cap. 5. Diseño con ecuaciones de estado.md",
+    "Excalidraw/blackboard.excalidraw.md",
+    "Mecanismos.md",
+    "attachments/Pasted image 20231115173624.png",
     "attachments/Pasted image 20231115172635.png",
     "attachments/Pasted image 20231115171504.png",
     "attachments/Pasted image 20231115170036.png",
     "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
     "attachments/Pasted image 20231115162443.png",
     "Control.md",
-    "Linked note.md",
-    "Excalidraw/whiteboard.excalidraw.md",
     "Uniones.md",
     "attachments/Pasted image 20231115121039.png",
     "attachments/Pasted image 20231115120531.png",
@@ -232,8 +238,6 @@
     "attachments/Pasted image 20231115115528.png",
     "Diseño de Elementos de Máquinas I.md",
     "Deutsch_A2.md",
-    "Excalidraw/attachments/Pasted Image 20231115093859_050.png",
-    "TO DO.md",
     "Cap. 5 Sensores.md",
     "Cap. 1 Instrumentación.md",
     "Cap. 2 Metrología.md",
@@ -247,8 +251,6 @@
     "LaTeX.md",
     "Deutsch_A1.md",
     "Laboratorio de Control.md",
-    "Análisis dinámico.md",
-    "Estática de Fluidos.md",
     "Local Backup.rar",
     "Local Notes Backup.rar",
     "attachments",
