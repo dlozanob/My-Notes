@@ -74,6 +74,9 @@ Se obtiene:
 
 ![](attachments/Pasted%20image%2020230925164239.png)
 
+>[!Note]
+>La función siempre tendrá un par de polos, por eso hay dos colores de rectas
+
 El ángulo es:
 
 $$
@@ -103,5 +106,53 @@ $$
 ---
 
 
+## Sintonización de parámetros
+
+Consideremos:
+
+$$
+\begin{align*}
+	G(s) = \frac{1}{s(s+2)}
+\end{align*}
+$$
+
+Con:
+
+$$
+\begin{align*}
+	C(s) = \frac{s+5}{s+a}
+\end{align*}
+$$
+
+Determinar el valor de $a$ que permite los menores valores de sobrepico y tiempo de asentamiento.
 
 
+En Matlab, `rltool(G)` permite visualizar los polos en función de la ganancia. 
+
+Como:
+
+$$
+\begin{align*}
+	G(s) = \frac{G_{l}}{1 + G_{l}}
+\end{align*}
+$$
+
+Y el toolbox de Matlab interpreta:
+
+![](attachments/Pasted%20image%2020231116200515.png)
+
+Lo cual es equivalente a $G_{l}$, entonces:
+
+$$
+\begin{align*}
+	1+G_{l} = 1+K\cdot G
+\end{align*}
+$$
+
+Al evaluar $G_{o}(s)$ se obtiene:
+
+$$
+\begin{align*}
+	G_{o}(s) &= \frac{s+5}{s^{3}+2s^{2}+s+5+a(s^{2}+2s)}
+\end{align*}
+$$

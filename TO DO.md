@@ -5,12 +5,13 @@
 
 - [ ] Control
 	- [ ] Apuntes
+	- [ ] Reto 6: 28 NOV
 
 - [ ] Sensores y Actuadores
 	- [ ] Apuntes
 		- [x] PP8
 		- [x] PP10
-		- [ ] PM8 (Slide 24)
+		- [ ] PM8 (Slide 68)
 		- [ ] PM9
 		- [ ] PM10
 	- [ ] Práctica 5

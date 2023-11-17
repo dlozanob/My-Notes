@@ -29,6 +29,7 @@ $$
 	- Método muy usado
 	- Robustez -> Cuando se tiene incertidumbre sobre la planta
 	- Disminuye procesos de identificación
+		- Un control robusto no requiere modelos tan exactos
 
 ¿Cómo se identificaba una planta anteriormente?
 
@@ -64,7 +65,7 @@ $$
 \end{align*}
 $$
 
-Valores típicos de los márgenes de $G_{l}(j\omega)$ :
+Valores aceptables de los márgenes de $G_{l}(j\omega)$ :
 - Margen de fase -> $40°$
 - Margen de ganancia -> $12\,\,dB$
 
@@ -140,7 +141,7 @@ $$
 
 Si $\omega\gg 0.5$ -> $\mid G(j\omega)\mid \to 0$ y $\angle G(j\omega)\to-\frac{\pi}{2}$
 
-Si $\omega\ll 0.5$ -> $\mid G(j\omega)\mid \to 0$ y $\angle G(j\omega)\to0$
+Si $\omega\ll 0.5$ -> $\mid G(j\omega)\mid \to 2$ y $\angle G(j\omega)\to0$
 
 
 Su lugar geométrico es:
@@ -149,7 +150,7 @@ Su lugar geométrico es:
 
 ---
 
-El _Diagrama de Nyquist_ es un lugar geométrico sobre el $G_{l}(s)$ :
+El _Diagrama de Nyquist_ es un lugar geométrico sobre $G_{l}(s)$ :
 
 ![](attachments/Pasted%20image%2020231004173557.png)
 
@@ -161,6 +162,7 @@ Se quiere que los polos estén lo más alejados posible del eje imaginario, de t
 
 ## Principio del argumento de Cauchy
 
+Dada una función de transferencia:
 
 $$
 \begin{align*}
@@ -168,13 +170,13 @@ $$
 \end{align*}
 $$
 
+Una curva $C_{1}$ se traza arbitrariamente alrededor de algunos ceros y polos. Evaluar $C_{1}$ en $F(s)$ produce $C_{2}$ .
+
 ![](attachments/Pasted%20image%2020231004175348.png)
 
 A cada punto en el plano $s$ se le corresponde un punto en la transformada $F$.
 
-$C_{2}$ es la imagen de $C_{1}$ .
-
-Se consideran los polos y ceros dentro del lazo.
+Se consideran los polos y ceros dentro del lazo $C_{1}$ .
 
 $$
 \begin{align*}
@@ -220,18 +222,23 @@ $$
 \end{align*}
 $$
 
-El sistema de control $G_{o}(s)$ es estable sí y solo sí:
-- La gráfica de _Nyquist_ de $G_{l}(s)$ no pasa por el punto crítico
-- El número de vueltas en sentido anti-horario con respecto al origen, es igual al número de polos de $G_{l}(s)$ en el semiplano derecho
-
 Los polos de $G_{o}(s)$ corresponden con  los ceros de $F(s)$ .
 
-El número de vueltas en $G(s)$ se considera alrededor del origen, con $F(s)$ se considera alrededor del punto crítico.
+Se define $C_{1}$ como una curva que contiene al semi-plano derecho, de tal manera que $R\to \infty$ .
+Se define el _diagrama de Nyquist_ como la imagen de $C_{1}$ . Esto es, $G_{l}(s)$ evaluada en todo el eje imaginario, es decir, para cada frecuencia.
+
+Por tanto, por el _criterio de Cauchy_, si $C_{2}$ cruza el origen $n$ veces, hay $n$ zeros sobre el eje imaginario.
+
+Así mismo, si hay $n$ polos sobre el eje imaginario, hay $n$ puntos donde $C_{2}$ no está definida.
+
+![](attachments/Pasted%20image%2020231116191927.png)
+
+Se puede ver que $C_{1}$ encierra 3 ceros, entonces, $C_{2}$ gira 3 veces alrededor del origen, en el mismo sentido en el que se supuso $C_{1}$ .
+
+Ya que, $G_{l}(s) = F(s) - 1$ , el Nyquist de $G_{l}(s)$ es el mismo de $F(s)$ pero desplazado $1$ a la izquierda. El origen de $F(s)$ está en $(0, 0)$, el origen de $G_{l}(s)$ está en el _punto crítico_.
 
 >[!Note]
->El punto crítico es $(-1, 0)$
-
-La _Gráfica de Nyquist_ es el plano obtenido en $F(s)$ desde $G_{l}(s)$ .
+>El _punto crítico_ es $(-1, 0)$
 
 Se tiene que:
 
@@ -253,13 +260,23 @@ $$
 - $P_{G_{l}}$ : Polos de $G_{l}(s)$
 - $P_{F}$ : Polos de $F(s)$
 
+Los polos de $G_{o}(s)$ son los ceros de $F(s)$, por tanto, si este tiene ceros sobre el eje imaginario, el Nyquist de $F(s)$ cruza por el origen. Si hay ceros en el semi-plano derecho, el Nyquist de $F(s)$ encierra al origen.
+
+Siendo así, se plantea el _teorema de estabilidad de Nyquist_ en relación con $G_{l}(s)$ .
+
+El sistema de control $G_{o}(s)$ es estable sí y solo sí:
+- La gráfica de _Nyquist_ de $G_{l}(s)$ no pasa por el punto crítico o gira respecto a este
+	- Habrían polos sobre o a la derecha del eje imaginario en tal caso
+- El número de vueltas en sentido anti-horario con respecto al origen de $F(s)$, es igual al número de polos de $G_{o}(s)$ en el semiplano derecho
+
+>[!Note]
+>Se supone que $G_{l}(s)$ es estable, de tal manera que el Nyquist de $F(s)$ solo encierra ceros, entonces $Z-P=Z$, porque $C_{1}$ solo puede contener ceros
 
 >[!Info]
 >Un _colorario_ es un teorema aplicado a un caso particular
 
 - _Corolario_
-	- Si $G_{l}(s)$ no tiene polos en el semiplano derecho entonces, 
-
+	- Si $G_{l}(s)$ no tiene polos en el semiplano derecho entonces, $G_{o}(s)$ es estable, sí y solo sí, el Nyquist de $G_{l}(s)$ no encierra ni pasa sobre el punto crítico
 
 
 >[!Note]
@@ -283,16 +300,37 @@ Se obtiene para un $K_{p} = 1$ :
 
 $G_{l}(s)$ no tiene polos en el semiplano derecho. El número de vueltas alrededor del punto crítico es $0$ . Por lo tanto, $G_{o}(s)$ es estable.
 
-¿Cuál es el valor de $k_{p}$ , que hace que el punto se desplace lo suficiente como para estar en el punto crítico? (rango de estabilidad)
+El punto donde el cardiode cruza al eje real (el de más a la izquierda), tiene coordenadas: $(-0.04, 0)$
+
+¿Cuál es el valor de $k_{p}$ , que hace que el punto se desplace lo suficiente como para estar en el punto crítico? (Rango de estabilidad)
 
 ![](attachments/Pasted%20image%2020231009173010.png)
 
-Es $\frac{1}{0.04}$ .
+En este caso, $G_{l}(j\omega)$ cruza el punto crítico, eso quiere decir que hay un $0$ sobre $C_{1}$, eso es sinónimo de un $0$ sobre el eje imaginario.
 
+Si desde este punto, se desplaza el cardiode hacia la derecha, habrán ceros sobre el semi-plano derecho.
+
+El punto incial tenía coordenadas: $(-0.04, 0)$, entonces la ganancia $k$ debe ser $\frac{1}{0.04}$ para que al multiplicarse con el nyquist: $\frac{1}{0.04}\cdot(-0.04, 0) = (-1, 0)$, se convierta en la coordenada del punto crítico.
 
 >[!Info]
 >`feedback(G1, G2)` halla $G_{o}(s)$. 
 >Donde $G_{1}$ es el lazo de arriba y $G_{2}$ es el lazo de realimentación
+
+Se podría invertir el nyquist al usar ganancias negativas:
+
+![](attachments/Pasted%20image%2020231116194426.png)
+
+El punto verde (ver gráfica en Matlab para conocer su coordenada) tiene coordenadas $(x_{2}, 0)$.
+
+Para que el punto morado llegue al punto crítico, $k$ debe ser $- \frac{1}{x_{2}}$ .
+
+Por lo tanto, el _rango de estabilidad_ de $k$ es:
+
+$$
+\begin{align*}
+	- \frac{1}{x_{2}}<k< \frac{1}{0.04}
+\end{align*}
+$$
 
 
 - Ahora:

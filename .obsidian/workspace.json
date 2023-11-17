@@ -4,35 +4,57 @@
     "type": "split",
     "children": [
       {
-        "id": "b550e54f25a5c3ec",
+        "id": "6683e2f126bd0e29",
         "type": "tabs",
         "children": [
           {
-            "id": "979cb1b168814b7a",
+            "id": "c150b83f7b0d27cd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "TO DO.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b76c624a400fe1fa",
+            "id": "331320ded662df00",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cap. 5 Sensores.md",
+                "file": "Cap. 4. Diseño por respuesta frecuencial.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dbd6a757d51bddf1",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/blackboard.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "6e3791fe6589f5ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cap. 3. Lugar geométrico de las raices.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -102,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cap. 5 Sensores.md",
+                "file": "Cap. 3. Lugar geométrico de las raices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cap. 5 Sensores.md",
+                "file": "Cap. 3. Lugar geométrico de las raices.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cap. 5 Sensores.md"
+                "file": "Cap. 3. Lugar geométrico de las raices.md"
               }
             }
           },
@@ -186,7 +208,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"realizaciones\"",
+                "query": "\"\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -214,42 +236,42 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b76c624a400fe1fa",
+  "active": "6e3791fe6589f5ff",
   "lastOpenFiles": [
-    "attachments/Pasted image 20231116113643.png",
+    "attachments/Pasted image 20231116200515.png",
+    "Control.md",
+    "Cap. 4. Diseño por respuesta frecuencial.md",
+    "TO DO.md",
+    "Excalidraw/blackboard.excalidraw.md",
+    "attachments/Pasted image 20231116194426.png",
+    "attachments/Pasted image 20231116194356.png",
+    "attachments/Pasted image 20231116193847.png",
+    "attachments/Pasted image 20231116193803.png",
+    "Excalidraw/attachments/Pasted Image 20231116193740_495.png",
+    "attachments/Pasted image 20231116191927.png",
+    "attachments/Pasted image 20231116190411.png",
+    "attachments/Pasted image 20231116185842.png",
+    "Cap. 5 Sensores.md",
+    "Excalidraw/whiteboard.excalidraw.md",
+    "attachments/Pasted image 20231116131356.png",
+    "attachments/Pasted image 20231116131226.png",
+    "Cap. 1 Instrumentación.md",
     "Sensores y Actuadores.md",
     "Automatización, Control y Robótica.md",
     "Automatización%2C Control y Robótica.md",
     "Main.md",
-    "TO DO.md",
-    "Excalidraw/whiteboard.excalidraw.md",
     "Linked note.md",
     "Análisis dinámico.md",
     "Cap. 5. Diseño con ecuaciones de estado.md",
-    "Excalidraw/blackboard.excalidraw.md",
     "Mecanismos.md",
-    "attachments/Pasted image 20231115173624.png",
-    "attachments/Pasted image 20231115172635.png",
-    "attachments/Pasted image 20231115171504.png",
-    "attachments/Pasted image 20231115170036.png",
     "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
-    "attachments/Pasted image 20231115162443.png",
-    "Control.md",
     "Uniones.md",
-    "attachments/Pasted image 20231115121039.png",
-    "attachments/Pasted image 20231115120531.png",
-    "attachments/Pasted image 20231115120326.png",
-    "attachments/Pasted image 20231115120036.png",
-    "attachments/Pasted image 20231115115528.png",
     "Diseño de Elementos de Máquinas I.md",
     "Deutsch_A2.md",
-    "Cap. 5 Sensores.md",
-    "Cap. 1 Instrumentación.md",
     "Cap. 2 Metrología.md",
     "Deutsch_B1.md",
     "Deutsch.md",
     "Cap. 4 Adquisición de datos.md",
-    "Cap. 4. Diseño por respuesta frecuencial.md",
     "Diseño de ejes.md",
     "Cap. 3 Actuadores.md",
     "Local Backup.rar",
