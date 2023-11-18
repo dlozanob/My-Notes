@@ -113,35 +113,14 @@ Hey! This is a linked note.
 
 ---
 
-- Presentación del problema (10)
 
-Desorientación, obstáculos urbanos, infraestructura sin conciencia, imprudencia, peligros al cruzar una calle, nombrar el día a día de un invidente no es suficiente para describir lo difícil que es para ellos desplazarse por la ciudad de Bogotá.
 
-- Solución (30)
 
-En varias ocasiones, los bastones blancos no son suficientes.
-
-Nuestro equipo, propone un dispositivo que facilita el desplazamiento de estas personas, utilizando un diseño modular con varias aplicaciones.
-
-Consiste de un sistema de detección de obstáculos sobre una pechera.
-
-El módulo principal, cuenta con un sensor ultrasónico que bajo el principio de ecolocalización detecta objetos a $1$ metro de distancia, una vez sucede esto, un buzzer emite un sonido durante dos segundos para alertar a la persona.
-
-Por un precio adicional, pueden adquirirse módulos especiales, acoplables al módulo principal. Como un módulo de inteligencia artificial y asistente de voz.
-
-- Viabilidad (20)
-	- Ambiental
-		- La carcasa del dispositivo es hecha con filamento PLA, este no genera impactos negativos en el medio ambiente
-	- Tecnológico
-		- El microcontrolador cuenta con los puertos digitales suficientes para los periféricos requeridos
-		- El sensor cuenta con un rango óptimo para la aplicación 
-	- Legal
-		- Se cumple con la Ley 1562 de 2012
-	- Económica financiera
-		- Se cuenta con una TIR del 14% y una VPN de 4.257.760
-	- Mercado
-	- Metodológica
-
+$$
+\begin{align*}
+	\frac{X_{3}(s)}{V_{in}(s)}=\frac{4}{s-2},\,\,\,\, \frac{X_{2}(s)}{X_{3}(s)}=\frac{2}{s+2}
+\end{align*}
+$$
 
 
 

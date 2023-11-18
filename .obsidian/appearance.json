@@ -1,8 +1,8 @@
 {
   "accentColor": "#fff700",
   "theme": "obsidian",
-  "cssTheme": "ITS Theme",
-  "baseFontSize": 13,
+  "cssTheme": "Cybertron",
+  "baseFontSize": 30,
   "baseFontSizeAction": true,
   "translucency": true,
   "enabledCssSnippets": [

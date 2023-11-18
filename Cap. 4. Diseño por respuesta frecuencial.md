@@ -413,6 +413,8 @@ El _margen de fase_ rota la curva en sentido antihorario.
 En un caso general hay que modificar ambos márgenes para que el punto crítico quede lo más alejado posible de la curva -> Mayor robustez
 
 - _Margen de ganancia_
+	- Ocurre en la frecuencia de cruce de fase
+	- Se determina desde el eje de la frecuencia
 
 $$
 \begin{align*}
@@ -431,6 +433,8 @@ En diagrama de Bode:
 
 
 - _Margen de fase_
+	- Ocurre en la frecuencia de cruce de ganancia
+	- Se determina desde la recta horizontal en $-180°$
 
 $$
 \begin{align*}
@@ -629,13 +633,210 @@ El diagrama de Bode para todas las ganancias es el mismo:
 Pero al desplazarse $\omega_{c}$ a la derecha, nos desplazamos también a la derecha en el mismo diagrama de fase -> Se reduce $Pm$
 
 ---
+## Frecuencias de corte en un diagrama de Bode
 
-# CLASE - 1 Nov
+Las frecuencias de corte de diagrama de Bode de un sistema pueden ser vistas en su función de transferencia
+de la siguiente manera:
 
-1. _Controlador proporcional:_ $C(s) = K_{p}$
-2. _Compensador en atraso:_ $C_{1}(s) = \frac{1+aT_{1}s}{1+T_{1}s}$, $0<a<1$
-3. _Compensador en adelanto:_ $C_{2}(s) = \frac{1 + bT_{2}s}{1+T_{2}s}$, $b > 1$
+$$
+\begin{align*}
+	G(j\omega) = \frac{1}{\left( \frac{j\omega}{\omega_{1}}+1 \right)\left( \frac{j\omega}{\omega_{2}}+1 \right)\cdot \cdot \cdot \left( \frac{j_{1}\omega}{\omega_{n}}+1 \right)}
+\end{align*}
+$$
 
+Donde $\omega_{i}$ son las frecuencias de corte.
+
+
+---
+
+- __Ejemplo__ :
+
+Considerar el diagrama de Bode en magnitud:
+
+![](attachments/Pasted%20image%2020231116210557.png)
+
+Hallar las $2$ funciones de transferencia que generan este diagrama de Bode.
+
+Frecuencias de corte: $10^{2}$ $rad/s$
+
+Magnitud para $s\to0$ : $-20\,\,dB$
+
+Entonces:
+
+$$
+\begin{align*}
+	G_{1}(s) = \frac{K}{\left( \frac{s}{100}+1 \right)}
+\end{align*}
+$$
+
+Como el diagrama de Bode en magnitud se define por la magnitud de los polos, entonces otro candidato válido es:
+
+$$
+\begin{align*}
+	G_{1}(s) = \frac{K}{\left( \frac{s}{100}-1 \right)}
+\end{align*}
+$$
+
+Donde:
+
+$$
+\begin{align*}
+	-20\,\,dB = 20\cdot \log (K)
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	K&= 10^{-1} \\\\
+	&= 0.1
+\end{align*}
+$$
+
+---
+
+
+## Compensador en atraso
+
+Los compensadores se usan en cascada con un controlador.
+
+El objetivo de los compensadores es aumentar el margen de fase y ganancia.
+
+
+$$
+\begin{align*}
+	C_{1}(s)=\frac{1+aT_{1}s}{1+T_{1}s}
+\end{align*}
+$$
+
+Donde $0<a< 1$ .
+
+Un compensador en atraso disminuye $\omega_{g}$ para obtener una fase de la planta mayor.
+
+Se atenúa la magnitud original para reducir $\omega_{g}$.
+
+![](attachments/Pasted%20image%2020231116204941.png)
+
+La forma de $C_{1}(s)$ no varía $K_{v}$ .
+
+Entonces $\frac{1}{aT_{1}}> \frac{1}{T_{1}}$
+
+Diagrama de Bode:
+
+![](attachments/Pasted%20image%2020231116204207.png)
+
+El compensador en atraso aporta ganancia.
+
+La fase negativa se suma a la fase de la planta. Lo que reduce $P_{m}$ de $G_{o}$ .
+
+Se sugiere que se cumpla el criterio:
+
+$$
+\begin{align*}
+	\frac{10}{aT_{1}} = \omega_{g}
+\end{align*}
+$$
+
+Bajo esta suposición, la fase negativa que aporta $C_{1}$ es:
+
+$$
+\begin{align*}
+	C_{1}\left( j \frac{10}{aT_{1}} \right)&= \angle \left( 1+jaT_{1} \frac{10}{T_{1}} \right)-\angle \left( 1+jT_{1} \frac{10}{aT_{1}} \right) \\\\
+	&= \angle (1+j10)-\angle \left( 1+j \frac{10}{a} \right)
+\end{align*}
+$$
+
+El peor de los casos es que $C_{1}$ aporte mucha fase (reduce margen de fase de $G_{o}$), esto sucede cuando $a = 0$, en ese caso:
+
+$$
+\begin{align*}
+	C_{1}\left( j\lim_{ a \to 0 } \frac{10}{aT_{1}} \right) &= \angle (1+j 10) - 90 \\\\
+	&= -5.706
+\end{align*}
+$$
+
+De tal manera que si se requiere un margen de fase de $40°$, el compensador se diseña para un $P_{m}=46°$, de tal manera que se compense la fase reducida.
+
+
+---
+
+- __Ejemplo__ :
+
+Considere la planta
+
+$$
+\begin{align*}
+    G(s) = \frac{1}{s(s+1)}
+\end{align*}
+$$
+
+Diseñe un \compensador en atraso que permita $K_v \geq 50$ y un margen de fase $\geq 40\degree$ .
+
+
+La planta es de tipo $1$, ya que, posee un único integrador, esto hace que el error de posición sea cero, por tanto, se puede hablar de un error de velocidad constante. La constante de error de velocidad es:
+
+$$
+\begin{align*}
+	K_{v} &= \lim_{ s \to 0 } s\cdot G_{l} \\\\
+	&= \lim_{ s \to 0 } k\cdot \frac{1}{s(s+1)} \\\\
+	&= k = 50
+\end{align*}
+$$
+
+Se implementa un compensador en atraso. Para conseguir un margen de fase $\geq 40\degree$ se debe diseñar el compensador con respecto a un margen de fase objetivo de $\geq 46\degree$, puesto que, este controlador puede restar en el peor de los casos una fase de $6\degree$ a $G_l$.
+
+El diagrama de Bode obtenido para $G_l$ es:
+
+![](attachments/Pasted%20image%2020231116211322.png)
+
+La fase en el diagrama de fase ser $180-46=134\degree$ para que el margen de fase sea el mencionado anteriormente.
+
+Aquí la frecuencia es $0.967$ $rad/s$, para esta misma frecuencia se tiene una magnitud de $31.4$ $dB$, por tanto, el diagrama de Bode en magnitud debe atenuarse esta misma magnitud para que la frecuencia de cruce de ganancia indique el margen de fase objetivo.
+
+Siendo así, para el coeficiente $a$ del compensador en atraso se tiene:
+
+$$
+\begin{align*}
+	-31.4 = 20\cdot \log(a)
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	a &= 10^{-31.4/20} \\\\
+    &= 0.0269
+\end{align*}
+$$
+
+$a < 1$, no hay problemas en el diseño.
+
+La nueva frecuencia de cruce de ganancia debe ser por lo menos una década mayor que la frecuencia de corte mayor del pico de atenuación de fase proporcionado por el compensador. Siendo así:
+
+$$
+\begin{align*}
+	\frac{10}{a\cdot T} = \omega_{g}
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	T &=  \frac{10}{a\cdot \omega _{g}} \\\\
+	&= 384.2143
+\end{align*}
+$$
+
+
+
+Por tanto, el compensador en atraso adquiere la forma:
+
+$$
+\begin{align*}
+	C_{1}(s) = \frac{10.3413\cdot s + 1}{384.2143\cdot s + 1}
+\end{align*}
+$$
+
+Al obtener el diagrama de Bode de $G_l$ con este compensador, se obtiene:
+
+![](attachments/Pasted%20image%2020231116211554.png)
 
 
 ## Compensador en adelanto
@@ -756,25 +957,90 @@ $$
 ---
 
 - __Ejemplo__ :
-	- Diseñar un compensador en adelanto
-	- $P_{m}\geq 25°$
-	- $K_{p} = 9$
+
+Considere la planta que viene dada por medio de
 
 $$
 \begin{align*}
-	G(s) = \frac{1}{\left( \frac{s}{0.5} +1\right)(s+1)\left( \frac{s}{2}+1 \right)}
+	G(s) = \frac{1100}{s(s+0.5)(s+12.5)(s+102)}
 \end{align*}
 $$
 
+Diseñe un controlador que permita cumplir las siguientes especificaciones:
+
+- Error de posición igual a cero
+- Margen de fase $≥ 50\degree$
+- Margen de ganancia $≥ 4\,\,dB$
+- Frecuencia de cruce de ganancia no puede ser menor que la planta sin compensar
+
+Se exige que el diseño tenga una frecuencia de cruce de ganancia mayor a la obtenida en la planta original, por tanto, se descarta al compensador en atraso y se implementa un compensador en adelanto.
+
+Ahora bien, la planta es de tipo $1$, por tanto, el error de posición nulo está garantizado. Siendo así, se toma una ganancia $k = 1$ por defecto.
+
+La planta posee un margen de fase de $25.7\degree$. Inicialmente, se estima que al aumentar la frecuencia de ganancia, la fase aportada de la planta se reducirá en $\theta = 5\degree$. Siendo así, el compensador debe aportar una fase de:
+
 $$
 \begin{align*}
-	K_{p} &= \lim_{ s \to 0 } 20\cdot \log_{10} G_{l}(s) \\\\
-	&= \lim_{ s \to 0 } 20\cdot \log_{10}\left( \mid \frac{K}{\left( \frac{s}{0.5} +1\right)(s+1)\left( \frac{s}{2}+1 \right)}\mid \right)
+	\phi &= 50-25.7+5\\\\
+    &= 29.3
 \end{align*}
 $$
+
+Entonces:
+
+$$
+\begin{align*}
+	b&=\frac{1+\sin\phi}{1-\sin\phi}\\\\
+    &= 2.9168 > 1
+\end{align*}
+$$
+
+La magnitud que se debe atenuar la planta para lograr una frecuencia de cruce de ganancia en el punto donde el compensador aporta su máxima fase, es:
+
+$$
+\begin{align*}
+	-10\cdot \log(b) = -4.6491
+\end{align*}
+$$
+
+![](attachments/Pasted%20image%2020231116212003.png)
+
+La nueva frecuencia de cruce de ganancia es $1.16$ $rad/s$, en esta frecuencia se tiene una fase de $180-163 = 17\degree$, es decir, la planta perdió un margen de fase de $25.7 - 17 = 8.7\degree > 5\degree$, esto es un valor mayor al estimado para la pérdida de fase de la planta. Se requiere iterar de nuevo con un $\theta$ mayor.
+
+Se estima ahora un $\theta = 10\degree$. Donde $b = 3.5822 > 1$. Por tanto, $\phi = 34.3\degree$. Con una atenuación de $-5.5415$.
+
+![](attachments/Pasted%20image%2020231116212031.png)
+
+En $1.23$ $rad/s$ hay un margen de fase de $180 - 164 = 16\degree$, entonces, la planta disminuye en fase $25.7 - 16 = 9.7\degree$, esto es menor que el $\theta$ estimado que tiene que aportar el compensador. Por tanto, el compensador será capaz de aportar la fase necesaria.
+
+Se halla el parámetro restante del compensador:
+
+$$
+\begin{align*}
+	T &= \frac{1}{\omega_{g}\sqrt{ b }} \\\\
+	&= \frac{1}{1.23\sqrt{ 3.5822 }} \\\\
+	&= 0.4296
+\end{align*}
+$$
+
+El compensador toma la forma:
+
+$$
+\begin{align*}
+	C_{2}(s) = \frac{1.5388\cdot s + 1}{0.4296\cdot s + 1}
+\end{align*}
+$$
+
+Se obtiene lo siguiente para $G_l$:
+
+![](attachments/Pasted%20image%2020231116212104.png)
+
+El margen de ganancia satisface $P_m = 50.2\degree > 50\degree$, además, $G_m = 19.1\,\,dB > 4\,\,dB$.
+
+El diseño está terminado.
 
 >[!Note]
->Se podría seguir aumentando $\theta$ para robustecer el diseño. No obstante, el compensador en adelante tiene un límite
+>Se podría seguir aumentando $\theta$ para robustecer el diseño. No obstante, el compensador en adelanto tiene un límite
 
 >[!Note]
 >El doble de $\omega_{g}$ es aproximadamente $t_{s}$

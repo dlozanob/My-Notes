@@ -127,7 +127,7 @@ $$
 Determinar el valor de $a$ que permite los menores valores de sobrepico y tiempo de asentamiento.
 
 
-En Matlab, `rltool(G)` permite visualizar los polos en función de la ganancia. 
+En Matlab, `rltool(G_aux)` permite visualizar los polos en función de la ganancia. 
 
 Como:
 
@@ -145,14 +145,54 @@ Lo cual es equivalente a $G_{l}$, entonces:
 
 $$
 \begin{align*}
-	1+G_{l} = 1+K\cdot G
+	1+G_{l} = 1+K\cdot G_{aux}
 \end{align*}
 $$
 
-Al evaluar $G_{o}(s)$ se obtiene:
+Al evaluar $G_{o}(s)$, se busca dejar su denominador de la forma $1+K\cdot G_{aux}$ :
 
 $$
 \begin{align*}
 	G_{o}(s) &= \frac{s+5}{s^{3}+2s^{2}+s+5+a(s^{2}+2s)}
 \end{align*}
 $$
+
+$$
+\begin{align*}
+	1+K\cdot G_{aux} &= \frac{s^{3}+2s^{2}+s+5}{s^{3}+2s^{2}+s+5} + \frac{a(s^{2}+2s)}{s^{3}+2s^{2}+s+5} \\\\
+	&= 1+a\cdot G_{aux}
+\end{align*}
+$$
+
+Se define la _planta auxiliar_ como (para este caso):
+
+$$
+\begin{align*}
+	G_{aux} = \frac{s^{2}+2s}{s^{3}+2s^{2}+s+5}
+\end{align*}
+$$
+
+Se usa $rltool(G_{aux})$ en Matlab para sintonizar $a$ .
+
+
+Se obtiene:
+
+![](attachments/Pasted%20image%2020231116201529.png)
+
+- Mínimo sobrepico
+	- Menor $\theta$ -> Polos sobre el eje real
+- Mínimo $t_{s}$
+	- El polo más lento debe adquirir la máxima magnitud real posible
+
+Las consideraciones se cumplen al situar los polos así:
+
+![](attachments/Pasted%20image%2020231116201803.png)
+
+Aquí $a = 5$ .
+
+Con este valor, $G_{o}(s)$ adquiere estas consideraciones.
+
+Su respuesta al impulso es:
+
+![](attachments/Pasted%20image%2020231116202032.png)
+

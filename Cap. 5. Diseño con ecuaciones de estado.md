@@ -111,7 +111,7 @@ $$
 \end{align*}
 $$
 
-Donde en este caso:
+Notar que:
 
 $$
 \begin{align*}
@@ -134,7 +134,7 @@ $$
 \end{align*}
 $$
 
-![](attachments/Pasted%20image%2020231115172635.png)
+![](attachments/Pasted%20image%2020231117223647.png)
 
 Donde:
 
@@ -145,7 +145,7 @@ $$
 	. \\\\
 	. \\\\
 	&\dot{x}_{n-1}(t)=x_{n}(t) \\\\
-	&\dot{x}(t)=-a_{0}x_{1}(t)-a_{1}x_{2}(t)-\dots-a_{n-1}x_{n}(t)+u(t)
+	&\dot{x}_{n}(t)=-a_{0}x_{1}(t)-a_{1}x_{2}(t)-\dots-a_{n-1}x_{n}(t)+u(t)
 \end{align*}
 $$
 
@@ -156,7 +156,7 @@ $$
 $$
 
 >[!Note]
->Se supone $b_{0} = 0$ -> Sistema propio
+>Se supone $b_{0} = 0$ -> Sistema propio, en la última ecuación, $b_{n}$ multiplicaría al término $x_{n+1}$, lo que hace que el sistema sea no causal
 
 Entonces, se obtiene la _Realización forma controlable_ :
 
@@ -340,7 +340,7 @@ $$
 	\left\{
 	\begin{array}{lcc}
 		\dot{x}_{1}=x_{2} \\
-\dot{x}_{2}=3x_{1}+x_{2}-k_{1}x_{1}-k_{2}x_{2}
+\dot{x}_{2}= -3x_{1}+x_{2}-k_{1}x_{1}-k_{2}x_{2}
 	\end{array}
 	\right.
 \end{align*}
@@ -374,7 +374,7 @@ $$
 	\det(sI-A_{c})&= \begin{pmatrix}
 s & -1 \\
 3+k_{1} & s-1+k_{2}
-\end{pmatrix}=0
+\end{pmatrix}
 \end{align*}
 $$
 

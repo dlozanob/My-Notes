@@ -4,51 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "6683e2f126bd0e29",
+        "id": "aed673b56c37ae19",
         "type": "tabs",
         "children": [
           {
-            "id": "c150b83f7b0d27cd",
+            "id": "adae4c17a2afac3c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TO DO.md",
+                "file": "Cap. 5. Diseño con ecuaciones de estado.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "331320ded662df00",
+            "id": "38abee38df5df3b8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cap. 4. Diseño por respuesta frecuencial.md",
+                "file": "Linked note.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "dbd6a757d51bddf1",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "6e3791fe6589f5ff",
+            "id": "047f09df7f27d974",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cap. 3. Lugar geométrico de las raices.md",
-                "mode": "source",
+                "file": "LaTeX.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "60f2088d8fa90765",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cap. 3. Solución de las ecuaciones de estado de sistemas LTI.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -124,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cap. 3. Lugar geométrico de las raices.md",
+                "file": "Cap. 3. Solución de las ecuaciones de estado de sistemas LTI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cap. 3. Lugar geométrico de las raices.md",
+                "file": "Cap. 3. Solución de las ecuaciones de estado de sistemas LTI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cap. 3. Lugar geométrico de las raices.md"
+                "file": "Cap. 3. Solución de las ecuaciones de estado de sistemas LTI.md"
               }
             }
           },
@@ -208,7 +210,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"\"",
+                "query": "\"observable\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -221,8 +223,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249.5,
-    "collapsed": true
+    "width": 249.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -236,44 +237,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6e3791fe6589f5ff",
+  "active": "60f2088d8fa90765",
   "lastOpenFiles": [
-    "attachments/Pasted image 20231116200515.png",
-    "Control.md",
-    "Cap. 4. Diseño por respuesta frecuencial.md",
-    "TO DO.md",
-    "Excalidraw/blackboard.excalidraw.md",
-    "attachments/Pasted image 20231116194426.png",
-    "attachments/Pasted image 20231116194356.png",
-    "attachments/Pasted image 20231116193847.png",
-    "attachments/Pasted image 20231116193803.png",
-    "Excalidraw/attachments/Pasted Image 20231116193740_495.png",
-    "attachments/Pasted image 20231116191927.png",
-    "attachments/Pasted image 20231116190411.png",
-    "attachments/Pasted image 20231116185842.png",
-    "Cap. 5 Sensores.md",
+    "Señales y Sistemas II.md",
+    "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
+    "Cap. 4. Análisis cualitativo de sistemas LTI.md",
+    "Cap. 5. Diseño con ecuaciones de estado.md",
+    "LaTeX.md",
+    "Linked note.md",
     "Excalidraw/whiteboard.excalidraw.md",
-    "attachments/Pasted image 20231116131356.png",
-    "attachments/Pasted image 20231116131226.png",
-    "Cap. 1 Instrumentación.md",
+    "attachments/Pasted image 20231117223647.png",
+    "attachments/Pasted image 20231117223624.png",
+    "Excalidraw/attachments/Pasted Image 20231117223503_923.png",
+    "Control.md",
+    "TO DO.md",
+    "Deutsch_B1.md",
+    "Deutsch_A2.md",
+    "Excalidraw/attachments/Pasted Image 20231117151213_116.png",
+    "Excalidraw/attachments/Pasted Image 20231117145940_119.png",
+    "Excalidraw/attachments/Pasted Image 20231117145136_863.png",
+    "Excalidraw/attachments/Pasted Image 20231117145058_132.png",
+    "Excalidraw/attachments/Pasted Image 20231117143202_890.png",
+    "Excalidraw/attachments/Pasted Image 20231117142614_369.png",
+    "Excalidraw/attachments/Pasted Image 20231117141908_126.png",
+    "Deutsch.md",
+    "Laboratorio de Control.md",
+    "Main.md",
+    "Excalidraw/blackboard.excalidraw.md",
     "Sensores y Actuadores.md",
+    "Cap. 2 Metrología.md",
+    "Cap. 4. Diseño por respuesta frecuencial.md",
+    "Cap. 3. Lugar geométrico de las raices.md",
+    "Cap. 5 Sensores.md",
+    "Cap. 1 Instrumentación.md",
     "Automatización, Control y Robótica.md",
     "Automatización%2C Control y Robótica.md",
-    "Main.md",
-    "Linked note.md",
     "Análisis dinámico.md",
-    "Cap. 5. Diseño con ecuaciones de estado.md",
     "Mecanismos.md",
-    "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
     "Uniones.md",
-    "Diseño de Elementos de Máquinas I.md",
-    "Deutsch_A2.md",
-    "Cap. 2 Metrología.md",
-    "Deutsch_B1.md",
-    "Deutsch.md",
-    "Cap. 4 Adquisición de datos.md",
-    "Diseño de ejes.md",
-    "Cap. 3 Actuadores.md",
     "Local Backup.rar",
     "Local Notes Backup.rar",
     "attachments",

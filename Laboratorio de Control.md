@@ -405,9 +405,8 @@ $$
 
 $$
 \begin{align*}
-	&\sum F_{y} = 0 \\\\
-	&F_{e}\sin\theta-W=0 \\\\
-	&F_{e}=\frac{W}{\sin\theta }
+	&\sum T = 0 \\\\
+	&F_{e}=\frac{W\cdot \sin\theta}{L}
 \end{align*}
 $$
 
@@ -426,4 +425,104 @@ Se implementa un controlador $PID$ :
 	- Se requiere un filtro para disminuir el ruido
 
 Se implementa un compensador en cascada para aumentar la robustez.
+
+![](attachments/Pasted%20image%2020231117113922.png)
+
+$$
+\begin{align*}
+	PID=\frac{u_{a}}{e}
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	Red=\frac{u}{u_{a}}
+\end{align*}
+$$
+
+Probar primero el PID, luego añadir el compensador para evitar problemas de implementación por la conversión de los sistemas análogo -> digital.
+
+En Matlab, el controlador discreto tiene la función de transferencia:
+
+![](attachments/Pasted%20image%2020231117114227.png)
+
+Esta discretización usa el método de Euler.
+
+Se halla para el término integral la respuesta que debe tener el controlador en el dominio discreto:
+
+$$
+\begin{align*}
+	\frac{U_{i}(z)}{E(z)}&= \frac{K_{i}Ts}{z-1}
+\end{align*}
+$$
+
+Reorganizando:
+
+$$
+\begin{align*}
+	[z-1]U_{i}(z)=k_{i}TsE(z)
+\end{align*}
+$$
+Aplicando transformada inversa $Z$ :
+
+$$
+\begin{align*}
+	u_{i}(k+1)-u_{i}(k)=k_{i}T_{s}e(k)
+\end{align*}
+$$
+
+Atrasando en el tiempo por causalidad:
+
+$$
+\begin{align*}
+	u_{i}(k)=k_{i}T_{s}e(k-1)+u_{i}(k-1)
+\end{align*}
+$$
+
+
+---
+
+Para el término derivativo:
+
+$$
+\begin{align*}
+	\frac{U_{d}}{E} = \frac{k_{d}N}{1+NT_{s} \frac{1}{z-1}}
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	U_{d}+\frac{NT_{s}}{z-1}U_{d}=k_{d}NE
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	(z-1)U_{d}+NT_{s}U_{d}=(z-1)k_{d}NE
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	u_{d}(k+1)-u_{d}(k)+NT_{s}u_{d}(k)=k_{d}Ne(k+1)-k_{d}Ne(k)
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	u_{d}(k)-u_{d}(k-1)+NT_{s}u_{d}(k-1)=k_{d}Ne(k)-k_{d}Ne(k-1)
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	u_{d}(k) = k_{d}Ne(k)-k_{d}Ne(k-1)+u_{d}(k-1)-NT_{s}u_{d}(k-1)
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	u_{d}(k) = (1-N\cdot T_{s})\cdot u_{d}(k-1)+k_{d}\cdot N\cdot e(k)-k_{d}\cdot N\cdot e(k-1)
+\end{align*}
+$$
 

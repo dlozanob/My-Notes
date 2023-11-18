@@ -183,16 +183,16 @@
 	- Ich werde meine Eltern besuchen -> Futur I
 
 
-## Je.. Desto/umso
+## Je.. desto/umso
 
 - _Je_ mehr _Geld_ die Menschen haben, _desto_ mehr Autos kaufen
-- _Je_ mehr Eis schmilz, _desto_ höher wird der Meerespiegel
+- _Je_ mehr Eis schmilz, _umso_ höher wird der Meerespiegel
 
 - _Bsp_
-	- Ja mehr Fleisch die Menschen essen, desto mehr Tiere muss die Landwirtschaft züchten
-	- Je weniger Schnee in den Alpen fällt, desto weniger Wintersporttouristen gibt es
-	- Je mehr Menschen es gibt, desto mehr Umweltprobleme gibt es
-
+	- _Je_ mehr Fleisch die Menschen essen, _desto_ mehr Tiere muss die Landwirtschaft züchten
+	- _Je_ weniger Schnee in den Alpen es fällt, _desto_ weniger Wintersporttouristen gibt es
+	- _Je_ mehr Menschen es gibt, _desto_ mehr Umweltprobleme gibt es
+	
 
 ## Partizip I und Partizip II als Adjektive
 
@@ -240,7 +240,11 @@
 	- Sie hatte vergessen den Wecker anzustellen, denn der Wecker hat nicht geklingelt
 
 
+## Possesiv mit Genitiv
 
+- Maria freue sich über, die Kinder ihrer Schwester
+- Peter unterhält mit, der Schwester seines Schwagers
+- Maria bietet Kuchen, den Eltern ihres Schwiegersohns
 
 
 

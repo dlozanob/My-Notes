@@ -34,7 +34,7 @@ $$
 \end{align*}
 $$
 
-Sin embargo, cuando $A$ es una matriz, se debe resolver:
+Sin embargo, cuando $A$ es una matriz $n\times n$ porque $x$ es un vector de $n$ estados, se debe resolver:
 
 $$
 \begin{align*}
