@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "591bc4cdd4300ac4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Main.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -126,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cap. 3. Solución de las ecuaciones de estado de sistemas LTI.md",
+                "file": "Main.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cap. 3. Solución de las ecuaciones de estado de sistemas LTI.md",
+                "file": "Main.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cap. 3. Solución de las ecuaciones de estado de sistemas LTI.md"
+                "file": "Main.md"
               }
             }
           },
@@ -223,7 +235,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249.5
+    "width": 249.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -237,20 +250,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "60f2088d8fa90765",
+  "active": "591bc4cdd4300ac4",
   "lastOpenFiles": [
+    "LaTeX.md",
+    "Cap. 3. Solución de las ecuaciones de estado de sistemas LTI.md",
+    "TO DO.md",
+    "Excalidraw/whiteboard.excalidraw.md",
+    "Excalidraw/attachments/Pasted Image 20231119162420_343.png",
+    "Excalidraw/attachments/Pasted Image 20231119162350_324.png",
+    "Linked note.md",
+    "Cap. 5. Diseño con ecuaciones de estado.md",
     "Señales y Sistemas II.md",
     "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
     "Cap. 4. Análisis cualitativo de sistemas LTI.md",
-    "Cap. 5. Diseño con ecuaciones de estado.md",
-    "LaTeX.md",
-    "Linked note.md",
-    "Excalidraw/whiteboard.excalidraw.md",
     "attachments/Pasted image 20231117223647.png",
     "attachments/Pasted image 20231117223624.png",
     "Excalidraw/attachments/Pasted Image 20231117223503_923.png",
     "Control.md",
-    "TO DO.md",
     "Deutsch_B1.md",
     "Deutsch_A2.md",
     "Excalidraw/attachments/Pasted Image 20231117151213_116.png",
@@ -258,8 +274,6 @@
     "Excalidraw/attachments/Pasted Image 20231117145136_863.png",
     "Excalidraw/attachments/Pasted Image 20231117145058_132.png",
     "Excalidraw/attachments/Pasted Image 20231117143202_890.png",
-    "Excalidraw/attachments/Pasted Image 20231117142614_369.png",
-    "Excalidraw/attachments/Pasted Image 20231117141908_126.png",
     "Deutsch.md",
     "Laboratorio de Control.md",
     "Main.md",
@@ -273,8 +287,6 @@
     "Automatización, Control y Robótica.md",
     "Automatización%2C Control y Robótica.md",
     "Análisis dinámico.md",
-    "Mecanismos.md",
-    "Uniones.md",
     "Local Backup.rar",
     "Local Notes Backup.rar",
     "attachments",

@@ -2,7 +2,7 @@
   "accentColor": "#fff700",
   "theme": "obsidian",
   "cssTheme": "Cybertron",
-  "baseFontSize": 30,
+  "baseFontSize": 27,
   "baseFontSizeAction": true,
   "translucency": true,
   "enabledCssSnippets": [

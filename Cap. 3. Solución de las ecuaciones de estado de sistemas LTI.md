@@ -185,7 +185,7 @@ De tal manera que:
 $$
 \begin{align*}
 	e^{ \bar{A}t } &= I + \bar{A}t + \frac{\bar{A}^{2}t^{2}}{2!} + \frac{\bar{A}^{3}t^{3}}{3!} + \dots \\\\
-	e^{ \bar{A}t } &= \begin{pmatrix}
+	e^{ \bar{A}t } &= A\sum_{n=0}^{\infty} \frac{(At)^{n}}{n!} = \begin{pmatrix}
 \sum_{n=0}^{\infty} \frac{\lambda_{1}^{n}t^{n}}{n!} & 0 & 0 & . & 0 \\
 0 & \sum_{n=0}^{\infty} \frac{\lambda_{2}^{n}t^{n}}{n!} & 0 & . & 0 \\
 0 & 0 & \sum_{n=0}^{\infty} \frac{\lambda_{3}^{n}t^{n}}{n!} & . & 0 \\

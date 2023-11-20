@@ -17,6 +17,8 @@
 
 - [ ] TPI
 	- [ ] Documento
+		- [ ] REFERENCIAR
+		- [ ] ORGANIZAR REF's
 	- [ ] Proyecto
 
 - [ ] Diseño de Elementos de Máquinas I
