@@ -6,7 +6,8 @@
 - [ ] Control
 	- [x] Apuntes
 	- [ ] Reto 6: 28 NOV
-0
+	- [ ] Presentación Laboratorio
+
 - [ ] Sensores y Actuadores
 	- [ ] Apuntes
 		- [ ] PM8 (Slide 68)
@@ -16,9 +17,9 @@
 	- [ ] Proyecto
 
 - [ ] TPI
-	- [ ] Documento
-		- [ ] REFERENCIAR
-		- [ ] ORGANIZAR REF's
+	- [x] Documento
+		- [x] REFERENCIAR
+		- [x] ORGANIZAR REF's
 	- [ ] Proyecto
 
 - [ ] Diseño de Elementos de Máquinas I

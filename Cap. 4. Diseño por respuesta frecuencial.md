@@ -200,7 +200,7 @@ $$
 
 
 - El número de vueltas de $F(C_{1})$ alrededor del origen (sentido horario) es igual a $P_{F}$
-- el número de vueltas de $G_{l}(s)$ alrededor de $(-1, 0)$ (sentido anti-horario) es igual a $P_{G_{l}}$
+- El número de vueltas de $G_{l}(s)$ alrededor de $(-1, 0)$ (sentido anti-horario) es igual a $P_{G_{l}}$
 Donde $P_{G_{l}}$ es el número de polos en el semiplano derecho
 
 

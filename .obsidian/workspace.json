@@ -8,50 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "adae4c17a2afac3c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cap. 5. Diseño con ecuaciones de estado.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "38abee38df5df3b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linked note.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "047f09df7f27d974",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LaTeX.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "60f2088d8fa90765",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
             "id": "03e8c8cc3e2fa6c8",
             "type": "leaf",
             "state": {
@@ -62,9 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "75ee27f194fe062f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TO DO.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "64abf2579c2469e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cap. 4. Diseño por respuesta frecuencial.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -134,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "After Effects Hotkeys.md",
+                "file": "Cap. 4. Diseño por respuesta frecuencial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "After Effects Hotkeys.md",
+                "file": "Cap. 4. Diseño por respuesta frecuencial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "After Effects Hotkeys.md"
+                "file": "Cap. 4. Diseño por respuesta frecuencial.md"
               }
             }
           },
@@ -246,17 +226,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "03e8c8cc3e2fa6c8",
+  "active": "64abf2579c2469e8",
   "lastOpenFiles": [
+    "Control.md",
+    "TO DO.md",
     "After Effects Hotkeys.md",
+    "LaTeX.md",
+    "Excalidraw/whiteboard.excalidraw.md",
+    "Linked note.md",
     "Cap. 3. Solución de las ecuaciones de estado de sistemas LTI.md",
     "Main.md",
-    "LaTeX.md",
-    "TO DO.md",
-    "Excalidraw/whiteboard.excalidraw.md",
     "Excalidraw/attachments/Pasted Image 20231119162420_343.png",
     "Excalidraw/attachments/Pasted Image 20231119162350_324.png",
-    "Linked note.md",
     "Cap. 5. Diseño con ecuaciones de estado.md",
     "Señales y Sistemas II.md",
     "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
@@ -264,7 +245,6 @@
     "attachments/Pasted image 20231117223647.png",
     "attachments/Pasted image 20231117223624.png",
     "Excalidraw/attachments/Pasted Image 20231117223503_923.png",
-    "Control.md",
     "Deutsch_B1.md",
     "Deutsch_A2.md",
     "Excalidraw/attachments/Pasted Image 20231117151213_116.png",

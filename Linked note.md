@@ -116,13 +116,6 @@ Hey! This is a linked note.
 
 
 
-$$
-\begin{align*}
-	\frac{X_{3}(s)}{V_{in}(s)}=\frac{4}{s-2},\,\,\,\, \frac{X_{2}(s)}{X_{3}(s)}=\frac{2}{s+2}
-\end{align*}
-$$
-
-
 
 
 
