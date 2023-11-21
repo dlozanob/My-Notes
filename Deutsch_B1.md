@@ -247,6 +247,20 @@
 - Maria bietet Kuchen, den Eltern ihres Schwiegersohns
 
 
+## Doppelkonjuktionen
+
+- _entweder...aber_
+- _weder...noch_
+- _sowohl...als auch..._
+- _zwar...aber_
+- _je...desto/umso_
+- _nicht nur...sondern auch..._
+
+- _Bsp_
+	- Ich trinke _weder_ Kaffee _noch_ Tee
+	- Mein Vater spricht _sowohl_ Englisch _als auch_ Deutsch
+	- Peter spielt _nicht nur_ Gitarre _sondern auch_ Trompete
+	- Das Haus ist _zwar_ groß _aber_ ziemlich teuer
 
 
 

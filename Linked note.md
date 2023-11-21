@@ -110,9 +110,36 @@ Hey! This is a linked note.
 - Überzeugen -> Convencer
 - Erziehen -> Educar
 - Alleinerziehendevater -> Padre soltero
+- Ohrfeigen -> Abofetear
+- Reife -> Madurez
+- Abbrechen -> Interrumpirse
+- Jedoch -> Sin embargo
+- Klauen -> Raspar
+- Hineinstopfen -> meter apretadamente
+- Anschließend -> Posteriormente
+- Fernbedienung -> Control remoto
+- Rauf/Runter -> Hacia arriba/abajo
+- Plappern -> Cotorrear
+- Notwendig -> Indispensable
+- Trennen -> Separar
+- Zappen -> Canalear
+- Eben -> Justamente
+- Röteln -> Rubeola
+- Windpocken -> Varicela
+- Klagen -> Lamentarse
+- Übergewicht -> Sobrepeso
+- Verordnen -> Preescribir
+- Reihenweise -> En serie
+- Verabredung -> Cita de negocios
+- Verlegen -> Aplazar
+- Auskommen -> Defenderse
+- Heimkommen -> Regresar a casa
+- Sich beschäftigen -> Ocuparse con algo
+- Zurücklegen -> Recorrer un trayecto a pie
+- Tüte -> Bolsa de caramelos
+- Mumms -> Paperas
 
 ---
-
 
 
 

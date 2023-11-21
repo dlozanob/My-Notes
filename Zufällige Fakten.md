@@ -89,6 +89,14 @@ Alle -> Todos
 Gern = Gerne
 
 ---
+Oft gehen sie sehr spät ins Bett, denn viele von ihnen leiden unter Einsclahstörungen
+
+---
+Passen aufeinander -> Cuidar uno de los otros
+
+---
+
+
 
 
 

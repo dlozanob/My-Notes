@@ -13,7 +13,7 @@
 		- [ ] PM8 (Slide 68)
 		- [ ] PM9
 		- [ ] PM10
-	- [ ] Práctica 5
+	- [x] Práctica 5
 	- [ ] Proyecto
 
 - [ ] TPI

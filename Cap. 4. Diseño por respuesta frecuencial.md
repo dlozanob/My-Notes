@@ -310,7 +310,7 @@ En este caso, $G_{l}(j\omega)$ cruza el punto crítico, eso quiere decir que hay
 
 Si desde este punto, se desplaza el cardiode hacia la derecha, habrán ceros sobre el semi-plano derecho.
 
-El punto incial tenía coordenadas: $(-0.04, 0)$, entonces la ganancia $k$ debe ser $\frac{1}{0.04}$ para que al multiplicarse con el nyquist: $\frac{1}{0.04}\cdot(-0.04, 0) = (-1, 0)$, se convierta en la coordenada del punto crítico.
+El punto inicial tenía coordenadas: $(-0.04, 0)$, entonces la ganancia $k$ debe ser $\frac{1}{0.04}$ para que al multiplicarse con el nyquist: $\frac{1}{0.04}\cdot(-0.04, 0) = (-1, 0)$, se convierta en la coordenada del punto crítico.
 
 >[!Info]
 >`feedback(G1, G2)` halla $G_{o}(s)$. 
@@ -512,7 +512,13 @@ En un diagrama de Bode es posible conocer $\lim_{ s \to 0 }G_{l}(s)$ .
 
 Pero $\lim_{ s \to 0 }G_{l}(s) =\infty$ . Entonces el error de posición es $0$ .
 
-- $K_{p}$ : Constante de error de posición -> Hace que el error de posición no sea $0$
+- $K_{p}$ : Constante de error de posición
+
+$$
+\begin{align*}
+	e_{p} = \mid\frac{1}{K_{p}}\mid
+\end{align*}
+$$
 
 
 ### Error de velocidad
@@ -589,7 +595,7 @@ Un mayor ancho de banda hace que el sistema sea más rápido.
 
 
 >[!Note]
->Los _picos de resonancia_ (pico en el dominio de la frecuencia), tienen una relación directa con los picos en el dominio del tiempo
+>Los _picos de resonancia_ (picos en el dominio de la frecuencia), tienen una relación directa con los picos en el dominio del tiempo
 
 ---
 Considerar el sistema:
@@ -626,7 +632,7 @@ Se puede notar que aumentar $k$, corre la curva hacia la derecha -> Aumenta $\om
 
 Pero esto disminuye el margen de fase.
 
-El diagrama de Bode para todas las ganancias es el mismo:
+El diagrama de Bode en fase para todas las ganancias es el mismo:
 
 ![](attachments/Pasted%20image%2020231025174646.png)
 
@@ -635,8 +641,7 @@ Pero al desplazarse $\omega_{c}$ a la derecha, nos desplazamos también a la der
 ---
 ## Frecuencias de corte en un diagrama de Bode
 
-Las frecuencias de corte de diagrama de Bode de un sistema pueden ser vistas en su función de transferencia
-de la siguiente manera:
+Las frecuencias de corte de diagrama de Bode de un sistema pueden ser vistas en su función de transferencia de la siguiente manera:
 
 $$
 \begin{align*}
@@ -732,7 +737,7 @@ Se sugiere que se cumpla el criterio:
 
 $$
 \begin{align*}
-	\frac{10}{aT_{1}} = \omega_{g}
+	\boxed{\frac{10}{aT_{1}} = \omega_{g}}
 \end{align*}
 $$
 
@@ -769,7 +774,7 @@ $$
 \end{align*}
 $$
 
-Diseñe un \compensador en atraso que permita $K_v \geq 50$ y un margen de fase $\geq 40\degree$ .
+Diseñe un compensador en atraso que permita $K_v \geq 50$ y un margen de fase $\geq 40\degree$ .
 
 
 La planta es de tipo $1$, ya que, posee un único integrador, esto hace que el error de posición sea cero, por tanto, se puede hablar de un error de velocidad constante. La constante de error de velocidad es:
@@ -872,6 +877,9 @@ Diagrama de Bode en magnitud:
 
 Se activa el polo en $\frac{1}{T_{2}}$, este posee $-20\,\,dB/dec$, por lo que se suma a la pendiente que ya estaba, esto hace que la línea permanezca constante.
 
+>[!Note]
+>Si en magnitud se tienen $-20\,\,dB/dec$, la fase tiene una asíntota en $-90°$, si se tienen $-40\,\,dB/dec$, la fase se aproxima a $-180°$
+
 ![](attachments/Pasted%20image%2020231101164825.png)
 
 >[!Note]
@@ -888,7 +896,12 @@ $$
 $$
 \begin{align*}
 	\log_{10}\omega_{m} &= \frac{\log_{10}\left( \frac{1}{bT_{2}} \right)+\log_{10}\left( \frac{1}{T_{2}} \right)}{2} \\\\
-	&\omega_{m} = \frac{1}{T_{2}}\sqrt{ \frac{1}{b} }
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	\boxed{T_{2} = \frac{1}{\omega_{m}\sqrt{ b }}}
 \end{align*}
 $$
 
@@ -958,7 +971,7 @@ $$
 
 - __Ejemplo__ :
 
-Considere la planta que viene dada por medio de
+Considere la planta que viene dada por medio de:
 
 $$
 \begin{align*}
@@ -995,7 +1008,7 @@ $$
 \end{align*}
 $$
 
-La magnitud que se debe atenuar la planta para lograr una frecuencia de cruce de ganancia en el punto donde el compensador aporta su máxima fase, es:
+La magnitud que se debe amplificar la planta para lograr una frecuencia de cruce de ganancia en el punto donde el compensador aporta su máxima fase, es:
 
 $$
 \begin{align*}
@@ -1056,7 +1069,7 @@ $$
 \end{align*}
 $$
 
-Se propone usar un compensador atraso.adelanto, de tal manera que $P_{m}\geq 50°$ y $K_{v} = 10$ .
+Se propone usar un compensador atraso-adelanto, de tal manera que $P_{m}\geq 50°$ y $K_{v} = 10$ .
 
 $$
 \begin{align*}
@@ -1091,4 +1104,4 @@ Siendo así, el compensador en adelanto pone $56°$, el compensador en atraso ba
 Al actuar el compensador en adelanto, se sube la magnitud $20.6$ . Esto es lo que debe atenuar el compensador en atraso.
 
 >[!Note]
->Si la planta tiene muchos polos, puede haber problemas con los compensadores en adelante
+>Si la planta tiene muchos polos, puede haber problemas con los compensadores en adelanto
