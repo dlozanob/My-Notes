@@ -18,6 +18,16 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "37efae3e8c113419",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/whiteboard.excalidraw.md"
+              }
+            }
           }
         ]
       }
@@ -203,33 +213,33 @@
   },
   "active": "70f5cbb0b532ccb3",
   "lastOpenFiles": [
+    "Excalidraw/whiteboard.excalidraw.md",
+    "Excalidraw/attachments/Pasted Image 20231121113748_148.png",
+    "Deutsch_B1.md",
+    "attachments/Pasted image 20231121113559.png",
+    "attachments/Pasted image 20231121113549.png",
+    "attachments/Pasted image 20231121113532.png",
+    "attachments/Pasted image 20231121113521.png",
+    "Excalidraw/attachments/Pasted Image 20231121112557_168.png",
     "Deutsch.md",
     "TO DO.md",
     "Linked note.md",
     "Cap. 4. Diseño por respuesta frecuencial.md",
     "Control.md",
-    "Excalidraw/whiteboard.excalidraw.md",
     "Excalidraw/attachments/Pasted Image 20231120102032_197.png",
     "Excalidraw/attachments/Pasted Image 20231120102032_149.png",
     "Zufällige Fakten.md",
     "Deutsch_A2.md",
     "Excalidraw/attachments/Pasted Image 20231120094216_182.png",
     "Excalidraw/attachments/Pasted Image 20231120094200_155.png",
-    "Excalidraw/attachments/Pasted Image 20231120093504_031.png",
     "After Effects Hotkeys.md",
     "LaTeX.md",
     "Cap. 3. Solución de las ecuaciones de estado de sistemas LTI.md",
     "Main.md",
-    "Excalidraw/attachments/Pasted Image 20231119162420_343.png",
-    "Excalidraw/attachments/Pasted Image 20231119162350_324.png",
     "Cap. 5. Diseño con ecuaciones de estado.md",
     "Señales y Sistemas II.md",
     "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
     "Cap. 4. Análisis cualitativo de sistemas LTI.md",
-    "attachments/Pasted image 20231117223647.png",
-    "attachments/Pasted image 20231117223624.png",
-    "Excalidraw/attachments/Pasted Image 20231117223503_923.png",
-    "Deutsch_B1.md",
     "Laboratorio de Control.md",
     "Excalidraw/blackboard.excalidraw.md",
     "Sensores y Actuadores.md",

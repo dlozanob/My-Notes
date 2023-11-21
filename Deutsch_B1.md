@@ -249,12 +249,19 @@
 
 ## Doppelkonjuktionen
 
-- _entweder...aber_
+- _entweder...oder_
+![](attachments/Pasted%20image%2020231121113559.png)
+
 - _weder...noch_
+![](attachments/Pasted%20image%2020231121113549.png)
+
 - _sowohl...als auch..._
+![](attachments/Pasted%20image%2020231121113521.png)
+
 - _zwar...aber_
 - _je...desto/umso_
 - _nicht nur...sondern auch..._
+![](attachments/Pasted%20image%2020231121113532.png)
 
 - _Bsp_
 	- Ich trinke _weder_ Kaffee _noch_ Tee
