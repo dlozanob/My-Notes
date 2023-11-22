@@ -4,33 +4,44 @@
     "type": "split",
     "children": [
       {
-        "id": "5ac61687060af39c",
+        "id": "1b98b7b7c5a3c388",
         "type": "tabs",
         "children": [
           {
-            "id": "70f5cbb0b532ccb3",
+            "id": "149c26d906b2a479",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deutsch_B1.md",
+                "file": "Cap. 5. Diseño con ecuaciones de estado.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "37efae3e8c113419",
+            "id": "981572eb63a2e4ef",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/whiteboard.excalidraw.md"
+                "file": "Excalidraw/blackboard.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "6a2cb12eb0573239",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linked note.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/whiteboard.excalidraw.md",
+                "file": "Cap. 5. Diseño con ecuaciones de estado.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/whiteboard.excalidraw.md",
+                "file": "Cap. 5. Diseño con ecuaciones de estado.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/whiteboard.excalidraw.md"
+                "file": "Cap. 5. Diseño con ecuaciones de estado.md"
               }
             }
           },
@@ -212,43 +223,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "37efae3e8c113419",
+  "active": "149c26d906b2a479",
   "lastOpenFiles": [
-    "Deutsch_B1.md",
+    "attachments/Pasted image 20231122162517.png",
+    "Excalidraw/blackboard.excalidraw.md",
+    "Cap. 5. Diseño con ecuaciones de estado.md",
+    "Linked note.md",
+    "Control.md",
+    "Microcontrollers.md",
+    "TO DO.md",
     "Excalidraw/whiteboard.excalidraw.md",
+    "Deutsch_B1.md",
+    "Excalidraw/attachments/Pasted Image 20231121122530_287.png",
+    "Excalidraw/attachments/Pasted Image 20231121122530_240.png",
+    "Excalidraw/attachments/Pasted Image 20231121121503_162.png",
+    "Excalidraw/attachments/Pasted Image 20231121121135_153.png",
+    "Excalidraw/attachments/Pasted Image 20231121120722_148.png",
     "Excalidraw/attachments/Pasted Image 20231121115010_144.png",
     "Excalidraw/attachments/Pasted Image 20231121114955_126.png",
     "Excalidraw/attachments/Pasted Image 20231121114606_375.png",
     "Excalidraw/attachments/Pasted Image 20231121114111_602.png",
     "Excalidraw/attachments/Pasted Image 20231121113918_530.png",
-    "Excalidraw/attachments/Pasted Image 20231121113748_148.png",
-    "attachments/Pasted image 20231121113559.png",
-    "attachments/Pasted image 20231121113549.png",
-    "attachments/Pasted image 20231121113532.png",
-    "attachments/Pasted image 20231121113521.png",
     "Deutsch.md",
-    "TO DO.md",
-    "Linked note.md",
     "Cap. 4. Diseño por respuesta frecuencial.md",
-    "Control.md",
     "Zufällige Fakten.md",
     "Deutsch_A2.md",
     "After Effects Hotkeys.md",
     "LaTeX.md",
     "Cap. 3. Solución de las ecuaciones de estado de sistemas LTI.md",
     "Main.md",
-    "Cap. 5. Diseño con ecuaciones de estado.md",
     "Señales y Sistemas II.md",
     "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
     "Cap. 4. Análisis cualitativo de sistemas LTI.md",
     "Laboratorio de Control.md",
-    "Excalidraw/blackboard.excalidraw.md",
     "Sensores y Actuadores.md",
     "Cap. 2 Metrología.md",
     "Cap. 3. Lugar geométrico de las raices.md",
     "Cap. 5 Sensores.md",
     "Cap. 1 Instrumentación.md",
-    "Automatización, Control y Robótica.md",
     "Local Backup.rar",
     "Local Notes Backup.rar",
     "attachments",

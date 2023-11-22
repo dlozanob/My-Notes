@@ -405,3 +405,56 @@ k_{2}=16
 \end{align*}
 $$
 
+---
+
+![](attachments/Pasted%20image%2020231122162517.png)
+
+$$
+\begin{align*}
+	u(t)&= -kx=-k_{1}x_{1}-k_{2}x_{2}-\dots-k_{n}x_{n} \\\\
+	&= \vec{k}\cdot \vec{u}
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	\vec{k}=
+	\begin{bmatrix}
+k_{1} & k_{2} & \dots & k_{n}
+\end{bmatrix}
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	\vec{x} =
+	\begin{pmatrix}
+x_{1} \\
+x_{2} \\
+. \\
+. \\
+x_{n}
+\end{pmatrix}
+\end{align*}
+$$
+
+
+>[!Note]
+>Hacemos contol con variables de estados -> Control por realimentación de estados
+
+Reemplazando $u$ :
+
+$$
+\begin{align*}
+	\dot{x}&= Ax+B(-kx) \\\\
+	&= \underbrace{ (A-Bk) }_{ (*) }x
+\end{align*}
+$$
+
+- $(*)$ : Matriz de transición de estado del sistema de control
+
+
+- _Condición necesaria y suficiente para que una planta sea controlable :_
+	- 
+
+

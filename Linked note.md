@@ -143,6 +143,10 @@ Hey! This is a linked note.
 
 
 
-
+$$
+\begin{align*}
+	y=Cx+Du
+\end{align*}
+$$
 
 

@@ -5,8 +5,8 @@
 - [Cap. 1 Instrumentación](Cap.%201%20Instrumentación.md)
 - [Cap. 2 Metrología](Cap.%202%20Metrología.md)
 - [Cap. 3 Actuadores](Cap.%203%20Actuadores.md)
-- [Cap. 4 Adquisición de datos](Cap.%204%20Adquisición%20de%20datos)
-- [[Cap. 5 Sensores]]
+- [Cap. 4 Adquisición de datos](Cap.%204%20Adquisición%20de%20datos.md)
+- [Cap. 5 Sensores](Cap.%205%20Sensores.md)
 
 
 
