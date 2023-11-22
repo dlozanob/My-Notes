@@ -14,7 +14,7 @@ tags: [excalidraw]
 11a867c6070d2766a0d1d200308b48d09a01450c: $$\begin{align*} 	y=Cx+Du \end{align*}$$
 163cff3c026b44911fe7f8a64b705b3aecc77ddc: $$K$$
 0ea1ccf54a6e7c4a71a134aef55f5b4883c2b994: $$X$$
-0ef925d0a601541ff5ec1dc23d8311c2f266ab11: $$r$$
+0ef925d0a601541ff5ec1dc23d8311c2f266ab11: $$r=0$$
 14c238545d66c5605981adcf2c8a3f1731c31330: $$u$$
 edc8508bc4228dabd84358766b523c0cd991690b: $$y$$
 613013c966af01c24394772cc835d0fea54b250c: $$-$$
@@ -29,8 +29,8 @@ edc8508bc4228dabd84358766b523c0cd991690b: $$y$$
 	"elements": [
 		{
 			"type": "rectangle",
-			"version": 39,
-			"versionNonce": 5619538,
+			"version": 41,
+			"versionNonce": 162477842,
 			"isDeleted": false,
 			"id": "1VBNt6wTKpYhIVRea9Dmu",
 			"fillStyle": "solid",
@@ -58,7 +58,7 @@ edc8508bc4228dabd84358766b523c0cd991690b: $$y$$
 					"type": "arrow"
 				}
 			],
-			"updated": 1700688217014,
+			"updated": 1700692190293,
 			"link": null,
 			"locked": false
 		},
@@ -257,8 +257,8 @@ edc8508bc4228dabd84358766b523c0cd991690b: $$y$$
 		},
 		{
 			"type": "arrow",
-			"version": 55,
-			"versionNonce": 354703502,
+			"version": 425,
+			"versionNonce": 163411794,
 			"isDeleted": false,
 			"id": "953R6Jz2uE8_2-ZyaLW7b",
 			"fillStyle": "solid",
@@ -267,23 +267,23 @@ edc8508bc4228dabd84358766b523c0cd991690b: $$y$$
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -147.6315789473681,
-			"y": -13.2314967105263,
+			"x": -144.9472131656578,
+			"y": -17.6759411549707,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 118.9473684210526,
-			"height": 101.0526315789474,
+			"width": 120.05847953216357,
+			"height": 106.60818713450294,
 			"seed": 2059270094,
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1700688217014,
+			"updated": 1700692196564,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "1VBNt6wTKpYhIVRea9Dmu",
-				"focus": 0.05195920788568172,
-				"gap": 6.768503289473699
+				"focus": 0.029700993362722874,
+				"gap": 2.324058845029299
 			},
 			"endBinding": null,
 			"lastCommittedPoint": null,
@@ -295,12 +295,12 @@ edc8508bc4228dabd84358766b523c0cd991690b: $$y$$
 					0
 				],
 				[
-					2.1052631578947967,
-					101.0526315789474
+					0.5320084872954567,
+					106.60818713450294
 				],
 				[
-					-116.8421052631578,
-					100
+					-119.52647104486812,
+					104.4444444444444
 				]
 			]
 		},
@@ -481,8 +481,8 @@ edc8508bc4228dabd84358766b523c0cd991690b: $$y$$
 		},
 		{
 			"type": "image",
-			"version": 17,
-			"versionNonce": 962899346,
+			"version": 167,
+			"versionNonce": 999092046,
 			"isDeleted": false,
 			"id": "khDIjm6Y",
 			"fillStyle": "hachure",
@@ -491,8 +491,8 @@ edc8508bc4228dabd84358766b523c0cd991690b: $$y$$
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -404.07484560788964,
-			"y": 104.42639802631584,
+			"x": -122.96373449677844,
+			"y": 41.09306469298252,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 31.162872154115643,
@@ -501,7 +501,7 @@ edc8508bc4228dabd84358766b523c0cd991690b: $$y$$
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1700688274817,
+			"updated": 1700692199262,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -513,8 +513,8 @@ edc8508bc4228dabd84358766b523c0cd991690b: $$y$$
 		},
 		{
 			"type": "image",
-			"version": 61,
-			"versionNonce": 1850019534,
+			"version": 64,
+			"versionNonce": 2008683666,
 			"isDeleted": false,
 			"id": "oEDKhqtx",
 			"fillStyle": "hachure",
@@ -523,17 +523,17 @@ edc8508bc4228dabd84358766b523c0cd991690b: $$y$$
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -558.7986450364082,
-			"y": -75.83924857705787,
+			"x": -579.9599236853635,
+			"y": -61.51760925955266,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 15.581436077057822,
-			"height": 15.581436077057822,
+			"width": 81.26655754205117,
+			"height": 26.356721364989568,
 			"seed": 28121,
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1700688276268,
+			"updated": 1700692025047,
 			"link": null,
 			"locked": false,
 			"status": "pending",

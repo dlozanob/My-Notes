@@ -407,12 +407,20 @@ $$
 
 ---
 
-![](attachments/Pasted%20image%2020231122162517.png)
+![](attachments/Pasted%20image%2020231122173016.png)
+
+Con $r(t) = 0$, _ley de control_ :
 
 $$
 \begin{align*}
 	u(t)&= -kx=-k_{1}x_{1}-k_{2}x_{2}-\dots-k_{n}x_{n} \\\\
 	&= \vec{k}\cdot \vec{u}
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	\boxed{u(t)=-\vec{k}\cdot \vec{x}}
 \end{align*}
 $$
 
@@ -455,6 +463,191 @@ $$
 
 
 - _Condición necesaria y suficiente para que una planta sea controlable :_
-	- 
+	- El rango de $[BAB\dots A^{n-1}B]$ (_matriz de controlabilidad_) es $n$
+
+
+>[!Note]
+>Si una planta es controlable, se le pueden poner los valores propios que uno quiera a $(A-Bk)$
+
+---
+
+- __Ejemplo__ :
+
+Dado:
+
+$$
+\begin{align*}
+A=	\begin{bmatrix}
+0 & 1 \\
+-1 & 1
+\end{bmatrix}\,\,;\,\,B=
+\begin{bmatrix}
+1 \\
+3
+\end{bmatrix}
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	C=
+	\begin{bmatrix}
+1 & 1
+\end{bmatrix}\,\,;\,\,
+D=0
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	Ctr = [BAB]=
+	\begin{bmatrix}
+1 & 3 \\
+3 & 2
+\end{bmatrix}
+\end{align*}
+$$
+
+- $Ctr$ : Matriz de controlabilidad
+
+>[!Note]
+>Se toma la matriz de controlabilidad solo como $[BAB]$ porque $n = 2$, entonces $A^{n-1}B=AB$
+
+$$
+\begin{align*}
+	\det(Ctr)=2-9=-7\neq 0
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	rango(Ctr)=2=n
+\end{align*}
+$$
+
+Valores propios de $A$ :
+
+$$
+\begin{align*}
+	\det(sI-A)=0
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	\det(\begin{bmatrix}
+s & -1 \\
+1 & s-1
+\end{bmatrix})=s(s-1)-1&= s^{2}-s+1 \\\\
+	&= \pm i \frac{\sqrt{ 3 }}{2}+\frac{1}{2}
+\end{align*}
+$$
+
+
+Valores propios deseados del sistema de control: $(-10;-10)$ .
+
+Entonces:
+
+$$
+\begin{align*}
+	\det(sI-(A-Bk))=(s+10)^{2}
+\end{align*}
+$$
+
+Se propone $u$ :
+
+$$
+\begin{align*}
+	u = -k_{1}x_{1}-k_{2}x_{2}
+\end{align*}
+$$
+
+La matriz de controlabilidad es:
+
+$$
+\begin{align*}
+	A-Bk&= 
+	\begin{bmatrix}
+0 & 1 \\
+-1 & 1
+\end{bmatrix}-
+\begin{bmatrix}
+1 \\
+3
+\end{bmatrix}
+\begin{bmatrix}
+k_{1} & k_{2}
+\end{bmatrix} \\\\
+	&= \begin{bmatrix}
+-k_{1} & 1-k_{2} \\
+-1-3k_{1} & 1-3k_{2}
+\end{bmatrix}
+
+\end{align*}
+$$
+
+Entonces:
+
+$$
+\begin{align*}
+	\det(sI-(A-Bk))&= 
+	\det(
+	\begin{bmatrix}
+s+k_{1} & -1+k_{2} \\
+1+3k_{1} & s-1+3k_{2}
+\end{bmatrix})
+\end{align*}
+$$
+
+
+El polinomio característico es:
+
+$$
+\begin{align*}
+	A-Bk&= s^{2}-s+3k_{2}s+k_{1}s-k_{1}+3k_{1}k_{2}+1-k_{2}+3k_{1}-3k_{1}k_{2} \\\\
+	&= s^{2}+(3k_{2}+k_{1}-1)s+2k_{1}-k_{2}+1
+\end{align*}
+$$
+
+Siendo así, se tiene un sistema de $2$ ecuaciones con $2$ incógnitas:
+
+$$
+\begin{align*}
+	\left\{
+	\begin{array}{lcc}
+		3k_{2}+k_{1}-1=20+1 \\
+2k_{1}-k_{2}+1=100-1
+	\end{array}
+	\right.
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	\left\{
+	\begin{array}{lcc}
+		k_{1}=45.42 \\
+k_{2}=-8.14
+	\end{array}
+	\right.
+\end{align*}
+$$
+
+>[!Note]
+>- En Matlab `eig(A)` halla los vectores propios de $A$
+>- `acker(A, B, P)` usa el algoritmo de Ackermann, el cual calcula las $k$'s , esto lo hace de una manera distinta a como se hizo en el ejercicio
+>- `place(A, B, P)` halla también estas constantes. Pero tiene problemas cuando hay valores repetidos
+
+>[!Note]
+>El método de Ackermann se utiliza cuando hay muchos estados (por ejemplo de $10$ en adelante)
+
+>[!Note]
+>Los valores de los estados no siempre están disponibles, poner sensores para cada estado puede resultar muy costoso
+
+
+
+
+
+
 
 
