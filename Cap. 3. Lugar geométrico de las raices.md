@@ -133,7 +133,7 @@ Como:
 
 $$
 \begin{align*}
-	G(s) = \frac{G_{l}}{1 + G_{l}}
+	G_{o}(s) = \frac{G_{l}}{1 + G_{l}}
 \end{align*}
 $$
 

@@ -9,11 +9,12 @@
 	- [ ] Presentación Laboratorio
 
 - [ ] Sensores y Actuadores
-	- [ ] Apuntes
-		- [ ] PM8 (Slide 68)
-		- [ ] PM9
-		- [ ] PM10
+	- [x] Apuntes
+		- [x] PM8 (Slide 68)
+		- [x] PM9
+		- [x] PM10
 	- [x] Práctica 5
+	- [ ] Parcial 3: MARTES
 	- [ ] Proyecto
 
 - [x] TPI

@@ -96,7 +96,9 @@ Passen aufeinander -> Cuidar uno de los otros
 
 ---
 
+Erlauben -> Dat. zu
 
+---
 
 
 

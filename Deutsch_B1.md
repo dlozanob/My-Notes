@@ -270,6 +270,27 @@
 	- Das Haus ist _zwar_ groß _aber_ ziemlich teuer
 
 
+## Verb "Lassen"
+
+- _Hauptverb_
+	- _Aufhören_
+		- Ich _lasse_ das Rauchen
+		- Ich habe das Rauchen _gelassen_
+	- _Etwas nicht mehr tun_
+		- _Lass_ Papa in Ruhe!
+- _Hilfsverb: lassen + INF_
+	- _Etwas nicht mitnehmen_
+		- Ich _lasse_ das Auto in der Garage stehen
+	- _Etwas erlauben_
+		- Peter _lässt_ seinen Sohn auf die Party gehen
+	- _Etwas nicht selbst machen_
+		- Ich _lasse_ meine Haare schneiden
+		- Ich habe mein Fahrrad reparieren _lassen_
+
+>[!Note]
+>- Nicht mitnehmen
+>- (Nicht) Erlauben
+>- Nicht selbst machen
 
 
 

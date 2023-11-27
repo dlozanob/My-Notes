@@ -370,7 +370,13 @@ $$
 
 $$
 \begin{align*}
-	\boxed{ \frac{\hat{\Theta}}{\hat{F_{E}}}= \frac{1}{s^{2}+\frac{LB}{I}s+\frac{LW}{I}\cos \theta}}
+	\left( s^{2} + \frac{LB}{I}s + \frac{LW\cos y_{0}}{I} \right)\hat{Y} = \frac{L}{I}\hat{F}_{e}
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	\boxed{ \frac{\hat{\Theta}}{\hat{F_{E}}}= \frac{\frac{L}{I}}{s^{2}+\frac{LB}{I}s+\frac{LW}{I}\cos \theta}}
 \end{align*}
 $$
 
@@ -391,11 +397,62 @@ $$
 Estabilidad:
 - $\cos(\theta) > 0$ -> $90<\theta<270$
 
+Se midieron experimentalmente algunos parámetros:
+
 $$
 \begin{align*}
-	y(t)=1-\frac{}{}
+	\left\{
+	\begin{array}{lcc}
+		L = 0.1315\,\,m \\
+W = 0.1413\,\,N \\
+I=8.2317\times 10^{-5}\,\,m^{4}
+	\end{array}
+	\right.
 \end{align*}
 $$
+
+>[!Note]
+>La inercia se calcula de manera aproximada
+
+La fricción $B$ se determinó posicionando inicialmente el balancín a $90°$, se deja caer, se mide su posición a lo largo del tiempo hasta detenerse. Se obtiene una exponencial decreciente. El exponente de la exponencial es:
+
+$$
+\begin{align*}
+	\frac{LB}{2I}
+\end{align*}
+$$
+
+Al graficar y aplicar una aproximación exponencial con los datos obtenidos, se obtiene que este exponente es:
+
+$$
+\begin{align*}
+	0.5573
+\end{align*}
+$$
+
+Entonces:
+
+$$
+\begin{align*}
+	B = 6.9603\times 10^{-4}
+\end{align*}
+$$
+
+Planteando el modelo no lineal de la planta en Simulink:
+
+![](attachments/Pasted%20image%2020231124113715.png)
+
+Y replicando el experimento, se reajusta la inercia para obtener un modelo más preciso.
+
+El modelo de la planta es:
+
+$$
+\begin{align*}
+	 \frac{\hat{\Theta}}{\hat{F_{E}}}= \frac{1}{s^{2}+1.1146\cdot s+226.2169\cdot \cos \theta}
+\end{align*}
+$$
+
+
 
 
 ### Experimento de ganancia ($K$)
@@ -407,6 +464,16 @@ $$
 \begin{align*}
 	&\sum T = 0 \\\\
 	&F_{e}=\frac{W\cdot \sin\theta}{L}
+\end{align*}
+$$
+
+Al graficar $\theta$ con respecto $F_{e}$, se puede linealizar un rango, la pendiente de la recta es la ganancia.
+
+Se obtuvo:
+
+$$
+\begin{align*}
+	k = 0.0062
 \end{align*}
 $$
 
@@ -526,3 +593,17 @@ $$
 \end{align*}
 $$
 
+---
+
+
+
+$$
+\begin{align*}
+	\left\{
+	\begin{array}{lcc}
+		u_{i}(k)=k_{i}T_{s}e(k-1)+u_{i}(k-1) \\
+u_{d}(k) = (1-N\cdot T_{s})\cdot u_{d}(k-1)+k_{d}\cdot N\cdot e(k)-k_{d}\cdot N\cdot e(k-1)
+	\end{array}
+	\right.
+\end{align*}
+$$

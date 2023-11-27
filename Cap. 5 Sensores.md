@@ -151,7 +151,7 @@ Clasificación de la termocupla de acuerdo a sus metales:
 
 ![](attachments/Pasted%20image%2020231116115504.png)
 
-Cuando aumenta la temperatura, los iones se escitan, haciendo que sea más difícil para los electrones atravesar la región excitada. Es decir, un aumento en la temperatura significa en la resistencia.
+Cuando aumenta la temperatura, los iones se excitan, haciendo que sea más difícil para los electrones atravesar la región excitada. Es decir, un aumento en la temperatura significa un aumento en la resistencia.
 
 ![](attachments/Pasted%20image%2020231116113643.png)
 
@@ -226,7 +226,7 @@ Tipos:
 - _NTC_
 	- Negative Temperature Coefficient
 	- Resistencia disminuye con la temperatura
-- PTC
+- _PTC_
 	- Positive Temperature Coefficient
 	- Resistencia aumenta con la temperatura
 
@@ -481,15 +481,92 @@ Los elementos de fijación del termopozo son:
 - _Brida (flange)_
 	- Altas presiones
 	- Soldadas con soldadura TIG (homogeneidad de la interface vaina-brida)
-	- Rosca maquinada en la asta -> Facilidad de montaje y hermeticidad
-	- Soldadura -> Cuando se requiere fijar el termopozo directo al proceso
+- _Rosca maquinada en la asta_
+	- Facilidad de montaje y hermeticidad
+- _Soldadura_
+	- Cuando se requiere fijar el termopozo directo al proceso
 
 ---
 
 ### Sensores de presión
 
 
+>[!Note]
+>$1\,\,bar = 14.5\,\,psi$
+
+- _Presión de línea_
+	- Presión del líquido sobre las paredes del ducto que lo contiene
+- _Presión diferencial_
+	- Presión entre dos puntos de un tanque o una tubería
 
 
+#### Presóstato
+
+A una determinada presión, se acciona un interruptor
+
+![](attachments/Pasted%20image%2020231126180140.png)
+
+- Rango
+	- 0-31 bar
+- Tiempo de respuesta
+	- 30 ms
+- Rango de temperatura
+	- 10-40° C
+
+>[!NOte]
+>Las unidades más utilizadas de presión son atm
+
+
+#### Manómetro de Burdon
+
+Mide presiones entre 0 y $1\times 10^{4}$ kg/$cm^{2}$
+
+![](attachments/Pasted%20image%2020231126180359.png)
+
+
+#### Manómetro de columna de líquido
+
+- _De tubo de vidrio_
+	- En U
+	
+	![](attachments/Pasted%20image%2020231126180532.png)
+	
+	- De tintero
+		- La sección es hasta 1000 o 1500 la sección del tubo
+	
+	![](attachments/Pasted%20image%2020231126180623.png)
+	
+	- Tubo inclinado
+		- Se utiliza para alargar la escala
+	
+	![](attachments/Pasted%20image%2020231126180724.png)
+
+- _De mercurio_
+	- De campana
+		- Miden presiones diferenciales pequeñas (cámaras de combustión)
+	
+	![](attachments/Pasted%20image%2020231126180812.png)
+	
+	- Diafragma, fuelle y cápsula
+	
+	![](attachments/Pasted%20image%2020231126180852.png)
+	
+	- Barómetro
+		- Miden la presión atmosférica
+		- A nivel del mar marca $760$ $mm$ ($1$ $atm$)
+	
+	![](attachments/Pasted%20image%2020231126181043.png)
+
+[Continue with slide 83](<file:C:\Users\danie\Desktop\IX Semestre\Sensores y Actuadores\Presentaciones\PM8 - Sensores para Control de Procesos.pdf>)
+
+
+## Sensores para control de movimiento
+
+[Sensores para control de movimiento](<file:C:\Users\danie\Desktop\IX Semestre\Sensores y Actuadores\Presentaciones\PM9 - Sensores para Control de Movimiento.pdf>)
+
+
+## Sensores y Actuadores en Equipos Médicos
+
+[Sensores y Actuadores en Equipos Médicos](<file:C:\Users\danie\Desktop\IX Semestre\Sensores y Actuadores\Presentaciones\PM10 - Sensores y Actuadores en Equipos Médicos.pdf>)
 
 

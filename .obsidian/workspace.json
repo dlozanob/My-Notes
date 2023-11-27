@@ -4,39 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "1b98b7b7c5a3c388",
+        "id": "35b04203d6a186a2",
         "type": "tabs",
         "children": [
           {
-            "id": "149c26d906b2a479",
+            "id": "44dce523a32e8f27",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cap. 5. Diseño con ecuaciones de estado.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "981572eb63a2e4ef",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "6a2cb12eb0573239",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linked note.md",
-                "mode": "source",
+                "file": "Cap. 5 Sensores.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -111,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cap. 5. Diseño con ecuaciones de estado.md",
+                "file": "Cap. 5 Sensores.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cap. 5. Diseño con ecuaciones de estado.md",
+                "file": "Cap. 5 Sensores.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cap. 5. Diseño con ecuaciones de estado.md"
+                "file": "Cap. 5 Sensores.md"
               }
             }
           },
@@ -195,7 +173,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"\"",
+                "query": "\"wegen\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -223,44 +201,47 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "149c26d906b2a479",
+  "active": "44dce523a32e8f27",
   "lastOpenFiles": [
-    "attachments/Pasted image 20231122173016.png",
+    "Dinámica de Fluidos.md",
+    "Fundamentos de Mecánica de Fluidos.md",
+    "Cap. 5 Sensores.md",
+    "TO DO.md",
+    "AuxFolder/Implementación.png",
+    "AuxFolder/IX Semestre.lnk",
+    "IX Semestre.lnk",
+    "IX Semestre - Shortcut.lnk",
+    "attachments/Pasted image 20231126181043.png",
+    "attachments/Pasted image 20231126180852.png",
+    "attachments/Pasted image 20231126180812.png",
+    "attachments/Pasted image 20231126180724.png",
+    "attachments/Pasted image 20231126180623.png",
+    "attachments/Pasted image 20231126180532.png",
+    "attachments/Pasted image 20231126180359.png",
+    "attachments/Pasted image 20231126180140.png",
+    "Sensores y Actuadores.md",
+    "LaTeX.md",
+    "Cap. 4. Análisis cualitativo de sistemas LTI.md",
+    "Cap. 3. Lugar geométrico de las raices.md",
+    "Laboratorio de Control.md",
+    "Deutsch_A2.md",
+    "Deutsch_B1.md",
+    "Linked note.md",
+    "Excalidraw/whiteboard.excalidraw.md",
+    "Excalidraw/attachments/Pasted Image 20231125083104_781.png",
+    "Control.md",
+    "Zufällige Fakten.md",
+    "Cap. 4 Adquisición de datos.md",
+    "LaTeX Template.md",
     "Excalidraw/blackboard.excalidraw.md",
     "Cap. 5. Diseño con ecuaciones de estado.md",
-    "Linked note.md",
-    "attachments/Pasted image 20231122172722.png",
-    "attachments/Pasted image 20231122162517.png",
-    "Control.md",
     "Microcontrollers.md",
-    "TO DO.md",
-    "Excalidraw/whiteboard.excalidraw.md",
-    "Deutsch_B1.md",
-    "Excalidraw/attachments/Pasted Image 20231121122530_287.png",
-    "Excalidraw/attachments/Pasted Image 20231121122530_240.png",
-    "Excalidraw/attachments/Pasted Image 20231121121503_162.png",
-    "Excalidraw/attachments/Pasted Image 20231121121135_153.png",
-    "Excalidraw/attachments/Pasted Image 20231121120722_148.png",
-    "Excalidraw/attachments/Pasted Image 20231121115010_144.png",
-    "Excalidraw/attachments/Pasted Image 20231121114955_126.png",
-    "Excalidraw/attachments/Pasted Image 20231121114606_375.png",
     "Deutsch.md",
     "Cap. 4. Diseño por respuesta frecuencial.md",
-    "Zufällige Fakten.md",
-    "Deutsch_A2.md",
     "After Effects Hotkeys.md",
-    "LaTeX.md",
     "Cap. 3. Solución de las ecuaciones de estado de sistemas LTI.md",
     "Main.md",
     "Señales y Sistemas II.md",
-    "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
-    "Cap. 4. Análisis cualitativo de sistemas LTI.md",
-    "Laboratorio de Control.md",
-    "Sensores y Actuadores.md",
-    "Cap. 2 Metrología.md",
-    "Cap. 3. Lugar geométrico de las raices.md",
-    "Cap. 5 Sensores.md",
-    "Cap. 1 Instrumentación.md",
     "Local Backup.rar",
     "Local Notes Backup.rar",
     "attachments",
@@ -268,9 +249,6 @@
     "Excalidraw",
     "AuxFolder/wav2Raw.py",
     "AuxFolder/I2S_Transmitter.v",
-    "AuxFolder/i2sTransmitter.py",
-    "AuxFolder/attachments",
-    "AuxFolder",
     "Untitled.canvas"
   ]
 }
