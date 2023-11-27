@@ -652,6 +652,13 @@ $$
 
 ![](attachments/Pasted%20image%2020231127163049.png)
 
+$X$ no está disponible, entonces se estima con $\hat{X}$ a partir de un observador.
+
+>[!nOte]
+>Siendo así, el sistema debe ser:
+>- Controlable
+>- Observable
+
 $$
 \begin{align*}
 	\left\{
@@ -702,16 +709,71 @@ Entonces:
 
 $$
 \begin{align*}
-	\dot{x}_{1} - \dot{\hat{x}}_{1} = x_{2} - l_{1}\hat{e}_{1}
+	\dot{x}_{1} - \dot{\hat{x}}_{1} = x_{2} - \hat{x}_{2} - l_{1}\hat{e}_{1}
 \end{align*}
 $$
 
+Aplicando una derivada en el tiempo:
 
+$$
+\begin{align*}
+	\ddot{e}_{1} &= \dot{x}_{2} - \dot{\hat{x}}_{2} - l_{1}\dot{\hat{e}} \\\\
+	\ddot{e}_{1} + l_{1}\dot{e} &=  (u) - (u+l_{0}\cdot e_{1}) \\\\
+\end{align*}
+$$
 
+$$
+\begin{align*}
+	\ddot{\hat{e}}_{1} + l_{1}\dot{\hat{e}}_{1} + l_{0}e_{1} = 0
+\end{align*}
+$$
 
+Aplicando transformada de Laplace:
 
+$$
+\begin{align*}
+	&s^{2}\hat{E}_{1}(s) - s\hat{e}_{1}(0) - \dot{\hat{e}}_{1}(0) + l_{1}(s\hat{E}_{1}(s) - \hat{e}_{1}(0)) + l_{0}\hat{E}_{1}(s) = 0 \\\\
+	&(s^{2}+l_{1}s + l_{0})\hat{E}(s)=s\hat{e}_{1}(0)+\dot{\hat{e}}_{1}(0)+l_{1}\hat{e}_{1}(0)
+\end{align*}
+$$
 
+$$
+\begin{align*}
+	\hat{E}(s)&=  \frac{CI(s)}{s^{2}+l_{1}s+l_{0}} \\\\
+	&= \frac{CI(s)}{(s-p_{1})(s-p_{2})}
+\end{align*}
+$$
 
+- $CI(s)$ : Condiciones iniciales de $s$
+
+$$
+\begin{align*}
+	\hat{e}_{1}(t) = C_{1}e^{ p_{1}t }+C_{2}e^{ p_{2}t }
+\end{align*}
+$$
+
+Si el sistema es estable:
+
+$$
+\begin{align*}
+	\lim_{ t \to \infty } \hat{e}_{1}(t) = 0
+\end{align*}
+$$
+Entonces:
+
+$$
+\begin{align*}
+	\underbrace{ (\dot{x}1-\hat{\dot{x}}_{1}) }_{ \cancel{ \dot{e}_{1} }^{0} }=x_{2}-\hat{x}_{2}-l_{1}\cancel{ \hat{e}_{1} }^{0}
+\end{align*}
+$$
+
+Además:
+
+$$
+\begin{align*}
+	\lim_{ t \to \infty } \hat{e}_{2}(t)=0
+\end{align*}
+$$
 
 
 
