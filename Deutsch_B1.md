@@ -293,5 +293,62 @@
 >- Nicht selbst machen
 
 
+## Temporale Konnektoren
+
+- _Als_
+- _Wenn_
+- _Während_
+- _Immer wenn..._
+- _Seitdem_
+- _Bis_
+- _Bevor_
+- _Nachdem_
+- _Sobald_
+	- Sobald du kommst, können wir auf das Fest gehen
+
+### Dativ
+
+- _ab_
+- _aus_
+- _bei_
+- _nach_
+- _seit_
+- _von...bis_
+- _von...an_
+	- A partir de
+- _zu_
+	- Zu dieser Zeit ist er nie zu Hause
+
+
+### Akkusativ
+
+- _bis_
+	- Das Fest hat bis drei Uhr morgens gedauert
+- _für_
+	- Er geht für drei Jahre zum Militär
+- _gegen_
+	- Ich komme gegen 18 Uhr
+- _um_
+	- Um 19 Uhr gehen wir Essen
+	- Mozart ist so um 1760 geboren
+
+
+### Genitiv
+
+- _während_
+	- Während des Weinachtsurlaubs kommt unser ganze Familie
+- _innerhalb_
+	- Du musst das Formular innerhalb eines Monats schicken
+- _außerhalb_
+	- Außerhalb des Karnevals gibt es nur wenig Kostümfeste
+
+
+### Wechselpräpositionen
+
+- _am_
+- _in_
+- _vor_
+- _zwischen_
+- _über_
 
 

@@ -645,6 +645,70 @@ $$
 >Los valores de los estados no siempre están disponibles, poner sensores para cada estado puede resultar muy costoso
 
 
+---
+
+- __Ejemplo__ :
+	- Problema de estabilización
+
+![](attachments/Pasted%20image%2020231127163049.png)
+
+$$
+\begin{align*}
+	\left\{
+	\begin{array}{lcc}
+		\dot{x}_{1} = x_{2} \\
+	\dot{x}_{2} = u \\
+y = x_{1}
+	\end{array}
+	\right.
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	\hat{e}_{1} &=  x_{1}-\hat{x}_{1} \\\\
+	&= y - \hat{y}
+\end{align*}
+$$
+
+- _Observador :_
+
+$$
+\begin{align*}
+	\left\{
+	\begin{array}{lcc}
+		\dot{\hat{x}}_{1} = \hat{x}_{2} + l_{1}(y - \hat{y}) \\
+\dot{\hat{x}}_{2} = u + l_{0}(y-\hat{y})
+	\end{array}
+	\right.
+\end{align*}
+$$
+
+- _Objetivos :_
+
+$$
+\begin{align*}
+	\lim_{ t \to \infty } x_{1}(t) - \hat{x}_{1}(t)=0
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	\lim_{ t \to \infty } x_{2}(t) - \hat{x}_{2}(t) = 0
+\end{align*}
+$$
+
+Entonces:
+
+$$
+\begin{align*}
+	\dot{x}_{1} - \dot{\hat{x}}_{1} = x_{2} - l_{1}\hat{e}_{1}
+\end{align*}
+$$
+
+
+
+
 
 
 

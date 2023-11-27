@@ -4,18 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "35b04203d6a186a2",
+        "id": "d72a1d601337334a",
         "type": "tabs",
         "children": [
           {
-            "id": "44dce523a32e8f27",
+            "id": "f4804e62067016f1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cap. 5 Sensores.md",
-                "mode": "preview",
+                "file": "Cap. 5. Diseño con ecuaciones de estado.md",
+                "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "e5025eb9854e1643",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/blackboard.excalidraw.md"
               }
             }
           }
@@ -89,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cap. 5 Sensores.md",
+                "file": "Cap. 5. Diseño con ecuaciones de estado.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cap. 5 Sensores.md",
+                "file": "Cap. 5. Diseño con ecuaciones de estado.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cap. 5 Sensores.md"
+                "file": "Cap. 5. Diseño con ecuaciones de estado.md"
               }
             }
           },
@@ -201,11 +211,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "44dce523a32e8f27",
+  "active": "f4804e62067016f1",
   "lastOpenFiles": [
+    "attachments/Pasted image 20231127163049.png",
+    "Excalidraw/blackboard.excalidraw.md",
+    "Cap. 5. Diseño con ecuaciones de estado.md",
+    "Control.md",
+    "Linked note.md",
+    "Deutsch_B1.md",
+    "Excalidraw/whiteboard.excalidraw.md",
+    "Excalidraw/attachments/Pasted Image 20231127103732_527.png",
+    "Excalidraw/attachments/Pasted Image 20231127102102_794.png",
+    "Excalidraw/attachments/Pasted Image 20231127102047_757.png",
+    "Excalidraw/attachments/Pasted Image 20231127092051_155.png",
+    "Excalidraw/attachments/Pasted Image 20231127092031_788.png",
+    "Laboratorio de Control.md",
+    "Cap. 5 Sensores.md",
+    "Diseño de Elementos de Máquinas I.md",
     "Dinámica de Fluidos.md",
     "Fundamentos de Mecánica de Fluidos.md",
-    "Cap. 5 Sensores.md",
     "TO DO.md",
     "AuxFolder/Implementación.png",
     "AuxFolder/IX Semestre.lnk",
@@ -215,33 +239,19 @@
     "attachments/Pasted image 20231126180852.png",
     "attachments/Pasted image 20231126180812.png",
     "attachments/Pasted image 20231126180724.png",
-    "attachments/Pasted image 20231126180623.png",
-    "attachments/Pasted image 20231126180532.png",
-    "attachments/Pasted image 20231126180359.png",
-    "attachments/Pasted image 20231126180140.png",
     "Sensores y Actuadores.md",
     "LaTeX.md",
     "Cap. 4. Análisis cualitativo de sistemas LTI.md",
     "Cap. 3. Lugar geométrico de las raices.md",
-    "Laboratorio de Control.md",
     "Deutsch_A2.md",
-    "Deutsch_B1.md",
-    "Linked note.md",
-    "Excalidraw/whiteboard.excalidraw.md",
-    "Excalidraw/attachments/Pasted Image 20231125083104_781.png",
-    "Control.md",
     "Zufällige Fakten.md",
     "Cap. 4 Adquisición de datos.md",
     "LaTeX Template.md",
-    "Excalidraw/blackboard.excalidraw.md",
-    "Cap. 5. Diseño con ecuaciones de estado.md",
     "Microcontrollers.md",
     "Deutsch.md",
     "Cap. 4. Diseño por respuesta frecuencial.md",
     "After Effects Hotkeys.md",
     "Cap. 3. Solución de las ecuaciones de estado de sistemas LTI.md",
-    "Main.md",
-    "Señales y Sistemas II.md",
     "Local Backup.rar",
     "Local Notes Backup.rar",
     "attachments",

@@ -92,7 +92,7 @@ Hey! This is a linked note.
 - Rohstoffe -> Materia prima
 - Incinerar -> Verbrennen
 - Strahlung -> Radiación
--  Weltall -> Universo
+- Weltall -> Universo
 - Dringend -> Urgentemente
 - Erneuerbare -> Renovable
 - Sinken -> Disminuir
@@ -138,6 +138,8 @@ Hey! This is a linked note.
 - Zurücklegen -> Recorrer un trayecto a pie
 - Tüte -> Bolsa de caramelos
 - Mumms -> Paperas
+- Vergären -> Fermentar
+- Rückmeldung -> Feedback
 
 ---
 
