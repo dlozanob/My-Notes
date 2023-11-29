@@ -100,5 +100,10 @@ Erlauben -> Dat. zu
 
 ---
 
+Wer? -> Nominativ
+Wen -> Akkusativ
+Wem -> Dativ
+
+---
 
 

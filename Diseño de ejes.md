@@ -693,7 +693,6 @@ $$
 \end{align*}
 $$
 
-CONTINUAR...
 
 >[!Note]
 >- Un radio de entalle grande para un engrane puede estar en el orden de $1\,\,mm$

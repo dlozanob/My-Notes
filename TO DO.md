@@ -4,28 +4,16 @@
 ---
 
 - [ ] Control
-	- [x] Apuntes
-	- [ ] Reto 6: 28 NOV
-	- [ ] Presentación Laboratorio
+	- [ ] Reto 6: 2 DIC
+	- [ ] Proyecto Balancín
+	- [ ] Parcial 3
 
 - [ ] Sensores y Actuadores
-	- [x] Apuntes
-		- [x] PM8 (Slide 68)
-		- [x] PM9
-		- [x] PM10
-	- [x] Práctica 5
-	- [ ] Parcial 3: MARTES
 	- [ ] Proyecto
-
-- [x] TPI
-	- [x] Documento
-		- [x] REFERENCIAR
-		- [x] ORGANIZAR REF's
-	- [x] Proyecto
 
 - [ ] Diseño de Elementos de Máquinas I
 	- [ ] Apuntes
-	- [ ] Proyecto 2
+	- [ ] Proyecto 2: 1 DIC
 	- [ ] Parcial: 4 DIC
 
 - [ ] Deutsch

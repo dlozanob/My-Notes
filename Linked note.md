@@ -140,6 +140,16 @@ Hey! This is a linked note.
 - Mumms -> Paperas
 - Vergären -> Fermentar
 - Rückmeldung -> Feedback
-
+- Währung -> Divisa
+- Asyl -> Asilo
+- Gegenseitig -> Recíprocamente
+- Austauschprogramme -> Programas de intercambio
+- Beitritt -> Afiliación
+- Vielfalt -> Diversidad
+- Einstellung -> Opinión
+- Wählen -> Votar
+- Ausarbeiten -> Redactar
+- Jeweiligen -> Correspondiente
+- Beschließen -> Decidir
 ---
 

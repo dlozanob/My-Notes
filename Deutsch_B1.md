@@ -352,3 +352,25 @@
 - _über_
 
 
+## Fragen in Verben mit Präpositionen
+
+- _Sache_
+	- _Womit_ spielt das Kind?
+		- Das Kind spielt mit dem Ball
+		- Das Kind spielt _damit_
+- _Person_
+	- Mit _wem_ spielt das Kind?
+		- Das Kind spielt mit seinem Opa
+		- Das Kind spielt mit ihm
+
+>[!Notiz]
+>Präposition fängt mit Vokal an -> _Wor_/_Dar_
+>Präposition fängt nicht mit Vokal an -> _Wo-_/_Da-_
+
+- _Bsp_
+	- Die Frau wartet auf den Bus
+		- Worauf wartet die Frau?
+	- Die Frau wartet auf ihren Mann
+		- Auf wem wartet die Frau?
+
+

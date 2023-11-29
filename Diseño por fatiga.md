@@ -283,6 +283,10 @@ Entre mayor sea el volumen del elemento, mayor probabilidad habrá de aparecer u
 	- Carga axial
 		- $C_{b} = 1$
 
+>[!Warning]
+>Dimensiones en $[in]$
+
+
 - Sección no circular
 	- Se usa un _diámetro equivalente_ usando como criterio el área más esforzada.
 

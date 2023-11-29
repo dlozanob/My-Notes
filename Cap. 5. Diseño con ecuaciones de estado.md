@@ -691,6 +691,12 @@ $$
 \end{align*}
 $$
 
+>[!Note]
+>Error de estimación ($l_{1}(y-\hat{y})$) -> Medir el estado de estimación del observador
+
+>[!Note]
+>Los errores de estimación deben ser estables
+
 - _Objetivos :_
 
 $$
@@ -775,5 +781,386 @@ $$
 \end{align*}
 $$
 
+---
+
+- __Ejemplo__ :
+	- Observador caso general
+
+Planta:
+
+$$
+\begin{align*}
+	\left\{
+	\begin{array}{lcc}
+		\dot{x} = Ax+Bu \\
+y = Cx + Du
+	\end{array}
+	\right.
+\end{align*}
+$$
+
+Observador:
+
+$$
+\begin{align*}
+	\left\{
+	\begin{array}{lcc}
+		\dot{\hat{x}} = A\hat{x}+Bu + L(y-\hat{y}) \\
+\hat{y} = C\hat{x}+Du
+	\end{array}
+	\right.
+\end{align*}
+$$
+
+Donde:
+
+$$
+\begin{align*}
+	L =
+	\begin{bmatrix}
+l_{1} \\
+l_{0}
+\end{bmatrix}
+\end{align*}
+$$
+
+
+>[!Note]
+>$u$ se conoce, $x$ y $y$ si son estimados, entonces -> $\hat{x}$, $\hat{y}$
+
+Restando planta de observador:
+
+$$
+\begin{align*}
+	\dot{x}-\dot{\hat{x}} = A(x-\hat{x}) - L(y-\hat{y})
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	y-\hat{y} = C(x-\hat{x})
+\end{align*}
+$$
+
+Se define el _error de estimación_ :
+
+$$
+\begin{align*}
+	\hat{e}
+_{x} = x-\hat{x}\end{align*}
+$$
+
+$$
+\begin{align*}
+	\dot{\hat{e}}_{x} &=  Ae_{x} - LC\hat{e}_{x} \\\\
+	&= (A-LC)\hat{e}_{x}
+\end{align*}
+$$
+
+>[!Note]
+>Si los valores propios son los mismos polos -> El sistema es estable
+
+Se requiere entonces que los valores propios de $(A-LC)$ tengan parte real estrictamente negativa.
+
+>[!Note]
+>Si no existe esta solución, entonces el sistema no es observable
+
+>[!Warning]
+>En general los valores propios del observador deben ser más rápidos que los del controlador -> Por lo menos $3$ veces más rápido
+
+---
+
+- __Ejemplo__ :
+
+Considerar la siguiente planta:
+
+![](attachments/Pasted%20image%2020231127172139.png)
+
+Se tiene:
+
+$$
+\begin{align*}
+	\frac{X_{1}(s)}{U(s)}=\frac{1}{s-1}
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	(s-1)X_{1}(s) = U(s)
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	\dot{x}_{1}(s)-x_{1}(s)=u(t)
+\end{align*}
+$$
+
+A su vez:
+
+$$
+\begin{align*}
+	\frac{X_{2}(s)}{X_{1}(s)} = \frac{1}{s-2}
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	(s-2)X_{2}(s)=X_{1}(s)
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	\dot{x}_{2}(t)-2x_{2}(t)=x_{1}(t)
+\end{align*}
+$$
+
+Entonces:
+
+$$
+\begin{align*}
+	\left\{
+	\begin{array}{lcc}
+		\dot{x}_{1}(t)=x_{1}(t)+u(t) \\
+\dot{x}_{2}(t)=x_{1}(t)+2x_{2}(t) \\
+y(t)=x_{2}(t)
+	\end{array}
+	\right.
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	A=
+	\begin{bmatrix}
+1 & 0 \\
+1 & 2
+\end{bmatrix}\,\,;\,\,\,\,
+B=\begin{bmatrix}
+1 \\
+0
+\end{bmatrix}
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	C=
+	\begin{bmatrix}
+0 & 1
+\end{bmatrix}\,\,;\,\,\,\,
+D=0
+\end{align*}
+$$
+
+Matriz de controlabilidad:
+
+$$
+\begin{align*}
+	\mathscr{C}=
+	\begin{bmatrix}
+BA'B
+\end{bmatrix}=
+\begin{bmatrix}
+1 & 1 \\
+0 & 1
+\end{bmatrix}
+\end{align*}
+$$
+
+Para que sea controlable, el rango de la matriz debe ser total (número de estados = $2$), es decir, $\det(\mathscr{C})\neq0$.
+
+Pero $\det(\mathscr{C})=1$ , entonces es controlable.
+
+Matriz de observabilidad:
+
+$$
+\begin{align*}
+	\mathscr{O} = 
+	\begin{bmatrix}
+C \\
+CA \\
+. \\
+. \\
+CA^{n-1}
+\end{bmatrix}
+\end{align*}
+$$
+
+En este caso:
+
+$$
+\begin{align*}
+	\mathscr{O} &=  
+	\begin{bmatrix}
+C \\
+CA
+\end{bmatrix} \\\\
+&= 	\begin{bmatrix}
+0 & 1 \\
+1 & 2
+\end{bmatrix}
+\end{align*}
+$$
+
+Por tanto, $rango\{\mathscr{O}\}= 2$ -> Observable
+
+
+Diseñar un controlador con realimentación de estados, para un $t_{s}=3$ .
+
+Donde $Real\{polo\}\leq -\frac{5}{t_{s}}$
+
+$\tau \approx \frac{t_{s}}{5}$ -> $Real\{polo\}=-\frac{1}{\tau}\approx-1.67$
+
+Ubicar valores propios de: $(A-Bk)$ en $-2,\,\,-10$
+
+$$
+\begin{align*}
+	\begin{bmatrix}
+1 & 0 \\
+1 & 2
+\end{bmatrix}-
+\begin{bmatrix}
+1 \\
+0
+\end{bmatrix}
+\begin{bmatrix}
+k_{1} & k_{2}
+\end{bmatrix} = \begin{bmatrix}
+1-k_{1} & -k_{2} \\
+1 & 2
+\end{bmatrix}
+\end{align*}
+$$
+
+Polonomio característico:
+
+$$
+\begin{align*}
+	\det(sI-(A-Bk)) = (s+2)(s+10)
+\end{align*}
+$$
+
+$$
+\begin{align*}
+\det(	\begin{bmatrix}
+s-1+k_{1} & k_{2} \\
+-1 & s-2
+\end{bmatrix})=
+s^{2}+(k_{1}-3)s+2-2k_{1}+k_{2}
+\end{align*}
+$$
+
+Entonces:
+
+$$
+\begin{align*}
+	\left\{
+	\begin{array}{lcc}
+		k_{1}-3 = 12 \\
+k_{2}-2k_{1}+2=20
+	\end{array}
+	\right.
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	\left\{
+	\begin{array}{lcc}
+		k_{1}= 15\\
+k_{2}= 48
+	\end{array}
+	\right.
+\end{align*}
+$$
+
+Ley de control:
+
+$$
+\begin{align*}
+	u=-15x_{1}-48x_{2}
+\end{align*}
+$$
+
+Diseño del observador -> Polos: $5\cdot polos\,\,del\,\,control$ -> $-10,-50$
+
+Ubicar valores propios de $(A-LC)$ en $-10, -50$
+
+$$
+\begin{align*}
+	(A-LC) = 
+	\begin{bmatrix}
+1 & -l_{1} \\
+1 & 2-l_{2}
+\end{bmatrix}
+\end{align*}
+$$
+
+Polinomio característico:
+
+$$
+\begin{align*}
+\det(sI-(A-LC))= 
+\begin{bmatrix}
+s-1 & -l_{1} \\
+1 & s-2+l_{2}
+\end{bmatrix}
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	\det(sI-(A-LC))=s^{2}+(-3+l_{2})s + 2+l_{1}-l_{2}
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	\left\{
+	\begin{array}{lcc}
+		l_{2}-3=60 \\
+l_{1}-l_{2}+2=500
+	\end{array}
+	\right.
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	\left\{
+	\begin{array}{lcc}
+		l_{1}= 561\\
+l_{2}=63
+	\end{array}
+	\right.
+\end{align*}
+$$
+
+El observador es entonces:
+
+$$
+\begin{align*}
+	\begin{bmatrix}
+\dot{\hat{x}}_{1} \\
+\dot{\hat{x}}_{2}
+\end{bmatrix}=
+\begin{bmatrix}
+1 & 0 \\
+1 & 2
+\end{bmatrix}
+\begin{bmatrix}
+\hat{x}_{1} \\
+\hat{x}_{2}
+\end{bmatrix}+
+Bu + 
+\underbrace{ LC
+\begin{bmatrix}
+x_{1}-\hat{x}_{1} \\
+x_{2}-\hat{x}_{2}
+\end{bmatrix} }_{ y-\hat{y} }
+\end{align*}
+$$
 
 
