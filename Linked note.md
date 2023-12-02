@@ -151,5 +151,22 @@ Hey! This is a linked note.
 - Ausarbeiten -> Redactar
 - Jeweiligen -> Correspondiente
 - Beschließen -> Decidir
+- Gewaltsam -> Violento
+- Bekehrung -> Conversión
+- Gründung -> Fundación
+- Handel -> Comercio
+- Aufschwung -> Auge
+- Kaufkraft -> Poder adquisitivo
+- Aufbau -> Estructura
+- vielfältig -> Variado
+- vielfältig -> Caida
+- Einzelne -> Cada uno
+- Senken -> Disminuir
+- Quote -> Tasa
+- Einrichtungen -> Organizaciones
+- Sich ekeln -> Repugnarse
+- Sich gewöhnen -> Acostumbrarse
+- Neuerdings -> Reciéntemente
 ---
+
 

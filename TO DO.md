@@ -5,7 +5,7 @@
 
 - [ ] Control
 	- [ ] Reto 6: 2 DIC
-	- [ ] Proyecto Balancín
+	- [x] Proyecto Balancín
 	- [ ] Parcial 3
 
 - [ ] Sensores y Actuadores
@@ -13,7 +13,7 @@
 
 - [ ] Diseño de Elementos de Máquinas I
 	- [ ] Apuntes
-	- [ ] Proyecto 2: 1 DIC
+	- [x] Proyecto 2: 1 DIC
 	- [ ] Parcial: 4 DIC
 
 - [ ] Deutsch

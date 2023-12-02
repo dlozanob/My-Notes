@@ -83,8 +83,8 @@ $$
 \begin{align*}
 	\begin{pmatrix}
 		\frac{\partial p}{\partial x} \\\\
-		\frac{\partial p}{\partial x} \\\\
-		\frac{\partial p}{\partial x}
+		\frac{\partial p}{\partial y} \\\\
+		\frac{\partial p}{\partial z}
 	\end{pmatrix}
 	=
 	\begin{pmatrix}

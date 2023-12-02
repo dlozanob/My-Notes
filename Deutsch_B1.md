@@ -68,7 +68,7 @@
 - _Deshalb_
 	- Maria hat heute Zeit, _deshalb_ macht sie zwei Stunden Sport
 - _Deswegen_
-- _Darum_
+- _Darum_ (= deshalb = deswegen)
 - _Genauso_
 - _Inzwischen_
 - _Jedoch_
@@ -246,6 +246,12 @@
 - Peter unterhält mit, der Schwester seines Schwagers
 - Maria bietet Kuchen, den Eltern ihres Schwiegersohns
 
+### Genitiv Nebensatz
+
+- Timo, dessen Bruder Personalberater ist, ist Tischler
+- Ben, dessen Swestern Kim und Monika sind, kommt aus den USA
+- Kim, deren Onkel Mark lebt in Deutschland, kommt aus Malasya
+
 
 ## Doppelkonjuktionen
 
@@ -370,7 +376,8 @@
 - _Bsp_
 	- Die Frau wartet auf den Bus
 		- Worauf wartet die Frau?
+		- Die Frau wartet darauf
 	- Die Frau wartet auf ihren Mann
-		- Auf wem wartet die Frau?
+		- Auf wen wartet die Frau?
 
 

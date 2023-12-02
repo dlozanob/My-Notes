@@ -21,6 +21,7 @@
 	- Denken
 	- Sich erinnern
 	- Glauben
+	- Arbeiten (trabajar en algo)
 
 - _In_
 	- Wo?
@@ -64,6 +65,7 @@
 	- Sich wundern
 	- Streiten
 	- Sprechen
+	- Diskutieren
 
 - _Als_
 	- Sie Arbeitet als Kellnerin

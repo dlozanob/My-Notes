@@ -4,21 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "732491a2f06b1043",
+        "id": "7f6a3efaa3c6261b",
         "type": "tabs",
         "children": [
           {
-            "id": "9998c34c563610f2",
+            "id": "6f45c13c66a3af0b",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/whiteboard.excalidraw.md"
+                "file": "Cap. 5. Diseño con ecuaciones de estado.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
           {
-            "id": "66c38c8020433f1b",
+            "id": "5d66be3f13ffb00c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LaTeX.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3bb90c0ea92e5e71",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -28,21 +42,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "65b331098fee0cde",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Deutsch_B1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deutsch_B1.md",
+                "file": "Cap. 5. Diseño con ecuaciones de estado.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deutsch_B1.md",
+                "file": "Cap. 5. Diseño con ecuaciones de estado.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deutsch_B1.md"
+                "file": "Cap. 5. Diseño con ecuaciones de estado.md"
               }
             }
           },
@@ -196,7 +197,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"wegen\"",
+                "query": "section:()einer\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -224,46 +225,47 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "65b331098fee0cde",
+  "active": "6f45c13c66a3af0b",
   "lastOpenFiles": [
-    "Zufällige Fakten.md",
-    "Deutsch_B1.md",
-    "Excalidraw/whiteboard.excalidraw.md",
     "Linked note.md",
-    "Excalidraw/attachments/Pasted Image 20231129111102_249.png",
-    "TO DO.md",
-    "Diseño de ejes.md",
-    "Diseño de Elementos de Máquinas I.md",
-    "Diseño por fatiga.md",
-    "Excalidraw/attachments/Pasted Image 20231128223524_741.png",
     "LaTeX.md",
-    "Excalidraw/attachments/Pasted Image 20231128173126_357.png",
-    "Excalidraw/attachments/Pasted Image 20231128173111_356.png",
-    "Excalidraw/attachments/Pasted Image 20231128173055_356.png",
-    "Main.md",
-    "Excalidraw/attachments/Pasted Image 20231128120142_472.png",
-    "Excalidraw/attachments/Pasted Image 20231128114647_493.png",
-    "Excalidraw/attachments/Pasted Image 20231128114632_462.png",
-    "Excalidraw/attachments/Pasted Image 20231128112940_441.png",
-    "Excalidraw/attachments/Pasted Image 20231128111153_965.png",
-    "Laboratorio de Control.md",
-    "Cap. 5 Sensores.md",
-    "Sensores y Actuadores.md",
-    "Excalidraw/blackboard.excalidraw.md",
     "Cap. 5. Diseño con ecuaciones de estado.md",
     "Control.md",
-    "Dinámica de Fluidos.md",
+    "Estática de Fluidos.md",
+    "Diseño de Elementos de Máquinas I.md",
     "Fundamentos de Mecánica de Fluidos.md",
+    "Cinemática de Fluidos.md",
+    "Dinámica de Fluidos.md",
+    "Cap. 5 Sensores.md",
+    "Sensores y Actuadores.md",
+    "TO DO.md",
+    "Excalidraw/whiteboard.excalidraw.md",
+    "Zufällige Fakten.md",
+    "Präpositionen.md",
+    "Excalidraw/attachments/Pasted Image 20231201142713_890.png",
+    "Excalidraw/attachments/Pasted Image 20231201140419_947.png",
+    "Excalidraw/attachments/Pasted Image 20231201024712_174.png",
+    "Propiedades de los Fluidos.md",
+    "Laboratorio de Control.md",
+    "Diseño por fatiga.md",
+    "Diseño de ejes.md",
+    "Excalidraw/attachments/Pasted Image 20231130171811_539.png",
+    "Análisis dinámico.md",
+    "Excalidraw/attachments/Pasted Image 20231130163722_928.png",
+    "Excalidraw/attachments/Pasted Image 20231130152850_330.png",
+    "Excalidraw/attachments/Pasted Image 20231130152738_352.png",
+    "Excalidraw/attachments/Pasted Image 20231130152448_051.png",
+    "Excalidraw/attachments/Pasted Image 20231130151733_596.png",
+    "Excalidraw/attachments/Pasted Image 20231130151216_837.png",
+    "Deutsch_B1.md",
+    "Deutsch_A2.md",
+    "Deutsch_A1.md",
+    "bq.md",
+    "Cap. 1. Modelos de sistemas lineales y no lineales.md",
+    "Señales y Sistemas II.md",
     "AuxFolder/IX Semestre.lnk",
     "IX Semestre.lnk",
     "IX Semestre - Shortcut.lnk",
-    "Cap. 4. Análisis cualitativo de sistemas LTI.md",
-    "Cap. 3. Lugar geométrico de las raices.md",
-    "Deutsch_A2.md",
-    "Cap. 4 Adquisición de datos.md",
-    "LaTeX Template.md",
-    "Microcontrollers.md",
-    "Deutsch.md",
     "Local Backup.rar",
     "Local Notes Backup.rar",
     "attachments",

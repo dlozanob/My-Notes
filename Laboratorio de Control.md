@@ -321,64 +321,95 @@ Elementos:
 ### Planteamiento del problema
 
 - Señales:
-	- $r$ : Voltaje desde el arduino para un determinado ángulo
+	- $r$ : Ángulo de referencia
 	- $u$ : Voltaje de control al micromotor
-	- $y$ : Ángulo del balancín ($\theta$)
+	- $y$ : Ángulo del balancín
 	- $e$ : Señal de error
 
 - Sistemas:
 	- $G(s)$ : Brazo del balancín
 	- $C(s)$ : Controlador
-	- 
+	- $H(s)$ : Sensor
 
 
+### Modelamiento de la planta
 
----
+Modelo de la planta:
 
 $$
 \begin{align*}
-	\ddot{\theta}(F_{e},\theta,\dot{\theta})=\ddot{\theta}=-\frac{LB}{I} \dot{\theta}-\frac{Lmg\sin\theta}{I}+\frac{LF_{e}}{I}
+	\ddot{\theta}(F_{e},\theta,\dot{\theta})=\ddot{\theta}=-\frac{B}{I} \dot{\theta}-\frac{(L\cdot W_{m} + l_{1}\cdot W_{b} - l_{2}\cdot W_{c})\cdot \sin\theta}{I}+\frac{L\cdot F_{e}}{I}
 \end{align*}
 $$
 
+Puntos de operación:
 
 $$
 \begin{align*}
 	\left\{
 	\begin{array}{lcc}
-		x_{0}=F_{e} \\\\
-	y_{0}=\theta \\\\
-	z_{0}=\dot{\theta}
+		F_{e} \to x_{0} \\\\
+	\theta \to y_{0} \\\\
+	\dot{\theta} \to z_{0}
 	\end{array}
 	\right.
 \end{align*}
 $$
 
+Derivadas parciales:
+
 $$
 \begin{align*}
-	f(F_{e},\theta,\dot{\theta})= -\frac{LBz_{0}}{I}-\frac{Lmg\sin y_{0}}{I}+\frac{Lx_{0}}{I}+\frac{L}{I}\cdot (x-x_{0})-\frac{Lmg\cos y_{0}}{I}\cdot (y-y_{0})-\frac{LB}{I}(z-z_{0})
+	\left\{
+	\begin{array}{lcc}
+		\frac{\partial \ddot{\theta}}{\partial F_{e}} = \frac{L}{I} \\
+\frac{\partial \ddot{\theta}}{\partial\theta}=-\frac{(L\cdot W_{m} + l_{1}\cdot W_{b} - l_{2}\cdot W_{c})\cdot \cos\theta}{I} \\
+\frac{\partial \ddot{\theta}}{\partial\dot{\theta}} = -\frac{B}{I}
+	\end{array}
+	\right.
+\end{align*}
+$$
+
+Serie de Taylor multivariable lineal:
+
+$$
+\begin{align*}
+	f(F_{e},\theta,\dot{\theta})= -\frac{B\cdot z_{0}}{I}-\frac{(L\cdot W_{m} + l_{1}\cdot W_{b} - l_{2}\cdot W_{c})\cdot \sin y_{0}}{I}+\frac{L\cdot x_{0}}{I} + \frac{L}{I}\cdot (x-x_{0})-\frac{(L\cdot W_{m} + l_{1}\cdot W_{b} - l_{2}\cdot W_{c})\cdot \cos y_{0}}{I}\cdot (y-y_{0}) - \frac{B}{I}\cdot (z-z_{0})
 \end{align*}
 $$
 
 $$
 \begin{align*}
-	&f(F_{e},\theta,\dot{\theta})+\frac{LBz_{0}}{I}+\frac{Lmg\sin y_{0}}{I}-\frac{Lx_{0}}{I}=\frac{L}{I}\cdot \hat{X}-\frac{Lmg\cos y_{0}}{I}\cdot \hat{Y}-\frac{LB}{I}\hat{Z} \\\\
-	&\hat{\ddot{Y}}=\frac{L}{I}\cdot \hat{X}-\frac{Lmg\cos y_{0}}{I} \cdot \hat{Y}-\frac{LB}{I}\hat{\dot{Y}} \\\\
-	&s^{2}\hat{Y}=\frac{L}{I}\cdot\,\,\hat{F_{E}}-\frac{LW\cos y_{0}}{I} \cdot\,\,\hat{Y}-\frac{LB}{I}s\hat{Y} \\\\
+	&f(F_{e},\theta,\dot{\theta})-(-\frac{Bz_{0}}{I}-\frac{(L\cdot W_{m} + l_{1}\cdot W_{b} - l_{2}\cdot W_{c})\cdot \sin y_{0}}{I}+\frac{L\cdot x_{0}}{I}) = \frac{L}{I}\cdot \hat{X} - \frac{(L\cdot W_{m} + l_{1}\cdot W_{b} - l_{2}\cdot W_{c})\cdot \cos y_{0}}{I}\cdot \hat{Y} - \frac{B}{I}\cdot \hat{Z} \\\\
+	&\hat{\ddot{Y}}=\frac{L}{I}\cdot \hat{F}_{e}-\frac{(L\cdot W_{m} + l_{1}\cdot W_{b} - l_{2}\cdot W_{c})\cdot \cos \theta}{I} \cdot \hat{Y}-\frac{B}{I}\hat{\dot{Y}} \\\\
 \end{align*}
 $$
 
-$$
-\begin{align*}
-	\left( s^{2} + \frac{LB}{I}s + \frac{LW\cos y_{0}}{I} \right)\hat{Y} = \frac{L}{I}\hat{F}_{e}
-\end{align*}
-$$
+Transformada de Laplace:
 
 $$
 \begin{align*}
-	\boxed{ \frac{\hat{\Theta}}{\hat{F_{E}}}= \frac{\frac{L}{I}}{s^{2}+\frac{LB}{I}s+\frac{LW}{I}\cos \theta}}
+	&s^{2}\hat{Y}=\frac{L}{I}\cdot\,\,\hat{F_{E}}(s)-\frac{(L\cdot W_{m} + l_{1}\cdot W_{b} - l_{2}\cdot W_{c})\cdot \cos \theta}{I} \cdot\,\,\hat{Y}-\frac{B}{I}\cdot s\hat{Y} \\\\
+	&\left( s^{2} + \frac{B}{I}s + \frac{(L\cdot W_{m} + l_{1}\cdot W_{b} - l_{2}\cdot W_{c})\cdot \cos \theta}{I} \right)\hat{Y} = \frac{L}{I}\cdot \hat{F}_{e}
 \end{align*}
 $$
+
+Función de transferencia:
+
+$$
+\begin{align*}
+	\boxed{ \frac{\hat{\Theta}}{\hat{F_{E}}}= \frac{\frac{L}{I}}{s^{2}+\frac{B}{I}s+\frac{(L\cdot W_{m} + l_{1}\cdot W_{b} - l_{2}\cdot W_{c})}{I}\cos \theta}}
+\end{align*}
+$$
+
+- $L$ : Longitud junta-motor
+- $l_{1}$ : Longitud junta-centro del brazo
+- $l_{2}$ : Longitud junta-centro del contrapeso
+- $I$ : Inercia
+- $B$ : Fricción
+- $W_{b}$ : Peso del brazo
+- $W_{m}$ : Peso del motor
+- $W_{c}$ : Contrapeso
 
 $$
 \begin{align*}
@@ -391,7 +422,6 @@ $$
 	\right.
 \end{align*}
 $$
-
 
 
 Estabilidad:
@@ -448,7 +478,7 @@ El modelo de la planta es:
 
 $$
 \begin{align*}
-	 \frac{\hat{\Theta}}{\hat{F_{E}}}= \frac{1}{s^{2}+1.1146\cdot s+226.2169\cdot \cos \theta}
+	G(s) = \frac{\hat{\Theta}}{\hat{F_{E}}}= \frac{8.923}{s^{2}+10.65\cdot s + 93.4897\cdot \cos \theta}
 \end{align*}
 $$
 
@@ -542,12 +572,10 @@ Atrasando en el tiempo por causalidad:
 
 $$
 \begin{align*}
-	u_{i}(k)=k_{i}T_{s}e(k-1)+u_{i}(k-1)
+	\boxed{u_{i}(k)=k_{i}T_{s}e(k-1)+u_{i}(k-1)}
 \end{align*}
 $$
 
-
----
 
 Para el término derivativo:
 
@@ -589,21 +617,28 @@ $$
 
 $$
 \begin{align*}
-	u_{d}(k) = (1-N\cdot T_{s})\cdot u_{d}(k-1)+k_{d}\cdot N\cdot e(k)-k_{d}\cdot N\cdot e(k-1)
+	\boxed{u_{d}(k) = (1-N\cdot T_{s})\cdot u_{d}(k-1)+k_{d}\cdot N\cdot e(k)-k_{d}\cdot N\cdot e(k-1)}
 \end{align*}
 $$
 
----
-
-
+En resumen:
 
 $$
 \begin{align*}
 	\left\{
 	\begin{array}{lcc}
-		u_{i}(k)=k_{i}T_{s}e(k-1)+u_{i}(k-1) \\
+		u_{p}(k) = k_{p}\cdot e(k) \\
+u_{i}(k)=k_{i}T_{s}e(k-1)+u_{i}(k-1) \\
 u_{d}(k) = (1-N\cdot T_{s})\cdot u_{d}(k-1)+k_{d}\cdot N\cdot e(k)-k_{d}\cdot N\cdot e(k-1)
 	\end{array}
 	\right.
 \end{align*}
 $$
+
+$$
+\begin{align*}
+	\boxed{u(t) = u_{p} + u_{i} + u_{d}}
+\end{align*}
+$$
+
+

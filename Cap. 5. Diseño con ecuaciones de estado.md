@@ -414,7 +414,7 @@ Con $r(t) = 0$, _ley de control_ :
 $$
 \begin{align*}
 	u(t)&= -kx=-k_{1}x_{1}-k_{2}x_{2}-\dots-k_{n}x_{n} \\\\
-	&= \vec{k}\cdot \vec{u}
+	&= -\vec{k}\cdot \vec{u}
 \end{align*}
 $$
 
@@ -544,7 +544,7 @@ s & -1 \\
 $$
 
 
-Valores propios deseados del sistema de control: $(-10;-10)$ .
+Valores propios deseados del sistema de control (polos seleccionados): $(-10;-10)$ .
 
 Entonces:
 
