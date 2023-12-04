@@ -463,8 +463,17 @@ $$
 
 
 - _Condición necesaria y suficiente para que una planta sea controlable :_
-	- El rango de $[BAB\dots A^{n-1}B]$ (_matriz de controlabilidad_) es $n$
+	- El rango de  $\mathscr{C}$ (_matriz de controlabilidad_) es $n$
 
+Donde:
+
+$$
+\begin{align*}
+\boxed{\mathscr{C} = \begin{bmatrix}
+B & AB & A^{2}B & \dots & A^{n-1}B
+\end{bmatrix}}
+\end{align*}
+$$
 
 >[!Note]
 >Si una planta es controlable, se le pueden poner los valores propios que uno quiera a $(A-Bk)$
@@ -500,7 +509,10 @@ $$
 
 $$
 \begin{align*}
-	Ctr = [BAB]=
+	Ctr = 
+	\begin{bmatrix}
+B & AB
+\end{bmatrix}=
 	\begin{bmatrix}
 1 & 3 \\
 3 & 2
@@ -659,6 +671,8 @@ $X$ no está disponible, entonces se estima con $\hat{X}$ a partir de un observa
 >- Controlable
 >- Observable
 
+- _Planta :_
+
 $$
 \begin{align*}
 	\left\{
@@ -723,8 +737,8 @@ Aplicando una derivada en el tiempo:
 
 $$
 \begin{align*}
-	\ddot{e}_{1} &= \dot{x}_{2} - \dot{\hat{x}}_{2} - l_{1}\dot{\hat{e}} \\\\
-	\ddot{e}_{1} + l_{1}\dot{e} &=  (u) - (u+l_{0}\cdot e_{1}) \\\\
+	\ddot{\hat{e}}_{1} &= \dot{x}_{2} - \dot{\hat{x}}_{2} - l_{1}\dot{\hat{e}} \\\\
+	\ddot{\hat{e}}_{1} + l_{1}\dot{\hat{e}} &=  (u) - (u+l_{0}\cdot e_{1}) \\\\
 \end{align*}
 $$
 
@@ -738,8 +752,8 @@ Aplicando transformada de Laplace:
 
 $$
 \begin{align*}
-	&s^{2}\hat{E}_{1}(s) - s\hat{e}_{1}(0) - \dot{\hat{e}}_{1}(0) + l_{1}(s\hat{E}_{1}(s) - \hat{e}_{1}(0)) + l_{0}\hat{E}_{1}(s) = 0 \\\\
-	&(s^{2}+l_{1}s + l_{0})\hat{E}(s)=s\hat{e}_{1}(0)+\dot{\hat{e}}_{1}(0)+l_{1}\hat{e}_{1}(0)
+	&s^{2}\hat{E}_{1}(s) - s\hat{E}_{1}(0) - \dot{\hat{E}}_{1}(0) + l_{1}(s\hat{E}_{1}(s) - \hat{E}_{1}(0)) + l_{0}\hat{E}_{1}(s) = 0 \\\\
+	&(s^{2}+l_{1}s + l_{0})\hat{E}(s)=s\hat{E}_{1}(0)+\dot{\hat{E}}_{1}(0)+l_{1}\hat{E}_{1}(0)
 \end{align*}
 $$
 
@@ -769,7 +783,7 @@ Entonces:
 
 $$
 \begin{align*}
-	\underbrace{ (\dot{x}1-\hat{\dot{x}}_{1}) }_{ \cancel{ \dot{e}_{1} }^{0} }=x_{2}-\hat{x}_{2}-l_{1}\cancel{ \hat{e}_{1} }^{0}
+	\underbrace{ (\dot{x}_{1}-\hat{\dot{x}}_{1}) }_{ \cancel{ \dot{\hat{e}}_{1} }^{0} }=x_{2}-\hat{x}_{2}-l_{1}\cancel{ \hat{e}_{1} }^{0}
 \end{align*}
 $$
 
@@ -818,8 +832,8 @@ $$
 \begin{align*}
 	L =
 	\begin{bmatrix}
-l_{1} \\
-l_{0}
+l_{0} \\
+l_{1}
 \end{bmatrix}
 \end{align*}
 $$
@@ -866,7 +880,7 @@ Se requiere entonces que los valores propios de $(A-LC)$ tengan parte real estri
 >Si no existe esta solución, entonces el sistema no es observable
 
 >[!Warning]
->En general los valores propios del observador deben ser más rápidos que los del controlador -> Por lo menos $3$ veces más rápido
+>En general los valores propios del observador deben ser más rápidos que los del controlador -> Por lo menos $5$ veces más rápido
 
 ---
 
@@ -960,7 +974,7 @@ $$
 \begin{align*}
 	\mathscr{C}=
 	\begin{bmatrix}
-BA'B
+B & AB
 \end{bmatrix}=
 \begin{bmatrix}
 1 & 1 \\
@@ -977,14 +991,14 @@ Matriz de observabilidad:
 
 $$
 \begin{align*}
-	\mathscr{O} = 
+\boxed{	V = 
 	\begin{bmatrix}
 C \\
 CA \\
 . \\
 . \\
 CA^{n-1}
-\end{bmatrix}
+\end{bmatrix}}
 \end{align*}
 $$
 
@@ -1007,7 +1021,7 @@ $$
 Por tanto, $rango\{\mathscr{O}\}= 2$ -> Observable
 
 
-Diseñar un controlador con realimentación de estados, para un $t_{s}=3$ .
+- Diseñar un controlador con realimentación de estados, para un $t_{s}=3$ .
 
 Donde $Real\{polo\}\leq -\frac{5}{t_{s}}$
 
@@ -1084,7 +1098,7 @@ $$
 \end{align*}
 $$
 
-Diseño del observador -> Polos: $5\cdot polos\,\,del\,\,control$ -> $-10,-50$
+- Diseño del observador -> Polos: $5\cdot polos\,\,del\,\,control$ -> $-10,-50$
 
 Ubicar valores propios de $(A-LC)$ en $-10, -50$
 
@@ -1154,8 +1168,8 @@ $$
 \hat{x}_{1} \\
 \hat{x}_{2}
 \end{bmatrix}+
-Bu + 
-\underbrace{ LC
+Bu + L
+\underbrace{
 \begin{bmatrix}
 x_{1}-\hat{x}_{1} \\
 x_{2}-\hat{x}_{2}

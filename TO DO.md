@@ -4,16 +4,10 @@
 ---
 
 - [ ] Control
-	- [ ] Reto 6: 2 DIC
-	- [x] Proyecto Balancín
 	- [ ] Parcial 3
-
-- [ ] Sensores y Actuadores
-	- [ ] Proyecto
 
 - [ ] Diseño de Elementos de Máquinas I
 	- [ ] Apuntes
-	- [x] Proyecto 2: 1 DIC
 	- [ ] Parcial: 4 DIC
 
 - [ ] Deutsch

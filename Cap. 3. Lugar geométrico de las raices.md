@@ -27,7 +27,7 @@ La idea es encontrar el conjunto de parámetros que estabilizan al sistema.
 
 Al controlador se le proponen parámetros de diseño. Estos están relacionados con magnitudes en el plano complejo:
 
-- $ts$ -> $-\sigma$
+- $t_{}s$ -> $-\sigma$
 - $t_{rise}$ -> $\mid p\mid$
 - $O-S$ -> $\theta$
 

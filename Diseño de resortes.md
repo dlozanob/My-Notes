@@ -1,9 +1,12 @@
 # Diseño de resortes
 
 
----
+- [Resortes](<C:\Users\danie\Desktop\IX Semestre\Diseño de Elementos de Máquinas I\Clases\3. Resortes\3. Resortes.pdf>)
 
-# CLASE - 1 Nov
+
+>[!Note]
+>Un _resorte asentado_ es un resorte al que inicialmente se le cambiaron sus propiedades mecánicas
+
 
 
 ---
