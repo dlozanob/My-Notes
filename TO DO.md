@@ -3,13 +3,6 @@
 
 ---
 
-- [ ] Control
-	- [ ] Parcial 3
-
-- [ ] Diseño de Elementos de Máquinas I
-	- [ ] Apuntes
-	- [ ] Parcial: 4 DIC
-
 - [ ] Deutsch
 	- [ ] Libro
 	- [ ] Apuntes
@@ -22,13 +15,5 @@
 
 
 ---
-
-
-
-
-
-
-
-
 
 

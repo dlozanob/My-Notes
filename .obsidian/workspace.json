@@ -4,45 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "8427c0cfe02ad769",
+        "id": "7d88bfbfc59f512d",
         "type": "tabs",
         "children": [
           {
-            "id": "6bc6011a646fc450",
+            "id": "7c1ff619ece374e3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diseño de resortes.md",
+                "file": "Main.md",
                 "mode": "preview",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "e57a7464d62b9363",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Uniones.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "57be60841ac9a4f7",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/whiteboard.excalidraw.md"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/whiteboard.excalidraw.md",
+                "file": "Main.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/whiteboard.excalidraw.md",
+                "file": "Main.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/whiteboard.excalidraw.md"
+                "file": "Main.md"
               }
             }
           },
@@ -224,31 +201,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "57be60841ac9a4f7",
+  "active": "7c1ff619ece374e3",
   "lastOpenFiles": [
-    "Uniones.md",
-    "Diseño de resortes.md",
     "Excalidraw/whiteboard.excalidraw.md",
+    "Excalidraw/attachments/Pasted Image 20231207200222_712.png",
+    "Excalidraw/attachments/Pasted Image 20231207200207_705.png",
+    "Deutsch_B1.md",
+    "Deutsch_A2.md",
+    "Deutsch.md",
+    "TO DO.md",
+    "Cap. 5. Diseño con ecuaciones de estado.md",
+    "Control.md",
+    "Diseño de resortes.md",
+    "Uniones.md",
+    "Excalidraw/attachments/Pasted Image 20231203212755_295.png",
+    "Excalidraw/attachments/Pasted Image 20231203213050_606.png",
+    "Excalidraw/attachments/Pasted Image 20231204102527_858.png",
+    "Excalidraw/attachments/Pasted Image 20231204102341_814.png",
+    "Excalidraw/attachments/Pasted Image 20231204094809_821.png",
+    "Deutsch_A1.md",
+    "Excalidraw/attachments/Pasted Image 20231203233000_333.png",
+    "Excalidraw/attachments/Pasted Image 20231203232944_316.png",
+    "Excalidraw/attachments/Pasted Image 20231203232929_294.png",
     "Diseño por fatiga.md",
     "Diseño de Elementos de Máquinas I.md",
-    "Excalidraw/attachments/Pasted Image 20231203194556_742.png",
-    "Excalidraw/attachments/Pasted Image 20231203194504_297.png",
-    "Excalidraw/attachments/Pasted Image 20231203194152_749.png",
-    "Excalidraw/attachments/Pasted Image 20231203194134_755.png",
-    "Excalidraw/attachments/Pasted Image 20231203194134_735.png",
-    "Excalidraw/attachments/Pasted Image 20231203193934_214.png",
-    "Excalidraw/attachments/Pasted Image 20231203193934_174.png",
-    "Excalidraw/attachments/Pasted Image 20231203192610_533.png",
-    "Excalidraw/attachments/Pasted Image 20231203192558_305.png",
-    "Excalidraw/attachments/Pasted Image 20231203192543_299.png",
     "Cap. 5 Sensores.md",
     "Sensores y Actuadores.md",
-    "TO DO.md",
     "Linked note.md",
-    "Cap. 5. Diseño con ecuaciones de estado.md",
     "LaTeX.md",
     "Cap. 3. Lugar geométrico de las raices.md",
-    "Control.md",
     "Estática de Fluidos.md",
     "Fundamentos de Mecánica de Fluidos.md",
     "Cinemática de Fluidos.md",
@@ -257,11 +238,6 @@
     "Präpositionen.md",
     "Propiedades de los Fluidos.md",
     "Laboratorio de Control.md",
-    "Diseño de ejes.md",
-    "Análisis dinámico.md",
-    "Deutsch_B1.md",
-    "Deutsch_A2.md",
-    "Deutsch_A1.md",
     "AuxFolder/IX Semestre.lnk",
     "IX Semestre.lnk",
     "IX Semestre - Shortcut.lnk",

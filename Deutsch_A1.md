@@ -16,7 +16,7 @@
 
 ## Phonetisch
 
-Für _Ö_ und _Ü_ schileße Sie deinen Lippe und forme den O-Vokal:
+Für _Ö_ und _Ü_ schileßen Sie Ihre Lippe und formen Sie den O-Vokal:
 
 ![](attachments/Pasted%20image%2020230804180131.png)
 
@@ -24,11 +24,10 @@ Buchstaben mit explosivem Klang: _K, P, Q, T_
 
 - Die Qualle -> _dikfale_
 - Physic -> _füsik_
-- China -> _gina_
+- China -> _jina_
 - Ski -> _chi_
 - Ei -> _ai_
-- Eu -> _oi_
-- Äu -> _oi_
+- Eu = Äu -> _oi_
 - Ie -> _ii_
 - Vogel -> _fogel_
 - Meer -> _mea_
@@ -97,7 +96,7 @@ Buchstaben mit explosivem Klang: _K, P, Q, T_
 ### $<5\%$ der Verben
 
 >[!Notiz]
->Ändere den Vokal in: 
+>Wechselt den Vokal in: 
 >- Du
 >- Er/Sie/Es
 
@@ -166,21 +165,21 @@ Buchstaben mit explosivem Klang: _K, P, Q, T_
 
 $$
 \begin{align*}
-	- > ziemlich > sehr/so > besonders > total 
+	- < ziemlich < sehr/so < besonders < total 
 \end{align*}
 $$
 
-Bsp: Der boden ist total schmutzig
+_Bsp_: Der boden ist total schmutzig
 
 - Schlecht:
 
 $$
 \begin{align*}
-	- > zu > viel zu
+	- < zu < viel\,\,zu
 \end{align*}
 $$
 
-Bsp: Die Wand ist viel zu feucht 
+_Bsp_: Die Wand ist viel zu feucht 
 
 
 ## Nominativ
@@ -333,7 +332,7 @@ Was isst was?
 >_Um_ man manchmal trennt aber manchmal nicht
 
 Bsp: 
-- Aufstehen: Ich stehe am Morgen um 6 auf
+- Aufstehen: Ich stehe am Morgen um 6 Uhr auf
 - Aufräumen: Ich räume mein Zimmer auf
 - Einkaufen: Kaufst du auch noch etwas Wurst ein?
 - Anfangen: Wann fängt den Film an?
@@ -351,7 +350,6 @@ Bsp:
 | ihr | euer | euer | eure | eure |
 | sie (plural) | ihr | ihr | ihre | ihre |
 | Sie (formell) | Ihr | Ihr | Ihre | Ihre |
-
 
 
 ## Dativ
@@ -477,7 +475,7 @@ Wegbeschreibung:
 		- Wir sind Spieler gewesen
 
 >[!Notiz]
->Die Verben sein und haben werden normalerweise mit dem Präteritum verwendet, nicht mit dem Perfekt
+>Die Verben _sein_ und _haben_ werden normalerweise mit dem Präteritum verwendet, nicht mit dem Perfekt
 
 
 ## Welch-?
@@ -557,6 +555,7 @@ Wegbeschreibung:
 
 - Die schwarze Bluse passt zu dieser blauen Hose
 - Ich arbeite mit diesem neuen Computer
+
 
 ## Imperativ
 

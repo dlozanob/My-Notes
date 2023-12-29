@@ -1,5 +1,10 @@
 # Tornillos sujetadores y uniones no permanentes
 
+
+- [Tornillos](<C:\Users\danie\Desktop\IX Semestre\Diseño de Elementos de Máquinas I\Clases\4. Tornillos\4. Tornillos.pdf>)
+
+---
+
 Aplicaciones:
 - Transmisión de potencia
 	- Tienen roscas más robustas que los tornillos de sujección

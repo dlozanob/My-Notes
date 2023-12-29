@@ -228,7 +228,7 @@
 
 - _Bsp_
 	- Nachdem ich die H.A _aufgehört hatte_, _ging_ ich zum Park _spazieren_
-	- Nachdem Sara das Mittagessen _gekocht habe_, _kam_ ihre Mutter zu Hause _an_
+	- Nachdem Sara das Mittagessen _gekocht hatte_, _kam_ ihre Mutter zu Hause _an_
 	- Nachdem Peter zu Hause _angekommen war_, _sah_ er _fern_
 
 >[!Notiz]
