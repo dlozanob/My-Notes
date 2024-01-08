@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7d88bfbfc59f512d",
+        "id": "8418d53366854ba1",
         "type": "tabs",
         "children": [
           {
-            "id": "7c1ff619ece374e3",
+            "id": "616d7b2d95f7051f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Other.md",
+                "file": "1. Fundamentals of Tiny ML.md",
                 "mode": "source",
                 "source": false
               }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Other.md",
+                "file": "1. Fundamentals of Tiny ML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Other.md",
+                "file": "1. Fundamentals of Tiny ML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Other.md"
+                "file": "1. Fundamentals of Tiny ML.md"
               }
             }
           },
@@ -203,13 +203,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7c1ff619ece374e3",
+  "active": "616d7b2d95f7051f",
   "lastOpenFiles": [
-    "Main.md",
+    "1. Fundamentals of Tiny ML.md",
+    "Harvard TinyML.md",
     "Other.md",
+    "Main.md",
     "Excalidraw/whiteboard.excalidraw.md",
-    "Excalidraw/attachments/Pasted Image 20231207200222_712.png",
-    "Excalidraw/attachments/Pasted Image 20231207200207_705.png",
+    "attachments/Pasted image 20240108161246.png",
+    "Excalidraw/attachments/Pasted Image 20240108161006_726.png",
+    "attachments/Pasted image 20240108140426.png",
+    "Excalidraw/attachments/Pasted Image 20240108140407_689.png",
+    "Excalidraw/attachments/Pasted Image 20240108140407_656.png",
+    "attachments/Pasted image 20240108124338.png",
+    "attachments/Pasted image 20240108124153.png",
+    "attachments/Pasted image 20240108124148.png",
+    "Excalidraw/attachments/Pasted Image 20240108124147_258.png",
+    "attachments/Pasted image 20240108124138.png",
     "Deutsch_B1.md",
     "Deutsch_A2.md",
     "Deutsch.md",
@@ -218,15 +228,7 @@
     "Control.md",
     "Diseño de resortes.md",
     "Uniones.md",
-    "Excalidraw/attachments/Pasted Image 20231203212755_295.png",
-    "Excalidraw/attachments/Pasted Image 20231203213050_606.png",
-    "Excalidraw/attachments/Pasted Image 20231204102527_858.png",
-    "Excalidraw/attachments/Pasted Image 20231204102341_814.png",
-    "Excalidraw/attachments/Pasted Image 20231204094809_821.png",
     "Deutsch_A1.md",
-    "Excalidraw/attachments/Pasted Image 20231203233000_333.png",
-    "Excalidraw/attachments/Pasted Image 20231203232944_316.png",
-    "Excalidraw/attachments/Pasted Image 20231203232929_294.png",
     "Diseño por fatiga.md",
     "Diseño de Elementos de Máquinas I.md",
     "Cap. 5 Sensores.md",
@@ -238,9 +240,6 @@
     "Fundamentos de Mecánica de Fluidos.md",
     "Cinemática de Fluidos.md",
     "Dinámica de Fluidos.md",
-    "Zufällige Fakten.md",
-    "Präpositionen.md",
-    "Propiedades de los Fluidos.md",
     "AuxFolder/IX Semestre.lnk",
     "IX Semestre.lnk",
     "IX Semestre - Shortcut.lnk",
