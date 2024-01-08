@@ -18,6 +18,28 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b0dfb488527d2dd5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TensorFlow.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f1b66532ac6e2ab6",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/whiteboard.excalidraw.md"
+              }
+            }
           }
         ]
       }
@@ -205,11 +227,15 @@
   },
   "active": "616d7b2d95f7051f",
   "lastOpenFiles": [
+    "TensorFlow.md",
     "1. Fundamentals of Tiny ML.md",
-    "Harvard TinyML.md",
-    "Other.md",
-    "Main.md",
+    "attachments/Pasted image 20240108173900.png",
     "Excalidraw/whiteboard.excalidraw.md",
+    "attachments/Pasted image 20240108171533.png",
+    "Excalidraw/attachments/Pasted Image 20240108171430_726.png",
+    "Other.md",
+    "Harvard TinyML.md",
+    "Main.md",
     "attachments/Pasted image 20240108161246.png",
     "Excalidraw/attachments/Pasted Image 20240108161006_726.png",
     "attachments/Pasted image 20240108140426.png",
@@ -217,9 +243,6 @@
     "Excalidraw/attachments/Pasted Image 20240108140407_656.png",
     "attachments/Pasted image 20240108124338.png",
     "attachments/Pasted image 20240108124153.png",
-    "attachments/Pasted image 20240108124148.png",
-    "Excalidraw/attachments/Pasted Image 20240108124147_258.png",
-    "attachments/Pasted image 20240108124138.png",
     "Deutsch_B1.md",
     "Deutsch_A2.md",
     "Deutsch.md",
@@ -239,7 +262,6 @@
     "Estática de Fluidos.md",
     "Fundamentos de Mecánica de Fluidos.md",
     "Cinemática de Fluidos.md",
-    "Dinámica de Fluidos.md",
     "AuxFolder/IX Semestre.lnk",
     "IX Semestre.lnk",
     "IX Semestre - Shortcut.lnk",
