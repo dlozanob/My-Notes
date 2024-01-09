@@ -41,7 +41,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -111,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Fundamentals of Tiny ML.md",
+                "file": "TensorFlow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Fundamentals of Tiny ML.md",
+                "file": "TensorFlow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Fundamentals of Tiny ML.md"
+                "file": "TensorFlow.md"
               }
             }
           },
@@ -225,11 +226,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "616d7b2d95f7051f",
+  "active": "b0dfb488527d2dd5",
   "lastOpenFiles": [
+    "Excalidraw/whiteboard.excalidraw.md",
     "TensorFlow.md",
     "1. Fundamentals of Tiny ML.md",
-    "Excalidraw/whiteboard.excalidraw.md",
     "attachments/Pasted image 20240108173900.png",
     "attachments/Pasted image 20240108171533.png",
     "Excalidraw/attachments/Pasted Image 20240108171430_726.png",
