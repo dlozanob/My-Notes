@@ -32,17 +32,19 @@
             }
           },
           {
-            "id": "f1b66532ac6e2ab6",
+            "id": "ab9f927fd133634d",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/whiteboard.excalidraw.md"
+                "file": "Deutsch_A1.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -112,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TensorFlow.md",
+                "file": "Deutsch_A1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TensorFlow.md",
+                "file": "Deutsch_A1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TensorFlow.md"
+                "file": "Deutsch_A1.md"
               }
             }
           },
@@ -221,22 +223,25 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-advanced-slides:Show Slide Preview": false,
-      "command-palette:Open command palette": false
+      "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "b0dfb488527d2dd5",
+  "active": "ab9f927fd133634d",
   "lastOpenFiles": [
-    "Excalidraw/whiteboard.excalidraw.md",
-    "TensorFlow.md",
+    "Other.md",
+    "Deutsch_A1.md",
+    "Linked note.md",
+    "Deutsch.md",
     "1. Fundamentals of Tiny ML.md",
+    "TensorFlow.md",
+    "Excalidraw/whiteboard.excalidraw.md",
+    "Main.md",
     "attachments/Pasted image 20240108173900.png",
     "attachments/Pasted image 20240108171533.png",
     "Excalidraw/attachments/Pasted Image 20240108171430_726.png",
-    "Other.md",
     "Harvard TinyML.md",
-    "Main.md",
     "attachments/Pasted image 20240108161246.png",
     "Excalidraw/attachments/Pasted Image 20240108161006_726.png",
     "attachments/Pasted image 20240108140426.png",
@@ -246,18 +251,15 @@
     "attachments/Pasted image 20240108124153.png",
     "Deutsch_B1.md",
     "Deutsch_A2.md",
-    "Deutsch.md",
     "TO DO.md",
     "Cap. 5. Diseño con ecuaciones de estado.md",
     "Control.md",
     "Diseño de resortes.md",
     "Uniones.md",
-    "Deutsch_A1.md",
     "Diseño por fatiga.md",
     "Diseño de Elementos de Máquinas I.md",
     "Cap. 5 Sensores.md",
     "Sensores y Actuadores.md",
-    "Linked note.md",
     "LaTeX.md",
     "Cap. 3. Lugar geométrico de las raices.md",
     "Estática de Fluidos.md",

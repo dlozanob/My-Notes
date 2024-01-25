@@ -59,7 +59,7 @@ Buchstaben mit explosivem Klang: _K, P, Q, T_
 - $1$ -> Erste
 - $3$ -> Dritte
 - $7$ -> Siebten
-- $[4; 19]$ -> ...te
+- $[2, 4; 19]$ -> ...te
 - $[20;\infty)$ -> ...ste
 
 >[!Notiz]
@@ -368,7 +368,7 @@ Bsp:
 1. _Indirektes Objekt_
 	- Ich schenke dem Lehrer ein Buch
 	- Ich gehe mit meinem Vater in den Park
-	- Sara geht mit iren Freunden auf die Party
+	- Sara geht mit ihren Freunden auf die Party
 2. _Verben_ : Es gibt einige Verben mit Dativ
 	- Das Milch schmeckt der Katze
 	- Die Bluse gefällt meiner Mutter
@@ -400,12 +400,14 @@ Bsp:
 - _Mögen_ -> Gustar
 
 - Ich muss morgen bis $22$ Uhr arbeiten
-- Um $9$ Uhr muss ich meine Freunde angerufen
-- Könnt ihr mich mit in die Stadt nehmen?
+- Um $9$ Uhr muss ich meine Freunde anrufen
+- Könnt ihr mich in die Stadt mitnehmen?
 
 >[!Notiz]
 >Trennbare Verben werden nicht durch Modalverben getrennt.
 >Außer _mitkommen_ und _mitnehmen_
+
+- Könnt ihr mich mit in die Stadt nehmen?
 
 
 ## Lokalpräpositionen und Wegbeschreibung
@@ -454,7 +456,7 @@ Wegbeschreibung:
 >[!Notiz]
 >Nicht trennbare Verben und Verben auf _ieren_ enden, haben kein _ge_
 
-- Ich gestern meine Oma besucht
+- Ich habe gestern meine Oma besucht
 - Mein Vater hat sein Auto gekauft
 - Der Tourist hat die Stadt fotografiert
 
@@ -534,7 +536,7 @@ Wegbeschreibung:
 >[!Notiz]
 >Wenn plural, man muss _n_ am Ende des Substantivs hinzufügen
 
-- Die schwarzen Schuhen liegen unter dem Bett
+- Die schwarze Schuhen liegen unter dem bequemen Bett
 - Hose mit hohen Stiefeln
 
 >[!Notiz]
@@ -555,6 +557,9 @@ Wegbeschreibung:
 
 - Die schwarze Bluse passt zu dieser blauen Hose
 - Ich arbeite mit diesem neuen Computer
+
+>[!Note]
+>Wenn ein Demonstrativpronomen (dieser, jener, solcher) vor einem Adjektiv steht, muss das Adjektiv dekliniert werden, ähnlich wie bei einem bestimmten Artikel
 
 
 ## Imperativ
