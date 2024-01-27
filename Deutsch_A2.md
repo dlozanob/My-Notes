@@ -46,7 +46,7 @@
 	- Am teuersten
 - Dunkel
 	- Dunkler
-	- Am dunkelsten
+	- Dunkelsten
 - Groß (spezialle Kasus)
 	- Größer
 	- Größten
@@ -137,7 +137,7 @@
 	- hoffe
 	- weiß
 	- bin sicher
-,dass...
+	, dass...
 
 - Ich meine, dass heute ein sehr sonnige Tag ist
 - Ich glaube, dass das Lexikon Maria gehört
@@ -372,7 +372,7 @@ Mit Ob-Sätzen kann man indirekte Ja/Nein Fragen bilden.
 	- Das Ende des Films
 
 >[!Notiz]
->- Wenn der Substantiv maskulin oder neutrum ist, muss man am Ende des Substantivs _-s_ oder _-es_ hinzufügen. Es kommt auf das Wort an
+>- Wenn der Substantiv maskulin oder neutrum ist, muss man am Ende des Substantivs _-s_ oder _-es_ hinzufügen werden. Es kommt auf das Wort an
 >- Adjektiv Deklination immer -> _-en_
 >- _Von + Dativ_ ist mehr benutzt als Genitiv, um zu sprechen
 >- Eigennamen -> _-s_ oder _-s'_
@@ -399,7 +399,7 @@ Mit Ob-Sätzen kann man indirekte Ja/Nein Fragen bilden.
 
 
 >[!Notiz]
->Präpositionen mit Genitiv sind formal
+>Präpositionen mit Genitiv sind formell
 
 
 ## Passiv

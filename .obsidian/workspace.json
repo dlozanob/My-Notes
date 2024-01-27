@@ -8,43 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "616d7b2d95f7051f",
+            "id": "78435945ee67885d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Fundamentals of Tiny ML.md",
-                "mode": "source",
+                "file": "Deutsch_B1.md",
+                "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "b0dfb488527d2dd5",
+            "id": "04bc6e61ed380048",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TensorFlow.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ab9f927fd133634d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Deutsch_A1.md",
-                "mode": "source",
+                "file": "Deutsch_B1.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deutsch_A1.md",
+                "file": "Deutsch_B1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deutsch_A1.md",
+                "file": "Deutsch_B1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deutsch_A1.md"
+                "file": "Deutsch_B1.md"
               }
             }
           },
@@ -228,14 +216,16 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "ab9f927fd133634d",
+  "active": "04bc6e61ed380048",
   "lastOpenFiles": [
-    "Other.md",
-    "Deutsch_A1.md",
-    "Linked note.md",
     "Deutsch.md",
-    "1. Fundamentals of Tiny ML.md",
+    "Deutsch_B1.md",
+    "Deutsch_A2.md",
     "TensorFlow.md",
+    "Deutsch_A1.md",
+    "Other.md",
+    "Linked note.md",
+    "1. Fundamentals of Tiny ML.md",
     "Excalidraw/whiteboard.excalidraw.md",
     "Main.md",
     "attachments/Pasted image 20240108173900.png",
@@ -249,8 +239,6 @@
     "Excalidraw/attachments/Pasted Image 20240108140407_656.png",
     "attachments/Pasted image 20240108124338.png",
     "attachments/Pasted image 20240108124153.png",
-    "Deutsch_B1.md",
-    "Deutsch_A2.md",
     "TO DO.md",
     "Cap. 5. Diseño con ecuaciones de estado.md",
     "Control.md",
