@@ -15,3 +15,6 @@
 
 ![](attachments/Pasted%20image%2020231017170333.png)
 
+- https://www.deutsche-rohstoffagentur.de/DERA/DE/Home/dra_node.html
+
+

@@ -69,13 +69,6 @@ Jahren haben nicht Präpositionen
 
 ---
 
-Clases de conectores:
-- Nebensatz
-- Position 0
-- Position 1
-
----
-
 Anne Franks Tagebuch, aber,
 Originalfassung -> Tagebuch der Anne Frank
 
@@ -89,7 +82,8 @@ Alle -> Todos
 Gern = Gerne
 
 ---
-Oft gehen sie sehr spät ins Bett, denn viele von ihnen leiden unter Einsclahstörungen
+
+Oft gehen sie sehr spät ins Bett, denn viele von ihnen leiden unter Einschlafstörungen
 
 ---
 Passen aufeinander -> Cuidar uno de los otros
@@ -110,4 +104,47 @@ Für wen haben Sie mich gehalten? -> ¿Por quién me tomas?
 
 ---
 
+Wann wollen wir uns treffen? Heute Abend?  
+Indikativ: _**Wollen wir uns heute Abend treffen?**_  
+Konjunktiv II: _**Wir könnten uns heute Abend treffen.**_  
+Indirekte Frage: _**Was hältst du davon, wenn wir uns heute Abend treffen?**_
 
+---
+
+ Bei den unregelmäßigen Verben ist nicht immer gleich erkennbar, von welchem Infinitiv die Form kommt.
+
+Con los verbos irregulares, no siempre queda claro de qué infinitivo proviene la forma.
+
+---
+
+Formell -> Ich kenne die Person nicht
+Halb formell -> Ich kenne die Person (Chef, Professor)
+
+Teil 3 Screiben -> 90% Halb formell
+
+---
+
+Incontable -> Viel
+Contable -> Viele
+
+---
+
+Falsch -> Ich habe andere Frage
+Richtig -> Ich habe eine andere Frage
+
+---
+
+Andereseits nie allein.
+
+Einerseits...andereseits
+
+---
+
+In der Stadt sind die Mieten höher.
+Meiner Meinung nach sind in der Stadt die Mieten höher.
+Ich bin der Meinung, dass in der Stadt die Mieten höher sind.
+
+Die medizinische Versorgung ist in der Stadt besser.
+Ein weiterer Vorteil ist in der Stadt die medizinische Versorgung besser.
+
+---

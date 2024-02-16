@@ -8,25 +8,25 @@
         "type": "tabs",
         "children": [
           {
-            "id": "78435945ee67885d",
+            "id": "81c8154e864a8a08",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deutsch_B1.md",
-                "mode": "preview",
+                "file": "TO DO.md",
+                "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "04bc6e61ed380048",
+            "id": "fbdb2cdf5e05387d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deutsch_B1.md",
-                "mode": "preview",
+                "file": "Matlab.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deutsch_B1.md",
+                "file": "Matlab.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deutsch_B1.md",
+                "file": "Matlab.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deutsch_B1.md"
+                "file": "Matlab.md"
               }
             }
           },
@@ -188,7 +188,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "section:()einer\"",
+                "query": "\"Ebenfalls\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -213,21 +213,33 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-advanced-slides:Show Slide Preview": false
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "obsidian-importer:Open Importer": false
     }
   },
-  "active": "04bc6e61ed380048",
+  "active": "fbdb2cdf5e05387d",
   "lastOpenFiles": [
-    "Deutsch.md",
-    "Deutsch_B1.md",
-    "Deutsch_A2.md",
-    "TensorFlow.md",
-    "Deutsch_A1.md",
     "Other.md",
+    "Matlab.md",
+    "Main.md",
+    "TO DO.md",
+    "TensorFlow.md",
+    "Diseño de ejes.md",
+    "Diseño de Elementos de Máquinas I.md",
+    "Präpositionen.md",
+    "Deutsch_B1.md",
+    "Zufällige Fakten.md",
+    "Deutsch_A1.md",
+    "Deutsch_A2.md",
+    "OneNote/Neuer Abschnitt 1",
+    "OneNote/Schnelle Notizen",
+    "OneNote",
+    "Web Development.md",
     "Linked note.md",
+    "Deutsch.md",
+    "OPPORTUNITÄTEN.md",
     "1. Fundamentals of Tiny ML.md",
     "Excalidraw/whiteboard.excalidraw.md",
-    "Main.md",
     "attachments/Pasted image 20240108173900.png",
     "attachments/Pasted image 20240108171533.png",
     "Excalidraw/attachments/Pasted Image 20240108171430_726.png",
@@ -239,20 +251,13 @@
     "Excalidraw/attachments/Pasted Image 20240108140407_656.png",
     "attachments/Pasted image 20240108124338.png",
     "attachments/Pasted image 20240108124153.png",
-    "TO DO.md",
     "Cap. 5. Diseño con ecuaciones de estado.md",
     "Control.md",
     "Diseño de resortes.md",
     "Uniones.md",
     "Diseño por fatiga.md",
-    "Diseño de Elementos de Máquinas I.md",
     "Cap. 5 Sensores.md",
     "Sensores y Actuadores.md",
-    "LaTeX.md",
-    "Cap. 3. Lugar geométrico de las raices.md",
-    "Estática de Fluidos.md",
-    "Fundamentos de Mecánica de Fluidos.md",
-    "Cinemática de Fluidos.md",
     "AuxFolder/IX Semestre.lnk",
     "IX Semestre.lnk",
     "IX Semestre - Shortcut.lnk",
@@ -260,9 +265,6 @@
     "Local Notes Backup.rar",
     "attachments",
     "Excalidraw/attachments",
-    "Excalidraw",
-    "AuxFolder/wav2Raw.py",
-    "AuxFolder/I2S_Transmitter.v",
     "Untitled.canvas"
   ]
 }

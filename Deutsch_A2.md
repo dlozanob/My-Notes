@@ -323,7 +323,7 @@ Mit Ob-Sätzen kann man indirekte Ja/Nein Fragen bilden.
 |sie/Sie|würden|wären|hätten|
 
 - _Bsp_
-	- Ich würde gern ins Kino gehe
+	- Ich würde gern ins Kino gehen
 	- Wenn ich reich wäre, würde ich jeden Tag Sport machen
 	- Wenn ich Zeit hätte, würde ich jeden Tag Sport machen
 	- Wenn der Kellner kommen würde, würden wir etwas zu essen bestellen

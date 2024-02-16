@@ -167,6 +167,9 @@ Hey! This is a linked note.
 - Sich ekeln -> Repugnarse
 - Sich gewöhnen -> Acostumbrarse
 - Neuerdings -> Reciéntemente
+- Bremsen -> Slow down
+- Gleichbedeutend -> Sinónimo
+
 ---
 
 1. 1000065099 - 4.7

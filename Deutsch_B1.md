@@ -47,10 +47,11 @@
 	 - Sie fuhre am Wochenende an den Strand, _obwohl_ das Wetter schlecht war
 - _Seitdem_
 - _Sodass_
+	- Gut sind breite Radwege, _sodass_ Platz für langsame und schnelle Fahrer ist
 - _Solange_
 - _Sooft_
 - _Während_
-	- Während meine Hundin isst, bellt sie
+	- _Während_ meine Hundin isst, bellt sie
 - _Weil_
 	- Er hatte wenig Zeit, _weil_ er den Flug nach L.A nehmen musste
 - _Wenn_
@@ -62,6 +63,8 @@
 - _Allerdings_
 - _Also_
 - _Außerdem_
+- _Andererseits_
+	- Andererseits ist in der Stadt alles teurer
 - _Dagegen_
 - _Danach_
 - _Dann_
@@ -78,6 +81,7 @@
 - _Vorher_
 - _Weder..noch_
 - _Zwar.. aber_
+- _Sonst_
 
 
 ### Position II (Konjuktionen-Normale Wortstellung)
@@ -249,7 +253,7 @@
 ### Genitiv Nebensatz
 
 - Timo, dessen Bruder Personalberater ist, ist Tischler
-- Ben, dessen Swestern Kim und Monika sind, kommt aus den USA
+- Ben, dessen Schwestern Kim und Monika sind, kommt aus den USA
 - Kim, deren Onkel Mark lebt in Deutschland, kommt aus Malasya
 
 
@@ -379,5 +383,21 @@
 		- Die Frau wartet darauf
 	- Die Frau wartet auf ihren Mann
 		- Auf wen wartet die Frau?
+
+
+## Nämlich
+
+
+## Einerseits... Andererseits
+
+Beide Konnektoren sind Position I.
+
+Positiv + Negativ
+
+- _Einerseits_ war der Urlaub in Thailand sehr schön, _andererseits_ war die Reise sehr anstrengend
+- _Einerseits_ würde ich den Rock gerne kaufen, weil er ein so schönes Muster hat, _andererseits_ ist er ziemlich teuer
+- _Einerseits_ würde ich meiner Oma gerne helfen, _andererseits_ würde ich am liebsten den ganzen Tag auf der Couch liegen
+- Sarah würde _einerseits_ gerne im Ausland leben un viele Abenteuer erleben, _andererseits_ mag sie die Sicherheit in Deutschland
+
 
 

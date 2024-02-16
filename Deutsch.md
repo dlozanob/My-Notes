@@ -11,3 +11,7 @@
 - [Präpositionen](Präpositionen.md)
 - [Zufällige Fakten](Zufällige%20Fakten.md)
 - [My Goethe](https://my.goethe.de/)
+- [Aussprechen üben](https://yourdailygerman.com/practice-pronunciation/)
+- [Märchen](https://www.grimmstories.com/de/grimm_maerchen/index)
+
+
