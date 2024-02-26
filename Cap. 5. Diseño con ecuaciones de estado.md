@@ -523,7 +523,7 @@ $$
 - $Ctr$ : Matriz de controlabilidad
 
 >[!Note]
->Se toma la matriz de controlabilidad solo como $[BAB]$ porque $n = 2$, entonces $A^{n-1}B=AB$
+>Se toma la matriz de controlabilidad solo como $[B\\\,\,AB]$ porque $n = 2$, entonces $A^{n-1}B=AB$
 
 $$
 \begin{align*}
