@@ -985,7 +985,7 @@ $$
 
 Para que sea controlable, el rango de la matriz debe ser total (número de estados = $2$), es decir, $\det(\mathscr{C})\neq0$.
 
-Pero $\det(\mathscr{C})=1$ , entonces es controlable.
+En este caso $\det(\mathscr{C})=1$ , entonces es controlable.
 
 Matriz de observabilidad:
 
@@ -1176,5 +1176,13 @@ x_{2}-\hat{x}_{2}
 \end{bmatrix} }_{ y-\hat{y} }
 \end{align*}
 $$
+
+
+>[!Warning]
+>Sistema controlable -> $\det(\mathscr{C}) \neq 0$
+>Sistema observable -> $\det(\mathscr{O}) \neq 0$
+
+
+
 
 
