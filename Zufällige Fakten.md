@@ -148,3 +148,19 @@ Die medizinische Versorgung ist in der Stadt besser.
 Ein weiterer Vorteil ist in der Stadt die medizinische Versorgung besser.
 
 ---
+
+by far the best -> du hast den schönsten hintern weit und breit
+
+---
+
+Sollte etwas fehlen, geben Sie bitte der Verwaltung Bescheid -> Si falta algo, por favor informe a la administración
+
+---
+
+Laut einer Statistik leben in Deutschland durchschnittlich zwei Personen in einer Wohnung -> Dicen las estadísticas...
+
+---
+
+Oder reicht es auch, -> O es suficiente...
+
+---

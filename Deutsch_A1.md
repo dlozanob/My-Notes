@@ -596,13 +596,13 @@ Wegbeschreibung:
 
 - Schlafen
 	- schlaf
-	- -
-	- -
+	- =
+	- =
 - Sein
 	- sei
-	- -
+	- =
 	- seien
 - Haben
 	- hab
-	- -
-	- -
+	- =
+	- =

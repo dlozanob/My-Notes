@@ -8,25 +8,40 @@
 	- [ ] Apuntes
 	- [ ] Lektion 3: 7
 	- [ ] Ejercicios A2
-	- [ ] 2 Stunde Hören
+	- [x] 2 Stunde Hören
 	- [ ] 1 Märchen lesen
+	- [x] Goethe Zertifikat B1
 
 - [ ] Robótica
-	- [ ] Taller 0: 19 Feb (23:30)
+	- [ ] Taller 1: 1 Marzo
+	- [ ] Taller 2: 15 Marzo
+
 - [ ] Técnicas de Inteligencia Artificial
+	- [ ] Presentaciones
+	- [ ] Proyecto
+
 - [ ] Ingeniería de Manufactura
+	- [ ] Presentaciones
+
 - [ ] Técnicas de Control
 	- [ ] Tareas
+
 - [ ] Dibujo de Máquinas
-	- [ ] Taller 1: 23 Feb
-	- [ ] Presentación 3: 41-
+	- [x] Taller 1: 6 PM
+	- [x] Sustentación Informe: 26 Feb
+
 - [ ] Termodinámica Técnica
+	- [ ] Presentaciones
 
  - [ ] Enigma
 	 - [ ] Lecturas
 	 - [ ] ROS
 
+- [ ] Chem-E-Car
+	- [x] Diapos: Miércoles
 
+
+- [ ]  
 ---
 
 
