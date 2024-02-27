@@ -5,7 +5,7 @@
 - [[TensorFlow]]
 - [ML in Python](https://scikit-learn.org/stable/)
 - [[Matlab]]
-- https://www.mcmaster.com
+- [Mechanic products catalog](https://www.mcmaster.com)
 
 
 
