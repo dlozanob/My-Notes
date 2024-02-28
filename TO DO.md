@@ -20,7 +20,7 @@
 - [ ] **Técnicas de Inteligencia Artificial**
 	- [ ] Presentaciones
 	- [ ] Proyecto
-	- [ ] Tarea 1: 2 Marzo
+	- [ ] Tarea 1: SÁBADO
 
 - [ ] **Ingeniería de Manufactura**
 	- [ ] Presentaciones

@@ -1,15 +1,12 @@
 # François
 
 
+![](attachments/Pasted%20image%2020240227233546.png)
 
-
-
-
-
-
-
-
-
+- [[François_A1]]
+- [[François_A2]]
+- [[François_B1]]
+- [[François_B2]]
 
 
 ## External Links

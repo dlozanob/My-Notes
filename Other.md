@@ -13,6 +13,7 @@
 
 - https://robotacademy.net.au
 - https://petercorke.com
+- https://www.youtube.com/@antoniobarrientos/playlists
 
 ---
 
