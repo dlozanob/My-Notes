@@ -81,9 +81,5 @@
 
 - n -> Eje instantaneo de rotacion
 
-$$
-\begin{align*}
-	r_{2}=(r_{1}\cdot n)\cdot n+(-n\times(n\times r_{1})\cos \theta+(-\sin \theta(n\times(n\times r_{1}))))
-\end{align*}
-$$
+
 

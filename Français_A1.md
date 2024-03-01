@@ -67,6 +67,7 @@ Se pone acento grave cuando:
 
 
 - ch (_sha_) -> le chat
+- qui (_ka_)
 - ph (_f_) -> photo
 - gn (_ini_) -> une ligne
 - gu (_gue_) -> une bague
@@ -108,6 +109,59 @@ Se pone acento grave cuando:
 6. _ien / ion → ienne / ionne_
 	- Un technicien → une technicienne
 	- Un informaticien → une informaticienne
+
+## Les nombres
+
+- 0 zéro
+- 1 un
+- 2 deux
+- 3 trois
+- 4 quatre
+- 5 cinq
+- 6 six
+- 7 sept
+- 8 huit
+- 9 neuf
+
+- 10 dix
+- 11 onze
+- 12 douze
+- 13 treize
+- 14 quatorze
+- 15 quinze
+- 16 seize
+- 17 dix-sept
+- 18 dix-huit
+- 19 dix-neuf
+- 20 vingt
+- 21 vingt et un
+- 30 trente
+- 40 quarante
+- 50 cinquante
+- 60 soixante
+
+- 70 soixante-dix
+- 71 soixante-onze
+.
+- 80 quatre-vingts
+- 81 quatre vingt-un
+.
+- 90 quatre-vingt-dix
+- 91 quatree-vingt-onze
+- .
+
+- 100 cent
+- 101 cent un
+- .
+- 200 deux cents
+- 1,000 mille
+- 10,000 dix mille
+- 100,000 cent mille
+- 1,000,000 un million
+- 1,000,000,000 un milliard
+- 1,000,000,000,000 un trillion
+
+
 
 
 
