@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Français_A1.md",
+                "file": "TO DO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Français_A1.md",
+                "file": "TO DO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Français_A1.md"
+                "file": "TO DO.md"
               }
             }
           },
@@ -217,12 +216,17 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "22d87b828899c925",
+  "active": "055faf5143a92eb5",
   "lastOpenFiles": [
-    "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
-    "TO DO.md",
-    "Excalidraw/whiteboard.excalidraw.md",
     "Français_A1.md",
+    "Cybersec.md",
+    "Main.md",
+    "Enigma.md",
+    "TO DO.md",
+    "attachments/Pasted image 20240302114546.png",
+    "attachments/Pasted image 20240302114524.png",
+    "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
+    "Excalidraw/whiteboard.excalidraw.md",
     "Javascript.md",
     "François.md",
     "Deutsch_A1.md",
@@ -239,7 +243,6 @@
     "Excalidraw/attachments/Pasted Image 20240227200310_688.png",
     "Excalidraw/attachments/Pasted Image 20240227200208_674.png",
     "Other.md",
-    "Main.md",
     "OPPORTUNITÄTEN.md",
     "Uniones.md",
     "Diseño de Elementos de Máquinas I.md",
@@ -250,11 +253,7 @@
     "Automatización%2C Control y Robótica.md",
     "Linked note.md",
     "Excalidraw/attachments/Pasted Image 20240221205622_048.png",
-    "Excalidraw/attachments/Pasted Image 20240221205607_036.png",
-    "Excalidraw/attachments/Pasted Image 20240221204943_546.png",
     "Zufällige Fakten.md",
-    "Diseño de ejes.md",
-    "Matlab.md",
     "OneNote/Neuer Abschnitt 1",
     "OneNote/Schnelle Notizen",
     "OneNote",

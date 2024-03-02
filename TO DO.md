@@ -15,7 +15,6 @@
 	- [ ] Taller 1: 1 Marzo
 	- [ ] Taller 2: 15 Marzo
 	- [ ] Visita CDM: MIÉRCOLES 6 Marzo 9-11
-	- [ ] Capacitación CDM: Viernes
 
 - [ ] **Técnicas de Inteligencia Artificial**
 	- [ ] Presentaciones
@@ -49,6 +48,8 @@
 	 - [ ] Lecturas
 	 - [ ] ROS
 	 - [ ] URDF
+	 - [ ] Revisar el libro -> https://drive.google.com/file/d/1CFeumva6nkOEr9Ok7XiKm6wrIVPL5zK4/view
+	 - [ ] Revisar ROS2 -> https://roboticseabass.com/2023/07/09/updated-guide-docker-and-ros2/
 
 - [ ] **Chem-E-Car**
 	- [x] Diapos: Miércoles
