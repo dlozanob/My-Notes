@@ -10,9 +10,19 @@
 | è (_ö_)   | ç (cédille) | ë         | î           | ï              | ô         | ö           | ù            | à          |
 | â         |             |           |             |                |           |             |              |            |
 
+- s -> (_z_)
+- ss -> (_s_)
+- dix -> (_dis_)
+- sept -> (_set_)
+- six animaux -> (_sisanimó_)
+- Payer = paiier -> (_pe ier_)
+- sèchent -> (_sesch_)
+- Prononciation -> (_pronunziazio_)
+- Batterie -> (_batri_)
+
 - é -> Lengua abajo, labios estirados
 - e -> Lengua abajo, labios en forma de 'o'
-- è -> Boca abierta, lengua abajo
+- è -> Forma de 'o', decir e, lengua abajo
 
 - Las graves se usan para distinguir palabras homófonas
 
@@ -66,8 +76,7 @@ Se pone acento grave cuando:
 ### Combinaison de lettres
 
 
-- ch (_sha_) -> le chat
-- qui (_ka_)
+- ch (_sch_) -> le chat
 - ph (_f_) -> photo
 - gn (_ini_) -> une ligne
 - gu (_gue_) -> une bague
@@ -78,6 +87,7 @@ Se pone acento grave cuando:
 - ai (_e_)
 - ou (_u suave_)
 - eu (_ü_)
+- eur (_er_)
 - eau (_u_)
 
 
@@ -105,10 +115,12 @@ Se pone acento grave cuando:
 	- Un contrôleur aérien → une contrôleuse aérienne
 5. _teur → trice / teuse_
 	- Un instructeur → une instructrice
-	- Un directeur→ une directrice
+	- Un directeur → une directrice
+	- Un chanteur → une chanteuse
 6. _ien / ion → ienne / ionne_
 	- Un technicien → une technicienne
 	- Un informaticien → une informaticienne
+
 
 ## Les nombres
 
@@ -141,10 +153,11 @@ Se pone acento grave cuando:
 - 60 soixante
 
 - 70 soixante-dix
-- 71 soixante-onze
+- 71 soixante et onze
+- 72 soixante-douze
 .
 - 80 quatre-vingts
-- 81 quatre vingt-un
+- 81 quatre-vingt-un
 .
 - 90 quatre-vingt-dix
 - 91 quatree-vingt-onze
@@ -162,12 +175,36 @@ Se pone acento grave cuando:
 - 1,000,000,000,000 un trillion
 
 
-## Pronoms
+## Pronoms (COD, COI)
+
+- COD -> Complement Objet Direct
+- COI -> Complement Objet Indirect
+
+| Sujet | Objet direct | Objet indirect |
+| ----- | ------------ | -------------- |
+| je/j' | me           | me             |
+| tu    | te           | te             |
+| il    | le           | lui            |
+| elle  | la           | lui            |
+| nous  | nous         | nous           |
+| vous  | vous         | vous           |
+| ils   | les          | leur           |
+| elles | les          | leur           |
+
+- J'achète _la_ voiture -> Direct
+- Mes parents _me_ donnent de l'argent -> Indirect
 
 
+### Pronom Y
+
+- Je vais à Paris -> J'_y_ vais
+- J'inscris mes enfants à un cours de français -> Je les _y_ incris
+- Je m'inscris à un cours de français -> Je m'_y_ incris
 
 
+### Pronom EN
 
-
+- J'ai besoin _de_ ton ordinateur -> J'_en_ besoin
+- Je 
 
 

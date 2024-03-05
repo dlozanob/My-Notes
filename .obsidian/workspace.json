@@ -8,7 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "055faf5143a92eb5",
+            "id": "22d87b828899c925",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "François.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9d0c3391495af6b3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,20 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "22d87b828899c925",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Français_A1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -216,44 +217,44 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "055faf5143a92eb5",
+  "active": "9d0c3391495af6b3",
   "lastOpenFiles": [
+    "Linked note.md",
+    "Other.md",
+    "TO DO.md",
+    "François.md",
     "Français_A1.md",
+    "Cap. 3. Solución de las ecuaciones de estado de sistemas LTI.md",
+    "Señales y Sistemas II.md",
+    "Cap. 4. Análisis cualitativo de sistemas LTI.md",
+    "Excalidraw/whiteboard.excalidraw.md",
+    "Excalidraw/attachments/Pasted Image 20240302214346_552.jpg",
+    "Excalidraw/attachments/Pasted Image 20240302214346_532.jpg",
+    "Excalidraw/attachments/Pasted Image 20240302214331_673.jpg",
+    "Excalidraw/attachments/Pasted Image 20240302214331_588.jpg",
+    "Excalidraw/attachments/Pasted Image 20240302214331_524.jpg",
+    "Excalidraw/attachments/Pasted Image 20240302214316_186.jpg",
+    "Excalidraw/attachments/Pasted Image 20240302214315_819.jpg",
+    "Excalidraw/attachments/Pasted Image 20240302214315_801.jpg",
+    "Excalidraw/attachments/Pasted Image 20240302214300_780.jpg",
     "Cybersec.md",
     "Main.md",
     "Enigma.md",
-    "TO DO.md",
     "attachments/Pasted image 20240302114546.png",
-    "attachments/Pasted image 20240302114524.png",
     "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
-    "Excalidraw/whiteboard.excalidraw.md",
     "Javascript.md",
-    "François.md",
     "Deutsch_A1.md",
     "Deutsch.md",
     "Excalidraw/blackboard.excalidraw.md",
     "Deutsch_B1.md",
     "Deutsch_A2.md",
-    "attachments/Pasted image 20240228103421.png",
-    "attachments/Pasted image 20240227233546.png",
-    "Excalidraw/attachments/Pasted Image 20240227200904_681.png",
-    "Excalidraw/attachments/Pasted Image 20240227200816_680.png",
     "Harvard TinyML.md",
-    "Excalidraw/attachments/Pasted Image 20240227200327_705.png",
-    "Excalidraw/attachments/Pasted Image 20240227200310_688.png",
-    "Excalidraw/attachments/Pasted Image 20240227200208_674.png",
-    "Other.md",
     "OPPORTUNITÄTEN.md",
     "Uniones.md",
     "Diseño de Elementos de Máquinas I.md",
     "Diseño de resortes.md",
     "Cap. 5. Diseño con ecuaciones de estado.md",
     "Control.md",
-    "Automatización, Control y Robótica.md",
-    "Automatización%2C Control y Robótica.md",
-    "Linked note.md",
-    "Excalidraw/attachments/Pasted Image 20240221205622_048.png",
-    "Zufällige Fakten.md",
     "OneNote/Neuer Abschnitt 1",
     "OneNote/Schnelle Notizen",
     "OneNote",

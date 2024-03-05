@@ -2,13 +2,13 @@
 
 ---
 
-- Les nombres (1-4)
-- Les professions
-- L'abcededare .
-- Les Pays (fem, masc)
-- Les verbes etre et voir
-- Les mots interrogatifs
-- La negation
+- [x] Les nombres (1-4)
+- [x] Les professions
+- [x] L'abcededare
+- [ ] Les Pays (fem, masc)
+- [ ] Les verbes etre et voir
+- [ ] Les mots interrogatifs
+- [ ] La negation
 
 ---
 

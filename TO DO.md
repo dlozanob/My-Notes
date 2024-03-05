@@ -19,7 +19,6 @@
 - [ ] **Técnicas de Inteligencia Artificial**
 	- [ ] Presentaciones
 	- [ ] Proyecto
-	- [ ] Tarea 1: SÁBADO
 
 - [ ] **Ingeniería de Manufactura**
 	- [ ] Presentaciones
@@ -36,10 +35,10 @@
 			- [ ] LQR en Matlab
 			- [ ] Diseño de observadores en Matlab
 	- [ ] Tarea 1 ("Lewis", CAS/SAS)
+	- [ ] Matlab ver: hinfsyn()
 
 - [ ] **Dibujo de Máquinas**
-	- [x] Taller 1: 6 PM
-	- [x] Sustentación Informe: 26 Feb
+	- [ ] Tarea Bodega: DOMINGO
 
 - [ ] **Termodinámica Técnica**
 	- [ ] Presentaciones
@@ -47,8 +46,8 @@
  - [ ] **Enigma**
 	 - [ ] Lecturas
 	 - [ ] ROS
-	 - [ ] URDF
-	 - [ ] Revisar el libro -> https://drive.google.com/file/d/1CFeumva6nkOEr9Ok7XiKm6wrIVPL5zK4/view
+	 - [ ] Revisar la herramienta en Fusion 360 del archivo .urdf: SÁBADO
+	 - [ ] Revisar el libro -> https://drive.google.com/file/d/1CFeumva6nkOEr9Ok7XiKm6wrIVPL5zK4/view SÁBADO
 	 - [ ] Revisar ROS2 -> https://roboticseabass.com/2023/07/09/updated-guide-docker-and-ros2/
 
 - [ ] **Chem-E-Car**
@@ -58,29 +57,11 @@
 	- [ ] Classroom
 	- [ ] Proyecto: Planeación
 	- [ ] Biografía
+	- [ ] Examen intérmediaire: 1-5 Avril
 
 
 
 ---
-
-
-# Robótica
-
-- SPLINE -> 3, 4 orden. Usa polinomio para regresión lineal por unos puntos
-- Problema LERP, SLERP -> No son suaves -> Acel. -> $\infty$
-- Cuaternio -> Espacio esférico en $R^{3}$, vector 4x4, al hacer norma 1, pasa a $R^{3}$
-- Ang. Euler (12 comb) / Cuaternios (3 ángulos)
-- roll, pitch, yaw -> Ang fijos
-- Ang. tay brayan (orientación satélites) -> Ang euler
-- RzRyRz* I = I * RzRyRz
-- Mecanismo de yimba
-- Lock yimba -> En ejes móviles, al rotar puede suceder que los ejes de giro se alinean -> Indeterminación
-- Todas las orientaciones se encuentran dentro de medio casquete, en el otro hemisferio el giro del vector cambia (con respecto a sí) -> Dualidad (2 representaciones) en el espacio esférico 3
-
-![](attachments/Pasted%20image%2020240228103421.png)
-
-
-- n -> Eje instantaneo de rotacion
 
 
 
