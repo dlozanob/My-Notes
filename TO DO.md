@@ -22,8 +22,18 @@
 		- [ ] Presentación (Beamer - LaTex)
 		- [ ] Informe técnico
 			- [ ] Título
-			- [ ] Resumen
-			- [ ] Introducción (problema, estado del arte)
+			- [ ] Resumen (def. prob., técnicas solución prob., resultados)
+			- [ ] Introducción (problema, estado del arte + novedad, desc. solución + aportes, estructura doc.) -> Párrafo cada uno
+			- [ ] Estado del arte (discutir sobre 3 artículos en inglés)
+			- [ ] Materiales y métodos (cómo se adquiere la info.)
+				- [ ] Adquisición
+				- [ ] Preproceso
+				- [ ] Segmentación
+				- [ ] Caracterización
+				- [ ] Clasificación o reconocimiento
+			- [ ] Resultados
+			- [ ] Conclusiones (trabajo futuro en el último párrafo)
+			- [ ] Referencias
 
 - [ ] **Ingeniería de Manufactura**
 	- [ ] Presentaciones
