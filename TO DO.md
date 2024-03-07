@@ -14,11 +14,16 @@
 - [ ] **Robótica**
 	- [ ] Taller 1: 1 Marzo
 	- [ ] Taller 2: 15 Marzo
-	- [ ] Visita CDM: MIÉRCOLES 6 Marzo 9-11
+	- [ ] Visita CDM: MIÉRCOLES 13 Marzo 9-11
 
 - [ ] **Técnicas de Inteligencia Artificial**
 	- [ ] Presentaciones
 	- [ ] Proyecto
+		- [ ] Presentación (Beamer - LaTex)
+		- [ ] Informe técnico
+			- [ ] Título
+			- [ ] Resumen
+			- [ ] Introducción (problema, estado del arte)
 
 - [ ] **Ingeniería de Manufactura**
 	- [ ] Presentaciones
@@ -42,6 +47,7 @@
 
 - [ ] **Termodinámica Técnica**
 	- [ ] Presentaciones
+	- [ ] Taller 1: 4 Abril
 
  - [ ] **Enigma**
 	 - [ ] Lecturas
