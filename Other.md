@@ -14,8 +14,16 @@
 - https://robotacademy.net.au
 - https://petercorke.com
 - https://www.youtube.com/@antoniobarrientos/playlists
+- [ROS Course](https://www.edx.org/learn/robotics/delft-university-of-technology-hello-real-world-with-ros-robot-operating-system)
 
 ---
+
+## Project Management
+
+- [7 Steps](http://www.pm4rglobal.org/steps.html?lang=en)
+
+---
+
 
 
 

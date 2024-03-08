@@ -22,7 +22,7 @@
 		- [ ] Presentación (Beamer - LaTex)
 		- [ ] Informe técnico
 			- [ ] Título
-			- [ ] Resumen (def. prob., técnicas solución prob., resultados)
+			- [ ] Resumen (def. prob., técnicas solución prob., resultados: cuantiv., cualit.) -> 1 párrafo
 			- [ ] Introducción (problema, estado del arte + novedad, desc. solución + aportes, estructura doc.) -> Párrafo cada uno
 			- [ ] Estado del arte (discutir sobre 3 artículos en inglés)
 			- [ ] Materiales y métodos (cómo se adquiere la info.)
@@ -70,6 +70,7 @@
 	- [x] Diapos: Miércoles
 
 - [ ]  **Français**
+	- [ ] MAÑANA: TAREA
 	- [ ] Classroom
 	- [ ] Proyecto: Planeación
 	- [ ] Biografía
@@ -78,6 +79,7 @@
 
 
 ---
+
 
 
 

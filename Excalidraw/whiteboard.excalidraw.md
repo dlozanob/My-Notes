@@ -8,10 +8,6 @@ tags: [excalidraw]
 
 
 # Text Elements
-
-# Embedded files
-0f12be37aec852108eb7f11d6dd7a621dbb9f5d7: $$\left\{ 	\begin{array}{lcc} 		\theta_{x} = 29.2059° \\ \theta_{y} = 64.1233° \\ 	\theta_{x} = 102.6044° \\ \end{array} 	\right.$$
-
 %%
 # Drawing
 ```json
@@ -22,31 +18,63 @@ tags: [excalidraw]
 	"elements": [
 		{
 			"type": "image",
-			"version": 1,
-			"versionNonce": 769074842,
-			"isDeleted": false,
-			"id": "fQfgbh5V",
+			"version": 4,
+			"versionNonce": 1279016475,
+			"isDeleted": true,
+			"id": "vpgPPzYR",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -211.84393345882955,
-			"y": 97.88141098416224,
+			"x": -480,
+			"y": 20,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 121,
-			"height": 62,
-			"seed": 82055,
+			"width": 111,
+			"height": 16,
+			"seed": 78086,
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1709785148030,
+			"updated": 1709907219214,
 			"link": null,
 			"locked": false,
 			"status": "pending",
-			"fileId": "0f12be37aec852108eb7f11d6dd7a621dbb9f5d7",
+			"fileId": "ae12723ce49752fac2f839943ee9b407f6a7e650",
+			"scale": [
+				1,
+				1
+			]
+		},
+		{
+			"type": "image",
+			"version": 67,
+			"versionNonce": 1396868373,
+			"isDeleted": true,
+			"id": "K58w5ZXc",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -480,
+			"y": 60,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 127,
+			"height": 62,
+			"seed": 57766,
+			"groupIds": [],
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1709907219214,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "049ccb0018184f7e9f159440e3c69a7409105dce",
 			"scale": [
 				1,
 				1
@@ -56,11 +84,11 @@ tags: [excalidraw]
 	"appState": {
 		"theme": "light",
 		"viewBackgroundColor": "#ffffff",
-		"currentItemStrokeColor": "#e67700",
+		"currentItemStrokeColor": "#ffffff",
 		"currentItemBackgroundColor": "#ffffff",
 		"currentItemFillStyle": "solid",
 		"currentItemStrokeWidth": 2,
-		"currentItemStrokeStyle": "dotted",
+		"currentItemStrokeStyle": "solid",
 		"currentItemRoughness": 0,
 		"currentItemOpacity": 100,
 		"currentItemFontFamily": 1,
@@ -68,10 +96,10 @@ tags: [excalidraw]
 		"currentItemTextAlign": "center",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "triangle",
-		"scrollX": 547.541279309322,
-		"scrollY": 178.339412281262,
+		"scrollX": 814.4522004989168,
+		"scrollY": 182.28053516530667,
 		"zoom": {
-			"value": 1.1913254971125227
+			"value": 1.5494021409766316
 		},
 		"currentItemRoundness": "sharp",
 		"gridSize": null,

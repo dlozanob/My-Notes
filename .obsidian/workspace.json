@@ -18,6 +18,16 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5e88b5794033e33e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/whiteboard.excalidraw.md"
+              }
+            }
           }
         ]
       }
@@ -208,9 +218,12 @@
   "lastOpenFiles": [
     "Excalidraw/whiteboard.excalidraw.md",
     "TO DO.md",
+    "Excalidraw/attachments/Pasted Image 20240307190355_751.png",
+    "attachments/Pasted image 20240307184425.png",
+    "Other.md",
+    "Excalidraw/attachments/Pasted Image 20240307152612_782.png",
     "LaTeX.md",
     "Linked note.md",
-    "Other.md",
     "François.md",
     "Français_A1.md",
     "Cap. 3. Solución de las ecuaciones de estado de sistemas LTI.md",
@@ -223,12 +236,9 @@
     "Excalidraw/attachments/Pasted Image 20240302214331_524.jpg",
     "Excalidraw/attachments/Pasted Image 20240302214316_186.jpg",
     "Excalidraw/attachments/Pasted Image 20240302214315_819.jpg",
-    "Excalidraw/attachments/Pasted Image 20240302214315_801.jpg",
-    "Excalidraw/attachments/Pasted Image 20240302214300_780.jpg",
     "Cybersec.md",
     "Main.md",
     "Enigma.md",
-    "attachments/Pasted image 20240302114546.png",
     "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
     "Javascript.md",
     "Deutsch_A1.md",
@@ -241,7 +251,6 @@
     "Uniones.md",
     "Diseño de Elementos de Máquinas I.md",
     "Diseño de resortes.md",
-    "Cap. 5. Diseño con ecuaciones de estado.md",
     "OneNote/Neuer Abschnitt 1",
     "OneNote/Schnelle Notizen",
     "OneNote",
