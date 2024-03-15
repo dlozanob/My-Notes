@@ -310,14 +310,8 @@ Si el pronombre no es personal, se debe añadir con el verbo:
 		- Moi j'_y_ vais
 
 
-
-
-
-
-
 ## Pronom EN
 
 - J'ai besoin _de_ ton ordinateur -> J'_en_ besoin
-- Je 
 
 

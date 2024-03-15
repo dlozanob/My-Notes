@@ -14,4 +14,5 @@
 - [Livre](https://drive.google.com/drive/folders/18EQ62SsC42tsSqfvpflXn__v4A198yhN)
 - [Vocabulario](https://www.languageguide.org/french/vocabulary/)
 - [Practicar pronunciación](https://voicenotebook.com/prononce.php) (Chrome)
+- [Practicar conjugación de verbos](https://www.cestfacile.eu/fr/verbes/pratiquer/temps.html#11:avoir/1)
 
