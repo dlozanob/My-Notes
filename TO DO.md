@@ -12,9 +12,9 @@
 	- [x] Goethe Zertifikat B1
 
 - [ ] **Robótica**
-	- [ ] Taller 1: 1 Marzo
+	- [x] Taller 1: 1 Marzo
 	- [ ] Taller 2: 15 Marzo
-	- [ ] Visita CDM: MIÉRCOLES 13 Marzo 9-11
+	- [x] Visita CDM: MIÉRCOLES 13 Marzo 9-11
 
 - [ ] **Técnicas de Inteligencia Artificial**
 	- [ ] Presentaciones
@@ -53,7 +53,7 @@
 	- [ ] Matlab ver: hinfsyn()
 
 - [ ] **Dibujo de Máquinas**
-	- [ ] Tarea Bodega: DOMINGO
+	- [x] Tarea Bodega: DOMINGO
 
 - [ ] **Termodinámica Técnica**
 	- [ ] Presentaciones
@@ -70,7 +70,7 @@
 	- [x] Diapos: Miércoles
 
 - [ ]  **Français**
-	- [ ] MAÑANA: TAREA
+	- [x] MAÑANA: TAREA
 	- [ ] Classroom
 	- [ ] Proyecto: Planeación
 	- [ ] Biografía
@@ -79,6 +79,9 @@
 
 
 ---
+
+T_ORG_1 = T_ORG_0 * T_1_0
+
 
 
 

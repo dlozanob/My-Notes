@@ -13,7 +13,7 @@
 - [LaTeX](LaTeX.md)
 - [Cybersec](Cybersec.md)
 - [Deutsch](Deutsch.md)
-- [[François]]
+- [[Français]]
 - [[Enigma]]
 
 

@@ -83,7 +83,7 @@ Se pone acento grave cuando:
 - ei (_ee_)
 - oi (_oa_)
 - au (_uu_)
-- eau (_uu_)
+- eau (_uo_)
 - ai (_e_)
 - ou (_u suave_)
 - eu (_ü_)
@@ -175,6 +175,104 @@ Se pone acento grave cuando:
 - 1,000,000,000,000 un trillion
 
 
+## Le pronoms personnels
+
+
+| Je             | Yo              |
+| -------------- | --------------- |
+| Tu             | Tu              |
+| Il / Elle / On | El / Ella / Uno |
+| Nous           | Nosotros        |
+| Vous           | Usted / ustedes |
+| Ils / Elles    | Ellos / Ellas   |
+
+- _Apeller_
+	- Je m'apelle
+	- Tu t'apelles
+	- Il s'apelle
+	- Nous nous appelons
+	- Vous vous apellez
+	- Ils / Elles s'apellent
+
+
+## L'interrogation
+
+- _Combien_ - How much? / How many?
+- _Quand_ - When?
+- _Où_ - Where?
+- _Comment_ - How?
+- _Pourquoi_ - Why?
+- _Quel / Quelle_ - Which? (masc. / fem.)
+- _Lequel / Laquelle_ - Which one? (masc. / fem.)
+- _Quoi / Qu'est-ce que_ - What?
+- _Qui_ - Who?
+
+
+Formas de formularlas:
+
+- _Cerradas_
+	- _Normal_
+		- Tu vas à la plage?
+	- _Est-ce que_
+		- Est-ce que tu vas à la plage?
+	- _Inversion sujet-verbe_
+		- Pourriez-vous me passer le sel?
+- _Abiertas_
+	- _Normal_
+		- Comment tu t'appelles?
+	- _Verbo al final_
+		- Tu t'apelles comment?
+	- _Est-que_
+		- Où est-ce que tu vas?
+		- Quand est-ce qu'il part?
+	- _Inversion sujet-verbe_
+		- Oú allez-vous?
+
+Si el pronombre no es personal, se debe añadir con el verbo:
+- Quand _les enfants_ vont-_ils_ déjeuner?
+
+>[!Note]
+>Cuando la palabra _quoi_ está seguida de un verbo -> _que_
+>Ex: Tu veux _quoi_? -> _Que_ veux-tu?
+
+>[!Note]
+>Comment va-_t_-ill?
+>Se usa _t_ para no dejar seguidas las vocales
+
+
+## La négation
+
+- _Simple_
+	- Je _ne_ suis _pas_ en vacances
+	- Vous _n_'êtes _pas_ fatigué?
+- _ne jamais_ -> Jamás
+	- Je _ne_ bois _jamais_ café
+- _ne plus_ -> Ya no más
+	- Moi, je _ne_ fume _plus_
+- _ne aucun_ -> Ni uno solo
+	- Je _n_'ai _aucun_ ami
+- _ne rien_ -> Nada
+	- Je _ne_ vois _rien_
+	- _Rien ne_ bouge
+- _ne personne_ -> Nadie
+	- Je _n_'attends _personne_
+	- _Personne ne_ parle
+
+
+## Faire/Jouer
+
+|                    | Faire      | Jouer     |
+| ------------------ | ---------- | --------- |
+| Masculin           | Du (de le) | Au (À le) |
+| Féminin            | De la      | À la      |
+| Devant une voyelle | De l'      | À l'      |
+| Pluriel            | Des        | Aux       |
+
+- Il fais de la danse
+- Je fais du sport tous les jours
+- Tu joues à quels vidéos?
+
+
 ## Pronoms (COD, COI)
 
 - COD -> Complement Objet Direct
@@ -195,14 +293,29 @@ Se pone acento grave cuando:
 - Mes parents _me_ donnent de l'argent -> Indirect
 
 
-### Pronom Y
+## Pronom Y
 
-- Je vais à Paris -> J'_y_ vais
-- J'inscris mes enfants à un cours de français -> Je les _y_ incris
-- Je m'inscris à un cours de français -> Je m'_y_ incris
+- _Lieu_
+	- Je vais _à Paris_ -> J'_y_ vais
+	- J'inscris mes enfants _à un cours de français_ -> Je les _y_ incris
+	- Je m'inscris _à un cours de français_ -> Je m'_y_ incris
+- _Chose avec À_
+	- Il pense _à son mariage_ ->  Il _y_ pense souvent
+	- Je participe _à ce projet_ -> J'_y_ participe de manière intensive
+- _Expressions_
+	- _Il y a_ beaucoup de monde ici
+	- _Ça y est_, il est parti
+	- Je m'_y_ connais
+	- On _y_ va?
+		- Moi j'_y_ vais
 
 
-### Pronom EN
+
+
+
+
+
+## Pronom EN
 
 - J'ai besoin _de_ ton ordinateur -> J'_en_ besoin
 - Je 

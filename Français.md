@@ -1,17 +1,4 @@
-# François
-
----
-
-- [x] Les nombres (1-4)
-- [x] Les professions
-- [x] L'abcededare
-- [ ] Les Pays (fem, masc)
-- [ ] Les verbes etre et voir
-- [ ] Les mots interrogatifs
-- [ ] La negation
-
----
-
+# Français
 
 ![](attachments/Pasted%20image%2020240227233546.png)
 
