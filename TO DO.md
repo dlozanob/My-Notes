@@ -12,12 +12,14 @@
 	- [x] Goethe Zertifikat B1
 
 - [ ] **Robótica**
-	- [x] Taller 1: 1 Marzo
-	- [ ] Taller 2: 15 Marzo
-	- [x] Visita CDM: MIÉRCOLES 13 Marzo 9-11
+	- [ ] Lab 1: VIERNES
+	- [ ] Lab 2: 29 Marzo
+	- [ ] Taller 2: 5 Abril
 
 - [ ] **Técnicas de Inteligencia Artificial**
-	- [ ] Presentaciones
+	- [ ] Revisar Segmentación
+	- [ ] Taller 3: SÁBADO
+	- [ ] Taller 4: 6 Abril
 	- [ ] Proyecto
 		- [ ] Presentación (Beamer - LaTex)
 		- [ ] Informe técnico
@@ -37,6 +39,11 @@
 
 - [ ] **Ingeniería de Manufactura**
 	- [ ] Presentaciones
+	- [ ] Tecnomatix Plant simulation
+	- [ ] Robot Milling
+	- [ ] Robot Welding
+	- [ ] Robot Painting
+	- [ ] Presentación Proyecto Final
 
 - [ ] **Técnicas de Control**
 	- [ ] Tareas
@@ -53,13 +60,13 @@
 	- [ ] Matlab ver: hinfsyn()
 
 - [ ] **Dibujo de Máquinas**
-	- [x] Tarea Bodega: DOMINGO
+	- [ ] Proyecto aplicado: 14 Abril
 
 - [ ] **Termodinámica Técnica**
 	- [ ] Presentaciones
-	- [ ] Taller 1: 4 Abril
+	- [ ] Taller 1: 31 Marzo
 
- - [ ] **Enigma**
+- [ ] **Enigma**
 	 - [ ] Lecturas
 	 - [ ] ROS
 	 - [ ] Revisar la herramienta en Fusion 360 del archivo .urdf: SÁBADO
@@ -67,10 +74,10 @@
 	 - [ ] Revisar ROS2 -> https://roboticseabass.com/2023/07/09/updated-guide-docker-and-ros2/
 
 - [ ] **Chem-E-Car**
-	- [x] Diapos: Miércoles
+
 
 - [ ]  **Français**
-	- [x] MAÑANA: TAREA
+	- [ ] MARTES: TAREA
 	- [ ] Classroom
 	- [ ] Proyecto: Planeación
 	- [ ] Biografía
