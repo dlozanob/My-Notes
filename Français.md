@@ -15,4 +15,11 @@
 - [Vocabulario](https://www.languageguide.org/french/vocabulary/)
 - [Practicar pronunciación](https://voicenotebook.com/prononce.php) (Chrome)
 - [Practicar conjugación de verbos](https://www.cestfacile.eu/fr/verbes/pratiquer/temps.html#11:avoir/1)
+- [Lyrics training](https://lyricstraining.com)
+- [France Education International](https://www.france-education-international.fr)
+- Chaînes Youtube: [Karambolage](https://www.youtube.com/@karambolagefr), [Français avec Pierre](https://www.youtube.com/@FrancaisavecPierre)
+
+
+
+
 

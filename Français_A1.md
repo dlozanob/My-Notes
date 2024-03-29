@@ -1,35 +1,62 @@
 
 # A1
 
-## L'alphabet et phonétique
+## L'alphabet
 
-| a         | b           | c (_sse_) | d           | e (_o nasal_)  | f (_ef_)  | g (_yee_)   | h (_ash_)    | i (_ui_)   |
-| --------- | ----------- | --------- | ----------- | -------------- | --------- | ----------- | ------------ | ---------- |
-| j (_yii_) | k (_kaa_)   | l (_ell_) | m (_emm e_) | n (_enn e_)    | o (_o_)   | p (_p_)     | q (_kiuu_)   | r (_eech_) |
-| s (_ess_) | t (_te_)    | u (_ü_)   | v (_vve_)   | w (_duvlevve_) | x (_iks_) | y (_igrek_) | z (_ssed e_) | é          |
-| è (_ö_)   | ç (cédille) | ë         | î           | ï              | ô         | ö           | ù            | à          |
-| â         |             |           |             |                |           |             |              |            |
+| a           | b         | c (_sse_) | d           | e (_o nasal_)  | f (_ef_)  | g (_yee_)   | h (_ash_)    | i (_ui_)   |
+| ----------- | --------- | --------- | ----------- | -------------- | --------- | ----------- | ------------ | ---------- |
+| j (_yii_)   | k (_kaa_) | l (_ell_) | m (_emm e_) | n (_enn e_)    | o (_o_)   | p (_p_)     | q (_kiuu_)   | r (_eech_) |
+| s (_ess_)   | t (_te_)  | u (_ü_)   | v (_vve_)   | w (_duvlevve_) | x (_iks_) | y (_igrek_) | z (_ssed e_) |            |
+| ç (cédille) |           |           |             |                |           |             |              |            |
+|             |           |           |             |                |           |             |              |            |
+
+
+>[!Note]
+>ç -> `alt + 0231`
+>Ç -> `alt + 128`
+
+
+### Les accents
+
+|             | a   | e     | i   | o   | u   |
+| ----------- | --- | ----- | --- | --- | --- |
+| Aigu        | -   | é     | -   | -   | -   |
+| Grave       | à   | è [ö] | -   | -   | -   |
+| Circonflexe | â   | ê     | î   | ô   | û   |
+| Tréma       | -   | ë     | ï   | -   | ü   |
+
+
+## Phonetiqué
 
 - s -> (_z_)
 - ss -> (_s_)
 - dix -> (_dis_)
 - sept -> (_set_)
-- six animaux -> (_sisanimó_)
+- Prononciation -> (_pronunziazio_) 
 - Payer = paiier -> (_pe ier_)
-- sèchent -> (_sesch_)
-- Prononciation -> (_pronunziazio_)
-- Batterie -> (_batri_)
+- Travailler (_travaiié_)
+- Ville (_vile_)
 
-- é -> Lengua abajo, labios estirados
-- e -> Lengua abajo, labios en forma de 'o'
-- è -> Forma de 'o', decir e, lengua abajo
+- _Combinación_
+	- Six animaux -> [sisanimó]
+	- Vous en -> [vuson]
+	- Deux immenses -> [dusimons]
 
-- Las graves se usan para distinguir palabras homófonas
-
-- Letras mudas:
+- _Secciones mudas_
 	- P, D, T, S, X, Z, E al final
-		- Le loup
+		- Le loup -> (le lou)
+		- Ois -> (oi)
 		- Excepción -> Un ours
+	- Algunos otros casos:
+		- est -> [e]
+		- jouent -> [ju] ($3^{ra}$ persona plural)
+		- sèchent -> [sesch]
+		- Batterie -> [batri]
+
+>[!Note]
+>- é -> Lengua abajo, labios estirados
+>- e -> Lengua abajo, labios en forma de 'o'
+>- è -> Forma de 'o', decir e, lengua abajo
 
 
 ### Aigu (é)
@@ -61,34 +88,39 @@ Se pone acento grave cuando:
 	- Après
 	- l'herpès
 
+>[!Note]
+>Las graves se usan para distinguir palabras homófonas
 
-### L'accent circonflexe
+
+### L'accent circonflexe (â, î, ô)
 
 - Palabras que perdieron una s con la evolución del idioma
 	- l'hôpital
 
-
-
 >[!Warning]
 >En ningún caso poner acento antes de una consonante doble o una x
+
+>[!Info]
+>Antes no existía este acento, se tenía una _(a, e, i, o, u)c_
+>Exemple: Pêcher = Pescher
 
 
 ### Combinaison de lettres
 
-
-- ch (_sch_) -> le chat
-- ph (_f_) -> photo
-- gn (_ini_) -> une ligne
-- gu (_gue_) -> une bague
-- ei (_ee_)
-- oi (_oa_)
-- au (_uu_)
-- eau (_uo_)
-- ai (_e_)
-- ou (_u suave_)
-- eu (_ü_)
-- eur (_er_)
-- eau (_u_)
+- ch [sh] -> le chat
+- ph [f] -> photo
+- gn [ini] -> une ligne
+- gu [gue] -> une bague
+- ei [ee]
+- oi [oa]
+- au [uu]
+- eau [uo]
+- ai [e]
+- ou, ue [u]
+- eu [ö]
+- eur [er]
+- eau [u]
+- aux [o]
 
 
 ### Les voyelles nasales
@@ -96,30 +128,6 @@ Se pone acento grave cuando:
 - an, am, en, em, aon -> o nasal
 - on, om -> u nasal
 - ain, aim, in, im, en, ein, yn, ym -> a nasal
-
-
-## Règles de formation des professions
-
-1. _Masculin + e_
-	- Un combattant → une combattante
-	- Un assistant → une assistante
-2. _Même façon/ é -> ée_
-	- Un capitaine → une capitaine
-	- Un fonctionnaire → une fonctionnaire
-	- Un délégué → une déléguée
-3. _er → ère_
-	- Un officier → une officière
-	- Un cavalier → une cavalière
-4. _eur → euse_
-	- Un coiffeur → une coiffeuse
-	- Un contrôleur aérien → une contrôleuse aérienne
-5. _teur → trice / teuse_
-	- Un instructeur → une instructrice
-	- Un directeur → une directrice
-	- Un chanteur → une chanteuse
-6. _ien / ion → ienne / ionne_
-	- Un technicien → une technicienne
-	- Un informaticien → une informaticienne
 
 
 ## Les nombres
@@ -160,7 +168,7 @@ Se pone acento grave cuando:
 - 81 quatre-vingt-un
 .
 - 90 quatre-vingt-dix
-- 91 quatree-vingt-onze
+- 91 quatre-vingt-onze
 - .
 
 - 100 cent
@@ -195,6 +203,65 @@ Se pone acento grave cuando:
 	- Ils / Elles s'apellent
 
 
+## Conjugaison des verbes
+
+- _Régulier_
+	- Jouer
+		- Je joue
+		- Tu joues
+		- Il/Elle/On joue
+		- Nous jouons
+		- Vous jouez
+		- Ils/Elles jouent
+	- Travailler
+		- Je travaille
+		- Tu travailles
+		- Il/Elle/On travaille
+		- Nous travaillons
+		- Vous travaillez
+		- Ils/Elles travaillent
+
+- _Irrégulier_
+	- Faire
+		- Je fais
+		- Tu fais
+		- Il/Elle/On fait
+		- Nous faisons
+		- Vous faites
+		- Ils/Elles font
+	- Être
+		- Je suis
+		- Tu es
+		- Il/Elle/On est
+		- Nous sommes
+		- Vous  êtes
+		- Ils/Elles sont
+
+
+## Règles de formation des professions
+
+1. _Masculin + e_
+	- Un combattant → une combattante
+	- Un assistant → une assistante
+2. _Même façon/ é -> ée_
+	- Un capitaine → une capitaine
+	- Un fonctionnaire → une fonctionnaire
+	- Un délégué → une déléguée
+3. _er → ère_
+	- Un officier → une officière
+	- Un cavalier → une cavalière
+4. _eur → euse_
+	- Un coiffeur → une coiffeuse
+	- Un contrôleur aérien → une contrôleuse aérienne
+5. _teur → trice / teuse_
+	- Un instructeur → une instructrice
+	- Un directeur → une directrice
+	- Un chanteur → une chanteuse
+6. _ien / ion → ienne / ionne_
+	- Un technicien → une technicienne
+	- Un informaticien → une informaticienne
+
+
 ## L'interrogation
 
 - _Combien_ - How much? / How many?
@@ -207,15 +274,14 @@ Se pone acento grave cuando:
 - _Quoi / Qu'est-ce que_ - What?
 - _Qui_ - Who?
 
-
 Formas de formularlas:
 
 - _Cerradas_
-	- _Normal_
+	- _Normal (neutral)_
 		- Tu vas à la plage?
-	- _Est-ce que_
+	- _Est-ce que (informel)_
 		- Est-ce que tu vas à la plage?
-	- _Inversion sujet-verbe_
+	- _Inversion sujet-verbe (formel)_
 		- Pourriez-vous me passer le sel?
 - _Abiertas_
 	- _Normal_
@@ -238,6 +304,13 @@ Si el pronombre no es personal, se debe añadir con el verbo:
 >[!Note]
 >Comment va-_t_-ill?
 >Se usa _t_ para no dejar seguidas las vocales
+
+---
+
+- Laurent et Pierre dansent dans la cuisine -> Dansent-ils dans la cuisine?
+- Jean, est-il dans le magasin?
+- Il y a 5 pommes dans le panier -> Y a-t-ill 5 pommes dans le panier?
+
 
 
 ## La négation
@@ -273,6 +346,82 @@ Si el pronombre no es personal, se debe añadir con el verbo:
 - Tu joues à quels vidéos?
 
 
+## Adjectifs
+
+- Merveilleux / Merveilleuse
+- Beau / Belle
+	- Un homme beau
+	- Un bel homme (caso especial)
+- Ancien / Ancienne
+- Gigantesque / Gigantesque
+- Luxuriante / Luxuriante
+- Fou / Folle
+- Mignon / Mignonne
+- Joli / Jolie
+- Egoïste / Egoïste
+- Sûr / Sûre
+
+>[!Note]
+>Los siguientes adjetivos se pueden poner antes del sustantivo:
+>- Joli
+>- Jeune
+>- Double
+>- Vieux
+>- Petit
+>- Grand
+>- Gros
+>- Mauvais
+>- Demi
+>- Bon
+>- Noveau
+
+- La ville a de beaux quartiers
+
+>[!Note]
+>Je suis né -> Je suis née (si lo dice una chica)
+
+
+## Les adjectifs possessifs
+
+|           | Masculin | Fémenin | Pluriel |
+| --------- | -------- | ------- | ------- |
+| Je        | mon      | ma      | mes     |
+| Tu        | ton      | ta      | tes     |
+| Il/Elle   | son      | sa      | ses     |
+| Nous      | notre    | notre   | nos     |
+| Vous      | votre    | votre   | vos     |
+| Ils/Elles | leur     | leur    | leurs   |
+
+>[!Note]
+>Si la palabra comienza con vocal, no importa el género, se toma masculino
+
+
+## Les pronoms toniques
+
+| Je    | Moi   |
+| ----- | ----- |
+| Tu    | Toi   |
+| Il    | Lui   |
+| Elle  | Elle  |
+| Nous  | Nous  |
+| Vous  | Vous  |
+| Ils   | Eux   |
+| Elles | Elles |
+
+---
+
+
+- Moi-même -> Myself
+- Toi-même -> Yourself
+- Lui-même -> Himself
+- Elle-même -> Herself
+- Nous-mêmes -> Ourselves
+- Vous-mêmes -> Yourselves
+- Eux-mêmes -> Theirselves (Masculin)
+- Elles-mêmes -> Theirselves (Féminin)
+- Soi-même -> (On)
+
+
 ## Pronoms (COD, COI)
 
 - COD -> Complement Objet Direct
@@ -280,7 +429,7 @@ Si el pronombre no es personal, se debe añadir con el verbo:
 
 | Sujet | Objet direct | Objet indirect |
 | ----- | ------------ | -------------- |
-| je/j' | me           | me             |
+| je    | me           | me             |
 | tu    | te           | te             |
 | il    | le           | lui            |
 | elle  | la           | lui            |
@@ -293,12 +442,38 @@ Si el pronombre no es personal, se debe añadir con el verbo:
 - Mes parents _me_ donnent de l'argent -> Indirect
 
 
+## Les directions
+
+- C'est loin d'ici?
+- C'est _tout près_
+- C'est à 10 minutes à pied
+- _Tournez_ a gauche/droite
+- _Traversez_ la place
+- Pour aller à l'Hôtel, s'il vous plaît?
+- Où se trouver la Bastille?
+- C'est _tout près_
+- _Tout droit_
+- _Au bout_ de la rue
+- Au premier croisement...
+- Juste _au coin_
+- Elle est _à l'angle_ de la rue de Tolbiac et de l'avenue d'Italie
+- _Est-ce qu'il y a_ une station de métro, _par ici_?
+- Vous allez _jusqu'au bout_ de la rue, et le métro est _juste en face_
+
+>[!Note]
+>_par ici_ = _par le quartier_
+
+
 ## Pronom Y
 
 - _Lieu_
 	- Je vais _à Paris_ -> J'_y_ vais
 	- J'inscris mes enfants _à un cours de français_ -> Je les _y_ incris
 	- Je m'inscris _à un cours de français_ -> Je m'_y_ incris
+
+>[!Note]
+>Remplace un complement de lieu introduit par: à, au, dans, sur, en, chez
+
 - _Chose avec À_
 	- Il pense _à son mariage_ ->  Il _y_ pense souvent
 	- Je participe _à ce projet_ -> J'_y_ participe de manière intensive
@@ -310,8 +485,62 @@ Si el pronombre no es personal, se debe añadir con el verbo:
 		- Moi j'_y_ vais
 
 
-## Pronom EN
+## Pronom En
 
 - J'ai besoin _de_ ton ordinateur -> J'_en_ besoin
+- Je mange de la viande -> J'_en_ mange
+- Il y a vingt étudiants? -> Non, il y _en_ a trente
+- Vous avez une voiture? -> Oui, j'_en_ ai une
+- Vous avez des brioches? -> Non, je n'_en_ a pas
+- Il y a du pain? -> Non, il n'y _en_ a plus
+
+
+## Pronom On
+
+Usos:
+1. Somos (informal)
+2. Algo común que se hace (man auf Deutsch)
+
+- Paolo et moi, _on_ est italiens (informel) = Paolo et moi, nous sommes italiens (formel)
+- En France, _on_ mange beaucoup de fromage
+
+
+## L'expression de la quantité
+
+|          | Quantité non exprimée | Quantité exprimée ou négative |
+| -------- | --------------------- | ----------------------------- |
+| Masculin | Du                    | De                            |
+| Féminin  | De la                 | De                            |
+| Pluriel  | Des                   | De                            |
+
+- J'achête...
+	- de la viande
+	- de l'huile
+	- du poisson
+	- des fruits
+- Un beaucoup...
+	- de sucre
+	- d'huile
+- Je n'achête pas de...
+	- viande
+	- fruits
+	- poisson
+
+
+## Les verbes modaux
+
+|            | Devoir  | Pouvoir | Vouloir |
+| ---------- | ------- | ------- | ------- |
+| Je         | dois    | peux    | veux    |
+| Tu         | dois    | peux    | veux    |
+| Il/Elle/On | doit    | peut    | veut    |
+| Nous       | devons  | pouvons | voulons |
+| Vous       | devez   | pouvez  | voulez  |
+| Ils/Elles  | doivent | peuvent | veulent |
+
+- Ils _doivent_ regarder
+- Nous _pouvons_ aller
+- Je _veux_ du chocolat
+
 
 

@@ -12,13 +12,12 @@
 	- [x] Goethe Zertifikat B1
 
 - [ ] **Robótica**
-	- [ ] Lab 1: VIERNES
-	- [ ] Lab 2: 29 Marzo
-	- [ ] Taller 2: 5 Abril
+	- [ ] Lab 2: 29 Marzo 23:59
+	- [ ] Taller 2: 5 Abril 23:59
+	- [ ] Lab 3: 12 Abril 23:59
 
 - [ ] **Técnicas de Inteligencia Artificial**
 	- [ ] Revisar Segmentación
-	- [ ] Taller 3: SÁBADO
 	- [ ] Taller 4: 6 Abril
 	- [ ] Proyecto
 		- [ ] Presentación (Beamer - LaTex)
@@ -61,6 +60,7 @@
 
 - [ ] **Dibujo de Máquinas**
 	- [ ] Proyecto aplicado: 14 Abril
+	- [ ] Plano: Sprocket PHS 08B-1BH17 SKF (cantidad: 2)
 
 - [ ] **Termodinámica Técnica**
 	- [ ] Presentaciones
@@ -75,13 +75,14 @@
 
 - [ ] **Chem-E-Car**
 
-
 - [ ]  **Français**
-	- [ ] MARTES: TAREA
 	- [ ] Classroom
 	- [ ] Proyecto: Planeación
 	- [ ] Biografía
 	- [ ] Examen intérmediaire: 1-5 Avril
+	- [ ] DELF: Diploma de estudios de lengua  francesa
+	- [ ] Festival traditions
+		![](attachments/Pasted%20image%2020240323081323.png)
 
 
 
