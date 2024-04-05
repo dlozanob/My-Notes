@@ -2,6 +2,11 @@
 
 ---
 
+PENDIENTE:
+🚩 Edificio Ecotek: Transversal 23 #95-53  
+🕐 Hora: 8:00 a.m. a 1:00 p.m.
+
+
 - [ ] **Deutsch**
 	- [ ] Libro
 	- [ ] Apuntes
@@ -12,9 +17,10 @@
 	- [x] Goethe Zertifikat B1
 
 - [ ] **Robótica**
-	- [ ] Lab 2: 29 Marzo 23:59
 	- [ ] Taller 2: 5 Abril 23:59
 	- [ ] Lab 3: 12 Abril 23:59
+	- [ ] Lab 4: 3 Mayo 23:59
+	- [ ] Taller 3: 19 Mayo 23:59
 
 - [ ] **Técnicas de Inteligencia Artificial**
 	- [ ] Revisar Segmentación
@@ -60,11 +66,8 @@
 
 - [ ] **Dibujo de Máquinas**
 	- [ ] Proyecto aplicado: 14 Abril
-	- [ ] Plano: Sprocket PHS 08B-1BH17 SKF (cantidad: 2)
 
 - [ ] **Termodinámica Técnica**
-	- [ ] Presentaciones
-	- [ ] Taller 1: 31 Marzo
 
 - [ ] **Enigma**
 	 - [ ] Lecturas
@@ -74,13 +77,17 @@
 	 - [ ] Revisar ROS2 -> https://roboticseabass.com/2023/07/09/updated-guide-docker-and-ros2/
 
 - [ ] **Chem-E-Car**
+	- [ ] https://docs.google.com/spreadsheets/d/1D9gz1DudMb83q1xqA-Q_NW8IKMgSvX_5/edit#gid=552729931
+
+
+
+
 
 - [ ]  **Français**
-	- [ ] Classroom
 	- [ ] Proyecto: Planeación
 	- [ ] Biografía
 	- [ ] Examen intérmediaire: 1-5 Avril
-	- [ ] DELF: Diploma de estudios de lengua  francesa
+	- [ ] DELF: Diploma de estudios de lengua francesa
 	- [ ] Festival traditions
 		![](attachments/Pasted%20image%2020240323081323.png)
 
@@ -89,8 +96,5 @@
 ---
 
 T_ORG_1 = T_ORG_0 * T_1_0
-
-
-
 
 
