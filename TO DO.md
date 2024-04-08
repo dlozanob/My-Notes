@@ -97,3 +97,32 @@ PENDIENTE:
 T_ORG_1 = T_ORG_0 * T_1_0
 
 
+
+
+
+
+$$
+\begin{align*}
+	{}^{0}T_{n} = {}^{0}T_{1}{}^{1}T_{2}{}^{2}T_{3}{}^{3}T_{4}{}^{4}T_{5}
+\end{align*}
+$$
+
+
+$$
+\begin{align*}
+{}^{i-1}T_{i}=	\begin{pmatrix}
+c\theta & -s\theta c\alpha & s\theta s\alpha & ac\theta \\
+s\theta & c\theta c\alpha & -c\theta s\alpha & as\theta \\
+0 & s\alpha & c\alpha & d \\
+0 & 0 & 0 & 1
+\end{pmatrix}
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	
+\end{align*}
+$$
+
+
