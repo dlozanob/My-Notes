@@ -482,7 +482,8 @@ Si el pronombre no es personal, se debe añadir con el verbo:
 	- _Ça y est_, il est parti
 	- Je m'_y_ connais
 	- On _y_ va?
-		- Moi j'_y_ vais
+		- Oui, moi j'_y_ vais
+		- Non, moi je n'_y_ vais
 
 
 ## Pronom En

@@ -24,7 +24,6 @@ PENDIENTE:
 
 - [ ] **Técnicas de Inteligencia Artificial**
 	- [ ] Revisar Segmentación
-	- [ ] Taller 4: 6 Abril
 	- [ ] Proyecto
 		- [ ] Presentación (Beamer - LaTex)
 		- [ ] Informe técnico

@@ -21,6 +21,9 @@
 - Sheel Scholarships
 - https://app.santanderopenacademy.com/en/application/new/65c1cfada291e3ce1c0a1e22?applyId=65ddcda46977b635071a27d8&poll=draft-apply
 
+- Mainz (https://www.uni-mainz.de)
+
+![](attachments/Pasted%20image%2020240405120444.png)
 
 ---
 
