@@ -110,7 +110,7 @@ $$
 
 $$
 \begin{align*}
-{}^{i-1}T_{i}=	\begin{pmatrix}
+{}^{i-1}T_{i} =	\begin{pmatrix}
 c\theta & -s\theta c\alpha & s\theta s\alpha & ac\theta \\
 s\theta & c\theta c\alpha & -c\theta s\alpha & as\theta \\
 0 & s\alpha & c\alpha & d \\
@@ -121,7 +121,82 @@ $$
 
 $$
 \begin{align*}
-	
+	q=
+	\begin{pmatrix}
+1 \\
+2 \\
+\frac{\pi}{4} \\
+\frac{\pi}{3} \\
+-\frac{\pi}{2}
+\end{pmatrix}
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	\theta=
+	\begin{pmatrix}
+\frac{\pi}{2} \\
+-\frac{\pi}{4} \\
+\frac{\pi}{3} \\
+\frac{\pi}{4} \\
+1.5 \\
+\frac{\pi}{6}
+\end{pmatrix}
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	q = 
+	\begin{pmatrix}
+\frac{\pi}{3} \\
+\frac{\pi}{2} \\
+2 \\
+\pi \\
+\frac{3\pi}{4} \\
+\frac{3\pi}{4}
+\end{pmatrix}
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	\theta=
+	\begin{pmatrix}
+\frac{\pi}{2} \\
+\frac{\pi}{4} \\
+\frac{\pi}{12} \\
+0.3 \\
+\pi \\
+\frac{3\pi}{3}
+\end{pmatrix}
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	q = 
+	\begin{pmatrix}
+0 \\
+\frac{\pi}{6} \\
+\frac{\pi}{12} \\
+\frac{\pi}{6} \\
+20
+\end{pmatrix}
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	q=
+	\begin{pmatrix}
+\frac{\pi}{3} \\
+\frac{\pi}{6} \\
+-\frac{\pi}{12} \\
+\frac{\pi}{12} \\
+25
+\end{pmatrix}
 \end{align*}
 $$
 

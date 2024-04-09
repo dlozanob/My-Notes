@@ -7,6 +7,9 @@
 - https://www.study-in-germany.de/en/
 - https://mail.google.com/mail/u/0/#inbox/FMfcgzGtxdVpsDJMmdkrsddSrGQwtmXv
 - https://investigacion.unal.edu.co/boletin/notas-boletin-un-investiga/news/convocatoria-de-becas-daad-viajes-de-estudios-a-alemania-20242025/
+- [Blog](https://thehonest.blog/study-in-germany/)
+- [WG's](https://www.wg-gesucht.de)
+- [Drive Convocatorias DRE](https://drive.google.com/drive/folders/1vTDyFBs7UwrDlce9396QSDn_RR28lkpY)
 
 >[!Note]
 >[QR Paste Image](https://qr-code-scanner.net/#paste)
