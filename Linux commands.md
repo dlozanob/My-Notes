@@ -17,7 +17,7 @@
 >- Restore default: `CTRL + a` then ` d`
 
 
-Crear ejecutables:
+- Crear ejecutables:
 
 Generar un script (executable.desktop): 
 
