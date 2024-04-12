@@ -17,7 +17,7 @@
 >- Restore default: `CTRL + a` then ` d`
 
 
-Generar ejecutables:
+Crear ejecutables:
 
 Generar un script (executable.desktop): 
 
@@ -30,3 +30,6 @@ Exec=/usr/local/MATLAB/R2024a/bin/matlab
 ```
 
 Guardarlo en: `~/usr/share/applications`
+
+
+
