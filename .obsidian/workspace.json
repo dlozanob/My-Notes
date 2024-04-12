@@ -8,42 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3e5a5124ef615de3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TO DO.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1b643a03c0d8a5ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux commands.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "76e03cef345738fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OPPORTUNITÄTEN.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "835f617b899ff5ab",
             "type": "leaf",
             "state": {
@@ -56,12 +20,14 @@
             }
           },
           {
-            "id": "eed1737b8b30f671",
+            "id": "7c8c31fef4391410",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/whiteboard.excalidraw.md"
+                "file": "Français.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
@@ -136,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux commands.md",
+                "file": "Français.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux commands.md",
+                "file": "Français.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux commands.md"
+                "file": "Français.md"
               }
             }
           },
@@ -251,14 +217,15 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "1b643a03c0d8a5ec",
+  "active": "7c8c31fef4391410",
   "lastOpenFiles": [
     "ROS.md",
+    "Français.md",
     "Excalidraw/whiteboard.excalidraw.md",
-    "Excalidraw/attachments/Pasted Image 20240411213255_863.png",
+    "OPPORTUNITÄTEN.md",
     "TO DO.md",
     "Linux commands.md",
-    "OPPORTUNITÄTEN.md",
+    "Excalidraw/attachments/Pasted Image 20240411213255_863.png",
     "Robótica.md",
     "Automatización, Control y Robótica.md",
     "Automatización%2C Control y Robótica.md",
@@ -275,7 +242,6 @@
     "Other.md",
     "Excalidraw/attachments/Pasted Image 20240407201846_421.png",
     "Français_A1.md",
-    "Français.md",
     "attachments/Pasted image 20240405120444.png",
     "Excalidraw/attachments/Pasted Image 20240404220250_184.png",
     "Excalidraw/attachments/Pasted Image 20240404195047_327.png",
