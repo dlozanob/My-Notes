@@ -17,10 +17,9 @@ PENDIENTE:
 	- [x] Goethe Zertifikat B1
 
 - [ ] **Robótica**
-	- [ ] Taller 2: 5 Abril 23:59
 	- [ ] Lab 3: 12 Abril 23:59
 	- [ ] Lab 4: 3 Mayo 23:59
-	- [ ] Taller 3: 19 Mayo 23:59
+	- [ ] Taller 3: 26 Mayo 23:59
 
 - [ ] **Técnicas de Inteligencia Artificial**
 	- [ ] Revisar Segmentación
@@ -42,6 +41,7 @@ PENDIENTE:
 			- [ ] Referencias
 
 - [ ] **Ingeniería de Manufactura**
+	- [ ] https://youtube.com/playlist?list=PLiwrUi-M8tLQ5fwEiLSuivvqKnnkf_jMw&si=gN2N60l9ZEa_f0zu
 	- [ ] Presentaciones
 	- [ ] Tecnomatix Plant simulation
 	- [ ] Robot Milling
@@ -80,8 +80,6 @@ PENDIENTE:
 
 
 
-
-
 - [ ]  **Français**
 	- [ ] Proyecto: Planeación
 	- [ ] Biografía
@@ -96,108 +94,5 @@ PENDIENTE:
 
 T_ORG_1 = T_ORG_0 * T_1_0
 
-
-
-
-
-
-$$
-\begin{align*}
-	{}^{0}T_{n} = {}^{0}T_{1}{}^{1}T_{2}{}^{2}T_{3}{}^{3}T_{4}{}^{4}T_{5}
-\end{align*}
-$$
-
-
-$$
-\begin{align*}
-{}^{i-1}T_{i} =	\begin{pmatrix}
-c\theta & -s\theta c\alpha & s\theta s\alpha & ac\theta \\
-s\theta & c\theta c\alpha & -c\theta s\alpha & as\theta \\
-0 & s\alpha & c\alpha & d \\
-0 & 0 & 0 & 1
-\end{pmatrix}
-\end{align*}
-$$
-
-$$
-\begin{align*}
-	q=
-	\begin{pmatrix}
-1 \\
-2 \\
-\frac{\pi}{4} \\
-\frac{\pi}{3} \\
--\frac{\pi}{2}
-\end{pmatrix}
-\end{align*}
-$$
-
-$$
-\begin{align*}
-	\theta=
-	\begin{pmatrix}
-\frac{\pi}{2} \\
--\frac{\pi}{4} \\
-\frac{\pi}{3} \\
-\frac{\pi}{4} \\
-1.5 \\
-\frac{\pi}{6}
-\end{pmatrix}
-\end{align*}
-$$
-
-$$
-\begin{align*}
-	q = 
-	\begin{pmatrix}
-\frac{\pi}{3} \\
-\frac{\pi}{2} \\
-2 \\
-\pi \\
-\frac{3\pi}{4} \\
-\frac{3\pi}{4}
-\end{pmatrix}
-\end{align*}
-$$
-
-$$
-\begin{align*}
-	\theta=
-	\begin{pmatrix}
-\frac{\pi}{2} \\
-\frac{\pi}{4} \\
-\frac{\pi}{12} \\
-0.3 \\
-\pi \\
-\frac{3\pi}{3}
-\end{pmatrix}
-\end{align*}
-$$
-
-$$
-\begin{align*}
-	q = 
-	\begin{pmatrix}
-0 \\
-\frac{\pi}{6} \\
-\frac{\pi}{12} \\
-\frac{\pi}{6} \\
-20
-\end{pmatrix}
-\end{align*}
-$$
-
-$$
-\begin{align*}
-	q=
-	\begin{pmatrix}
-\frac{\pi}{3} \\
-\frac{\pi}{6} \\
--\frac{\pi}{12} \\
-\frac{\pi}{12} \\
-25
-\end{pmatrix}
-\end{align*}
-$$
 
 

@@ -5,8 +5,6 @@
 - `sudo apt-get remove <package name>` -> Uninstall package
 
 
-
-
 >[!Info]
 >Divide terminal:
 >1. `screen`
@@ -18,3 +16,17 @@
 >- Activate new ones: `CTRL + a` then `c`
 >- Restore default: `CTRL + a` then ` d`
 
+
+Generar ejecutables:
+
+Generar un script (executable.desktop): 
+
+```Text file
+[Desktop Entry]
+Type=Application  
+Categories=Software  
+Name=Matlab  
+Exec=/usr/local/MATLAB/R2024a/bin/matlab
+```
+
+Guardarlo en: `~/usr/share/applications`

@@ -37,4 +37,15 @@
 	- www.managementsolutions.com (CV)
 - WOM (Reunión)
 - Multinacional Endava (?)
+- EPAM 
+	- https://www.epam.com/careers
+	- Tatiana robayo
+		- https://www.linkedin.com/in/tatianarobayo/?originalSubdomain=co
+	- Mateo Zapata caraballo
+	- Nina Skazobova 
+		- https://www.linkedin.com/in/nina-skazobova-37351a52/?originalSubdomain=ru
+
+
+
+
 
