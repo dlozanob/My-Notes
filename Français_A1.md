@@ -548,7 +548,7 @@ Usos:
 |              | Singulier | Pluriel |
 | ------------ | --------- | ------- |
 | Masculin     | Ce        | Ces     |
-| Feminin      | Cette     | Ces     |
+| Féminin      | Cette     | Ces     |
 | Masc+voyelle | Cet       | Ces     |
 
 - Indicar lejanía:
@@ -574,6 +574,115 @@ Usos:
 	- Mesmeilleurs voeux,
 	- Bises,
 	- Bisous,
-	- 
+	- Je t'embrasse,
+4. Ton ami Daniel
 
 ---
+
+
+## Le futur proche
+
+- Estructura: _Sujet_ + _Aller_ + _Infinitif_
+
+- Ejemplos
+	- Nous allons manger des croissants
+	- Je vais voyager en Europa
+	- Elle va t'aider à pouvoir marcher
+
+>[!Note]
+>En este tiempo, evitar normalmente la _aliason_
+>Ej: Tu vas embaucher
+
+>[!Note]
+>Especificar que sucederá justo esa vez (_-ci_):
+>Tu vas tomber amoreaux à nouveau, mais cette fois avec ta secrétaire -> ...cette _fois-ci_ ...
+
+
+>[!Note]
+>Se usa _qui_ o _que_ de acuerdo a lo que haya después:
+>- _Qui_ + _verbe_
+>- _Que_ + _Sujet_
+
+
+## Passé composé
+
+- Estructura: _Sujet + être/avoir + participe passé_
+
+
+### Participe passé
+
+- _-er -> -é_
+	- Manger -> Mangé
+	- Commencer -> Commencé
+
+- _-uire -> -uit_
+	- Conduire -> Counduit
+	- Construire -> Construit
+	- Traduire -> Traduit
+
+- _-re -> -i, -is, -it_
+	- Mettre -> Mis
+	- Suivre -> Suivi
+	- Dire -> Dit
+	- Prendre -> Pris
+
+- Terminados en _u/û_
+	- Pouvoir -> Pu
+	- Vouloir -> Voulu
+	- Lire -> Lu
+	- Voir -> Vu
+	- Devoir -> Dû
+	- Savoir -> Su
+	- Boire -> Bu
+	- Venir -> Venu
+	- Vivre -> Vécu
+
+- Irregulares
+	- Avoir -> Eu
+	- Faire -> Fait
+	- Être -> Été
+	- Naître -> Né
+	- Mourir -> Mort
+
+>[!Note]
+>La conjugación es igual para todos los pronombres
+
+
+### Être ou Avoir
+
+- Être
+	- Aller
+	- Retourner
+	- Mourir
+	- Naître
+	- Venir
+	- Passer
+	- Entrer
+	- Rentrer
+	- Sortir
+	- Monter
+	- Descendre
+	- Tomber
+	- Devenir
+	- Revenir
+	- Partir
+	- Rester
+	- Arriver
+
+Los otros tienen _Avoir_.
+
+>[!Note]
+>Todos los verbos pronominales son con _Être_
+
+- Ejemplos:
+	- Hier j'ai achêté un ordinateur
+	- Nous nous sommes habillé dans la maison
+	- Je n'ai pas mangé de burgers
+	- Nous ne sommes pas partis à 9h
+
+
+>[!Info]
+>Con respecto a formalidad: Néanmoins > Cependant > Toutefois (todas significan 'sin embargo')
+
+
+

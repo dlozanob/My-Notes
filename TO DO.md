@@ -73,6 +73,7 @@ PENDIENTE:
 		- [ ] Juan Carlos: 1, 2, 5
 		- [ ] David: 
 		- [ ] Andrés: 
+	- [ ] Cronograma
 
 - [ ] **Termodinámica Técnica**
 

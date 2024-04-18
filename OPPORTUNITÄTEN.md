@@ -13,6 +13,8 @@
 
 ![](attachments/Pasted%20image%2020240416090355.png)
 
+- https://www.elespectador.com/mundo/america/canada-abrio-una-convocatoria-de-residencia-permanente-para-estudiantes-como-aplicar/
+
 >[!Note]
 >[QR Paste Image](https://qr-code-scanner.net/#paste)
 
