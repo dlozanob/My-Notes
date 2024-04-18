@@ -1,7 +1,4 @@
 
-
-
-
 - [DAAD](https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/)
 - info.bogota@daad.de
 - https://www.study-in-germany.de/en/
@@ -10,6 +7,11 @@
 - [Blog](https://thehonest.blog/study-in-germany/)
 - [WG's](https://www.wg-gesucht.de)
 - [Drive Convocatorias DRE](https://drive.google.com/drive/folders/1vTDyFBs7UwrDlce9396QSDn_RR28lkpY)
+- Icetex
+	- https://web.icetex.gov.co/es/-/posgrado-en-el-exterior-para-sostenimiento-tu-pagas-el-0
+- Colfuturo
+
+![](attachments/Pasted%20image%2020240416090355.png)
 
 >[!Note]
 >[QR Paste Image](https://qr-code-scanner.net/#paste)
@@ -33,11 +35,9 @@
 
 ## Prácticas
 
-- Management Solutions
-	- www.managementsolutions.com (CV)
 - WOM (Reunión)
 - Multinacional Endava (?)
-- EPAM 
+- EPAM
 	- https://www.epam.com/careers
 	- Tatiana robayo
 		- https://www.linkedin.com/in/tatianarobayo/?originalSubdomain=co

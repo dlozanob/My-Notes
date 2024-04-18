@@ -17,9 +17,9 @@ PENDIENTE:
 	- [x] Goethe Zertifikat B1
 
 - [ ] **Robótica**
-	- [ ] Lab 3: 12 Abril 23:59
 	- [ ] Lab 4: 3 Mayo 23:59
 	- [ ] Taller 3: 26 Mayo 23:59
+	- [ ] ros en 5 dias de robot engine
 
 - [ ] **Técnicas de Inteligencia Artificial**
 	- [ ] Revisar Segmentación
@@ -39,6 +39,10 @@ PENDIENTE:
 			- [ ] Resultados
 			- [ ] Conclusiones (trabajo futuro en el último párrafo)
 			- [ ] Referencias
+	- [ ] Calcular matriz $V=(\hat{e}_{1}\,\,\hat{e}_{2}\,\, \hat{e}_{3})$ y gráficar los sistemas de referencia
+
+![](attachments/Pasted%20image%2020240416130520.png)
+
 
 - [ ] **Ingeniería de Manufactura**
 	- [ ] https://youtube.com/playlist?list=PLiwrUi-M8tLQ5fwEiLSuivvqKnnkf_jMw&si=gN2N60l9ZEa_f0zu
@@ -65,6 +69,10 @@ PENDIENTE:
 
 - [ ] **Dibujo de Máquinas**
 	- [ ] Proyecto aplicado: 14 Abril
+		- [x] Sebastián: 3, 6
+		- [ ] Juan Carlos: 1, 2, 5
+		- [ ] David: 
+		- [ ] Andrés: 
 
 - [ ] **Termodinámica Técnica**
 
@@ -79,14 +87,11 @@ PENDIENTE:
 	- [ ] https://docs.google.com/spreadsheets/d/1D9gz1DudMb83q1xqA-Q_NW8IKMgSvX_5/edit#gid=552729931
 
 
-
 - [ ]  **Français**
 	- [ ] Proyecto: Planeación
 	- [ ] Biografía
-	- [ ] Examen intérmediaire: 1-5 Avril
 	- [ ] DELF: Diploma de estudios de lengua francesa
-	- [ ] Festival traditions
-		![](attachments/Pasted%20image%2020240323081323.png)
+
 
 
 

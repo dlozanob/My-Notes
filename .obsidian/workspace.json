@@ -4,29 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "5c536deacc97f025",
+        "id": "8aed98677adbf2ff",
         "type": "tabs",
         "children": [
           {
-            "id": "835f617b899ff5ab",
+            "id": "803547b9b413cd39",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ROS.md",
-                "mode": "preview",
+                "file": "TO DO.md",
+                "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7c8c31fef4391410",
+            "id": "e6f86c643e4c16bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Français_A1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f1bbee8045caeace",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Prépositions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e11d373878f25fc9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Français.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -102,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Français.md",
+                "file": "Français_A1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Français.md",
+                "file": "Français_A1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Français.md"
+                "file": "Français_A1.md"
               }
             }
           },
@@ -217,43 +241,44 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "7c8c31fef4391410",
+  "active": "e6f86c643e4c16bf",
   "lastOpenFiles": [
-    "ROS.md",
-    "Français.md",
-    "Excalidraw/whiteboard.excalidraw.md",
-    "OPPORTUNITÄTEN.md",
     "TO DO.md",
+    "Français.md",
+    "Prépositions.md",
+    "Français_A1.md",
+    "Präpositionen.md",
+    "LaTeX.md",
+    "LaTeX Template.md",
+    "Excalidraw/whiteboard.excalidraw.md",
+    "Excalidraw/attachments/Pasted Image 20240417181613_301.png",
+    "attachments/Pasted image 20240416130520.png",
+    "OPPORTUNITÄTEN.md",
+    "attachments/Pasted image 20240416090355.png",
+    "Excalidraw/blackboard.excalidraw.md",
+    "Obsidian Basics.md",
+    "Git commands.md",
     "Linux commands.md",
+    "Excalidraw/attachments/Pasted Image 20240414172314_594.png",
+    "Excalidraw/attachments/Pasted Image 20240413122458_393.png",
+    "Excalidraw/attachments/Pasted Image 20240413114619_654.png",
+    "Excalidraw/attachments/Pasted Image 20240413114012_638.png",
+    "Excalidraw/attachments/Pasted Image 20240413113257_692.png",
+    "Excalidraw/attachments/Pasted Image 20240413111943_645.png",
+    "ROS.md",
     "Excalidraw/attachments/Pasted Image 20240411213255_863.png",
     "Robótica.md",
     "Automatización, Control y Robótica.md",
     "Automatización%2C Control y Robótica.md",
     "Main.md",
-    "Excalidraw/blackboard.excalidraw.md",
-    "Excalidraw/attachments/Pasted Image 20240411102117_900.png",
     "Harvard TinyML.md",
     "whiite.md",
-    "Excalidraw/attachments/Pasted Image 20240409174820_860.png",
-    "attachments/Pasted image 20240408153124.png",
-    "attachments/Pasted image 20240408133854.png",
     "Fundamentos de cinemática de mecanismos.md",
     "Mecanismos.md",
     "Other.md",
-    "Excalidraw/attachments/Pasted Image 20240407201846_421.png",
-    "Français_A1.md",
-    "attachments/Pasted image 20240405120444.png",
-    "Excalidraw/attachments/Pasted Image 20240404220250_184.png",
-    "Excalidraw/attachments/Pasted Image 20240404195047_327.png",
-    "Excalidraw/attachments/Pasted Image 20240403143103_386.png",
-    "LaTeX.md",
-    "LaTeX Template.md",
     "Deutsch_A1.md",
     "Deutsch.md",
-    "Obsidian Basics.md",
-    "Git commands.md",
     "Cap. 5. Diseño con ecuaciones de estado.md",
-    "Control.md",
     "OneNote/Neuer Abschnitt 1",
     "OneNote/Schnelle Notizen",
     "OneNote",

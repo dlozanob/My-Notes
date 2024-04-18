@@ -77,7 +77,7 @@ Se pone acento agudo cuando:
 	- manger -> mangé
 
 
-### Grave (à, è, ù)
+### Grave (à, è)
 
 Se pone acento grave cuando:
 
@@ -101,7 +101,7 @@ Se pone acento grave cuando:
 >En ningún caso poner acento antes de una consonante doble o una x
 
 >[!Info]
->Antes no existía este acento, se tenía una _(a, e, i, o, u)c_
+>Antes no existía este acento, se tenía una _(a, e, i, o, u)_
 >Exemple: Pêcher = Pescher
 
 
@@ -247,17 +247,17 @@ Se pone acento grave cuando:
 	- Un capitaine → une capitaine
 	- Un fonctionnaire → une fonctionnaire
 	- Un délégué → une déléguée
-3. _er → ère_
+3. _er → ère_
 	- Un officier → une officière
 	- Un cavalier → une cavalière
 4. _eur → euse_
 	- Un coiffeur → une coiffeuse
 	- Un contrôleur aérien → une contrôleuse aérienne
-5. _teur → trice / teuse_
+2. _teur → trice / teuse_
 	- Un instructeur → une instructrice
 	- Un directeur → une directrice
 	- Un chanteur → une chanteuse
-6. _ien / ion → ienne / ionne_
+3. _ien / ion → ienne / ionne_
 	- Un technicien → une technicienne
 	- Un informaticien → une informaticienne
 
@@ -447,7 +447,7 @@ Si el pronombre no es personal, se debe añadir con el verbo:
 - C'est loin d'ici?
 - C'est _tout près_
 - C'est à 10 minutes à pied
-- _Tournez_ a gauche/droite
+- _Tournez_ à gauche/droite
 - _Traversez_ la place
 - Pour aller à l'Hôtel, s'il vous plaît?
 - Où se trouver la Bastille?
@@ -543,5 +543,37 @@ Usos:
 - Nous _pouvons_ aller
 - Je _veux_ du chocolat
 
+## Demonstrative adjectives
 
+|              | Singulier | Pluriel |
+| ------------ | --------- | ------- |
+| Masculin     | Ce        | Ces     |
+| Feminin      | Cette     | Ces     |
+| Masc+voyelle | Cet       | Ces     |
 
+- Indicar lejanía:
+	- Ce livre...
+		- ici
+		- là
+		- là-bas
+	- Ce livre (también válido)
+		- -ci
+		- -là
+		- -là-bas
+
+---
+
+## Escribir cartas (informales)
+
+1. Saludos
+	- Salut Pierre,
+2. Cuerpo del texto (primera letra en mayúscula)
+3. Cerrar carta
+	- À bientôt,
+	- Gros bisous,
+	- Mesmeilleurs voeux,
+	- Bises,
+	- Bisous,
+	- 
+
+---
