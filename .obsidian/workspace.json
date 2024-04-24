@@ -8,7 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "803547b9b413cd39",
+            "id": "e765b736d138c6b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ROS.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "73023c4ad6ab4a9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux commands.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3cda211999d5f93a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,45 +42,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "e6f86c643e4c16bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Français_A1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f1bbee8045caeace",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Prépositions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e11d373878f25fc9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Français.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -126,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Français_A1.md",
+                "file": "TO DO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Français_A1.md",
+                "file": "TO DO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Français_A1.md"
+                "file": "TO DO.md"
               }
             }
           },
@@ -241,44 +229,43 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "e6f86c643e4c16bf",
+  "active": "3cda211999d5f93a",
   "lastOpenFiles": [
+    "Excalidraw/whiteboard.excalidraw.md",
+    "Excalidraw/attachments/Pasted Image 20240424120956_021.png",
+    "Excalidraw/attachments/Pasted Image 20240424113156_017.png",
+    "Excalidraw/attachments/Pasted Image 20240424112839_703.png",
+    "TO DO.md",
+    "Excalidraw/attachments/Pasted Image 20240423165148_793.png",
+    "Linux commands.md",
     "Français.md",
+    "CSS.md",
+    "Javascript.md",
+    "Server communication.md",
+    "Excalidraw/blackboard.excalidraw.md",
+    "ROS.md",
+    "Other.md",
+    "Robótica.md",
+    "Automatización, Control y Robótica.md",
+    "Automatización%2C Control y Robótica.md",
+    "Main.md",
+    "Untitled.md",
+    "TensorFlow.md",
+    "Harvard TinyML.md",
+    "1. Fundamentals of Tiny ML.md",
     "Prépositions.md",
     "Français_A1.md",
-    "TO DO.md",
     "Français_B2.md",
     "Français_B1.md",
     "Français_A2.md",
     "OPPORTUNITÄTEN.md",
     "Optimización.md",
-    "Präpositionen.md",
-    "LaTeX.md",
-    "LaTeX Template.md",
-    "Excalidraw/whiteboard.excalidraw.md",
     "Excalidraw/attachments/Pasted Image 20240417181613_301.png",
     "attachments/Pasted image 20240416130520.png",
     "attachments/Pasted image 20240416090355.png",
-    "Excalidraw/blackboard.excalidraw.md",
-    "Obsidian Basics.md",
-    "Git commands.md",
-    "Linux commands.md",
     "Excalidraw/attachments/Pasted Image 20240414172314_594.png",
     "Excalidraw/attachments/Pasted Image 20240413122458_393.png",
     "Excalidraw/attachments/Pasted Image 20240413114619_654.png",
-    "Excalidraw/attachments/Pasted Image 20240413114012_638.png",
-    "Excalidraw/attachments/Pasted Image 20240413113257_692.png",
-    "Excalidraw/attachments/Pasted Image 20240413111943_645.png",
-    "ROS.md",
-    "Excalidraw/attachments/Pasted Image 20240411213255_863.png",
-    "Robótica.md",
-    "Automatización, Control y Robótica.md",
-    "Automatización%2C Control y Robótica.md",
-    "Main.md",
-    "Harvard TinyML.md",
-    "whiite.md",
-    "Fundamentos de cinemática de mecanismos.md",
-    "Mecanismos.md",
     "OneNote/Neuer Abschnitt 1",
     "OneNote/Schnelle Notizen",
     "OneNote",

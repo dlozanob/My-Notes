@@ -2,10 +2,9 @@
 
 ---
 
-PENDIENTE:
-🚩 Edificio Ecotek: Transversal 23 #95-53  
-🕐 Hora: 8:00 a.m. a 1:00 p.m.
-
+- Personal
+	- Endava: LUNES - 2 PM 
+	- 206 - 5:20 PM
 
 - [ ] **Deutsch**
 	- [ ] Libro
@@ -19,7 +18,7 @@ PENDIENTE:
 - [ ] **Robótica**
 	- [ ] Lab 4: 3 Mayo 23:59
 	- [ ] Taller 3: 26 Mayo 23:59
-	- [ ] ros en 5 dias de robot engine
+	- [ ] ros en 5 dias de robot engine: https://www.youtube.com/watch?v=DBFYZRMLr70&list=PLK0b4e05LnzZWg_7QrIQWyvSPX2WN2ncc
 
 - [ ] **Técnicas de Inteligencia Artificial**
 	- [ ] Revisar Segmentación
@@ -39,10 +38,8 @@ PENDIENTE:
 			- [ ] Resultados
 			- [ ] Conclusiones (trabajo futuro en el último párrafo)
 			- [ ] Referencias
-	- [ ] Calcular matriz $V=(\hat{e}_{1}\,\,\hat{e}_{2}\,\, \hat{e}_{3})$ y gráficar los sistemas de referencia
-
-![](attachments/Pasted%20image%2020240416130520.png)
-
+	- [ ] Taller 5: 4 Mayo
+		- [ ] [https://scikit-learn.org/stable/auto_examples/datasets/plot_iris_dataset.html](https://scikit-learn.org/stable/auto_examples/datasets/plot_iris_dataset.html)
 
 - [ ] **Ingeniería de Manufactura**
 	- [ ] https://youtube.com/playlist?list=PLiwrUi-M8tLQ5fwEiLSuivvqKnnkf_jMw&si=gN2N60l9ZEa_f0zu
@@ -80,7 +77,12 @@ PENDIENTE:
 - [ ] **Enigma**
 	 - [ ] Lecturas
 	 - [ ] ROS
-	 - [ ] Revisar la herramienta en Fusion 360 del archivo .urdf: SÁBADO
+	 - [ ] URDF Observaciones
+		- [ ] Asimetría agujero
+		- [ ] Unión tornillos de la pata
+		- [ ] Tuerca muy grande en una pata
+		- [ ] Colisión pierna 1 -> Hacer lla cavidad más grande
+		- [ ] Puede removerse la constraint cilíndrica de la tuerca
 	 - [ ] Revisar el libro -> https://drive.google.com/file/d/1CFeumva6nkOEr9Ok7XiKm6wrIVPL5zK4/view SÁBADO
 	 - [ ] Revisar ROS2 -> https://roboticseabass.com/2023/07/09/updated-guide-docker-and-ros2/
 
@@ -99,6 +101,3 @@ PENDIENTE:
 ---
 
 T_ORG_1 = T_ORG_0 * T_1_0
-
-
-
