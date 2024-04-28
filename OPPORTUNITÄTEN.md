@@ -37,8 +37,10 @@
 
 ## Prácticas
 
+- SPOPA
+	- [Formulario de recepción de hojas de vida](https://docs.google.com/forms/d/e/1FAIpQLSfxDDdI3xp8NyiOx8G1KzbjwscIhLCZsYbiuvI0OJeYXG7tPg/viewform)
+	- [Ofertas](https://docs.google.com/spreadsheets/d/1TmX03GByC17pPnqZm5qC5uCE_foeJpANpdp-NGEkZWQ/edit#gid=0](https://docs.google.com/spreadsheets/d/1TmX03GByC17pPnqZm5qC5uCE_foeJpANpdp-NGEkZWQ/edit#gid=0)
 - WOM (Reunión)
-- Multinacional Endava (?)
 - EPAM
 	- https://www.epam.com/careers
 	- Tatiana robayo
@@ -46,6 +48,16 @@
 	- Mateo Zapata caraballo
 	- Nina Skazobova 
 		- https://www.linkedin.com/in/nina-skazobova-37351a52/?originalSubdomain=ru
+- Colanta
+- Management Solutions [Link](https://recruiting.managementsolutions.com)
+- WB
+
+![](attachments/Pasted%20image%2020240425174036.png)
+
+![](attachments/Pasted%20image%2020240425174241.png)
+
+- TP (177393067745220)
+
 
 
 

@@ -2,9 +2,10 @@
 
 ---
 
-- Personal
-	- Endava: LUNES - 2 PM 
-	- 206 - 5:20 PM
+- Principal
+	- Endava: Viernes - 11 AM [Link](https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_NjE0NjQ0NjQtZDRlYi00NThkLTllNmQtYTE3ZjIwZWI1MWFi%40thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%25220b3fc178-b730-4e8b-9843-e81259237b77%2522%252c%2522Oid%2522%253a%252205cc8bee-c2cf-406d-ae8c-985a892ea8aa%2522%257d%26anon%3Dtrue&type=meetup-join&deeplinkId=bd762109-d736-4b47-8e0e-118a7274677b&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true)
+	- Agendar cita
+	- Mainz
 
 - [ ] **Deutsch**
 	- [ ] Libro
@@ -84,14 +85,15 @@
 		- [ ] Colisión pierna 1 -> Hacer lla cavidad más grande
 		- [ ] Puede removerse la constraint cilíndrica de la tuerca
 	 - [ ] Revisar el libro -> https://drive.google.com/file/d/1CFeumva6nkOEr9Ok7XiKm6wrIVPL5zK4/view SÁBADO
-	 - [ ] Revisar ROS2 -> https://roboticseabass.com/2023/07/09/updated-guide-docker-and-ros2/
+	 - [ ] https://github.com/fegonzalez7/rob_unal_clase3
+	 - [ ] https://emanual.robotis.com/docs/en/software/dynamixel/dynamixel_workbench/
+
 
 - [ ] **Chem-E-Car**
 	- [ ] https://docs.google.com/spreadsheets/d/1D9gz1DudMb83q1xqA-Q_NW8IKMgSvX_5/edit#gid=552729931
 
 
 - [ ]  **Français**
-	- [ ] Proyecto: Planeación
 	- [ ] Biografía
 	- [ ] DELF: Diploma de estudios de lengua francesa
 

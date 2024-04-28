@@ -112,7 +112,7 @@ Se pone acento grave cuando:
 - gn [ini] -> une ligne
 - gu [gue] -> une bague
 - ei [ee]
-- oi [oa]
+- oi [ua]
 - au [uu]
 - eau [uo]
 - ai [e]
@@ -128,6 +128,16 @@ Se pone acento grave cuando:
 - an, am, en, em, aon -> o nasal
 - on, om -> u nasal
 - ain, aim, in, im, en, ein, yn, ym -> a nasal
+
+
+### La liaison
+
+- _Obligatoire_
+	- Sujet + Verbe
+	- Article + Substantif
+	- Adjectif + Substantif
+	- Adverbe + Verbe
+- _Facultative_
 
 
 ## Les nombres
@@ -155,6 +165,8 @@ Se pone acento grave cuando:
 - 19 dix-neuf
 - 20 vingt
 - 21 vingt et un
+- 22 vingt-deux
+
 - 30 trente
 - 40 quarante
 - 50 cinquante
@@ -181,6 +193,20 @@ Se pone acento grave cuando:
 - 1,000,000 un million
 - 1,000,000,000 un milliard
 - 1,000,000,000,000 un trillion
+
+
+### Le nombres ordinaux
+
+
+- $1^{er/ère}$ Premier/Première
+- $2^{ème}$ deuxième
+- $3^{ème}$ troisième
+- $4^{ème}$ quatrième
+- .
+- $9^{ème}$ neuvième
+- .
+- $21^{ème}$ vingt et unième
+- $22^{ème}$ vingt-deuxième
 
 
 ## Le pronoms personnels
@@ -315,17 +341,26 @@ Si el pronombre no es personal, se debe añadir con el verbo:
 
 ## La négation
 
-- _Simple_
+- _ne pas_ -> Negación simple
 	- Je _ne_ suis _pas_ en vacances
 	- Vous _n_'êtes _pas_ fatigué?
+	- Je _ne_ mange _pas_ de riz
+- _ne point_ -> Negación antigüa (formal)
+	- Je _ne_ mange _point_ de riz
+- _ne que_ -> Solamente
+	- Je _ne_ mange _que_ du riz
 - _ne jamais_ -> Jamás
 	- Je _ne_ bois _jamais_ café
+	- Je _ne_ mange _jamais_ de riz mais de la salade
 - _ne plus_ -> Ya no más
 	- Moi, je _ne_ fume _plus_
+	- Je _ne_ mange _plus_ de riz
 - _ne aucun_ -> Ni uno solo
 	- Je _n_'ai _aucun_ ami
+	- Je _ne_ mange _aucun_ vegetal
 - _ne rien_ -> Nada
 	- Je _ne_ vois _rien_
+	- Je _ne_ mange _rien_
 	- _Rien ne_ bouge
 - _ne personne_ -> Nadie
 	- Je _n_'attends _personne_
@@ -420,26 +455,6 @@ Si el pronombre no es personal, se debe añadir con el verbo:
 - Eux-mêmes -> Theirselves (Masculin)
 - Elles-mêmes -> Theirselves (Féminin)
 - Soi-même -> (On)
-
-
-## Pronoms (COD, COI)
-
-- COD -> Complement Objet Direct
-- COI -> Complement Objet Indirect
-
-| Sujet | Objet direct | Objet indirect |
-| ----- | ------------ | -------------- |
-| je    | me           | me             |
-| tu    | te           | te             |
-| il    | le           | lui            |
-| elle  | la           | lui            |
-| nous  | nous         | nous           |
-| vous  | vous         | vous           |
-| ils   | les          | leur           |
-| elles | les          | leur           |
-
-- J'achète _la_ voiture -> Direct
-- Mes parents _me_ donnent de l'argent -> Indirect
 
 
 ## Les directions
@@ -685,4 +700,21 @@ Los otros tienen _Avoir_.
 >Con respecto a formalidad: Néanmoins > Cependant > Toutefois (todas significan 'sin embargo')
 
 
+## Pronoms (COD, COI)
 
+- COD -> Complement Objet Direct
+- COI -> Complement Objet Indirect
+
+| Sujet | Objet direct | Objet indirect |
+| ----- | ------------ | -------------- |
+| je    | me           | me             |
+| tu    | te           | te             |
+| il    | le           | lui            |
+| elle  | la           | lui            |
+| nous  | nous         | nous           |
+| vous  | vous         | vous           |
+| ils   | les          | leur           |
+| elles | les          | leur           |
+
+- J'achète _la_ voiture -> Direct
+- Mes parents _me_ donnent de l'argent -> Indirect
