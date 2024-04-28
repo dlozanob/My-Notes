@@ -341,30 +341,47 @@ Si el pronombre no es personal, se debe añadir con el verbo:
 
 ## La négation
 
-- _ne pas_ -> Negación simple
+- _ne.. pas_ -> Negación simple
 	- Je _ne_ suis _pas_ en vacances
 	- Vous _n_'êtes _pas_ fatigué?
 	- Je _ne_ mange _pas_ de riz
-- _ne point_ -> Negación antigüa (formal)
+- _ne.. point_ -> Negación antigüa (formal)
 	- Je _ne_ mange _point_ de riz
-- _ne que_ -> Solamente
+- _ne.. que_ -> Solamente
 	- Je _ne_ mange _que_ du riz
-- _ne jamais_ -> Jamás
+- _ne.. jamais_ -> Jamás
 	- Je _ne_ bois _jamais_ café
 	- Je _ne_ mange _jamais_ de riz mais de la salade
-- _ne plus_ -> Ya no más
+- _ne.. plus_ -> Ya no más
 	- Moi, je _ne_ fume _plus_
 	- Je _ne_ mange _plus_ de riz
-- _ne aucun_ -> Ni uno solo
+- _ne.. aucun_ -> Ni uno solo
 	- Je _n_'ai _aucun_ ami
-	- Je _ne_ mange _aucun_ vegetal
-- _ne rien_ -> Nada
+	- Je _n_'ai _aucune_ cuillère
+- _ne.. rien_ -> Nada
 	- Je _ne_ vois _rien_
 	- Je _ne_ mange _rien_
 	- _Rien ne_ bouge
-- _ne personne_ -> Nadie
+- _ne.. personne_ -> Nadie
 	- Je _n_'attends _personne_
 	- _Personne ne_ parle
+- _ne.. ni.. ni.._ / _ne.. pas.. ni.._ -> Varias negaciones
+	- Je _ne_ travaille _ni_ le samedi _ni_ le dimanche
+	- Je _ne_ connais _pas_ Rome _ni_ Tokyo
+- _ne.. nulle.. part_
+	- Je _ne_ vais _nulle_ part
+
+
+>[!Note]
+>- _ne_ ... _pas_ <>
+>	- _encore_ -> Aún
+>	- _du tout_ -> Reforzar
+
+>[!Note]
+>Se pueden combinar:
+>- _Ne_ ... _jamais_ _rien_
+>- _Ne_ .. _plus_ _personne_
+>- _Ne_ ... _jamais_ _personne_
 
 
 ## Faire/Jouer
