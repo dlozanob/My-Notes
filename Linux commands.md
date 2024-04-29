@@ -4,7 +4,6 @@
 - `sudo dpkg -i <package_file>.deb` -> Install a .deb file
 - `sudo apt-get remove <package name>` -> Uninstall package
 
-
 >[!Info]
 >Divide terminal:
 >1. `screen`
@@ -31,5 +30,9 @@ Exec=/usr/local/MATLAB/R2024a/bin/matlab
 
 Guardarlo en: `~/usr/share/applications`
 
+- Buscar un archivo -> `find $PWD -type f -name <archivo>`
+- Buscar path de un comando -> `whereis`
+- Crear link simbólico a un archivo: `ln -s <original> <puntero>`
+	- `ln -s /usr/bin/python3 /usr/bin/python`
 
 

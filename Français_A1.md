@@ -338,7 +338,6 @@ Si el pronombre no es personal, se debe añadir con el verbo:
 - Il y a 5 pommes dans le panier -> Y a-t-ill 5 pommes dans le panier?
 
 
-
 ## La négation
 
 - _ne.. pas_ -> Negación simple

@@ -14,31 +14,31 @@
               "type": "markdown",
               "state": {
                 "file": "TO DO.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d155923e8b40f1bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Français_A1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1194843b1d05688b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Français.md",
                 "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6bca73bd516e7604",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ROS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "237a51f65200e0de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux commands.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Français_A1.md",
+                "file": "ROS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Français_A1.md",
+                "file": "ROS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Français_A1.md"
+                "file": "ROS.md"
               }
             }
           },
@@ -200,7 +200,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"\"",
+                "query": "\"css\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -229,27 +229,29 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "d155923e8b40f1bc",
+  "active": "6bca73bd516e7604",
   "lastOpenFiles": [
+    "Linux commands.md",
+    "ROS.md",
+    "TO DO.md",
+    "Javascript.md",
+    "CSS.md",
     "Français.md",
     "Français_A1.md",
-    "TO DO.md",
+    "Deutsch_A1.md",
+    "Deutsch.md",
     "Excalidraw/whiteboard.excalidraw.md",
     "Diseño por fatiga.md",
     "Diseño de Elementos de Máquinas I.md",
     "Ingeniería de Diseño.md",
     "Main.md",
     "OPPORTUNITÄTEN.md",
-    "ROS.md",
-    "Linux commands.md",
     "attachments/Pasted image 20240425174241.png",
     "attachments/Pasted image 20240425174036.png",
     "Excalidraw/attachments/Pasted Image 20240424120956_021.png",
     "Excalidraw/attachments/Pasted Image 20240424113156_017.png",
     "Excalidraw/attachments/Pasted Image 20240424112839_703.png",
     "Excalidraw/attachments/Pasted Image 20240423165148_793.png",
-    "CSS.md",
-    "Javascript.md",
     "Server communication.md",
     "Excalidraw/blackboard.excalidraw.md",
     "Other.md",
@@ -261,8 +263,6 @@
     "Harvard TinyML.md",
     "1. Fundamentals of Tiny ML.md",
     "Prépositions.md",
-    "Français_B2.md",
-    "Français_B1.md",
     "Excalidraw/attachments/Pasted Image 20240417181613_301.png",
     "attachments/Pasted image 20240416130520.png",
     "attachments/Pasted image 20240416090355.png",

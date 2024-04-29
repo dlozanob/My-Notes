@@ -45,11 +45,10 @@
 	- Listar mensajes de un paquete: `package`
 	- Listar paquetes que contienen mensajes: `packages`
 
-- _Servicios_
+- _Servicios_ `rosservice`
 	- Información acerca de los archivos de servicios (.srv): `rossrv`
-	- Listar servicios ROS: `rosservice`
-
-
+	- Listar servicios ROS: `list`
+	- Llamar un servicio: `call <serv_name> <args>`
 
 - _Parámetros_ `rosparam`
 	- Listar parámetros del servidor: `list`
