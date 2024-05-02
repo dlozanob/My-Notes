@@ -209,8 +209,16 @@ Se pone acento grave cuando:
 - $22^{ème}$ vingt-deuxième
 
 
-## Le pronoms personnels
+## Articles
 
+|          | Définis | Indéfinis |
+| -------- | ------- | --------- |
+| Masculin | Le      | Un        |
+| Féminin  | La      | Une       |
+| Pluriel  | Les     | Des       |
+
+
+## Le pronoms personnels
 
 | Je             | Yo              |
 | -------------- | --------------- |
@@ -262,6 +270,16 @@ Se pone acento grave cuando:
 		- Nous sommes
 		- Vous  êtes
 		- Ils/Elles sont
+
+
+## Le pluriel des noms
+
+
+| Singulier        | Pluriel | Exemple                |
+| ---------------- | ------- | ---------------------- |
+| -ail / -ou       | +s      | Éventail / Trou        |
+| -al              | -> aux  | Animal                 |
+| -au / -eau / -eu | +x      | Chapeau / Oiseau / Jeu |
 
 
 ## Règles de formation des professions
@@ -734,3 +752,18 @@ Los otros tienen _Avoir_.
 
 - J'achète _la_ voiture -> Direct
 - Mes parents _me_ donnent de l'argent -> Indirect
+
+
+## La comparaison
+
+|          | $-$            | $=$             | $+$           |
+| -------- | -------------- | --------------- | ------------- |
+| Nom      | moins de.. que | autant de.. que | plus de.. que |
+| Verbe    | moins que      | autant que      | plus que      |
+| Adjectif | moins.. que    | aussi.. que     | plus.. que    |
+| Adverbe  | moins.. que    | aussi.. que     | plus.. que    |
+
+- Paul mange _autant de_ fruits _que_ Nicolas
+-  Nicolas mange _moins que_ Paul
+- Sylvie est _plus_ gourmande _que_ Cédric
+- Sylvie cuisine _aussi_ bien _que_ Cédric

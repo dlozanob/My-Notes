@@ -1,17 +1,17 @@
 # ROS
 
 >[!Note]
->Establecer entorno ROS: `source <directorio workspace>/devel/setup.bash`
+>Establecer entorno ROS: `source <workspace_path>/devel/setup.bash`
 
 - _General_
 	- Ejecutar nodo master: `roscore`
 	- Lanzar un nodo `rosrun`
-		- Ejecutar el paquete turtlesim: `turtlesim turtlesim_node`
-		- Mover la tortuga: `turtlesim turtle_teleop_key`
+		- Ejecutar el paquete turtlesim: `turtlesim turtlesim_node.py`
+		- Mover la tortuga: `turtlesim turtle_teleop_key.py`
 		- GUI nodos: `rqt_graph`
 		- Paquete de visualización de ROS: `rqt_plot`
 	- Crear stack: `roscreate-stack`
-	- Encontrar paquetes en el sistema: `rospack`
+	- Encontrar paquetes en el sistema: `rospack list-names`
 	- Crear paquetes: `roscreate-pkg`
 	- Compilar un paquete: `rosmake`
 	- Instalar dependencias que necesita un paquete: `rosdep`
@@ -58,15 +58,9 @@
 	- Guardar el servidor de parámetros en un archivo: `dump`
 	- Cargar servidor de parámetros de un archivo: `load`
 
->[!Note]
->Ex: `rosnode info nodeName`
+- _Acciones_
+	- Generar mensajes de acción: `rosrun actionlib_msgs genaction.py <action_path>`
+	- Mostrar contenido de un mensaje acción: `rosmsg show <stack_name>_msgs/<action_msg> `
 
+- Ejecutar múltiples nodos contenidos en un launch file: `roslaunch <package> <file>.launch`
 
-
----
-
-- Node types
-	- Plublishers
-	- Services
-	- Subscribers
-	- Actions

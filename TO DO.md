@@ -3,7 +3,6 @@
 ---
 
 - Principal
-	- Endava: Viernes - 11 AM [Link](https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_NjE0NjQ0NjQtZDRlYi00NThkLTllNmQtYTE3ZjIwZWI1MWFi%40thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%25220b3fc178-b730-4e8b-9843-e81259237b77%2522%252c%2522Oid%2522%253a%252205cc8bee-c2cf-406d-ae8c-985a892ea8aa%2522%257d%26anon%3Dtrue&type=meetup-join&deeplinkId=bd762109-d736-4b47-8e0e-118a7274677b&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true)
 	- Agendar cita
 	- Mainz
 
@@ -66,12 +65,11 @@
 	- [ ] Matlab ver: hinfsyn()
 
 - [ ] **Dibujo de Máquinas**
-	- [ ] Proyecto aplicado: 14 Abril
+	- [ ] Proyecto aplicado:
 		- [x] Sebastián: 3, 6
 		- [ ] Juan Carlos: 1, 2, 5
 		- [ ] David: 
 		- [ ] Andrés: 
-	- [ ] Cronograma
 
 - [ ] **Termodinámica Técnica**
 
