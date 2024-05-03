@@ -3,7 +3,7 @@
 
 ## L'alphabet
 
-| a           | b         | c (_sse_) | d           | e (_o nasal_)  | f (_ef_)  | g (_yee_)   | h (_ash_)    | i (_ui_)   |
+| a           | b         | c (_sse_) | d           | e (_ö_)        | f (_ef_)  | g (_yee_)   | h (_ash_)    | i (_ui_)   |
 | ----------- | --------- | --------- | ----------- | -------------- | --------- | ----------- | ------------ | ---------- |
 | j (_yii_)   | k (_kaa_) | l (_ell_) | m (_emm e_) | n (_enn e_)    | o (_o_)   | p (_p_)     | q (_kiuu_)   | r (_eech_) |
 | s (_ess_)   | t (_te_)  | u (_ü_)   | v (_vve_)   | w (_duvlevve_) | x (_iks_) | y (_igrek_) | z (_ssed e_) |            |
