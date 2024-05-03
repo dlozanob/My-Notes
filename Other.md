@@ -24,6 +24,5 @@
 
 ---
 
-
-
+- Command to BIOS: `shutdown /r /fw /t 1`
 

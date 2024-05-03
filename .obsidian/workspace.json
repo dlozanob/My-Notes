@@ -42,21 +42,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "4955412202282c6a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Français_A1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Français_A1.md",
+                "file": "TO DO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Français_A1.md",
+                "file": "TO DO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Français_A1.md"
+                "file": "TO DO.md"
               }
             }
           },
@@ -241,14 +228,16 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "4955412202282c6a",
+  "active": "ff2af090a472befe",
   "lastOpenFiles": [
+    "Linux commands.md",
+    "Français_A1.md",
+    "Prépositions.md",
+    "Français.md",
+    "Other.md",
+    "TO DO.md",
     "Excalidraw/whiteboard.excalidraw.md",
     "Excalidraw/attachments/Pasted Image 20240501225829_298.png",
-    "Français_A1.md",
-    "Français.md",
-    "Linux commands.md",
-    "TO DO.md",
     "Excalidraw/attachments/Pasted Image 20240501002404_300.png",
     "Excalidraw/attachments/Pasted Image 20240430113156_833.png",
     "Excalidraw/attachments/Pasted Image 20240430113141_798.png",
@@ -270,7 +259,6 @@
     "Excalidraw/attachments/Pasted Image 20240424113156_017.png",
     "Server communication.md",
     "Excalidraw/blackboard.excalidraw.md",
-    "Other.md",
     "Robótica.md",
     "Automatización, Control y Robótica.md",
     "Automatización%2C Control y Robótica.md",

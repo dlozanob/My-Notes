@@ -767,3 +767,40 @@ Los otros tienen _Avoir_.
 -  Nicolas mange _moins que_ Paul
 - Sylvie est _plus_ gourmande _que_ Cédric
 - Sylvie cuisine _aussi_ bien _que_ Cédric
+
+
+## Le futur simple
+
+- _Conjugaison_
+	- Infinitif + Terminaison
+
+| Pronom      | Terminaison |
+| ----------- | ----------- |
+| Je          | ai          |
+| Tu          | as          |
+| Il / Elle   | a           |
+| Nous        | ons         |
+| Vous        | ez          |
+| Ils / Elles | ont         |
+
+>[!Note]
+>Pour les verbes qui finit avec _e_, on enlève la _e_ 
+
+- _Exemples :_
+	- Manger -> Je mangerai
+	- Croire -> Nous croirons
+	- Prendre -> Ils prendront
+
+
+### Verbes irréguliers
+
+Se cambia la raíz.
+
+- Avoir -> Aur
+	- Nous aurons
+- Être -> Ser
+	- Je serai
+
+
+
+
