@@ -1,8 +1,8 @@
 # Harvard TinyML
 
-- [[1. Fundamentals of Tiny ML]]
-- [[2. Applications of TinyML]]
-- [[3. Deploying TinyML]]
+- [1. Fundamentals of Tiny ML](1.%20Fundamentals%20of%20Tiny%20ML.md)
+- [2. Applications of TinyML](2.%20Applications%20of%20TinyML)
+- [3. Deploying TinyML](3.%20Deploying%20TinyML)
 
 
 ---

@@ -1,12 +1,12 @@
 # Other
 
 - [Unfollowers](https://github.com/davidarroyo1234/InstagramUnfollowers)
-- [[Harvard TinyML]]
-- [[TensorFlow]]
+- [Harvard TinyML](Harvard%20TinyML.md)
+- [TensorFlow](TensorFlow.md)
 - [ML in Python](https://scikit-learn.org/stable/)
-- [[Matlab]]
+- [Matlab](Matlab.md)
 - [Mechanic products catalog](https://www.mcmaster.com)
-- [[ROS]]
+- [ROS](ROS.md)
 
 
 ## Robotics

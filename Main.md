@@ -13,8 +13,8 @@
 - [LaTeX](LaTeX.md)
 - [Cybersec](Cybersec.md)
 - [Deutsch](Deutsch.md)
-- [[Français]]
-- [[Enigma]]
+- [Français](Français.md)
+- [Enigma](Enigma.md)
 
 
 ## Tools
@@ -22,6 +22,6 @@
 - [myDrawings](myDrawings.md)
 - [README](README.md)
 - [TO DO](TO%20DO.md)
-- [[Other]]
+- [Other](Other.md)
 
 

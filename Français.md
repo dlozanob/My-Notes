@@ -2,14 +2,14 @@
 
 ![](attachments/Pasted%20image%2020240227233546.png)
 
-- [[Français_A1]]
-- [[Français_A2]]
-- [[Français_B1]]
-- [[Français_B2]]
+- [Français_A1](Français_A1.md)
+- [Français_A2](Français_A2.md)
+- [Français_B1](Français_B1.md)
+- [Français_B2](Français_B2.md)
 
 ## External Links
 
-- [[Prépositions]]
+- [Prépositions](Prépositions.md)
 - [Playlist](https://open.spotify.com/playlist/1gGHZrRIYDFAdoPsWrL53G?si=2c4f7521d9174e87)
 - [Editable playlist](https://open.spotify.com/playlist/1gGHZrRIYDFAdoPsWrL53G?si=913249e923e745cb&pt=4ee203dba2d9078ac54f26a17d0b7815)
 - [Radio France](https://www.radiofrance.fr)
