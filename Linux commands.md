@@ -35,4 +35,4 @@ Guardarlo en: `~/usr/share/applications`
 - Crear link simbólico a un archivo: `ln -s <original> <puntero>`
 	- `ln -s /usr/bin/python3 /usr/bin/python`
 
-
+a
