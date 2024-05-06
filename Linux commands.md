@@ -1,17 +1,21 @@
 # Linux commands
 
-- `setxkbmap -layout latam` -> Set language to default Spanish
-- `sudo dpkg -i <package_file>.deb` -> Install a .deb file
-- `sudo apt-get remove <package name>` -> Uninstall package
-- `sudo reboot` -> Reboot
+## General
+
+- Set language to default Spanish -> `setxkbmap -layout latam`
+- Install a .deb file -> `sudo dpkg -i <package_file>.deb`
+- Uninstall package -> `sudo apt-get remove <package name>`
+- Reboot -> `sudo reboot`
 - Buscar un archivo -> `find $PWD -type f -name <archivo>`
 - Buscar path de un comando -> `whereis`
 - Crear link simbólico a un archivo -> `ln -s <original> <puntero>`
 	- `ln -s /usr/bin/python3 /usr/bin/python`
+- Create file -> `touch <file_name>`
+- Open default file manager
+	- `xdg-open .`
+	- `nautilus .`
 
----
-
-- Divide terminal:
+## Divide terminal
 
 1. `screen`
 2. Press `ENTER`
@@ -22,10 +26,8 @@
 - Move between tabs: `CTRL + a` then `TAB`
 - Activate new ones: `CTRL + a` then `c`
 - Restore default: `CTRL + a` then ` d`
- 
----
 
-- Crear ejecutables:
+## Generate executable files
 
 Generar un script (executable.desktop): 
 
@@ -43,9 +45,8 @@ Guardarlo en: `/usr/share/applications`
 > `/usr/share/applications` -> All users
 > `~/.local/share/applications` -> Current users
 
----
 
-- Setup git
+## Git Setup
 
 1. Install git
 2.  `git config --global user.name <user_name>`
@@ -64,9 +65,7 @@ Guardarlo en: `/usr/share/applications`
 
 ![](attachments/Pasted%20image%2020240505190438.png)
 
----
-
-- Change hostname
+## Change hostname
 
 1. Replace to new hostname: `sudo nano /etc/hostname`
 2. Replace to new hostname: `sudo nano etc/hosts`
@@ -77,6 +76,20 @@ Guardarlo en: `/usr/share/applications`
 >- Troubleshoot: 
 >	- `~/.config/google-chrome/`
 >	- Delete all _SIngleton_ files
+
+
+## Format USB
+
+1. Check units -> `lsblk`
+2. Umount USB unit -> `sudo umount /dev/<USB_unit>`
+3. Format -> `sudo mkfs.vfat -F 32 /dev/<USB_unit>`
+
+
+
+
+
+
+
 
 
 
