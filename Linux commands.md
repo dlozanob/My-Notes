@@ -29,22 +29,35 @@
 
 ## Generate executable files
 
-Generar un script (executable.desktop): 
+FIle name: `<file_name>.desktop`
 
 ```Text file
 [Desktop Entry]
-Type=Application  
+Name=Obsidian  
+Exec=/home/daniel/Desktop/Software/Obsidian/Obsidian-1.5.12.AppImage
+Icon=/home/daniel/.local/share/icons/obsidian.png
+Type=Application
 Categories=Software  
-Name=Matlab  
-Exec=/usr/local/MATLAB/R2024a/bin/matlab
+Encoding=UTF-8
+Terminal=false
+Type=Application
+Categories=Utility;
 ```
 
-Guardarlo en: `/usr/share/applications`
+Save into: `/usr/share/applications`
 
 >[!Note]
 > `/usr/share/applications` -> All users
 > `~/.local/share/applications` -> Current users
 
+---
+
+Suggested to store in the _current user_ path.
+
+To set an icon:
+	- Suggested _.png_ format
+	- No dimension constraint
+	- Save into `~/.local/share/icons`
 
 ## Git Setup
 
@@ -76,7 +89,6 @@ Guardarlo en: `/usr/share/applications`
 >- Troubleshoot: 
 >	- `~/.config/google-chrome/`
 >	- Delete all _SIngleton_ files
-
 
 ## Format USB
 
