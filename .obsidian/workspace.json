@@ -26,7 +26,7 @@
               "type": "markdown",
               "state": {
                 "file": "ROS.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux commands.md",
+                "file": "ROS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux commands.md",
+                "file": "ROS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux commands.md"
+                "file": "ROS.md"
               }
             }
           },
@@ -229,10 +229,10 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "237a51f65200e0de",
+  "active": "6bca73bd516e7604",
   "lastOpenFiles": [
-    "ROS.md",
     "Linux commands.md",
+    "ROS.md",
     "attachments/Pasted image 20240505190714.png",
     "attachments/Pasted image 20240505190657.png",
     "attachments/Pasted image 20240505190634.png",
