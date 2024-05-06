@@ -3,6 +3,11 @@
 - `setxkbmap -layout latam` -> Set language to default Spanish
 - `sudo dpkg -i <package_file>.deb` -> Install a .deb file
 - `sudo apt-get remove <package name>` -> Uninstall package
+- `sudo reboot` -> Reboot
+- Buscar un archivo -> `find $PWD -type f -name <archivo>`
+- Buscar path de un comando -> `whereis`
+- Crear link simbólico a un archivo -> `ln -s <original> <puntero>`
+	- `ln -s /usr/bin/python3 /usr/bin/python`
 
 ---
 
@@ -40,13 +45,6 @@ Guardarlo en: `/usr/share/applications`
 
 ---
 
-- Buscar un archivo -> `find $PWD -type f -name <archivo>`
-- Buscar path de un comando -> `whereis`
-- Crear link simbólico a un archivo: `ln -s <original> <puntero>`
-	- `ln -s /usr/bin/python3 /usr/bin/python`
-
----
-
 - Setup git
 
 1. Install git
@@ -60,12 +58,25 @@ Guardarlo en: `/usr/share/applications`
 >When `git push` __DO ONLY USE__ the  generated _token_ as password
 >
 
+- Implement with Obsidian
+	- Switch remote URL from HTTPS to SSH
+		- `remote set-url origin git@github.com:OWNER/REPOSITORY.git`
+
+![](attachments/Pasted%20image%2020240505190438.png)
+
 ---
 
+- Change hostname
 
+1. Replace to new hostname: `sudo nano /etc/hostname`
+2. Replace to new hostname: `sudo nano etc/hosts`
+3. Reboot
 
-
-
+>[!Warning]
+>Changing the hostname will make Chrome stop working.
+>- Troubleshoot: 
+>	- `~/.config/google-chrome/`
+>	- Delete all _SIngleton_ files
 
 
 
