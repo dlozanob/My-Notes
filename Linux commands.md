@@ -45,4 +45,28 @@ Guardarlo en: `/usr/share/applications`
 - Crear link simbólico a un archivo: `ln -s <original> <puntero>`
 	- `ln -s /usr/bin/python3 /usr/bin/python`
 
+---
+
+- Setup git
+
+1. Install git
+2.  `git config --global user.name <user_name>`
+3. `git config --global user.email <user_email>`
+
+- Use repository
+	- Github > Pick User icon > Settings > Dev Settings > Token -> Generate _Token_
+
+>[!Warning]
+>When `git push` __DO ONLY USE__ the  generated _token_ as password
+>
+
+---
+
+
+
+
+
+
+
+
 
