@@ -35,7 +35,7 @@
 	- Contenido del tópico: `echo`
 	- Info sobre tópicos publicados: `info`
 	- Listar tópicos publicados: `list`
-	- Crear tópicos: `pub /<topic> <type> <args>`
+	- Publicar mensaje por un tópico: `pub /<topic> <type> <args>`
 	- Escribir un mensaje: `type`
 
 - _Mensajes_ `rosmsg`
