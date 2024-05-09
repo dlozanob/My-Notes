@@ -2,7 +2,8 @@
 
 ---
 
-- Principal
+- Main
+	- JUEVES 23 - 4 PM. Metrópolis (Dermatología)
 	- 15 Julio 4:30 pm
 	- Mainz
 
