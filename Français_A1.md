@@ -802,5 +802,39 @@ Se cambia la raíz.
 	- Je serai
 
 
+## Le imparfait
 
 
+- Gramática:
+	- Raíz -> $1^{ra}$ persona plural en presente $+$ Terminación
+
+|                | Terminaison |
+| -------------- | ----------- |
+| Je             | ais         |
+| Tu             | ais         |
+| Il / Elle / On | ait         |
+| Nous           | ions        |
+| Vous           | iez         |
+| Ils / Elles    | aient       |
+
+- Ejemplos:
+	- Je voulais
+	- Nous habitions
+	- Elle voyait
+	- Nous avions
+	- Ils prenaient
+
+>[!Warning]
+>Excepción con _être_ : Ét + Terminaison
+
+
+### Utilisation
+
+1. Décrire une situation dans la passé
+	- Le mois derner, nous avions beaucoup de devoirs
+2. Décrire une personne/méteo
+	- Il faisait beau à Bogotá
+3. Décrire une action avant une autre
+	- Je étais en train de prenez de bus quand elle me a regarder
+4. Décrire une habitude, une routine dans la passé
+	- Quand j'avais 5 ans, j'aimais jouer avec mes jouets
