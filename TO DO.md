@@ -72,8 +72,13 @@
 		- [ ] Juan Carlos: 1, 2, 5
 		- [ ] David: 
 		- [ ] Andrés: 
+	- [ ] Ingeniería Inversa
+		- [x] Eje secundario
+		- [ ] Revisar plano resorte
+		- [ ] Revisar plano mandril
 
 - [ ] **Termodinámica Técnica**
+	- [ ] Crear Cheatsheet
 
 - [ ] **Enigma**
 	 - [ ] Lecturas
