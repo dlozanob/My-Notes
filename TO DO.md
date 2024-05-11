@@ -6,6 +6,7 @@
 	- JUEVES 23 - 4 PM. Metrópolis (Dermatología)
 	- 15 Julio 4:30 pm
 	- Mainz
+	- JUEVES 16 - 11 AM: [Instituto nórdico](https://events.teams.microsoft.com/event/4f0862a9-ce52-4ed9-a33d-588dfbeb6072@c0539dc5-a784-46ff-8402-718cd7e48429)
 
 - [ ] **Deutsch**
 	- [ ] Libro
@@ -102,3 +103,11 @@
 ---
 
 T_ORG_1 = T_ORG_0 * T_1_0
+
+- WIN:
+`pkgmgr /iu:"TelnetClient"`
+`telnet http://Towel.blinkenlights.nl`
+
+- LINUX
+`telnet http://towel.blinkenlights.nl` o
+`nc towel.blinkenlights.nl 23`

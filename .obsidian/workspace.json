@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6b2ea66ab64d085c",
+        "id": "695b662225a52374",
         "type": "tabs",
         "children": [
           {
-            "id": "ff2af090a472befe",
+            "id": "3db362bd93b3d759",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,45 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "6bca73bd516e7604",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ROS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "237a51f65200e0de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux commands.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a2b7d8d70a492e7d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Français_A1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Français_A1.md",
+                "file": "TO DO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Français_A1.md",
+                "file": "TO DO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Français_A1.md"
+                "file": "TO DO.md"
               }
             }
           },
@@ -241,29 +204,30 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "a2b7d8d70a492e7d",
+  "active": "3db362bd93b3d759",
   "lastOpenFiles": [
+    "Excalidraw/whiteboard.excalidraw.md",
+    "Excalidraw/attachments/Pasted Image 20240509183002_614.png",
+    "Excalidraw/attachments/Pasted Image 20240509174720_575.png",
+    "Diseño de ejes.md",
+    "Excalidraw/attachments/Pasted Image 20240509174650_572.png",
     "Linux commands.md",
-    "ROS.md",
-    "TO DO.md",
-    "Français_A1.md",
-    "Français.md",
-    "Git commands.md",
-    "attachments/Pasted image 20240505190714.png",
-    "attachments/Pasted image 20240505190657.png",
-    "attachments/Pasted image 20240505190634.png",
-    "attachments/Pasted image 20240505190438.png",
-    "Excalidraw/attachments/Pasted Image 20240506154215_568.png",
-    "Excalidraw/attachments/Pasted Image 20240506154048_684.png",
-    "Excalidraw/attachments/Pasted Image 20240506154014_676.png",
-    "Excalidraw/attachments/Pasted Image 20240506153956_669.png",
-    "Excalidraw/attachments/Pasted Image 20240506153926_667.png",
-    "Uniones.md",
+    "Excalidraw/attachments/Pasted Image 20240509174548_369.png",
+    "Excalidraw/attachments/Pasted Image 20240509174533_038.png",
+    "Excalidraw/attachments/Pasted Image 20240509174512_070.png",
+    "Excalidraw/attachments/Pasted Image 20240509174411_779.png",
     "Diseño de Elementos de Máquinas I.md",
+    "Excalidraw/attachments/Pasted Image 20240509152344_526.png",
+    "Excalidraw/attachments/Pasted Image 20240509152256_542.png",
+    "Excalidraw/attachments/Pasted Image 20240509152241_529.png",
+    "Français.md",
+    "Français_A1.md",
+    "TO DO.md",
+    "ROS.md",
+    "Git commands.md",
+    "Uniones.md",
     "Prépositions.md",
     "Other.md",
-    "Excalidraw/whiteboard.excalidraw.md",
-    "Excalidraw/attachments/Pasted Image 20240501225829_298.png",
     "Javascript.md",
     "CSS.md",
     "Deutsch_A1.md",
@@ -277,8 +241,6 @@
     "Robótica.md",
     "Automatización, Control y Robótica.md",
     "Automatización%2C Control y Robótica.md",
-    "Untitled.md",
-    "TensorFlow.md",
     "OneNote/Neuer Abschnitt 1",
     "OneNote/Schnelle Notizen",
     "OneNote",
