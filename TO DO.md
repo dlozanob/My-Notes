@@ -110,10 +110,3 @@
 
 T_ORG_1 = T_ORG_0 * T_1_0
 
-- WIN:
-`pkgmgr /iu:"TelnetClient"`
-`telnet http://Towel.blinkenlights.nl`
-
-- LINUX
-`telnet http://towel.blinkenlights.nl` o
-`nc towel.blinkenlights.nl 23`

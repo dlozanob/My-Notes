@@ -8,8 +8,8 @@
 	- Lanzar un nodo `rosrun`
 		- Ejecutar el paquete turtlesim: `turtlesim turtlesim_node.py`
 		- Mover la tortuga: `turtlesim turtle_teleop_key.py`
-		- GUI nodos: `rqt_graph`
-		- Paquete de visualización de ROS: `rqt_plot`
+		- GUI nodos: `rqt_graph rqt_graph`
+		- Paquete de visualización de ROS: `rqt_plot rqt_plot`
 		- XACRO: `xacro xacro <path>/<file>.xacro > <file>.urdf`
 	- Crear stack: `roscreate-stack`
 	- Encontrar paquetes en el sistema: `rospack list-names`

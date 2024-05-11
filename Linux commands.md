@@ -15,6 +15,8 @@
 	- `xdg-open .`
 	- `nautilus .`
 
+- Star wars movie -> `nc towel.blinkenlights.nl 23`
+
 ## Divide terminal
 
 1. `screen`
@@ -95,6 +97,12 @@ To set an icon:
 1. Check units -> `lsblk`
 2. Umount USB unit -> `sudo umount /dev/<USB_unit>`
 3. Format -> `sudo mkfs.vfat -F 32 /dev/<USB_unit>`
+
+>[!Note]
+>`lsusb` for list USB units
+
+
+
 
 
 
