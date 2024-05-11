@@ -76,6 +76,7 @@
 		- [x] Eje secundario
 		- [ ] Revisar plano resorte
 		- [ ] Revisar plano mandril
+		- [ ] Subensamble
 
 - [ ] **Termodinámica Técnica**
 	- [ ] Crear Cheatsheet
