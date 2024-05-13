@@ -66,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/whiteboard.excalidraw.md",
+                "file": "Linux commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/whiteboard.excalidraw.md",
+                "file": "Linux commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/whiteboard.excalidraw.md"
+                "file": "Linux commands.md"
               }
             }
           },
@@ -251,14 +251,14 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "8c81ad2923455cb5",
+  "active": "237a51f65200e0de",
   "lastOpenFiles": [
-    "TO DO.md",
-    "Linux commands.md",
-    "Excalidraw/whiteboard.excalidraw.md",
-    "Français.md",
-    "ROS.md",
     "Git commands.md",
+    "TO DO.md",
+    "ROS.md",
+    "Excalidraw/whiteboard.excalidraw.md",
+    "Linux commands.md",
+    "Français.md",
     "Excalidraw/attachments/Pasted Image 20240509183002_614.png",
     "Excalidraw/attachments/Pasted Image 20240509174720_575.png",
     "Excalidraw/attachments/Pasted Image 20240509174650_572.png",
