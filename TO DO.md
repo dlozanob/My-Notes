@@ -104,14 +104,6 @@
 	- [ ] DELF: Diploma de estudios de lengua francesa
 
 
-
-
 ---
 
 T_ORG_1 = T_ORG_0 * T_1_0
-
-- Funcionamiento -> 12s
-- Dimensionamiento -> 
-- Jerarquía ->
-- Modelación ->
-- Diseño ->

@@ -29,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/whiteboard.excalidraw.md",
+                "file": "TO DO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/whiteboard.excalidraw.md",
+                "file": "TO DO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/whiteboard.excalidraw.md"
+                "file": "TO DO.md"
               }
             }
           },
@@ -215,10 +214,10 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "861fab9ef1fd8497",
+  "active": "3db362bd93b3d759",
   "lastOpenFiles": [
-    "TO DO.md",
     "Excalidraw/whiteboard.excalidraw.md",
+    "TO DO.md",
     "Excalidraw/attachments/Pasted Image 20240514163238_378.png",
     "Excalidraw/attachments/Pasted Image 20240514163223_351.png",
     "Linux commands.md",
