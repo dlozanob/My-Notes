@@ -110,9 +110,8 @@
 
 T_ORG_1 = T_ORG_0 * T_1_0
 
-```
-rosservice call /dynamixel_workbench/dynamixel_command "command: ''
-id: 5
-addr_name: 'Goal_Position'
-value: 0"
-```
+- Funcionamiento -> 12s
+- Dimensionamiento -> 
+- Jerarquía ->
+- Modelación ->
+- Diseño ->
