@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "695b662225a52374",
+        "id": "6b2ea66ab64d085c",
         "type": "tabs",
         "children": [
           {
-            "id": "3db362bd93b3d759",
+            "id": "ff2af090a472befe",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,7 +20,53 @@
             }
           },
           {
-            "id": "861fab9ef1fd8497",
+            "id": "6bca73bd516e7604",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ROS.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "237a51f65200e0de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux commands.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "56224ca442cb2cf9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git commands.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8c81ad2923455cb5",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/whiteboard.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "fdb75d614715070f",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -29,7 +75,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -99,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TO DO.md",
+                "file": "Excalidraw/whiteboard.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TO DO.md",
+                "file": "Excalidraw/whiteboard.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TO DO.md"
+                "file": "Excalidraw/whiteboard.excalidraw.md"
               }
             }
           },
@@ -185,7 +232,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"css\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -214,43 +261,43 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "3db362bd93b3d759",
+  "active": "fdb75d614715070f",
   "lastOpenFiles": [
-    "Excalidraw/whiteboard.excalidraw.md",
-    "TO DO.md",
+    "Git commands.md",
     "Excalidraw/attachments/Pasted Image 20240514163238_378.png",
     "Excalidraw/attachments/Pasted Image 20240514163223_351.png",
-    "Linux commands.md",
     "ROS.md",
-    "Git commands.md",
+    "TO DO.md",
+    "Linux commands.md",
+    "Excalidraw/whiteboard.excalidraw.md",
+    "Français.md",
     "Excalidraw/attachments/Pasted Image 20240509183002_614.png",
     "Excalidraw/attachments/Pasted Image 20240509174720_575.png",
-    "Diseño de ejes.md",
     "Excalidraw/attachments/Pasted Image 20240509174650_572.png",
     "Excalidraw/attachments/Pasted Image 20240509174548_369.png",
     "Excalidraw/attachments/Pasted Image 20240509174533_038.png",
     "Excalidraw/attachments/Pasted Image 20240509174512_070.png",
     "Excalidraw/attachments/Pasted Image 20240509174411_779.png",
-    "Diseño de Elementos de Máquinas I.md",
     "Excalidraw/attachments/Pasted Image 20240509152344_526.png",
-    "Français.md",
-    "Français_A1.md",
-    "Uniones.md",
-    "Prépositions.md",
+    "OPPORTUNITÄTEN.md",
     "Other.md",
+    "Français_A1.md",
+    "Prépositions.md",
     "Javascript.md",
     "CSS.md",
     "Deutsch_A1.md",
     "Deutsch.md",
     "Diseño por fatiga.md",
+    "Diseño de Elementos de Máquinas I.md",
     "Ingeniería de Diseño.md",
     "Main.md",
-    "OPPORTUNITÄTEN.md",
     "Server communication.md",
     "Excalidraw/blackboard.excalidraw.md",
     "Robótica.md",
     "Automatización, Control y Robótica.md",
     "Automatización%2C Control y Robótica.md",
+    "Untitled.md",
+    "TensorFlow.md",
     "OneNote/Neuer Abschnitt 1",
     "OneNote/Schnelle Notizen",
     "OneNote",
