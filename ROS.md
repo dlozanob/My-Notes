@@ -26,6 +26,7 @@
 - _Nodos_ `rosnode`
 	- Información del nodo: `info`
 	- Detiene el nodo activo: `kill`
+		- Detener todos los nodos: `-a`
 	- Lista nodos activos: `list`
 	- Probar conectividad de un nodo: `ping`
 	- Limpiar info de registro de nodos inaccesibles: `cleanup`
