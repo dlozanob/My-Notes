@@ -6,7 +6,6 @@
 	- JUEVES 23 - 4 PM. Metrópolis (Dermatología)
 	- 15 Julio 4:30 pm
 	- Mainz
-	- JUEVES 16 - 11 AM: [Instituto nórdico](https://events.teams.microsoft.com/event/4f0862a9-ce52-4ed9-a33d-588dfbeb6072@c0539dc5-a784-46ff-8402-718cd7e48429)
 
 - [ ] **Deutsch**
 	- [ ] Libro
@@ -20,7 +19,6 @@
 - [ ] **Robótica**
 	- [ ] Lab 4: 3 Mayo 23:59
 	- [ ] Taller 3: 26 Mayo 23:59
-	- [ ] ros en 5 dias de robot engine: https://www.youtube.com/watch?v=DBFYZRMLr70&list=PLK0b4e05LnzZWg_7QrIQWyvSPX2WN2ncc
 
 - [ ] **Técnicas de Inteligencia Artificial**
 	- [ ] Revisar Segmentación
