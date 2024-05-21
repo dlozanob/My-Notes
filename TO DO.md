@@ -72,7 +72,6 @@
 		- [ ] Juan Carlos: 1, 2, 5
 		- [ ] David: 
 		- [ ] Andrés: 
-	- [ ] PLANOS: MARTES
 
 - [ ] **Termodinámica Técnica**
 	- [ ] Crear Cheatsheet
