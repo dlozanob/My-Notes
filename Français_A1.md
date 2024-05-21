@@ -836,3 +836,79 @@ Se cambia la raíz.
 	- Je étais en train de prenez de bus quand elle me a regarder
 4. Décrire une habitude, une routine dans la passé
 	- Quand j'avais 5 ans, j'aimais jouer avec mes jouets
+
+>[!Info]
+>_Verlan_ -> Lenguaje coloquial
+>
+>Ejemplos:
+>- Fou -> Ouf
+>- Femme -> Meuf
+>- Photo -> Tof
+>- Chien -> Iench
+
+
+
+## L'impératif
+
+- Partir
+	- _Tu_
+		- Tu pars / Pars !
+	- _Nos_
+		- Nous partons / Partons !
+	- _Vous_
+		- Vous partez / Partez !
+
+>[!Note]
+> Les verbes qui finir avec _-er_, se conjuigaent pour le $2^{eme}$ person sans _s_ :
+> - Tu regarde
+> - Tu écoute
+> - Tu va
+> Mais quand le verb est devant _en_ ou _y_, on n'elève pas la _s_ :
+>- Parles-en à Paul !
+>- Penses-y !
+>- Vas-y !
+
+### Impératif irrégulier
+
+- _Être_
+	- Sois tranquille
+	- Soyons prudents
+	- Soyex heureux
+- _Avoir_
+	- Aie confiance
+	- Ayons du corage
+	- Ayes l'obligeance
+- _Savoir_
+	- Sache que je suis là
+	- Sachons répondre
+	- Sachez accepter
+- _Vouloir_
+	- Veuillez patienter
+	- Veuillez insérer votre carte
+
+
+### Place des  pronoms compléments
+
+
+- _Forme affirmative_
+	- Écoute-les !
+	- Téléphone.-lui !
+	- Allons-y !
+	- Excuse-moi !
+	- Lève-toi !
+- _Forme négative_
+	- Ne me téléphone pas !
+	- Ne te lève pas !
+	- Ne t'inquiète pas !
+
+
+
+
+
+
+
+
+
+
+
+
