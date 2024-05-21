@@ -850,7 +850,7 @@ Se cambia la raíz.
 
 ## L'impératif
 
-- Partir
+- Ejemplo: (partir)
 	- _Tu_
 		- Tu pars / Pars !
 	- _Nos_
@@ -888,7 +888,6 @@ Se cambia la raíz.
 
 
 ### Place des  pronoms compléments
-
 
 - _Forme affirmative_
 	- Écoute-les !
