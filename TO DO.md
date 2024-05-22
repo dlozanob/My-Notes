@@ -70,6 +70,10 @@
 		- [ ] Juan Carlos: 1, 2, 5
 		- [ ] David: 
 		- [ ] Andrés: 
+	- [ ] Corregir
+		- [ ] Eje 1
+			- [ ] Cotas geométricas
+			- [ ] Tabla
 
 - [ ] **Termodinámica Técnica**
 	- [ ] Crear Cheatsheet
@@ -90,6 +94,7 @@
 
 - [ ] **Chem-E-Car**
 	- [ ] https://docs.google.com/spreadsheets/d/1D9gz1DudMb83q1xqA-Q_NW8IKMgSvX_5/edit#gid=552729931
+	- [ ] 5-25 ml 
 
 
 - [ ]  **Français**
