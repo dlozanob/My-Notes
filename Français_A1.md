@@ -800,8 +800,7 @@ Se cambia la raíz.
 	- Je serai
 
 
-## Le imparfait
-
+## L'imparfait
 
 - Gramática:
 	- Raíz -> $1^{ra}$ persona plural en presente $+$ Terminación
@@ -873,18 +872,19 @@ Se cambia la raíz.
 - _Être_
 	- Sois tranquille
 	- Soyons prudents
-	- Soyex heureux
+	- Soyez heureux
 - _Avoir_
 	- Aie confiance
 	- Ayons du corage
-	- Ayes l'obligeance
+	- Ayez l'obligeance
 - _Savoir_
 	- Sache que je suis là
 	- Sachons répondre
 	- Sachez accepter
 - _Vouloir_
-	- Veuillez patienter
-	- Veuillez insérer votre carte
+	- Veuille patienter
+	- Veuillons insérer votre carte
+	- Veuillez tranquille
 
 
 ### Place des  pronoms compléments
@@ -899,15 +899,4 @@ Se cambia la raíz.
 	- Ne me téléphone pas !
 	- Ne te lève pas !
 	- Ne t'inquiète pas !
-
-
-
-
-
-
-
-
-
-
-
 
