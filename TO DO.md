@@ -3,7 +3,7 @@
 ---
 
 - Main
-	- JUEVES 23 - 4 PM. Metrópolis (Dermatología)
+	- Cita Dermatología (Solicitar):  Julio 23
 	- 15 Julio 4:30 pm
 	- Mainz
 
