@@ -20,16 +20,6 @@
             }
           },
           {
-            "id": "f98a224a2240f2af",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md"
-              }
-            }
-          },
-          {
             "id": "31e9010d99c5181d",
             "type": "leaf",
             "state": {
@@ -41,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md",
+                "file": "TO DO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md",
+                "file": "TO DO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md"
+                "file": "TO DO.md"
               }
             }
           },
@@ -227,11 +216,11 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "f98a224a2240f2af",
+  "active": "8c90a9d7bdf3d7a1",
   "lastOpenFiles": [
+    "Excalidraw/blackboard.excalidraw.md",
     "TO DO.md",
     "Linux commands.md",
-    "Excalidraw/blackboard.excalidraw.md",
     "Excalidraw/attachments/Pasted Image 20240523211639_298.png",
     "Excalidraw/attachments/Pasted Image 20240523211050_299.png",
     "Excalidraw/attachments/Pasted Image 20240523185211_395.png",
