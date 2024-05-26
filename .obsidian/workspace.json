@@ -4,31 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "55afe91ee4e66fc7",
+        "id": "eae2da4fa462b491",
         "type": "tabs",
         "children": [
           {
-            "id": "8c90a9d7bdf3d7a1",
+            "id": "ce4ba7e49ae8cb77",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TO DO.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "31e9010d99c5181d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux commands.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -101,7 +85,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TO DO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TO DO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,9 +122,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "TO DO.md"
-              }
+              "state": {}
             }
           },
           {
@@ -187,7 +167,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"bipropia\"",
+                "query": "\"\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -200,8 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249.5,
-    "collapsed": true
+    "width": 249.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -216,11 +195,18 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "8c90a9d7bdf3d7a1",
+  "active": "ce4ba7e49ae8cb77",
   "lastOpenFiles": [
-    "Excalidraw/blackboard.excalidraw.md",
     "TO DO.md",
+    "Cybersec.md",
+    "Main.md",
+    "Deutsch_B1.md",
+    "Deutsch_A2.md",
     "Linux commands.md",
+    "Deutsch.md",
+    "Français_A1.md",
+    "Français.md",
+    "Excalidraw/blackboard.excalidraw.md",
     "Excalidraw/attachments/Pasted Image 20240523211639_298.png",
     "Excalidraw/attachments/Pasted Image 20240523211050_299.png",
     "Excalidraw/attachments/Pasted Image 20240523185211_395.png",
@@ -231,8 +217,6 @@
     "Excalidraw/whiteboard.excalidraw.md",
     "Diseño de ejes.md",
     "Diseño de Elementos de Máquinas I.md",
-    "Français_A1.md",
-    "Français.md",
     "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
     "Cap. 4. Análisis cualitativo de sistemas LTI.md",
     "Cap. 2. Criterios de diseño de control.md",
@@ -249,10 +233,6 @@
     "Javascript.md",
     "CSS.md",
     "Deutsch_A1.md",
-    "Deutsch.md",
-    "Diseño por fatiga.md",
-    "Ingeniería de Diseño.md",
-    "Main.md",
     "OneNote/Neuer Abschnitt 1",
     "OneNote/Schnelle Notizen",
     "OneNote",

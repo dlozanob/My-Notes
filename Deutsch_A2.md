@@ -311,7 +311,7 @@ Mit Ob-Sätzen kann man indirekte Ja/Nein Fragen bilden.
 	- Ich habe kein Geld, _deshalb_ gehe ich nicht ins Kino
 
 
-## Konjuktiv II
+## Konjunktiv II
 
 | |Werden| Sein | Haben |
 |-|-|-|-|

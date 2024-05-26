@@ -9,6 +9,9 @@
 
 - [Máquinas HTB](https://drive.google.com/drive/folders/10DeNBWcCe7BczIMIwyU6cDT0qGGvqh-3)
 - [Kali Umgestaltung](https://www.youtube.com/watch?v=h2Au2ebTXJc)
+- [Pentesting Course](https://books.spartan-cybersec.com/cppj)
+
+
 
 
 

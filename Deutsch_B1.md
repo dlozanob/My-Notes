@@ -141,7 +141,7 @@
 - Es ist schön, viel Urlaub machen _zu_ können
 
 
-## Konjuktiv II
+## Konjunktiv II
 
 | Präsens | Präteritum | Konjuktiv II |
 |-|-|-|
