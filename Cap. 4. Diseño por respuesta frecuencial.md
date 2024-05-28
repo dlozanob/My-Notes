@@ -644,9 +644,6 @@ Con respecto al margen de fase, la fase se aproxima a los siguientes valores de 
 ![](attachments/Pasted%20image%2020240527200041.png)
 
 
-
-
-
 ## Frecuencias de corte en un diagrama de Bode
 
 Las frecuencias de corte de diagrama de Bode de un sistema pueden ser vistas en su función de transferencia de la siguiente manera:
