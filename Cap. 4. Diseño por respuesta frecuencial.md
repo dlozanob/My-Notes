@@ -200,8 +200,11 @@ $$
 
 
 - El número de vueltas de $F(C_{1})$ alrededor del origen (sentido horario) es igual a $P_{F}$
-- El número de vueltas de $G_{l}(s)$ alrededor de $(-1, 0)$ (sentido anti-horario) es igual a $P_{G_{l}}$
-Donde $P_{G_{l}}$ es el número de polos en el semiplano derecho
+- El número de vueltas de $G_{l}(C_{1})$ alrededor de $(-1, 0)$ (sentido anti-horario) es igual a $P_{G_{l}}$
+
+Donde:
+- $P_{F}$ : Polos de $F(s)$ contenidos en $C_{1}$ 
+- $P_{G_{l}}$ : Polos de $G_{l}(s)$ contenidos en $C_{1}$
 
 
 ## Criterio de estabilidad de Nyquist
@@ -405,7 +408,7 @@ Se obtiene su lugar geométrico de las raices:
 ## Estabilidad Relativa
 
 
-El _margen de ganancia_ desplaza hacia la izquierda la curva.
+El _margen de ganancia_ desplaza hacia la derecha la curva.
 El _margen de fase_ rota la curva en sentido antihorario.
 
 ![](attachments/Pasted%20image%2020231023162135.png)
@@ -422,15 +425,9 @@ $$
 \end{align*}
 $$
 
-
 ![](attachments/Pasted%20image%2020231023163533.png)
 
 El punto azul tiene $0\,\,dB$. El margen de ganancia es cuánto tiene que desplazarse el punto rojo para llegar al azul.
-
-En diagrama de Bode:
-
-![](attachments/Pasted%20image%2020231023163913.png)
-
 
 - _Margen de fase_
 	- Ocurre en la frecuencia de cruce de ganancia
@@ -448,8 +445,7 @@ El punto azul tiene $0°$. El margen de fase es cuánto tiene que rotar el punto
 
 En diagrama de Bode:
 
-![](attachments/Pasted%20image%2020231023164003.png)
-
+![](attachments/Pasted%20image%2020240527172857.png)
 
 - $\omega_{p}$ : Frecuencia de cruce de fase
 - $\omega_{g}$ : Frecuencia de cruce de ganancia
@@ -463,8 +459,6 @@ $$
 	&=20\log_{10}\mid C(j\omega)\mid+20\log_{10}\mid G(j\omega)\mid
 \end{align*}
 $$
-
-
 
 >[!Note]
 >$G_{o}$ es estable sí y solo sí los márgenes de ganancia y fase son ambos positivos (no encierran al punto crítico)
@@ -551,9 +545,6 @@ Donde $e_{v} = \mid \frac{1}{k_{v}} \mid$ .
 
 - $e_{v}$ : Error de velocidad
 
-
-
-
 ---
 
 Se considera el siguiente sistema:
@@ -579,7 +570,8 @@ Al dejar el polinomio de esta forma, es claro notar:
 
 $$
 \begin{align*}
-	K_{v}=\lim_{ s \to 0 } sG_{l}(s)
+	K_{v}&=\lim_{ s \to 0 } sG_{l}(s) \\\\
+	&= \frac{2k}{5}
 \end{align*}
 $$
 
@@ -593,11 +585,11 @@ El ancho de banda se define como la frecuencia para la cual se alcanzan $3\,\,dB
 
 Un mayor ancho de banda hace que el sistema sea más rápido.
 
-
 >[!Note]
 >Los _picos de resonancia_ (picos en el dominio de la frecuencia), tienen una relación directa con los picos en el dominio del tiempo
 
 ---
+
 Considerar el sistema:
 
 $$
@@ -613,7 +605,6 @@ Requisitos:
 - Margen de fase $\geq 60°$
 - Margen de ganancia $\geq 12\,\,dB$
 - Frecuencia de cruce de ganancia lo mayor posible
-
 
 >[!Note]
 >Siempre se cumple que:
@@ -639,6 +630,23 @@ El diagrama de Bode en fase para todas las ganancias es el mismo:
 Pero al desplazarse $\omega_{c}$ a la derecha, nos desplazamos también a la derecha en el mismo diagrama de fase -> Se reduce $Pm$
 
 ---
+
+## Análisis de diagramas de Bode
+
+El diagrama de magnitud comienza en $0  dB$, cada polo introduce una pendiente de $-20\,\,dB$ y cada cero introduce una pendiente de $20\,\,dB$. 
+
+Con respecto al margen de fase, la fase se aproxima a los siguientes valores de acuerdo a la pendiente en la magnitud:
+
+- $-20\,\,dB$ -> $-90°$
+- $-40\,\,dB$ -> $-180°$
+- $-60\,\,dB$ -> $-270°$
+
+![](attachments/Pasted%20image%2020240527200041.png)
+
+
+
+
+
 ## Frecuencias de corte en un diagrama de Bode
 
 Las frecuencias de corte de diagrama de Bode de un sistema pueden ser vistas en su función de transferencia de la siguiente manera:
@@ -650,7 +658,6 @@ $$
 $$
 
 Donde $\omega_{i}$ son las frecuencias de corte.
-
 
 ---
 
@@ -725,7 +732,7 @@ La forma de $C_{1}(s)$ no varía $K_{v}$ .
 
 Entonces $\frac{1}{aT_{1}}> \frac{1}{T_{1}}$
 
-Diagrama de Bode:
+Diagrama de Bode de $C_{1}(s)$ :
 
 ![](attachments/Pasted%20image%2020231116204207.png)
 
@@ -745,8 +752,9 @@ Bajo esta suposición, la fase negativa que aporta $C_{1}$ es:
 
 $$
 \begin{align*}
-	C_{1}\left( j \frac{10}{aT_{1}} \right)&= \angle \left( 1+jaT_{1} \frac{10}{T_{1}} \right)-\angle \left( 1+jT_{1} \frac{10}{aT_{1}} \right) \\\\
-	&= \angle (1+j10)-\angle \left( 1+j \frac{10}{a} \right)
+	\angle\,\,C_{1}\left( j \frac{10}{aT_{1}} \right)&= \angle\,\, N_{C_{1}}\left( j \frac{10}{aT_{1}} \right) - \angle\,\, D_{C_{1}}\left( j \frac{10}{aT_{1}} \right) \\\\
+	&=  \angle \left( 1+jaT_{1} \frac{10}{aT_{1}} \right)-\angle \left( 1+jT_{1} \frac{10}{aT_{1}} \right) \\\\
+	&= \angle\,\,(1+j10)-\angle \left( 1+j \frac{10}{a} \right)
 \end{align*}
 $$
 
@@ -782,7 +790,7 @@ La planta es de tipo $1$, ya que, posee un único integrador, esto hace que el e
 $$
 \begin{align*}
 	K_{v} &= \lim_{ s \to 0 } s\cdot G_{l} \\\\
-	&= \lim_{ s \to 0 } k\cdot \frac{1}{s(s+1)} \\\\
+	&= \lim_{ s \to 0 } s\cdot \left( k\cdot \frac{1}{s(s+1)} \right) \\\\
 	&= k = 50
 \end{align*}
 $$
@@ -871,6 +879,8 @@ $$
 
 Las frecuencias asociadas son: $\frac{1}{T_{2}}$ y $\frac{1}{bT_{2}}$
 
+Se cumple: $b > 1$
+
 Diagrama de Bode en magnitud:
 
 ![](attachments/Pasted%20image%2020231101164731.png)
@@ -883,7 +893,7 @@ Se activa el polo en $\frac{1}{T_{2}}$, este posee $-20\,\,dB/dec$, por lo que s
 ![](attachments/Pasted%20image%2020231101164825.png)
 
 >[!Note]
->El compensador en adelanto suma directamente fase (es un beneficio), pero en algunas situaciones el compensador en atraso no se puede ajustar
+>El compensador en adelanto suma directamente fase (es un beneficio). En algunas situaciones el compensador en atraso no se puede ajustar
 
 ![](attachments/Pasted%20image%2020231101163832.png)
 
@@ -907,7 +917,7 @@ $$
 
 $$
 \begin{align*}
-	C_{2}(j\omega_{m})&=  \frac{1+bT_{2}\left( j\omega \right)}{1+T_{2}j\omega} \\\\
+	C_{2}(j\omega_{m})&=  \frac{1+bT_{2}\left( j\omega_{m} \right)}{1+T_{2}j\omega_{m}} \\\\
 	&= \frac{1+bT_{2}\left( j \frac{1}{T_{2}}  \frac{1}{\sqrt{ b }} \right)}{1+T_{2}\left( j \frac{1}{T_{2}} \frac{1}{\sqrt{ b }} \right)} \\\\
 	&= \frac{1+j\sqrt{ b }}{1+ j \frac{1}{\sqrt{ b }}}
 \end{align*}
@@ -915,7 +925,7 @@ $$
 
 $$
 \begin{align*}
-	\phi_{m} &=  \angle C_{2}(j\omega_{m}) \\\\
+	\phi_{m} &=  \angle\,\, C_{2}(j\omega_{m}) \\\\
 	&= \tan ^{-1}\sqrt{ b } - \tan ^{-1}\left( \frac{1}{\sqrt{ b }} \right)
 \end{align*}
 $$
@@ -940,7 +950,7 @@ Entonces:
 
 $$
 \begin{align*}
-	\tan\phi &= \frac{\sqrt{ b }-\frac{1}{\sqrt{ b }}}{1+1} \\\\
+	\tan\phi_{m} &= \frac{\sqrt{ b }-\frac{1}{\sqrt{ b }}}{1+1} \\\\
 	&= \frac{\sqrt{ b }-\frac{1}{\sqrt{ b }}}{2}
 \end{align*}
 $$

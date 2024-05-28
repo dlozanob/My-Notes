@@ -672,7 +672,7 @@ $$
 \end{align*}
 $$
 
-Sin embargo, el término $k_{d}\cdot s$ no es impropio, por lo que puede aumentar el ruido.
+Sin embargo, el término $k_{d}\cdot s$ es impropio, por lo que puede aumentar el ruido.
 
 Para solucionar esto, se sustituye por la ecuación de transferencia:
 
@@ -682,7 +682,7 @@ $$
 \end{align*}
 $$
 
-Donde $N$ es el _factor de selectividad_ del derivador. Además, el $3^{er}$ término ahora es impropio.
+Donde $N$ es el _factor de selectividad_ del derivador. Además, el $3^{er}$ término ahora es propio.
 
 Esta sustitución es válida para un cierto rango operacional.
 

@@ -366,7 +366,7 @@ El error de aceleración es:
 
 $$
 \begin{align*}
-	e_{ss} &= \frac{\beta_{2} - \alpha_{2}}{\alpha_{2}} \\\\
+	e_{ss} &= \frac{\beta_{2} - \alpha_{2}}{\alpha_{0}} \\\\
 	&= \frac{7-6}{6} = \frac{1}{6}
 \end{align*}
 $$

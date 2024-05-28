@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "eae2da4fa462b491",
+        "id": "06ea8dea9d60d9c4",
         "type": "tabs",
         "children": [
           {
-            "id": "ce4ba7e49ae8cb77",
+            "id": "9b90268ff4e06670",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Cap. 4. Diseño por respuesta frecuencial.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -85,6 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Cap. 4. Diseño por respuesta frecuencial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Cap. 4. Diseño por respuesta frecuencial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +128,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Cap. 4. Diseño por respuesta frecuencial.md"
+              }
             }
           },
           {
@@ -180,7 +188,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249.5
+    "width": 249.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,18 +204,34 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "ce4ba7e49ae8cb77",
+  "active": "9b90268ff4e06670",
   "lastOpenFiles": [
+    "attachments/Pasted image 20240527200041.png",
     "TO DO.md",
+    "Cap. 4. Diseño por respuesta frecuencial.md",
+    "Excalidraw/whiteboard.excalidraw.md",
+    "attachments/Pasted image 20240527172857.png",
+    "Excalidraw/attachments/Pasted Image 20240527172824_416.png",
+    "Excalidraw/attachments/Pasted Image 20240527172808_598.png",
+    "Cap. 4. Análisis cualitativo de sistemas LTI.md",
+    "Señales y Sistemas II.md",
+    "Cap. 3. Solución de las ecuaciones de estado de sistemas LTI.md",
+    "Cap. 2. Criterios de diseño de control.md",
+    "Control.md",
+    "Excalidraw/blackboard.excalidraw.md",
+    "Cap. 5. Diseño con ecuaciones de estado.md",
+    "Cap. 3. Lugar geométrico de las raices.md",
+    "Cap. 1. Realimentación.md",
+    "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
+    "Cap. 1. Modelos de sistemas lineales y no lineales.md",
+    "Linux commands.md",
     "Cybersec.md",
     "Main.md",
     "Deutsch_B1.md",
     "Deutsch_A2.md",
-    "Linux commands.md",
     "Deutsch.md",
     "Français_A1.md",
     "Français.md",
-    "Excalidraw/blackboard.excalidraw.md",
     "Excalidraw/attachments/Pasted Image 20240523211639_298.png",
     "Excalidraw/attachments/Pasted Image 20240523211050_299.png",
     "Excalidraw/attachments/Pasted Image 20240523185211_395.png",
@@ -214,25 +239,9 @@
     "Excalidraw/attachments/Pasted Image 20240523182616_302.png",
     "Excalidraw/attachments/Pasted Image 20240523182301_304.png",
     "Excalidraw/attachments/Pasted Image 20240523182245_301.png",
-    "Excalidraw/whiteboard.excalidraw.md",
     "Diseño de ejes.md",
     "Diseño de Elementos de Máquinas I.md",
-    "Cap. 2. Modelos de sistemas LTI en tiempo continuo.md",
-    "Cap. 4. Análisis cualitativo de sistemas LTI.md",
-    "Cap. 2. Criterios de diseño de control.md",
-    "Control.md",
     "Git commands.md",
-    "Excalidraw/attachments/Pasted Image 20240517110406_021.png",
-    "Excalidraw/attachments/Pasted Image 20240517213501_558.png",
-    "Excalidraw/attachments/Pasted Image 20240517210538_747.png",
-    "OPPORTUNITÄTEN.md",
-    "ROS.md",
-    "Uniones.md",
-    "Prépositions.md",
-    "Other.md",
-    "Javascript.md",
-    "CSS.md",
-    "Deutsch_A1.md",
     "OneNote/Neuer Abschnitt 1",
     "OneNote/Schnelle Notizen",
     "OneNote",

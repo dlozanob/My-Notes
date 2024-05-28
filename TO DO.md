@@ -63,6 +63,7 @@
 			- [ ] Diseño de observadores en Matlab
 	- [ ] Tarea 1 ("Lewis", CAS/SAS)
 	- [ ] Matlab ver: hinfsyn()
+	- [ ] https://jamboard.google.com/d/1-K0zgrk0BwLdBpJEUdssYY2y-DdtDqwQQP7po3QKhgk/viewer?f=0
 
 - [ ] **Dibujo de Máquinas**
 	- [ ] Proyecto aplicado:
@@ -72,8 +73,23 @@
 		- [ ] Andrés: 
 	- [ ] Corregir
 		- [ ] Eje 1
-			- [ ] Cotas geométricas
-			- [ ] Tabla
+			- [ ] Vista engrane
+			- [ ] Invertir redondeo chaflán
+		- [ ] Rodamiento
+			- [ ] Bolas real
+			- [ ] Distancia entre bolas
+			- [ ] Quitar vista frontal
+			- [ ] Poner referencia como nota
+		- [ ] Tapa
+			- [ ] Plano cada uno
+			- [ ] Añadir columna
+			- [ ] Reducir tamaño lista de items
+			- [ ] Corregir cotas
+			- [ ] Quitar letra
+		- [ ] Acople
+			- [ ] Añadir columna descripción
+			- [ ] Enumerar arriba a abajo tabla
+			- [ ] Dimension corregir (linea simetria)
 
 - [ ] **Termodinámica Técnica**
 	- [ ] Crear Cheatsheet
