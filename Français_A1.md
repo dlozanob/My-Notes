@@ -35,7 +35,7 @@
 - Travailler (_travaiié_)
 - Ville (_vile_)
 
-- _Combinación_
+- _Liaison_
 	- Six animaux -> [sisanimó]
 	- Vous en -> [vuson]
 	- Deux immenses -> [dusimons]
@@ -295,11 +295,11 @@ Se pone acento grave cuando:
 4. _eur → euse_
 	- Un coiffeur → une coiffeuse
 	- Un contrôleur aérien → une contrôleuse aérienne
-2. _teur → trice / teuse_
+5. _teur → trice / teuse_
 	- Un instructeur → une instructrice
 	- Un directeur → une directrice
 	- Un chanteur → une chanteuse
-3. _ien / ion → ienne / ionne_
+6. _ien / ion → ienne / ionne_
 	- Un technicien → une technicienne
 	- Un informaticien → une informaticienne
 
@@ -316,7 +316,7 @@ Se pone acento grave cuando:
 - _Quoi / Qu'est-ce que_ - What?
 - _Qui_ - Who?
 
-Formas de formularlas:
+Maneras de formularlas:
 
 - _Cerradas_
 	- _Normal (neutral)_
@@ -340,7 +340,7 @@ Si el pronombre no es personal, se debe añadir con el verbo:
 - Quand _les enfants_ vont-_ils_ déjeuner?
 
 >[!Note]
->Cuando la palabra _quoi_ está seguida de un verbo -> _que_
+>Cuando la palabra _quoi_ está después de un verbo -> _que_
 >Ex: Tu veux _quoi_? -> _Que_ veux-tu?
 
 >[!Note]
@@ -383,7 +383,7 @@ Si el pronombre no es personal, se debe añadir con el verbo:
 - _ne.. ni.. ni.._ / _ne.. pas.. ni.._ -> Varias negaciones
 	- Je _ne_ travaille _ni_ le samedi _ni_ le dimanche
 	- Je _ne_ connais _pas_ Rome _ni_ Tokyo
-- _ne.. nulle.. part_
+- _ne.. nulle.._ -> A ningún/a
 	- Je _ne_ vais _nulle_ part
 
 
@@ -575,21 +575,6 @@ Usos:
 	- poisson
 
 
-## Les verbes modaux
-
-|            | Devoir  | Pouvoir | Vouloir |
-| ---------- | ------- | ------- | ------- |
-| Je         | dois    | peux    | veux    |
-| Tu         | dois    | peux    | veux    |
-| Il/Elle/On | doit    | peut    | veut    |
-| Nous       | devons  | pouvons | voulons |
-| Vous       | devez   | pouvez  | voulez  |
-| Ils/Elles  | doivent | peuvent | veulent |
-
-- Ils _doivent_ regarder
-- Nous _pouvons_ aller
-- Je _veux_ du chocolat
-
 ## Demonstrative adjectives
 
 |              | Singulier | Pluriel |
@@ -608,7 +593,6 @@ Usos:
 		- -là
 		- -là-bas
 
----
 
 ## Escribir cartas (informales)
 
@@ -624,279 +608,27 @@ Usos:
 	- Je t'embrasse,
 4. Ton ami Daniel
 
----
-
-
-## Le futur proche
-
-- Estructura: _Sujet_ + _Aller_ + _Infinitif_
-
-- Ejemplos
-	- Nous allons manger des croissants
-	- Je vais voyager en Europa
-	- Elle va t'aider à pouvoir marcher
+>[!Note]
+>Utiliser les prochaines mots pour structurer les idées:
+>- D'abord
+>- Ensuite
+>- Puis
+>- Enfin
 
 >[!Note]
->En este tiempo, evitar normalmente la _aliason_
->Ej: Tu vas embaucher
-
->[!Note]
->Especificar que sucederá justo esa vez (_-ci_):
->Tu vas tomber amoreaux à nouveau, mais cette fois avec ta secrétaire -> ...cette _fois-ci_ ...
-
-
->[!Note]
->Se usa _qui_ o _que_ de acuerdo a lo que haya después:
->- _Qui_ + _verbe_
->- _Que_ + _Sujet_
-
-
-## Passé composé
-
-- Estructura: _Sujet + être/avoir + participe passé_
-
-
-### Participe passé
-
-- _-er -> -é_
-	- Manger -> Mangé
-	- Commencer -> Commencé
-
-- _-uire -> -uit_
-	- Conduire -> Counduit
-	- Construire -> Construit
-	- Traduire -> Traduit
-
-- _-re -> -i, -is, -it_
-	- Mettre -> Mis
-	- Suivre -> Suivi
-	- Dire -> Dit
-	- Prendre -> Pris
-
-- Terminados en _u/û_
-	- Pouvoir -> Pu
-	- Vouloir -> Voulu
-	- Lire -> Lu
-	- Voir -> Vu
-	- Devoir -> Dû
-	- Savoir -> Su
-	- Boire -> Bu
-	- Venir -> Venu
-	- Vivre -> Vécu
-
-- Irregulares
-	- Avoir -> Eu
-	- Faire -> Fait
-	- Être -> Été
-	- Naître -> Né
-	- Mourir -> Mort
-
->[!Note]
->La conjugación es igual para todos los pronombres
-
-
-### Être ou Avoir
-
-- Être
-	- Aller
-	- Retourner
-	- Mourir
-	- Naître
-	- Venir
-	- Passer
-	- Entrer
-	- Rentrer
-	- Sortir
-	- Monter
-	- Descendre
-	- Tomber
-	- Devenir
-	- Revenir
-	- Partir
-	- Rester
-	- Arriver
-
-Los otros tienen _Avoir_.
-
->[!Note]
->Todos los verbos pronominales son con _Être_
-
-- Ejemplos:
-	- Hier j'ai achêté un ordinateur
-	- Nous nous sommes habillé dans la maison
-	- Je n'ai pas mangé de burgers
-	- Nous ne sommes pas partis à 9h
-
-
->[!Info]
->Con respecto a formalidad: Néanmoins > Cependant > Toutefois (todas significan 'sin embargo')
-
-
-## Pronoms (COD, COI)
-
-- COD -> Complement Objet Direct
-- COI -> Complement Objet Indirect
-
-| Sujet | Objet direct | Objet indirect |
-| ----- | ------------ | -------------- |
-| je    | me           | me             |
-| tu    | te           | te             |
-| il    | le           | lui            |
-| elle  | la           | lui            |
-| nous  | nous         | nous           |
-| vous  | vous         | vous           |
-| ils   | les          | leur           |
-| elles | les          | leur           |
-
-- J'achète _la_ voiture -> Direct
-- Mes parents _me_ donnent de l'argent -> Indirect
-
-
-## La comparaison
-
-|          | $-$            | $=$             | $+$           |
-| -------- | -------------- | --------------- | ------------- |
-| Nom      | moins de.. que | autant de.. que | plus de.. que |
-| Verbe    | moins que      | autant que      | plus que      |
-| Adjectif | moins.. que    | aussi.. que     | plus.. que    |
-| Adverbe  | moins.. que    | aussi.. que     | plus.. que    |
-
-- Paul mange _autant de_ fruits _que_ Nicolas
--  Nicolas mange _moins que_ Paul
-- Sylvie est _plus_ gourmande _que_ Cédric
-- Sylvie cuisine _aussi_ bien _que_ Cédric
-
-
-## Le futur simple
-
-- _Conjugaison_
-	- Infinitif + Terminaison
-
-| Pronom      | Terminaison |
-| ----------- | ----------- |
-| Je          | ai          |
-| Tu          | as          |
-| Il / Elle   | a           |
-| Nous        | ons         |
-| Vous        | ez          |
-| Ils / Elles | ont         |
-
->[!Note]
->Pour les verbes qui finit avec _e_, on enlève la _e_ 
-
-- _Exemples :_
-	- Manger -> Je mangerai
-	- Croire -> Nous croirons
-	- Prendre -> Ils prendront
-
-
-### Verbes irréguliers
-
-Se cambia la raíz.
-
-- Avoir -> Aur
-	- Nous aurons
-- Être -> Ser
-	- Je serai
-
-
-## L'imparfait
-
-- Gramática:
-	- Raíz -> $1^{ra}$ persona plural en presente $+$ Terminación
-
-|                | Terminaison |
-| -------------- | ----------- |
-| Je             | ais         |
-| Tu             | ais         |
-| Il / Elle / On | ait         |
-| Nous           | ions        |
-| Vous           | iez         |
-| Ils / Elles    | aient       |
-
-- Ejemplos:
-	- Je voulais
-	- Nous habitions
-	- Elle voyait
-	- Nous avions
-	- Ils prenaient
-
->[!Warning]
->Excepción con _être_ : Ét + Terminaison
-
-
-### Utilisation
-
-1. Décrire une situation dans la passé
-	- Le mois derner, nous avions beaucoup de devoirs
-2. Décrire une personne/méteo
-	- Il faisait beau à Bogotá
-3. Décrire une action avant une autre
-	- Je étais en train de prenez de bus quand elle me a regarder
-4. Décrire une habitude, une routine dans la passé
-	- Quand j'avais 5 ans, j'aimais jouer avec mes jouets
-
->[!Info]
->_Verlan_ -> Lenguaje coloquial
->
->Ejemplos:
->- Fou -> Ouf
->- Femme -> Meuf
->- Photo -> Tof
->- Chien -> Iench
+>Relier les idées:
+>- ... et ...
+>- ... parce que ...
+>- ... donc ...
+>- ... mais ...
 
 
 
-## L'impératif
-
-- Ejemplo: (partir)
-	- _Tu_
-		- Tu pars / Pars !
-	- _Nos_
-		- Nous partons / Partons !
-	- _Vous_
-		- Vous partez / Partez !
-
->[!Note]
-> Les verbes qui finir avec _-er_, se conjuigaent pour le $2^{eme}$ person sans _s_ :
-> - Tu regarde
-> - Tu écoute
-> - Tu va
-> Mais quand le verb est devant _en_ ou _y_, on n'elève pas la _s_ :
->- Parles-en à Paul !
->- Penses-y !
->- Vas-y !
-
-### Impératif irrégulier
-
-- _Être_
-	- Sois tranquille
-	- Soyons prudents
-	- Soyez heureux
-- _Avoir_
-	- Aie confiance
-	- Ayons du corage
-	- Ayez l'obligeance
-- _Savoir_
-	- Sache que je suis là
-	- Sachons répondre
-	- Sachez accepter
-- _Vouloir_
-	- Veuille patienter
-	- Veuillons insérer votre carte
-	- Veuillez tranquille
 
 
-### Place des  pronoms compléments
 
-- _Forme affirmative_
-	- Écoute-les !
-	- Téléphone.-lui !
-	- Allons-y !
-	- Excuse-moi !
-	- Lève-toi !
-- _Forme négative_
-	- Ne me téléphone pas !
-	- Ne te lève pas !
-	- Ne t'inquiète pas !
+
+
+
+
 

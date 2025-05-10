@@ -44,7 +44,7 @@
 - _Ob_
 	- Ich bin nicht sicher, _ob_ ich nächstes Jahr in Urlaub fahre
  - _Obwohl_
-	 - Sie fuhre am Wochenende an den Strand, _obwohl_ das Wetter schlecht war
+	 - Sie fuhren am Wochenende an den Strand, _obwohl_ das Wetter schlecht war
 - _Seitdem_
 - _Sodass_
 	- Gut sind breite Radwege, _sodass_ Platz für langsame und schnelle Fahrer ist
@@ -124,7 +124,7 @@
 - Sich kümmern *
 
 >[!Note]
->*: Diese Verben kann man 'zu' oder nein benutzen
+>*: Beim diesen Verben kann man sich entscheiden, 'zu' zu verwenden oder nicht
 
 - _Bsp_
 	- Ich _sehe_ die Kinder im Park spielen
@@ -270,7 +270,7 @@
 
 - _zwar...aber_
 - _je...desto/umso_
-- _nicht nur...sondern auch..._
+- _nicht nur...sondern auch... / neben...auch_
 ![](attachments/Pasted%20image%2020231121113532.png)
 
 - _Bsp_

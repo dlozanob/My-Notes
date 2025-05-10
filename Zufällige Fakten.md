@@ -7,7 +7,7 @@ Jahre man liest als:
 - NC:
 	- $[0; 2000]$ : Separate Nummer
 		- 1996 - Neunzehnhundert sechsundneunzig
-	- $[0; \infty)$ : Vollständige Nummer
+	- $[2000; \infty)$ : Vollständige Nummer
 
 ---
 
@@ -25,6 +25,7 @@ Im -> In dem
 Ins -> In das
 Zum -> Zu dem
 Zur -> Zu der
+Vorm -> Vor dem
 
 ---
 
@@ -100,10 +101,6 @@ Wem -> Dativ
 
 ---
 
-Für wen haben Sie mich gehalten? -> ¿Por quién me tomas?
-
----
-
 Wann wollen wir uns treffen? Heute Abend?  
 Indikativ: _**Wollen wir uns heute Abend treffen?**_  
 Konjunktiv II: _**Wir könnten uns heute Abend treffen.**_  
@@ -146,10 +143,6 @@ Ich bin der Meinung, dass in der Stadt die Mieten höher sind.
 
 Die medizinische Versorgung ist in der Stadt besser.
 Ein weiterer Vorteil ist in der Stadt die medizinische Versorgung besser.
-
----
-
-by far the best -> du hast den schönsten hintern weit und breit
 
 ---
 

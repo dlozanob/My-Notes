@@ -5,5 +5,6 @@
   "newLinkFormat": "relative",
   "useMarkdownLinks": true,
   "attachmentFolderPath": "./attachments",
-  "defaultViewMode": "preview"
+  "defaultViewMode": "preview",
+  "readableLineLength": true
 }

@@ -369,6 +369,30 @@ $$
 \end{align*}
 $$
 
+Notar que:
+
+$$
+\begin{align*}
+	\dot{x} = A_{c}\cdot x
+\end{align*}
+$$
+
+Aplicando transformada de Laplace:
+
+$$
+\begin{align*}
+	sX = A_{c}\cdot X
+\end{align*}
+$$
+
+$$
+\begin{align*}
+	(sI - A_{c})\cdot X = 0
+\end{align*}
+$$
+
+Se hallan los valores propios:
+
 $$
 \begin{align*}
 	\det(sI-A_{c})&= \begin{pmatrix}
@@ -384,7 +408,7 @@ $$
 \end{align*}
 $$
 
-El polinomio deseado (de acuerdo a los polos elegidos), se iguala a esta determinante:
+El polinomio deseado (de acuerdo a los polos elegidos - valores propios deseados), se iguala a esta determinante:
 
 $$
 \begin{align*}
@@ -455,11 +479,11 @@ Reemplazando $u$ :
 $$
 \begin{align*}
 	\dot{x}&= Ax+B(-kx) \\\\
-	&= \underbrace{ (A-Bk) }_{ (*) }x
+	&= \underbrace{ (A-Bk) }_{ A_{c} }x
 \end{align*}
 $$
 
-- $(*)$ : Matriz de transición de estado del sistema de control
+- $A_{c}$ : Matriz de transición de estado del sistema de control
 
 
 - _Condición necesaria y suficiente para que una planta sea controlable :_
@@ -476,7 +500,7 @@ B & AB & A^{2}B & \dots & A^{n-1}B
 $$
 
 >[!Note]
->Si una planta es controlable, se le pueden poner los valores propios que uno quiera a $(A-Bk)$
+>Si una planta es controlable, se le pueden poner los valores propios que uno quiera a $A_{c}$
 
 ---
 
@@ -753,7 +777,7 @@ Aplicando transformada de Laplace:
 $$
 \begin{align*}
 	&s^{2}\hat{E}_{1}(s) - s\hat{E}_{1}(0) - \dot{\hat{E}}_{1}(0) + l_{1}(s\hat{E}_{1}(s) - \hat{E}_{1}(0)) + l_{0}\hat{E}_{1}(s) = 0 \\\\
-	&(s^{2}+l_{1}s + l_{0})\hat{E}(s)=s\hat{E}_{1}(0)+\dot{\hat{E}}_{1}(0)+l_{1}\hat{E}_{1}(0)
+	&(s^{2}+l_{1}s + l_{0})\hat{E}_{1}(s)=s\hat{E}_{1}(0)+\dot{\hat{E}}_{1}(0)+l_{1}\hat{E}_{1}(0)
 \end{align*}
 $$
 
@@ -791,7 +815,8 @@ Además:
 
 $$
 \begin{align*}
-	\lim_{ t \to \infty } \hat{e}_{2}(t)=0
+	&\lim_{ t \to \infty } (x_{2}-\hat{x}_{2})= 0 \\\\
+	&\lim_{ t \to \infty } \hat{e}_{2}(t)=0
 \end{align*}
 $$
 

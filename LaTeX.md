@@ -201,61 +201,62 @@ As we saw in Equation \ref{eq:example}, the slope of the line is represented by 
 
 ## Math syntax
 
-| Description | Command | Example |
-|-|-|-|
-| Vector | `\vec{}` | $\vec{F}$ |
-| Unit vector | `\hat{}` | $\hat{k}$ |
-| Subindex | `x_{}` | $x_{1}$ |
-| Superindex | `x^{}` | $x^{5}$ |
-| Plus minus | `\pm` | $\pm$ |
-| Fractions | `\frac{}{}` | $\frac{8}{5}$ |
-| Root | `\sqrt[<index>]{}` | $\sqrt[4]{6}$ |
-| Logarithm | `\log_{<base>}<argument>` | $\log_{4}6$ |
-| Line break | `\cr` |  |
-| Box an equation | `\boxed{}` | $\boxed{B_{b} = \frac{\mu_{0}NI}{l}}$ |
-| Less equal | `\leq` | $\leq$ |
-| Greater equal | `\geq` | $\geq$ |
-| Triangle | `\triangle` | $\triangle$ |
-| Product dot | `\cdot` | $\cdot$ |
-| Variable cancelation | `\bcancel{}` | $\bcancel{x}$ |
-| Approximation | `\approx` | $\approx$ |
-| Similar | `\sim`  | $\sim$ |
-| Not equal | `\neq` | $\neq$ |
-| Equivalent | `\equiv` | $\equiv$ |
-| Diameter | `\varnothing` | $\varnothing$ |
-| Angle 1 | `\angle` | $\angle$ |
-| Angle 2 | `\measuredangle` | $\measuredangle$ |
-| Angle 3 | `\sphericalangle` | $\sphericalangle$ |
-| Constant | `\propto` | $\propto$ |
-| Evaluate | `\biggr\rvert` | $\biggr\rvert_{X=0}$ |
-| Physic units | `\unit{<unit>}` | `\unit{km*h}` |
-| Scientific notation | `\num{}` | `\num{3e-10}` |
-| For all | `\forall` | $\forall$ |
-| Exists | `\exists` | $\exists$ |
-| Doesn't exists | `\inexists` | $\nexists$ |
-| Belongs | `\in` | $\in$ |
-| Doesn't belongs | `\notin` | $\notin$ |
-| Right arrow | `\rightarrow` | $\rightarrow$ |
-| Left arrow | `\leftarrow` | $\leftarrow$ |
-| CW | `\circlearrowright` | $\circlearrowright$ |
-| CCW | `\circlearrowleft` | $\circlearrowleft$ |
-| Limit | `\lim_{<variable> \to <value>}` | $\lim_{x \to 0}$ |
-| Infinite | `\infty` | $\infty$ |
-| Summe | `\sum_{<var> = <inf lim>}^{<var> = <sup lim>}` | $\sum_{k = 1}^{k = n}$ |
-| Defined integral | `\int_{<inf lim>}^{sup lim}` | $\int_{0}^{\pi}$ |
-| Surface integral | `\oint` | $\oint$ |
-| Newton's 1st derivative | `\dot{}` | $\dot{x}$ |
-| Newton's 2nd derivative | `\ddot{}` | $\ddot{x}$ |
-| Partial derivative | `\partial` | $\partial$ |
-| Gradient | `\nabla` | $\nabla$ |
-| Exclusive sum | `\oplus` | $\oplus$ |
-| Fourier transform | `\mathscr{F}` | $\mathscr{F}$ |
-| Laplace transform  | `\mathscr{L}` | $\mathscr{L}$ |
-| Cross product | `\times` | $\times$ |
-| Cancel | `\cancel{}` | $\cancel{ x }$ |
-| Underbrace | `\underbrace{<var>}_{<desc>}` | $\underbrace{ Q }_{output}$ |
-| Space | `\,` | $15\,pT$ |
-| Checkmark | `\checkmark` | $\checkmark$ |
+| Description             | Command                                        | Example                               |
+| ----------------------- | ---------------------------------------------- | ------------------------------------- |
+| Vector                  | `\vec{}`                                       | $\vec{F}$                             |
+| Unit vector             | `\hat{}`                                       | $\hat{k}$                             |
+| Subindex                | `x_{}`                                         | $x_{1}$                               |
+| Superindex              | `x^{}`                                         | $x^{5}$                               |
+| Plus minus              | `\pm`                                          | $\pm$                                 |
+| Fractions               | `\frac{}{}`                                    | $\frac{8}{5}$                         |
+| Root                    | `\sqrt[<index>]{}`                             | $\sqrt[4]{6}$                         |
+| Logarithm               | `\log_{<base>}<argument>`                      | $\log_{4}6$                           |
+| Line break              | `\cr`                                          |                                       |
+| Box an equation         | `\boxed{}`                                     | $\boxed{B_{b} = \frac{\mu_{0}NI}{l}}$ |
+| Less equal              | `\leq`                                         | $\leq$                                |
+| Greater equal           | `\geq`                                         | $\geq$                                |
+| Triangle                | `\triangle`                                    | $\triangle$                           |
+| Product dot             | `\cdot`                                        | $\cdot$                               |
+| Variable cancelation    | `\bcancel{}`                                   | $\bcancel{x}$                         |
+| Approximation           | `\approx`                                      | $\approx$                             |
+| Similar                 | `\sim`                                         | $\sim$                                |
+| Not equal               | `\neq`                                         | $\neq$                                |
+| Equivalent              | `\equiv`                                       | $\equiv$                              |
+| Diameter                | `\varnothing`                                  | $\varnothing$                         |
+| Angle 1                 | `\angle`                                       | $\angle$                              |
+| Angle 2                 | `\measuredangle`                               | $\measuredangle$                      |
+| Angle 3                 | `\sphericalangle`                              | $\sphericalangle$                     |
+| Constant                | `\propto`                                      | $\propto$                             |
+| Evaluate                | `\biggr\rvert`                                 | $\biggr\rvert_{X=0}$                  |
+| Physic units            | `\unit{<unit>}`                                | `\unit{km*h}`                         |
+| Scientific notation     | `\num{}`                                       | `\num{3e-10}`                         |
+| For all                 | `\forall`                                      | $\forall$                             |
+| Exists                  | `\exists`                                      | $\exists$                             |
+| Doesn't exists          | `\inexists`                                    | $\nexists$                            |
+| Belongs                 | `\in`                                          | $\in$                                 |
+| Doesn't belongs         | `\notin`                                       | $\notin$                              |
+| Right arrow             | `\rightarrow`                                  | $\rightarrow$                         |
+| Left arrow              | `\leftarrow`                                   | $\leftarrow$                          |
+| CW                      | `\circlearrowright`                            | $\circlearrowright$                   |
+| CCW                     | `\circlearrowleft`                             | $\circlearrowleft$                    |
+| Limit                   | `\lim_{<variable> \to <value>}`                | $\lim_{x \to 0}$                      |
+| Infinite                | `\infty`                                       | $\infty$                              |
+| Summe                   | `\sum_{<var> = <inf lim>}^{<var> = <sup lim>}` | $\sum_{k = 1}^{k = n}$                |
+| Defined integral        | `\int_{<inf lim>}^{sup lim}`                   | $\int_{0}^{\pi}$                      |
+| Surface integral        | `\oint`                                        | $\oint$                               |
+| Newton's 1st derivative | `\dot{}`                                       | $\dot{x}$                             |
+| Newton's 2nd derivative | `\ddot{}`                                      | $\ddot{x}$                            |
+| Partial derivative      | `\partial`                                     | $\partial$                            |
+| Gradient                | `\nabla`                                       | $\nabla$                              |
+| Exclusive sum           | `\oplus`                                       | $\oplus$                              |
+| Number domains          | `\mathbb{C}`                                   | $\mathbb{C}$                          |
+| Fourier transform       | `\mathscr{F}`                                  | $\mathscr{F}$                         |
+| Laplace transform       | `\mathscr{L}`                                  | $\mathscr{L}$                         |
+| Cross product           | `\times`                                       | $\times$                              |
+| Cancel                  | `\cancel{}`                                    | $\cancel{ x }$                        |
+| Underbrace              | `\underbrace{<var>}_{<desc>}`                  | $\underbrace{ Q }_{output}$           |
+| Space                   | `\,`                                           | $15\,pT$                              |
+| Checkmark               | `\checkmark`                                   | $\checkmark$                          |
 
 ## Special characters
 
@@ -369,6 +370,9 @@ Enumerate sections:
 Crearla en un archivo `.tex` .
 Cargarla en _main_ con `\include{Portada}` .
 
+>[!Note]
+>`\include{}` hace un salto de página después del mismo. Utilizar `\input{}` para no generar un salto de página
+
 
 ## Tables
 
@@ -423,7 +427,7 @@ $$
 ## Images
 
 ```latex
-\begin{figure}[h!]
+\begin{figure}[H]
     \centering
     \includegraphics[width = <sizeScale> \textwidth]{<image path>}
     \caption{<description>}
@@ -434,6 +438,8 @@ $$
 To adjust the image width to the page width use `width = \linewidth`
 
 Reference figures by: `\ref{fig:<label>}`
+
+If somehow the images are not displayed in place, try in documentclass: `documentclass[floatsintext]`
 
 
 ## List items

@@ -7,7 +7,7 @@
 - [Français_B1](Français_B1.md)
 - [Français_B2](Français_B2.md)
 
-## External Links
+## Liens externes
 
 - [Prépositions](Prépositions.md)
 - [Playlist](https://open.spotify.com/playlist/1gGHZrRIYDFAdoPsWrL53G?si=2c4f7521d9174e87)
@@ -15,15 +15,24 @@
 - [Radio France](https://www.radiofrance.fr)
 - [Livre](https://drive.google.com/drive/folders/18EQ62SsC42tsSqfvpflXn__v4A198yhN)
 - [Biblioteque](https://francophoniedesameriques.com/vos-services/outils/bibliotheque-des-ameriques)
-- [Vocabulario](https://www.languageguide.org/french/vocabulary/)
-- [Juego vocabulario](https://babadum.com)
-- [Practicar pronunciación](https://voicenotebook.com/prononce.php) (Chrome)
-- [Diccionario de pronunciación](https://forvo.com)
-- [Practicar conjugación de verbos](https://www.cestfacile.eu/fr/verbes/pratiquer/temps.html#11:avoir/1)
+- [Vocabulaire](https://www.languageguide.org/french/vocabulary/)
+- [Jeux de vocabulaire](https://babadum.com)
+- [Pratiquer la prononciation](https://voicenotebook.com/prononce.php) (Chrome)
+- [Dictionnaire de prononciation](https://forvo.com)
+- [Pratiquer la conjugaison des verbes](https://www.cestfacile.eu/fr/verbes/pratiquer/temps.html#11:avoir/1)
 - [Lyrics training](https://lyricstraining.com)
 - [France Education International](https://www.france-education-international.fr)
-- Chaînes Youtube: [Karambolage](https://www.youtube.com/@karambolagefr), [Français avec Pierre](https://www.youtube.com/@FrancaisavecPierre)
+- Chaînes Youtube 
+	- [Karambolage](https://www.youtube.com/@karambolagefr)
+	- [Français avec Pierre](https://www.youtube.com/@FrancaisavecPierre)
+	- [InterFrance](https://www.youtube.com/@FranceInter)
 - [Contenu grammatical DELF A1](https://apprendslefrancais.wordpress.com/contenu-grammatical-delf-a1/)
+- [Simulateur de entretiens](https://www.apec.fr/tous-nos-outils/fiche-outils/simulateur--sentrainer-a-lentretien-de-recrutement.html?gad_source=1&gclid=Cj0KCQjwpNuyBhCuARIsANJqL9ONRtIpOPUr-gr2Q9uAsnJ35u45Bw6BDyF_Cn3APoh_rzNlgFbHbVUaAl36EALw_wcB&gclsrc=aw.ds#xtor=SEC-6014-GOO-[Candidat_recrutement]-[]--[simuler%20un%20entretien])
+- [Connecteurs Logiques](https://jouerfle.blogspot.com/2012/09/les-connecteurs-logiques.html)
+
+
+
+
 
 
 

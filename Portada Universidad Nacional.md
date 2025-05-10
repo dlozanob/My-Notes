@@ -1,5 +1,7 @@
 ![](attachments/Escudo%20UN.png)
 
+![](attachments/Pasted%20image%2020250202175853.png)
+
 ```LaTeX
 %Entorno para portadas
 

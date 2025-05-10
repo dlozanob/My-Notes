@@ -383,7 +383,7 @@ p#item {
 }
 ```
 
-Then `<p class="select" id="item">` will be yellow. Now suppose the HTML document looks like this:
+Then `<p class="select" id="item">` will be blue. Now suppose the HTML document looks like this:
 
 ```html
 <p class="select" id="item" style="color: black">Hallo Welt!</p>
@@ -457,13 +457,13 @@ Here the blue color will rule over the `<span class="menu" id="fish">Text</span>
 ### Relative lengths
 
 
-- _em_ : Relative to the current font-size of the element.
+- _em_ : Relative to the nearest ancestor element.
 
 - _ex_ : Relative to the x-height of the current font.
 
 - _ch_ : Relative to the width of the "0" character
 
-- _rem_ : Relative to the root element's size (browser base font-size. 16px)
+- _rem_ : Relative to the root element's size (font size of HTML tag - Default 16px)
 
 - _vw_ : _1vw_ = 1% of viewport's width
 
@@ -475,6 +475,14 @@ Here the blue color will rule over the `<span class="menu" id="fish">Text</span>
 
 - _%_ : Relative to the current font-size
 
+- _fr_ : Fraction (used on grids)
+
+
+>[!Note]
+>However _rem_ is relative to the default size (16px), the browser settings could change this default value, so _rem_ will be relative to the new value
+
+>[!Info]
+>The $62.5\%$ method is used to simplify the math while using rem, since the root size is set to 10px by using the $62.5\%$ of the font size as the root size
 
 
 ## Math functions
@@ -484,6 +492,9 @@ Here the blue color will rule over the `<span class="menu" id="fish">Text</span>
 - `max()` : Returns the maximum value form a comma-separated list
 
 - `min()` : Returns the minimum value form a comma-separated list
+
+- `repeat(<times>, <item>)` : Replicates a value
+	- Ex. `repeat(3, 1fr)` -> `1fr 1fr 1fr`
 
 ```css
 div.section {
@@ -777,6 +788,8 @@ For color theory related information go to [Colors](###Colors).
 	- _right_
 	- _center_
 	- _justify_
+	- _start_ : Relative to the direction of the language (ES -> Left)
+	- _end_ : Relative to the direction of the language (ES -> Right)
 
 - `text-align-last` : Align the last line of a text.
 	- _left_
@@ -824,7 +837,9 @@ Ex. _wavy 5% blue overline_
 	- _wavy_
 	- _none_
 
-- `text-decoration-thickness` : Ex. _4px_, _25%_, _auto_
+- `text-decoration-thickness` :
+	- CSS units
+	- _auto_
 
 - `text-transform` :
 	- _uppercase_
@@ -833,11 +848,15 @@ Ex. _wavy 5% blue overline_
 
 - `text-indent` : Specify indentation of the first line. Ex. _15px_
 
-- `letter-spacing`  : Space between characters. Ex. _25px_, _-2px_
+- `letter-spacing`  : Space between characters.
+	- CSS units
 
-- `line-height` : Space between lines. Ex. _15px_, _1.8_
+- `line-height` : Space between lines. 
+	- CSS units
+	- _normal_
 
-- `word-spacing` : Space between words. Ex. _25px_, _-2px_
+- `word-spacing` : Space between words.
+	- CSS units
 
 - `white-space` :
 	- _nowrap_ : The text doesn't wrap, means it's all in a single line
@@ -868,13 +887,14 @@ It's possible to merge many shadows: `text-shadow: 5px 2px 5px blue, 2px 5px 15p
 
 ### Font properties
 
-The 5 generic font families:
+The 6 generic font families:
 
 - __Serif__ : Stroke edges. Elegance.
 - __Sans-serif__ : Smooth edges. Minimalistic.
 - __Monospace__ : Mechanical look.
 - __Cursive__ : Handwriting.
 - __Fantasy__ : Decorative purposes.
+- _System-ui_ : Original for OS UI's (Windows -> Segoe UI font) 
 
 Each of them contain different font names.
 
@@ -887,6 +907,8 @@ Ex. _"Lucida console", Monaco, monospace_
 >[!Note]
 >Notice there could be more than one font name, this is because some systems don't support some fonts, therefore, a fallback font is declared in case this happens.
 >
+>The browser will choose the first declared font if it supports it
+>
 >For mobile purposes, _Georgia (serif)_ is suggested.
 
 - `font-style` :
@@ -895,8 +917,9 @@ Ex. _"Lucida console", Monaco, monospace_
 	- _oblique_
 
 - `font-weight` :
-	- _normal_
-	- _bold_
+	- _normal_ (400)
+	- _bold_ (700)
+	- Numeric (min. 100 ~ max. 900)
 
 - `font-variant` : Specifies wheter or not the text should be converted to small-caps font.
 	- _normal_
@@ -906,7 +929,7 @@ Ex. _"Lucida console", Monaco, monospace_
 
 >[!Note]
 >The default font size is _16px_ = _1em_
->.
+>
 >Viewport (_vw_) is the browser window size _1vw_ = _1%_ of viewport width
 
 
@@ -944,12 +967,19 @@ Ex. _url('myMarker.gif')_
 	- _none_ : Don't display in the document. Ex. _script_
 	- _flex_ : Elements inside stack side by side
 	- _inline-block_ : Same as _inline_, but respects top and bottom margins
+	- _inline-flex_
+	- _flow-root_ : All elements are contained within the parent container
 
 - `visibility` : Shows an element but the layout remains there
 	- _visible_
 	- _hidden_
 
 - `opacity` : Takes a number between 0.0 and 1.0. Ex. _0.4_
+
+
+>[!Note]
+>- _Block Elements (div, article, section)_ : Take the full space of its container, so the height will take up the space available
+>- _Inline Elements_ : Takes up the paces of the content. So in this case, adding _widht_ and _high_ properties to these kind of elements won't have any effect. The height is then shorter than the one of a block element
 
 
 
@@ -959,7 +989,7 @@ Ex. _url('myMarker.gif')_
 	- _static_ :  Default value, positioned according to the normal flow of the document
 	- _relative_ : Will be adjusted relative to its _static_ position as 0 coordinates
 	- _fixed_ : Stays always in the same screen position. Takes absolute coordinates
-	- _absolute_ : Will be adjusted relative to its container position as 0 coordinates
+	- _absolute_ : Will be adjusted relative to its container position as 0 coordinates.
 	 However, if the container is _static_, the element takes absolute coordinates
 	- _sticky_ : Positioned as _relative_, but scrolling makes the element stick to the screen walls
 
@@ -967,6 +997,8 @@ Ex. _url('myMarker.gif')_
 >[!Note]
 >Use `position: -webkit-sticky;` on Safari for sticky elements
 
+>[!Note]
+>An _absolute_ positioned element will be placed relatively to the nearest container element of type `position: relative`. The relative element by default is _body_
 
 >[!Note]
 >The `position` property works along with the `top`, `bottom`, `left`, `right` properites, they won't work if the position property is not set (_static_ position by default)
@@ -1057,6 +1089,130 @@ h1 {
 ```
 
 Every _h1_ will have a counter.
+
+
+## Layouts
+
+
+### Flexbox
+
+_Terminology:_
+
+- _Flex Container_ : The container of the flex elements
+- _Flex Item_ : Element within the flex box
+- _Main Axis_ : Display direction of the flex items
+- _Cross Axis_ : Perpendicular to the main axis
+
+![](attachments/Pasted%20image%2020240818151929.png)
+
+Apply to the container:
+
+- `display: flex` : Flex container acts as a block element
+- `display: inline-flex` : Flex container acts as an inline element
+
+_Properties:_
+
+- `flex-flow` : Shorthand
+	- `flex-direction` : Direction of the generated content
+		- `row`
+		- `column`
+		- `row-reverse`
+		- `column-reverse`
+	- `flex-wrap`
+		- `wrap` : If elements don't fit, they'll show in the next line
+		- `nowrap`
+		- `wrap-reverse` : The next elements wrap to the opposite side
+
+![](attachments/Pasted%20image%2020240818152539.png)
+
+- `flex` : Shorthand
+	- `flex-grow`
+	- `flex-shrink`
+	- `flex-basis`
+		- `auto` : Flex items are the same size as their content
+		- `content-box`
+		- `border-box` : Doesn't includes the padding border
+		- Css units : Each flex item will take up that value in widht/high (depending on the main axis direction)
+
+![](attachments/Pasted%20image%2020240818153130.png)
+
+- `justify-content` : Aligns flex items on the main axis
+	- `flex-start`
+	- `flex-end`
+	- `center`
+	- `space-between`
+	- `space-around`
+	- `space-evenly`
+	- `stretch`
+- `align-items` : Aligns flex items on the cross axis
+	- `flex-start`
+	- `flex-end`
+	- `center`
+	- `space-between`
+	- `space-around`
+	- `space-evenly`
+	- `stretch`
+
+![](attachments/Pasted%20image%2020240818173040.png)
+
+
+### Grid
+
+_Terminology:_
+
+- _Grid Container_ : Parent element
+- _Grid Item_ : Child element
+
+![](attachments/Pasted%20image%2020240818175321.png)
+
+Apply to the container:
+
+- `display: grid` : Acts like a block element
+- `display: inline-grid` : Acts like an inline element
+
+Position of grid elements:
+
+![](attachments/Pasted%20image%2020240818175441.png)
+
+_Explicit grid properties:_
+
+- `grid-template-columns`
+	- Ex. `25% 50px 10%` -> 3 columns with those widths each
+- `grid-template-rows`
+	- Ex. `10px 5%` -> 2 rows with those heights each
+
+The fraction unit `fr` :
+
+![](attachments/Pasted%20image%2020240818175808.png)
+
+
+Suppose $n$ grid items were defined within the grid element. But in the _explicit grid_ properties only $n-2$ items were declared. Then, the remaining $2$ elements are part of the _implicit grid_, hence the _implicit grid properties_ will take effect over these last $2$ elements.
+
+![](attachments/Pasted%20image%2020240818180608.png)
+
+_Implicit grid properties:_
+
+- `grid-auto-rows`
+- `grid-auto-columns`
+
+>[!Note]
+>- Implicit grid properties are used like explicit grid properties
+>- Implicit grid is used for dynamically grid, where new grid items may be created
+
+
+_Other properties:_
+
+- `gap` : Shorthand. Adds a gutter instead of the usual grid lines
+	- Css units
+		- Ex. `gap: 10px` -> 10px gutter
+		- Ex. `gap: 10px 5px` -> 10px gutter for rows and 5px gutter for columns
+	- Longhand
+		- `row-gap`
+		- `column-gap`
+
+
+>[!Note]
+>The `gap` property is also functional in flexboxes
 
 
 
@@ -1280,6 +1436,9 @@ article {
 }
 ```
 
+>[!Note]
+>Use: `<link rel="preconnect" href="https://fonts.googleapis.com">` before embedding the link to preconnect to the Google Fonts page
+
 For setting effects attach to the element a class whose name is `font-effect-` + _effect name_.
 
 ```html
@@ -1324,9 +1483,19 @@ To declare a font use the `@font-face` rule:
 ```css
 @font-face {
 	font-family: mySpecialFont;
-	src: url(special_font.woff);
+	src: url(special_font.woff) format("woff");
 }
 ```
+
+
+``` CSS
+@font-face {
+	font-family: mySpecialFont;
+	src: url(special_font.woff),
+		 url(special_font.woff2);
+}
+```
+
 
 Once the font family is defined, it can be used over any text.
 
@@ -1390,11 +1559,16 @@ While satisfying certain style condition CSS code is executed. Use `max-` and `m
 
 ### Clearfix hack
 
+Before:
 
 ![](attachments/Pasted%20image%2020230119020915.png)
 
 
+After:
+
 ![](attachments/Pasted%20image%2020230119020930.png)
+
+Apply to the parent:
 
 ```css
 .clearfix::after {

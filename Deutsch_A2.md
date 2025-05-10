@@ -13,7 +13,7 @@
 - _Perfekt_
 	- Ich habe nicht ferngesehen, weil ich H.A gemacht habe
 - _Trennbare Verben_
-	- Ich gehe früh ins Bett, weil ich morgen früh aufstehen
+	- Ich gehe früh ins Bett, weil ich morgen früh aufstehe
 
 
 ## Steigerung des Adjektivs
