@@ -69,21 +69,16 @@ To set an icon:
 4. `git add .` - `git commit -m ''`
 5. `git config --global credential.helper store`
 6. `git push`
-7. User and token request (it won't request again in the future)
+7. User and password (token) request (it won't request again in the future)
 
+>[!Note] 
+>**Generating a token:**
+>Github > Pick User icon > Settings > Dev Settings > Token -> Generate _Token_
 
-- Use repository
-	- Github > Pick User icon > Settings > Dev Settings > Token -> Generate _Token_
+>[!Note]
+>**Using Git in Obsidian:**
+>Enable Community Plugins > Download and enable *Obsidian Git* plugin > Run `Create Backup` command 
 
->[!Warning]
->When `git push` __DO ONLY USE__ the  generated _token_ as password
->
-
-- Implement with Obsidian
-	- Switch remote URL from HTTPS to SSH
-		- `git remote set-url origin git@github.com:OWNER/REPOSITORY.git`
-
-![](attachments/Pasted%20image%2020240505190438.png)
 
 ## Change hostname
 
