@@ -1,6 +1,5 @@
 # Main
 
-
 ## Index
 
 - [Automatización, Control y Robótica](Automatización%2C%20Control%20y%20Robótica.md)
