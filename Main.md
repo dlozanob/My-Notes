@@ -15,6 +15,7 @@
 - [Deutsch](Deutsch.md)
 - [Français](Français.md)
 - [Enigma](Enigma.md)
+- [[Cloud Computing]]
 
 
 ## Tools

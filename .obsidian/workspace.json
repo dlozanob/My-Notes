@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "c8a3f694578fed90",
+        "id": "2269c77a540848f4",
         "type": "tabs",
         "children": [
           {
-            "id": "096cbed4f58efc08",
+            "id": "9067dc9894537e23",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git commands.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Git commands"
-            }
-          },
-          {
-            "id": "7b6d26ca5e1aa19c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux commands.md",
+                "file": "Main.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linux commands"
+              "title": "Main"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 489.5,
     "collapsed": true
   },
   "right": {
@@ -251,27 +236,47 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "7b6d26ca5e1aa19c",
+  "active": "9067dc9894537e23",
   "lastOpenFiles": [
+    "Cloud Computing.md",
+    "CLF-02.md",
+    "Abrechnung, Preisgestaltung und Support.md",
+    "Amazon Web Services - CLF-C02/4. Abrechnung, Preisgestaltung und Support/Notes/notes.md",
+    "Amazon Web Services - CLF-C02/3. Cloud Technologie und -Services/Notes/notes.md",
+    "Cloud Technologie und -Services.md",
+    "Amazon Web Services - CLF-C02/2. Sicherheit und Compliance/Notes/notes.md",
+    "Sicherheit und Compliance.md",
+    "Cloud Konzepte.md",
+    "Amazon Web Services - CLF-C02/1. Cloud Konzepte/Abschlusszertifikat_AWS Cloud Practitioner CLFC02 1 CloudKonzepte.pdf",
+    "Amazon Web Services - CLF-C02/1. Cloud Konzepte/Notes/notes.md",
+    "Main.md",
     "Git commands.md",
     "Linux commands.md",
+    "Amazon Web Services - CLF-C02/Linke für die Vorbereitung.txt",
+    "Amazon Web Services - CLF-C02/Cheat Sheet for AWS Certified Cloud Practitioner.pdf",
+    "Amazon Web Services - CLF-C02/AWS-Certified-Cloud-Practitioner_Exam-Guide_C02.pdf",
+    "Amazon Web Services - CLF-C02/4. Abrechnung, Preisgestaltung und Support/Notes/image.png",
+    "Amazon Web Services - CLF-C02/4. Abrechnung, Preisgestaltung und Support/Notes/image-9.png",
+    "Amazon Web Services - CLF-C02/4. Abrechnung, Preisgestaltung und Support/Notes/image-8.png",
+    "Amazon Web Services - CLF-C02/4. Abrechnung, Preisgestaltung und Support/Notes/image-7.png",
+    "Amazon Web Services - CLF-C02/4. Abrechnung, Preisgestaltung und Support/Notes/image-6.png",
+    "Amazon Web Services - CLF-C02/4. Abrechnung, Preisgestaltung und Support/Notes/image-5.png",
+    "Amazon Web Services - CLF-C02/4. Abrechnung, Preisgestaltung und Support/Notes/image-46.png",
+    "Amazon Web Services - CLF-C02/4. Abrechnung, Preisgestaltung und Support/Notes/image-45.png",
+    "Amazon Web Services - CLF-C02/4. Abrechnung, Preisgestaltung und Support/Notes/image-44.png",
+    "Amazon Web Services - CLF-C02/4. Abrechnung, Preisgestaltung und Support/Notes/image-43.png",
+    "Amazon Web Services - CLF-C02/4. Abrechnung, Preisgestaltung und Support/Notes",
+    "Amazon Web Services - CLF-C02/4. Abrechnung, Preisgestaltung und Support/Abschlusszertifikat_AWS Cloud Practitioner CLFC02 4 Abrechnung Preisgestaltung und Support.pdf",
+    "Amazon Web Services - CLF-C02/4. Abrechnung, Preisgestaltung und Support",
+    "Amazon Web Services - CLF-C02/3. Cloud Technologie und -Services/Notes",
+    "Amazon Web Services - CLF-C02/3. Cloud Technologie und -Services/Abschlusszertifikat_AWS Cloud Practitioner CLFC02 3 CloudTechnologie und Services.pdf",
+    "Amazon Web Services - CLF-C02/3. Cloud Technologie und -Services",
     "Untitled.md",
     "others.md",
-    "attachments/Pasted image 20250428200211.png",
-    "attachments/Pasted image 20250202175853.png",
-    "attachments/Pasted image 20250114092950.png",
-    "attachments/Pasted image 20250114092703.png",
-    "attachments/Pasted image 20250114092544.png",
-    "attachments/Pasted image 20250114092323.png",
-    "attachments/Pasted image 20250114092157.png",
-    "attachments/Pasted image 20250114092040.png",
-    "attachments/Pasted image 20250114091833.png",
-    "attachments/Pasted image 20250114091748.png",
     "Python.md",
     "MEIN PROJEKT.md",
     "Deutsch C1.md",
     "Deutsch B2.md",
-    "Main.md",
     "Other.md",
     "Excalidraw/Drawing 2024-08-10 16.50.04.excalidraw.md",
     "Linked note.md",
@@ -279,26 +284,6 @@
     "TO DO.md",
     "ROS.md",
     "Français_A1.md",
-    "Français.md",
-    "OPPORTUNITÄTEN.md",
-    "Prépositions.md",
-    "Javascript.md",
-    "CSS.md",
-    "Deutsch_A1.md",
-    "Deutsch.md",
-    "Diseño por fatiga.md",
-    "Diseño de Elementos de Máquinas I.md",
-    "Ingeniería de Diseño.md",
-    "OneNote/Neuer Abschnitt 1",
-    "OneNote/Schnelle Notizen",
-    "OneNote",
-    "AuxFolder/IX Semestre.lnk",
-    "IX Semestre.lnk",
-    "IX Semestre - Shortcut.lnk",
-    "Local Backup.rar",
-    "Local Notes Backup.rar",
-    "attachments",
-    "Excalidraw/attachments",
     "Untitled.canvas"
   ]
 }
