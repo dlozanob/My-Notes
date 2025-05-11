@@ -66,6 +66,11 @@ To set an icon:
 1. Install git
 2.  `git config --global user.name <user_name>`
 3. `git config --global user.email <user_email>`
+4. `git add .` - `git commit -m ''`
+5. `git config --global credential.helper store`
+6. `git push`
+7. User and token request (it won't request again in the future)
+
 
 - Use repository
 	- Github > Pick User icon > Settings > Dev Settings > Token -> Generate _Token_
@@ -76,7 +81,7 @@ To set an icon:
 
 - Implement with Obsidian
 	- Switch remote URL from HTTPS to SSH
-		- `remote set-url origin git@github.com:OWNER/REPOSITORY.git`
+		- `git remote set-url origin git@github.com:OWNER/REPOSITORY.git`
 
 ![](attachments/Pasted%20image%2020240505190438.png)
 
