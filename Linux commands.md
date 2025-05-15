@@ -1,6 +1,6 @@
 # Linux commands
 
-## General
+## General Commands
 
 - Print current working directory: `pwd`
 - List directories: `ls`
@@ -42,9 +42,110 @@
 	- Print the names of the files containing matches: `grep -l`
 	- Print line numbers for matching lines: `grep -n`
 	- Show not matching lines: `grep -v`
+- Count words, lines, etc. in a file: `wc <file>`
+	- Example: Counting lines -> `wc -l /etc/passwd`
+	- Example: Counting words -> `wc -w /etc/passwd`
+- Sorting: `sort <file>`
+	- Sort numerically: `sort -n`
+	- Descend order: `sort -r`
+	- Ignore leading blanks: `sort -b`
+	- Fold case: `sort -f`
+	- Count frequency: `sort -c`
+- Removes adjacent duplicated lines: `uniq`
+	- Count repeated: `uniq -c`
 
 
+## Directioning Operators
 
+### The redirection operator
+
+The result of the left side is stored in the file of the right side.
+
+Example:
+`head -n 5 seasonal/summer.csv > top.csv`
+
+### The pipe operator
+
+Chaining functions. The content of the left side is used as input for the right side.
+
+Example:
+`head -n 5 seasonal/summer.csv | tail -n 3`
+
+## Shell Wildcards
+
+- \* -> Completes words
+- ? -> Matches a single character
+- [] -> Matches characters inside the brackets
+- {} -> Matches comma separated patterns
+
+## Environment Variables
+
+- User's directory (/home/\<user\>): `$HOME`
+- Current working directory (pwd command): `$PWD`
+- Which shell program is being used (/bin/bash): `$SHELL`
+- User's ID: `$USER`
+- Name of the operative system: `$OSTYPE`
+
+>[!Note]
+>Use `set` to list all environment variables.
+>Using `set | head -n 100` is suggested
+
+>[!Note]
+>Show the environment variable value: `echo $<env_variable>`
+
+
+## Shell Variables
+
+User created variables.
+
+- Example: 
+	1. `my_var="Hallo Welt"`
+	2. `echo $my_var` -> `Hallo Welt`
+
+## Shell Loops
+
+- Basic structure: `for <variable> in <list>; do <algorithm>; done`
+
+- Examples:
+	- `for filetype in gif png jpg; do echo $filetype; done`
+	- `for filename in seasonal/*.csv; do echo $filename; done`
+	- `for f in seasonal/*.csv; do echo $f; head -n 2 $f | tail -n 1; done`
+
+
+## Editing Files
+
+### Nano
+
+- Edit a file: `nano <file>`
+- Hotkeys
+	- Delete a line: CTRL + K
+	- Un-delete a line: CTRL + U
+	- Save the file: CTRL + O
+	- Exit the editor: CTRL + X
+
+
+## Shell Scripting
+
+- Create a sheel script: `tousch <script>.sh`
+- Run a shell script: `bash <script> <arguments>`
+- Arguments inside a file: `@a`
+- Comments: `#<comment>`
+---
+- Example:
+
+1. *my_script.sh*
+
+```shell
+for filename in $@
+do
+	head -n 2 $filename | tail -n 1
+	tail -n 1 $filename
+done
+```
+
+2. `bash my_script.sh seasonal/summer.csv`
+3. The content of `seasonal/summer.csv` is used as an input for the shell script
+---
 
 
 ## Useful Commands
