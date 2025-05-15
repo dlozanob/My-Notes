@@ -3,7 +3,8 @@
 ## Chapter 1
 ### Section 1
 - [ICANN](https://lookup.icann.org/lookup)
-- [Find subdomains](https://spyse.com/)
+- [Find subdomains](https://spyse.com/) *(deprecated)*
+	- [Find subdomains](https://pentest-tools.com/information-gathering/find-subdomains-of-domain)
 - [Google's internal links](https://www.google.com/robots.txt)
 - [Shodan](https://www.shodan.io/)
 - [OSINT Framework](https://osintframework.com/)

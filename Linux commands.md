@@ -2,6 +2,53 @@
 
 ## General
 
+- Print current working directory: `pwd`
+- List directories: `ls`
+	- Filtering by string: `ls <string>`
+	- Recursive listing: `ls -R`
+	- Label files: `ls -F`
+		- / -> If directory
+		- * -> If runnable program
+- Change directory: `cd`
+- Copy: `cp <file/folder>`
+	- Duplicate: `cp <file> <duplicated_file>`
+- Move: `mv <file_1> <file_n> <destination_path>`
+	- Rename: `mv <file> <new_name>`
+- Remove file: `rm <file>`
+	- Recursively remove a directory: `rm -R <directory>`
+- Remove empty directories: `rmdir <directory>`
+- Make directory: `mkdir`
+- Concatenate (print file's content): `cat <file>`
+- Show single page of file: `less <file>`
+	- Go to the next page: SPACEBAR
+	- :n -> Go to the next file
+	- :p -> Go to the previous file
+	- :q -> Quit
+- Print 10 first lines of a file: `head <file>`
+	- Specify number of lines: `head -n <num_of_lines> <file>`
+- Print last 10 lines of a file: `tail <file>`
+	- Specify number of lines: `tail -n <num_of_lines> <file>`
+	- Print all but *n* first lines: `tail -n +<num_of_lines> <file>`
+- Show tool manual: `man <tool>`
+- Print selected section from a data file: `cut <file>`
+	- Example: Slecting columns 2-5, 8 using ',' as delimiter->`cut -f 2-5,8 -d ,`
+- Print command history: `history`
+	- Run the *nth* command: `!<n>`
+	- Run the last used *command name* command: `!<command_name>`
+- Select lines containing the given string: `grep <string> <file>`
+	- Print a count of matching lines: `grep -c`
+	- Don't print the names of files when searching multiple files: `grep -h`
+	- Ignore casing: `grep -i`
+	- Print the names of the files containing matches: `grep -l`
+	- Print line numbers for matching lines: `grep -n`
+	- Show not matching lines: `grep -v`
+
+
+
+
+
+## Useful Commands
+
 - Set language to default Spanish -> `setxkbmap -layout latam`
 - Install a .deb file -> `sudo dpkg -i <package_file>.deb`
 - Uninstall package -> `sudo apt-get remove <package name>`
