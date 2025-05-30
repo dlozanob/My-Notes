@@ -280,6 +280,40 @@ Se pone acento grave cuando:
 | -au / -eau / -eu | +x      | Chapeau / Oiseau / Jeu |
 
 
+## Aller a quelque part
+
+### En
+
+- **Féminins** *→ généralement finissent en* **-e** :
+	- Je vais **en France**.
+	- Il part **en Italie**, **en Espagne**, **en Belgique**.
+- **Singuliers + voyelle initiale** :
+    - Nous allons **en Iran**, **en Irak**, **en Afghanistan**.
+- **Avec certaines régions ou provinces féminines** :
+	- Elle habite **en Provence**, **en Bretagne**.
+- **Avec les moyens de transport fermés (où on est "dans" quelque chose) :**
+	- Je vais **en voiture**, **en train**, **en avion**.
+
+### À
+
+- **Avec les villes** :
+	- Je vais **à Paris**, **à Tokyo**, **à Montréal**.
+- **Avec les pays masculins ne commençant pas par une voyelle (rare mais existe si pas d’article)** :
+	- Il va **à Cuba**, **à Madagascar**.
+- **Avec les îles (souvent)** :
+	- Elle va **à Malte**, **à Chypre**, **à Hawaï**.
+- **Avec les moyens de transport ouverts** (où on est "sur") :
+	- Je vais **à vélo**, **à moto**, **à cheval**, **à pied**.
+
+### Au / Aux
+
+- *Si un pays est masculin et commence par une consonne, on utilise "au".*
+	- Je vais **au Canada**, **au Japon**, **au Brésil**.
+
+- *Si un pays est pluriel, on utilise "aux"* :
+	- Il part **aux États-Unis**, **aux Philippines**.
+
+
 ## Règles de formation des professions
 
 1. _Masculin + e_
@@ -508,7 +542,7 @@ Si el pronombre no es personal, se debe añadir con el verbo:
 - Vous allez _jusqu'au bout_ de la rue, et le métro est _juste en face_
 
 >[!Note]
->_par ici_ = _par le quartier_
+>_par ici_ -> _par le quartier_
 
 
 ## Pronom Y
