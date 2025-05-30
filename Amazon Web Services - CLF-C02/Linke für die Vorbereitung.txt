@@ -1,0 +1,11 @@
+Schedule the Test: https://aws.amazon.com/certification/certified-cloud-practitioner/
+
+1300 Q&A: https://www.youtube.com/watch?v=iivUQJ8T3XI
+
+Mock Tests:
+	- https://cloudmocktest.com/
+	- https://portal.tutorialsdojo.com/product-category/free-practice-exams/
+
+Other Resources:
+	- https://tutorialsdojo.com/aws-cheat-sheets/
+	- https://github.com/jsbonso/aws-certified-cloud-practitioner-clf-c02/tree/main

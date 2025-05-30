@@ -2,7 +2,11 @@
   "accentColor": "#fff700",
   "theme": "obsidian",
   "cssTheme": "Cyber Glow",
+<<<<<<< HEAD
   "baseFontSize": 15,
+=======
+  "baseFontSize": 18,
+>>>>>>> origin/main
   "baseFontSizeAction": true,
   "translucency": true,
   "enabledCssSnippets": [

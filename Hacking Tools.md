@@ -16,6 +16,7 @@ There are 65535 port numbers (2^16).
 179: BGP (Boder Gateway Protocol --> Used for establish connections between large networks)
 443: HTTPS (Hypertext Transfer Protocol Secure --> Secure and encrypted version of http)
 500: ISAKMP (Internet Security Association and Key Management Protocol --> Is part of the process of setting up secure IPsec connections)
+3306: Maria DB
 3389: RDP (Remote Desktop Protocol --> Allows users to connect their computers from another device)
 
 More information at:  (IANA --> Internet Assigned Numbers Authority) https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.xhtml

@@ -20,6 +20,52 @@ dig ns1.google.com
 >[!Note]
 >A domain can have many servers, therefore, the `ns<num>` could take the number of the servers. E.g: `ns1`, `ns2`, etc
 
+This tools provide information about the server, such as:
+- *Domain Information*
+	- Name
+	- Registry Domain ID
+	- Nameservers
+	- Dates
+		- Registry Expiration
+		- Updated
+		- Created
+- *Contact Information*
+	- Registrant, Administrative, Technical
+		- Name
+		- Organization
+		- Email
+		- Phone
+		- Fax
+		- Mailing Address
+- *Registrar Information*
+	- Name
+	- IANA ID
+	- URL
+- *DNSSEC Information*
+	- Delegation SIgned
+
+Use Cases:
+- Security Monitoring (phishing, malware)
+- Troubleshooting Network Issues
+- Performance Optimization
+- Preventing SPoofing & Hijacking
+- Domain Management
+
+
+Example for: `forums.kali.org`
+
+![](attachments/Pasted%20image%2020250511154523.png)
+
+![](attachments/Pasted%20image%2020250511160133.png)
+
+Obtaining directly the IP address and doing a reverse lookup:
+
+![](attachments/Pasted%20image%2020250511160409.png)
+
+>[!Note]
+>`nslookup` is an alternative to `dig`
+
+ 
 ### Identifying subdomains
 
 With _Spyse_ it's possible to find subdomains.
@@ -88,10 +134,11 @@ intext:"chocolate" // Results must include the word 'chocolate'
 
 _Ncat_ can be used to connect to a port, or become a server hosting on a port.
 
+WIth the `-l` flag is possible to listen and gather information incoming from the selected port of the selected system.
+
 It behaves like a real time chat:
 
 ![](attachments/Pasted%20image%2020230720031430.png)
-
 
 
 
