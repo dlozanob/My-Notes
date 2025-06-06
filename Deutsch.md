@@ -5,8 +5,8 @@
 - [Deutsch A1](Deutsch_A1.md)
 - [Deutsch A2](Deutsch_A2.md)
 - [Deutsch B1](Deutsch_B1.md)
-- [[Deutsch B2]]
-- [[Deutsch C1]]
+- [[Deutsch_B2]]
+- [[Deutsch_C1]]
 
 
 ## Externe Links

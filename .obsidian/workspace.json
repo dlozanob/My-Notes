@@ -4,35 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "4e840f50b5d24b08",
+        "id": "380b4ea30ceef2ac",
         "type": "tabs",
         "children": [
           {
-            "id": "beca58e84826c06a",
+            "id": "4eedcd7807f3a1d3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Français_B1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Français_B1"
-            }
-          },
-          {
-            "id": "8fe469ec659c152c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Deutsch_B2.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "Deutsch_B2"
+            }
+          },
+          {
+            "id": "b9d2de43bcbde72f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Deutsch_C1.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Deutsch_C1"
             }
           }
         ],
@@ -245,8 +245,9 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "8fe469ec659c152c",
+  "active": "b9d2de43bcbde72f",
   "lastOpenFiles": [
+    "Deutsch_B2.md",
     "Français_B1.md",
     "conflict-files-obsidian-git.md",
     "attachments/Pasted image 20250511160409.png",
@@ -292,7 +293,6 @@
     "Français_B2.md",
     "fr.md",
     "Excalidraw/whiteboard.excalidraw.md",
-    "Git commands.md",
     "Untitled.canvas"
   ]
 }
