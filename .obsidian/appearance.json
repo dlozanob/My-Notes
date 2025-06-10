@@ -1,3 +1,7 @@
 {
-  "accentColor": "#a6ff00"
+  "accentColor": "#a6ff00",
+  "enabledCssSnippets": [
+    "obsidian-workspace-background(Shiba Uni Theme)"
+  ],
+  "cssTheme": "ITS Theme"
 }
