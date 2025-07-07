@@ -53,6 +53,18 @@
 	- Count frequency: `sort -c`
 - Removes adjacent duplicated lines: `uniq`
 	- Count repeated: `uniq -c`
+- Unzip zip package: `unzip <package>`
+
+
+### Managing Permissions
+
+- Checking permissions for each file in directory
+  - `ls -l`
+  - `ll`
+- Checking permissions for the same directory without listing: `ls -ld`
+- Checking permissions for current user: `getfacl <file>`
+- Setting permissions for other user (being the file’s owner): `setfacl u:<user>:rwx <file>`
+
 
 
 ## Directioning Operators
