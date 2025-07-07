@@ -5,8 +5,8 @@
 - [Deutsch A1](Deutsch_A1.md)
 - [Deutsch A2](Deutsch_A2.md)
 - [Deutsch B1](Deutsch_B1.md)
-- [[Deutsch B2]]
-- [[Deutsch C1]]
+- [[Deutsch_B2]]
+- [[Deutsch_C1]]
 
 
 ## Externe Links
@@ -17,6 +17,7 @@
 - [Aussprechen üben](https://yourdailygerman.com/practice-pronunciation/)
 - [Märchen](https://www.grimmstories.com/de/grimm_maerchen/index)
 - [Prüfungsvorbereitungskurs B1](https://lernen.goethe.de/moodle/course/view.php?id=1507727&overview=1)
+- [Artikel](https://der-artikel.de)
 
 ----
 

@@ -53,13 +53,6 @@ Der Pronominaladverb bezieht sich auf den Nebensatz.
 >_Trotz_ und _Ungeachtet_ sind in Genitiv
 
 
-## Nachträgliche Feststellungen
-
-- Er hätte den Fehler als Möglichkeit zum Lernen sehen sollen
-- Peter hätte den Fehler zugeben müssen
-- Es wäre besser gewesen, wenn Peter seinen Fehler genau analysiert hätte
-
-
 ## Konjunktiv II
 
 ![](attachments/Pasted%20image%2020250428200211.png)
@@ -72,6 +65,54 @@ Der Pronominaladverb bezieht sich auf den Nebensatz.
 	- Könntet ihr mir helfen?
 - Wann hast du Zeit, um mit mir über die Planung zu sprechen?
 	- Hättest du Zeit, um mit mir über die Planung zu sprechen?
+
+
+>[!Note]
+>Bei einiger starken Verben kann man alternativ zu *würde- + Infinitiv* auch die "klassiche" Konjunktivform II verwenden.
+>- Gehen: Ich ginge, wir gingen
+>- Wissen: Ich wüsste, wir wüssten
+>- Kommen: Ich käme, wir kämmen
+
+### Nachträgliche Feststellungen in der Vergangenheit
+
+- Er *hätte* den Fehler als Möglichkeit zum Lernen sehen sollen
+- Peter *hätte* den Fehler zugeben müssen
+- Es *wäre* besser *gewesen*, wenn Peter seinen Fehler genau analysiert *hätte*
+- Ich *hätte* gern mehr Zeit *gebracht*. Ich *wäre* gern dabei *gewesen*
+- Wenn ich nicht *gearbeitet hätte*, *wäre* ich ins Fitnessstudio *gegangen*
+
+
+## Nominalisierung von Verben
+
+Man kann Nomen aus Verben bilden.
+
+- Beispiele:
+	- Viele Gegenstände *besitzen*
+		- Der *Besitz* vieler Gegendstände
+	- Materielle Güter *anhäufen*
+		- Die *Anhäufnung* materieller Güter
+	- Auf Konsum *verzichten*
+		- Der *Verzicht* auf Konsum
+	- Sich auf ein Minimum *beschränken*
+		- Die *Beschränkung* auf ein Minimum
+	- Sich auf das Wesentliche *konzentrieren*
+		- Die *Konzentration* auf das Wesentliche
+
+
+## Indefinitpronomen
+
+- Die indefiniten Pronomen: *man*, *jemand*, *niemand*, stehen für unbestimmte, unbekannte oder nicht näher bestimmte Personen
+
+| Nominativ | Akkusativ | Dativ     |
+| --------- | --------- | --------- |
+| Man       | Einen     | Einem     |
+| Jemand    | Jemanden  | Jemandem  |
+| Niemand   | Niemanden | Niemandem |
+
+- Beispiele
+	- *Man* hat das Gefühl, dass *einem* alles über den Kopf wächst, dass man überfordert ist
+	- *Man* macht einfach öfter etwas, was *einen* glücklich macht
+	- Aufräumen ist nicht einfach. Am besten ist es, wenn *man* das mit *jemandem* gemeinsam macht
 
 
 

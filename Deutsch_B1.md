@@ -390,6 +390,9 @@
 
 So sind die Mitarbeiter _nämlich_ flexibler und man hilft der Umwelt, indem man Papier spart.
 
+## Erst
+
+Entschuldige bitte, dass ich die Präsentation _erst_ in zwei Wochen abgeben kann.
 
 ## Einerseits... Andererseits
 
@@ -402,9 +405,8 @@ Positiv + Negativ
 - _Einerseits_ würde ich meiner Oma gerne helfen, _andererseits_ würde ich am liebsten den ganzen Tag auf der Couch liegen
 - Sarah würde _einerseits_ gerne im Ausland leben un viele Abenteuer erleben, _andererseits_ mag sie die Sicherheit in Deutschland
 
+## Berüfliche Korrespondenz
 
-## Erst
-
-Entschuldige bitte, dass ich die Präsentation _erst_ in zwei Wochen abgeben kann.
+![](attachments/Pasted%20image%2020250607141806.png)
 
 

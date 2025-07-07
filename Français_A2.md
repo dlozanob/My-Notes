@@ -106,6 +106,14 @@ Se cambia la raíz.
 	- Nous aurons
 - Être -> Ser
 	- Je serai
+- Aller -> Ir
+	- Je irai
+- Voir
+- Pouvoir
+- Faire
+- Concevoir
+- Vouloir
+- Falloir
 
 
 ## Passé composé
@@ -277,7 +285,7 @@ Los otros tienen _Avoir_.
 
 - _Forme affirmative_
 	- Écoute-les !
-	- Téléphone.-lui !
+	- Téléphone-lui !
 	- Allons-y !
 	- Excuse-moi !
 	- Lève-toi !
