@@ -5,3 +5,801 @@ Hey! This is a linked note.
 
 ---
 
+# Freitag
+
+- Betonnen
+- Entsetzen
+- Mithalten
+- Zischen
+- Verdunkeln
+- Kneifen
+- Verzeichnen
+- Im reinen zu sein
+- Aufwirbeln
+- Verurteilen
+- Erzeugen
+- Gegen etwas vorgehen
+- Herbeiführen
+- Nachweisen
+- Einreden
+- Segnen
+- Einkochen
+- Sich ertrinken
+- Verweilen
+- Erniedrigen
+- Verlegen
+- Auflösen
+- Abziehen
+- Ausgehen
+- Versetzen
+- Nacheifern
+- Sich schmiegen
+- Jemanden übel nehmen
+- Geraten
+- Jemanden necken
+- Versucht sein
+- Drangen
+- Staunen
+- Schwänzen
+- Schnurren
+- Die Hände falten
+- Billigen
+- Trampen
+- Befriedigen
+- Ersticken
+- Zuschreiben
+- Zersetzen
+- Belasten / Verseuchen
+- Loskommen
+- Sich kehren
+- Schelten
+- Verehren
+- Erregen
+- Einen Spalt die Tür aufstehen / Die Tür angelehnt sein
+- Bekunden
+
+---
+
+- Schnarchen
+- Etwas aufschieben
+- Den Bogen überspannen
+- Etwas unter den Griff bekommen
+- Mit etwas zu kämpfen haben
+- Jemandem etwas nahe gehen
+- Zu schaffen machen
+- Auslagen
+- Abreissen
+- Klatschen
+- Kreischen
+- Sich Widerwillen einstellen
+- In etwas stecken
+- Aussortieren
+- Freude beraten
+- Eine Prüfung unterziehen
+- Etwas jemandem über den Kopf wachsen
+- Plädieren
+- Sich für etwas aussprechen
+- Sich widersetzen
+- Etwas zur Belastung werden
+- Vollstopfen
+- Sich gönnen
+- Zum Ausdruck bringen
+- Sich beziehen
+- Sich nach einen neuen Job umsehen
+- In Einklang bringen
+- Jemanden auf dem Laufenden halten
+- Verteilen
+- Erfolgen
+- Einen Rechnung begleichen
+- Befördert werden 
+- Prahlen
+- Sich wehren
+- Anpassen / Einstellen
+- Eingreifen
+- Sich entziehen
+- Übergeben
+- Entlasten / Lindern
+- Unterwegs sein
+- Vernichten
+- Abwägen
+- Schmuggeln
+- Sich auf Zehenspitzen stellen
+- Die Luft anhalten
+- Trampeln
+- Schaukeln
+- Trösten
+- Schluchzen
+- Jemandem den Kummer bereiten
+- Rumstottern
+- Ansprechen
+- Auflegen
+- Sich einarbeiten
+- Überarbeiten
+- Ernten
+- Viel auf dem Kasten haben
+- In Gang setzen / Anstossen
+- Kichern
+- Das Gesicht verziehen
+- Sich anschnallen
+- Verstauchen
+- Sich überschlagen
+- Taumeln / Wackeln
+- Kriechen
+- Vernageln
+- Verwüsten
+- Eingestehen
+- Schwenken
+- Die Wimper zucken
+- Absacken
+- Jemandem Tritte versetzen
+- Planschen
+- Sich tarnen
+- Aus den Augenwinkeln sehen
+- Jemandem belauschen
+- Sich einig sein
+- Wegschmeissen / Etwas im Müll entsorgen
+- Sich hocken / Kauern
+- Rascheln / Knirschen
+- Die Schulter zucken
+- Jemandem etwas vertraut sein
+- Nach etwas Ausschau halten
+- Auf die Stimmung drücken
+- Wimmeln
+- Jemanden schnappen
+- Schütteln
+- Draufkommen
+- Sich aus den Augen verlieren
+- Anzweifeln
+- Absehen
+- Fehler begehen / Jemanden ein Fehler unterlaufen
+- Den eigenen Ruf ruinieren
+- Fehler anderen Personen in die Schuhe schieben
+- Fehler unter den Teppich kehren
+- Scheuen
+- Sich tadlen
+- Strafanzeigen aufnehmen
+- Sich Herausforderungen stellen
+- An grenzen stossen/geraten/kommen
+
+---
+
+# Samstag
+
+- Jemandem Einhalt gebieten
+- Unter Beweis stellen
+- Sich aufrichten
+- Ein Geheimnis verraten/preisgeben
+- Sich verlaufen/verfahren
+- Ansaugen
+- In Beschprechungen sitzen
+- Einen Beitrag leisten
+- Sich auf einem Gebiet kundig machen
+- Auf sich etwas zutreffen
+- Beurteilen
+- Faulenzen
+- Vergrößen
+- Im Begriff sein
+- Zittern
+- Reiben
+- Auslösen
+- Rissen
+- Übertreiben
+- Verweisen
+- Auftauen
+- Einholen/Aufholen
+- Ausbrechen / Entziehen
+- Sich wandten
+- Entführen / Verschleppen
+- Sich krochen
+- Abschrauben
+- Erfassen
+- Beschwerden einreichen
+- Für Verwirrung sorgen
+- An etwas legen
+- Einschmeicheln
+- Sich ausmachen
+- Schnaufen
+- Auf einem Baum krochen
+- Entpuppen / Ergeben
+- Überleben / Überstehen
+- Verfügen
+- Sich miteinander verschwimmen
+- Schleichen
+- Spülen
+- Den Bus/die Chance verpassen
+- Eine Würzel ziehen
+- Überlisten
+- Eine Richtung/Ziel/Weg einschlagen
+- Ausstatten / Ausrüsten
+- Sich zusammenreißen
+- Über den Stoff gehen
+- Verdächtigen
+- Vorschläge unterbreiten
+
+---
+
+- Sich auseinandersetzen / Übernehmen
+- Entschleunigen
+- Beschleunigen
+- Etwas als gute Dienste leisten
+- Anregen
+- Sich von etwas angezogen fühlen
+- Ein Objekt zu etwas/jemandem nachempfunden sein
+- Jemanden gegen woanders ausspielen
+- Versorgen
+- Unterschätzen
+- Überschätzen
+- Alles in Schuß halten
+- Sich einleben
+- Austragen
+- Den Stoff nachholen
+- Ein Gedicht vortragen
+- Eintragen
+- Zerkratzen
+- Durchbrennen
+- Durchlaufen
+- Stehen geblieben sein
+- Zerreißen
+- Einlaufen
+- Nippen
+- Abtrinken
+- Drangehen
+- Einschenken
+- Das Pedal treten
+- Widerlegen
+- Sich richten
+- Verlagern
+- Schätzen
+- Die Uhr abnehmen
+- Die Sonne heraus/durchkommen
+- Gabeln
+- Runterrissen
+- Vorankommen
+- Einfädeln
+- Rausfinden / Entdecken
+- Bestehen / Beharren
+- Sich einsperren
+- Stapeln / Häufen
+- Zerknüllen
+- Lochen
+- Rollen
+- Erobern
+- Sich Ziele setzen
+- Sich mit etwas decken
+- Mit etwas gelassen umgehen
+- In guter Gesellschaft sein
+
+---
+
+- Hindern
+- Auf etwas wert liegen
+- Etwas durcheinander bringen
+- Kleben
+- Ausquetschen
+- Von etwas nicht bewusst sein
+- Telefongespräche führen
+- Bewältigen
+- Besuch empfangen
+- Einnehmen
+- Sich zurückziehen
+- Sich auswirken
+- Hetzen
+- Jemanden für jemand anderen halten
+- Schwören
+- Jemanden anflehen
+- Verschwören
+- Sich schickt machen
+- Befördern
+- Verunglücken
+- Orten
+- Taste drücken
+- Abstellen
+- Flüstern
+- Dösten
+- Überschreitten
+- Einen Blick werfen
+- Überwinden
+- Beitragen
+- Sich verpflichten
+- Verinnenlichen
+- Schänden
+- Hupfen
+- Klappen
+- Videos einsehen
+- Einrichten / Zaubern
+- Fungieren
+- Verarbeiten
+- Ausweiten
+- Verschlüsseln
+- Aufstellen
+- Beeinträchtigen
+- Ausgehen / Erschöpfen
+- Zerlegen
+- Umkehren
+- Auffallen
+- Dämmern
+- Umsetzen
+- Sich austauschen
+- Einschätzen
+ 
+---
+
+# Sonntag
+
+- Gestalten
+- Schnüren
+- Vergewaltigen
+- Quietschen 
+- Aufbewahren
+- Lahmlegen
+- Probleme beheben
+- Aussetzen
+- Gewährleisten
+- Viel Zeit in Anspruch nehmen
+- Den Anschein erwecken
+- Erwägen / Etwas in Betracht ziehen
+- Auf jemanden Verlass sein
+- Auffangen
+- Zu jemanden hin/voll sein
+- Umgehen
+- Sich herausstellen / Sich gestalten
+- Erwägen / Etwas in Betracht ziehen
+- Das Haus auf Vordemann bringen
+- Zocken
+- Betreiben
+- Erteilen
+- Sich beziehen
+- Aufbauen / Türmen / Anhäufen
+- Auftragen
+- Zuweisen
+- Betrachten
+- Einrichten / Bereitsstellen / Verschaffen / Sorgen
+- Mähen
+- Mit abstand am besten sein
+- In etwas einig sein
+- Die Kehle zuschnürten
+- Einen Augenblick zu jemanden gesellen
+- Sich trauen / Wagen
+- Zu dem Schluß kommen
+- Verkraften
+- Ein Theater abziehen
+- Jemanden auf die Nerven gehen
+- Im Pleite sein
+- Aussterben
+- Jemanden prozessieren
+- Ermahnen
+- Erbleichen
+- Blättern
+- Durchdrehen / Am Durchdrehen sein
+- Einen Treffer landen
+- Kauen
+- Jemanden den Stecker ziehen
+- Verstummen
+- Sich anfreuden
+
+---
+
+- Steuern
+- Sich anfreunden
+- Sich schnäuzen
+- Schnupfen haben
+- Zuließen
+- Aushalten
+- Zerkloppen
+- Beharren
+- Schleppen / Schleifen
+- Jemanden leiden
+- Keuchen
+- Schwitzen
+- Zuckeln
+- Rausreissen
+- Unterkommen
+- Schnitzen
+- Etwas zuleide tun
+- Sich ausdenken / Einfallen
+- Rumschwafeln
+- Auf dem Schirm haben
+- Antreiben
+- Vertiefen
+- Sich scheiden lassen
+- Kritzeln
+- Spüren
+- Andeuten
+- Begreifen / Nachvollziehen
+- Nicken
+- Herkommen
+- Humpeln
+- Anzwinkern
+- Auf etwas stehen
+- Schweigen
+- Umfahren
+- Totlachen / Sich kaputtlachen
+- Jemanden beibringen
+- Überfahren
+- Sich gewöhnen
+- Sich ekeln
+- Vergären
+- Zurücklegen
+- Heimkommen
+- Auskommen / Klarkommen
+- Verteidigen
+- Klagen
+- Verordnen
+- Plappern
+- Zappen
+- Klauen
+- Hineinstopfen
+
+---
+
+- Ohrfeigen
+- Unterbrechen / Abbrechen
+- Überzeugen / Weismachen / Überreden
+- Loben
+- Sinken
+- Duzen
+- Schmelzen
+- Verbrennen
+- Umstürzen
+- Aufdecken
+- Beschädigen
+- Vergnügen
+- Umbauen
+- Regieren / Herrschen
+- Stolpern
+- Geniessen
+- Rutschen
+- Bremmen / Bremsen
+- Rutschen
+- Verabschieden
+- Gleichgesetzen
+- Abgeben
+- Entlassen
+- Vertreten
+- Ausüben
+- Fortschreiten
+- Etwas im Blick behalten
+- Erwerben
+- Anstrengen
+- Ausverkaufen
+- Ausfallen / Gestrichen
+- Aufweisen
+- Ausbleiben / Ausfallen
+- Nachsehen
+- Erwähnen
+- Einstellen / Beauftragen / Einschalten
+- Sich äussern
+- Bekannt machen
+- Zu einem Streik aufrufen
+- Bevorzugen
+- Vorgeben
+- Ausgleichen
+- Einbeziehen
+- Verhalten / Benehmen
+- Überweisen
+- Verschwinden
+- Verpflegen
+- Erwarten / Rechnen
+- Aufkommen
+- Überholen
+
+---
+
+# Montag
+
+- Enthalten
+- Leisten
+- Zusammenbauen
+- Sich eignen
+- Anschliessen
+- Stattfinden
+- Gestalten
+- Vermeiden
+- Klappen
+- Bewundern
+- Verwechseln / Verwirren
+- Warhnehmen
+- Dehnen
+- Reichen
+- Speichern / Sich einprägen
+- Entstehen
+- Um Hilfe lauten
+- Verreisen
+- Fallen
+- Unternehmen
+- Giessen
+- Mitkommen
+- Wechseln
+- Zwingen
+- Verdauen
+- Zerreissen
+- Verschlingen
+- Ausreichen
+- Hungern
+- Widmen
+- Pflücken
+- Erfolgen
+- Greifen
+- Sich hinauslehnen
+- Erziehen
+- Wachrütteln
+- Hervorgehen
+- Atmen
+- Auffallen
+- Malen
+- Beantragen
+- Annehmen / Akzeptieren
+- Sich ärgern
+- Anstrengen
+- Voranbringen
+- Stossen / An der Schulter stupsen
+- Anzeige erstatten
+- Weitergehen
+- Marschieren
+- Bellen
+
+---
+
+- Verbessern
+- Anfassen
+- Anzeigen
+- Herstellen
+- Abtreiben
+- Verstecken
+- Betreten
+- Besitzen
+- Aufheben
+- Zufügen
+- Aufgeben / Nachlassen / Sich ergeben
+- Verändern
+- Besiegen
+- Zerstören
+- Kitzeln
+- Staubsaugen
+- Ahnen
+- Verschütten
+- Weggehen
+- Nachlassen / Senken
+- Aufwachsen
+- Eine Frage stellen
+- Sich melden
+- Einzahlen
+- Exportieren
+- Sich verabreden
+- Sich beteiligen
+- Abheben
+- Erledigen
+- Anstossen
+- Abprallen
+- Erfahren
+- Anwenden
+- Erleben
+- Verfolgen
+- Sich wiedervereignigen
+- Abstempeln
+- Aufsetzen
+- Landen
+- Rühren
+- Wiegen
+- Auspacken / Aussortieren
+- Wie aus Eimern schüttern
+- Beruhigen
+- Ausweichen
+- Begründen
+- Verlangen / Erfordern
+- Sich entscheiden
+- Sich fit halten
+- Glänzen
+- Einbauen
+
+---
+
+- Zufrieden sein
+- Sich beschweren
+- Sich erkälten
+- Angst haben
+- Sich rasieren
+- Hinlegen
+- Sich wundern
+- Sich interessieren
+- Bestehen
+- Lust haben
+- Aussetzen
+- Einfallen / Vorkommen / Geschehen
+- Sich fürchten
+- Abhängen / Ankommen / Setzen
+- Ehren
+- Heimwerken
+- Spenden / Verschenken
+- Mitteilen
+- Fehlen / Etwas zu mangeln
+- Gratulieren
+- Vertrauen / Trauen / Sich zu verlassen
+- Erzählen
+- Lassen
+- Aussprechen
+- Versuchen
+- Sich schminken
+- Sich fühlen / Sich empfinden
+- Sich unterhalten / Besprechen
+- Sich entspannen
+- Reiten
+- Sich vergiften
+- Ausdrucken / Drucken
+- Abfahren / Losziehen / Abreisen
+- Hoffen
+- Vermuten / Voraussetzen
+- Vermissen
+- Aufnehmen
+- Einspielen
+- Ausschlafen
+- Verbringen
+- Vorschlagen
+- Versprechen
+- Schenken / Bescheren
+- Beweisen / Belegen
+- Widersprechen
+- Weh tun
+- Raten
+- Schmecken
+- Gehorchen
+- Begegnen
+
+# Dienstag
+
+- Sich sorgen
+- Sich niederlassen
+- Verbreiten
+- Behandeln
+- Berichten / Benachrichtigen / Ausrichten
+- Anbieten / Bieten
+- Bestätigen
+- Verfassen / Ausarbeiten
+- Vorweisen
+- Strahlen
+- Strampeln
+- Vergleiche ziehen
+- Zugeben / Gestehen
+- Wachsen
+- Nachholen / Abrufen
+- Ausführen
+- Auswandern
+- Bereuen
+- Vertreiben / Ausstössen
+- Zusammenstellen
+- Erforschen / Erkunden
+- Zu Besuch kommen
+- Einfordern
+- Verwenden
+- Eine Lektion erteilen
+- Tauschen
+- Konvertieren
+- Schluss machen
+- EIne Entscheidung treffen / Einen Entschluss ausführen
+- Vergehen
+- Erfüllen / Einhalten
+- Wachen
+- Vermieten
+- Kriegen
+- Verhaften
+- Vorauseilen
+- Zunehmen
+- Verursachen / Herbeiführen
+- Handeln
+- Festmachen
+- Entjungfern
+- Verkehren
+- Fliehen / Abhauen
+- Schwingen
+- Löschen / Abstellen
+- Aufessen
+- Belügen
+- Wehen
+- Sperren
+- Gähnen
+
+---
+
+- Vereinbaren / Sich verständigen
+- Verwandeln
+- Sich lohnen
+- Beeinflussen
+- Beobachten
+- Sich verkleiden
+- Entwickeln
+- Brennen / Toben
+- Abnehmen
+- Anmelden
+- Schmücken
+- Erscheinen / Aufkreuzen / Auftauchen / Auftreten
+- Scheinen
+- Warnen
+- Schiessen
+- Weitermachrn
+- Eröffnen
+- Stechen
+- Gebären / Kinder zu Welt bringen
+- Spinnen
+- Mitspielen
+- Telefonieren
+- Bescheid geben
+- Meinen
+- Gelten
+- Vorziehen
+- Kämpfen
+- Sich vorstellen / Sich einbilden
+- Sammeln
+- Schlucken / Fressen
+- Zustimmen
+- Aussehen
+- Fegen / Wegkehren
+- Sich bewerben
+- Verzichten
+- Drehen
+- Dienen
+- Sich bedanken
+- Betrügen / Verarschen / Tüshen / Vormachen
+- Enthalten / Sich verkneifen / Absehen
+- Bestimmen / Beschliessen
+- Anzünden
+- KilngenSich beschäftigen
+- Behalten
+- Sinn machen
+- Berücksichtigen
+- Verkürzen
+- Befragen / Vernehmen
+- Steigen / Erhöhen
+- Wählen / Auswählen / Aussuchen
+
+---
+
+- Bedienen
+- Sich aufhalten
+- Betreuen
+- Beachten
+- Achten
+- Sich kümmern
+- Zucken
+-  Sich aufregen
+- Wissen
+- Lesen / Ablesen
+- Putzen / Beseitigen / Wischen
+- Gehören
+- Mieten
+- Lächeln
+- Verraten
+- Falten
+- Verdienen
+- Sitzen
+- Aufwachen
+- Verkaufen
+- Weinen / Trauern / Heulen
+- Recyceln / Wiederverwerten
+- Finden / Empfinden
+- Kaufen / Sich etwas anschaffen / Besorgen
+- Sich wünschen
+- Arbeiten / Sich ans Werk machen
+- Fallen / Stürzen
+- Denken / Vernünfeln
+- Schlafen / Pennen
+- Stehlen / Rauben / Klauen
+- Zögern
+- Einfrieren
+- Zeichnen / Einzeichnen
+- Erraten
+- Fangen
+- Sich verlieben
+- Erfinden
+- Angreifen / Anfeinden
+- Sich ausziehen
+- Schneien
+- Impfen
+- Benutzen / Einsetzen
+- Gucken
+- Schicken / Senden / Zuschicken
+- Folgen
+- Bezahlen
+- Aufhängen
+- Öffnen / Ausmachen
+- Anschreiben / Aufschreiben / Notieren
+- Fahren / Kutschiern

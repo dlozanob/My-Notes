@@ -15,7 +15,8 @@
 - [Français](Français.md)
 - [Enigma](Enigma.md)
 - [[Cloud Computing]]
-
+- [[Certifications]]
+- [[Rubik]]
 
 ## Tools
 

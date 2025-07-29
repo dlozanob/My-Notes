@@ -90,7 +90,7 @@ Man kann Nomen aus Verben bilden.
 	- Viele Gegenstände *besitzen*
 		- Der *Besitz* vieler Gegendstände
 	- Materielle Güter *anhäufen*
-		- Die *Anhäufnung* materieller Güter
+		- Die *Anhäufung* materieller Güter
 	- Auf Konsum *verzichten*
 		- Der *Verzicht* auf Konsum
 	- Sich auf ein Minimum *beschränken*
@@ -103,16 +103,112 @@ Man kann Nomen aus Verben bilden.
 
 - Die indefiniten Pronomen: *man*, *jemand*, *niemand*, stehen für unbestimmte, unbekannte oder nicht näher bestimmte Personen
 
-| Nominativ | Akkusativ | Dativ     |
-| --------- | --------- | --------- |
-| Man       | Einen     | Einem     |
-| Jemand    | Jemanden  | Jemandem  |
-| Niemand   | Niemanden | Niemandem |
+![](attachments/Pasted%20image%2020250714220131.png)
 
 - Beispiele
 	- *Man* hat das Gefühl, dass *einem* alles über den Kopf wächst, dass man überfordert ist
 	- *Man* macht einfach öfter etwas, was *einen* glücklich macht
 	- Aufräumen ist nicht einfach. Am besten ist es, wenn *man* das mit *jemandem* gemeinsam macht
+
+
+## Konsekutivangaben
+
+
+- *Sodass*
+	- Die Gebrauchsdauer der Geräte wird mit allerei Tricks verkürzt, *sodass* die Konsumenten neue Geräte kaufen müssen
+- *So... dass*
+	- Es werden zur Herstellung bestimmter Geräte *so* viele Rohstoffe benötigt, *dass* die Rohstoffreserven knapp werden
+- *Folglich/Demzufolge/Infolgedessen*
+	- Einige Menschen verzichten bewusst auf Konsum und Besitz, *folglich/demzufolge/infolgedessen* belasten sie die Umwelt in geringerem Maße
+- *Sonst/Andernfalls*
+	- Die Menschen sollten bewusster und nachhaltiger konsumieren, *sonst/andernfalls* wird es einige Rohstoffe irgendwann nicht mehr geben
+- *Infolge*
+	- *Infolge* des steigenden Konsums werden einige Rohstoffe knapp
+
+>[!Note]
+>*Infolge* wird nur schriftsprachlich gebraucht
+
+
+## Passiversatzformen
+
+Werden oft in der mündlichen Kommunikation verwendet.
+
+Sie stehen im Aktiv und umschreiben Passivkonstruktionen.
+
+- *Möglichkeit*
+	- Es kann biologisch abgebaut werden
+		- Das Material ist biologisch *abbaubar*
+	- Er kann nicht erklärt werden
+		- Der jetzige Umgang mit dem Plastikmüll ist *unerklärlich*
+	- Sie können in der Lebensmittelindustrie eingesetzt werden
+		- Die neue Produkten *lassen sich* in der Lebensmittelindustrie einsetzen
+- *Notwendigkeit*
+	- Plastiktüten müssen vermieden werden
+		- Die Verwendung von Plastiktüten *ist zu vermeiden*
+- *Empfehlung*
+	- Die Folgen für unsere Gesundheit dürfen/sollten nicht unterschätz werden
+		- DIe Folgen für unsere Gesundheit *sind nicht zu unterschätzen*
+
+![](attachments/Pasted%20image%2020250714220416.png)
+
+
+## Relativkomparation und Vergleiche
+
+![](attachments/Pasted%20image%2020250716202925.png)
+
+
+- Das Rathaus in Köln ist *eins/eines* der ältesten Rathäuser Europas
+
+Hier ist die Gruppe Rathäuser, im Singularform *Rathaus*, das Neutrum ist. Deshalb benutzen wir *ein/eines* wie die nächste Tabelle laut:
+
+|          | Artikel    |
+| -------- | ---------- |
+| Maskulin | einer      |
+| Feminin  | eine       |
+| Neutrum  | eins/eines |
+
+>[!Notiz]
+>Erinnern Sie sich an die Adjektivdeklination im Nominativ, wenn es keine artikel gibt
+
+
+- Der Berliner Fernsehturm ist *eins/eines* der höchsten Gebäude Europas
+- Das Berliner Sinfonieorchester ist *eins/eines* der berühmtesten Orchester der Welt
+- Die im Mittelalter erbaute Krämerbrücke in Erfurt ist *eine* der schönsten Brücken Deutschlands
+- Der Leipziger Augustusplatz ist mit seinen 40.000 Quadratmetern *einer* der größten Stadplätze Europas
+- Der Zoo Schönbrunn in Wien ist *einer* der beliebtesten Zoos der Welt
+- Das Restaurant von Andreas Caminada in dem Schweizer Ort Fürstenau ist *ein/eines* der besten Restaurants Europas
+
+>[!Note]
+>Wenn das Subjekt feminin ist, benutzt man die Nominierte Version der Pronom "die" anstatt Genitiv
+
+
+- Je grüner eine Stadt ist, desto/umso wohler fühlen sich die Menschen
+- Je mehr Menschen in einer Stadt leben, desto/umso schwieriger wird die Wohnsituation
+- Je älter ein Gebäude ist, desto/umso teurer wird die Restaurierung
+- Je höher die Anzahl von Hochschulen und Universitäten in einer Stadt ist, desto/umso niedriger sind das Durschnittsalter der Einwohner
+
+>[!Notiz]
+>Satzbau:
+>Nebensatz, + Steigerung des Adjektivs + Position I
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

@@ -420,12 +420,12 @@ Mit Ob-Sätzen kann man indirekte Ja/Nein Fragen bilden.
 		- Die Autos _wurden_ verkauft 
 		- _Wurdest_ du von deiner Tante besucht?
 	- _Perfekt_
-		- Der Computer ist gekauft _worde_
+		- Der Computer ist gekauft _worden_
 		- Die Autos sind verkauft _worden_
 
 
 >[!Note]
->Anstatt _geworden_ -> _worde_
+>Anstatt _geworden_ -> _worden_
 
 
 ## Finalsätze

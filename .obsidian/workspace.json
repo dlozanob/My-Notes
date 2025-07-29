@@ -8,15 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e9071496502a6c78",
+            "id": "f728391488aa7a51",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/blackboard.excalidraw.md"
+                "file": "Rubik.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "blackboard.excalidraw"
+              "icon": "lucide-file",
+              "title": "Rubik"
+            }
+          },
+          {
+            "id": "bac043ab5af60b33",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Deutsch_B1.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Deutsch_B1"
             }
           },
           {
@@ -34,7 +50,7 @@
             }
           },
           {
-            "id": "bbd9bff7303718e2",
+            "id": "1f36a9fae327d518",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -46,9 +62,21 @@
               "icon": "lucide-file",
               "title": "Linked note"
             }
+          },
+          {
+            "id": "20b02a713e444611",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/whiteboard.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "whiteboard.excalidraw"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -109,7 +137,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "8cf20f15e2d652f4",
@@ -257,47 +286,46 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "d3ab8ed5f9b89fe0",
+  "active": "1f36a9fae327d518",
   "lastOpenFiles": [
-    "Linked note.md",
     "Deutsch_B2.md",
-    "Français.md",
+    "Rubik.md",
+    "Linked note.md",
+    "Excalidraw/whiteboard.excalidraw.md",
     "Deutsch_B1.md",
-    "attachments/Pasted image 20250607141806.png",
-    "attachments/Pasted image 20250607141733.png",
-    "Excalidraw/blackboard.excalidraw.md",
-    "Deutsch_A2.md",
-    "Deutsch.md",
+    "attachments/Pasted image 20250727211549.png",
+    "Excalidraw/attachments/Pasted Image 20250727211019_796.png",
+    "Excalidraw/attachments/Pasted Image 20250727210949_789.png",
+    "Excalidraw/attachments/Pasted Image 20250727210930_807.png",
+    "Excalidraw/attachments/Pasted Image 20250727210915_805.png",
+    "Excalidraw/attachments/Pasted Image 20250727210900_798.png",
+    "Excalidraw/attachments/Pasted Image 20250727210845_791.png",
+    "Excalidraw/attachments/Pasted Image 20250727210830_790.png",
+    "Excalidraw/attachments/Pasted Image 20250727210814_796.png",
+    "Excalidraw/attachments/Pasted Image 20250727210759_795.png",
+    "Main.md",
+    "Other.md",
     "Deutsch_A1.md",
+    "Deutsch_A2.md",
+    "Git commands.md",
+    "Linux commands.md",
+    "Deutsch.md",
+    "Certifications.md",
+    "Zufällige Fakten.md",
+    "Fundamentals of penetration testing.md",
+    "Cybersecurity E-degree.md",
+    "Excalidraw/blackboard.excalidraw.md",
+    "Français.md",
     "Français_B2.md",
     "Français_B1.md",
     "Untitled.css.md",
     "Untitled 1.md",
-    "attachments/Pasted image 20250606141715.png",
     "Français_A2.md",
-    "attachments/Pasted image 20250606141145.png",
     "Deutsch_C1.md",
     "conflict-files-obsidian-git.md",
-    "attachments/Pasted image 20250511160409.png",
-    "attachments/Pasted image 20250511160133.png",
-    "attachments/Pasted image 20250511154523.png",
-    "Sicherheit und Compliance.md",
-    "Network Security Fundamentals.md",
-    "Introduction to hacking tools.md",
-    "Encryption fundamentals.md",
-    "DevSecOps.md",
-    "Cloud security fundamentals.md",
-    "Cloud Technologie und -Services.md",
-    "Cloud Konzepte.md",
-    "Cloud Computing.md",
-    "CLF-02.md",
     "Amazon Web Services - CLF-C02/Linke für die Vorbereitung.txt",
     "Amazon Web Services - CLF-C02/Cheat Sheet for AWS Certified Cloud Practitioner.pdf",
     "Amazon Web Services - CLF-C02/AWS-Certified-Cloud-Practitioner_Exam-Guide_C02.pdf",
-    "Amazon Web Services - CLF-C02/4. Abrechnung, Preisgestaltung und Support/Notes/image.png",
-    "Amazon Web Services - CLF-C02/4. Abrechnung, Preisgestaltung und Support/Notes/notes.md",
-    "Amazon Web Services - CLF-C02/4. Abrechnung, Preisgestaltung und Support/Notes/image-9.png",
-    "Amazon Web Services - CLF-C02/4. Abrechnung, Preisgestaltung und Support/Notes/image-8.png",
     "Amazon Web Services - CLF-C02/4. Abrechnung, Preisgestaltung und Support/Notes",
     "Amazon Web Services - CLF-C02/4. Abrechnung, Preisgestaltung und Support/Abschlusszertifikat_AWS Cloud Practitioner CLFC02 4 Abrechnung Preisgestaltung und Support.pdf",
     "Amazon Web Services - CLF-C02/4. Abrechnung, Preisgestaltung und Support",
