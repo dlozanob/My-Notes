@@ -53,6 +53,22 @@
 	- Count frequency: `sort -c`
 - Removes adjacent duplicated lines: `uniq`
 	- Count repeated: `uniq -c`
+- Unzip zip package: `unzip <package>`
+- Unzip .tar.gz packages: `tar xf <package>` 
+- Adding executables as general commands: `export PATH=$PATH:<path>`
+  - Suppose a new tool is downloaded. However, it has a directory with executables. For executing them from any place, just run this command providing the executables path
+- Text manipulation tool (stream editor): `sed`
+
+
+### Managing Permissions
+
+- Checking permissions for each file in directory
+  - `ls -l`
+  - `ll`
+- Checking permissions for the same directory without listing: `ls -ld`
+- Checking permissions for current user: `getfacl <file>`
+- Setting permissions for other user (being the file’s owner): `setfacl u:<user>:rwx <file>`
+
 
 
 ## Directioning Operators
@@ -126,7 +142,7 @@ User created variables.
 
 ## Shell Scripting
 
-- Create a sheel script: `tousch <script>.sh`
+- Create a sheel script: `touch <script>.sh`
 - Run a shell script: `bash <script> <arguments>`
 - Arguments inside a file: `@a`
 - Comments: `#<comment>`
@@ -155,6 +171,7 @@ done
 - Uninstall package -> `sudo apt-get remove <package name>`
 - Reboot -> `sudo reboot`
 - Buscar un archivo -> `find $PWD -type f -name <archivo>`
+  - Eliminar 'Permission denied' en la búsqueda -> `find $PWD -type f -name <archivo> 2>/dev/null`
 - Buscar path de un comando -> `whereis`
 - Crear link simbólico a un archivo -> `ln -s <original> <puntero>`
 	- `ln -s /usr/bin/python3 /usr/bin/python`
@@ -162,8 +179,11 @@ done
 - Open default file manager
 	- `xdg-open .`
 	- `nautilus .`
-
 - Star wars movie -> `nc towel.blinkenlights.nl 23`
+- Removing a path from \$PATH -> `export PATH=$(echo $PATH | tr ':' '\n' | grep -v '^<PATH TO REMOVE>$' | paste -sd:)`
+- Check all users: `cut -d: -f1 /etc/passwd`
+- Check all groups: `cut -d: -f1 /etc/group`
+
 
 ## Divide terminal
 
