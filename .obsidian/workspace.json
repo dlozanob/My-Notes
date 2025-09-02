@@ -8,17 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f728391488aa7a51",
+            "id": "1f36a9fae327d518",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rubik.md",
+                "file": "Linked note.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rubik"
+              "title": "Linked note"
+            }
+          },
+          {
+            "id": "6ff915cbe769e1b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Deutsch_A1.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Deutsch_A1"
             }
           },
           {
@@ -50,47 +64,21 @@
             }
           },
           {
-            "id": "1f36a9fae327d518",
+            "id": "d119c7608eb09239",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linked note.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Linked note"
-            }
-          },
-          {
-            "id": "6927abccb39fb340",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Deutsch.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
-            }
-          },
-          {
-            "id": "20b02a713e444611",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/whiteboard.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "whiteboard.excalidraw"
+              "title": "Deutsch"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -102,17 +90,8 @@
       {
         "id": "82ac41b6529192b8",
         "type": "tabs",
+        "dimension": 67.48140276301807,
         "children": [
-          {
-            "id": "b2d1ab0f32617ce1",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
           {
             "id": "d2fd3fe747728dc9",
             "type": "leaf",
@@ -127,16 +106,6 @@
             }
           },
           {
-            "id": "9d93bca41a6a57a5",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
             "id": "ede638339c05eefb",
             "type": "leaf",
             "state": {
@@ -146,13 +115,28 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "d41cf9592a93fb72",
+        "type": "tabs",
+        "dimension": 32.51859723698193,
+        "children": [
+          {
+            "id": "9d93bca41a6a57a5",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 315.51103591918945
   },
   "right": {
     "id": "8cf20f15e2d652f4",
@@ -289,6 +273,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -300,43 +285,46 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "6927abccb39fb340",
+  "active": "d3ab8ed5f9b89fe0",
   "lastOpenFiles": [
-    "Linked note.md",
-    "conflict-files-obsidian-git.md",
-    "Deutsch_B2.md",
-    "Rubik.md",
-    "Excalidraw/whiteboard.excalidraw.md",
-    "Deutsch_B1.md",
-    "attachments/Pasted image 20250727211549.png",
-    "Excalidraw/attachments/Pasted Image 20250727211019_796.png",
-    "Excalidraw/attachments/Pasted Image 20250727210949_789.png",
-    "Excalidraw/attachments/Pasted Image 20250727210930_807.png",
-    "Excalidraw/attachments/Pasted Image 20250727210915_805.png",
-    "Excalidraw/attachments/Pasted Image 20250727210900_798.png",
-    "Excalidraw/attachments/Pasted Image 20250727210845_791.png",
-    "Excalidraw/attachments/Pasted Image 20250727210830_790.png",
-    "Excalidraw/attachments/Pasted Image 20250727210814_796.png",
-    "Excalidraw/attachments/Pasted Image 20250727210759_795.png",
-    "Main.md",
-    "Other.md",
     "Deutsch_A1.md",
+    "Deutsch_B1.md",
+    "Deutsch_B2.md",
+    "Deutsch.md",
+    "Power BI.md",
+    "attachments/Pasted image 20250830045206.png",
+    "attachments/Pasted image 20250830045039.png",
+    "Other.md",
+    "Main.md",
+    "Certifications.md",
+    "PL-300.md",
+    "Rubik.md",
+    "Linked note.md",
+    "Untitled 2.base",
+    "Conceptos básicos de probabilidad y estadística.md",
+    "Untitled 1.md",
+    "1. Fundamentals of Tiny ML.md",
+    "Untitled 1.base",
+    "Untitled.md",
+    "Assembly.md",
+    "Untitled.base",
+    "attachments/Pasted image 20250808133150.png",
+    "Excalidraw/whiteboard.excalidraw.md",
+    "Excalidraw/attachments/Pasted Image 20250808120444_357.png",
+    "Excalidraw/attachments/Pasted Image 20250808120239_206.png",
+    "Excalidraw/attachments/Pasted Image 20250808120122_147.png",
+    "Excalidraw/attachments/Pasted Image 20250808120037_127.png",
+    "Excalidraw/attachments/Pasted Image 20250808115855_933.png",
+    "Excalidraw/attachments/Pasted Image 20250808115737_896.png",
+    "attachments/Pasted image 20250808115725.png",
     "Deutsch_A2.md",
+    "Zufällige Fakten.md",
+    "Français.md",
+    "conflict-files-obsidian-git.md",
     "Git commands.md",
     "Linux commands.md",
-    "Deutsch.md",
-    "Certifications.md",
-    "Zufällige Fakten.md",
     "Fundamentals of penetration testing.md",
     "Cybersecurity E-degree.md",
-    "Excalidraw/blackboard.excalidraw.md",
-    "Français.md",
-    "Français_B2.md",
-    "Français_B1.md",
-    "Untitled.css.md",
-    "Untitled 1.md",
-    "Français_A2.md",
-    "Deutsch_C1.md",
     "Amazon Web Services - CLF-C02/Linke für die Vorbereitung.txt",
     "Amazon Web Services - CLF-C02/Cheat Sheet for AWS Certified Cloud Practitioner.pdf",
     "Amazon Web Services - CLF-C02/AWS-Certified-Cloud-Practitioner_Exam-Guide_C02.pdf",
@@ -344,9 +332,6 @@
     "Amazon Web Services - CLF-C02/4. Abrechnung, Preisgestaltung und Support/Abschlusszertifikat_AWS Cloud Practitioner CLFC02 4 Abrechnung Preisgestaltung und Support.pdf",
     "Amazon Web Services - CLF-C02/4. Abrechnung, Preisgestaltung und Support",
     "Amazon Web Services - CLF-C02/3. Cloud Technologie und -Services/Abschlusszertifikat_AWS Cloud Practitioner CLFC02 3 CloudTechnologie und Services.pdf",
-    "Amazon Web Services - CLF-C02/3. Cloud Technologie und -Services/Notes",
-    "Amazon Web Services - CLF-C02/3. Cloud Technologie und -Services",
-    "Amazon Web Services - CLF-C02/1. Cloud Konzepte/Notes",
     "Untitled.canvas"
   ]
 }

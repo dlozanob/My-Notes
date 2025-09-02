@@ -1,6 +1,7 @@
 # Certifications
 
 - **AWS Cloud Practitioner - CLF-02**
+- [[PL-300]]
 - LOGO! Certified Training (Siemens)
 - **LPIC-1**
 

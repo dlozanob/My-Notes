@@ -9,6 +9,7 @@
 - [ROS](ROS.md)
 - [[Python]]
 - [Machines Catalog](https://machineryline.com.co)
+- [[Power BI]]
 
 
 ## Robotics

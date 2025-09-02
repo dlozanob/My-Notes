@@ -504,34 +504,34 @@ Wegbeschreibung:
 
 ### Nominativ
 
-| | Bestimmt Artikel/Demonstrativa | Unbestimmt Artikel / Negation / Possesiv | No Artikel |
-|-|-|-|-|
-| Maskulin | e | er | er | 
-| Feminin | e | e | e |
-| Neutrum | e | es | es |
-| Plural | en | en | e |
+|          | Bestimmt Artikel/Demonstrativa | Unbestimmt Artikel / Negation / Possesiv | No Artikel |
+| -------- | ------------------------------ | ---------------------------------------- | ---------- |
+| Maskulin | e                              | er                                       | er         |
+| Feminin  | e                              | e                                        | e          |
+| Neutrum  | e                              | es                                       | es         |
+| Plural   | en                             | en                                       | e          |
 
 - Meine schwarzen Schuhe
 
 ### Akkusativ
 
-| | Bestimmt Artikel | Unbestimmt Artikel / Negation / Possesiv | No Artikel |
-|-|-|-|-|
-| Maskulin | en | en | en | 
-| Feminin | e | e | e |
-| Neutrum | e | es | es |
-| Plural | en | en | e |
+|          | Bestimmt Artikel | Unbestimmt Artikel / Negation / Possesiv | No Artikel |
+| -------- | ---------------- | ---------------------------------------- | ---------- |
+| Maskulin | en               | en                                       | en         |
+| Feminin  | e                | e                                        | e          |
+| Neutrum  | e                | es                                       | es         |
+| Plural   | en               | en                                       | e          |
 
 - Ich wasche meinen neuen Pullover
 
 ### Dativ
 
-| | Bestimmt Artikel | Unbestimmt Artikel / Negation / Possesiv | No Artikel |
-|-|-|-|-|
-| Maskulin | en | en | em | 
-| Feminin | en | en | er |
-| Neutrum | en | en | em |
-| Plural | en (n) | en (n) | en (n) |
+|          | Bestimmt Artikel | Unbestimmt Artikel / Negation / Possesiv | No Artikel |
+| -------- | ---------------- | ---------------------------------------- | ---------- |
+| Maskulin | en               | en                                       | em         |
+| Feminin  | en               | en                                       | er         |
+| Neutrum  | en               | en                                       | em         |
+| Plural   | en (n)           | en (n)                                   | en (n)     |
 
 >[!Notiz]
 >Wenn plural, man muss _n_ am Ende des Substantivs hinzufügen
@@ -544,6 +544,15 @@ Wegbeschreibung:
 >- Dunkel: Dunkles, dunkler, dunklen
 >- Teuer: Teures, teurer, teuren
 >- Hoch: Hohes, hohe, hohen
+
+### Genitiv
+
+|          | Bestimmt Artikel | Unbestimmt Artikel / Negation / Possesiv | No Artikel |
+| -------- | ---------------- | ---------------------------------------- | ---------- |
+| Maskulin | en               | en                                       | en         |
+| Feminin  | en               | en                                       | er         |
+| Neutrum  | en               | en                                       | en         |
+| Plural   | en               | en                                       | er         |
 
 
 ## Demonstrativa

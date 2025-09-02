@@ -192,10 +192,38 @@ Hier ist die Gruppe Rathäuser, im Singularform *Rathaus*, das Neutrum ist. Desh
 >Nebensatz, + Steigerung des Adjektivs + Position I
 
 
+## Adversativangaben
+
+- *Dagegen*
+	- Für die einen spielt regelmäßiger Urlaub die wichtigste Rolle, _dagegen_ legen andere mehr Wert auf eine schöne Wohnungseinrichtung
+- *Während*
+	- *Während* sich Untersuchungen zufolge zwei Drittel der Frauen in einem gemütlichen Zuhause mit vielen Kissen und Decken wohlfühlen, bevorzugt ein Drittel eine klar strukturierte Wohnungseinrichtung
+- *Wohingegen*
+	- Untersuchungen zufolge fühlen sich zwei Drittel der Frauen in einem gemütlichen Zuhause mit vielen Kissen und Decken wohl, *wohingegen* ein Drittel eine klar strukturierte Wohnungseinrichtung bevorzugt
+- *Im Gegensatz zum*
+	- *lm Gegensatz zum* steigenden Online-Umsatz beim Kauf von Büchern, Reisen Oder neuen elektronischen Geräten ist der Wochenendausflug ins Möbelhaus bei der Auswahl eines Einrichtungsgegenstandes immer noch die wichtigste Inspirationsquelle
 
 
+## FInalangaben
 
+Diese beide Strukture können ebenfalls Finalität ausdrücken.
 
+- _Zu+ Dativ_
+	- Zur optimalen Vorbereitung auf den Arztbesuch recherchieren viele Menschen ihre Krankheitssymptome im Internet
+- *Für + Akkusativ*
+	- Für das Gespräch mit dem Arzt sammle ich einige Informationen im Netz
+
+Beispiele:
+- Um vertrauenswürdige Ergebnisse zu bekommen, muss man sich für die Suche Zeit nehmen
+	- Für vertrauenswürdige Ergebnisse muss man sich für die Suche Zeit nehmen
+- Einige Leute recherchieren ihre Symptome nach dem Arztbesuch, um die Diagnose zu überprüfen
+	- Zur Überprüfung der Diagnose recherchieren einige Leute ihre Symptome nach dem Arztbesuch
+- Medizinische Hinweise im Netz sind oft in einfacher Sprache geschrieben, damit sie jeder versteht
+	- Für ein besseres Verständnis sind medizinische Hinweise im Netz oft in einfacher Sprache geschrieben
+- Petra besucht medizinische Onlineforen, um von den Ehfahrungen anderer Patienten zu lernen
+	- Zum Erfahrungsaustausch besucht Petra medizinische Onlineforen
+- Bei der Suche nach medizinischen Tipps sollte man nicht auf der ersten Seite hängenbleiben, damit man verschiedene Meinungen zu einem Thema lesen kann
+	- Für eine größere Meinungsvielfalt sollte man nicht bei der Suche medizinischen Tipps auf der ersten Seite hängenbleiben
 
 
 
