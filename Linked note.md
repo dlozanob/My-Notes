@@ -6,7 +6,7 @@ Hey! This is a linked note.
 ---
 
 <<<<<<< HEAD
-# Freitag
+# Tag 1
 
 - Betonnen
 - Entsetzen
@@ -164,7 +164,7 @@ Hey! This is a linked note.
 
 ---
 
-# Samstag
+# Tag 2
 
 - Jemandem Einhalt gebieten
 - Unter Beweis stellen
@@ -325,7 +325,7 @@ Hey! This is a linked note.
  
 ---
 
-# Sonntag
+# Tag 3
 
 - Gestalten
 - Schnüren
@@ -486,7 +486,7 @@ Hey! This is a linked note.
 
 ---
 
-# Montag
+# Tag 4
 
 - Enthalten
 - Leisten
@@ -646,7 +646,7 @@ Hey! This is a linked note.
 - Gehorchen
 - Begegnen
 
-# Dienstag
+# Tag 5
 
 - Sich sorgen
 - Sich niederlassen
@@ -716,7 +716,7 @@ Hey! This is a linked note.
 - Scheinen
 - Warnen
 - Schiessen
-- Weitermachrn
+- Weitermachen
 - Eröffnen
 - Stechen
 - Gebären / Kinder zu Welt bringen
@@ -743,7 +743,8 @@ Hey! This is a linked note.
 - Enthalten / Sich verkneifen / Absehen
 - Bestimmen / Beschliessen
 - Anzünden
-- KilngenSich beschäftigen
+- Kilngen
+- Sich beschäftigen
 - Behalten
 - Sinn machen
 - Berücksichtigen
@@ -804,6 +805,106 @@ Hey! This is a linked note.
 - Öffnen / Ausmachen
 - Anschreiben / Aufschreiben / Notieren
 - Fahren / Kutschiern
+
+# Tag 6
+
+- Mixen / Mischen
+- Ordnen / EInsortieren
+- Bestellen
+- Stören
+- Empfehlen
+- Drücken / Anstupsen
+- Schliessen / Zumachen
+- Tragen
+- Kotzen / Sich übergeben
+- Angeln
+- Ertragen
+- Ablehnen / Abschlagen
+- Verkosten / Testen
+- Freuen
+- Erwidern
+- Schirmen
+- Sich aufrappeln
+- Schildern
+- Sich absetzen
+- Bewähren
+- Basteln
+- Sich borgen
+- Drohen
+- Verschieben / Verlegen
+- Sich ansehen
+- Leihen / Ausleihen / Verleihen
+- Anmachen / Anschalten
+- Ausfüllen
+- Abbiegen
+- Holen
+- Beratschlagen / Besprechen / Quasseln
+- Abholen
+- Föhnen
+- Sich kämmen
+- Schütten
+- Rasten
+- Eisen
+- Hüllen / Abdecken
+- Küren
+- Absagen
+- Anbraten
+- Versöhnen
+- Sich verloben
+- Zünden
+- Bilden
+- Brechen
+- Einziehen
+- Ausprobieren
+- Tapizieren
+- Sich abtrocken
+- Anwinkeln
+- Verbrauchen
+- Erben
+- Tauchen
+- Heben
+- Strecken
+- Sich erholen
+- Anprobieren
+- Bestreuen
+- Ausschalten / Ausmachen
+- Sparen
+- Ausgeben
+- Sich abspalten
+- Sich beharkten
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 =======
 ## TUM
 

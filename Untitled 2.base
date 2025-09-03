@@ -1,0 +1,30 @@
+formulas:
+  Untitled: ""
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.inFolder("Amazon Web Services - CLF-C02")
+        - file.ext != "png"
+    order:
+      - file.name
+      - file.backlinks
+      - file.ctime
+      - tags
+      - file.folder
+      - formula.Untitled
+    sort:
+      - property: file.name
+        direction: DESC
+    columnSize:
+      file.name: 686
+  - type: cards
+    name: View
+    order:
+      - file.name
+      - file.backlinks
+    cardSize: 230
+    image: file.file
+    imageFit: ""
+    imageAspectRatio: 0.8
