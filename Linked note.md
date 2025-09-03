@@ -821,3 +821,61 @@ https://www.tum.de/en/studies/degree-programs#graduation=2&department=3
 
 - Mechatronics and Information Technology Master of Science (M.Sc.) (15.07) - TOEFL >= 90
 >>>>>>> origin/main
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Equivaler -> Sich auf etwas belaufen
+Haben (Werte) -> Betragen (Die Temperatur beträgt 25 Grad.)
+
+
+## Relativsätze mit lokalen Angaben
+
+- Das Haus, in dem ich wohne, wurde 1920 gebaut
+  - Das Haus, wo ich wohne, wurde 1920 gebaut
+- Die Stadt, in die ich umgezogen bin, ist sehr teuer
+  - Die Stadt, wohin ich umgezogen bin, ist sehr teuer
+- In dem Land, aus dem ich komme, regnet es sehr viel
+  - In dem Land, woher ich komme, regnet es sehr viel
+
+
+
+
