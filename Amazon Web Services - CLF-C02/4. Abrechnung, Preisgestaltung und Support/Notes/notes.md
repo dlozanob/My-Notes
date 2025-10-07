@@ -50,6 +50,8 @@ Convertible Reserved Instances are useful if you anticipate changes in your work
     - Use Case: Ideal for users who want to reduce costs with a flexible commitment.
     - EC2 instances are exclusive for Reserved Instances. While in Saving Plans, there are included 2 more services: Fargate and Lambda.
 
+![alt text](image-47.png)
+
 6. Dedicated Hosts
     - Description: Physical servers with EC2 instance capacity fully dedicated to your use.
     - Use Case: Useful for meeting compliance requirements and reducing costs by using existing server-bound software licenses.

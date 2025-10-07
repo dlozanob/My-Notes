@@ -58,6 +58,8 @@ The Framework (CAF) is structured in 6 key perspectives.
 
 ![alt text](image-13.png)
 
+![alt text](image-20.png)
+
 ![alt text](image-14.png)
 
 ![alt text](image-15.png)

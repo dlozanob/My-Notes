@@ -363,44 +363,44 @@ and connected televisions.
 > service, which is overly permissive. The security warning includes a recommendation that you scope down
 > the permissions to pass specific role(s) instead.
 
-_Quick Starts_ are built by AWS solutions architects and partners to help you deploy popular
+- _Quick Starts_ are built by AWS solutions architects and partners to help you deploy popular
 technologies on AWS, based on AWS best practices for security and high availability.
 
 These accelerators reduce hundreds of manual procedures into just a few steps, so you can build your
 production environment quickly and start using it immediately.
 
-_AWS Outposts_ is designed to provide the same APIs, control plane, and hardware as the AWS cloud, but with the ability to run workloads on-premises. This can be useful for applications that require low latency or local system interdependencies, as it allows you to keep your data and applications close to your users and processes.
+- _AWS Outposts_ is designed to provide the same APIs, control plane, and hardware as the AWS cloud, but with the ability to run workloads on-premises. This can be useful for applications that require low latency or local system interdependencies, as it allows you to keep your data and applications close to your users and processes.
 
-*Amazon Cognito* is a service that provides user identity and authentication for mobile and web applications, allowing users to sign up, sign in, and access AWS resources with different identity providers.
+- *Amazon Cognito* is a service that provides user identity and authentication for mobile and web applications, allowing users to sign up, sign in, and access AWS resources with different identity providers.
 
-*AWS CloudHSM* provides dedicated hardware security modules (HSMs) that enable customers to create, control, and manage their own cryptographic keys in the AWS cloud.
+- *AWS CloudHSM* provides dedicated hardware security modules (HSMs) that enable customers to create, control, and manage their own cryptographic keys in the AWS cloud.
 
-*VPC Flow Logs* are an AWS service or feature that capture information about inbound and outbound network traffic from an Amazon EC2 instance. VPC Flow Logs are a feature that enables customers to capture information about the IP traffic going to and from network interfaces in their VPCs. VPC Flow Logs can help customers monitor and troubleshoot connectivity issues, such as traffic that is not reaching an instance or traffic that is being rejected by a security group.
+- *VPC Flow Logs* are an AWS service or feature that capture information about inbound and outbound network traffic from an Amazon EC2 instance. VPC Flow Logs are a feature that enables customers to capture information about the IP traffic going to and from network interfaces in their VPCs. VPC Flow Logs can help customers monitor and troubleshoot connectivity issues, such as traffic that is not reaching an instance or traffic that is being rejected by a security group.
 
-*AWS Step Functions* is a service that allows you to coordinate multiple AWS services into serverless workflows that can be triggered by events.
+- *AWS Step Functions* is a service that allows you to coordinate multiple AWS services into serverless workflows that can be triggered by events.
 
-*AWS Compute Optimizer* provides recommendations to help users get right-sized Amazon EC2 instances based on the workload's historical usage data.
+- *AWS Compute Optimizer* provides recommendations to help users get right-sized Amazon EC2 instances based on the workload's historical usage data.
 
-*AWS Cloud9* is an AWS service that enables users to run their existing custom and non-production workloads on the AWS Cloud quickly and cost-effectively. AWS Cloud9 is a cloud-based integrated development environment (IDE) that lets users write, run, and debug code from a web browser. AWS Cloud9 supports multiple programming languages, such as Python, Java, Node.js, and more. AWS Cloud9 also provides users with a terminal that can access AWS services and resources, such as Amazon EC2 instances, AWS Lambda functions, and AWS CloudFormation stacks.
+- *AWS Cloud9* is an AWS service that enables users to run their existing custom and non-production workloads on the AWS Cloud quickly and cost-effectively. AWS Cloud9 is a cloud-based integrated development environment (IDE) that lets users write, run, and debug code from a web browser. AWS Cloud9 supports multiple programming languages, such as Python, Java, Node.js, and more. AWS Cloud9 also provides users with a terminal that can access AWS services and resources, such as Amazon EC2 instances, AWS Lambda functions, and AWS CloudFormation stacks.
 
-You can use *AWS IAM Identity Center (AWS Single Sign-On)* to enable your users to sign in to a user portal with their corporate credentials and access all their assigned AWS accounts and applications from one place.
+- You can use *AWS IAM Identity Center (AWS Single Sign-On)* to enable your users to sign in to a user portal with their corporate credentials and access all their assigned AWS accounts and applications from one place.
 
-*Amazon EventBridge* is a serverless solution that makes it easy to connect application data from multiple sources without requiring additional code.
+- *Amazon EventBridge* is a serverless solution that makes it easy to connect application data from multiple sources without requiring additional code.
 
-An *IAM credential report* is a feature of AWS Identity and Access Management (IAM) that allows you to view and download a report that lists all the IAM users in your account and the status of their various credentials, such as passwords, access keys, and MFA devices.
+- An *IAM credential report* is a feature of AWS Identity and Access Management (IAM) that allows you to view and download a report that lists all the IAM users in your account and the status of their various credentials, such as passwords, access keys, and MFA devices.
 
-*AWS Directory Service for Microsoft Active Directory* allows the company to utilize a managed service for Active Directory in AWS, making it easier to integrate and manage users and security resources for the new mobile application.
+- *AWS Directory Service for Microsoft Active Directory* allows the company to utilize a managed service for Active Directory in AWS, making it easier to integrate and manage users and security resources for the new mobile application.
 
-*Amazon Textract* is capable of extracting text and data from scanned documents, ideal for reading values on invoices.
+- *Amazon Textract* is capable of extracting text and data from scanned documents, ideal for reading values on invoices.
 
-*AWS Device Farm* is an AWS service that allows customers to test their mobile and web applications on real devices in the AWS cloud.
+- *AWS Device Farm* is an AWS service that allows customers to test their mobile and web applications on real devices in the AWS cloud.
 
-*AWS Ground Station* is an AWS service that allows customers to communicate with satellites and download data from orbit.
+- *AWS Ground Station* is an AWS service that allows customers to communicate with satellites and download data from orbit.
 
-*CodeCommit* is a service that provides a fully managed source control service that hosts secure Git repositories.
+- *CodeCommit* is a service that provides a fully managed source control service that hosts secure Git repositories.
 
 
----
+## Cloud Computing Models
 
 *Infrastructure as a Service (IaaS)*
 - Description: Provides virtualized computing resources over the internet. Users can rent infrastructure like servers, storage, and networking on a pay-as-you-go basis.
@@ -425,8 +425,11 @@ An *IAM credential report* is a feature of AWS Identity and Access Management (I
 ---
 
 *AWS OpsWorks* is a configuration management service that helps you configure and operate applications in a cloud environment using Chef or Puppet.
+
 *AWS OpsWorks for Chef Automate:* Provides a fully managed Chef server that includes Chef Automate features for configuration management, compliance, and security.
+
 *AWS OpsWorks for Puppet Enterprise:* Offers a fully managed Puppet master server, allowing you to use Puppet for infrastructure and application management.
+
 *AWS OpsWorks Stacks:* An application and server management service that models your application as a stack containing different layers.
 
 

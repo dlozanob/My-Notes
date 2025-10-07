@@ -8,6 +8,8 @@ The customer is responsible for the following:
 
 ![alt text](image-2.png)
 
+![alt text](image-45.png)
+
 Summary of customer's responsabilities:
 
 1. Data: Including encryption options and data classification.

@@ -42,6 +42,7 @@
 	- Print the names of the files containing matches: `grep -l`
 	- Print line numbers for matching lines: `grep -n`
 	- Show not matching lines: `grep -v`
+	- Print files containing a given string: `grep -r`
 - Count words, lines, etc. in a file: `wc <file>`
 	- Example: Counting lines -> `wc -l /etc/passwd`
 	- Example: Counting words -> `wc -w /etc/passwd`
@@ -189,6 +190,7 @@ done
 - Check all groups: `cut -d: -f1 /etc/group`
 - Stop all processes from a folder: `lsof +D <path> | awk '{print $2}' | sort | uniq | xargs kill -9`
 - Stop all processes from an application: `ps -fu $USER | grep -E "<app1>|<app2>" | grep -v grep | awk '{print $2}' | xargs -r kill -9`
+- Backup folder: `tar -cvzf certs-backup-$(date +%Y-%m-%d_%H-%M-%S).tar.gz <folder_path>`
 
 
 ## Divide terminal
