@@ -21,12 +21,9 @@ Die VPC ist eine Netzwerk, die für die Verbindung vielzahle Geräts verfügbar 
 
 ![alt text](image-5.png)
 
-*Virtual private gateway:* A virtual private gateway is the Amazon VPC side of a VPN connection. It acts as the
-termination point for VPN connections.
+*Virtual private gateway:* A virtual private gateway is the Amazon VPC side of a VPN connection. It acts as the termination point for VPN connections.
 
-*Customer gateway:* A customer gateway is the on-premises side of a VPN connection. It is a physical or
-software appliance that is connected to your on-premises network and is responsible for establishing the VPN
-connection to your VPC.
+*Customer gateway:* A customer gateway is the on-premises side of a VPN connection. It is a physical or software appliance that is connected to your on-premises network and is responsible for establishing the VPN connection to your VPC.
 
 ![alt text](image-6.png)
 
@@ -56,9 +53,7 @@ connection to your VPC.
 
 ![alt text](image-15.png)
 
-An Availability Zone (AZ) is a component of the AWS global infrastructure that is made up of one or more discrete
-data centers that have redundant power, networking, and connectivity. Each AZ is physically separated from Other
-AZs within a region, and is designed to be fault-tolerant and provide low-latency networking.
+An Availability Zone (AZ) is a component of the AWS global infrastructure that is made up of one or more discrete data centers that have redundant power, networking, and connectivity. Each AZ is physically separated from other AZs within a region, and is designed to be fault-tolerant and provide low-latency networking.
 
 ![alt text](image-16.png)
 

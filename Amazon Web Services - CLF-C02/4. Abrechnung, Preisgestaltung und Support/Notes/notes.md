@@ -267,7 +267,7 @@ Analyse Oder Berichterstattung zu kategorisieren.
 > Beim Hashing wird ein Datenobjekt mit einem Wert fester Länge versehen, der für Integritätsprüfungen verwendet wird.
 
 >[!Note]
-> Anonymisierung ist der Prozess, bei dem persdnliche Daten aus Datensätzen entfernt und durch andere Werte ersetzt werden, um die Privatsphäre der Benutzer:innen zu schützen.
+> Anonymisierung ist der Prozess, bei dem persönliche Daten aus Datensätzen entfernt und durch andere Werte ersetzt werden, um die Privatsphäre der Benutzer:innen zu schützen.
 
 >[!Note]
 > Verschleierung (Obfuscation) ist der Prozess des Ersetzens sensibler Daten durch andere Werte, um die wirklichen Daten nicht preiszugeben, typischerweise verwendet in Testdatensätzen.

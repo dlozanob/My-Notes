@@ -8,7 +8,7 @@ The customer is responsible for the following:
 
 ![alt text](image-2.png)
 
-Summary of customer's responsabilities:
+Summary of customer's responsibilities:
 
 1. Data: Including encryption options and data classification.
 2. Applications: Any application software or utilities installed on AWS services.
@@ -173,8 +173,7 @@ Um Sicherheitsinformationen zu holen, clicken Sie hier unten:
 
 [AWS Knowledge Center](https://repost.aws/knowledge-center)
 
-The AWS Trust & Safety team can assist you when AWS resources are used to engage in the following types of
-abusive behavior:
+The AWS Trust & Safety team can assist you when AWS resources are used to engage in the following types of abusive behavior:
 
 - Spam
 - Port scanning

@@ -19,10 +19,23 @@
 - Reset to a version (go to the past): `git reset <version name>`
 	- Force action: `--hard`
 
-
 >[!Note]
 >In order to replace local with remote version use:
 >`git reset --hard origin/main`
 
+
+## Create Project
+
+1. Go to the folder
+2. `git init`
+3. Create repository in GitHub
+4. `git remote add origin https://github.com/TU_USUARIO/mi-proyecto.git`
+5. Push project
+
+```CMD
+git add .
+git commit -m "First Commit"
+git push
+```
 
 

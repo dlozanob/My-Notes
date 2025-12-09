@@ -10,6 +10,7 @@
 - [[Python]]
 - [Machines Catalog](https://machineryline.com.co)
 - [[Power BI]]
+- [[Stellar+Rust]]
 
 
 ## Robotics
