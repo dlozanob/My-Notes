@@ -42,6 +42,7 @@
 	- Print the names of the files containing matches: `grep -l`
 	- Print line numbers for matching lines: `grep -n`
 	- Show not matching lines: `grep -v`
+	- Print files containing a given string: `grep -r`
 - Count words, lines, etc. in a file: `wc <file>`
 	- Example: Counting lines -> `wc -l /etc/passwd`
 	- Example: Counting words -> `wc -w /etc/passwd`
@@ -58,6 +59,10 @@
 - Adding executables as general commands: `export PATH=$PATH:<path>`
   - Suppose a new tool is downloaded. However, it has a directory with executables. For executing them from any place, just run this command providing the executables path
 - Text manipulation tool (stream editor): `sed`
+  - Replacing entries in multiple files. Example: `grep -rl "java-17-openjdk-17.0.15.0.6-2.el8.x86_64" "$PWD" --exclude="*log*" --exclude="*diag*" | xargs sed -i 's|java-17-openjdk-17.0.15.0.6-2.el8.x86_64|java-17-openjdk-17.0.16.0.8-2.el8.x86_64|g'`
+
+>[!Note]
+> In the provided `sed` example, the `xargs` command is taking each of the multiple entries provided by greping the matching files. Thus, it loops the process for each file instead of giving the full output as a single block to `sed`
 
 
 ### Managing Permissions
@@ -183,6 +188,9 @@ done
 - Removing a path from \$PATH -> `export PATH=$(echo $PATH | tr ':' '\n' | grep -v '^<PATH TO REMOVE>$' | paste -sd:)`
 - Check all users: `cut -d: -f1 /etc/passwd`
 - Check all groups: `cut -d: -f1 /etc/group`
+- Stop all processes from a folder: `lsof +D <path> | awk '{print $2}' | sort | uniq | xargs kill -9`
+- Stop all processes from an application: `ps -fu $USER | grep -E "<app1>|<app2>" | grep -v grep | awk '{print $2}' | xargs -r kill -9`
+- Backup folder: `tar -cvzf certs-backup-$(date +%Y-%m-%d_%H-%M-%S).tar.gz <folder_path>`
 
 
 ## Divide terminal

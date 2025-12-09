@@ -1,24 +1,24 @@
-# Cloud Konzepte
+# Cloud-Konzepte
 
-- [AWS](https://us-east-2.console.aws.amazon.com/console/home?region=us-east-2)
+[AWS](https://us-east-2.console.aws.amazon.com/console/home?region=us-east-2)
 
-![alt text](image-1.png)
+![alt text](image-1c1.png)
 
-![alt text](image-2.png)
+![alt text](image-2c1.png)
 
-![alt text](image-3.png)
+![alt text](image-3c1.png)
 
-![alt text](image-4.png)
+![alt text](image-4c1.png)
 
-![alt text](image-5.png)
+![alt text](image-5c1.png)
 
-![alt text](image-6.png)
+![alt text](image-6c1.png)
 
 Das ist das Prinzipen des Cloud-Computings, die Benutzung aus Ressourcen von viele Systems.
 
-![alt text](image-7.png)
+![alt text](image-7c1.png)
 
-![alt text](image-8.png)
+![alt text](image-8c1.png)
 
 *Operational Excellence:*
 
@@ -43,30 +43,32 @@ Design principles:
 - Stop guessing capacity
 - Manage change in automation
 
-![alt text](image-12.png)
+![alt text](image-12c1.png)
 
 *AWS CAF :* AWS Cloud Adoption Framework.
 
 Is a guide to help organization to make the transition of their infrastructure into the cloud.
 [Mehr erfahren](https://aws.amazon.com/cloud-adoption-framework/)
 
-![alt text](image-10.png)
+![alt text](image-10c1.png)
 
-![alt text](image-11.png)
+![alt text](image-11c1.png)
 
 The Framework (CAF) is structured in 6 key perspectives.
 
-![alt text](image-13.png)
+![alt text](image-13c1.png)
 
-![alt text](image-14.png)
+![alt text](image-20c1.png)
 
-![alt text](image-15.png)
+![alt text](image-14c1.png)
 
-![alt text](image-16.png)
+![alt text](image-15c1.png)
 
-![alt text](image-17.png)
+![alt text](image-16c1.png)
 
-![alt text](image-18.png)
+![alt text](image-17c1.png)
 
-![alt text](image-19.png)
+![alt text](image-18c1.png)
+
+![alt text](image-19c1.png)
 

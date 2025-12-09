@@ -1,15 +1,15 @@
 # Sicherheit und Compliance
 
-![alt text](image.png)
+![alt text](imagec2.png)
 
-![alt text](image-1.png)
+![alt text](image-1c2.png)
 
 The customer is responsible for the following:
 
-![alt text](image-2.png)
+![alt text](image-2c2.png)
+![alt text](image-45c2.png)
 
 Summary of customer's responsabilities:
-
 1. Data: Including encryption options and data classification.
 2. Applications: Any application software or utilities installed on AWS services.
 3. Guest Operating System: Updates, security patches, and configuration.
@@ -31,15 +31,15 @@ However, installing patches is a shared responsibility, it depends on which patc
 - Installing operating system security patches for Amazon RDS database instances (AWS)
 - Installing operating system security patches for Amazon EC2 database instances (Customer)
 
-![alt text](image-3.png)
+![alt text](image-3c2.png)
 
-![alt text](image-5.png)
+![alt text](image-5c2.png)
 
-![alt text](image-6.png)
+![alt text](image-6c2.png)
 
-![alt text](image-7.png)
+![alt text](image-7c2.png)
 
-![alt text](image-8.png)
+![alt text](image-8c2.png)
 
 Security Groups and Network Access Control Lists (NACLs) are both critical components for managing security within AWS, but they serve different purposes and operate at different levels.
 
@@ -63,37 +63,37 @@ Security Groups and Network Access Control Lists (NACLs) are both critical compo
 
 Using both security groups and NACLs together can provide a robust, layered security approach for your AWS environment.
 
-![alt text](image-9.png)
+![alt text](image-9c2.png)
 
 >[!Note]
 > A *Security Group* is a virtual firewall that controls inbound and outbound traffic for an Amazon EC2 instance
 
-![alt text](image-10.png)
+![alt text](image-10c2.png)
 
 - *IAM:* Identity Access Management
 
-![alt text](image-12.png)
+![alt text](image-12c2.png)
 
-![alt text](image-13.png)
+![alt text](image-13c2.png)
 
-![alt text](image-14.png)
+![alt text](image-14c2.png)
 
 >[!Note]
 > Service Control Policies (SCPs) are IAM-like policies to manage permissions in AWS Organizations.
 > SCPs restrict the actions allowed for accounts within the organization making each one of them
 > compliant with your guidelines.
 
-![alt text](image-15.png)
+![alt text](image-15c2.png)
 
-![alt text](image-16.png)
+![alt text](image-16c2.png)
 
-![alt text](image-17.png)
+![alt text](image-17c2.png)
 
-![alt text](image-18.png)
+![alt text](image-18c2.png)
 
-![alt text](image-19.png)
+![alt text](image-19c2.png)
 
-![alt text](image-20.png)
+![alt text](image-20c2.png)
 
 There are only a few tasks that require you to use the root user:
 - Change your account settings. This includes the account name, email address, root user
@@ -103,25 +103,25 @@ password, and root user access keys
 - Restore IAM user permissions
 - Change your AWS Support plan or Cancel your AWS Support plan.
 
-![alt text](image-21.png)
+![alt text](image-21c2.png)
 
-![alt text](image-22.png)
+![alt text](image-22c2.png)
 
-![alt text](image-23.png)
+![alt text](image-23c2.png)
 
-![alt text](image-24.png)
+![alt text](image-24c2.png)
 
-![alt text](image-26.png)
+![alt text](image-26c2.png)
 
-![alt text](image-27.png)
+![alt text](image-27c2.png)
 
-![alt text](image-28.png)
+![alt text](image-28c2.png)
 
-![alt text](image-29.png)
+![alt text](image-29c2.png)
 
-![alt text](image-30.png)
+![alt text](image-30c2.png)
 
-![alt text](image-31.png)
+![alt text](image-31c2.png)
 
 **5 Kategorien:**
 - Kostenoptimierung
@@ -130,21 +130,21 @@ password, and root user access keys
 - Fehlertoleranz
 - Dienstleistungsgrenzen
 
-![alt text](image-44.png)
+![alt text](image-44c2.png)
 
-![alt text](image-32.png)
+![alt text](image-32c2.png)
 
-![alt text](image-33.png)
+![alt text](image-33c2.png)
 
-![alt text](image-35.png)
+![alt text](image-35c2.png)
 
-![alt text](image-36.png)
+![alt text](image-36c2.png)
 
-![alt text](image-37.png)
+![alt text](image-37c2.png)
 
-![alt text](image-38.png)
+![alt text](image-38c2.png)
 
-![alt text](image-39.png)
+![alt text](image-39c2.png)
 
 >[!Note]
 > AWS Artifact provides on-demand downloads of AWS security and compliance documents, such as AWS
@@ -158,23 +158,22 @@ Dies sind:
 - AWS Audit Manager
 - AWS Config
 
-![alt text](image-40.png)
+![alt text](image-40c2.png)
 
-![alt text](image-41.png)
+![alt text](image-41c2.png)
 
-![alt text](image-42.png)
+![alt text](image-42c2.png)
 
 >[!Note]
 > *Amazon Macie* uses machine learning to help discover, monitor, and protect sensitive data that is stored in Amazon S3 buckets.
 
-![alt text](image-43.png)
+![alt text](image-43c2.png)
 
 Um Sicherheitsinformationen zu holen, clicken Sie hier unten:
 
 [AWS Knowledge Center](https://repost.aws/knowledge-center)
 
-The AWS Trust & Safety team can assist you when AWS resources are used to engage in the following types of
-abusive behavior:
+The AWS Trust & Safety team can assist you when AWS resources are used to engage in the following types of abusive behavior:
 
 - Spam
 - Port scanning

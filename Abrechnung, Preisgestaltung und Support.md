@@ -2,13 +2,13 @@
 
 ## Abrechnung und Preisgestaltung
 
-![alt text](image.png)
+![alt text](imagec4.png)
 
-![alt text](image-1.png)
+![alt text](image-1c4.png)
 
-![alt text](image-2.png)
+![alt text](image-2c4.png)
 
-![alt text](image-3.png)
+![alt text](image-3c4.png)
 
 _EC2 type of instances:_
 
@@ -50,51 +50,53 @@ Convertible Reserved Instances are useful if you anticipate changes in your work
     - Use Case: Ideal for users who want to reduce costs with a flexible commitment.
     - EC2 instances are exclusive for Reserved Instances. While in Saving Plans, there are included 2 more services: Fargate and Lambda.
 
+![alt text](image-47c4.png)
+
 6. Dedicated Hosts
     - Description: Physical servers with EC2 instance capacity fully dedicated to your use.
     - Use Case: Useful for meeting compliance requirements and reducing costs by using existing server-bound software licenses.
 
 
-![alt text](image-4.png)
+![alt text](image-4c4.png)
 
-![alt text](image-5.png)
+![alt text](image-5c4.png)
 
 [Amazon Kostenlose Angebote](https://aws.amazon.com/de/free)
 
-![alt text](image-6.png)
+![alt text](image-6c4.png)
 
 
 ## Budget- und Kostenmanagement
 
-![alt text](image-7.png)
+![alt text](image-7c4.png)
 
-![alt text](image-8.png)
+![alt text](image-8c4.png)
 
-![alt text](image-9.png)
+![alt text](image-9c4.png)
 
 >[!Note]
 > You can now use Service Quotas in AWS GovCloud (US) Regions to View and manage your service
 > quotas at scale as your AWS workloads grow. Used to request and track service limit increases
 
-![alt text](image-10.png)
+![alt text](image-10c4.png)
 
 *AWS Cost Explorer:* Is a graphical cost analysis tool available from the Billing and Cost Management console's menu. It uses the data from each month's spending for up to the last thirteen months and can forecast a spend pattern for the next three months. The spend graphs can be tailored for certain time periods as well.
 
-![alt text](image-11.png)
+![alt text](image-11c4.png)
 
-![alt text](image-12.png)
+![alt text](image-12c4.png)
 
-![alt text](image-13.png)
+![alt text](image-13c4.png)
 
-![alt text](image-14.png)
+![alt text](image-14c4.png)
 
-![alt text](image-15.png)
+![alt text](image-15c4.png)
 
-![alt text](image-16.png)
+![alt text](image-16c4.png)
 
-![alt text](image-17.png)
+![alt text](image-17c4.png)
 
-![alt text](image-19.png)
+![alt text](image-19c4.png)
 
 _Consolidated billing_ has the following benefits:
 
@@ -121,56 +123,56 @@ security mechanisms, audit requirements, and resource sharing across accounts in
 
 ## Ressourcen für Support und Abrechnung
 
-![alt text](image-20.png)
+![alt text](image-20c4.png)
 
-![alt text](image-22.png)
+![alt text](image-22c4.png)
 
-![alt text](image-23.png)
+![alt text](image-23c4.png)
 
-![alt text](image-24.png)
+![alt text](image-24c4.png)
 
 AWS re:Post is a community-driven platform where you can find expert-verified answers to AWS technical questions. It provides access to a wealth of curated knowledge, including solutions from AWS experts, official AWS Knowledge Center articles, and troubleshooting guidance.
 
 You can ask questions, connect with AWS partners and employees, and follow popular topics to stay updated on the latest AWS developments. It's a great resource for anyone looking to deepen their understanding of AWS services and solve cloud computing challenges.
 
-![alt text](image-25.png)
+![alt text](image-25c4.png)
 
 Es bietet auch an, die Möglichkeit Support-tickets zu eröffnen.
 
-![alt text](image-26.png)
+![alt text](image-26c4.png)
 
-![alt text](image-27.png)
+![alt text](image-27c4.png)
 
 >[!Note]
 > AWS Basic Support and AWS Developer Support customers can access just the core security checks of AWS Trusted Advisor.
 
-![alt text](image-28.png)
+![alt text](image-28c4.png)
 
-![alt text](image-29.png)
+![alt text](image-29c4.png)
 
-![alt text](image-32.png)
+![alt text](image-32c4.png)
 
-![alt text](image-33.png)
+![alt text](image-33c4.png)
 
-![alt text](image-34.png)
+![alt text](image-34c4.png)
 
 The *AWS Health API* is available for the Business Support Plan. It provides programmatic access to AWS Health information that is presented in the AWS Personal Health Dashboard. It can help users get timely and personalized information about events that can affect the availability and performance of their AWS resources.
 
-![alt text](image-36.png)
+![alt text](image-36c4.png)
 
-![alt text](image-37.png)
+![alt text](image-37c4.png)
 
-![alt text](image-38.png)
+![alt text](image-38c4.png)
 
-![alt text](image-39.png)
+![alt text](image-39c4.png)
 
-![alt text](image-40.png)
+![alt text](image-40c4.png)
 
-![alt text](image-41.png)
+![alt text](image-41c4.png)
 
-![alt text](image-42.png)
+![alt text](image-42c4.png)
 
-![alt text](image-43.png)
+![alt text](image-43c4.png)
 
 >[!Note]
 >
@@ -178,9 +180,9 @@ The *AWS Health API* is available for the Business Support Plan. It provides pro
 
 [Weitere Informationen über Supportpläne](http://aws.amazon.com/de/premiumsupport/plans)
 
-![alt text](image-44.png)
+![alt text](image-44c4.png)
 
-![alt text](image-45.png)
+![alt text](image-45c4.png)
 
 If you have an account or billing related question, do the
 following:
@@ -228,7 +230,7 @@ The TAM plays a crucial role in Enterprise Support by:
 - Issue Resolution: Coordinating with support teams to resolve issues efficiently and effectively.
 - Strategic Planning: Assisting in the development of long-term IT strategies to support business objectives.
 
-![alt text](image-46.png)
+![alt text](image-46c4.png)
 
 **APN Consulting Partners**
 - Role: Professional services firms that help customers design, architect, build, migrate, and manage their workloads and applications on AWS.
@@ -267,7 +269,7 @@ Analyse Oder Berichterstattung zu kategorisieren.
 > Beim Hashing wird ein Datenobjekt mit einem Wert fester Länge versehen, der für Integritätsprüfungen verwendet wird.
 
 >[!Note]
-> Anonymisierung ist der Prozess, bei dem persdnliche Daten aus Datensätzen entfernt und durch andere Werte ersetzt werden, um die Privatsphäre der Benutzer:innen zu schützen.
+> Anonymisierung ist der Prozess, bei dem persönliche Daten aus Datensätzen entfernt und durch andere Werte ersetzt werden, um die Privatsphäre der Benutzer:innen zu schützen.
 
 >[!Note]
 > Verschleierung (Obfuscation) ist der Prozess des Ersetzens sensibler Daten durch andere Werte, um die wirklichen Daten nicht preiszugeben, typischerweise verwendet in Testdatensätzen.
