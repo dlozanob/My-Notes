@@ -204,7 +204,7 @@ Hier ist die Gruppe Rathäuser, im Singularform *Rathaus*, das Neutrum ist. Desh
 	- *lm Gegensatz zum* steigenden Online-Umsatz beim Kauf von Büchern, Reisen Oder neuen elektronischen Geräten ist der Wochenendausflug ins Möbelhaus bei der Auswahl eines Einrichtungsgegenstandes immer noch die wichtigste Inspirationsquelle
 
 
-## FInalangaben
+## Finalangaben
 
 Diese beide Strukture können ebenfalls Finalität ausdrücken.
 
@@ -226,9 +226,17 @@ Beispiele:
 	- Für eine größere Meinungsvielfalt sollte man nicht bei der Suche medizinischen Tipps auf der ersten Seite hängenbleiben
 
 
+## Vermutungen ausdrücken
 
+![alt text](image-26.png)
 
+![alt text](image-27.png)
 
+Beispiele:
+- Sport macht ihm keinen Spaß
+  - Sport könnte ihm keinen Spaß machen
+- Er hat sicher gesundheitliche Gründe
+  - Er muss gesundheitliche Gründe haben
 
 
 
