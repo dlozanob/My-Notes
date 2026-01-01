@@ -147,7 +147,7 @@ Sie stehen im Aktiv und umschreiben Passivkonstruktionen.
 		- Die Verwendung von Plastiktüten *ist zu vermeiden*
 - *Empfehlung*
 	- Die Folgen für unsere Gesundheit dürfen/sollten nicht unterschätz werden
-		- DIe Folgen für unsere Gesundheit *sind nicht zu unterschätzen*
+		- Die Folgen für unsere Gesundheit *sind nicht zu unterschätzen*
 
 ![](attachments/Pasted%20image%2020250714220416.png)
 
@@ -229,8 +229,7 @@ Beispiele:
 ## Vermutungen ausdrücken
 
 ![alt text](image-26.png)
-
-![alt text](image-27.png)
+![alt text](image-312.png)
 
 Beispiele:
 - Sport macht ihm keinen Spaß
@@ -239,7 +238,21 @@ Beispiele:
   - Er muss gesundheitliche Gründe haben
 
 
+## Konditionalangaben
 
+**Verbalform:**
+- *Wenn*
+  - *Wenn* man beim Lernen spazieren geht, kann man sich besser an das Gelernte erinnern
+- *Falls*
+  - Ich kann dir einen Tipp geben, *falls* du dich für einen Sprachkurs interessierst
+
+**Nominalform:**
+- *Beim + Dativ*
+  - *Beim  Spazierengehen* kann man sehr gut lernen
+- *Ohne + Akkusativ*
+  - *Ohne regelmäßige Wiederholung* vergisst man das Gelernte schnell
+
+![alt text](image-317.png)
 
 
 

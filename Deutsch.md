@@ -23,8 +23,10 @@
 
 - [Deutsche Kurse](https://www.deutschakademie.de)
 - [Deutsch.info](https://deutsch.info/courses/b2)
-
-
+- https://fluentwrite.com/
+- https://www.learning-german-online.net/writing
+- https://dhkedu.com/
+- https://www.deutschakademie.de/online-deutschkurs/english
 
 
 

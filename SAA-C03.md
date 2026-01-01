@@ -150,7 +150,7 @@ Types of storage usages:
 - *File Storage*
   - Chunk of information
   - Use with NAS devices locally
-  - S3 is simmilar bt using objects
+  - S3 is simmilar but using objects
 
 Selecting storage:
 - Size
@@ -205,7 +205,7 @@ Use *Snowball* for small data storage.
 
 ![alt text](image-29.png)
 
-Data modification can occur before all data is synchronized accros buckets. This would end up in inconsistences
+Data modification can occur before all data is synchronized accros buckets. This would end up in inconsistencies
 
 >[!Note]
 > Objects in S3 buckets have eventual consistency.
@@ -223,14 +223,14 @@ Therefore, S3 works great for static website hosting.
 - Listing keys in buckets
   
 
-  ### REST Interface
+### REST Interface
 
 ![alt text](image-30.png)
 
 ### S3 Features
 
 - Prefixes and delimiters
-  - There are no folder hierarchies in S3. An object path is made by a series of prefixes separated by delimiters (/market/sales/[object_name]). Look like hierarchy, under the hood is not
+  - There are no folder hierarchies in S3. An object path is made by a series of prefixes separated by delimiters (/market/sales/[object_name]). Looks like a hierarchy, under the hood is not
 - Storage Classes
 
   ![alt text](image-31.png)
@@ -362,7 +362,7 @@ Allows to create Windows server shares. It's basically a data center server wher
 
 Uses the SMB (Server Message Block) network file sharing protocol. Which allows applications and users to read/write files on remote servers. 
 
-Offers the advantage to provide a server with the minimum requiremens to act as a file-sharing system instead of an edge-performance machine.
+Offers the advantage to provide a server with the minimum requirements to act as a file-sharing system instead of an edge-performance machine.
 
 ![alt text](image-44.png)
 
@@ -476,7 +476,7 @@ Amazon Direct Connect Architecture:
 - Only available within a VPC
 - Associated with a subnet
 - Allows dual-homing
-  - A router is a dual-homed device: Allows connection to the internet and to your private netowork
+  - A router is a dual-homed device: Allows connection to the internet and to your private network
 - One public address and multiple private addresses
 
 ![alt text](image-59.png)
@@ -521,7 +521,7 @@ Creating VPC Peers:
 - Initiating VPC sends a request to the receiving VPC
   - Owner role required
   - IP CID blocks in each VPC must not overlap
-- Receiving VPC accepsts the request
+- Receiving VPC accepts the request
   - Owner role required
 - Each VPC needs a defined route to the other VPC
   - May require routing table modifications
@@ -1230,5 +1230,771 @@ Create roles when:
 ![alt text](image-183.png)
 
 ### Root user
+
+- Email address used to create the AWS subscription
+- Unlimited capabilities
+- Not recommended for everyday access
+- Create an IAM admin user and safely store the root user account
+
+**Root Access Tasks:**
+- Modifying the root user
+- Changing the AWS support plan
+- Closing an AWS account
+- Creating a CloudFront key pair
+- Enabling MFA on an S3 bucket
+- Restore permissions for other IAM users
+
+> [!Note]
+> If lost access to the root account, contact AWS support
+
+![alt text](image-184.png)
+
+### Authentication
+
+- Validation of credentials
+- Credential provide identity
+- Single-factor
+- Multi-factor
+- Entity to authenticate
+  - Persons
+  - Processes
+
+**Authentication in AWS:**
+- Required to manage AWS
+- S3 allows anonymous access
+- User name and password
+  - Console
+- Access key and secret key
+  - API
+  - CLI
+
+![alt text](image-185.png)
+
+### Authorization Policies
+
+**Policies:**
+- Rules that determine allowed actions or access
+- Used throughout AWS
+- Uses JSON
+  - Created by GUI
+  - Coded directly
+- Vary by object
+
+**Authorization:**
+- Validation of actions
+- Provided by AWS policies
+- Policy types
+  - Identity-based policies
+    - Used with users, groups, or roles
+  - Resource-based policies
+    - Used for cross-account access (accounts from different AWS subscriptions)
+
+**Policy Processing:**
+- By default, all requests are denied
+- Explicit allow overrides the default
+- Permission boundaries can override explicit allows
+- Explicit denies override explicit allows
+
+**Actions or Operations:**
+- Request is authenticated
+  - Action or operation is processed
+- Request is authorized
+  - Linked to a service
+- Process against a resource
+- Includes CRUD:
+  - Create (launch)
+  - Read (view)
+  - Update (edit)
+  - Delete (terminate)
+
+![alt text](image-186.png)
+![alt text](image-187.png)
+
+Some resources for the EC2 service:
+
+![alt text](image-188.png)
+![alt text](image-189.png)
+
+### Multi-Factor Authentication (MFA)
+
+**AWS MFA:**
+- Best practice
+- Couples user name and password with another factor
+- Can be enabled for the root account and users
+
+![alt text](image-190.png)
+
+![alt text](image-191.png)
+
+### Key Rotation
+
+- Best practices suggest rotating keys
+  - Access key ID
+  - Secret access key
+- Key rotation only applies to user accounts
+
+![alt text](image-192.png)
+
+Listing Access Keys in the AWS CLI:
+
+![alt text](image-194.png)
+
+![alt text](image-195.png)
+
+### Multiple Permissions
+
+- Users
+- Groups
+- Boundaries
+
+![alt text](image-196.png)
+![alt text](image-197.png)
+
+### AWS Compliance Program
+
+[Amazon Compliance Programs](https://aws.amazon.com/compliance/programs/)
+
+![alt text](image-198.png)
+
+### AWS Security Hub
+
+Inspects your environment to ensure you are in compliance.
+
+![alt text](image-199.png)
+
+![alt text](image-200.png)
+![alt text](image-201.png)
+![alt text](image-202.png)
+
+### Shared Responsibility Model
+
+**AWS Responsibilities:**
+- Security of the cloud
+  - Physical
+  - Network
+  - Hypervisor
+  - Managed services (DynamoDB, Redshift, etc)
+
+**Customer Responsibilities:**
+- Security in the cloud
+  - Guest OS
+  - Application
+  - User data
+
+![alt text](image-203.png)
+![alt text](image-204.png)
+![alt text](image-205.png)
+
+### Data Security Control
+
+![alt text](image-206.png)
+![alt text](image-207.png)
+![alt text](image-208.png)
+![alt text](image-209.png)
+![alt text](image-210.png)
+![alt text](image-211.png)
+![alt text](image-212.png)
+
+### Federated Directory Services
+
+![alt text](image-213.png)
+![alt text](image-214.png)
+![alt text](image-215.png)
+
+![alt text](image-216.png)
+![alt text](image-217.png)
+
+![alt text](image-218.png)
+
+
+## Identity and Access Management (IAM) Best Practices
+
+### User Accounts
+
+![alt text](image-219.png)
+![alt text](image-220.png)
+![alt text](image-221.png)
+![alt text](image-222.png)
+![alt text](image-223.png)
+![alt text](image-224.png)
+![alt text](image-225.png)
+![alt text](image-226.png)
+![alt text](image-227.png)
+![alt text](image-228.png)
+
+Creating a Access Key for the new user:
+
+![alt text](image-229.png)
+
+![alt text](image-230.png)
+
+### Password Policies
+
+**Default Password Policy:**
+- Min 8 characters
+- Max 128 characters
+- At least 3 of these 4 character types:
+  - Uppercase
+  - Lowercase
+  - Numbers
+  - Special characters
+- Can't be the same as the account name or email
+
+**Password Best Practices:**
+- Change password periodically
+- Use a unique password for AWS
+- Avoid easily guessed passwords
+
+![alt text](image-231.png)
+![alt text](image-232.png)
+
+![alt text](image-233.png)
+
+### Credential Rotation
+
+![alt text](image-234.png)
+
+Enable Password Expiration:
+
+![alt text](image-236.png)
+
+![alt text](image-237.png)
+
+### Principle of Least Privilege
+
+- Grant only the access needed
+  - Granting more acess creates vulnerabilities
+    - Opens the door to mistakes
+  - Opens the door for attackers
+
+![alt text](image-238.png)
+
+In the IAM section:
+
+![alt text](image-239.png)
+
+![alt text](image-240.png)
+
+This policy is attached from a group where the policy rules come from.
+
+![alt text](image-241.png)
+
+### IAM Roles
+
+Go to IAM:
+
+![alt text](image-242.png)
+
+Creating a role:
+
+![alt text](image-243.png)
+
+Selecting EC2 service:
+
+![alt text](image-245.png)
+
+This is allowing the EC2 instance to create buckets or do other stuff in S3.
+
+![alt text](image-246.png)
+
+![alt text](image-247.png)
+
+![alt text](image-248.png)
+
+### Amazon STS (Security Token Service)
+
+![alt text](image-249.png)
+
+![alt text](image-250.png)
+
+![alt text](image-251.png)
+
+![alt text](image-252.png)
+
+> [!Note]
+> Instead of creating multiple AWS accounts for using certain services, users can use the [AssumeRole](https://docs.aws.amazon.com/STS/latest/APIReference/API_AssumeRole.html) API built into AWS STS
+
+![alt text](image-253.png)
+
+### Policy Conditions
+
+Go to the IAM console:
+
+![alt text](image-254.png)
+
+![alt text](image-255.png)
+
+We choose the S3 service for this case.
+
+Choosing actions:
+
+![alt text](image-256.png)
+
+Choosing resources:
+
+![alt text](image-257.png)
+
+Specifying the conditions:
+
+![alt text](image-258.png)
+
+
+The policy grants listing and reading every bucket marked as "Marketing".
+
+Created policy summary:
+
+![alt text](image-259.png)
+
+![alt text](image-260.png)
+
+### CloudTrail
+
+- Logging services
+  - Governance
+    - Making sure we are doing what we're supposed to do
+  - Compliance
+    - Proving we are doing what we should do
+  - Auditing
+    - Evaluating wheter we're doing what we should do
+- Event histories
+  - Management console
+  - AWS SDK
+  - Command Line
+  - Additional AWS Services
+
+![alt text](image-261.png)
+
+Going to the CloudTrail console to visualize events:
+
+![alt text](image-262.png)
+
+Creating a trail:
+
+![alt text](image-263.png)
+
+![alt text](image-264.png)
+
+![alt text](image-265.png)
+
+![alt text](image-266.png)
+
+> [!Note]
+> S3 bucket names are global
+
+![alt text](image-267.png)
+
+### AWS Control Tower
+
+![alt text](image-268.png)
+
+![alt text](image-269.png)
+
+Follow all the steps:
+
+![alt text](image-270.png)
+
+![alt text](image-271.png)
+
+### Service Control Policies (SCPs)
+
+![alt text](image-272.png)
+
+![alt text](image-273.png)
+
+![alt text](image-274.png)
+
+![alt text](image-275.png)
+
+### Key Security Services
+
+![alt text](image-276.png)
+
+![alt text](image-277.png)
+
+![alt text](image-279.png)
+
+![alt text](image-280.png)
+
+### Additional Security Services
+
+![alt text](image-281.png)
+
+![alt text](image-282.png)
+
+![alt text](image-283.png)
+
+![alt text](image-285.png)
+
+![alt text](image-286.png)
+
+![alt text](image-287.png)
+
+
+## Auto Scaling Solutions
+
+### Auto Scaling Overview
+
+- Monitors applications
+- Adjusts capacity
+- Manages costs
+
+![alt text](image-288.png)
+
+**Scalable AWS Resources:**
+- EC2 Auto Scaling groups
+- Aurora DB clusters
+- DynamoDB global secondary indexes
+- DynamoDB tables
+- Elastic Container Service (ECS) services
+- Spot Fleet requests
+
+**Auto Scaling Costs:**
+- Free to use
+- Results of use may cost:
+  - More instances
+  - CloudWatch
+  - ELBs
+
+![alt text](image-289.png)
+
+### Auto Scaling Groups
+
+- Collection of instances with simmilar characteristics
+  - Can be scaled based on criteria
+  - Unhealthy instances can be auto-replaced
+    - Any state other than "Running" is unhealthy
+
+**Group Considerations:**
+- Time to launch and configure a server
+- Relevant metrics to your application
+  - CPU utilization
+  - Network throughput
+  - Free memory
+- What AZs should the Auto Scaling group span?
+- Scale to increase or decrease capacity
+- Specify min number of instances always running
+
+![alt text](image-290.png)
+
+### Termination Policies
+
+- Scaling Out - Adding instances
+- Scaling In - Removing instances
+
+Termination policies determine how to scale out or in instances:
+
+![alt text](image-291.png)
+
+In this graph we are selecting the best instance to terminate.
+
+Order of criteria when terminating instances:
+
+![alt text](image-292.png)
+
+Terminating oldest instances first is helpful because they are more prone to be unstable than newer instances.
+
+> [!Note]
+> The last one means terminate the instances according to the default termination policy
+
+![alt text](image-293.png)
+
+### Auto Scaling Configuration Lab
+
+![alt text](image-294.png)
+![alt text](image-295.png)
+![alt text](image-296.png)
+
+Create Launch Configuration:
+
+![alt text](image-297.png)
+![alt text](image-298.png)
+![alt text](image-299.png)
+![alt text](image-300.png)
+![alt text](image-301.png)
+![alt text](image-302.png)
+![alt text](image-303.png)
+
+Creating Auto Scaling Group:
+
+![alt text](image-305.png)
+
+For high availability we should pick all subnets for multiple AZs coverage.
+
+![alt text](image-307.png)
+![alt text](image-308.png)
+![alt text](image-309.png)
+![alt text](image-310.png)
+![alt text](image-311.png)
+
+### Launch Methods
+
+Those are methods for launching Auto Scaling groups.
+
+- Creating an Auto Scaling group using a launch template
+
+![alt text](image-313.png)
+
+- Creating an Auto Scaling group using a launch configuration
+
+This is the one used in the previous lab.
+
+- Creating an Auto Scaling group using an EC2 instance
+
+Create an AMI from the EC2 instance, then use this AMI to launch the Auto Scaling group.
+
+- Create an Auto Scaling group using the Amazon EC2 launch wizard
+
+![alt text](image-314.png)
+
+### Load Balancer Concepts
+
+![alt text](image-315.png)
+
+The Load Balancer defines which node takes the operation.
+
+**Load Balancing Categories:**
+- Sender initiated
+  - Sender locates best target
+- Receiver initiated
+  - Receiver selects best target
+
+**Static Load Balancing:**
+- Multi-tier application
+  - Specific actions are assigned to specific servers/resources
+  - Actions always processed on assigned target
+  - No scalability
+
+**Dynamic Load Balancing:**
+- True load balancing
+  - Actions are dynamically assigned
+  - Scalability is provided
+- Used by AWS Elastic Load Balancing (ELB)
+
+**Load Balancing Algorithms:**
+- Round Robin
+  - Each request rotates to the next available node (first request to the first available node, and so on)  
+- Randomized
+- Centrally Managed
+  - The ELB has a smart decision system
+  - Things it takes into consideration
+    - Current service load of the nodes
+    - Time of the day
+    - Kind of request
+- Threshold-Based
+  - Sends an amount of requests to a server until reaching certain request per second. Then move on sending those requests to the next server
+
+![alt text](image-316.png)
+
+### Elastic Load Balancer (ELB)
+
+**ELB Benefits:**
+- Highly available
+- Secure
+- Flexible
+  - It can be implemented in several different ways
+- Monitoring and auditing included
+- Elastic
+- Hybrid
+  - Multiple types of load balancing in a single ELB implementation allowed
+
+**Load Balancer Types:**
+![alt text](image-318.png)
+
+Classic Load Balancer is intended to be implemented in old architectures.
+
+**Supported Services:**
+- EC2
+- ECS
+- Auto Scaling
+- CloudWatch
+- Route 53
+
+![alt text](image-319.png)
+
+![alt text](image-320.png)
+
+
+## Virtual Network Services
+
+### DNS
+
+**DNS Overview:**
+- DNS (Domain Name System)
+- DNS definition mainly provided in RFCs 1034 and 1035
+- Domains are specified boundaries of activity
+  - For example *www* is a domain
+- DNS provides name to IP address mapping
+
+![alt text](image-321.png)
+![alt text](image-322.png)
+
+**DNS Hosting:**
+- Provides name resolution
+  - Caching
+    - Once found the IP address, next request will directly provide it since the IP address is cached
+  - Recursion
+    - Recursive domain searching until finding IP for FQDN
+- Stores DNS database
+  - Aliasing
+- Provides DNS zone transfers
+  - Offloads name resolution processing. One zone can be transferred to another for caching purposes
+
+**DNS Resolution:**
+- Requests IP address of a host name
+  - Forward lookup
+- Request host name of an IP address
+  - Reverse lookup
+- Requestor is configured with a DNS server address
+  - Example: 8.8.8.8
+
+**DNS Records:**
+- A and AAAA (quad A record)
+  - Resolve hostnames to IPv4 (A record) or IPv6 (quad A record)
+- NS (Name Server records)
+  - Domain > hostname
+- MX (Mail Exchange record)
+  - Mail record. Locates the mail server for a given domain
+- CNAME
+  - Alias for the real name (canonical)
+  - Shortening FQDN hierarchies
+    - Example: something.something...something.com -> www.something.com
+
+![alt text](image-323.png)
+
+
+> [!Note]
+> For learning the very details about DNS look up Request For Comments (RFCs).
+>
+> RFCs (Requests for Comments) are technical documents published by the Internet Engineering Task Force (IETF) that describe specifications, procedures, and standards for Internet technologies. They serve as a platform for sharing ideas, proposing new concepts, and standardizing protocols that ensure interoperability among different systems. RFCs are essential for the development and evolution of the Internet, as they provide the foundation for protocols like TLS, QUIC, and WebRTC, which are widely used across various applications.
+
+### Configuring DNS Lab
+
+![alt text](image-324.png)
+
+Customizing the IAM access link:
+![alt text](image-325.png)
+![alt text](image-326.png)
+
+The given account alias is global in AWS.
+
+![alt text](image-327.png)
+
+Go to EC2.
+
+![alt text](image-328.png)
+
+There are public DNS' for each instance.
+
+![alt text](image-329.png)
+
+Through Route 53 it's possible to assign an alias for that IP address.
+
+![alt text](image-330.png)
+
+### Configuring Route 53 Lab
+
+![alt text](image-331.png)
+![alt text](image-333.png)
+
+Go to DNS management:
+![alt text](image-332.png)
+
+Creating a hosted zone:
+![alt text](image-334.png)
+
+Though *google.com* can be used as host name, all nodes in the VPC won't be able to go to the actual *google.com* because they'll be redirected to the node set as *google.com*.
+
+![alt text](image-335.png)
+![alt text](image-336.png)
+
+Possible to import Zone Files to caching all stored record in other zones.
+
+Creating a record set:
+![alt text](image-337.png)
+
+**Routing Policies:**
+- Simple
+  - Find the IP address for a given host
+- Weighted
+  - Having multiple nodes, weight the numer of the times the user is redirected to a determined IP address
+    - Example: 80% of the time go to 192.168.17.27 as 20% of the time go to 192.168.17.28
+  - Can be useful for testing an app version by making it available for a small set of users
+- Latency
+  - Sending the users to the destination with the lowest latency
+- Failover
+  - If somehow one of the servers fails a health check, Route 53 is able to redirect the user to another IP address
+- Geolocation
+  - Assign the closest server to the user according to their geolocation for lower latency
+- Multivalue answer
+  - Have multiple health checks (up to 8) to evaluate the health of the instances. Route 53 takes the one with the best conditions based on these tests
+
+![alt text](image-338.png)
+
+Created an A record:
+![alt text](image-339.png)
+
+Creating a Health Check:
+![alt text](image-340.png)
+
+![alt text](image-341.png)
+
+### Configuring ACLs and NACLs Lab
+
+Go to S3, go to any bucket and go to permissions.
+
+![alt text](image-342.png)
+
+Permissions for S3 buckets can be established there:
+![alt text](image-343.png)
+
+Go now to VPC > Network ACLs.
+
+![alt text](image-344.png)
+![alt text](image-345.png)
+
+Setting NACL rules:
+![alt text](image-346.png)
+
+
+Subnet Associations:
+![alt text](image-347.png)
+
+Pick one and apply it:
+![alt text](image-348.png)
+![alt text](image-349.png)
+
+![alt text](image-350.png)
+
+### VPC Flow Logs
+
+Capture the information about the traffic that's moving in the environment.
+
+Go to EC2 > Network Interfaces.
+Create a Flow Log:
+![alt text](image-351.png)
+![alt text](image-352.png)
+
+It's possible to create Flow Logs for VPCs and Subnets as well.
+
+![alt text](image-353.png)
+
+
+## Designing Cost-Optimized Compute
+
+### Application and Deployment Services
+
+### Additional Application Services
+
+### Lambda
+
+### API Gateway
+
+### Kinesis
+
+### Kinesis Data Streams and Firehose
+
+### Kinesis Data Analytics
+
+### Reference Architectures
 
 
