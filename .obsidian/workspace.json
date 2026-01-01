@@ -14,11 +14,25 @@
               "type": "markdown",
               "state": {
                 "file": "Deutsch_B2.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Deutsch_B2"
+            }
+          },
+          {
+            "id": "a9835284e60ce635",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Deutsch_B1.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Deutsch_B1"
             }
           }
         ]
@@ -61,7 +75,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 315.51103591918945
+    "width": 315.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "8cf20f15e2d652f4",
@@ -212,6 +227,9 @@
   },
   "active": "b77b8373572d186e",
   "lastOpenFiles": [
+    "Deutsch_B1.md",
+    "Deutsch_B2.md",
+    "Deutsch.md",
     "image-353.png",
     "image-352.png",
     "image-351.png",
@@ -222,7 +240,6 @@
     "image-346.png",
     "image-345.png",
     "image-344.png",
-    "image-343.png",
     "Deutsch_C1.md",
     "Git commands.md",
     "Cloud Computing.md",
@@ -247,7 +264,6 @@
     "Amazon Web Services - CLF-C02/2. Sicherheit und Compliance/Notes/image-4c2",
     "Amazon Web Services - CLF-C02/2. Sicherheit und Compliance/Notes/image-45c2",
     "conflict-files-obsidian-git.md",
-    "Deutsch_B2.md",
     "Other.md",
     "Harvard TinyML.md",
     "1. Fundamentals of Tiny ML.md",
@@ -257,7 +273,6 @@
     "Stellar+Rust.md",
     "Matlab.md",
     "Power BI.md",
-    "Cybersec.md",
     "Untitled.canvas"
   ]
 }

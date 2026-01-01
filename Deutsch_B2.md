@@ -254,6 +254,20 @@ Beispiele:
 
 ![alt text](image-317.png)
 
+## Pro- und Kontra-Argumentation mit zweiteiligen Satzverbindungen
+
+- *Zwar...aber*
+	- Die Schweiz ist *zwar* ein kleines Land, *aber* sie ist ökonomisch sehr erfolgreich
+	- Es gibt an den Schweizer Unis *zwar* in der Regel keine Zulassungsbeschränkung, *aber* an der Uni St. Gallen muss man eine Aufnahmeprüfung bestehen
+	- Das Leben in der Schweiz ist *zwar* für ausländische Studierende sehr teuer, *aber* es kommen immerhin 27 Prozent der Studierende aus dem Ausland 
+- *Einerseits...andererseits*
+	- *Einerseits* bietet der Schweiz sehr gute Studienbedingungen, *andererseits* sind die Lebenshaltungskosten sehr hoch
+	- *Einerseits* möchte Justus nach dem Abitur studieren, *andererseits* würde er gern in der Welt herumreisen
+	- *Einerseits* müssen die Studierende viel lernen, *andererseits* haben viele Studierende einen Nebenjob
+
+
+
+
 
 
 
