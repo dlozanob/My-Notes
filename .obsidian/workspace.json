@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud Computing.md",
+                "file": "Deutsch_B2.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cloud Computing"
+              "title": "Deutsch_B2"
             }
           }
         ]
@@ -212,6 +212,20 @@
   },
   "active": "b77b8373572d186e",
   "lastOpenFiles": [
+    "image-353.png",
+    "image-352.png",
+    "image-351.png",
+    "image-350.png",
+    "image-349.png",
+    "image-348.png",
+    "image-347.png",
+    "image-346.png",
+    "image-345.png",
+    "image-344.png",
+    "image-343.png",
+    "Deutsch_C1.md",
+    "Git commands.md",
+    "Cloud Computing.md",
     "CLF-02.md",
     "Abrechnung, Preisgestaltung und Support.md",
     "Cloud Technologie und -Services.md",
@@ -221,18 +235,7 @@
     "Amazon Web Services - CLF-C02/2. Sicherheit und Compliance/Notes/notes.md",
     "Amazon Web Services - CLF-C02/3. Cloud Technologie und -Services/Notes/notes.md",
     "Amazon Web Services - CLF-C02/4. Abrechnung, Preisgestaltung und Support/Notes/notes.md",
-    "Cloud Computing.md",
     "Main.md",
-    "image-47c4.png",
-    "image-46c4.png",
-    "image-45c4.png",
-    "image-44c4.png",
-    "image-43c4.png",
-    "image-42c4.png",
-    "image-41c4.png",
-    "image-40c4.png",
-    "image-39c4.png",
-    "image-38c4.png",
     "Amazon Web Services - CLF-C02/2. Sicherheit und Compliance/Notes/a",
     "Amazon Web Services - CLF-C02/2. Sicherheit und Compliance/Notes/New folder",
     "Amazon Web Services - CLF-C02/2. Sicherheit und Compliance/Notes/imagec2",
@@ -255,9 +258,6 @@
     "Matlab.md",
     "Power BI.md",
     "Cybersec.md",
-    "myDrawings.md",
-    "TO DO.md",
-    "SAA-C03.md",
     "Untitled.canvas"
   ]
 }
