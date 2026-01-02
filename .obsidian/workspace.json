@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7e2f3ae4905cdc61",
+        "id": "6604e2d4e14611a6",
         "type": "tabs",
         "children": [
           {
-            "id": "b77b8373572d186e",
+            "id": "b6126ecb2b1b09d2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,7 +22,7 @@
             }
           },
           {
-            "id": "a9835284e60ce635",
+            "id": "607a00b0316e37e0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -225,11 +225,20 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "b77b8373572d186e",
+  "active": "b6126ecb2b1b09d2",
   "lastOpenFiles": [
     "Deutsch_B1.md",
     "Deutsch_B2.md",
+    "attachments/Pasted image 20260102232044.png",
+    "Deutsch_A1.md",
+    "Deutsch_A2.md",
+    "attachments/Pasted image 20260102222405.png",
     "Deutsch.md",
+    "Français.md",
+    "Français_B1.md",
+    "Français_A2.md",
+    "Français_A1.md",
+    "Français_B2.md",
     "image-353.png",
     "image-352.png",
     "image-351.png",
@@ -238,8 +247,6 @@
     "image-348.png",
     "image-347.png",
     "image-346.png",
-    "image-345.png",
-    "image-344.png",
     "Deutsch_C1.md",
     "Git commands.md",
     "Cloud Computing.md",
@@ -265,14 +272,6 @@
     "Amazon Web Services - CLF-C02/2. Sicherheit und Compliance/Notes/image-45c2",
     "conflict-files-obsidian-git.md",
     "Other.md",
-    "Harvard TinyML.md",
-    "1. Fundamentals of Tiny ML.md",
-    "TensorFlow.md",
-    "ROS.md",
-    "Python.md",
-    "Stellar+Rust.md",
-    "Matlab.md",
-    "Power BI.md",
     "Untitled.canvas"
   ]
 }

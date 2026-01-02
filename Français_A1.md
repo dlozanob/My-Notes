@@ -385,7 +385,7 @@ Si el pronombre no es personal, se debe añadir con el verbo:
 
 - Laurent et Pierre dansent dans la cuisine -> Dansent-ils dans la cuisine?
 - Jean, est-il dans le magasin?
-- Il y a 5 pommes dans le panier -> Y a-t-ill 5 pommes dans le panier?
+- Il y a 5 pommes dans le panier -> Y a-t-il 5 pommes dans le panier?
 
 
 ## La négation
@@ -532,7 +532,6 @@ Si el pronombre no es personal, se debe añadir con el verbo:
 - _Traversez_ la place
 - Pour aller à l'Hôtel, s'il vous plaît?
 - Où se trouver la Bastille?
-- C'est _tout près_
 - _Tout droit_
 - _Au bout_ de la rue
 - Au premier croisement...

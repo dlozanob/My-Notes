@@ -265,6 +265,27 @@ Beispiele:
 	- *Einerseits* möchte Justus nach dem Abitur studieren, *andererseits* würde er gern in der Welt herumreisen
 	- *Einerseits* müssen die Studierende viel lernen, *andererseits* haben viele Studierende einen Nebenjob
 
+## Adjektive und Partizipien als Nomen
+
+![](attachments/Pasted%20image%2020260102222405.png)
+
+- Nächste Woche finden Schulungen für *Lehrende* zur Verbesserung der medialen Kompetenzen statt
+- Die meisten *Angestellten* haben eine Kündigungsfrist von sechs Wochen
+- *Beamte* arbeiten im öffentlichen Dienst
+- Bei der Mitarbeiterführung können *Vorgesetzter* viele Fehler machen
+- Hier finden Sie Angebote für Kinder und *Jugendliche*
+
+## Motivationschreiben
+
+Das folgende Motivationschreiben wurde an der ältesten Universität der Schweiz geleitet. Also es enthält Besonderheiten.
+
+![](attachments/Pasted%20image%2020260102232044.png)
+
+- In der Schweiz folgt nach der Anrede gar nichts, in Deutschland steht ein Komma
+- Das erste Wort im ersten Satz wird großgeschrieben, in Deutschland klein
+- In der Schweiz gibt es kein *ß*. Die Schweizer schreiben dafär *ss*
+- Die Schweizer schätzen Höflichkeit und Zurückhaltung. Wenn es passt, verwendet man dafür den Konjunktiv II
+- Der richtige Gruß lautet in der Schweiz: *Freundliche Grüsse*
 
 
 
