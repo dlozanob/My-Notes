@@ -298,7 +298,7 @@ Se pone acento grave cuando:
 
 - **Avec les villes** :
 	- Je vais **à Paris**, **à Tokyo**, **à Montréal**.
-- **Avec les pays masculins ne commençant pas par une voyelle (rare mais existe si pas d’article)** :
+- **Certains pays sans article (rare mais existe si pas d’article)** :
 	- Il va **à Cuba**, **à Madagascar**.
 - **Avec les îles (souvent)** :
 	- Elle va **à Malte**, **à Chypre**, **à Hawaï**.

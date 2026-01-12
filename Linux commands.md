@@ -72,7 +72,7 @@
   - `ll`
 - Checking permissions for the same directory without listing: `ls -ld`
 - Checking permissions for current user: `getfacl <file>`
-- Setting permissions for other user (being the file’s owner): `setfacl u:<user>:rwx <file>`
+- Setting permissions for other user (being the file’s owner): `setfacl -m u:<user>:rwx <file>`
 
 
 

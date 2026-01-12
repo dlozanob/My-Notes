@@ -384,6 +384,15 @@
 	- Die Frau wartet auf ihren Mann
 		- Auf wen wartet die Frau?
 
+> [!Note]
+>
+> *da-* → für Dinge, die schon bekannt oder weiter weg sind
+> 
+> *hier-* → für Dinge, die gerade im Gespräch oder nah sind
+> 	- *Die Kunden sind hierüber unverzüglich in Kenntnis zu setzen*
+> 
+> *wo-* → für Fragen
+
 ---
 
 ## Nämlich

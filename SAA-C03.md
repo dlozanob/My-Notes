@@ -205,7 +205,7 @@ Use *Snowball* for small data storage.
 
 ![alt text](image-29.png)
 
-Data modification can occur before all data is synchronized accros buckets. This would end up in inconsistencies
+Data modification can occur before all data is synchronized acros buckets. This would end up in inconsistencies
 
 >[!Note]
 > Objects in S3 buckets have eventual consistency.
@@ -260,7 +260,7 @@ Therefore, S3 works great for static website hosting.
 - Range GETs
   - Getting portion of information from a large file (e.g. 10kb-20kb)
 - Cross-Region Replication
-  - Sync accross regions
+  - Sync across regions
 - Logging
 - Event Notifications
 
@@ -358,7 +358,7 @@ Therefore, S3 works great for static website hosting.
 
 ### Amazon FSx
 
-Allows to create Windows server shares. It's basically a data center server where files are shared accross systems. 
+Allows to create Windows server shares. It's basically a data center server where files are shared across systems. 
 
 Uses the SMB (Server Message Block) network file sharing protocol. Which allows applications and users to read/write files on remote servers. 
 
@@ -1983,18 +1983,1360 @@ It's possible to create Flow Logs for VPCs and Subnets as well.
 
 ### Application and Deployment Services
 
+![alt text](image-354.png)
+
+For deploying an AWS environment with integrated applications you can use CloudFormation as it provides templates for deploying AWS services.
+
 ### Additional Application Services
+
+![alt text](image-355.png)
+![alt text](image-356.png)
+![alt text](image-357.png)
+
+> [!Note]
+> *GraphQL* is a GUI for accessing DBs
 
 ### Lambda
 
+- AWS compute server that runs code without servers
+  - User must not worry about deployin a server or other additional architecture components
+- Runs code only when needed once the Lambda function is called
+- Scales automatically
+  - Up to thousands of requests per second
+- Billed by compute time
+
+**Automated Management:**
+- Server maintenance
+- Operating system maintenance
+- Capacity scaling
+- Code monitoring
+- Logging
+
+**Languages Supported:**
+- Node.js
+- Java
+- C#
+- Go
+- Python
+
+**Lambda Use Process:**
+1. Customer build the code
+2. Customer launches the code as Lambda function
+3. AWS selects the server
+4. Customer calls Lambda function as needed from applications
+
+This allows users to develop decoupled applications.
+
+![alt text](image-358.png)
+
 ### API Gateway
+
+- API management in the cloud
+  - Create 
+  - Publish
+  - Mantain
+  - Monitor
+  - Secure
+- APIs can interact with many targets
+  - AWS services
+  - Other web services
+  - Data stored in AWS
+
+API Gateway architecture:
+![alt text](image-359.png)
+
+**Serverless architecture:**
+- Moves data in and out of the cloud without instances
+- Process functons without instances
+- Two primary services
+  - Lambda
+  - API Gateway
+
+![alt text](image-360.png)
+
+This is decoupling at the highest level since we don't have to manage any server for our applications.
+
+**Cross Origin Resource Sharing (CORS):**
+- Can be enabled for the API Gateway
+- Allows receipt of requests from other domains
+  - Default is internal domain requests only
+- Without it, error will occur
+
+![alt text](image-361.png)
 
 ### Kinesis
 
+- Processes streaming data
+  - Continous, real-time data flows rather than static or batch data
+- Real-time analytics
+- Multi-tier enabler
+- Very DevOps focused
+- Conceptual importance for an architect
+
+**Operating Modes:**
+- **Kinesis Data Streams**
+  - Bringing in data in chunks, also called shards, and then process them
+- **Kinesis Data Firehose**
+  - Combines analytics and the data stream together into one
+  - Deliver streaming data to destinations like S3, Redshift, or Elasticsearch.
+  - It automatically batches, compresses, and encrypts data before sending it.
+- **Kinesis Data Analytics**
+  - Focused on doing analytics against the data
+  - Run real-time analytics on streaming data using SQL.
+  - Detect anomalies, calculate rolling averages, or trigger alerts without building complex apps.
+  - Focused on insights, not storage.
+- **Kinesis Video Streams**
+  - Media services
+
+
+> [!Note]
+> Data Streams: Raw data ingestion → you process it.
+> 
+> Firehose: Ingestion + delivery → AWS handles storage.
+> 
+> Analytics: Real-time SQL queries → insights from streams.
+> 
+> Video Streams: For video, not general data.
+
+**Kinesis Benefits:**
+- Architecture fully managed
+- No custom coding required
+  - Configure producers
+  - Configure consumers
+  - Focus is on the analytics
+
+![alt text](image-362.png)
+
+
 ### Kinesis Data Streams and Firehose
+
+![alt text](image-363.png)
+
+Data is stored temporarily by Kinesis Data Streams.
+
+Kinesis Data Firehose dumps this data out directly to the destination points.
+
+![alt text](image-364.png)
+
+![alt text](image-365.png)
+
+![alt text](image-366.png)
 
 ### Kinesis Data Analytics
 
+- Analyzes real-time data streams
+- Based on standard SQL queries
+- Supports concurrent consumers
+  - Redshift
+  - S3
+  - Elastisearch
+  - Lambda
+  - Kinesis Data Streams
+
+![alt text](image-367.png)
+
+![alt text](image-368.png)
+
 ### Reference Architectures
 
+- Well-architected frameworks
+- AWS created architecture plans for specific scenarios
+  - HIPAA
+  - PCI-DSS
+  - UK-OFFICIAL
 
+*Reference Architectures* are design recommendations that you should be using in AWS in order to comply with certain things.
+
+![alt text](image-369.png)
+![alt text](image-370.png)
+
+For example for PCI-DSS architecture plan:
+![alt text](image-371.png)
+![alt text](image-372.png)
+
+Downloading the template:
+![alt text](image-373.png)
+
+Now go to CloudFormation and open the template:
+![alt text](image-378.png)
+![alt text](image-377.png)
+![alt text](image-374.png)
+![alt text](image-375.png)
+![alt text](image-376.png)
+
+![alt text](image-379.png)
+
+## Designing for Operational Excellence
+
+### CloudFront
+
+- Content Delivery Network (CDN)
+  - Distributes content to localized regions
+  - Reduce latency
+  - Provides high data transfer speeds
+
+![alt text](image-380.png)
+
+**Implementations Considerations:**
+- Content source
+  - S3
+  - MediaPackage channel
+  - HTTP server
+    - Website caching
+- Content access
+  - Public
+  - Rstricted
+- Content constraints
+  - HTTPS required
+  - Geo-restrictions
+
+![alt text](image-381.png)
+![alt text](image-382.png)
+
+### Web Application Firewall (WAF)
+
+- Controls access to HTTP and HTTPS servers
+  - Based on requests
+  - Based on source IPs
+- Works with CloudFront and/or Load Balancers
+
+![alt text](image-383.png)
+
+**WAF Behaviors:**
+- Allow all requests
+  - Except the ones that you specify
+- Block all requests
+  - Except the ones that you specify
+- Monitoring
+  - Requests that match specified parameters
+
+**WAF Operations:**
+- Error handling
+  - HTTP 403 error (forbidden)
+- Configurable default behavior
+  - What happens when the request doesn't match any rules?
+    - Allow
+    - Deny
+
+![alt text](image-384.png)
+![alt text](image-385.png)
+![alt text](image-386.png)
+![alt text](image-387.png)
+
+### Simple Queue Service (SQS)
+
+- Used to decouple applications
+  - Break application into separate processing tasks
+  - Allows many small processes to form a complete solution
+
+**SQS Messages:**
+- Outputs from other processes
+- Inputs to other processes
+- Queued and processed asynchronously
+  - Non-linear
+- Up to 256 KB data
+  - This data is just the instruction with min parameters. Not the actual data to be processed
+
+**SQS Participants:**
+- Message producers
+- Message consumers
+- Messaging service
+  - SQS
+
+**SQS Features:**
+- Redundant across multiple AZs
+  - Queued until processed
+  - Retention up to 14 days
+- Automatically scales
+
+**SQS Queue Types:**
+- Standard
+  - Default queue type
+  - Doesn't guarantee sequential delivery of messages
+  - Used for performance. Higher number transactions per second
+- First-In-First-Out (FIFO)
+  - Guarantees sequential delivery of messages
+  - Supports fewer transactions per second
+
+![alt text](image-388.png)
+
+### Simple Notification Service (SNS)
+
+- Paging in the cloud
+  - Retrieving large sets of resources in multiple smaller chunks
+- Uses the publish-subscribe mechanism based on topics
+  - Called pub-sub messaging
+
+**Publishers:**
+- Push messages to topics
+  - Topic exmaples
+    - Admin alerts
+    - Performance alerts
+  - Publisher examples
+    - CloudWatch
+    - Cost Explorer
+- Publishers and subscribers aren't aware of each other
+
+**SNS Features:**
+- Stored across multipleAZs
+- Several delivery options supported
+  - HTTP/HTTPS
+  - E-Mail
+  - SMS (Short Message Service)
+  - Lambda
+  - SQS
+
+**SNS Message Limits:**
+- Up to 256 KB of data
+- Special SMS constraints
+  - Max size of single SMS is 140 bytes
+    - Larger messages sent as multiple transmissions
+    - Aggregate SMS size is 1600 byte
+
+![alt text](image-389.png)
+
+### Simple Workflow (SWF)
+
+- Defines the sequence of events required to achieve a workflow
+- Used in decoupled applications
+
+**Workflow:**
+- Activities that result in a desired objective
+- Logic that controls the activities
+  - Decider function determines best workflow
+- Operates a domain
+  - Created logical boundary in SWF to constrain the scope of the activities
+
+**SWF Activity Task:**
+- One invocation of an activity
+  - For example, processing an order
+- May be invoked multiple times
+  - For example, processing a multi-item order
+
+**SWF Activity Workers:**
+- The applications that receive and process activity tasks
+
+![alt text](image-390.png)
+![alt text](image-391.png)
+
+### Step Functions
+
+- AWS recommended practice (instead of SWF)
+  - Eventually replacing SWF
+- Similar to SWF in functonality
+  - The difference: Step Functions uses state machines
+    - State machines got all components combined
+      - Decider
+      - Activity tasks
+      - Worker tasks
+
+![alt text](image-392.png)
+![alt text](image-393.png)
+
+
+## Designing for Elasticity and Scalability
+
+### OpsWorks
+
+- Configuration management service
+  - Configure (code-based)
+    - Instance deployment
+    - Service deployment
+    - Application deployment
+  - Operate
+    - Application updates
+    - Infrastructure updates
+- Automated deployment
+
+**OpsWorks Stacks:**
+- Initial OpsWorks mode
+- Collection of layers
+  - Any AWS service
+  - Any runtime environment
+    - For example Red Hat Linux with SQL
+
+**OpsWorks Chef Automate:**
+- Cookbooks contain recipes (instead of having stacks containing layers)
+- Recipes equivalent to layers
+  - Defined configuration settings
+    - Admin defined
+    - AWS defined
+    - Third-party defined
+
+**OpsWorks Puppet:**
+- Master servers
+  - Pre-configured modules
+  - Modules equivalent to layers
+
+**Prebuilt Layers:**
+- Ruby
+- PHP
+- Node.js
+- Java
+- Amazon RDS
+- HA Proxy
+- MySQL
+
+**Use Cases:**
+- In the cloud
+  - Chef
+  - Puppet
+  - Possible to use stacks
+- On-premises (local)
+  - Stacks
+
+> [!Note]
+> Stacks = Simplified AWS-native approach for smaller or less complex environments.
+> 
+> Chef Automate = Full-featured DevOps automation with compliance and reporting.
+> 
+> Puppet Enterprise = Alternative to Chef for teams already invested in Puppet.
+
+![alt text](image-394.png)
+
+### Cognito
+
+- User identity and data synchronization service
+  - SSO
+- Public identity providers
+  - Google
+  - Facebook
+  - Amazon
+- Private identity providers
+  - Active Directory with SAML
+
+**Identity Management:**
+- Based on open standards
+  - OAuth 2.0
+  - SAML 2.0
+  - OpenID connect
+- Profile management
+- Scales to millions of users
+
+**AWS Integration:**
+- Cognito controls access to AWS resources
+  - Define roles
+  - Map users to roles
+
+![alt text](image-395.png)
+
+### Elastic MapReduce (EMR)
+
+- Distributes processing across clusters
+  - Implements a managed Hadoop framework
+    - Hadoop is a common framework for accomplishing exactly these clustering compute processes
+- Pulls data from S3 buckets
+- Uses EC2 instances
+- User defines the number of needed clusters
+
+**EMR Cluster Nodes:**
+- Master
+  - Coordinates the job distribution across core and task nodes
+- Core
+  - Runs tasks assigned by the master node
+  - Stores data in the cluster
+- Task
+  - Runs only tasks that do not store data
+
+![alt text](image-396.png)
+![alt text](image-397.png)
+
+### CloudFormation
+
+- Think of it as a virtual install techs who deploy several instances from a specified template
+- Templates are used to build stacks. Stacks are implementations of templates
+- Change sets are used to modify your stacks
+- Why use it?
+  - Rapid deployment
+  - Mirror existing internal architectures
+  - Take advantage of templates created by others
+
+![alt text](image-398.png)
+![alt text](image-399.png)
+![alt text](image-400.png)
+![alt text](image-401.png)
+![alt text](image-402.png)
+
+![alt text](image-403.png)
+
+> [!Note]
+> CloudFormation = “I want to build the house from scratch.”
+> 
+> Elastic Beanstalk = “I want a ready-made house where I just move in and decorate.”
+
+### CloudFormation Properties
+
+![alt text](image-404.png)
+
+### CloudWatch
+
+- Monitors the cloud and on-premises systems
+- Dashboards
+- Logs
+- Events
+- Alarms
+- Why use it?
+  - Monitor critical systems
+  - Receive notifications related to performance and security
+  - Push on-premises logs into the cloud
+  - Take automatic actions based on alarms
+
+![alt text](image-405.png)
+
+### Trusted Advisor
+
+Got to Trusted Advisor:
+![alt text](image-406.png)
+![alt text](image-407.png)
+
+![alt text](image-408.png)
+
+### Organizations
+
+- Collection of AWS accounts
+- Centralized
+  - One management interface
+  - Billing
+  - Account management
+- No additional charge for use
+
+**Organizational Units (OUs):**
+- Hierarchical account management
+- Nests OUs up to five levels deep
+- Policies attached for permissions
+
+![alt text](image-409.png)
+
+
+## AWS Database Design
+
+### Database Types
+
+- Hosted services
+  - Relational
+  - Non-relational (NoSQL)
+- Custome instance installs
+  - BYOL
+
+**Hosted Services:**
+- AWS Relational Database Service (RDS)
+  - Aurora MySQL
+  - Aurora PostgreSQL
+  - Oracle
+  - SQL Server
+  - MySQL
+  - PostgreSQL
+  - MariaDB
+
+**Custom Instance:**
+1. Start the instance with the required OS
+  - AMI
+2.Install the database service
+  - ISO image
+3. Create the database
+
+**Flat File vs. Relational:**
+- Flat file databases
+  - Oldest DBs
+  - Simplest DB
+  - Stores data in a single table
+  - Format: .csv, .txt
+  - Have one line per record
+    - Might be filled with repeated information
+- Relational databases
+  - Store portions of the data in designated tables
+  - Tables are related to each other based on unique identifiers
+
+**NoSQL:**
+- Not based on SQL or relational design theory
+- Design suports fast transactions
+- DynamoDB is an example of a NoSQL service
+
+**Data Warehouses:**
+- Large, central repository for data
+- Data aggregated from one or more sources
+- Used for online Analytical Processing (OLAP)
+  - Use case: Business Intelligence (BI)
+  - Amazon Redshift
+
+![alt text](image-414.png)
+
+### Relational Databases
+
+![alt text](image-415.png)
+
+**RDB Terminology:**
+- Rows - Tuples
+- Columns - Attributes
+- Columns - Properties
+- Tables - Relations
+- Tables - Entities
+- Tables - Objects
+- Views and results
+
+**Relationships:**
+- Primary key
+  - Each table got a primary key
+  - Identifies each record in a table
+- Foreign key
+  - ID in another table
+- Join
+  - Merge 2 tables
+
+**Normalization:**
+- Process for evaluating and correcting structures
+  - Determines the best assignments of attributes (columns) to entities (tables)
+- Works though a series of stages called normal forms
+  - 1NF -> 2NF -> 3NF -> 4NF (optional)
+- Higher the normal form (closer to 4NF)
+  - Slower reads
+  - Faster writes
+  - The reason for this is that when it's greatly normalized, it means you've chunked your information into more tables. So reading the data as a unit into a single view, would be more complicated
+
+![alt text](image-416.png)
+
+### Database Hosting Methods
+
+**EC2 Instance-Based:**
+1. Launch the instance
+2. Install the database service
+3. Open appropiate ports in security groups
+4. Connect to the database
+
+**AWS Service-Based:**
+1. Launch the database
+2. Connect to the database
+
+![alt text](image-417.png)
+![alt text](image-418.png)
+
+### High-availability Solutions
+
+**Clustering:**
+- Multiple servers (instances)
+- One database with replication
+  - They all got the same up-to-date version of the database
+- Increases availability
+- Automatic failover
+- Increased cost
+
+> [!Note]
+> 
+> One of them is gonna be active as the other remains there standby. But you can use it so both of them do clusterin and load balancing together, so that both servers are active all the time -> *Active Active Cluster*
+
+**Standby Instances:**
+- Multiple servers (instances)
+- One database with replication
+- Increases recoverability
+- No automatic failover
+- Reduced costs
+
+**Single AZ Deployment:**
+- One instance
+- One AZ
+- One region
+
+**Multiple AZ Deplyment:**
+- Multiple instances
+- Multiple AZs
+- One region
+- Replicated storage
+  - Increased availability
+  - Increased performance
+- Cost
+
+![alt text](image-419.png)
+
+### Scalability Solutions
+
+**Scalability:**
+- Storage
+- Processing
+- Network operations
+  - Throughput
+
+**Scaling the Instance:**
+- Changes the type/class
+- Auto Scaling is not supported in RDS
+  - Can be scripted with CLI commands
+
+**Read Replica:**
+- Read-only copy of the database
+- Offloads read-only traffic from the main database
+- Multiple instances can be in different regions
+
+![alt text](image-420.png)
+
+### Database Security
+
+**Encryption:**
+- RDS databases support "at rest" encryption
+- Must be enabled at creation time
+- Can be enabled on recovery (manually)
+
+**Permissions:**
+- Administration access based on IAM
+- Data access based on database capabilities
+  - CRUD
+  - DB admin
+
+Go to the IAM console:
+![alt text](image-421.png)
+![alt text](image-423.png)
+![alt text](image-424.png)
+
+![alt text](image-425.png)
+
+### Aurora
+
+- Relational DB
+- Optimized for Online Transaction Processing (OLTP)
+  - Very fast writes
+- MySQL-compatible database system
+- Increased performance over MySQL
+
+**Scaling Aurora:**
+- Initially 10 GB, scaling in 10 GB increments
+  - Max 64 TB
+- Compute resources
+  - Max 32 CPUs
+  - Max 244 GiB RAM
+
+**Aurora Availability:**
+- Availability defaults:
+  - 2 DB copies in each AZ
+  - Minimum of 3 AZs
+- Write capability
+  - Continous with up to two copies lost
+- Read capability
+  - Continues with up to three copies lost
+
+**Aurora Replicas:**
+- Up to 15 Aurora replicas
+  - Automatic failover
+- Up to 5 MySQL read replicas
+  - No automatic failover
+
+![alt text](image-426.png)
+
+### Redshift
+
+- Data warehouse database
+- Optimized for Online Analytical Processing (OLAP)
+- AWS managed
+- Pricing
+  - Entry point of $0.25/hr
+  - $1,000 per TB/yr
+- Single node
+  - Up to 160 GB
+- Multiple
+  - Leader node
+    - Connections and queries
+  - Compute node
+    - Store data and execute queries and calculations
+
+**Redshift Speed:**
+- Columnar data stores
+  - One single table with a large number of columns
+    - Sequential reads
+  - Very fast reads
+- Data compression
+- Massively Parallel Processing (MPP)
+  - Multiple processors working at the same time
+
+**Redshift Security:**
+- SSL transit encryption
+- AES-256 storage encryption
+- Keys managed through AWS Key Management
+
+**Redshift Availability:**
+- Operates in one AZ
+- Snapshots can be restored to new AZs
+
+![alt text](image-427.png)
+
+### DynamoDB
+
+- NoSQL database service
+- Provides special features
+  - Millisecond latency at any scale
+    - Very very fast read/write
+  - Stored on SSD
+  - Spread across 3 distinct data centers
+- Read consistency types
+  - Eventual consistent reads
+  - Strongly consistent reads
+
+**DynamoDB Pricing:**
+- Storage
+  - $0.25/GB per month
+- Throughput
+  - Write: Billed per hour for every 10 units
+  - Read: Billed per hour for every 50 units
+  - 1 unit = 1 write per second
+
+![alt text](image-428.png)
+
+### Data Security Policies
+
+![alt text](image-429.png)
+![alt text](image-430.png)
+![alt text](image-431.png)
+![alt text](image-432.png)
+![alt text](image-433.png)
+
+![alt text](image-434.png)
+
+
+## AWS Database Deployment
+
+### DynamoDB Tables Lab
+
+Go to DynamoDB console:
+![alt text](image-435.png)
+![alt text](image-436.png)
+![alt text](image-437.png)
+![alt text](image-438.png)
+![alt text](image-439.png)
+![alt text](image-440.png)
+
+![alt text](image-441.png)
+
+### MySQL Lab
+
+![alt text](image-442.png)
+![alt text](image-443.png)
+![alt text](image-444.png)
+![alt text](image-445.png)
+![alt text](image-446.png)
+![alt text](image-447.png)
+![alt text](image-448.png)
+![alt text](image-449.png)
+![alt text](image-450.png)
+![alt text](image-451.png)
+![alt text](image-452.png)
+![alt text](image-453.png)
+
+![alt text](image-454.png)
+
+### Configuration Lab
+
+![alt text](image-455.png)
+![alt text](image-456.png)
+![alt text](image-457.png)
+
+Modifying the RDS instance so it's Multi AZ:
+![alt text](image-458.png)
+
+In a read replica, you basically read from another DB as you write directly to the master DB.
+![alt text](image-459.png)
+![alt text](image-460.png)
+![alt text](image-461.png)
+
+![alt text](image-462.png)
+![alt text](image-463.png)
+
+> [!Note]
+>
+> Alqays use the DNS connection parameters, not the IP address. In case of failover, the DNS will always point to the currently available instance
+
+![alt text](image-464.png)
+
+### Backups Lab
+
+![alt text](image-465.png)
+![alt text](image-466.png)
+![alt text](image-467.png)
+
+> [!Note]
+>
+> Maximum retention period is 35 days
+
+![alt text](image-468.png)
+
+### Restore Lab
+
+![alt text](image-469.png)
+
+When you restore a DB, you are not overwriting the data. You are actually restoring to a new DB instance.
+![alt text](image-470.png)
+![alt text](image-471.png)
+
+![alt text](image-472.png)
+
+### Snapshot Lab
+
+![alt text](image-473.png)
+![alt text](image-474.png)
+![alt text](image-475.png)
+![alt text](image-476.png)
+![alt text](image-477.png)
+
+Use cases:
+- Transfer to other AWS accounts
+- Transfer to other regions
+
+![alt text](image-478.png)
+
+### Monitoring Lab
+
+![alt text](image-479.png)
+
+In case you need advanced performance information, enable *Performance Insights*.
+
+![alt text](image-480.png)
+
+
+## Amazon Services
+
+### Media Content Delivery
+
+**Elastic Transcoder:**
+- Media transcoding
+  - Convert media from one format to another
+  - Components
+    - Jobs
+      - Do the transcoding
+    - Pipelines
+      - Queues to manage the jobs
+    - Presets
+      - Settings to convert media
+    - Notifications
+      - SNS used to notify of job status
+- Transcoded files placed in original bucket
+
+**Translate:**
+- Translate files from one language to another
+- Can integrate into applications for localization 
+  - Localization: Support multiple languages
+- On-demand language translation
+- Encoder
+  - Reads source text
+- Decoder
+  - Outputs translated text
+
+![alt text](image-482.png)
+
+> [!Note]
+>
+> It's not possible to translate from every source language to another. AWS specifies this in the documentation. It's possible to translate to every language from english as source language
+
+**Elemental MediaStore:**
+- Video origination and storage service
+  - Video Origination: It's a place where a video originates from
+  - Components
+    - Containers
+    - Folders
+    - Endpoint
+    - Object
+    - Policy
+
+**Video Considerations:**
+- Live video streams
+  - Elemental MediaStore
+    - Origination Endpoint
+- Storage-based video
+  - S3 bucket
+
+**Transcribe:**
+- Speech-to-text
+  - Taking out the audio from
+    - Audio
+    - Video
+      - Generates closed caption files
+- Based on machine learning
+- Integrates with Translated
+
+**Rekognition:**
+- Image and video analysis
+  - People
+  - Speech
+  - Objects
+- Can be run against S3 buckets
+  - Enhanced search based on analysis results
+
+![alt text](image-483.png)
+
+### Desktop and App Streaming
+
+**Workspaces:**
+- Virtual desktops in AWS
+  - Linux
+  - Windows 7
+    - Optional Office bundle
+  - Windows 10
+- Persistent storage
+  - Virtual D: drive
+- Based on Windows Server virtualizations
+
+**AppStream 2.0:**
+- Virtual applications in AWS
+  - Processed in the cloud but running in your machine
+- Commonly used for custom-developed apps
+- Also used for commercial apps
+
+![alt text](image-484.png)
+
+### ElastiCache
+
+- In-memory caching for database
+  - Memcached
+    - Simplest model for implementation
+      - Not worrying about compliance
+    - Redis
+      - HIPAA or PCI-DSS compliant
+
+![alt text](image-485.png)
+![alt text](image-486.png)
+![alt text](image-487.png)
+
+![alt text](image-488.png)
+
+### Security Services Lab
+
+#### IAM
+
+Go to *IAM* console.
+
+![alt text](image-489.png)
+
+Creating a key:
+![alt text](image-490.png)
+![alt text](image-491.png)
+![alt text](image-492.png)
+![alt text](image-494.png)
+![alt text](image-495.png)
+
+#### CloudHSM
+
+Go to *CloudHSM* console:
+![alt text](image-496.png)
+
+Create a cluster in the cloud to virtualiza a hardware security module. It can be used for offloading of encryption processing to better optimize applications.
+![alt text](image-497.png)
+
+#### Directory Service
+
+Go to the *Directory Service* console:
+![alt text](image-498.png)
+![alt text](image-499.png)
+![alt text](image-500.png)
+
+#### Pre-built distributions on EC2
+
+Go to *EC2* console and launch an instance.
+![alt text](image-501.png)
+![alt text](image-502.png)
+![alt text](image-503.png)
+
+![alt text](image-504.png)
+
+### Analytics Engines
+
+#### CloudSearch
+
+![alt text](image-505.png)
+![alt text](image-506.png)
+![alt text](image-507.png)
+
+Used whenever you want to upload information to AWS and then perform searches against that information.
+
+#### Elasticsearch Service
+
+![alt text](image-508.png)
+
+Used for larger scale search capabilities. Quickly find volumes of data.
+![alt text](image-509.png)
+![alt text](image-510.png)
+
+#### Data Pipeline
+
+![alt text](image-511.png)
+![alt text](image-512.png)
+
+It creates a flow of data to be monitored.
+
+This is not a data stream like *Kinesis*, is a data pipeline. From point A to point B, etc.
+
+#### AWS Glue
+
+![alt text](image-513.png)
+![alt text](image-514.png)
+
+Allows you to take data from a data source, transform it, and then distribute it to another source.
+
+#### QuickSight
+
+![alt text](image-515.png)
+![alt text](image-516.png)
+
+Used for advanced Business Analytics.
+
+#### Athena
+
+![alt text](image-517.png)
+![alt text](image-518.png)
+
+Write queries in S3 buckets.
+
+![alt text](image-519.png)
+
+### Development Operations (DevOps)
+
+![alt text](image-520.png)
+
+Go to the *CodeDeploy* console.
+
+![alt text](image-521.png)
+
+There you see *CodeCommit*, which is used for repositories. Code source management solution.
+
+![alt text](image-522.png)
+![alt text](image-523.png)
+
+Manage an application project can be done with *CodePipeline*.
+
+![alt text](image-524.png)
+
+#### CodeStar
+
+![alt text](image-525.png)
+
+This is another way to manage an application project.
+
+#### Cloud9
+
+![alt text](image-526.png)
+
+*Cloud 9* is an IDE in the cloud.
+
+![alt text](image-527.png)
+![alt text](image-528.png)
+![alt text](image-529.png)
+![alt text](image-530.png)
+
+#### X-Ray
+
+![alt text](image-531.png)
+
+Analyzing and debuggin your applications.
+
+![alt text](image-532.png)
+
+### AWS Solutions
+
+![alt text](image-533.png)
+
+Solution example:
+![alt text](image-534.png)
+![alt text](image-535.png)
+
+![alt text](image-536.png)
+
+### AWS Transit Gateway
+
+![alt text](image-537.png)
+![alt text](image-538.png)
+
+![alt text](image-539.png)
+
+### AWS Backup
+
+Centralized backup solution for everything.
+
+![alt text](image-540.png)
+![alt text](image-541.png)
+
+### AWS Cost Explorer
+
+![alt text](image-542.png)
+![alt text](image-543.png)
+![alt text](image-546.png)
+![alt text](image-545.png)
+![alt text](image-544.png)
+
+![alt text](image-547.png)
+
+
+## Operational Excellence with AWS
+
+### The Operational Excellence Process
+
+**Well-Architected Framework:**
+- Operational Excellence
+  - Preparing properly and operating effectively and evolving as you need to
+- Security
+- Reliability
+- Performance Efficiency
+- Cost Optimization
+
+**Operational Excellence:**
+- Prepare
+  - Understand workloads and expected behaviors
+  - Considerations
+    - Operational priorities
+    - Design for operations
+    - Operational readiness
+- Operate
+  - Monitor
+    - Environment health
+    - Discover business and technical insights
+  - Respond
+    - Security
+    - Reliability
+    - Performance
+    - Cost
+- Evolve
+  - Learn from experience
+  - Share learning
+  - Improve
+  - Scale
+
+![alt text](image-548.png)
+
+### Widget Makers Scenario
+
+![alt text](image-549.png)
+![alt text](image-550.png)
+![alt text](image-551.png)
+
+![alt text](image-552.png)
+
+### Resilient Design
+
+- Provides reliability
+- Must be implemented with automation
+  - Recovery
+  - Scaling
+  - Backups
+
+![alt text](image-553.png)
+![alt text](image-554.png)
+![alt text](image-555.png)
+![alt text](image-556.png)
+![alt text](image-557.png)
+
+![alt text](image-558.png)
+
+### Resilient Design Scenario
+
+Payroll is under an intensive reading task. So adding a read replica won't affect the performance of the main node.
+
+![alt text](image-559.png)
+![alt text](image-560.png)
+
+### Performant Design
+
+![alt text](image-561.png)
+![alt text](image-562.png)
+![alt text](image-563.png)
+
+Serverless architectures scale better than server-based architectures.
+![alt text](image-564.png)
+![alt text](image-565.png)
+![alt text](image-566.png)
+
+**Auto Scaling:**
+- The key to performant design in the cloud
+- EC2 instances can be scaled automatically
+  - Logging of scale actions should be in place
+- Database services can be scaled quickly
+  - Monitoring should be in place
+
+![alt text](image-567.png)
+
+![alt text](image-568.png)
+
+### Performant Design Scenario
+
+![alt text](image-569.png)
+![alt text](image-571.png)
+![alt text](image-572.png)
+![alt text](image-573.png)
+![alt text](image-574.png)
+
+![alt text](image-575.png)
+
+### Secure Design
+
+![alt text](image-576.png)
+![alt text](image-577.png)
+![alt text](image-578.png)
+![alt text](image-579.png)
+![alt text](image-580.png)
+![alt text](image-581.png)
+![alt text](image-582.png)
+
+**Security in the Cloud:**
+- Identity and access management (IAM)
+- Detective contorls
+- Infrastructure protection
+- Data protection
+- Incident response
+
+![alt text](image-583.png)
+![alt text](image-584.png)
+
+![alt text](image-585.png)
+
+### Secure Design Scenario
+
+![alt text](image-586.png)
+![alt text](image-587.png)
+![alt text](image-588.png)
+![alt text](image-589.png)
+![alt text](image-590.png)
+
+![alt text](image-591.png)
+
+### Cost Optimization
+
+![alt text](image-592.png)
+![alt text](image-593.png)
+![alt text](image-594.png)
+![alt text](image-595.png)
+![alt text](image-596.png)
+![alt text](image-597.png)
+
+**Four Pillars:**
+- Cost-effective resources
+- Matching supply with demand
+- Expenditure awareness
+- Optimizing over time
+
+![alt text](image-598.png)
+
+### Cost Optimization Scenario
+
+![alt text](image-599.png)
+![alt text](image-600.png)
+![alt text](image-602.png)
+![alt text](image-603.png)
+![alt text](image-604.png)
+
+![alt text](image-605.png)
+
+### General Best Practices
+
+**Design for Failures:**
+- Clustering
+- Availability Zones
+- Backups
+- Alternate AWS accounts
+- CloudFormation templates
+
+**Implement Elasticity:**
+- Auto Scaling
+- Elastic Load Balancing
+- Decoupled applications
+- Run tasks in parallel
+
+**Learn:**
+- AWS free tier account
+- Practice
+  - Build entire solutions
+  - Tear down
+  - Start again
+- Try different solutions
+
+![alt text](image-606.png)

@@ -97,6 +97,15 @@ Man kann Nomen aus Verben bilden.
 		- Die *Beschränkung* auf ein Minimum
 	- Sich auf das Wesentliche *konzentrieren*
 		- Die *Konzentration* auf das Wesentliche
+    - Produkte präsentieren
+      - *Produktpräsentation*
+      - *Präsentation* von Produkten
+    - Technische Daten dokumentieren
+      - *Dokumentation* technischer Daten
+      - *Dokumentation* von technischen Daten
+    - Produktionsabläufe überwachen
+      - *Überwachung* der Produktionsabläufe
+      - *Überwachung* von Produktionsabläufen
 
 
 ## Indefinitpronomen
@@ -151,6 +160,17 @@ Sie stehen im Aktiv und umschreiben Passivkonstruktionen.
 
 ![](attachments/Pasted%20image%2020250714220416.png)
 
+
+> [!Notiz]
+>
+> **Bekommen-Passiv:**
+>
+> Wird nur noch in umgangsprachlichen Fällen verwendet.
+> 
+> *Beispiele:* 
+> - Der Blogger bekommt den Betrag bezahlt
+> - Ich habe die Kosten erstattet bekommen
+> Sie hat den Bonus ausgezahlt bekommen
 
 ## Relativkomparation und Vergleiche
 
@@ -256,6 +276,8 @@ Beispiele:
 
 ## Pro- und Kontra-Argumentation mit zweiteiligen Satzverbindungen
 
+![alt text](image-481.png)
+
 - *Zwar...aber*
 	- Die Schweiz ist *zwar* ein kleines Land, *aber* sie ist ökonomisch sehr erfolgreich
 	- Es gibt an den Schweizer Unis *zwar* in der Regel keine Zulassungsbeschränkung, *aber* an der Uni St. Gallen muss man eine Aufnahmeprüfung bestehen
@@ -287,12 +309,44 @@ Das folgende Motivationschreiben wurde an der ältesten Universität der Schweiz
 - Die Schweizer schätzen Höflichkeit und Zurückhaltung. Wenn es passt, verwendet man dafür den Konjunktiv II
 - Der richtige Gruß lautet in der Schweiz: *Freundliche Grüsse*
 
+Deutsches Beispiel:
 
+![alt text](image-413.png)
 
+## Lebenslauf
 
+Der Lebenslauf sollte:
+- Wie das Bewerbungsanschreiben einen Bezug zur Stellenausschreibung haben
+- Zwei Seiten nicht überschreiten
+- In einer übersichtlichen tabellarischen Form verfasst werden
+- Eine Bewerbungsphoto am rechten Hand oder in der oberen Mitte enthalten
+- Neben persönlichen Angaben auch Informationen über die Berufserfahrung, die Ausbildung, die berufliche Weiterbildung, verschiedene Kentnisse und besondere Tätigkeiten bieten
+- Am Ende mit der Unterschrift versehen werden
 
+![alt text](image-412.png)
 
+## Partizip II und I als Adjektiv
 
+![alt text](image-607.png)
 
+Erweiterte Partizipen findet man vor allem in der Schriftsprache, z.B. in beschreibenden Texten Oder wissenschaftlichen Publikationen:
+- Der Alpenzoo ist vor allem für seine Wiederansiedlungsprojekte *von in Tirol bereits ausgestorbenen* Tierarten bekannt
+- Besucher können die *mit Originalmöbeln eingerichteten* Räume besichtigen 
+- Das beeindruckende Industriedenkmal *mit seiner vom Bauhaus beeinflussten* Architektur ist heute ein Zentrum für Kunst und Kultur
 
+**Beispiele:**
+- ...die vom Bauhaus beeinflustete Architektur
+  - Die Architektur wurde vom Bauhaus beeinflust
+- ...das von Martin Luther übersetzte Neue Testament
+  - ...das Neue Testament wurde von Martin Luther übersetzt
+- ...das von 1788 bis 1793 erbaute Brandenburger Tor
+  - Das Brandenburger Tor wurde von 1788 bis 1793 erbaut
+- Fast 60 Reiseveranstalter orientieren sich insbesondere an den Wünschen der Kunden, denen *ökologische und soziale Aspekte berücksichtigende* Angebote wichtig sind
+  - Die Angebote, die ökologische und soziale Aspekte berücksichtigen, sind wichtig
+- Die Internationale Tourismus-Börse war im letzten Jahr die am meisten besuchte Reisemesse
+  - Die Internationale Tourismus-Börse war im letztes Jahr die Reisemesse, die am meisten besucht wurde
+- Die *im Netz geplante* Reise ist heute der Normalfall
+  - Die Reise, die im Netz geplant wurde, ist heute der Normalfall
+- Die Alternative zum *auf Papier gedruckten* Reiseführer ist heute eine Smartphone-App
+  - Die Alternative zum Reiseführer, der auf Papier gedruckt wurde, ist heute eine Smartphone-App 
 
