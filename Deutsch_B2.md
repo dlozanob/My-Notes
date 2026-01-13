@@ -350,3 +350,8 @@ Erweiterte Partizipen findet man vor allem in der Schriftsprache, z.B. in beschr
 - Die Alternative zum *auf Papier gedruckten* Reiseführer ist heute eine Smartphone-App
   - Die Alternative zum Reiseführer, der auf Papier gedruckt wurde, ist heute eine Smartphone-App 
 
+## Die n-Deklination maskuliner Nomen
+
+![](attachments/Pasted%20image%2020260112230339.png)
+
+
