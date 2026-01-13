@@ -173,7 +173,12 @@ done
 
 - Set language to default Spanish -> `setxkbmap -layout latam`
 - Install a .deb file -> `sudo dpkg -i <package_file>.deb`
-- Uninstall package -> `sudo apt-get remove <package name>`
+- Install package -> `sudo dnf install <package_name>`
+- Update package -> `sudo dnf updtae <package_name(s)> -y`
+- Uninstall package -> `sudo apt-get remove <package_name>`
+- Get package current version: 
+  - `dnf list installed <package_name(s)>`
+  - `rpm -qa | grep <package_name>`
 - Reboot -> `sudo reboot`
 - Buscar un archivo -> `find $PWD -type f -name <archivo>`
   - Eliminar 'Permission denied' en la búsqueda -> `find $PWD -type f -name <archivo> 2>/dev/null`

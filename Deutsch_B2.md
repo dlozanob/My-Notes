@@ -353,5 +353,4 @@ Erweiterte Partizipen findet man vor allem in der Schriftsprache, z.B. in beschr
 ## Die n-Deklination maskuliner Nomen
 
 ![](attachments/Pasted%20image%2020260112230339.png)
-
-
+![alt text](image-608.png)
