@@ -425,6 +425,17 @@ Verben:
 - Hängen
 - (Sich) Setzen
 
+![alt text](image-609.png)
+
+> [!Note]
+> *Auf* auch verwendet für Inseln:
+>
+> *Schweizern kann man auf sonnigen Inseln begegnen*
+
+> [!Achtung]
+>
+> *Sie reisen in die Berge* - Hier wird nicht *auf* verwendet
+
 Wegbeschreibung:
 - Wie komme ich _bis zur_ Kreuzung?
 - An der Kirche _vorbei_
