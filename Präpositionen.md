@@ -66,6 +66,8 @@
 	- Streiten
 	- Sprechen
 	- Diskutieren
+	- Vergleiche
+		- Bei den regelmäßigen Fleischesser der Anteil der Männer liegt deutlich über dem Anteil der Frauen
 
 - _Als_
 	- Sie Arbeitet als Kellnerin
@@ -126,6 +128,8 @@
 	- Sich bedanken
 	- Helfen
 	- Sich entschuldigen
+	- Statistik
+		- Bei den regelmäßigen Fleischesser der Anteil der Männer liegt deutlich über dem Anteil der Frauen
 
 - _Von_
 	- Das Spielzeug von dem Kind
@@ -169,6 +173,8 @@
 - _Unter_
 	- Wo?
 		- Das Buch steht unter dem Tisch
+	- Kategorisierend
+		- Die meisten Umfrageteilnehmer, die sich ganz fleischlos ernähren, findet man unter den 15- bis 29-Jährigen
 
 - _Neben_
 	- Wo?
@@ -181,6 +187,8 @@
 - _Zwischen_
 	- Wo?
 		- Die Vase liegt zwischen dem Kugelschreiber und den Stifte
+	- Numerisch begrenzter Bereich
+		- Zwischen 15 und 29 Jahren
 
 
 ## Genitiv
@@ -199,7 +207,6 @@
 
 - _Mithilfe_
 
-
-
+- *Infolge*
 
 

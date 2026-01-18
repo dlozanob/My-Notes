@@ -39,14 +39,14 @@ Der Pronominaladverb bezieht sich auf den Nebensatz.
 ## Konzessivangaben
 
 - _Obwohl_
-	- Obwohl die Enten mehr Platz in den Comics einnahmen, wurden die Hefte nach der Maus bennant
+	- *Obwohl* die Enten mehr Platz in den Comics einnahmen, wurden die Hefte nach der Maus bennant
 - _Auch wenn_
-	- Auch wenn du keine Comics magst, solltest du mal ein Micky-Maus-Heft auf Deutsch lesen
+	- *Auch wenn* du keine Comics magst, solltest du mal ein Micky-Maus-Heft auf Deutsch lesen
 - _Trotzdem_
 - _Trotz_
-	- Trotz aller Bedenken wurden die Hefte ein Erfolg
+	- *Trotz* aller Bedenken wurden die Hefte ein Erfolg
 - _Ungeachtet_
-	- Ungeachtet wiedeholter Warnungen von Pädagogen lasen viele Kinder Comics
+	- *Ungeachtet* wiedeholter Warnungen von Pädagogen lasen viele Kinder Comics
 
 
 >[!Note]
@@ -58,13 +58,13 @@ Der Pronominaladverb bezieht sich auf den Nebensatz.
 ![](attachments/Pasted%20image%2020250428200211.png)
 
 - Sagen Sie mir Bescheid, wenn Sie etwas neues erfahren
-	- Würden Sie mir Bescheid sagen, wenn Sie etwas neues erfahren würden?
+	- *Würden* Sie mir Bescheid sagen, wenn Sie etwas neues erfahren *würden*?
 - Warten Sie bitte einen Moment, wir sind gleich fertig
-	- Würden Sie bitte einen Moment warten? Wir sind gleich fertig
+	- *Würden* Sie bitte einen Moment warten? Wir sind gleich fertig
 - Könnt ihr mir helfen?
-	- Könntet ihr mir helfen?
+	- *Könntet* ihr mir helfen?
 - Wann hast du Zeit, um mit mir über die Planung zu sprechen?
-	- Hättest du Zeit, um mit mir über die Planung zu sprechen?
+	- *Hättest* du Zeit, um mit mir über die Planung zu sprechen?
 
 
 >[!Note]
@@ -75,8 +75,8 @@ Der Pronominaladverb bezieht sich auf den Nebensatz.
 
 ### Nachträgliche Feststellungen in der Vergangenheit
 
-- Er *hätte* den Fehler als Möglichkeit zum Lernen sehen sollen
-- Peter *hätte* den Fehler zugeben müssen
+- Er *hätte* den Fehler als Möglichkeit zum Lernen *sehen sollen*
+- Peter *hätte* den Fehler *zugeben müssen*
 - Es *wäre* besser *gewesen*, wenn Peter seinen Fehler genau analysiert *hätte*
 - Ich *hätte* gern mehr Zeit *gebracht*. Ich *wäre* gern dabei *gewesen*
 - Wenn ich nicht *gearbeitet hätte*, *wäre* ich ins Fitnessstudio *gegangen*
@@ -150,7 +150,7 @@ Sie stehen im Aktiv und umschreiben Passivkonstruktionen.
 	- Er kann nicht erklärt werden
 		- Der jetzige Umgang mit dem Plastikmüll ist *unerklärlich*
 	- Sie können in der Lebensmittelindustrie eingesetzt werden
-		- Die neue Produkten *lassen sich* in der Lebensmittelindustrie einsetzen
+		- Die neue Produkten *lassen sich* in der Lebensmittelindustrie *einsetzen*
 - *Notwendigkeit*
 	- Plastiktüten müssen vermieden werden
 		- Die Verwendung von Plastiktüten *ist zu vermeiden*
@@ -221,7 +221,7 @@ Hier ist die Gruppe Rathäuser, im Singularform *Rathaus*, das Neutrum ist. Desh
 - *Wohingegen*
 	- Untersuchungen zufolge fühlen sich zwei Drittel der Frauen in einem gemütlichen Zuhause mit vielen Kissen und Decken wohl, *wohingegen* ein Drittel eine klar strukturierte Wohnungseinrichtung bevorzugt
 - *Im Gegensatz zum*
-	- *lm Gegensatz zum* steigenden Online-Umsatz beim Kauf von Büchern, Reisen Oder neuen elektronischen Geräten ist der Wochenendausflug ins Möbelhaus bei der Auswahl eines Einrichtungsgegenstandes immer noch die wichtigste Inspirationsquelle
+	- *lm Gegensatz zum* steigenden Online-Umsatz beim Kauf von Büchern, Reisen oder neuen elektronischen Geräten ist der Wochenendausflug ins Möbelhaus bei der Auswahl eines Einrichtungsgegenstandes immer noch die wichtigste Inspirationsquelle
 
 
 ## Finalangaben
@@ -305,7 +305,7 @@ Das folgende Motivationschreiben wurde an der ältesten Universität der Schweiz
 
 - In der Schweiz folgt nach der Anrede gar nichts, in Deutschland steht ein Komma
 - Das erste Wort im ersten Satz wird großgeschrieben, in Deutschland klein
-- In der Schweiz gibt es kein *ß*. Die Schweizer schreiben dafär *ss*
+- In der Schweiz gibt es kein *ß*. Die Schweizer schreiben dafür *ss*
 - Die Schweizer schätzen Höflichkeit und Zurückhaltung. Wenn es passt, verwendet man dafür den Konjunktiv II
 - Der richtige Gruß lautet in der Schweiz: *Freundliche Grüsse*
 
@@ -335,11 +335,11 @@ Erweiterte Partizipen findet man vor allem in der Schriftsprache, z.B. in beschr
 - Das beeindruckende Industriedenkmal *mit seiner vom Bauhaus beeinflussten* Architektur ist heute ein Zentrum für Kunst und Kultur
 
 **Beispiele:**
-- ...die vom Bauhaus beeinflustete Architektur
+- ...die *vom Bauhaus beeinflustete* Architektur
   - Die Architektur wurde vom Bauhaus beeinflust
-- ...das von Martin Luther übersetzte Neue Testament
+- ...das *von Martin Luther übersetzte* Neue Testament
   - ...das Neue Testament wurde von Martin Luther übersetzt
-- ...das von 1788 bis 1793 erbaute Brandenburger Tor
+- ...das *von 1788 bis 1793 erbaute* Brandenburger Tor
   - Das Brandenburger Tor wurde von 1788 bis 1793 erbaut
 - Fast 60 Reiseveranstalter orientieren sich insbesondere an den Wünschen der Kunden, denen *ökologische und soziale Aspekte berücksichtigende* Angebote wichtig sind
   - Die Angebote, die ökologische und soziale Aspekte berücksichtigen, sind wichtig
@@ -354,4 +354,92 @@ Erweiterte Partizipen findet man vor allem in der Schriftsprache, z.B. in beschr
 
 ![](attachments/Pasted%20image%2020260112230339.png)
 
+## Modalangaben
+
+![](attachments/Pasted%20image%2020260117001839.png)
+
+- *Dadurch... dass*
+	- Diese Unterschiede können zum Beispiel *dadurch* entstehen, *dass* die im Labor getesteten Mengen von Nährstoffen im Rahmen unserer täglichen Essgewohnheiten gar nicht aufgenommen werden
+	- Mann kann bessere Ergebnisse *dadurch* erzielen, *dass* man ergebnisoffen arbeitet
+- *Indem*
+	- Das konnten Gesundheitswissenschaftler der Stanford University belegen, *indem* sie in einem Studienvergleich ein Wirrwar an Ergebnissen aufgelistet haben
+	- Man kann sich gesund ernähren, *indem* man ein paar Regeln einhält
+	- Man kann etwas für die Umwelt tun, *indem* man beim Einkaufen auf Plastikbeutel verzichtet
+- *Durch*
+	- Neben den bereits aufgezählten positiven Effekten kann man angeblich *durch* regelmäßigen Kaffekonsum das Risiko einschränken, an Parkinson, Alzheimer-Demenz und Depressionen zu erkranken
+	- *Durch* den Vergleich mehrerer Ernährungsstudien haben Wissenschaftler widersprüchliche Empfehlungen entdeckt
+- *Mithilfe*
+	- *Mithilfe* einer ergebnisorientierten Untersuchungsmethode kamen einige Forscher zu dem erwarteten Resultat
+- *Mit*
+	- *Mit* einer Diät nimmt man nich dauerhaft ab
+
+## Die Wortstellung im Mittelfeld
+
+Die normale Reihenfolge laut:
+
+![](attachments/Pasted%20image%2020260117221234.png)
+
+> [!Note]
+> 1. Temporal (wann?)
+> 2. Kausal (warum?)
+> 3. Modal und instrumental (wie? mit wem? womit?)
+> 4. Lokal (wo? wohin?)
+
+
+**Beispiele:**
+- Vincent wohnt seit zwei Jahren, aus Kostengründen, mit seinen Kommilitonen in einem Zimmer im Studentenwohnheim
+	- Te
+		- seit zwei Jahren
+	- Ka
+		- aus Kostengründen
+	- Mo
+		- mit seinen Kommilitonen
+	- Lo
+		- in einem Zimmer im Studentenwohnheim
+
+- *Nach Meinung vieler Wissenschaftler werden im Jahr 2050 auf der Erde* rund zehn Milliarden Menschen leben
+- *Nach Aussagen von Ernährungsexperten kann man zukünftig mithilfe von Insekten* einen Teil der Ernährungsprobleme lösen
+- *Den Verzehr von Insekten hat in den letzten Jahren mithilfe einiger Start-up-Unternehmen in Europa* zugenommen
+- *Die Firmengründder kamen während eines Thailandurlaubs* auf diese Geschäftsidee
+- *Insekten bieten den Menschen in ärmeren Ländern* viel Eiweiß, wichtige Vitamine und Mineralien
+
+> [!Note]
+> Wichtig zu achten ist, dass tekamolo keine absolute Regel ist, als man kann in den Beispiele merken (TE-KA-MO-LO gilt nur, solange keine Mehrdeutigkeit entsteht). 
+> 
+> Sieht dir die hervohebenen Abschnitte der Sätze an, die Regel gilt nur da
+
+
+**Einige Hakenfälle:**
+- *Fall 1: Lokal*
+	- Falsch
+		- Er verkauft Autos in Deutschland
+	- Richtig
+		- *Er verkauft in Deutschland* Autos
+	- Grund
+		- Der Verkäufer befindet sich in Deutschland, nicht besonders die Autos
+- *Fall 2: Mehrere Objekte + Lokal am Ende*
+	- Falsch
+		- Die Firma bietet Kunden neue Produkte und Dienstleistungen in Europa
+	- Richtig
+		- *Die Firma bietet Kunden in Europa* neue Produkte und Dienstleistungen
+- *Fall 3: Abstrakte Aussagen / Statistik*
+	- Falsch
+		- Der Fleischkonsum ist bei jungen Menschen besonders hoch in Städten
+	- Richtig
+		- *Der Fleischkonsum ist in Städten* bei jungen Menschen besonders hoch
+	- Grund
+		- Es würde *Junge Menschen in Städten* behaupten, was ist besonders unklar
+- *Fall 4: Relativ lange Nominalgruppen*
+	- Falsch
+		- Man findet viele vegetarische Angebote für Studierende an Universitäten in Großstädten
+	- Richtig
+		- *Man findet in Großstädten* viele vegetarische Angebote für Studierende an Universitäten
+	- Grund
+		- Universitäten in Großstädten oder Angebote dort?
+
+---
+
+![](attachments/Pasted%20image%2020260118133948.png)
+
+---
 
