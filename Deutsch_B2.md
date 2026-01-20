@@ -443,3 +443,79 @@ Die normale Reihenfolge laut:
 ![](attachments/Pasted%20image%2020260118133948.png)
 
 ---
+
+## Das Agens im Passivsatz
+
+
+![](attachments/Pasted%20image%2020260119222910.png)
+
+**Beispiele:**
+- Das Smartphone kann *durch* das Heruntaladen der App mit einer Schadsoftware infiziert werden
+- Auch kosten können *durch* den Drohneneinsatz reduziert werden
+- Mit dem GPS-Sender werden die Tiere *von* ihren Besitzern überwacht
+- Die Firma wurde 2016 *von* zwei Brüdern gegrünndet
+- Das Projekt wurde mit 100 000 Euro *von* der Universität unterstützt
+
+## Umformung von Aktivsätzen in Passivsätze
+
+
+![](attachments/Pasted%20image%2020260119223900.png)
+
+**Beispiele:**
+- Die Ingenieure entwickelten einen kleinen Satelliten zur Beobachtung der Erde aus dem Weltall
+	- Zur Beobachtung der Erde aus dem Weltall wurde ein klein Satellit entwickelt
+- Für die Entwicklung des Mini-Satelliten benötigten die Gründer viel Zeit und Geld
+	- Für die Entwicklung des Mini-Satelliten wurde viel Zeit und Geld benötigt
+- Im Jahr 2017 konnte die Firma BST den ersten Stelliten im Auftrag der Universität Singapur ins All schießen
+	- Der erste Satellit konnte im Jahr 2017 im Auftrag der Universitöt Singapur ins All geschossen werden
+- In den waschmaschinengroßen Satelliten hat man ganz normale Konsumentenprodukte wie Teile eines Fotoapparats eingebaut
+	- In den waschmaschinengroßen Satelliten wurden Ganz normale Konsumentenprodukte wie Teile eines Fotoapparats eingebaut
+- Dadurch konnte man die Herstellungskosten eines Satelliten von 50 Millionen auf 5 Millionen Euro reduzieren
+	- Dadurch konnten die Herstellungskosten eines Satelliten von 50 Millionen auf 5 Millionen Euro reduziert werden
+
+
+## Verschiedenen Präpositionen
+
+### Präpositionen für Instrumentalangaben
+
+- *Mithilfe*
+- *Durch*
+- *Mittels*
+	- *Mittels* eines neuen Navigationsgeräts finden Radfahrer in 200 europäischen Städten schnell ihr Ziel
+- *Mit*
+- *Anhand*
+	- Ich erkläre Ihnen den Vorgang am besten *anhand* eines Beispiels
+
+> [!Note]
+> *Mittels* wird fast ausschließlich schriftsprachlich verwendet
+
+### Präpositionen für Kausal- und Konsekutivangaben
+
+- *Dank*
+	- *Dank* des neuen Schutzmantels können die Drohnen durch schwer zugängliche Räume fliegen
+	- *Dank* dem schnellen Internet ist jetzt Kommunikation mit den entferntesten Orten möglich
+- *Mangels*
+	- Start-ups geraten oft *mangels* ausreichender Nachfrage in Schwierigkeiten
+- *Wegen*
+	- *Wegen* unzureichender finanzieller Mittel mussten die Firmengründer aufgeben
+	- *Wegen* dir muss ich heute länger im Büro bleiben
+- *Aufgrund*
+- *Angesichts*
+	- *Angesichts* der vielen Insolvenzen sollten Start-up-Gründer den Markt vorher besser analysieren
+- *Aus*
+	- *Aus* Angst vor dem Scheitern gründen viele Erfinder jein eigenes Unternehmen
+- *Vor*
+	- Die Chefin strahlte *vor* Freude über den Erfolg
+- *Infolge*
+	- *Infolge* massiven Beschwerden wurde das Produkt vom Markt genommen
+
+> [!Note]
+> 
+> Die Präposition *wegen* wird normalerweise mit dem Genitiv gebraucht. Allerdings
+> verwendet man umgangssprachlich und bei Personalpronomen oft den Dativ: *wegen dir*.
+> Die Alternative zu *wegen dir* ist *deinetwegen*
+
+> [!Note]
+> Bei der kausalen Verwendung von *aus* und *vor* steht das Nomen oft ohne Artikel
+
+
