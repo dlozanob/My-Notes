@@ -624,11 +624,11 @@ Alternative Connections:
 
 ![alt text](image-81.png)
 
-Setting up the CGW:
+Setting up the VPG:
 
 ![alt text](image-83.png)
 
-Setting up the VPG:
+Setting up the CGW:
 
 ![alt text](image-84.png)
 
@@ -796,6 +796,7 @@ Amazon CloudWatch must be enabled to use Amazon Compute Optimizer.
 ![alt text](image-104.png)
 
 Go to Launch Instance:
+
 ![alt text](image-103.png)
 ![alt text](image-105.png)
 ![alt text](image-106.png)
@@ -818,6 +819,7 @@ Time to connect to the launched machine.
 ![alt text](image-114.png)
 
 Required software:
+
 ![alt text](image-115.png)
 
 EC2-Keypair.pem was downloaded in the previous lab.
@@ -873,7 +875,7 @@ Resources are shared.
 - This is the default instance behaviour
 - Pros
   - Reduced costs
-  - Simpler deplyment
+  - Simpler deployment
 - Cons
   - Lower performance
   - Less control
@@ -1209,7 +1211,7 @@ If going to EC2 and checking instances, there's gonna be the instance automatica
     - Credentials
       - Consists of a name and password and up to two access keys
       - Access keys used with the API or CLI
-    - Can be group memebers
+    - Can be group members
   - Groups
     - A collection of IAM users
     - Permissions should be managed at the group level
@@ -1900,6 +1902,7 @@ Go to DNS management:
 ![alt text](image-332.png)
 
 Creating a hosted zone:
+
 ![alt text](image-334.png)
 
 Though *google.com* can be used as host name, all nodes in the VPC won't be able to go to the actual *google.com* because they'll be redirected to the node set as *google.com*.
@@ -1910,6 +1913,7 @@ Though *google.com* can be used as host name, all nodes in the VPC won't be able
 Possible to import Zone Files to caching all stored record in other zones.
 
 Creating a record set:
+
 ![alt text](image-337.png)
 
 **Routing Policies:**
@@ -1931,9 +1935,11 @@ Creating a record set:
 ![alt text](image-338.png)
 
 Created an A record:
+
 ![alt text](image-339.png)
 
 Creating a Health Check:
+
 ![alt text](image-340.png)
 
 ![alt text](image-341.png)
@@ -1945,6 +1951,7 @@ Go to S3, go to any bucket and go to permissions.
 ![alt text](image-342.png)
 
 Permissions for S3 buckets can be established there:
+
 ![alt text](image-343.png)
 
 Go now to VPC > Network ACLs.
@@ -1953,13 +1960,16 @@ Go now to VPC > Network ACLs.
 ![alt text](image-345.png)
 
 Setting NACL rules:
+
 ![alt text](image-346.png)
 
 
 Subnet Associations:
+
 ![alt text](image-347.png)
 
 Pick one and apply it:
+
 ![alt text](image-348.png)
 ![alt text](image-349.png)
 
@@ -1971,6 +1981,7 @@ Capture the information about the traffic that's moving in the environment.
 
 Go to EC2 > Network Interfaces.
 Create a Flow Log:
+
 ![alt text](image-351.png)
 ![alt text](image-352.png)
 
@@ -2043,6 +2054,7 @@ This allows users to develop decoupled applications.
   - Data stored in AWS
 
 API Gateway architecture:
+
 ![alt text](image-359.png)
 
 **Serverless architecture:**
@@ -2155,9 +2167,11 @@ For example for PCI-DSS architecture plan:
 ![alt text](image-372.png)
 
 Downloading the template:
+
 ![alt text](image-373.png)
 
 Now go to CloudFormation and open the template:
+
 ![alt text](image-378.png)
 ![alt text](image-377.png)
 ![alt text](image-374.png)
@@ -2185,7 +2199,7 @@ Now go to CloudFormation and open the template:
     - Website caching
 - Content access
   - Public
-  - Rstricted
+  - Restricted
 - Content constraints
   - HTTPS required
   - Geo-restrictions
@@ -2485,7 +2499,8 @@ Now go to CloudFormation and open the template:
 
 ### Trusted Advisor
 
-Got to Trusted Advisor:
+Go to Trusted Advisor:
+
 ![alt text](image-406.png)
 ![alt text](image-407.png)
 
@@ -2530,9 +2545,11 @@ Got to Trusted Advisor:
 
 **Custom Instance:**
 1. Start the instance with the required OS
-  - AMI
-2.Install the database service
-  - ISO image
+     - AMI
+
+2. Install the database service
+     - ISO image
+
 3. Create the database
 
 **Flat File vs. Relational:**
@@ -2622,7 +2639,7 @@ Got to Trusted Advisor:
 
 > [!Note]
 > 
-> One of them is gonna be active as the other remains there standby. But you can use it so both of them do clusterin and load balancing together, so that both servers are active all the time -> *Active Active Cluster*
+> One of them is gonna be active as the other remains there standby. But you can use it so both of them do clustering and load balancing together, so that both servers are active all the time -> *Active Active Cluster*
 
 **Standby Instances:**
 - Multiple servers (instances)
@@ -2636,7 +2653,7 @@ Got to Trusted Advisor:
 - One AZ
 - One region
 
-**Multiple AZ Deplyment:**
+**Multiple AZ Deployment:**
 - Multiple instances
 - Multiple AZs
 - One region
@@ -2793,6 +2810,7 @@ Go to the IAM console:
 ### DynamoDB Tables Lab
 
 Go to DynamoDB console:
+
 ![alt text](image-435.png)
 ![alt text](image-436.png)
 ![alt text](image-437.png)
@@ -2826,9 +2844,11 @@ Go to DynamoDB console:
 ![alt text](image-457.png)
 
 Modifying the RDS instance so it's Multi AZ:
+
 ![alt text](image-458.png)
 
 In a read replica, you basically read from another DB as you write directly to the master DB.
+
 ![alt text](image-459.png)
 ![alt text](image-460.png)
 ![alt text](image-461.png)
@@ -2838,7 +2858,7 @@ In a read replica, you basically read from another DB as you write directly to t
 
 > [!Note]
 >
-> Alqays use the DNS connection parameters, not the IP address. In case of failover, the DNS will always point to the currently available instance
+> Always use the DNS connection parameters, not the IP address. In case of failover, the DNS will always point to the currently available instance
 
 ![alt text](image-464.png)
 
@@ -2859,6 +2879,7 @@ In a read replica, you basically read from another DB as you write directly to t
 ![alt text](image-469.png)
 
 When you restore a DB, you are not overwriting the data. You are actually restoring to a new DB instance.
+
 ![alt text](image-470.png)
 ![alt text](image-471.png)
 
@@ -3001,6 +3022,7 @@ Go to *IAM* console.
 ![alt text](image-489.png)
 
 Creating a key:
+
 ![alt text](image-490.png)
 ![alt text](image-491.png)
 ![alt text](image-492.png)
@@ -3010,14 +3032,17 @@ Creating a key:
 #### CloudHSM
 
 Go to *CloudHSM* console:
+
 ![alt text](image-496.png)
 
 Create a cluster in the cloud to virtualiza a hardware security module. It can be used for offloading of encryption processing to better optimize applications.
+
 ![alt text](image-497.png)
 
 #### Directory Service
 
 Go to the *Directory Service* console:
+
 ![alt text](image-498.png)
 ![alt text](image-499.png)
 ![alt text](image-500.png)
@@ -3025,6 +3050,7 @@ Go to the *Directory Service* console:
 #### Pre-built distributions on EC2
 
 Go to *EC2* console and launch an instance.
+
 ![alt text](image-501.png)
 ![alt text](image-502.png)
 ![alt text](image-503.png)
@@ -3119,7 +3145,7 @@ This is another way to manage an application project.
 
 ![alt text](image-531.png)
 
-Analyzing and debuggin your applications.
+Analyzing and debugging your applications.
 
 ![alt text](image-532.png)
 
@@ -3128,6 +3154,7 @@ Analyzing and debuggin your applications.
 ![alt text](image-533.png)
 
 Solution example:
+
 ![alt text](image-534.png)
 ![alt text](image-535.png)
 
@@ -3232,6 +3259,7 @@ Payroll is under an intensive reading task. So adding a read replica won't affec
 ![alt text](image-563.png)
 
 Serverless architectures scale better than server-based architectures.
+
 ![alt text](image-564.png)
 ![alt text](image-565.png)
 ![alt text](image-566.png)
@@ -3260,6 +3288,7 @@ Serverless architectures scale better than server-based architectures.
 ### Secure Design
 
 ![alt text](image-576.png)
+
 ![alt text](image-577.png)
 ![alt text](image-578.png)
 ![alt text](image-579.png)
@@ -3269,7 +3298,7 @@ Serverless architectures scale better than server-based architectures.
 
 **Security in the Cloud:**
 - Identity and access management (IAM)
-- Detective contorls
+- Detective controls
 - Infrastructure protection
 - Data protection
 - Incident response
@@ -3292,7 +3321,7 @@ Serverless architectures scale better than server-based architectures.
 ### Cost Optimization
 
 ![alt text](image-592.png)
-![alt text](image-593.png)
+
 ![alt text](image-594.png)
 ![alt text](image-595.png)
 ![alt text](image-596.png)

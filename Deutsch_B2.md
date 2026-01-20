@@ -161,7 +161,7 @@ Sie stehen im Aktiv und umschreiben Passivkonstruktionen.
 ![](attachments/Pasted%20image%2020250714220416.png)
 
 
-> [!Notiz]
+> [!Note]
 >
 > **Bekommen-Passiv:**
 >
@@ -187,8 +187,9 @@ Hier ist die Gruppe Rathäuser, im Singularform *Rathaus*, das Neutrum ist. Desh
 | Feminin  | eine       |
 | Neutrum  | eins/eines |
 
->[!Notiz]
->Erinnern Sie sich an die Adjektivdeklination im Nominativ, wenn es keine artikel gibt
+>[!Note]
+>
+> Erinnern Sie sich an die Adjektivdeklination im Nominativ, wenn es keine artikel gibt
 
 
 - Der Berliner Fernsehturm ist *eins/eines* der höchsten Gebäude Europas
@@ -207,9 +208,10 @@ Hier ist die Gruppe Rathäuser, im Singularform *Rathaus*, das Neutrum ist. Desh
 - Je älter ein Gebäude ist, desto/umso teurer wird die Restaurierung
 - Je höher die Anzahl von Hochschulen und Universitäten in einer Stadt ist, desto/umso niedriger sind das Durschnittsalter der Einwohner
 
->[!Notiz]
->Satzbau:
->Nebensatz, + Steigerung des Adjektivs + Position I
+>[!Note]
+>
+> Satzbau:
+> Nebensatz, + Steigerung des Adjektivs + Position I
 
 
 ## Adversativangaben
