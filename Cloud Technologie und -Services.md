@@ -247,6 +247,8 @@ Popular CDN providers include Akamai Technologies, Cloudflare, Amazon CloudFront
 >[!Note]
 > AWS Global Accelerator and Amazon CloudFront are separate services that use the AWS
 > global network and its edge locations around the world.
+>
+> *Global Accelerator* handles better UDP connections and it's more reliable.
 
 ![alt text](image-84c3.png)
 

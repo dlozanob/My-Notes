@@ -257,6 +257,7 @@ Therefore, S3 works great for static website hosting.
 - MFA Delete
 - Multi-part upload
   - Use many streams to upload data which reassembles in the server
+- S3 Transfer Acceleration
 - Range GETs
   - Getting portion of information from a large file (e.g. 10kb-20kb)
 - Cross-Region Replication
@@ -290,6 +291,8 @@ Therefore, S3 works great for static website hosting.
 - Vaults
 - Vault locks
   - Securing vaults
+  - Vault lock policies for compliance
+    - Such as write once, read many (WORM). Ensuring the policy is immutable once locked
 - Data retrieval
   - Up to 5% retrieved at no charge each month, no rollover
   - Vault can be configured to limit costs
@@ -360,7 +363,7 @@ Therefore, S3 works great for static website hosting.
 
 Allows to create Windows server shares. It's basically a data center server where files are shared across systems. 
 
-Uses the SMB (Server Message Block) network file sharing protocol. Which allows applications and users to read/write files on remote servers. 
+Uses the *SMB (Server Message Block)* network file sharing protocol. Which allows applications and users to read/write files on remote servers.
 
 Offers the advantage to provide a server with the minimum requirements to act as a file-sharing system instead of an edge-performance machine.
 
@@ -1908,6 +1911,13 @@ Creating a hosted zone:
 Though *google.com* can be used as host name, all nodes in the VPC won't be able to go to the actual *google.com* because they'll be redirected to the node set as *google.com*.
 
 ![alt text](image-335.png)
+
+In a *Private Hosted Zone* resources are not accessible outside the VPC.
+
+An *inbound endpoint* allows DNS queries to come from your on-premises network into your VPC.
+
+An *outbound endpoint* allows DNS queries to come from your VPC into your on-premises network.
+
 ![alt text](image-336.png)
 
 Possible to import Zone Files to caching all stored record in other zones.
@@ -2271,6 +2281,7 @@ Now go to CloudFormation and open the template:
 - First-In-First-Out (FIFO)
   - Guarantees sequential delivery of messages
   - Supports fewer transactions per second
+  - 300 operations per second
 
 ![alt text](image-388.png)
 
@@ -2292,7 +2303,7 @@ Now go to CloudFormation and open the template:
 - Publishers and subscribers aren't aware of each other
 
 **SNS Features:**
-- Stored across multipleAZs
+- Stored across multiple AZs
 - Several delivery options supported
   - HTTP/HTTPS
   - E-Mail
@@ -2681,6 +2692,7 @@ Go to Trusted Advisor:
 - Read-only copy of the database
 - Offloads read-only traffic from the main database
 - Multiple instances can be in different regions
+- Data transfer costs apply when replicating data to read replicas in different AWS Regions
 
 ![alt text](image-420.png)
 
