@@ -480,6 +480,8 @@ Die normale Reihenfolge laut:
 
 ### Präpositionen für Instrumentalangaben
 
+![](attachments/Pasted%20image%2020260127004601.png)
+
 - *Mithilfe*
 - *Durch*
 - *Mittels*
@@ -493,6 +495,8 @@ Die normale Reihenfolge laut:
 
 ### Präpositionen für Kausal- und Konsekutivangaben
 
+![](attachments/Pasted%20image%2020260127004657.png)
+
 - *Dank*
 	- *Dank* des neuen Schutzmantels können die Drohnen durch schwer zugängliche Räume fliegen
 	- *Dank* dem schnellen Internet ist jetzt Kommunikation mit den entferntesten Orten möglich
@@ -505,7 +509,7 @@ Die normale Reihenfolge laut:
 - *Angesichts*
 	- *Angesichts* der vielen Insolvenzen sollten Start-up-Gründer den Markt vorher besser analysieren
 - *Aus*
-	- *Aus* Angst vor dem Scheitern gründen viele Erfinder jein eigenes Unternehmen
+	- *Aus* Angst vor dem Scheitern gründen viele Erfinder dein eigenes Unternehmen
 - *Vor*
 	- Die Chefin strahlte *vor* Freude über den Erfolg
 - *Infolge*
@@ -519,5 +523,12 @@ Die normale Reihenfolge laut:
 
 > [!Note]
 > Bei der kausalen Verwendung von *aus* und *vor* steht das Nomen oft ohne Artikel
+
+
+## Redepartikeln
+
+
+![](attachments/Pasted%20image%2020260127004852.png)
+
 
 

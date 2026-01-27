@@ -4,21 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "3c283f9383ee89a1",
+        "id": "fca3ca6492c615a4",
         "type": "tabs",
         "children": [
           {
-            "id": "4b6137774dc3092f",
+            "id": "28b622c28bb3227f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Français.md",
+                "file": "Deutsch_B2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Deutsch_B2"
+            }
+          },
+          {
+            "id": "10db07fb7c7acfe9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Deutsch_A1.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Français"
+              "title": "Deutsch_A1"
             }
           }
         ]
@@ -211,35 +225,36 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "4b6137774dc3092f",
+  "active": "28b622c28bb3227f",
   "lastOpenFiles": [
+    "attachments/Pasted image 20260127004852.png",
+    "attachments/Pasted image 20260127004657.png",
+    "attachments/Pasted image 20260127004601.png",
+    "Deutsch_A1.md",
+    "Deutsch_B2.md",
+    "attachments/Pasted image 20260127002113.png",
+    "Deutsch_B1.md",
+    "Deutsch.md",
+    "Français.md",
+    "Français_A1.md",
+    "Français_A2.md",
+    "Français_B2.md",
+    "Français_B1.md",
     "Powershell Commands.md",
     "Excalidraw/whiteboard.excalidraw.md",
     "Focused Study.md",
     "attachments/Pasted image 20260122154137.png",
     "attachments/Pasted image 20260122153933.png",
     "Präpositionen.md",
-    "Deutsch_B2.md",
-    "Deutsch_A1.md",
     "Ramen.md",
     "attachments/Pasted image 20260119223900.png",
     "Deutsch_A2.md",
-    "Deutsch_B1.md",
     "attachments/Pasted image 20260119222910.png",
     "Deutsch_C1.md",
     "conflict-files-obsidian-git.md",
     "image-609.png",
     "image-608.png",
     "attachments/Pasted image 20260118133948.png",
-    "Excalidraw/attachments/Pasted Image 20260118133854_722.png",
-    "Excalidraw/attachments/Pasted Image 20260118133809_690.png",
-    "attachments/Pasted image 20260117221234.png",
-    "Deutsch.md",
-    "Français.md",
-    "Français_A2.md",
-    "Français_B1.md",
-    "Français_A1.md",
-    "Français_B2.md",
     "Git commands.md",
     "Cloud Computing.md",
     "CLF-02.md",
@@ -248,7 +263,6 @@
     "Sicherheit und Compliance.md",
     "Cloud Konzepte.md",
     "Amazon Web Services - CLF-C02/1. Cloud Konzepte/Notes/notes.md",
-    "Amazon Web Services - CLF-C02/2. Sicherheit und Compliance/Notes/notes.md",
     "Amazon Web Services - CLF-C02/2. Sicherheit und Compliance/Notes/a",
     "Amazon Web Services - CLF-C02/2. Sicherheit und Compliance/Notes/New folder",
     "Amazon Web Services - CLF-C02/2. Sicherheit und Compliance/Notes/imagec2",

@@ -608,7 +608,7 @@ Usos:
 	- poisson
 
 
-## Demonstrative adjectives
+## Adjectifs Démostratifs
 
 |              | Singulier | Pluriel |
 | ------------ | --------- | ------- |

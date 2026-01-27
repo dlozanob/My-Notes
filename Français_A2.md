@@ -227,7 +227,7 @@ Los otros tienen _Avoir_.
 2. Décrire une personne/méteo
 	- Il faisait beau à Bogotá
 3. Décrire une action avant une autre
-	- Je étais en train de prenez de bus quand elle me a regarder
+	- Je étais en train de prenez le bus quand elle m'a regarder
 4. Décrire une habitude, une routine dans la passé
 	- Quand j'avais 5 ans, j'aimais jouer avec mes jouets
 
