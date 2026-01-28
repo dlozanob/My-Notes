@@ -531,4 +531,41 @@ Die normale Reihenfolge laut:
 ![](attachments/Pasted%20image%2020260127004852.png)
 
 
+## Temporalsätze
 
+![alt text](image-611.png)
+
+- *Nachdem*
+  - *Nachdem* ich ein paar Jahre in einem Café gearbeitet hatte, begann ich mit meinem jetzigen Studium
+- *Während*
+  - *Während* ich Germanistik studierte, stieg mein Interesse an Mode
+- *Bevor*
+  - *Bevor* ich mit dem Studium begann, hatte ich keine konkreten Berufswünsche
+- *Als*
+  - *Als* ich mein Praktikum in London absolvierte, konnte ich mein Englisch stark verbessern
+- *Wenn*
+  - *Wenn* ich heute in London bin, besuche ich meine ehemaligen Kolleginnen und Kollegen
+- *Bis*
+  - *Bis* ich mein Studium abschließe, möchte ich noch eine Fremdsprache lernen
+- *Solange*
+  - *Solange* ich diesen Job machen muss, bin ich nicht wirklich glücklich
+- *Seit/Seitdem*
+  - *Seit/Seitdem* ich mein Studium beendet habe, suche ich eine Stelle in meinem Fachbereich
+- *Immer*
+  - *Immer* wenn mir jemand seine Meinung zu meinen Ideen sagte, habe ich mich beeinflussen lassen
+- *Sobald*
+  - *Sobald* mir der letzte Bericht vorliegt, beginne ich mit der Auswertung
+
+
+## Verben im Konjunktiv II
+
+![alt text](image-610.png)
+
+  **Beispiele:**
+  - Senta war eine gute Schwimmerin
+    - Sie hätte beinahe an den Olympischen Spielen teilgenommen
+  - Andreas hat nur im Büro gesessen und sich nicht bewegt
+    - Er hätte beinahe Probleme mit seinem Herzen bekommen
+  - Hans hat mal wieder die falsche Taste gedrückt
+    - Diesmal hätte er fast die Festplatte formatiert
+  -  
