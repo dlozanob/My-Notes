@@ -561,11 +561,23 @@ Die normale Reihenfolge laut:
 
 ![alt text](image-610.png)
 
-  **Beispiele:**
+**Beispiele:**
+- *Verpasste Gelegenheiten*
   - Senta war eine gute Schwimmerin
     - Sie hätte beinahe an den Olympischen Spielen teilgenommen
   - Andreas hat nur im Büro gesessen und sich nicht bewegt
     - Er hätte beinahe Probleme mit seinem Herzen bekommen
   - Hans hat mal wieder die falsche Taste gedrückt
     - Diesmal hätte er fast die Festplatte formatiert
-  -  
+-  *Bedingungssätze in der Vergangenheit*
+   -  Wenn Senta fleißiger trainiert hätte, hätte sie an den Olympischen Spielen teilnehmen können
+   -  Wenn Andreas sich mehr bewegt hätte, hätte er keine Probleme mit seiner Gesundheit gehabt
+   -  Wenn ich disziplinierter gewesen wäre, hätte ich meinen ersten Roman schreiben können
+-  *Irreale Vergleiche*
+   -  Beate benimmt sich, als wäre sie hier die Chefin
+   -  Stefan tat in der Besprechung so, als ob er sich für das Projekt interessieren würde
+   -  Bernd hat heute so viel Geld ausgegeben, als hätte er im Lotto gewonnen
+
+
+
+  
