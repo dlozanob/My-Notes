@@ -78,8 +78,9 @@
 	- Celle
 
 
->[!Info]
->Quand on parle de la *segond*, ça signifie qu'il n'y a pas plus de çela (il n'y a pas 3ème). Mais si on parle de la deuxième, ça signifie qu'il y a une troisième
+> [!Info]
+> 
+> Quand on parle de la *segond*, ça signifie qu'il n'y a pas plus de çela (il n'y a pas 3ème). Mais si on parle de la deuxième, ça signifie qu'il y a une troisième
 
 
 ## Le conditionnel
@@ -94,7 +95,7 @@
 
 - Exemple
 	- Si les zombies envahissaient l'UN, ils feraient des émeutes plus chaotiques
-		- Si + imparfait +conditionnel présent
+		- Si + imparfait + conditionnel présent
 
 ###  Le conditionnel présent
 
@@ -122,7 +123,7 @@
 ![](attachments/Pasted%20image%2020250606141715.png)
 
 - Exemples
-	- Si je n'aurais pas régle l'alarme hier soir, je ne me serais pas reveillé avant 11h aujourd'hui
+	- Si je n'avais pas régle l'alarme hier soir, je ne me serais pas reveillé avant 11h aujourd'hui
 	- Si nos n'avions pas mangé trop chocolat, nous n'aurions pas eu mal à l'estomac
 	- Si je n'avais pas eu trop de travail, je t'aurais téléphoné
 	- Si la nourriture n'était pas été très épicée, tu n'aurais pas détesté ce restaurant

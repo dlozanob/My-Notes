@@ -223,7 +223,7 @@ Los otros tienen _Avoir_.
 ### Utilisation
 
 1. Décrire une situation dans la passé
-	- Le mois derner, nous avions beaucoup de devoirs
+	- Le mois dernier, nous avions beaucoup de devoirs
 2. Décrire une personne/méteo
 	- Il faisait beau à Bogotá
 3. Décrire une action avant une autre

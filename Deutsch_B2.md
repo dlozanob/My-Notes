@@ -579,5 +579,20 @@ Die normale Reihenfolge laut:
    -  Bernd hat heute so viel Geld ausgegeben, als hätte er im Lotto gewonnen
 
 
+## Adjektive und ihre Ergänzungen
 
-  
+![alt text](image-612.png)
+
+**Beispiele:**
+- Die Influencerin ist ihre Anhänger *für* das positive Feedback sehr dankbar
+- Die Firma ist *an* einer Zusammenarbeit mit dem Influencer interessiert
+- Er ist *auf* die Reaktionen gespannt
+- Doch viele User sind *von* Nicos Videos total begeistert
+- Bist du *mit* der Veröffentlichung deines Kommentars einverstanden?
+
+![alt text](image-613.png)
+
+**Beispiele:**
+- Mir ist kalt
+- Das kann dir doch nict gleichgültig sein!
+

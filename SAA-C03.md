@@ -585,6 +585,24 @@ Network Access Control Lists (NACLs):
 
 ![alt text](image-75.png)
 
+> [!Note]
+>
+> NAT Gateway must be placed in a public subnet, by definition.
+> 
+> AWS requires:
+> 
+> A public subnet = a subnet with a route to an Internet Gateway (IGW)
+> 
+> A NAT Gateway = a managed AWS service that needs the IGW to send outbound traffic to the internet.
+> 
+> So if you place it in a private subnet, then:
+> 
+> It has no route to the IGW
+> 
+> → meaning it could never reach the internet
+> 
+> → meaning it cannot perform NAT at all.
+
 ![alt text](image-76.png)
 
 ![alt text](image-77.png)
@@ -2319,6 +2337,69 @@ Now go to CloudFormation and open the template:
     - Aggregate SMS size is 1600 byte
 
 ![alt text](image-389.png)
+
+### EventBridge
+
+Amazon EventBridge is a serverless event bus service that enables you to build event‑driven architectures by routing events between AWS services, your applications, and SaaS partners without needing custom integration logic or polling.
+It works on the principle of producers generating events → EventBridge delivering them → targets reacting to them.
+
+🔧 Key Concepts (Test‑Relevant)
+1. Event Buses
+EventBridge provides three types of event buses:
+
+
+- Default Event Bus
+  - Receives events from AWS services automatically.
+- Custom Event Buses
+  - You can create these for your own applications or microservices.
+- SaaS Partner Event Buses
+  - For integrations with supported SaaS providers (e.g., Zendesk, Datadog, Auth0).
+
+2. Rules
+Rules define which events should be matched and where they should be sent.
+A rule consists of:
+
+- Event pattern (JSON matching conditions)
+- Target (Lambda, Step Functions, SNS, SQS, Kinesis streams, API destinations, etc.)
+
+Rules don’t modify events—they route them.
+
+3. Event Patterns
+These are JSON filter expressions that match specific fields in the event.
+Examples:
+
+- Match an EC2 "instance state change" event
+- Match S3 events from a specific bucket
+- Match custom application events (e.g., order.created)
+
+
+🚀 Key Features (SAA‑C03 Focus)
+Event-Driven Architecture (EDA) with decoupling
+EventBridge helps decouple:
+
+- Microservices
+- Distributed applications
+- SaaS applications
+- AWS resources
+
+This improves scalability and reduces system coupling.
+
+Schema Discovery
+EventBridge can automatically detect and catalog event schemas, simplifying integration with code generators.
+
+API Destinations
+Allows posting events directly to external APIs with managed authentication.
+(Useful for bridging AWS to third‑party services.)
+
+Event Replay
+You can store and replay events to reprocess them or test new consumers — important for debugging and incremental system rollouts.
+
+Guaranteed Delivery & Scalability
+
+- Fully managed, serverless
+- Automatically scales with event volume
+- Highly reliable delivery with retries and DLQs (if using SQS/Lambda)
+
 
 ### Simple Workflow (SWF)
 
