@@ -596,3 +596,22 @@ Die normale Reihenfolge laut:
 - Mir ist kalt
 - Das kann dir doch nict gleichgültig sein!
 
+
+## Untersuchungsergebnisse wiedergeben
+
+![alt text](image-617.png)
+
+
+## Vorgänge und Zustände im Passiv
+
+![alt text](image-618.png)
+
+**Beispiele:**
+- Die Meere sind überfischt worden
+  - Die Meere sind überfischt
+- Ein Teil des Lebensraums der Insekten ist vergiftet worden
+  - Ein Teil des Lebensraum der Insekten ist vergiftet
+- Die Öffentlichkeit wurde über die dramatische Entwicklung informiert
+  - Die Öfentlichkeit ist über die dramatische Entwicklung informiert
+
+
