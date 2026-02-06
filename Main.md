@@ -17,6 +17,7 @@
 - [[Cloud Computing]]
 - [[Certifications]]
 - [[Rubik]]
+- [[Recipes]]
 
 ## Tools
 
