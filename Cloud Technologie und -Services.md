@@ -308,9 +308,32 @@ S3 buckets for storage.
 > - AWS Lambda
 > - AWS Fargate
 > - AWS Step Functions
-> - Amazon DynamoDB
+> - Amazon API Gateway
+> - AWS AppSync
+> - Amazon DynamoDB / Amazon DynamoDB Streams
+> - Amazon S3
 > - Amazon SNS
+> - Amazon SQS
 > - Amazon EventBridge
+> - Amazon Athena
+> - AWS Glue (only when using Glue Serverless)
+> - AWS Glue Data Catalog
+> - Amazon Kinesis Data Streams (serverless mode)
+> - Amazon Kinesis Data Firehose
+> - Amazon Aurora Serverless v2
+> - Amazon Timestream
+> - Amazon DOcumentDB Elastic Clusters
+> - Amazon IAM
+> - AWS Secrets Manager
+> - AWS KMS
+> - Amazon Cognito
+> - Amazon Route 53
+> - AWS CloudFront
+> - AWS GlobalAccelerator
+> - Amazon CloudWatch
+> - AWS X-Ray
+> - AWS CloudTrail
+> - AWS Config
 
 
 ## Andere Services

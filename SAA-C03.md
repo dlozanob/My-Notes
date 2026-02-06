@@ -344,6 +344,18 @@ Therefore, S3 works great for static website hosting.
 - EFS is not supported on Windows instances. Only Linux instances
 - Instead of buckets uses *File Systems*
 
+#### Amazon EFS Throughput Modes
+
+- Bursting Throughput Mode (default)
+  - Throughput scales automatically based on the amount of data stored in the file system
+  - EFS provides a baseline throughput proportional to storage size (historically 1 MiB/s per GiB; newer docs define baseline as 50 KiB/s per GiB)
+  - When usage is below baseline, the system accumulates burst credits, allowing higher throughput temporarily during spikes
+- Provisioned Throughput Mode (explicitly configured)
+  - You explicitly set the throughput amount in MiB/s, independent of storage size
+  - Provides consistent, predictable throughput even when your file system is small
+  - You pay an extra hourly fee for the throughput you provision, whether you use it or not
+    - Can become expensive if overprovisioned
+
 
 ### Storage Comparison
 
@@ -3278,6 +3290,55 @@ Centralized backup solution for everything.
 ![alt text](image-547.png)
 
 
+### Other Services
+
+#### Amazon Comprehend
+
+Amazon Comprehend is a fully managed NLP (Natural Language Processing) service that uses machine learning to extract insights from unstructured text.
+It requires no ML expertise, scales automatically, and integrates well with S3, Lambda, Kinesis, SNS/SQS, and other AWS analytics services.
+
+**Capabilities:**
+- Detect entities (people, places, organizations, dates, etc.)
+- Custom classification and custom entity recognition using your own labeled datasets
+- Perform sentiment analysis (positive, negative, neutral, mixed)
+- Extract key phrases from text (useful for search indexing, metadata generation)
+- Detect dominant language in multilingual content
+- Detect PII and optionally redact it (important in compliance)
+- Topic modeling / document clustering for grouping large text corpora
+
+**Architecture Level:**
+- Serverless — no provisioning or model training needed.
+- Supports real-time API and asynchronous batch jobs for large datasets. [docs.aws.amazon.com]
+- Inputs: UTF‑8 text, plus PDF, images, Word files for custom models. [docs.aws.amazon.com]
+
+**Often paired with:**
+- S3 for storing input documents
+- Lambda for on‑the‑fly processing
+- Kinesis for streaming text (e.g., social media feeds) [knowledge....assllc.com]
+- QuickSight for visualization of insights
+
+#### Amazon Polly
+
+*Amazon Polly* is a fully managed text‑to‑speech (TTS) service that turns text into lifelike speech using deep learning.
+
+**Core Capabilities:**
+- Dozens of high‑quality, natural‑sounding voices across many languages.
+- Neural TTS (NTTS) for more expressive speech.
+- SSML support to adjust pitch, intonation, emphasis, speaking rate, etc.
+- Custom lexicons for company‑specific pronunciation.
+- Speech Marks to synchronize audio with highlighting or animation.
+- Multiple audio formats (MP3, Ogg Vorbis).
+- Store and replay synthesized speech at no extra cost.
+
+**Architecture and Integration:**
+- Fully serverless: just send text → get audio back.
+- Integrates with:
+  - S3 (store audio)
+  - CloudFront (global audio distribution)
+  - Lambda (generate audio on demand)
+  - Lex (voice-enabled chatbots)
+
+
 ## Operational Excellence with AWS
 
 ### The Operational Excellence Process
@@ -3462,3 +3523,25 @@ Serverless architectures scale better than server-based architectures.
 - Try different solutions
 
 ![alt text](image-606.png)
+
+---
+
+> [!Note]
+> A blue‑green deployment is a release strategy where you run two identical production environments:
+>
+> Blue = the current, stable production environment
+> 
+> Green = the new version you want to switch users to
+>
+> Both environments exist simultaneously.
+> You gradually move traffic from Blue → Green, and if something goes wrong, you can instantly roll back by sending traffic back > to Blue.
+>
+> Key benefits:
+> - Zero‑downtime deployments
+> - Fast rollback
+> - Safe testing of new versions
+> - Controlled migration of users
+
+![alt text](image-614.png)
+![alt text](image-615.png)
+![alt text](image-616.png)
