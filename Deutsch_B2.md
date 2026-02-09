@@ -615,3 +615,46 @@ Die normale Reihenfolge laut:
   - Die Öfentlichkeit ist über die dramatische Entwicklung informiert
 
 
+## Funktionen von werden
+
+![](attachments/Pasted%20image%2020260207160801.png)
+
+![](attachments/Pasted%20image%2020260207160729.png)
+
+### Futur II
+
+- *In der Zukunft abgeschlossene Aktionen*
+	- Meine Freunde *werden* um diese Uhrzeit schon *angerufen haben*
+	- Ich *werde* morgen um 8:00 Uhr *angekommen sein*
+- *Vermutungen in der Vergangenheit*
+	- Er *wird* kran *gewesen sein*
+	- Er *wird* lieber an die großen Demonstration in Berlin *teilgenommen haben*
+	- Er *wird* mit dem Konferenzprogramm nicht einverstanden *gewesen sein*
+	- Er *wird* ein wichtiges Gespräch mit dem Verkehrsminister *gehabt haben*
+	- Er *wird* den Sinn der Konferenz *bezweifelt haben*
+
+> [!Note]
+> Man kann auch Vermutungen in der Vergangenheit ausdrücken mit *wohl* oder *vermutlich*.
+> - Ihr Leben hat sich *wohl* sehr verändert
+> - Er hat *vermutlich* gut gespielt
+
+
+## Nomen mit präpositionaler Ergänzung
+
+![](attachments/Pasted%20image%2020260207173935.png)
+
+**Beispiele:**
+- Schon als Kind hatte Julius ein großes Interesse *an* der Natur
+- Im letzten Jahr hatte er die Gelegenheit *zu* einem Praktikum in Kanada
+- Es gibt einen Bedarf *an* gut ausgebildeten Naturschützern
+- Experten haben kiene Zweifel *an* der Existenz des Klimawandels
+- Gleichzeitig haben sie Hoffnung *auf* eine Verbesserung der Situation
+
+
+## Jemandem widersprechen/Zweifel anmelden
+
+![](attachments/Pasted%20image%2020260208151748.png)
+
+
+
+

@@ -82,6 +82,10 @@
 	- Uhr
 		- Um sieben Uhr dreißig
 	- Um Mitternacht
+	- Veränderung
+		- Die Meerespiegel wird sich um 18 bis 59 Zentimeter erhöhen
+		- Der Lärm nimmt um mehrere Dezibel zu
+		- Die Temperatur steigt um 2 Grad
 	- Sich kümmern
 	- Kämpfen
 	- Sich bewerben

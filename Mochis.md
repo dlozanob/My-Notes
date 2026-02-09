@@ -57,7 +57,7 @@
 1. Poner a calentar sartén a fuego medio alto
 2. Añadir un pocillo de harina de arroz glutinoso
 3. Añadir 180 ml de leche
-4. Revolver en el sartén hasta que se obtiene una masa
+4. Revolver en el sartén hasta que se obtenga una masa
 5. Dar forma a la masa
 	1. Espolvorear la superficie con harina de arroz para que la masa no se pegue
 	2. Espolvorearse harina de arroz en las manos

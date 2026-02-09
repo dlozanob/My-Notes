@@ -1,6 +1,6 @@
 # Cheesecake Japonés
 
-![](attachments/Pasted%20image%2020260206182322.png)
+![](attachments/Pasted%20image%2020260207184427.png)
 
 ## Ingredientes
 

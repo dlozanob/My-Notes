@@ -4,39 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "bb2f80780c723ded",
+        "id": "ec9c688d502f4607",
         "type": "tabs",
         "children": [
           {
-            "id": "0496db100f437d64",
+            "id": "0c8bba5379c51a04",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pollo a la naranja.md",
+                "file": "Deutsch_B2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pollo a la naranja"
+              "title": "Deutsch_B2"
             }
           },
           {
-            "id": "d6e970fd169f1a6f",
+            "id": "9b5e506dc8368772",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pollo Thai.md",
-                "mode": "source",
+                "file": "Other.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pollo Thai"
+              "title": "Other"
+            }
+          },
+          {
+            "id": "2b0edff37e279fe3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MEIN PROJEKT.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MEIN PROJEKT"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -226,43 +240,44 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "d6e970fd169f1a6f",
+  "active": "2b0edff37e279fe3",
   "lastOpenFiles": [
-    "Cheesecake Japonés.md",
-    "Ramen.md",
+    "Other.md",
+    "Main.md",
+    "Deutsch_B2.md",
+    "attachments/Pasted image 20260208151748.png",
+    "Deutsch.md",
+    "Français.md",
+    "Français_B1.md",
+    "Français_B2.md",
     "Mochis.md",
-    "Pollo Thai.md",
     "Pollo a la naranja.md",
+    "+Cocinar+Pollo.md",
+    "+Base+del+Pollo.md",
+    "Ramen.md",
+    "Pollo Thai.md",
+    "Recipes.md",
+    "Cheesecake Japonés.md",
+    "attachments/Pasted image 20260207184427.png",
+    "Präpositionen.md",
+    "attachments/Pasted image 20260207173935.png",
+    "Deutsch_B1.md",
+    "attachments/Pasted image 20260207160801.png",
+    "attachments/Pasted image 20260207160729.png",
     "attachments/Pasted image 20260206182458.png",
     "attachments/Screenshot 2026-02-06 182346.png",
     "attachments/Pasted image 20260206182351.png",
     "attachments/Pasted image 20260206182322.png",
     "attachments/Pasted image 20260206182304.png",
     "Obsidian Basics.md",
-    "attachments/Pasted image 20260206182057.png",
-    "Main.md",
     "Linked note.md",
-    "Recipes.md",
-    "Deutsch_B2.md",
-    "Français_B2.md",
-    "image-618.png",
-    "image-617.png",
-    "image-616.png",
-    "image-615.png",
-    "Français.md",
-    "Français_B1.md",
     "Git commands.md",
     "Français_A2.md",
     "Deutsch_A1.md",
-    "Deutsch_B1.md",
-    "Deutsch.md",
     "Français_A1.md",
     "Powershell Commands.md",
     "Excalidraw/whiteboard.excalidraw.md",
     "Focused Study.md",
-    "Präpositionen.md",
-    "Deutsch_A2.md",
-    "Deutsch_C1.md",
     "Amazon Web Services - CLF-C02/2. Sicherheit und Compliance/Notes/a",
     "Amazon Web Services - CLF-C02/2. Sicherheit und Compliance/Notes/New folder",
     "Amazon Web Services - CLF-C02/2. Sicherheit und Compliance/Notes/imagec2",
