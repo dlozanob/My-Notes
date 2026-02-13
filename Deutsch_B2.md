@@ -656,5 +656,58 @@ Die normale Reihenfolge laut:
 ![](attachments/Pasted%20image%2020260208151748.png)
 
 
+## Die indirekte Rede - Konjunktiv I (Gegenwart)
 
+![alt text](image-620.png)
+![alt text](image-619.png)
+
+Bei normalen Verben sowie *hoffen* ist der Konjunktiv I eigentlich immer nur in der 3. Person singular möglich.
+
+| Pronom      | Partizip I | Ersatzform  (Konjunktiv II)       |
+|-------------|------------|--------------------|
+| Ich         | ~~hoffe~~    | würde hoffen       |
+| Du          | ~~hoffest~~    | würdest hoffen     |
+| Er/Sie/Es   | hoffe    | würde hoffen       |
+| Wir         | ~~hoffen~~    | würden hoffen      |
+| Ihr         | ~~hoffet~~    | würdet hoffen      |
+| Sie         | ~~hoffen~~    | würden hoffen      |
+
+- *Sein*
+
+| Pronom      | Partizip I | Ersatzform (Konjunktiv II)        |
+|-------------|------------|--------------------|
+| Ich         | sei    | wäre       |
+| Du          | ~~seiest~~    | wärst     |
+| Er/Sie/Es   | sei    | wäre       |
+| Wir         | seien    | wären      |
+| Ihr         | ~~seiet~~    | wärt      |
+| Sie         | seien    | wären      |
+
+- *Haben*
+
+| Pronom      | Partizip I | Ersatzform (Konjunktiv II)        |
+|-------------|------------|--------------------|
+| Ich         | ~~habe~~    | hätte       |
+| Du          | ~~habest~~    | hättest     |
+| Er/Sie/Es   | habe    | hätte       |
+| Wir         | ~~haben~~    | hätten      |
+| Ihr         | ~~habet~~    | hättet      |
+| Sie         | ~~haben~~    | hätten      |
+
+> [!Note]
+>
+> Partizip I lässt sich auch in den folgenden Zeitformen verwenden: Passiv, Futur I, Futur II
+
+![alt text](image-621.png)
+![alt text](image-622.png)
+
+
+## Nomen-Verb Verbindungen
+
+![alt text](image-623.png)
+
+
+## Eine Grafik beschreiben
+
+![alt text](image-624.png)
 
