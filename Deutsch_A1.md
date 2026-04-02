@@ -324,18 +324,19 @@ Was isst was?
 	- er
 	- ge
 	- miss
-	- emp
 	- ver
 	- zer
 
->[!Notiz]
->_Um_ man manchmal trennt aber manchmal nicht
-
-Bsp: 
+Bsp:
 - Aufstehen: Ich stehe am Morgen um 6 Uhr auf
 - Aufräumen: Ich räume mein Zimmer auf
 - Einkaufen: Kaufst du auch noch etwas Wurst ein?
 - Anfangen: Wann fängt den Film an?
+
+>[!Note]
+>_Um_ wird manchmal getrennt, manchmal nicht 
+>
+> Schau mal: [Manchmal trennbare Verben](Deutsch_B2.md#manchmal-trennbare-verben)
 
 
 ## Possessivformen
