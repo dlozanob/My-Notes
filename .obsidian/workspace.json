@@ -8,6 +8,34 @@
         "type": "tabs",
         "children": [
           {
+            "id": "05c3147bb17ffd55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Präpositionen.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Präpositionen"
+            }
+          },
+          {
+            "id": "65c411f06836eb14",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Deutsch_B2.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Deutsch_B2"
+            }
+          },
+          {
             "id": "bc1fccc066840c04",
             "type": "leaf",
             "state": {
@@ -20,23 +48,9 @@
               "icon": "lucide-file",
               "title": "Deutsch_C1"
             }
-          },
-          {
-            "id": "05c3147bb17ffd55",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Präpositionen.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Präpositionen"
-            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -226,11 +240,12 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "05c3147bb17ffd55",
+  "active": "bc1fccc066840c04",
   "lastOpenFiles": [
-    "Deutsch_C1.md",
-    "Präpositionen.md",
     "Deutsch_B2.md",
+    "Deutsch_C1.md",
+    "attachments/Pasted image 20260405021058.png",
+    "Präpositionen.md",
     "Deutsch_B1.md",
     "Deutsch.md",
     "Git commands.md",
@@ -258,13 +273,11 @@
     "attachments/Pasted image 20260206182458.png",
     "attachments/Screenshot 2026-02-06 182346.png",
     "attachments/Pasted image 20260206182351.png",
-    "attachments/Pasted image 20260206182322.png",
     "Obsidian Basics.md",
     "Linked note.md",
     "Français_A2.md",
     "Deutsch_A1.md",
     "Français_A1.md",
-    "Powershell Commands.md",
     "Amazon Web Services - CLF-C02/2. Sicherheit und Compliance/Notes/a",
     "Amazon Web Services - CLF-C02/2. Sicherheit und Compliance/Notes/New folder",
     "Amazon Web Services - CLF-C02/2. Sicherheit und Compliance/Notes/imagec2",

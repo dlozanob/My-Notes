@@ -339,6 +339,7 @@ Hier ist die Gruppe Rathäuser, im Singularform _Rathaus_, das Neutrum ist. Desh
 - Der Leipziger Augustusplatz ist mit seinen 40.000 Quadratmetern _einer_ der größten Stadplätze Europas
 - Der Zoo Schönbrunn in Wien ist _einer_ der beliebtesten Zoos der Welt
 - Das Restaurant von Andreas Caminada in dem Schweizer Ort Fürstenau ist _ein/eines_ der besten Restaurants Europas
+- Aus Sicht der Versicherungswirtschaft machten verheerende Stürme in den USA und die Überschwemmungen in Europa das Jahr 2021 *zu einem* der teuersten Naturkatastrophenjahre
 
 >[!Note]
 >Wenn das Subjekt feminin ist, benutzt man die Nominierte Version der Pronom "die" anstatt Genitiv
@@ -542,7 +543,7 @@ Erweiterte Partizipen findet man vor allem in der Schriftsprache, z.B. in beschr
 - _Dadurch... dass_
  	- Diese Unterschiede können zum Beispiel _dadurch_ entstehen, _dass_ die im Labor getesteten Mengen von Nährstoffen im Rahmen unserer täglichen Essgewohnheiten gar nicht aufgenommen werden
  	- Mann kann bessere Ergebnisse _dadurch_ erzielen, _dass_ man ergebnisoffen arbeitet
- 	- Dadurch entstehen Waldbrände, dass es nie regnet
+ 	- *Dadurch* entstehen Waldbrände, *dass* es nie regnet
 - _Indem_
  	- Das konnten Gesundheitswissenschaftler der Stanford University belegen, _indem_ sie in einem Studienvergleich ein Wirrwar an Ergebnissen aufgelistet haben
  	- Man kann sich gesund ernähren, _indem_ man ein paar Regeln einhält

@@ -42,6 +42,7 @@
 	- Endwert
 		- In Deutschland stieg das Thermometer am 25. Juli 2019 in mehreren Orten im Westen des Landes auf 41,2 Grad Celsius
 	- *Auf* der Insel La Réunion
+	- Allein die versicherten Schäden summierten sich *auf* über 105 Milliarden US-Dollar
 
 - _Über_
 	- Wo?

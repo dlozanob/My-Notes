@@ -37,6 +37,13 @@
 
 ---
 
+## Redepartikeln
+
+![](attachments/Pasted%20image%2020260405021058.png)
+
+
+
+---
 Einleitung / Meinung äußern
 
 Meiner Ansicht nach …
@@ -69,10 +76,6 @@ Es ist von zentraler Bedeutung, dass …
 ---
 
 C1 Schreiben - https://www.youtube.com/watch?v=I_ThwTQ58pE
-
----
-
-
 
 
 
