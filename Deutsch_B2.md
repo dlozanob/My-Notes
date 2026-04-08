@@ -543,6 +543,7 @@ Erweiterte Partizipen findet man vor allem in der Schriftsprache, z.B. in beschr
 - _Dadurch... dass_
  	- Diese Unterschiede können zum Beispiel _dadurch_ entstehen, _dass_ die im Labor getesteten Mengen von Nährstoffen im Rahmen unserer täglichen Essgewohnheiten gar nicht aufgenommen werden
  	- Mann kann bessere Ergebnisse _dadurch_ erzielen, _dass_ man ergebnisoffen arbeitet
+ 	- Ausländische Absolventinnen und Absolventen tragen *dadurch* zur Internationalisierung bei, *dass* sie später als Alumni oder Multiplikator/-innen Kontakt zu Deutschland halten
  	- *Dadurch* entstehen Waldbrände, *dass* es nie regnet
 - _Indem_
  	- Das konnten Gesundheitswissenschaftler der Stanford University belegen, _indem_ sie in einem Studienvergleich ein Wirrwar an Ergebnissen aufgelistet haben

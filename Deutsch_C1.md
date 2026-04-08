@@ -41,7 +41,15 @@
 
 ![](attachments/Pasted%20image%2020260405021058.png)
 
+## Adjektive aus Verb + Präposition
 
+- Die Studierenden sollten anhand von fotografierten Gesichtsausdrücken die *dazugehörige Emotion* ermitteln
+- ...*daraus resultierend*...
+- ...*darauf basierend*...
+- ...*davon abhängig*
+- ...*damit verbunden*..
+- ...*daran orientiert*
+- ...*darin bestehen*..
 
 ---
 Einleitung / Meinung äußern
