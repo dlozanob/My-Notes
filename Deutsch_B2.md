@@ -27,11 +27,11 @@
 
 Der Pronominaladverb bezieht sich auf den Nebensatz.
 
-- Die Qual beim Warten hängt _davon_ ab, wie man sich subjektiv fühlt
-- Auf dem Flughafen in Houston haben sich viele Passagiere _darüber_ beschwert, dass sie so lange auf ihr Gepäck warten mussten
-- Jetzt sind sie während der Wartezeit _damit_ beschäftigt, ans andere Ende des Flughafens zu laufen
-- Man sollte nicht _darüber_ nachdenken, ob Wartezeit verlorene Zeit ist
-
+- Die Qual beim Warten *hängt davon ab*, wie man sich subjektiv fühlt
+- Auf dem Flughafen in Houston haben sich viele Passagiere *darüber beschwert*, dass sie so lange auf ihr Gepäck warten mussten
+- Jetzt sind sie während der Wartezeit *damit beschäftigt*, ans andere Ende des Flughafens zu laufen
+- Man sollte nicht *darüber nachdenken*, ob Wartezeit verlorene Zeit ist
+- Die technische Verbesserung von Raumsonden und TeIeskopen *führt dazu*, dass immer wieder neue Planeten entdeckt werden
 
 ## Konzessivangaben
 

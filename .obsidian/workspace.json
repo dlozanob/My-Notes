@@ -49,7 +49,8 @@
               "title": "Deutsch_C1"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -239,15 +240,17 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "05c3147bb17ffd55",
+  "active": "bc1fccc066840c04",
   "lastOpenFiles": [
+    "Management/1A5D5800",
+    "Management/839C5800",
+    "Deutsch_B2.md",
+    "Präpositionen.md",
     "Management/CCC30100",
     "Management/6C48B000",
     "Management/7FB7B000",
     "Deutsch_C1.md",
-    "Deutsch_B2.md",
     "attachments/Pasted image 20260405021058.png",
-    "Präpositionen.md",
     "Deutsch_B1.md",
     "Deutsch.md",
     "Git commands.md",
@@ -285,8 +288,6 @@
     "Amazon Web Services - CLF-C02/2. Sicherheit und Compliance/Notes/imagec2",
     "Amazon Web Services - CLF-C02/2. Sicherheit und Compliance/Notes/image-9c2",
     "Amazon Web Services - CLF-C02/2. Sicherheit und Compliance/Notes/image-8c2",
-    "Amazon Web Services - CLF-C02/2. Sicherheit und Compliance/Notes/image-7c2",
-    "Amazon Web Services - CLF-C02/2. Sicherheit und Compliance/Notes/image-6c2",
     "Untitled.canvas"
   ]
 }
