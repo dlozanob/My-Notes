@@ -3,36 +3,22 @@
 **Themen:**
 
 - Berufliche und akademische Themen
-    
 - Literatur und Kunst
-    
 - Technologische Innovationen
-    
 - Gesellschaftliche Probleme und Lösungen
-    
 - Medien und ihre Rolle in der Gesellschaft
-    
 - Philosophie und Ethik
-    
 - Globale Herausforderungen
-    
 - Kritisches Denken und Argumentation
-    
 
 **Grammatik:**
 
 - Konjunktiv II in der Vergangenheit
-    
 - Gerundium und Infinitiv
-    
 - Nominalisierung komplexer Sätze
-    
 - Gebrauch von Modalverben in der Vergangenheit
-    
 - Reflexive Verben in der Vergangenheit und Zukunft
-    
 - Varianten im Satzbau und der Wortstellung
-    
 - Adjektive und deren Verwendung in verschiedenen Kontexten
 
 ---
@@ -59,6 +45,21 @@
 ## Mündlicher Ausdruck
 
 ![](attachments/Pasted%20image%2020260411001634.png)
+
+
+## Zweiteilige Satzverbindungen
+
+![](attachments/Pasted%20image%2020260411180205.png)
+
+
+---
+
+## Schreibsübungen
+
+![](attachments/Pasted%20image%2020260411235533.png)
+
+![](attachments/Pasted%20image%2020260411235508.png)
+
 
 ---
 Einleitung / Meinung äußern
