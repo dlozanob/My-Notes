@@ -51,6 +51,15 @@
 - ...*daran orientiert*
 - ...*darin bestehen*..
 
+## Über Forschungsergebnisse berichten
+
+
+![](attachments/Pasted%20image%2020260410200639.png)
+
+## Mündlicher Ausdruck
+
+![](attachments/Pasted%20image%2020260411001634.png)
+
 ---
 Einleitung / Meinung äußern
 
