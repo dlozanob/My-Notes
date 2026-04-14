@@ -900,7 +900,7 @@ Bei normalen Verben sowie _hoffen_ ist der Konjunktiv I eigentlich immer nur in 
 ## Eine Grafik beschreiben
 
 ![alt text](image-624.png)
-
+![](attachments/Pasted%20image%2020260412123952.png)
 
 ## Manchmal trennbare Verben
  

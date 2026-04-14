@@ -40,9 +40,10 @@
 		- Ich gehe *auf* den Platz
 		- Ich stelle die Flasche *auf* den Tisch
 	- Endwert
-		- In Deutschland stieg das Thermometer am 25. Juli 2019 in mehreren Orten im Westen des Landes auf 41,2 Grad Celsius
+		- In Deutschland stieg das Thermometer am 25. Juli 2019 in mehreren Orten im Westen des Landes *auf* 41,2 Grad Celsius
 	- *Auf* der Insel La Réunion
 	- Allein die versicherten Schäden summierten sich *auf* über 105 Milliarden US-Dollar
+	- Das Lachen ist eine Reaktion *auf* die Situation
 
 - _Über_
 	- Wo?
@@ -139,3 +140,9 @@
 		- Die Vase liegt *zwischen* dem Kugelschreiber und den Stifte
 	- Numerisch begrenzter Bereich
 		- *Zwischen* 15 und 29 Jahren
+
+---
+
+![](attachments/Pasted%20image%2020260413200734.png)
+
+

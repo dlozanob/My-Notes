@@ -48,6 +48,18 @@
               "icon": "lucide-file",
               "title": "Deutsch_C1"
             }
+          },
+          {
+            "id": "7e56698999f0a10b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/whiteboard.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "whiteboard.excalidraw"
+            }
           }
         ],
         "currentTab": 2
@@ -242,29 +254,32 @@
   },
   "active": "bc1fccc066840c04",
   "lastOpenFiles": [
+    "Präpositionen.md",
+    "attachments/Pasted image 20260413200734.png",
+    "Deutsch_C1.md",
+    "Excalidraw/whiteboard.excalidraw.md",
+    "attachments/Pasted image 20260413193925.png",
+    "Excalidraw/attachments/Pasted Image 20260413193628_321.png",
+    "Deutsch_B2.md",
+    "attachments/Pasted image 20260412145521.png",
+    "attachments/Pasted image 20260412143532.png",
+    "attachments/Pasted image 20260412123952.png",
     "attachments/Pasted image 20260411235533.png",
     "attachments/Pasted image 20260411235508.png",
-    "Deutsch_B2.md",
-    "Deutsch_C1.md",
     "attachments/Pasted image 20260411180205.png",
     "attachments/Pasted image 20260411001634.png",
-    "attachments/Pasted image 20260410200639.png",
     "Management/1A5D5800",
     "Management/839C5800",
-    "Präpositionen.md",
     "Management/CCC30100",
     "Management/6C48B000",
     "Management/7FB7B000",
-    "attachments/Pasted image 20260405021058.png",
     "Deutsch_B1.md",
     "Deutsch.md",
     "Git commands.md",
-    "image-625.png",
     "DELETE.txt",
     "Other.md",
     "MEIN PROJEKT.md",
     "Main.md",
-    "attachments/Pasted image 20260208151748.png",
     "Français.md",
     "Français_B1.md",
     "Français_B2.md",
@@ -276,14 +291,10 @@
     "Pollo Thai.md",
     "Recipes.md",
     "Cheesecake Japonés.md",
-    "attachments/Pasted image 20260207184427.png",
-    "attachments/Pasted image 20260207173935.png",
-    "attachments/Pasted image 20260207160801.png",
     "Obsidian Basics.md",
     "Linked note.md",
     "Français_A2.md",
     "Deutsch_A1.md",
-    "Français_A1.md",
     "Amazon Web Services - CLF-C02/2. Sicherheit und Compliance/Notes/a",
     "Amazon Web Services - CLF-C02/2. Sicherheit und Compliance/Notes/New folder",
     "Amazon Web Services - CLF-C02/2. Sicherheit und Compliance/Notes/imagec2",
