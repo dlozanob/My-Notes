@@ -35,25 +35,47 @@
 - ...*daran orientiert*
 - ...*darin bestehen*..
 
+## Die Weitergabe von Informationen und Gerüchten
 
+![](attachments/Pasted%20image%2020260420024842.png)
+
+- **Beispiele:**
+	- Die Nationalmannschaft hat sich im Höhentrainingslager in der Schweiz auf den Wettkampf vorbereitet
+		- Die Nationalmanschaft *soll* sich im Höhentrainingslager in der Schweiz auf den Wettkampf *vorbereitet haben*
+	- Wegen des Streits ist der Cheftrainer zurückgetreten
+		- Wegen des Streits *soll* der Cheftrainer *zurückgetreten sein*
+	- Die Trainingsbedingungen waren schwierig
+		- Die Trainingsbedingungen *sollen* schwierig *gewesen sein*
+	- Das Eröffnungsspiel findet in der neuen Arena statt
+		- Das Eröffnungsspiel *soll* in der neuen Arena stattfinden
+	- Das Stadion wird erst eine Woche vor dem Spiel fertig
+		- Der Ausbau der Arena *soll* bis jetzt schon 25 Millionen Euro *gekostet haben*
+	- „Ich habe den ganzen Winter in Italien hart trainiert
+		- Er *will* den ganzen Winter in Italien hart *trainiert haben*
+	- „Bei den Dopingkontrollen war ich zufällig krank"
+		- Bei den Dopingkontrollen *will* er zufällig kran *gewesen sein*
+	- „Ich kenne dieses leistungssteigernde Mittel überhaupt nicht"
+		- Er *will* dieses leistungssteigernde Mittel überhaupt nicht kennen
+
+
+
+---
 ## Redemitteln
 ### Über Forschungsergebnisse berichten
 
 
-![](attachments/Pasted%20image%2020260410200639.png)
+![](attachments/Pasted%20image%2020260420024417.png)
 
 ### Mündlicher Ausdruck
 
-![](attachments/Pasted%20image%2020260411001634.png)
+![](attachments/Pasted%20image%2020260420024527.png)
 
 ### Lachen und Lustiges
 
-![](attachments/Pasted%20image%2020260412143532.png)
+![](attachments/Pasted%20image%2020260420024708.png)
 ## Zweiteilige Satzverbindungen
 
-![](attachments/Pasted%20image%2020260411180205.png)
-
-
+![](attachments/Pasted%20image%2020260420024628.png)
 
 ---
 
@@ -61,7 +83,7 @@
 
 ![](attachments/Pasted%20image%2020260411235508.png)
 
-![](attachments/Pasted%20image%2020260412145521.png)
+![](attachments/Pasted%20image%2020260420024001.png)
 
 C1 Schreiben - https://www.youtube.com/watch?v=I_ThwTQ58pE
 

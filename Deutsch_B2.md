@@ -545,6 +545,8 @@ Erweiterte Partizipen findet man vor allem in der Schriftsprache, z.B. in beschr
  	- Mann kann bessere Ergebnisse _dadurch_ erzielen, _dass_ man ergebnisoffen arbeitet
  	- Ausländische Absolventinnen und Absolventen tragen *dadurch* zur Internationalisierung bei, *dass* sie später als Alumni oder Multiplikator/-innen Kontakt zu Deutschland halten
  	- *Dadurch* entstehen Waldbrände, *dass* es nie regnet
+ 	- Der Erfolg solchen Kontrollen kann also nur *dadurch* garantiert werden, *dass* diese Kontrollen unangemeldet stattfinden
+	 	- *Alternativ:* Der Erfolg solchen Kontrollen kann also nur *dann* garantiert werden, *wenn* diese Kontrollen unangemeldet stattfinden
 - _Indem_
  	- Das konnten Gesundheitswissenschaftler der Stanford University belegen, _indem_ sie in einem Studienvergleich ein Wirrwar an Ergebnissen aufgelistet haben
  	- Man kann sich gesund ernähren, _indem_ man ein paar Regeln einhält

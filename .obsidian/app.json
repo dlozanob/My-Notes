@@ -6,5 +6,6 @@
   "useMarkdownLinks": true,
   "attachmentFolderPath": "./attachments",
   "defaultViewMode": "preview",
-  "readableLineLength": true
+  "readableLineLength": true,
+  "promptDelete": false
 }
