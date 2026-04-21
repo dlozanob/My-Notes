@@ -57,7 +57,9 @@
 	- „Ich kenne dieses leistungssteigernde Mittel überhaupt nicht"
 		- Er *will* dieses leistungssteigernde Mittel überhaupt nicht kennen
 
+## Konjunktiv II: Wiederholung
 
+![alt text](image-628.png)
 
 ---
 ## Redemitteln
@@ -84,6 +86,10 @@
 ![](attachments/Pasted%20image%2020260411235508.png)
 
 ![](attachments/Pasted%20image%2020260420024001.png)
+
+![alt text](image-626.png)
+
+![alt text](image-627.png)
 
 C1 Schreiben - https://www.youtube.com/watch?v=I_ThwTQ58pE
 
