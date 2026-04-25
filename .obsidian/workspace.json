@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "51734507fa85e10b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Deutsch_A2.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Deutsch_A2"
+            }
+          },
+          {
             "id": "65c411f06836eb14",
             "type": "leaf",
             "state": {
@@ -48,21 +62,9 @@
               "icon": "lucide-file",
               "title": "Deutsch_C1"
             }
-          },
-          {
-            "id": "7e56698999f0a10b",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/whiteboard.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "whiteboard.excalidraw"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -252,13 +254,26 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "bc1fccc066840c04",
+  "active": "51734507fa85e10b",
   "lastOpenFiles": [
-    "Deutsch_B2.md",
+    "Management/6AD4AA00",
+    "Management/59C4AA00",
+    "Management/A624AA00",
+    "Management/~$Financial Planning.xlsx",
+    "Deutsch_B1.md",
     "Deutsch_C1.md",
+    "Management/E4C90800",
+    "Management/3F890800",
+    "Management/E33CE700",
+    "Management/9B498700",
+    "Management/70148700",
+    "Management/A7228700",
+    "Management/8D3F7700",
+    "Excalidraw/whiteboard.excalidraw.md",
+    "Git commands.md",
+    "Deutsch_B2.md",
     "attachments/Pasted image 20260420024842.png",
     "attachments/Pasted image 20260420024708.png",
-    "Excalidraw/whiteboard.excalidraw.md",
     "Excalidraw/attachments/Pasted Image 20260420024704_881.png",
     "attachments/Pasted image 20260420024628.png",
     "attachments/Pasted image 20260420024619.png",
@@ -268,15 +283,7 @@
     "attachments/Pasted image 20260420024500.png",
     "Excalidraw/attachments/Pasted Image 20260420024432_812.png",
     "Präpositionen.md",
-    "Management/1A5D5800",
-    "Management/839C5800",
-    "Management/CCC30100",
-    "Management/6C48B000",
-    "Management/7FB7B000",
-    "Deutsch_B1.md",
     "Deutsch.md",
-    "Git commands.md",
-    "DELETE.txt",
     "Other.md",
     "MEIN PROJEKT.md",
     "Main.md",
@@ -295,10 +302,6 @@
     "Linked note.md",
     "Français_A2.md",
     "Deutsch_A1.md",
-    "Amazon Web Services - CLF-C02/2. Sicherheit und Compliance/Notes/a",
-    "Amazon Web Services - CLF-C02/2. Sicherheit und Compliance/Notes/New folder",
-    "Amazon Web Services - CLF-C02/2. Sicherheit und Compliance/Notes/imagec2",
-    "Amazon Web Services - CLF-C02/2. Sicherheit und Compliance/Notes/image-9c2",
     "Untitled.canvas"
   ]
 }
