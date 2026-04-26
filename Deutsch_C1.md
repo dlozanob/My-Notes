@@ -23,7 +23,7 @@
 
 ## Redepartikeln
 
-![](attachments/Pasted%20image%2020260405021058.png)
+![](attachments/Pasted%20image%2020260426001303.png)
 
 ## Adjektive aus Verb + Präposition
 
@@ -71,7 +71,7 @@
 ### Mündlicher Ausdruck
 
 ![](attachments/Pasted%20image%2020260420024527.png)
-
+![](attachments/Pasted%20image%2020260426001233.png)
 ### Lachen und Lustiges
 
 ![](attachments/Pasted%20image%2020260420024708.png)
@@ -81,7 +81,7 @@
 
 ---
 
-## Schreibsübungen
+## Schriftliche und mündliche Übungen
 
 ![](attachments/Pasted%20image%2020260411235508.png)
 
@@ -90,6 +90,8 @@
 ![alt text](image-626.png)
 
 ![alt text](image-627.png)
+
+![](attachments/Pasted%20image%2020260425192442.png)
 
 C1 Schreiben - https://www.youtube.com/watch?v=I_ThwTQ58pE
 

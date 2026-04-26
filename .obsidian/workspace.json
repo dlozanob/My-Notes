@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deutsch_A2.md",
+                "file": "Deutsch_A1.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Deutsch_A2"
+              "title": "Deutsch_A1"
             }
           },
           {
@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -254,35 +254,36 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "51734507fa85e10b",
+  "active": "bc1fccc066840c04",
   "lastOpenFiles": [
+    "Excalidraw/whiteboard.excalidraw.md",
+    "Deutsch_C1.md",
+    "attachments/Pasted image 20260426001303.png",
+    "attachments/Pasted image 20260426001248.png",
+    "Excalidraw/attachments/Pasted Image 20260426001244_802.png",
+    "attachments/Pasted image 20260426001233.png",
+    "attachments/Pasted image 20260426001219.png",
+    "Excalidraw/attachments/Pasted Image 20260426001203_503.png",
+    "Präpositionen.md",
+    "attachments/Pasted image 20260425192442.png",
+    "Deutsch_A1.md",
+    "Deutsch_A2.md",
     "Management/6AD4AA00",
     "Management/59C4AA00",
     "Management/A624AA00",
     "Management/~$Financial Planning.xlsx",
     "Deutsch_B1.md",
-    "Deutsch_C1.md",
     "Management/E4C90800",
     "Management/3F890800",
     "Management/E33CE700",
     "Management/9B498700",
     "Management/70148700",
     "Management/A7228700",
-    "Management/8D3F7700",
-    "Excalidraw/whiteboard.excalidraw.md",
     "Git commands.md",
     "Deutsch_B2.md",
     "attachments/Pasted image 20260420024842.png",
     "attachments/Pasted image 20260420024708.png",
     "Excalidraw/attachments/Pasted Image 20260420024704_881.png",
-    "attachments/Pasted image 20260420024628.png",
-    "attachments/Pasted image 20260420024619.png",
-    "attachments/Pasted image 20260420024555.png",
-    "Excalidraw/attachments/Pasted Image 20260420024549_846.png",
-    "attachments/Pasted image 20260420024527.png",
-    "attachments/Pasted image 20260420024500.png",
-    "Excalidraw/attachments/Pasted Image 20260420024432_812.png",
-    "Präpositionen.md",
     "Deutsch.md",
     "Other.md",
     "MEIN PROJEKT.md",
@@ -300,8 +301,6 @@
     "Cheesecake Japonés.md",
     "Obsidian Basics.md",
     "Linked note.md",
-    "Français_A2.md",
-    "Deutsch_A1.md",
     "Untitled.canvas"
   ]
 }
