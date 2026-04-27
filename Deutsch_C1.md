@@ -61,6 +61,13 @@
 
 ![alt text](image-628.png)
 
+## Vermutungen ausdrücken: Wiederholung
+
+![](attachments/Pasted%20image%2020260427032323.png)
+
+
+
+
 ---
 ## Redemitteln
 ### Über Forschungsergebnisse berichten
