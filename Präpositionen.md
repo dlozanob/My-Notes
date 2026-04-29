@@ -141,6 +141,17 @@
 	- Numerisch begrenzter Bereich
 		- *Zwischen* 15 und 29 Jahren
 
+- *Gegenüber*
+  - Sich verhalten
+    - Beim Sport können Jugendliche lernen, sich anderen *gegenüber* fair zu verhalten
+    - Er verhielt sich seinen Kollegen *gegenüber* respektlos
+  - Haltung
+	- Sie ist ihren Freunden *gegenüber* ehrlich
+	- Kinder sollen einander *gegenüber* tolerant sein
+	- Er zeigte sich der Kritik *gegenüber* offen
+  - Verantwortung tragen
+	- Das Unternehmen ist seinen Kunden *gegenüber* verantwortlich
+
 ---
 
 ![](attachments/Pasted%20image%2020260413200734.png)
