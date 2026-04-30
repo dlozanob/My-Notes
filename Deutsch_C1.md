@@ -94,8 +94,6 @@
 
 ![](attachments/Pasted%20image%2020260420024001.png)
 
-![alt text](image-626.png)
-
 ![alt text](image-627.png)
 
 ![](attachments/Pasted%20image%2020260425192442.png)
