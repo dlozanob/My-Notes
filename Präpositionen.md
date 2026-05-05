@@ -151,6 +151,12 @@
 	- Er zeigte sich der Kritik *gegenüber* offen
   - Verantwortung tragen
 	- Das Unternehmen ist seinen Kunden *gegenüber* verantwortlich
+  - Vergleiche
+    - Online-Unterricht bietet *gegenüber* dem Präsenzunterricht mehr Flexibilität
+    - Diese Lösung hat Vorteile *gegenüber* Alternativen
+  - Räumlich
+    - Die Apotheke liegt *gegenüber* der Schule
+	- Ich saß ihm *gegenüber*
 
 ---
 
