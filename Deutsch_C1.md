@@ -65,7 +65,25 @@
 
 ![](attachments/Pasted%20image%2020260427032323.png)
 
+## Adversativangaben: Wiederholung
 
+![alt text](image-630.png)
+
+## Besonderen Attributen
+
+- Eine *zuckersüße* Limonade
+- Ein *knallgelbes* Auto
+- Eine *felsenfeste* Überzeugung
+- Eine *knallharte* Verhandlung
+- Ein *spindeldürres* Model
+- Ein *bildschönes* Kleid
+- *Spottbillige* Produkte
+- Ein *stockdunkler* Raum
+- Ein *steinreicher* Onkel
+- *Pechschwarze* Haare
+- *Nagelneue* Schuhe
+- Eine *federleichte* Decke
+- Ein *todsicherer* Tipp
 
 
 ---
@@ -97,6 +115,10 @@
 ![alt text](image-627.png)
 
 ![](attachments/Pasted%20image%2020260425192442.png)
+
+![alt text](image-629.png)
+
+![alt text](image-631.png)
 
 C1 Schreiben - https://www.youtube.com/watch?v=I_ThwTQ58pE
 
