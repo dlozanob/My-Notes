@@ -340,6 +340,7 @@ Hier ist die Gruppe Rathäuser, im Singularform _Rathaus_, das Neutrum ist. Desh
 - Der Zoo Schönbrunn in Wien ist _einer_ der beliebtesten Zoos der Welt
 - Das Restaurant von Andreas Caminada in dem Schweizer Ort Fürstenau ist _ein/eines_ der besten Restaurants Europas
 - Aus Sicht der Versicherungswirtschaft machten verheerende Stürme in den USA und die Überschwemmungen in Europa das Jahr 2021 *zu einem* der teuersten Naturkatastrophenjahre
+- Ihr hat *keins* dieser wundervollen Geschenke gefallen
 
 >[!Note]
 >Wenn das Subjekt feminin ist, benutzt man die Nominierte Version der Pronom "die" anstatt Genitiv

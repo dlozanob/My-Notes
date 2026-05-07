@@ -35,6 +35,8 @@
 >[!Notiz]
 >Einsilbige Adjektivs mit _a_, _o_, _u_, müssen ümlaut hinzufügen
 
+![alt text](image-632.png)
+
 - Alt
 	- Älter
 	- Ältesten

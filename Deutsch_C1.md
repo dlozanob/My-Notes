@@ -85,6 +85,11 @@
 - Eine *federleichte* Decke
 - Ein *todsicherer* Tipp
 
+## Adjektivdeklination: Wiederholung
+
+![alt text](image-633.png)
+![alt text](image-634.png)
+![alt text](image-635.png)
 
 ---
 ## Redemitteln

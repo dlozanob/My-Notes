@@ -524,6 +524,7 @@ Wegbeschreibung:
 | Plural   | en                             | en                                       | e          |
 
 - Meine schwarzen Schuhe
+- Alle anwesenden Verlage
 
 ### Akkusativ
 
@@ -580,7 +581,7 @@ Wegbeschreibung:
 - Ich arbeite mit diesem neuen Computer
 
 >[!Note]
->Wenn ein Demonstrativpronomen (dieser, jener, solcher) vor einem Adjektiv steht, muss das Adjektiv dekliniert werden, ähnlich wie bei einem bestimmten Artikel
+>Wenn ein Demonstrativpronomen (dieser, jener, solcher, aller) vor einem Adjektiv steht, muss das Adjektiv dekliniert werden, ähnlich wie bei einem bestimmten Artikel
 
 
 ## Imperativ
