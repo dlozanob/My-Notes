@@ -125,6 +125,8 @@
 
 ![alt text](image-631.png)
 
+![alt text](image-636.png)
+
 C1 Schreiben - https://www.youtube.com/watch?v=I_ThwTQ58pE
 
 ---
