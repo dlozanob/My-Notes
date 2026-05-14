@@ -91,10 +91,24 @@
 ![alt text](image-634.png)
 ![alt text](image-635.png)
 
+## Indirekte Rede: Wiederholung
+
+![alt text](image-639.png)
+
+- Nach Aussagen des Vorstandsvorsitzenden sei die Dividendenpolitik langfristig angelegt
+- Der Vorstandsvorsitzende berichtete außerdem, dass sich die gute Entwicklung der letzten Jahre auch in diesem Geschäftsjahr fortsetze
+- Auch in anderen Bereichen hätten sich Anzeichen für Fortschritte gezeigt, zum Beispiel bei der Bekämpfung
+der Luftverschmutzung
+- Durch den gestiegenen CO2-Preis in der EU sei vor allem die Kohleproduktion teurer geworden
+
+## Imperativ: Wiederholung
+
+![alt text](image-640.png)
+
+
 ---
 ## Redemitteln
 ### Über Forschungsergebnisse berichten
-
 
 ![](attachments/Pasted%20image%2020260420024417.png)
 
@@ -102,12 +116,18 @@
 
 ![](attachments/Pasted%20image%2020260420024527.png)
 ![](attachments/Pasted%20image%2020260426001233.png)
+
 ### Lachen und Lustiges
 
 ![](attachments/Pasted%20image%2020260420024708.png)
-## Zweiteilige Satzverbindungen
+
+### Zweiteilige Satzverbindungen
 
 ![](attachments/Pasted%20image%2020260420024628.png)
+
+### Über eine Wahl berichten
+
+![alt text](image-638.png)
 
 ---
 
