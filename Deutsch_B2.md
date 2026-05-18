@@ -918,27 +918,29 @@ Dafür gibt es die folgende Präfixe:
   - hinter
 
 **Beispiele:**
-- Umfahren
-  - Etwas vermeiden, einen Umweg machen
-    - Wir *umfahren* die Baustelle
-  - Etwas anfahren, niederfahren
-    - Er hat das Verkehrsschild *umgefahren*
-- Übersetzen
-  - Mit einem Verkehrsmittel über etwas fahren
-    - Wir *setzen* mit dem Boot *über*
-  - Von einer Sprache in eine andere übertragen
-    - Sie *übersetzt* den Text in Deutsche
-- Durchlaufen
-  - Zu Fuß durch etwas gehen
-    - Ich *laufe* den Park *durch*
-  - Einen Prozess vollständig absolvieren
-    - Er hat eine harte Ausbildung *durchlaufen*
-- Unterstellen
-  - Etwas an einen geschützen Ort bringen
-    - Sie *stellt* das Fahrrad *unter*
-  - Jemanden etwas vorwerfen
-    - Man kann ihm keine böse Absicht *unterstellen*
-
+- *Umfahren*
+	- Etwas vermeiden, einen Umweg machen
+		- Wir *umfahren* die Baustelle
+	  - Etwas anfahren, niederfahren
+		- Er hat das Verkehrsschild *umgefahren*
+- *Übersetzen*
+	- Mit einem Verkehrsmittel über etwas fahren
+	    - Wir *setzen* mit dem Boot *über*
+	- Von einer Sprache in eine andere übertragen
+	    - Sie *übersetzt* den Text in Deutsche
+- *Durchlaufen*
+	- Zu Fuß durch etwas gehen
+	    - Ich *laufe* den Park *durch*
+	  - Einen Prozess vollständig absolvieren
+	    - Er hat eine harte Ausbildung *durchlaufen*
+- *Unterstellen*
+	- Etwas an einen geschützen Ort bringen
+	    - Sie *stellt* das Fahrrad *unter*
+	- Jemanden etwas vorwerfen
+	    - Man kann ihm keine böse Absicht *unterstellen*
+- *Überhören*
+	- Unabsichtlich nicht zuhören
+		- Das muss ich *überhört* haben
 
 ## Modifizierenden Verben
 

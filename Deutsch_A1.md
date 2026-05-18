@@ -336,7 +336,7 @@ Bsp:
 >[!Note]
 >_Um_ wird manchmal getrennt, manchmal nicht 
 >
-> Schau mal: [Manchmal trennbare Verben](Deutsch_B2.md#manchmal-trennbare-verben)
+> Schau mal: [Manchmal trennbare Verben](Deutsch_B2.md##manchmal+trennbare+verben)
 
 
 ## Possessivformen
