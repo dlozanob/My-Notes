@@ -207,3 +207,27 @@ C1 Schreiben - https://www.youtube.com/watch?v=I_ThwTQ58pE
 	- Zusammenfasend lässt sich sagen, dass ...
 	- Abschließend kann festgehalten werden, dass ...
 	- In zukunft wäre es wünschenswert, dass ...
+
+-----------------------------------------------------------------
+
+## Sich bewerben
+
+### Das Anschreiben
+
+![alt text](image-641.png)
+![alt text](image-642.png)
+![alt text](image-643.png)
+![alt text](image-644.png)
+![alt text](image-645.png)
+
+#### Formulierungstipps und Vorlagen
+
+![alt text](image-646.png)
+
+
+### Der Lebenslauf
+
+![alt text](image-647.png)
+![alt text](image-648.png)
+![alt text](image-649.png)
+![alt text](image-650.png)
