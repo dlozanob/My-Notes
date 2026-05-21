@@ -231,3 +231,26 @@ C1 Schreiben - https://www.youtube.com/watch?v=I_ThwTQ58pE
 ![alt text](image-648.png)
 ![alt text](image-649.png)
 ![alt text](image-650.png)
+
+
+
+--------------------------------------------------------------------
+
+## Jobs suchen durch Netzwerken
+
+- https://www.spinnen-netz.de/content/diversitaetsorientierte-personalgewinnung
+- https://wusgermany.de/de
+- www.jugendmigrationsdienste.de (bis 27)
+- Migrationsberatung für Erwachsene (MBE) (+27)
+- https://www.damigra.de/ (Dachverband der Migrantinnenorganisationen)
+- https://www.frnrw.de/ (Flüchtlingsrat in NWR - Such je nach Bundesland)
+- https://nebenan.de/
+- Volkshochschule Organisation - Lernen- und Kulturangebote
+- https://www.vdi.de/mitgliedschaft/nachwuchs/zukunftspiloten
+- www.kmk.org (Anerkennungsberatung)
+- https://www.make-it-in-germany.com/de/arbeiten-in-deutschland/anerkennung
+
+![alt text](image-651.png)
+![alt text](image-653.png)
+![alt text](image-654.png)
+![alt text](image-655.png)
