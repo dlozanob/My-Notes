@@ -129,6 +129,10 @@ der Luftverschmutzung
 
 ![alt text](image-638.png)
 
+### Gefallen/Missfallen ausdrücken
+
+![alt text](image-657.png)
+
 ---
 
 ## Schriftliche und mündliche Übungen
@@ -146,6 +150,8 @@ der Luftverschmutzung
 ![alt text](image-631.png)
 
 ![alt text](image-636.png)
+
+![alt text](image-656.png)
 
 C1 Schreiben - https://www.youtube.com/watch?v=I_ThwTQ58pE
 
