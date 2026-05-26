@@ -105,6 +105,48 @@ der Luftverschmutzung
 
 ![alt text](image-640.png)
 
+## Nominalisierung: Wiederholung
+
+![alt text](image-658.png)
+
+- *Um sich vor Grippe zu schützen*, kann man sich impfen lassen
+  - Zum Schutz vor Grippe, kann man sich impfen lassen
+- Die Zahlung wird fällig, *wenn wir die Waren liefern*
+  - Die Zahlung wird bei Lieferung der Waren fällig
+- Jetzt muss du die Aufgaben aber mal lösen, *ohne dass ich dir dabei helfe*
+  - Jetzt muss du die Aufgaben aber mal ohne meine Hilfe lösen
+- Du hättest deine Finanzen mal überprüfen sollen, *bevor du dir eine Eigentumswohnung kaufst*
+  - Du hättest deine Finanzen mal vor dem Kauf einer Eigentumswohnung überprüfen sollen
+- Die Firma muss ihre Umsätze steigern, *damit alle Arbeitsplätze erhalten bleiben können*
+  - Die Firma muss ihre Umsätze zum / für den Erhalt aller Arbeitsplätze steigern
+- *Soweit ich informiert bin*, beginnt das nächste Semester erst Anfag Oktober
+  - Nach meiner Information, beginnt das nächste Semester erst Anfag Oktober
+- Ich hatte genügend Geld bei mir, *was ein großes Glück für mich war*
+  - Ich hatte zum Glück genügend Geld bei mir
+- *Obwohl die Regierung Maßnahmen ergriff*, hat sich die Lage noch nicht wesentlich verbessert
+  - *Trozt der Ergreifung von Maßnahmen durch die Regierung*, hat sich die Lage noch nicht wesentlich verbessert
+- Er konnte sein Können noch nicht unter Beweis stellen, *weil eine Gelegenheit fazu fehlte*
+  - Er konnte sein Können aus Mangel an / mangels Gelegenheit noch nicht unter Beweis stellen
+
+## Passiv und Passiversatzformen: Wiederholung
+
+- Leons Hemd ist total zerknittert
+  - Das Hemd hätte gebügelt werden müssen
+- Der Bibliothekausweis ist abgelaufen
+  - Der Bibliothekausweis hätte verlängert werden müssen
+- Die Daten sin unvollständig
+  - Die Daten hätten ergänzt werden müssen
+- Der Drucker ist kaputt 
+  - Der Drucker hätte repariert werden müssen
+
+![alt text](image-659.png)
+
+- Die Behörde antwortete mir nicht auf mein Schreiben
+  - Mir wurde auf mein Schreiben von der Behörde nicht geantwortet
+- Viele Firmen werben noch immer in Kindersendungen für Süßigkeiten
+  - Es wird von vielen Firmen noch immer in Kindersendungen für Süßigkeiten geworben
+- 
+
 
 ---
 ## Redemitteln
