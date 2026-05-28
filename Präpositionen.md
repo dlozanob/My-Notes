@@ -19,12 +19,17 @@
 	- _Am_ Wochenende
 	- _Am_ Computer
 	- Hunde sind _an_ der Leine
+	- Oberflächen / Onjekten
+    	- Schäden *an* Häusern
+    	- Kratzer *am* Auto
+    	- Risse *an* der Wand
 
 - _In_
 	- Wo?
-		- Ich packe meinen lieblingsen Stift *in* meiner Tasche ein
-	- Wohin? (Geschlossene Orte)
+		- Ich packe meinen lieblingsen Stift *in* meiner Tasche ein		
+	- Wohin? (Geschlossene Orte) - Bewegung hinein
 		 - Ich gehe *ins* Kino
+		 - *Ins* Zimmer bringen
 	- *Im* 9. Semester
 	- Monate
 		- *Im* November
@@ -44,6 +49,9 @@
 	- *Auf* der Insel La Réunion
 	- Allein die versicherten Schäden summierten sich *auf* über 105 Milliarden US-Dollar
 	- Das Lachen ist eine Reaktion *auf* die Situation
+	- Temporären Zustand mit Zweck
+    	- *Auf* Urlaub
+    	- *Auf* der Suche nach
 
 - _Über_
 	- Wo?
@@ -52,11 +60,20 @@
 		- Er läuft *über* das Lebensmittel
 	- Vergleiche
 		- Bei den regelmäßigen Fleischesser der Anteil der Männer liegt deutlich *über* dem Anteil der Frauen
+  - Zeitraum (Kontinuität)
+    - Ich habe heute mal wieder *über* eine Stunde im Stau gestanden
+    - *Über* Jahre hinweg
+    - *Über* mehrere Tage
 
 - _Als_
 	- Sie Arbeitet *als* Kellnerin
 	- *Als* ich Kind war, wollte ich ein Superheld werden
 
+- _Aus_
+	- *Aus* der Presse wurde bekannt, dass sich der Fußballstar von seiner Frau trennen will
+	- Abstand
+    	- *Aus* der Nähe sehen
+    	- *Aus* der Ferne beobachten
 
 ## Akkusativ
 
@@ -67,13 +84,15 @@
 		- *Um* sieben Uhr dreißig
 	- *Um* Mitternacht
 	- Veränderung
-		- Die Meerespiegel wird sich *um* 18 bis 59 Zentimeter erhöhen
+		- Die Meerespiegel wird sich *um* 18 auf 59 Zentimeter erhöhen
 		- Der Lärm nimmt *um* mehrere Dezibel zu
 		- Die Temperatur steigt *um* 2 Grad
 
 - _Durch_
 	- Geschlossene Orte überqueren
 		- Du läufst *durch* den Park
+- _Gegen_
+  - Das Wasser hilft *gegen* Schmerzen
 
 
 ## Dativ
@@ -84,30 +103,38 @@
 	- Ich wohne *mit* meinen Freunden
 
 - _Bei_
-	- Arbeiten bei Firmas oder Berufe
-		- Ich arbeite *bei* Volkswagen
-		- Ich arbeite *bei* der Polizei
+  - Arbeiten bei Firmas oder Berufe
+    - Ich arbeite *bei* Volkswagen
+    - Ich arbeite *bei* der Polizei
 	- Ich wohne *bei* meinen Eltern
-	- Aktuelles Wert:
-		- In Deutschland stammt der Kälterekord aus dem Jahr 1929: Er liegt *bei* minus 37,8 Grad Celsius
-	- In der Nähe
-		- Offenbach liegt *bei* Frankfurt
-	- Statistik
-		- *Bei* den regelmäßigen Fleischesser der Anteil der Männer liegt deutlich über dem Anteil der Frauen
+  - Aktuelles Wert:
+    - In Deutschland stammt der Kälterekord aus dem Jahr 1929: Er liegt *bei* minus 37,8 Grad Celsius
+    - In der Nähe
+  - Offenbach liegt *bei* Frankfurt
+  - Statistik
+    - *Bei* den regelmäßigen Fleischesser der Anteil der Männer liegt deutlich über dem Anteil der Frauen
+  - Ereigniss / Gelegenheit
+    - *Bei* diesem Straßenlärm kann ich nicht schlafen
+    - *Bei* der Pressverleihung
+    - *Bei* der Feier
+    - *Bei* der Konferenz
 
 - _Von_
 	- Das Spielzeug *von* dem Kind
 	- Leute *von* der Uni
 
 - _Zu_
-	- Wegbeschreibung
+	- Wohin? - Richtung / Kontakt
 		- Wie komme ich *zum* Park?
+		- *Zum* Artz gehen
+		- *Zum* Eingang gehen
 	- Etwas *zu* essen
 	- Welcher beruf passt *zu* ihr?
 	- Feste
 		- *Zum* Weihnachten
 	- Die Grenze *zu* die Niederlanden
 	- Wir schreiben nicht mehr so wie *zu* Zeiten der Aufklärung
+	- Von Land *zu* Land variieren
 
 - _Nach_
 	- Länder,  Kontinente, Städte

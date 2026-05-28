@@ -145,8 +145,26 @@ der Luftverschmutzung
   - Mir wurde auf mein Schreiben von der Behörde nicht geantwortet
 - Viele Firmen werben noch immer in Kindersendungen für Süßigkeiten
   - Es wird von vielen Firmen noch immer in Kindersendungen für Süßigkeiten geworben
-- 
 
+![alt text](image-660.png)
+![alt text](image-661.png)
+
+- Bei der Razzia wurden auch zehn Polizeihunde eingesetzt
+  - Bei der Razzia waren auch zehn Polizeihunde im Einsatz
+- Die Qualität der Ware wird ständig kontrolliert
+  - Die Qualität der Ware unterliegt ständiger Kontrollen
+- Die Vorschläge der Architektinnen und Architekten werden auf der heutigen Stizung diskutiert
+  - Die Vorschläge der Architektinnen und Architekten stehen auf der heutigen Sitzung zur Diskussion
+- Die zu spät eingerichteten Entwürfe können nicht mehr berücksichtigt werden
+  - Die zu spät eingerichteten Entwürfe können keine Berücksichtigung mehr finden
+- Der Entwurf des Architektenteams aus Sachsen wurde heftig kritisiert
+  - Der Entwurf des Architektenteams aus Sachsen stieß auf heftige Kritik
+- Ende des Monats wird das Projekt abgeschlossen
+  - Ende des Monats kommt das Projekt zum Abschluss
+- Das Kunstwerk im Eingangsbereich wurde von allen beachtet
+  - Dem Kuntswerk im Eingansbereich schenkten alle große Beachtung
+- Einige der Künstler/-innen werden sicher schnell wieder vergessen
+  - Einige der Künstler/-innen geraten sicher schnell wieder in Vergessenheit
 
 ---
 ## Redemitteln
@@ -194,6 +212,8 @@ der Luftverschmutzung
 ![alt text](image-636.png)
 
 ![alt text](image-656.png)
+
+![alt text](image-662.png)
 
 C1 Schreiben - https://www.youtube.com/watch?v=I_ThwTQ58pE
 
