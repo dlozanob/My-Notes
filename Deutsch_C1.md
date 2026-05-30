@@ -193,6 +193,10 @@ der Luftverschmutzung
 
 ![alt text](image-657.png)
 
+## Ratschläge geben
+
+![alt text](image-663.png)
+
 ---
 
 ## Schriftliche und mündliche Übungen
@@ -214,6 +218,8 @@ der Luftverschmutzung
 ![alt text](image-656.png)
 
 ![alt text](image-662.png)
+
+![alt text](image-664.png)
 
 C1 Schreiben - https://www.youtube.com/watch?v=I_ThwTQ58pE
 
