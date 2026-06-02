@@ -389,7 +389,7 @@ Beispiele:
  	- Zum Erfahrungsaustausch besucht Petra medizinische Onlineforen
 - Bei der Suche nach medizinischen Tipps sollte man nicht auf der ersten Seite hängenbleiben, damit man verschiedene Meinungen zu einem Thema lesen kann
  	- Für eine größere Meinungsvielfalt sollte man nicht bei der Suche medizinischen Tipps auf der ersten Seite hängenbleiben
-
+- Es ist die rechtsverbindliche Verpflichtung der Europäischen Union zur Verwirklichung von Klimaneutralität und Klimaresilienz bis 2050 und zur Verringerung der Netto-Treibhausgasemissionen bis 2030 um mindestens 55 Prozent gegenüber dem Niveau von 1990 auf dem Weg zur Klimaneutralität
 
 ## Vermutungen ausdrücken
 

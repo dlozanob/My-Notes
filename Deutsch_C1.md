@@ -221,6 +221,10 @@ der Luftverschmutzung
 
 ![alt text](image-664.png)
 
+![alt text](image-665.png)
+
+![alt text](image-666.png)
+
 C1 Schreiben - https://www.youtube.com/watch?v=I_ThwTQ58pE
 
 ---
