@@ -21,7 +21,7 @@
 
 ---
 
-## Redepartikeln
+## Redepartikeln: Wiederholung
 
 ![](attachments/Pasted%20image%2020260426001303.png)
 
@@ -165,6 +165,26 @@ der Luftverschmutzung
   - Dem Kuntswerk im Eingansbereich schenkten alle große Beachtung
 - Einige der Künstler/-innen werden sicher schnell wieder vergessen
   - Einige der Künstler/-innen geraten sicher schnell wieder in Vergessenheit
+
+## Nomen mit präpositionaler Ergänzung: Wiederholung
+
+![alt text](image-667.png)
+
+- Der Dichter hat eine Vorliebe für Gärten im englischen Stil
+- Die anhaltende Finanzkrise bietet Anlass zur Sorge
+- Der Klimawandel wird Folgen für spätere Generationen haben
+- Viele kleine Firmen müssen einen Antrag auf Unterstützung bei den entsprechenden Stellen des Bundes stellen
+
+## Besonderheiten im Numerus
+
+![alt text](image-668.png)
+
+## Verben mit Präfixen: Wiederholung
+
+![alt text](image-669.png)
+
+
+
 
 ---
 ## Redemitteln

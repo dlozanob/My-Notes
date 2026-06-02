@@ -916,6 +916,7 @@ Dafür gibt es die folgende Präfixe:
   - um
   - wider
   - hinter
+  - wieder
 
 **Beispiele:**
 - *Umfahren*
