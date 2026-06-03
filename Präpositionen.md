@@ -52,6 +52,7 @@
 	- Temporären Zustand mit Zweck
     	- *Auf* Urlaub
     	- *Auf* der Suche nach
+  	- Er macht es *auf* seine Art
 
 - _Über_
 	- Wo?
@@ -69,13 +70,19 @@
 	- Sie Arbeitet *als* Kellnerin
 	- *Als* ich Kind war, wollte ich ein Superheld werden
 
-- _Aus_
-	- *Aus* der Presse wurde bekannt, dass sich der Fußballstar von seiner Frau trennen will
-	- Abstand
-    	- *Aus* der Nähe sehen
-    	- *Aus* der Ferne beobachten
 
 ## Akkusativ
+
+- *Bis*
+  - Der Zug fahrt *bis* München
+
+- *Entlang*
+  - Wir fahren die Küste *entlang*
+
+- *Für*
+  - Finalität
+    - Ich brauche das Geld *für* meine Miete
+  - Wir kommen nur *für* einen Tag
 
 - _Um_
 	- *Um* die Ecke
@@ -129,12 +136,24 @@
 		- *Zum* Artz gehen
 		- *Zum* Eingang gehen
 	- Etwas *zu* essen
+	- Ich gehe *zu* Fuß
 	- Welcher beruf passt *zu* ihr?
 	- Feste
 		- *Zum* Weihnachten
 	- Die Grenze *zu* die Niederlanden
 	- Wir schreiben nicht mehr so wie *zu* Zeiten der Aufklärung
 	- Von Land *zu* Land variieren
+
+- _Aus_
+	- *Aus* der Presse wurde bekannt, dass sich der Fußballstar von seiner Frau trennen will
+	- Abstand
+    	- *Aus* der Nähe sehen
+    	- *Aus* der Ferne beobachten
+  	- Kausal
+    	- Er heiratete sie *aus* Liebe
+
+- *Außer*
+  - Ich habe *außer* einer Scheibe Brot nichts gegessen
 
 - _Nach_
 	- Länder,  Kontinente, Städte
@@ -168,6 +187,9 @@
 	- Numerisch begrenzter Bereich
 		- *Zwischen* 15 und 29 Jahren
 
+- *Entgegen*
+  - *Entgegen* den Erwartungen verlor der Boxer den Kampf
+
 - *Gegenüber*
   - Sich verhalten
     - Beim Sport können Jugendliche lernen, sich anderen *gegenüber* fair zu verhalten
@@ -183,6 +205,7 @@
     - Diese Lösung hat Vorteile *gegenüber* Alternativen
   - Räumlich
     - Die Apotheke liegt *gegenüber* der Schule
+    - Die Apotheke liegt der Schule *gegenüber*
 	- Ich saß ihm *gegenüber*
 
 ---

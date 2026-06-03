@@ -25,6 +25,10 @@
 
 ![](attachments/Pasted%20image%2020260426001303.png)
 
+## Artikel: Wiederholung
+
+![alt text](image-670.png)
+
 ## Adjektive aus Verb + Präposition
 
 - Die Studierenden sollten anhand von fotografierten Gesichtsausdrücken die *dazugehörige Emotion* ermitteln
@@ -61,6 +65,8 @@
 
 ![alt text](image-628.png)
 
+![alt text](image-671.png)
+
 ## Vermutungen ausdrücken: Wiederholung
 
 ![](attachments/Pasted%20image%2020260427032323.png)
@@ -95,6 +101,8 @@
 
 ![alt text](image-639.png)
 
+![alt text](image-673.png)
+
 - Nach Aussagen des Vorstandsvorsitzenden sei die Dividendenpolitik langfristig angelegt
 - Der Vorstandsvorsitzende berichtete außerdem, dass sich die gute Entwicklung der letzten Jahre auch in diesem Geschäftsjahr fortsetze
 - Auch in anderen Bereichen hätten sich Anzeichen für Fortschritte gezeigt, zum Beispiel bei der Bekämpfung
@@ -128,7 +136,9 @@ der Luftverschmutzung
 - Er konnte sein Können noch nicht unter Beweis stellen, *weil eine Gelegenheit fazu fehlte*
   - Er konnte sein Können aus Mangel an / mangels Gelegenheit noch nicht unter Beweis stellen
 
-## Passiv und Passiversatzformen: Wiederholung
+## Passiv und Passiversatzformen
+
+![alt text](image-674.png)
 
 - Leons Hemd ist total zerknittert
   - Das Hemd hätte gebügelt werden müssen
@@ -145,6 +155,8 @@ der Luftverschmutzung
   - Mir wurde auf mein Schreiben von der Behörde nicht geantwortet
 - Viele Firmen werben noch immer in Kindersendungen für Süßigkeiten
   - Es wird von vielen Firmen noch immer in Kindersendungen für Süßigkeiten geworben
+
+![alt text](image-672.png)
 
 ![alt text](image-660.png)
 ![alt text](image-661.png)
@@ -183,7 +195,23 @@ der Luftverschmutzung
 
 ![alt text](image-669.png)
 
-
+*Einige untrennbare Verben:*
+- Hinterfragen
+- Hintergehen
+- Überweisen
+- Übersetzen
+  - Bedeutung aus einer Sprache ins andere übertragen
+- Überspringen
+- Überhören
+- Unterstellen
+  - Jmd. einen Vorwurf machen
+- Umfahren
+  - Etw. am Rand vorbeifahren
+- Durchsuchen
+- Durchschauen
+- Wiederholen
+- Widersprechen
+- Widerrufen
 
 
 ---
