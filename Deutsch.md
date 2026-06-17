@@ -28,6 +28,11 @@
 - https://dhkedu.com/
 - https://www.deutschakademie.de/online-deutschkurs/english
 
+## Prüfungsvorbereitung
+
+- [Goethe-Zertifikat C1](Goethe_Zertifikat_C1.md)
+
+
 
 
 
