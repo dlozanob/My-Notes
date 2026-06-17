@@ -67,6 +67,24 @@
 
 ![alt text](image-671.png)
 
+Folgende Verben sollen mit der klassichen Konjunktiv-II-Form verwendet werden, um ein gehobenes Ausdrück zu erzielen:
+
+- gehen → ginge
+- kommen → käme
+- finden → fände
+- geben → gäbe
+- sehen → sähe
+- nehmen → nähme
+- stehen → stünde
+- bleiben → bliebe
+- fahren → führe
+- tragen → trüge
+- sprechen → spräche
+- treffen → träfe
+- beginnen → begänne
+- wissen → wüsste
+
+
 ## Vermutungen ausdrücken: Wiederholung
 
 ![](attachments/Pasted%20image%2020260427032323.png)
