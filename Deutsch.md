@@ -31,8 +31,3 @@
 ## Prüfungsvorbereitung
 
 - [Goethe-Zertifikat C1](Goethe_Zertifikat_C1.md)
-
-
-
-
-
