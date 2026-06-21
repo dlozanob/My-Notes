@@ -231,6 +231,36 @@ der Luftverschmutzung
 - Widersprechen
 - Widerrufen
 
+## Partizipialsätze
+
+![alt text](image-675.png)
+
+*Relativsatz:* Martin, der aus dem Urlaub zurückgekehrt war, erzählte seinen Freunden von der Reise
+
+*Adverbialsatz:* Als Martin aus dem Urlaub zurückgekehrt war, erzählte er seinen Freunden von der Reise
+
+*Partizipialsatz:* Aus dem Urlaub zurückgekehrt(,) erzählte Martin seinen Freunden von der Reise
+
+>[!Note]
+>Partizipialsätze werden hauptsächlich in der Schriftsprache verwendet
+
+*Formen:*
+- Verkürzt Relativsatz
+  - Aus dem Urlaub zurückgekehrt, erzählte Martin seinen Freunden von der Reise
+- Bleibt die Subjunktion erhalten
+  - *Obwohl* schon oft ausprobiert, funktionierte das Gerät bei der Vorführung nicht
+- Feste Wendungen
+  - Das Experiment, *kurz gesagt*, ist gescheitert
+- Partzip I von haben und sein weglassen
+  - Der Professor betrat, sein Manuskript in der Hand, das Podium
+
+*Beispiele:*
+- Das Vorhaben wird, wenn man es grob schätzt, 50000 Euro kosten
+  - Das Vorhaben wird, grob geschätzt, 50000 Euro kosten
+- Die Maßnahmen sind, wenn man es langfristig sieht, nicht effektiv und wirkungsvoll genug
+  - Die Maßnahmen sind, langfristig gesehen, nicht effektiv und wirkungsvoll genug
+- Obwohl er gerade geschult wurde, unterlaufen dem Projektleiter doch noch immer grobe Fehler
+  - Obwohl gerade geschult, unterlaufen dem Projektleiter doch noch immer grobe Fehler
 
 ---
 ## Redemitteln

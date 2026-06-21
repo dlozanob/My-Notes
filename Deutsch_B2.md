@@ -818,7 +818,7 @@ Die normale Reihenfolge laut:
  	- Meine Freunde _werden_ um diese Uhrzeit schon _angerufen haben_
  	- Ich _werde_ morgen um 8:00 Uhr _angekommen sein_
 - _Vermutungen in der Vergangenheit_
- 	- Er _wird_ kran _gewesen sein_
+ 	- Er _wird_ krank _gewesen sein_
  	- Er _wird_ lieber an die großen Demonstration in Berlin _teilgenommen haben_
  	- Er _wird_ mit dem Konferenzprogramm nicht einverstanden _gewesen sein_
  	- Er _wird_ ein wichtiges Gespräch mit dem Verkehrsminister _gehabt haben_

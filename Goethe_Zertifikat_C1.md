@@ -89,7 +89,7 @@
   - Unter der Voraussetzung, dass
   - Falls nicht (= sonst, präziser)
   - Es sei denn, (= außer wenn)
-  - Sobald (hast du indirekt, aber essentiell!)
+  - Sobald
   - Kaum, dass (gehoben!)
   - Im Anschluss daran
   - Daraufhin (= als Folge)
