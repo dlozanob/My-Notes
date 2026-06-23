@@ -66,7 +66,6 @@
 
 - *Konjunktionen und Redewendungen*
   - Zunächst
-  - Nicht zuletzt
   - Zwar ... jedoch ...
   - Eher ... als ...
   - Darüber hinaus (= außerdem, aber formeller) 
