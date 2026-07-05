@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -268,10 +268,11 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "51734507fa85e10b",
+  "active": "bc1fccc066840c04",
   "lastOpenFiles": [
-    "Deutsch_A1.md",
+    "Git commands.md",
     "Deutsch_B2.md",
+    "Deutsch_A1.md",
     "Deutsch_A2.md",
     "Deutsch_C1.md",
     "Präpositionen.md",
@@ -295,7 +296,6 @@
     "Management/9B498700",
     "Management/70148700",
     "Management/A7228700",
-    "Git commands.md",
     "attachments/Pasted image 20260420024842.png",
     "attachments/Pasted image 20260420024708.png",
     "Deutsch.md",
