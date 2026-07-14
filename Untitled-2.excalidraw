@@ -4766,8 +4766,8 @@
           -4.622212377930218
         ],
         [
-          -25.904162276863012,
-          -3.707656382571205
+          -25.90416227686301,
+          -3.7076563825712068
         ],
         [
           -27.80742626374549,
@@ -7321,7 +7321,7 @@
   "appState": {
     "gridSize": 20,
     "gridStep": 5,
-    "gridModeEnabled": false,
+    "gridModeEnabled": true,
     "viewBackgroundColor": "#ffffff"
   },
   "files": {
