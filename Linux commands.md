@@ -195,7 +195,7 @@ done
 - Check all groups: `cut -d: -f1 /etc/group`
 - Stop all processes from a folder: `lsof +D <path> | awk '{print $2}' | sort | uniq | xargs kill -9`
 - Stop all processes from an application: `ps -fu $USER | grep -E "<app1>|<app2>" | grep -v grep | awk '{print $2}' | xargs -r kill -9`
-- Backup folder: `tar -cvzf certs-backup-$(date +%Y-%m-%d_%H-%M-%S).tar.gz <folder_path>`
+- Backup folder: `tar -cvzf <folder_name>-$(date +%Y-%m-%d_%H-%M-%S).tar.gz <folder_path>`
 - Check port status: `netstat -tuln | grep <port>`
 
 
