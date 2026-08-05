@@ -11,7 +11,7 @@
 - [Machines Catalog](https://machineryline.com.co)
 - [[Power BI]]
 - [[Stellar+Rust]]
-
+- [[Windows commands]]
 
 ## English C1 sources
 
@@ -70,18 +70,3 @@
 >1. *Enhace CV* : Share Link > Go to the public link > Download
 >2. *Resume.io* : Go to myTools folder
 ---
-
-
-## CMD & Windows
-
-- Command to BIOS: `shutdown /r /fw /t 1`
-
-- Startup/Shutdown Script Automation
-	1. Win + R
-	2. gpedit.msc
-	3. Computer Configuration > Windows Settings > Scripts (Startup/Shutdown)
-	4. Double click Startup/Shutdown
-	5. Add Script
-	6. Browse Batch Script
-
-
