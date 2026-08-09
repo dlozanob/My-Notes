@@ -13,7 +13,7 @@
 - [[Stellar+Rust]]
 - [[Windows commands]]
 
-## English C1 sources
+## English C1 Sources
 
 - [Main Course](https://alison.com/)
 - [Write & Improve](https://writeandimprove.com/workbooks#/memberships/e19f68f2-8cbf-4261-86ea-0de3e91127f8/workbooks)
@@ -58,15 +58,24 @@
 - https://ja-bots.com
 - [[https://torniland.com]]
 
-## Resumes
+## CV Tools
 
-- [Enhance CV](https://app.enhancv.com) - **MAIN**
-- [Resume.io](https://resume.io)
-- [EuroPass](https://europa.eu/europass/eportfolio/screen/cv-editor?lang=en)
-
+- Generic
+	- [Enhance CV](https://app.enhancv.com)
+	- [Resume.io](https://resume.io)
+	- [EuroPass](https://europa.eu/europass/eportfolio/screen/cv-editor?lang=en)
+- Mechatronics Applications
+	- [Qarera's Engineering Graduate Lebenslauf]()
+- Technical Consulting Applications
+	- [TalentVP](https://talentvp.com/de/cv-builder/examples) – **Current**
+	- [CVWerk](cvwerk.com) – Only if paying for premium designs
 
 >[!Note]
 >Downloading CV's:
 >1. *Enhace CV* : Share Link > Go to the public link > Download
 >2. *Resume.io* : Go to myTools folder
 ---
+
+>[!Note]
+> [Best CV Makers for the German Job Market](https://talentvp.com/en/blog/best-cv-builder-germany?utm_source=copilot.com)
+
