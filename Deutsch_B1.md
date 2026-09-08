@@ -101,7 +101,7 @@
 - Ich habe Lust, heute Abend _fernzusehen_
 - Peter hat vergessen, die Hausaufgabe _zu_ machen
 - Wir haben vor, im Dezember nach Deutschland _zu_ reisen
-- Mir ist wichtig, jeden Tag sport machen _zu_ können
+- Mir ist wichtig, jeden Tag Sport machen _zu_ können
 - Ich hoffe, die Prüfung _zu_ bestehen
 
 
@@ -202,7 +202,7 @@
 
 
 - _Partizip I_
-	- Die _kochenende_ Suppe
+	- Die _kochende_ Suppe
 	- Die _spielenden_ Kinder
 		- Das sind Kinder, die gerade spielen
 	- Ein _überzeugendes_ Thema
@@ -214,7 +214,7 @@
 
 >[!Notiz]
 >- Partizip I: Aktiv und gleichzeitig
->- Man muss die adjektives dekliniert
+>- Man muss die Adjektive deklinieren
 
 
 ## Plusquamperfekt
@@ -254,7 +254,7 @@
 
 - Timo, dessen Bruder Personalberater ist, ist Tischler
 - Ben, dessen Schwestern Kim und Monika sind, kommt aus den USA
-- Kim, deren Onkel Mark lebt in Deutschland, kommt aus Malasya
+- Kim, deren Onkel Mark in Deutschland lebt, kommt aus Malasya
 
 
 ## Doppelkonjuktionen

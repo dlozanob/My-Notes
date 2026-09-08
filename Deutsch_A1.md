@@ -508,6 +508,38 @@ Wegbeschreibung:
 >[!Notiz]
 >Im Dativ, man _n_ am Ende des Substantivs hinzufügen muss, außer die mit _s_ oder _n_ enden
 
+# Derselbe / Dieselbe / Dasselbe
+
+derselbe = genau die gleiche Person oder Sache
+
+- Beispiel:
+	- Ich lese ein Buch.
+	- Du liest dasselbe Buch.
+
+Deklination:
+|Kasus|	Maskulin|
+|-|-|
+|Nom.|	derselbe Mann|
+|Akk.|	denselben Mann|
+|Dat.|	demselben Mann|
+|Gen.|	desselben Mannes|
+
+|Kasus|	Feminin|
+|-|-|
+|Nom.|	dieselbe Frau|
+|Akk.|	dieselbe Frau|
+|Dat.|	derselben Frau|
+|Gen.|	derselben Frau|
+
+|Kasus|	Neutral|
+|-|-|
+|Nom.|	dasselbe Kind|
+|Akk.|	dasselbe Kind|
+|Dat.|	demselben Kind|
+|Gen.|	desselben Kindes|
+
+
+
 
 ## Adjektivdeklination
 

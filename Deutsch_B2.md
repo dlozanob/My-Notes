@@ -121,25 +121,37 @@ Man kann Nomen aus Verben bilden.
 
 - **Zeit**
   - Irgendwann
+	- Irgendwann möchte ich ein Jahr in Deutschland leben
   - Nie
+	- Ich trinke nie Kaffee am Abend
   - Niemals
-  - Nirgendwann
+	- Ich würde niemals meine Freunde belügen
 - **Dinge**
   - Irgendwas
+	- Ich habe Hunger. Hast du irgendwas zu essen?
   - Irgendein
     - Heute Mittag habe ich schnell _irgendein_ Brötchen gegessen, weil ich nicht viel Hunger hatte
   - Etwas
   - Eins
+	- Von den drei T-Shirts gefällt mir eins besonders gut
   - Nichts
   - Keins
+	- Hast du noch Äpfel? Nein, ich habe keins mehr
 - **Orte**
   - Irgendwo
+	- Mein Handy liegt irgendwo im Wohnzimmer
   - Irgendwoher
+	- Ich kenne diese Musik irgendwoher
   - Irgendwohin
+	- Am Wochenende möchte ich irgendwohin fahren
   - Nirgendwo
+	- Ich finde meine Schlüssel nirgendwo
   - Nirgends
+	- So gutes Essen gibt es nirgends
   - Nirgendwoher
+	- Der Lärm kam scheinbar nirgendwoher
   - Nirgendwohin
+	- Ohne Geld können wir heute nirgendwohin gehen
 
 
 ## Konsekutivangaben
@@ -468,7 +480,7 @@ Beispiele:
 - Nächste Woche finden Schulungen für _Lehrende_ zur Verbesserung der medialen Kompetenzen statt
 - Die meisten _Angestellten_ haben eine Kündigungsfrist von sechs Wochen
 - _Beamte_ arbeiten im öffentlichen Dienst
-- Bei der Mitarbeiterführung können _Vorgesetzter_ viele Fehler machen
+- Bei der Mitarbeiterführung können _Vorgesetzte_ viele Fehler machen
 - Hier finden Sie Angebote für Kinder und _Jugendliche_
 
 
