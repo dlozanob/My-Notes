@@ -115,6 +115,13 @@ Folgende Verben sollen mit der klassichen Konjunktiv-II-Form verwendet werden, u
 ![alt text](image-634.png)
 ![alt text](image-635.png)
 
+- **Solche**
+  - Falsch
+    - Mit solchem bemerkenswerten Kandidaten würde ich sofort zusammenarbeiten.
+  - Richtig
+    - Mit **einem** solchen bemerkenswerten Kandidaten würde ich sofort zusammenarbeiten.
+
+
 ## Indirekte Rede: Wiederholung
 
 ![alt text](image-639.png)
