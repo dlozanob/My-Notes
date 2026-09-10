@@ -860,7 +860,7 @@ Dativobjekt → Temporal → Kausal → Modal → Lokal → Akkusativobjekt
 - Schon als Kind hatte Julius ein großes Interesse _an_ der Natur
 - Im letzten Jahr hatte er die Gelegenheit _zu_ einem Praktikum in Kanada
 - Es gibt einen Bedarf _an_ gut ausgebildeten Naturschützern
-- Experten haben kiene Zweifel _an_ der Existenz des Klimawandels
+- Experten haben keine Zweifel _an_ der Existenz des Klimawandels
 - Gleichzeitig haben sie Hoffnung _auf_ eine Verbesserung der Situation
 
 
@@ -942,7 +942,7 @@ Dafür gibt es die folgende Präfixe:
 - *Umfahren*
 	- Etwas vermeiden, einen Umweg machen
 		- Wir *umfahren* die Baustelle
-	  - Etwas anfahren, niederfahren
+	- Etwas anfahren, niederfahren
 		- Er hat das Verkehrsschild *umgefahren*
 - *Übersetzen*
 	- Mit einem Verkehrsmittel über etwas fahren
@@ -952,7 +952,7 @@ Dafür gibt es die folgende Präfixe:
 - *Durchlaufen*
 	- Zu Fuß durch etwas gehen
 	    - Ich *laufe* den Park *durch*
-	  - Einen Prozess vollständig absolvieren
+	- Einen Prozess vollständig absolvieren
 	    - Er hat eine harte Ausbildung *durchlaufen*
 - *Unterstellen*
 	- Etwas an einen geschützen Ort bringen

@@ -29,8 +29,6 @@
 
 ![alt text](image-670.png)
 
-### Derselbe / Dieselbe / Dasselbe
-
 derselbe = genau die gleiche Person oder Sache
 
 - Beispiel:
@@ -94,6 +92,12 @@ Deklination:
 ## Konjunktiv II: Wiederholung
 
 ![alt text](image-628.png)
+
+Wünsche ausdrücken:
+- Hätte ich doch mehr Zeit!
+- Wäre ich doch früher gekommen!
+- Könnte ich doch fließend Deutsch sprechen!
+- Müsste ich doch nicht so viel arbeiten!
 
 ![alt text](image-671.png)
 
@@ -182,13 +186,13 @@ der Luftverschmutzung
   - Du hättest deine Finanzen mal vor dem Kauf einer Eigentumswohnung überprüfen sollen
 - Die Firma muss ihre Umsätze steigern, *damit alle Arbeitsplätze erhalten bleiben können*
   - Die Firma muss ihre Umsätze zum / für den Erhalt aller Arbeitsplätze steigern
-- *Soweit ich informiert bin*, beginnt das nächste Semester erst Anfag Oktober
-  - Nach meiner Information, beginnt das nächste Semester erst Anfag Oktober
+- *Soweit ich informiert bin*, beginnt das nächste Semester erst Anfang Oktober
+  - Nach meiner Information, beginnt das nächste Semester erst Anfang Oktober
 - Ich hatte genügend Geld bei mir, *was ein großes Glück für mich war*
   - Ich hatte zum Glück genügend Geld bei mir
 - *Obwohl die Regierung Maßnahmen ergriff*, hat sich die Lage noch nicht wesentlich verbessert
   - *Trozt der Ergreifung von Maßnahmen durch die Regierung*, hat sich die Lage noch nicht wesentlich verbessert
-- Er konnte sein Können noch nicht unter Beweis stellen, *weil eine Gelegenheit fazu fehlte*
+- Er konnte sein Können noch nicht unter Beweis stellen, *weil eine Gelegenheit dazu fehlte*
   - Er konnte sein Können aus Mangel an / mangels Gelegenheit noch nicht unter Beweis stellen
 
 ## Passiv und Passiversatzformen
