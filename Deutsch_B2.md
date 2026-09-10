@@ -586,6 +586,14 @@ Die normale Reihenfolge laut:
 > 3. Modal und instrumental (wie? mit wem? womit?)
 > 4. Lokal (wo? wohin?)
 
+Die typische Reihenfolge lautet:
+
+Dativobjekt → Temporal → Kausal → Modal → Lokal → Akkusativobjekt
+
+**Beispiel**:
+- Der Minister wird dem Präsidenten morgen persönlich die Auszeichnung überreichen
+
+
 **Beispiele:**
 
 - Vincent wohnt seit zwei Jahren, aus Kostengründen, mit seinen Kommilitonen in einem Zimmer im Studentenwohnheim
@@ -607,7 +615,7 @@ Die normale Reihenfolge laut:
 > [!Note]
 > Wichtig zu achten ist, dass tekamolo keine absolute Regel ist, als man kann in den Beispiele merken (TE-KA-MO-LO gilt nur, solange keine Mehrdeutigkeit entsteht).
 >
-> Sieht dir die hervohebenen Abschnitte der Sätze an, die Regel gilt nur da
+> Sieh dir die hervohebenen Abschnitte der Sätze an, die Regel gilt nur da
 
 **Einige Hakenfälle:**
 
@@ -654,7 +662,7 @@ Die normale Reihenfolge laut:
 - Das Smartphone kann _durch_ das Heruntaladen der App mit einer Schadsoftware infiziert werden
 - Auch kosten können _durch_ den Drohneneinsatz reduziert werden
 - Mit dem GPS-Sender werden die Tiere _von_ ihren Besitzern überwacht
-- Die Firma wurde 2016 _von_ zwei Brüdern gegrünndet
+- Die Firma wurde 2016 _von_ zwei Brüdern gegründet
 - Das Projekt wurde mit 100 000 Euro _von_ der Universität unterstützt
 
 
@@ -796,7 +804,7 @@ Die normale Reihenfolge laut:
 **Beispiele:**
 
 - Mir ist kalt
-- Das kann dir doch nict gleichgültig sein!
+- Das kann dir doch nicht gleichgültig sein!
 
 
 ## Untersuchungsergebnisse wiedergeben

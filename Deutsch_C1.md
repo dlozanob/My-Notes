@@ -29,6 +29,36 @@
 
 ![alt text](image-670.png)
 
+### Derselbe / Dieselbe / Dasselbe
+
+derselbe = genau die gleiche Person oder Sache
+
+- Beispiel:
+	- Ich lese ein Buch.
+	- Du liest dasselbe Buch.
+
+Deklination:
+|Kasus|	Maskulin|
+|-|-|
+|Nom.|	derselbe Mann|
+|Akk.|	denselben Mann|
+|Dat.|	demselben Mann|
+|Gen.|	desselben Mannes|
+
+|Kasus|	Feminin|
+|-|-|
+|Nom.|	dieselbe Frau|
+|Akk.|	dieselbe Frau|
+|Dat.|	derselben Frau|
+|Gen.|	derselben Frau|
+
+|Kasus|	Neutral|
+|-|-|
+|Nom.|	dasselbe Kind|
+|Akk.|	dasselbe Kind|
+|Dat.|	demselben Kind|
+|Gen.|	desselben Kindes|
+
 ## Adjektive aus Verb + Präposition
 
 - Die Studierenden sollten anhand von fotografierten Gesichtsausdrücken die *dazugehörige Emotion* ermitteln
