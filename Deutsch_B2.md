@@ -963,7 +963,7 @@ Dafür gibt es die folgende Präfixe:
 	- Unabsichtlich nicht zuhören
 		- Das muss ich *überhört* haben
 
-## Modifizierenden Verben
+## Modifizierenden Verben / Modalitätsverben
 
 - *Brauchen*
   - Du *brauchst* mich nicht zu besuchen
@@ -980,6 +980,20 @@ Dafür gibt es die folgende Präfixe:
 - *Pflegen*
   - Paul *pflegt* jeden Tag im Restaurant zu essen
     - Paul isst normalerweise im Restaurant
-- *Drohnen*
+- *Drohen*
   - Das Haus *droht* einzustürzen
     - Wahrscheinlich stürzt das Haus ein
+- *Versprechen*
+	- Die Strategie verspricht erfolgreich zu werden
+- *Verstehen*
+	- Der Teilnehmenden *verstehen* sich angemessen zu verhalten
+- *Vermögen*
+	- Das Gesetz *vermag* keine vollständige Sicherheit zu gewährleisten.
+- *Belieben* (Sehr gehoben, fast schon altmodisch)
+	- Wie Sie zu belieben geruhen.
+- *Suchen*
+	- Die Regierung sucht die Inflation einzudämmen
+		- Sie versucht sie einzudämmen
+- *Trachten*
+	- Das Unternehmen trachtet danach, seine Marktposition auszubauen.
+		- Das Unternehmen strebt danach
