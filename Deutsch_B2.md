@@ -997,3 +997,57 @@ Dafür gibt es die folgende Präfixe:
 - *Trachten*
 	- Das Unternehmen trachtet danach, seine Marktposition auszubauen.
 		- Das Unternehmen strebt danach
+
+## Zweiteilige Präpositionen
+
+Es handelt sich um Präpositionen, die aus zwei Teilen bestehen: Die Bedeutung entsteht durch die Kombination beider Teile.
+
+### Dativ vor dem Nomen
+
+- *Aufgrund von*
+  - Aufgrund von Bauarbeiten ist die Straße gesperrt.  
+- *Bis zu*
+  - Die Waren sind bis zu 20% verbilligt. 
+- *Bis vor*
+  - Bis vor 5 Tagen war ich noch krank. 
+- *Gegenüber von*
+  - Gegenüber von der Schule befindet sich eine Bushaltestelle.
+- *Inmitten von*
+  - Inmitten von der Stadt habe ich ihn getroffen.
+- *Innerhalb von*
+  - Innerhalb von zwei Minuten war alles vorbei. 
+- *Seit über*
+  - Seit über zwei Jahren habe ich ihn nicht mehr gesehen. 
+- *Unweit von*
+  - Unweit von dieser Straße findest du das Geschäft.
+- *Zugunsten von*
+  - Zugunsten von seinen Geschwister verzichtete er auf sein Erbe.
+
+> [!Note]
+>
+> Allgemein Genitivpräpositionen + von
+
+### Akkusativ vor dem Nomen
+
+- *Bis an*
+  - Er geht im Sport immer bis an seine Grenzen.
+- *Bis auf*
+  - Bis auf die letzte Aufgabe habe ich alles erledigt. 
+- *Bis gegen*
+  - Sie sollte bis gegen zum Abend hier sein.
+- *Bis in*
+  - Die Ware wird bis ins Haus geliefert. 
+-*Bis über*
+  - Wir sind bis über beide Ohren verschuldet.
+- *Bis um*
+  - Bis um 18 Uhr sollten wir die Vertrag fertiggestellt haben.
+- *Bis unter*
+  - Sie bohrten bis unter die Kellerdecke.
+
+### Getrennte zweiteilige Präpositionen
+
+- *Von ... an / von ... ab*
+	- Bedeutung: Ab einen bestimmten Zeitpunkt
+	- Von Montag an werde ich regelmäßig Sport treiben
+	- Von diesem Zeitpunkt an änderte sich alles
+	- Von morgen ab gelten die neuen Regelungen

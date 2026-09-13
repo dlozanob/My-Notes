@@ -472,61 +472,201 @@ Sie fügen etwas hinzu.
 
 ## Umschreibungen für Modalverben
 
-Extrem häufig in formellen E-Mails.
-Statt:
-Kann ich...?
-Verwendet man:
-Wäre es möglich ...
-Ich würde gerne ...
-Gestatten Sie mir ...
-Ich wäre Ihnen dankbar, wenn ...
-Es besteht die Möglichkeit ...
-Statt:
-Sie müssen ...
-Schreibt man:
-Sie sind verpflichtet ...
-Es ist erforderlich ...
-Es gilt ...
-Es bedarf ...
+### Inhaltliche Umschreibungen von Modalverben
 
-## Zweiteilige Präpositionen
+**Umschreibunge für müssen:**
+- *Es gilt, ...*
+  - Es gilt, nachhaltige Lösungen zu finden
+  - Es gilt, die Interessen aller Beteiligten zu berücksichtigen.
+- *Es ist erforderlich, ...*
+  - Es ist erforderlich, weitere Daten zu erheben.
+  - Es ist erforderlich, die Risiken sorgfältig zu analysieren.
+- *Es bedarf*
+  - Es bedarf einer gründlichen Untersuchung
+  - Es bedarf weiterer Investitionen
+- *Verpflichten sein*
+  - Unternehmen sind verpflichtet, Datenschutzvorschriften einzuhalten.
+  - Arbeitgeber sind verpflichtet, Sicherheitsmaßnahmen zu treffen.
+- *zu + Infinitiv*
+  - Die Vorschriften sind einzuhalten.
+  - Die Daten sind zu schützen.
 
-*Auf* deinen Hinweis *hin* habe ich mich direkt zum C1-Kurs angemeldet
+**Umschreibungen für können:**
+- *In der Lage sein zu*
+  - Das Unternehmen ist in der Lage, seine Produktion zu steigern.
+  - Die Studierenden sind in der Lage, selbstständig zu arbeiten.
+- *Die Möglichkeit haben*
+  - Die Mitarbeitenden haben die Möglichkeit, im Homeoffice zu arbeiten.
+  - Die Teilnehmenden haben die Möglichkeit, Fragen zu stellen.
+- *Sich lassen*
+  - Das Problem lässt sich lösen.
+  - Die Ergebnisse lassen sich erklären.
+- *Vermögen*
+  - Die Maßnahme vermag die Situation zu verbessern.
+  - Das Gesetz vermag die Probleme nicht vollständig zu lösen.
 
-*Über* die Jahre *hinweg* habe ich mich immer mehr und mehr in die deutsche Sprache verliebt
+**Umschreibungen für dürfen:**
+- *Berechtigt sein*
+  - Die Kunden sind berechtigt, den Vertrag zu kündigen.
+  - Die Nutzer sind berechtigt, ihre Daten einzusehen.
+- *Es steht jmd. frei*
+  - Es steht Ihnen frei, den Vorschlag anzunehmen oder abzulehnen.
+  - Es steht den Mitgliedern frei, an der Veranstaltung teilzunehmen.
+- *Die Erlaubnis haben*
+  - Die Mitarbeitenden haben die Erlaubnis, von zu Hause aus zu arbeiten.
 
-Diese tauchen häufig auf.
-Beispiele:
-auf ... hin
-über ... hinweg
-von ... aus
-mit Blick auf
-im Hinblick auf
-Beispiel:
-Auf seinen Rat hin wechselte ich die Arbeitsstelle.
-Über die Jahre hinweg hat sich mein Deutsch verbessert.
+**Umschreibungen für wollen:**
+- *Beabsichtigen*
+  - Die Regierung beabsichtigt, neue Maßnahmen einzuführen.
+  - Das Unternehmen beabsichtigt, seine Marktposition auszubauen.
+- *Die Absicht haben*
+  - Das Unternehmen hat die Absicht, neue Märkte zu erschließen.
+- *Darauf abzielen*
+  - Die Kampagne zielt darauf ab, das Umweltbewusstsein zu stärken.
+  - Die Reform zielt darauf ab, soziale Ungleichheiten zu verringern.
+
+**Umschreibungen für sollen:**
+- *Vorgesehen sein*
+  - Die Einführung der Reform ist für nächstes Jahr vorgesehen.
+  - Weitere Investitionen sind vorgesehen.
+- *Dazu bestimmt sein*
+  - Die Maßnahmen sind dazu bestimmt, die Sicherheit zu erhöhen.
+  - Das Programm ist dazu bestimmt, junge Talente zu fördern.
+- *Beabsichtigt sein*
+  - Es ist beabsichtigt, die Regelungen zu vereinfachen.
+
+
+### Höflichkeitsumschreibungen von Modalverben
+
+**„Kann ich ...?“:**
+- *Wäre es möglich,*
+  - Wäre es möglich, einen Termin zu verschieben?
+- *Besteht die Möglichkeit?*
+  - Besteht die Möglichkeit, einen Termin zu verschieben?
+- *Dürfte ich*
+  - Dürfte ich um eine Terminverschiebung bitten?
+- *Gestatten Sie mir*
+  - Gestatten Sie mir die Frage, ob eine Terminverschiebung möglich wäre.
+
+**„Ich möchte ...“:**
+- *Ich würde gerne*
+  - Ich würde gerne einen Termin vereinbaren.
+- *Ich hätte gerne*
+  - Ich hätte gerne einen Termin vereinbart.
+- *Ich wäre daran interessiert*
+  - Ich wäre daran interessiert, einen Termin zu vereinbaren.
+- *Ich würde gerne*
+  - Ich würde Sie gerne um einen Termin bitten.
+
+**„Können Sie ...?“:*
+- *Wären Sie so freundlich*
+  - Wären Sie so freundlich, mir zu helfen?
+- *Ich wäre Ihnen dankbar, wenn*
+  - Ich wäre Ihnen dankbar, wenn Sie mir helfen könnten.
+- *Dürfte ich Sie bitten*
+  - Dürfte ich Sie bitten, mir zu helfen?
+- *Wäre es Ihnen möglich*
+  - Wäre es Ihnen möglich, mir zu helfen?
+
+**„Sie müssen ...“:*
+- *zu + Infinitiv*
+  - Das Formular ist auszufüllen.
+- *Bitte*  
+  - Bitte füllen Sie das Formular aus.
+- *Sie werden gebeten*  
+  - Sie werden gebeten, das Formular auszufüllen.
+- *Es wird darum gebeten*
+  - Es wird darum gebeten, das Formular auszufüllen.
+- *Etw. erforderlich sein*
+  - Das Ausfüllen des Formulars ist erforderlich.
+
+**„Sie sollen ...“:**
+- *Sie werden gebeten*
+  - Sie werden gebeten, die Unterlagen einzureichen.
+- *Infinitiv + zu*
+  - Die Unterlagen sind einzureichen.
+- *Vorgesehen sein*  
+  - Die Einreichung der Unterlagen ist vorgesehen.
+- *Es wird erwartet*
+  - Es wird erwartet, dass die Unterlagen eingereicht werden.
+
+
+## Getrennte zweiteilige Präpositionen
+
+- *Auf .. hin*
+  - Bedeutung: Aufgrund von / Als Reaktion auf / Infolge von
+  - Auf seinen Rat hin wechselte ich die Arbeitsstelle
+    - Aufgrund seines Rates wechselte ich die Arbeitsstelle
+  - Auf Ihren Hinweis hin haben wir den Fehler korrigiert
+  - Auf Anfrage hin wurden weitere Informationen bereitgestellt
+- *Über ... hinweg*
+  - Bedeutung: Während eines längeres Zeitraums / Durchgehendüber einen Zeitraum
+  - Über die Jahre hinweg hat sich mein Deutsch erheblich verbessert
+  - Über mehrere Generationen hinweg wurde das Wissen weitergegeben
+  - Über Jahrzehnten hinweg blieb die Region wirtschaftlich bedeutend
+- *Über ... hinaus*
+  - Bedeutung: Zusätzlich zu / Mehr als / Jenseits von
+  - Über die wirtschaftlichen Aspekte hinaus müssen auch ökologische Faktoren berücksichtigt werden
+  - Über seine fachlichen Kompetenzen hinaus verfügt er über ausgeprägte soziale Fähigkeiten
+  - Über den eigentlichen Unterricht hinaus bietet die Schule zahlreiche Aktivitäten an
+- *An ... vorbei*
+  - Bedeutung: An etw. vorbeigehen / Etw. ignorieren
+  - An dieser Tatsache kommt man nicht vorbei
+  - Die Diskussion geht an den eigentlichen Problemen vorbei
+- *Von ... aus*
+  - Bedeutung: Ausgangspunkt einer Handlung
+  - Von Berlin aus betreut das Unternehmen den gesamten deutschen Markt
+  - Von hier aus lassen sich alle Daten abrufen.
+  - Von seinem Büro aus koordinierte er das Projekt.
+  - Von diesem Standpunkt aus erscheint die Entscheidung nachvollziehbar  
+- *Um ... willen*
+  - Bedeutung: Wegen / Im interesse von
+  - Um des Friedens willen sollte ein Kompromisss gefunden werden
+  - Um der Kinder willen bleiben sie zusammen
+
+### Andere
+
+- *Mit Blick auf*
+  - Bedeutung: Hinsichtlich / Bezüglich / In Bezug auf
+  - Mit Blick auf die demografische Entwicklung sind Reformen erforderlich
+  - Mit Blick auf die aktuelle Situation erscheint Vorsicht angebracht
+- *Im Hinblick auf*
+  - Bedeutung: Fast identisch mit "mit Blick auf" dennoch etwas formeller
+  - Im Hinblick auf die Kosten sollten alternative Lösungen geprüft werden
+  - Im Hinblick auf die ZUkunftsfähigkeit des Unternehmens besteht Handlungsbedarf
+- *In Bezug auf*
+  - Bedeutung: Bezüglich / Hinsichtlich
+  - In Bezug auf Datenschutz bestehen weiterhin Unsicherheiten
+  - In Bezug auf die Umsetzung wurden keine Details gennant
+- *Im Zusammenhang mit*
+  - Bedeutung: Verbunden mit
+  - Im Zusammenhang mit dem Vorfall wurden mehrere Fragen aufgeworten
+  - In Zusammenhang mit der Studie wurden neue Erkentnisse gewonnen
+- *Im Rahmen + Gen / + von*
+  - Bedeutung: Als Teil von
+  - Im Rahmen des Projekts wurden zahlreiche Interviews durchgeführt
+  - Im Rahmen der Untersuchung wurden neue Daten erhoben
+
 
 ## Sprechende Präpositionen
 
+Der Name kommt daher, dass die Präposition selbst bereits eine Bedeutung trägt.
 
-Sehr fortgeschritten.
-Wichtige Vertreter:
-zugunsten
-zuliebe
-angesichts
-ungeachtet
-hinsichtlich
-betreffs
-diesseits
-jenseits
-Beispiele:
-Angesichts der Situation mussten wir handeln.
-Die Entscheidung fiel zugunsten des Kunden aus.
-Ihren Kindern zuliebe zog die Familie um.
+- Zugunsten
+- Zuliebe
+- Angesichts
+- Ungeachtet
+- Hinsichtlich
+- Betreffs
+- Diesseits
+- Jenseits
 
-Wir verbringen den Kindern *zuliebe* jeden Nachmittag auf dem Spielplatz
-
-Bei einem Familienrechtsstreit entscheiden die Richter oft *zugunsten* der Kinder
+**Beispiele:**
+- Angesichts der Situation mussten wir handeln.
+- Die Entscheidung fiel zugunsten des Kunden aus.
+- Ihren Kindern zuliebe zog die Familie um.
+- Wir verbringen den Kindern zuliebe jeden Nachmittag auf dem Spielplatz
+- Bei einem Familienrechtsstreit entscheiden die Richter oft zugunsten der Kinder
 
 ## Passiversatzformen
 
@@ -535,6 +675,8 @@ Passiv:
 Das Zertifikat wird überreicht.
 Passiversatz:
 Das Zertifikat erhält die Schülerin überreicht.
+erhalten + Partizip II
+bekommen + Partizip II
 Das Zertifikat ist zu überreichen.
 Das Zertifikat lässt sich leicht erstellen.
 Das Zertifikat gilt als erstellt.
