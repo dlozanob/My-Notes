@@ -253,6 +253,45 @@ der Luftverschmutzung
 ![alt text](image-660.png)
 ![alt text](image-661.png)
 
+**Pasiversatzformen mit modaler Nebenbedeutung:**
+- *Sein + zu + Infinitiv*
+- *Sich lassen + Infitiv*
+- *Sein + Adjektiv auf -bar / -lich*
+
+**Passiversatzformen ohne modale Nebenbedeutung:**
+- *Erhalten + Partizip II*
+  - Typisch in Verwaltungssprache
+  - Beispiele:
+      - Die Auszeichnung wird dem Studenten verliehen
+        - Der Student erhält die Auszeichnung verliehen
+      - Die Mitarbeiter erhielten neue Aufgaben übertragen
+      - Der Kunde erhielt die Unterlagen zugesandt
+      - Die Schülerin erhielt das Zertifikat überreicht
+- *Bekommen + Partizip II*
+  - Umgangssprachlicher als erhalten
+  - Beispiele:
+    - Er bekam die Dokumente zugeschikt
+    - Sie bekam eine neue Verantwortung übertragen
+    - Die Teilnehmer bekamen ihre Zertifikate ausgehändigt
+- *Kriegen + Partizip II*
+  - Sehr umganssprachlich
+  - Beispiele:
+    - Ich habedie Bilder geschickt gekriegt
+    - Er hat die Rechnung zugeschickt gekriegt
+
+**Weitere wichtige Formen:**
+- *Gelten als*
+  - Das Projekt gilt als abgeschlossen
+  - Die Maßnahme gilt als erfolgreich
+  - Die Untersuchung gilt als beendet
+- *Finden*
+  - Die Methode wird angewendet
+    - Die Methode findet Anwendung
+  - Das Verfahren findet Vervendung
+  - Die Ergebnisse finden Beachtung
+  - Der Vorschlag fand Zustimmung
+
+Weitere Beispiele:
 - Bei der Razzia wurden auch zehn Polizeihunde eingesetzt
   - Bei der Razzia waren auch zehn Polizeihunde im Einsatz
 - Die Qualität der Ware wird ständig kontrolliert
@@ -668,20 +707,6 @@ Der Name kommt daher, dass die Präposition selbst bereits eine Bedeutung trägt
 - Wir verbringen den Kindern zuliebe jeden Nachmittag auf dem Spielplatz
 - Bei einem Familienrechtsstreit entscheiden die Richter oft zugunsten der Kinder
 
-## Passiversatzformen
-
-Sehr häufig in formellen Texten.
-Passiv:
-Das Zertifikat wird überreicht.
-Passiversatz:
-Das Zertifikat erhält die Schülerin überreicht.
-erhalten + Partizip II
-bekommen + Partizip II
-Das Zertifikat ist zu überreichen.
-Das Zertifikat lässt sich leicht erstellen.
-Das Zertifikat gilt als erstellt.
-
-Die Schülerin *erhält* das Zertifikat *überreicht*
 
 ## Aktivische vs. passivische Nomen-Verb-Verbindungen
 Du kennst schon einige.

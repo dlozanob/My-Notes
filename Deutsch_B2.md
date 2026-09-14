@@ -218,7 +218,7 @@ Alternative _Passiversatzform_.
 >
 > - Der Blogger bekommt den Betrag bezahlt
 > - Ich habe die Kosten erstattet bekommen
-> Sie hat den Bonus ausgezahlt bekommen
+> - Sie hat den Bonus ausgezahlt bekommen
 
 
 ## Modaladverbien
