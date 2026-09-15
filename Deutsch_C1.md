@@ -190,10 +190,17 @@ Diese Konstruktion klingt deutlich gehobener als:
 ![alt text](image-635.png)
 
 - **Solche**
-  - Falsch
-    - Mit solchem bemerkenswerten Kandidaten würde ich sofort zusammenarbeiten.
-  - Richtig
+  - Mit solchem bemerkenswerten Kandidaten würde ich sofort zusammenarbeiten.
+  - Besser:
     - Mit **einem** solchen bemerkenswerten Kandidaten würde ich sofort zusammenarbeiten.
+
+Bei: **Manche, Solche, Welche, Sämtlich**.
+Sich eher für Typ A entschieden.
+
+- Manche roten Äpfel
+- Solche roten Äpfel
+- Welche roten Äpfel
+- Sämtliche roten Äpfel
 
 
 ## Indirekte Rede: Wiederholung
