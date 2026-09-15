@@ -57,6 +57,13 @@ Deklination:
 |Dat.|	demselben Kind|
 |Gen.|	desselben Kindes|
 
+|Kasus|	Plural|
+|-|-|
+|Nom.|	dieselben Frau|
+|Akk.|	dieselben Frau|
+|Dat.|	denselben Frau|
+|Gen.|	derselben Frau|
+
 ## Adjektive aus Verb + Präposition
 
 - Die Studierenden sollten anhand von fotografierten Gesichtsausdrücken die *dazugehörige Emotion* ermitteln
@@ -381,7 +388,6 @@ Weitere Beispiele:
   - Gut vorbereitet, scheiterte die Präsentation dennoch
   - Die an dem Projekt beiteiligten Mitarbeiter erhalten eine Prämie
 
----
 
 ## Fokuspartikeln
 
@@ -709,35 +715,118 @@ Der Name kommt daher, dass die Präposition selbst bereits eine Bedeutung trägt
 
 
 ## Aktivische vs. passivische Nomen-Verb-Verbindungen
-Du kennst schon einige.
-Aktivisch:
-eine Entscheidung treffen
-Maßnahmen ergreifen
-Kritik üben
-Passivisch:
-zur Entscheidung kommen
-in Vergessenheit geraten
-außer Kontrolle geraten
-aus dem Konzept geraten
-Dazu könnte man problemlos 100 weitere Verbindungen lernen.
 
-aus dem Konzept bringen = jmd. verwirren
-aus dem Konzept geraten
+### Aktivische Nomen-Verb-Verbindungen
 
-## Kommasetzung
+Hier wird jemand als Handelnder dargestellt.
 
-ICH BEREUE(,) ES NICHT EHER GETAN ZU HABEN.
+**Beispiele:**
+- Eine Entscheidung treffen
+- Maßnahmen ergreifen
+- Kritik üben
+- Verantwortung übernehmen
+- Einfluss ausüben
+- ZUstimmung finden
+
+### Passivische Nomen-Verb-Verbindungen
+
+Hier steht nicht die handelnde Person, sondern der Zustand oder die Entwicklung im Mittelpunkt.
+
+**Beispiele:**
+- Zur Entscheidung kommen
+- In Vergessenheit geraten
+- Außer Kontrolle geraten
+- Aus dem Konzept geraten
+- Unter Druck geraten
+- Ins Stocken geraten
+- In Schwierigkeiten geraten
+
+
+## Fakultative Kommasetzung
+
+Bei einfachen Infinitivgruppen.
+
+**Beispiele:**
+- Er versprach(,) pünktlich zu kommen.
+- Sie hoffte(,) die Prüfung zu bestehen.
+- Ich bereue(,) es nicht früher getan zu haben.
+- Er behauptete(,) alles verstanden zu haben.
+
+**Wo muss ein Komma stehen?**
+- Ich freue mich darauf dich wiederzusehen.
+  - Ich freue mich darauf, dich wiederzusehen.
+- Er versprach morgen zu kommen.
+  - Er versprach(,) morgen zu kommen.
+- Sie ging ohne sich zu verabschieden.
+  - Sie ging, ohne sich zu verabschieden.
+- Es ist unmöglich diese Aufgabe allein zu lösen.
+  - Es ist unmöglich, diese Aufgabe allein zu lösen.
+- Wir beschlossen das Projekt zu verschieben.
+  - Wir beschlossen(,) das Projekt zu verschieben.
+
 
 ## Umgangssprache
 
-Typische Beispiele:
-Willste?
-Haste?
-Kommste mit?
-'nen Kaffee
-läuft bei dir
+### Verschleifungen
 
-WILLSTE ‘NEN KAFFEE?
+Das ist die häufigste Art von Umgangssprache.
+
+- Willst du mitkommen?
+  - Willste mitkommen?
+- Hast du Zeit?
+  - Haste Zeit?
+- Kommst du mit?
+  - Kommste mit?
+- Kannst du mir helfen?
+  - Kannste mir helfen?
+- Musst du arbeiten?
+  - Musste arbeiten?
+
+### Verkürzte Artikel
+
+- Ich hätte gerne einen Kaffee.
+  - Ich hätte gern 'nen Kaffee.
+- Ich brauche eine Pause.
+  - Ich brauch 'ne Pause.
+- Das ist ein Problem.
+  - Das ist 'n Problem.
+
+### Verkürzte Verben
+
+- Ich habe keine Zeit
+  - Ich hab keine Zeit
+- Ich bin gleich da.
+  - Bin gleich da.
+- Ich gehe nach Hause
+  - Ich geh nach Hause
+
+### Typische umganssprachliche Ausdrücke
+
+- *Läuft bei dir*
+  - Bedeutung: Du bist erfolgreich
+  - Schon wieder befördert worden? Läuft bei dir?
+- *Passt schon / Alles gut*
+  - Bedeutung: Kein Problem / Schon in Ordnung
+- *Kein Ding*
+  - Bedeutung: Gern geschehen
+- *Na ja*
+  - Bedeutung: Eher nicht / Kommt darauf an
+
+### Umganssprachliche Satzanfänge
+
+- Also, ich weiß nicht.
+- Naja, so einfach ist das nicht.
+- Ach so, jetzt verstehe ich.
+- Mensch, das gibt's doch nicht!
+
+### Ersatzungen
+
+- Bekommen -> Kriegen
+- Nichts -> Nix
+- Einmal -> Mal
+- Schauen -> Gucken
+- Darauf -> Drauf / Darüber -> Drüber / Darin -> Drin
+- Hinaus/Heraus -> Raus
 
 
 ---
