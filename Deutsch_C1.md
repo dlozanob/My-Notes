@@ -733,7 +733,7 @@ Hier wird jemand als Handelnder dargestellt.
 - Kritik üben
 - Verantwortung übernehmen
 - Einfluss ausüben
-- ZUstimmung finden
+- Zustimmung finden
 
 ### Passivische Nomen-Verb-Verbindungen
 
