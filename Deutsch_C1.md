@@ -125,6 +125,11 @@ Folgende Verben sollen mit der klassichen Konjunktiv-II-Form verwendet werden, u
 - beginnen → begänne
 - wissen → wüsste
 - lassen → ließe
+- bleiben → bliebe
+
+**Beispiel:**
+- Wunsch und Ziel der Künstlerinnen ist es, dass die bedrohte Unterwasserwelt in Zukunft von den Emissionen der Menschen verschont bliebe
+
 
 ### Irrealer Konsekutivsatz
 
@@ -290,7 +295,7 @@ der Luftverschmutzung
 - *Kriegen + Partizip II*
   - Sehr umganssprachlich
   - Beispiele:
-    - Ich habedie Bilder geschickt gekriegt
+    - Ich habe die Bilder geschickt gekriegt
     - Er hat die Rechnung zugeschickt gekriegt
 
 **Weitere wichtige Formen:**
@@ -301,7 +306,7 @@ der Luftverschmutzung
 - *Finden*
   - Die Methode wird angewendet
     - Die Methode findet Anwendung
-  - Das Verfahren findet Vervendung
+  - Das Verfahren findet Verwendung
   - Die Ergebnisse finden Beachtung
   - Der Vorschlag fand Zustimmung
 
