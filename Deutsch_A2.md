@@ -216,6 +216,17 @@ Mit Ob-Sätzen kann man indirekte Ja/Nein Fragen bilden.
 	- Der Bus, auf den ich warte, hat verspätung
 	- Das Kind, mit dem ich spiele, ist mein Nachbar
 
+---
+
+- **Derer**:
+	- Die Sprachen, derer er mächtig ist
+	- Es gibt viele Probleme, derer man sich nicht bewusst ist
+	- Der Teil des Liedes, dessen ich mir bewusst bin.
+
+*derer = Genitivobjekt nach bestimmten Verben/Adjektiven*
+
+*Mächtig sein* verlangt genitiv.
+
 
 ## Als (Nebensatz)
 
