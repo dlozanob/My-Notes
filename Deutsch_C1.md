@@ -220,6 +220,23 @@ Sich eher für Typ A entschieden.
 der Luftverschmutzung
 - Durch den gestiegenen CO2-Preis in der EU sei vor allem die Kohleproduktion teurer geworden
 
+
+### Distanz ausdrücken
+
+In wissenschaftlichen und journalistischen Texten und journalistischen Texten wird häufig Partizip I genutzt, um Distanz zu einer Aussage auszudrücken.
+
+Der Konjunktiv I dient dazu, eine Behauptung darzustellen, ohne sie als eigene Position zu übernehmen. So wirken Behauptungen obketiver.
+
+**Beispiele:**
+- Aus diesen Überlegungen darf nun nicht gefolgert werden, dass diese Entwicklung fatal und das Englische als Wissenschaftssprache grundsätzlich abzulehnen sei
+- Es kann nicht behauptet werden, dass diese Methode die beste Lösung sei
+  - Neutraler als: „... die beste Lösung ist“
+- Daraus folgt nicht, dass alle neuen Technologien gefährlich seien
+  - Der Autor übernimmt die Aussage nicht selbst
+- Man sollte nicht annehmen, dass diese Ergebnisse endgültig seien
+  - Wissenschaftlicher und vorsichtiger als „endgültig sind“
+
+
 ## Imperativ: Wiederholung
 
 ![alt text](image-640.png)
