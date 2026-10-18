@@ -34,6 +34,7 @@
 	- _Da_ ich keine Lust habe, habe ich keine übungen gemacht
 - _Damit_
 	- Geh zum Arzt, _damit_ er dich untersuchen kann
+	- Eine Selbstverständlichkeit sind schon seit Jahren Behindertenparkplätze vor den Haupteingängen, damit die Studierenden im Rollstuhl keine weiten Wege zurückzulegen haben
 - _Dass_
 	- Gestern sagte der Präsident, _dass_ im nächsten Jahr alles besser wird
 - _Falls_
