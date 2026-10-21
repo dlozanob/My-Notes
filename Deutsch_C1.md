@@ -564,6 +564,9 @@ Sie fügen etwas hinzu.
 - *zu + Infinitiv*
   - Die Vorschriften sind einzuhalten.
   - Die Daten sind zu schützen.
+- *Haben + zu + Infinitiv*
+  - Die Teilnehmer haben pünktlich zu erscheinen
+  - Sie haben sich an den Kostenvoranschlag zu halten
 
 **Umschreibungen für können:**
 - *In der Lage sein zu*
