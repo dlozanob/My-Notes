@@ -567,6 +567,9 @@ Sie fügen etwas hinzu.
 - *Haben + zu + Infinitiv*
   - Die Teilnehmer haben pünktlich zu erscheinen
   - Sie haben sich an den Kostenvoranschlag zu halten
+- *Gehören + Partizip II*
+  - Dieses Gesetz gehört geändert
+  - Diese Regelung gehört abgeschafft
 
 **Umschreibungen für können:**
 - *In der Lage sein zu*
